@@ -1,13 +1,16 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Home from "./components/Home.jsx";
 import HowItWorks from "./components/HowItWorks.jsx";
 import Marketplace from "./components/Marketplace.jsx";
 import ForBusiness from "./components/ForBusiness.jsx";
 import SellCredits from "./components/SellCredits.jsx";
 import Login from "./components/Login.jsx";
+import Dashboard from "./components/Dashboard.jsx";
 import Btn from "./components/ui/Btn.jsx";
 import Logo from "./components/ui/Logo.jsx";
 import { CONTACT, BRAND } from "./data/credits.js";
+import { supabase, isSupabaseConfigured } from "./lib/supabase.js";
+import { fetchAndSetUser, signOut } from "./lib/auth.js";
 
 export const T = {
   bg0: "#04080f",
@@ -36,7 +39,10 @@ export default function App() {
     const hash = typeof window !== "undefined" ? window.location.hash.replace("#", "") : "";
     return hash || "home";
   });
+  const [user, setUser] = useState(null);
+  const [authLoading, setAuthLoading] = useState(true);
 
+  // ----- Hash-based routing (unchanged) -----
   useEffect(() => {
     if (typeof window === "undefined") return;
     window.history.replaceState(null, "", `#${page}`);
@@ -48,6 +54,46 @@ export default function App() {
     window.addEventListener("hashchange", onHash);
     return () => window.removeEventListener("hashchange", onHash);
   }, []);
+
+  // ----- Session bootstrap + onAuthStateChange listener -----
+  useEffect(() => {
+    if (!isSupabaseConfigured) {
+      setAuthLoading(false);
+      return;
+    }
+
+    let mounted = true;
+
+    supabase.auth.getSession().then(({ data: { session } }) => {
+      if (!mounted) return;
+      if (session?.user) {
+        fetchAndSetUser(session.user.id, setUser, session.user).finally(() => {
+          if (mounted) setAuthLoading(false);
+        });
+      } else {
+        setAuthLoading(false);
+      }
+    });
+
+    const { data: { subscription } } = supabase.auth.onAuthStateChange((event, session) => {
+      if (!mounted) return;
+      if (session?.user) {
+        fetchAndSetUser(session.user.id, setUser, session.user);
+      } else {
+        setUser(null);
+      }
+    });
+
+    return () => {
+      mounted = false;
+      subscription.unsubscribe();
+    };
+  }, []);
+
+  const handleSignOut = async () => {
+    await signOut(setUser);
+    setPage("home");
+  };
 
   const renderPage = () => {
     switch (page) {
@@ -62,9 +108,11 @@ export default function App() {
       case "sell":
         return <SellCredits setPage={setPage} />;
       case "login":
-        return <Login setPage={setPage} mode="login" />;
+        return user ? <Dashboard user={user} setUser={setUser} setPage={setPage} /> : <Login setPage={setPage} setUser={setUser} mode="login" />;
       case "register":
-        return <Login setPage={setPage} mode="register" />;
+        return user ? <Dashboard user={user} setUser={setUser} setPage={setPage} /> : <Login setPage={setPage} setUser={setUser} mode="register" />;
+      case "dashboard":
+        return <Dashboard user={user} setUser={setUser} setPage={setPage} />;
       default:
         return <Home setPage={setPage} />;
     }
@@ -82,14 +130,14 @@ export default function App() {
         select option { color: ${T.text1}; }
       `}</style>
 
-      <Header page={page} setPage={setPage} />
+      <Header page={page} setPage={setPage} user={user} authLoading={authLoading} onSignOut={handleSignOut} />
       <main style={{ flex: 1 }}>{renderPage()}</main>
       <Footer setPage={setPage} />
     </div>
   );
 }
 
-function Header({ page, setPage }) {
+function Header({ page, setPage, user, authLoading, onSignOut }) {
   return (
     <header style={{ position: "sticky", top: 0, zIndex: 50, background: "rgba(4,8,15,0.78)", backdropFilter: "blur(12px)", borderBottom: `1px solid ${T.border}` }}>
       <div style={{ maxWidth: 1200, margin: "0 auto", padding: "14px 24px", display: "flex", alignItems: "center", justifyContent: "space-between", gap: 16, flexWrap: "wrap" }}>
@@ -118,11 +166,116 @@ function Header({ page, setPage }) {
             </button>
           ))}
           <div style={{ width: 1, height: 22, background: T.border, margin: "0 6px" }} />
-          <Btn variant="outline" size="sm" onClick={() => setPage("login")}>Login</Btn>
-          <Btn size="sm" onClick={() => setPage("register")}>Get Started</Btn>
+          {authLoading ? (
+            <div style={{ width: 90, height: 32, borderRadius: 10, background: T.bg2, opacity: 0.5 }} />
+          ) : user ? (
+            <UserMenu user={user} setPage={setPage} onSignOut={onSignOut} />
+          ) : (
+            <>
+              <Btn variant="outline" size="sm" onClick={() => setPage("login")}>Login</Btn>
+              <Btn size="sm" onClick={() => setPage("register")}>Get Started</Btn>
+            </>
+          )}
         </nav>
       </div>
     </header>
+  );
+}
+
+function UserMenu({ user, setPage, onSignOut }) {
+  const [open, setOpen] = useState(false);
+  const ref = useRef(null);
+
+  useEffect(() => {
+    if (!open) return;
+    const handler = (e) => {
+      if (ref.current && !ref.current.contains(e.target)) setOpen(false);
+    };
+    window.addEventListener("mousedown", handler);
+    return () => window.removeEventListener("mousedown", handler);
+  }, [open]);
+
+  const initial = (user.name || user.email || "?").trim().charAt(0).toUpperCase();
+  const display = user.name || user.email.split("@")[0];
+
+  return (
+    <div ref={ref} style={{ position: "relative" }}>
+      <button
+        onClick={() => setOpen((v) => !v)}
+        style={{
+          display: "inline-flex",
+          alignItems: "center",
+          gap: 9,
+          background: open ? "rgba(34,197,94,0.12)" : T.bg2,
+          border: `1px solid ${open ? "rgba(34,197,94,0.35)" : T.border}`,
+          color: T.text1,
+          padding: "5px 12px 5px 5px",
+          borderRadius: 999,
+          cursor: "pointer",
+          fontFamily: "inherit",
+          fontSize: 13,
+          fontWeight: 600,
+          transition: "all .2s",
+        }}
+      >
+        <span style={{
+          width: 26, height: 26, borderRadius: 999,
+          background: "linear-gradient(135deg,#22c55e,#15803d)",
+          color: "#04131a",
+          fontFamily: "'Outfit',sans-serif", fontWeight: 900, fontSize: 13,
+          display: "inline-flex", alignItems: "center", justifyContent: "center",
+        }}>{initial}</span>
+        <span style={{ maxWidth: 120, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{display}</span>
+        <span style={{ fontSize: 9, color: T.text3, transform: open ? "rotate(180deg)" : "none", transition: "transform .15s" }}>▼</span>
+      </button>
+
+      {open && (
+        <div style={{
+          position: "absolute", top: "calc(100% + 8px)", right: 0, minWidth: 220,
+          background: T.bg2, border: `1px solid ${T.border}`, borderRadius: 14,
+          padding: 6, boxShadow: "0 12px 40px rgba(0,0,0,0.4)", zIndex: 60,
+        }}>
+          <div style={{ padding: "10px 12px 12px", borderBottom: `1px solid ${T.border}`, marginBottom: 4 }}>
+            <div style={{ fontSize: 14, fontWeight: 600, color: T.text1 }}>{user.name || "Carbon Bridge user"}</div>
+            <div style={{ fontSize: 11, color: T.text3, marginTop: 2, wordBreak: "break-all" }}>{user.email}</div>
+            <div style={{ fontSize: 10, color: "#86efac", marginTop: 6, fontWeight: 700, letterSpacing: 0.5, textTransform: "uppercase" }}>
+              {user.role} · KYC {user.kyc_status}
+            </div>
+          </div>
+          <MenuItem onClick={() => { setOpen(false); setPage("dashboard"); }}>📊 Dashboard</MenuItem>
+          <MenuItem onClick={() => { setOpen(false); setPage("marketplace"); }}>🛒 Marketplace</MenuItem>
+          <div style={{ height: 1, background: T.border, margin: "4px 0" }} />
+          <MenuItem onClick={() => { setOpen(false); onSignOut(); }} danger>↩ Sign out</MenuItem>
+        </div>
+      )}
+    </div>
+  );
+}
+
+function MenuItem({ children, onClick, danger }) {
+  return (
+    <button
+      onClick={onClick}
+      style={{
+        display: "block",
+        width: "100%",
+        textAlign: "left",
+        background: "none",
+        border: "none",
+        color: danger ? "#fca5a5" : T.text2,
+        padding: "9px 12px",
+        borderRadius: 9,
+        cursor: "pointer",
+        fontSize: 13,
+        fontWeight: 500,
+        fontFamily: "inherit",
+        transition: "background .15s",
+      }}
+      onMouseEnter={(e) => { e.currentTarget.style.background = "rgba(255,255,255,0.04)"; }}
+      onMouseLeave={(e) => { e.currentTarget.style.background = "none"; }}
+    >
+      {children}
+    </button>
   );
 }
 
@@ -140,6 +293,7 @@ function Footer({ setPage }) {
     {
       title: "Account",
       links: [
+        { label: "Dashboard", id: "dashboard" },
         { label: "Get Started", id: "register" },
         { label: "Login", id: "login" },
       ],
