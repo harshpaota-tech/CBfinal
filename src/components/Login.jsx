@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { T } from "../App.jsx";
+import { T } from "../theme.js";
 import Btn from "./ui/Btn.jsx";
 import { supabase, isSupabaseConfigured } from "../lib/supabase.js";
 import {

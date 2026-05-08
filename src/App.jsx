@@ -11,21 +11,11 @@ import Logo from "./components/ui/Logo.jsx";
 import { CONTACT, BRAND } from "./data/credits.js";
 import { supabase, isSupabaseConfigured } from "./lib/supabase.js";
 import { fetchAndSetUser, signOut } from "./lib/auth.js";
+import { T } from "./theme.js";
 
-export const T = {
-  bg0: "#04080f",
-  bg1: "#070d18",
-  bg2: "#0d1525",
-  border: "rgba(56,189,248,0.12)",
-  text1: "#e6f1ff",
-  text2: "#9fb3c8",
-  text3: "#5d7290",
-  teal: "#38bdf8",
-  green: "#34d399",
-  brand: "#22c55e",
-  brand2: "#86efac",
-  grad: "linear-gradient(135deg, #38bdf8 0%, #34d399 100%)",
-};
+// Re-export T from App.jsx for backwards compatibility with components
+// that already do `import { T } from "../App.jsx"`. Source of truth is theme.js.
+export { T };
 
 const NAV = [
   { id: "marketplace", label: "Marketplace" },
