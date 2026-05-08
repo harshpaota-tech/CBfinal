@@ -58,7 +58,7 @@ function LogoWordmark({ size, isLight, muted, withTagline }) {
           textTransform: "uppercase",
         }}
       >
-        {withTagline ? "Bridging today · Sustaining tomorrow" : "by Nomad Life Corporation"}
+        {withTagline ? "India's First Environmental Credit Marketplace" : "by Carbon Bridge Pvt. Ltd."}
       </div>
     </div>
   );

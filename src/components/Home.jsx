@@ -2,7 +2,7 @@ import { useState } from "react";
 import { T } from "../App.jsx";
 import Btn from "./ui/Btn.jsx";
 import Badge from "./ui/Badge.jsx";
-import { getFeatured } from "../data/credits.js";
+import { getFeatured, formatINR, formatUSD, BRAND, STATE_COUNT, CREDITS } from "../data/credits.js";
 
 function MiniCard({ c, onClick }) {
   const [hov, setHov] = useState(false);
@@ -22,20 +22,23 @@ function MiniCard({ c, onClick }) {
     >
       <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 10 }}>
         <Badge color={c.color}>{c.type}</Badge>
-        <span style={{ fontSize: 12, color: T.text3 }}>{c.flag} {c.country}</span>
+        <span style={{ fontSize: 12, color: T.text3 }}>{c.flag} {c.state}</span>
       </div>
       <div style={{ fontSize: 28, marginBottom: 8 }}>{c.icon}</div>
-      <h3 style={{ fontFamily: "'Outfit',sans-serif", fontWeight: 700, fontSize: 15, marginBottom: 8 }}>{c.name}</h3>
-      <div style={{ display: "flex", gap: 6, marginBottom: 12, flexWrap: "wrap" }}>
-        <span style={{ fontSize: 10, fontWeight: 600, color: T.text2, padding: "2px 8px", borderRadius: 999, border: `1px solid ${T.border}` }}>{c.standard}</span>
+      <h3 style={{ fontFamily: "'Outfit',sans-serif", fontWeight: 700, fontSize: 15, marginBottom: 8, lineHeight: 1.3 }}>{c.name}</h3>
+      <div style={{ display: "flex", gap: 6, marginBottom: 14, flexWrap: "wrap" }}>
+        <span style={{ fontSize: 10, fontWeight: 600, color: T.text2, padding: "2px 8px", borderRadius: 999, border: `1px solid ${T.border}` }}>{c.registry}</span>
         <span style={{ fontSize: 10, fontWeight: 600, color: T.text2, padding: "2px 8px", borderRadius: 999, border: `1px solid ${T.border}` }}>Vintage {c.vintage}</span>
       </div>
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end" }}>
-        <div style={{ fontFamily: "'Outfit',sans-serif", fontSize: 22, fontWeight: 900, color: T.green }}>
-          ${c.price.toFixed(2)}
-          <span style={{ fontSize: 12, fontWeight: 400, color: T.text3 }}>/t</span>
+        <div>
+          <div style={{ fontFamily: "'Outfit',sans-serif", fontSize: 22, fontWeight: 900, color: T.green, lineHeight: 1 }}>
+            {formatINR(c.price)}
+            <span style={{ fontSize: 12, fontWeight: 400, color: T.text3 }}>/t</span>
+          </div>
+          <div style={{ fontSize: 10, color: T.text3, marginTop: 3 }}>{formatUSD(c.price)} USD</div>
         </div>
-        <div style={{ fontSize: 11, color: T.text3, textAlign: "right" }}>{c.creditsLeft.toLocaleString()} left</div>
+        <div style={{ fontSize: 11, color: T.text3, textAlign: "right" }}>{c.available.toLocaleString("en-IN")} left</div>
       </div>
     </div>
   );
@@ -44,15 +47,15 @@ function MiniCard({ c, onClick }) {
 export default function Home({ setPage }) {
   const featured = getFeatured();
   const stats = [
-    { v: "2,300+", l: "Registered Projects" },
-    { v: "4.8M", l: "Tonnes CO₂ Offset" },
-    { v: "18,400+", l: "Active Users" },
-    { v: "47", l: "Countries" },
+    { v: `${CREDITS.length}`, l: "Verified Projects" },
+    { v: `${STATE_COUNT}`, l: "Indian States" },
+    { v: "1,33,700+", l: "tCO₂e Available" },
+    { v: "5", l: "Credit Types" },
   ];
   const steps = [
     { icon: "🔐", t: "Register & Verify", d: "Sign up and complete KYC in under 5 minutes." },
-    { icon: "🔍", t: "Browse Projects", d: "Explore verified credits from Verra, Gold Standard & ACR." },
-    { icon: "💳", t: "Buy Credits", d: "Purchase any quantity. Credits added to wallet instantly." },
+    { icon: "🔍", t: "Browse Projects", d: "Explore verified credits from Verra, CPCB EPR & SATAT-registered programs." },
+    { icon: "💳", t: "Buy Credits", d: "Purchase any quantity in INR. Credits added to wallet instantly." },
     { icon: "📜", t: "Retire & Certify", d: "Retire credits and download your official certificate." },
   ];
 
@@ -60,17 +63,17 @@ export default function Home({ setPage }) {
     <div className="fade">
       <div style={{ minHeight: "88vh", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", textAlign: "center", padding: "80px 24px 60px", position: "relative", overflow: "hidden" }}>
         <div style={{ position: "absolute", inset: 0, background: "radial-gradient(ellipse 80% 50% at 50% -10%, rgba(14,165,233,0.12), transparent 65%)", pointerEvents: "none" }} />
-        <div style={{ background: "rgba(56,189,248,0.08)", border: "1px solid rgba(56,189,248,0.25)", borderRadius: 24, padding: "7px 20px", marginBottom: 28, fontSize: 13, color: T.teal, fontWeight: 600 }}>
-          🏢 Developed by Nomad Life Corporation
+        <div style={{ background: "rgba(34,197,94,0.08)", border: "1px solid rgba(34,197,94,0.25)", borderRadius: 24, padding: "7px 20px", marginBottom: 28, fontSize: 13, color: "#86efac", fontWeight: 600 }}>
+          🇮🇳 By {BRAND.company}
         </div>
-        <div style={{ fontSize: 12, fontWeight: 700, color: "#86efac", letterSpacing: 2, textTransform: "uppercase", marginBottom: 18 }}>
-          Bridging today, sustaining tomorrow
+        <div style={{ fontSize: 12, fontWeight: 700, color: "#86efac", letterSpacing: 1.6, textTransform: "uppercase", marginBottom: 18, maxWidth: 760, lineHeight: 1.5 }}>
+          {BRAND.tagline}
         </div>
         <h1 style={{ fontFamily: "'Outfit',sans-serif", fontSize: "clamp(38px,7vw,76px)", fontWeight: 900, lineHeight: 1.05, marginBottom: 24, maxWidth: 900 }}>
-          Trade Verified <span style={{ background: T.grad, WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>Carbon Credits</span> with Confidence
+          Trade Verified <span style={{ background: T.grad, WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>Environmental Credits</span> with Confidence
         </h1>
-        <p style={{ fontSize: 18, color: T.text2, maxWidth: 560, lineHeight: 1.75, marginBottom: 44 }}>
-          The world's most trusted marketplace for buying, selling, and retiring verified carbon credits — for individuals, businesses, and project developers.
+        <p style={{ fontSize: 18, color: T.text2, maxWidth: 620, lineHeight: 1.75, marginBottom: 44 }}>
+          India's first marketplace for buying, selling, and retiring verified environmental credits — built for CBG plant operators, FPOs, smallholder farmers, and ESG-driven enterprises.
         </p>
         <div style={{ display: "flex", gap: 14, flexWrap: "wrap", justifyContent: "center" }}>
           <Btn size="lg" onClick={() => setPage("register")} style={{ boxShadow: "0 0 48px rgba(14,165,233,0.35)" }}>Start Offsetting Free →</Btn>
@@ -88,7 +91,7 @@ export default function Home({ setPage }) {
 
       <div style={{ borderTop: `1px solid ${T.border}`, borderBottom: `1px solid ${T.border}`, padding: "16px 40px", background: T.bg1, display: "flex", alignItems: "center", justifyContent: "center", gap: 40, flexWrap: "wrap" }}>
         <span style={{ fontSize: 11, color: T.text3, fontWeight: 700, textTransform: "uppercase" }}>Verified By</span>
-        {["Verra VCS", "Gold Standard", "ACR", "Climate Reserve", "Puro.earth"].map((p) => (
+        {["Verra VCS", "Verra W+", "CPCB EPR", "SATAT", "Gold Standard"].map((p) => (
           <span key={p} style={{ fontSize: 13, fontWeight: 700, color: T.text2, opacity: 0.7 }}>{p}</span>
         ))}
       </div>
@@ -115,7 +118,7 @@ export default function Home({ setPage }) {
             <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", marginBottom: 32, flexWrap: "wrap", gap: 16 }}>
               <div>
                 <h2 style={{ fontFamily: "'Outfit',sans-serif", fontSize: 30, fontWeight: 800, margin: 0 }}>Featured Projects</h2>
-                <p style={{ color: T.text2, fontSize: 14, marginTop: 6 }}>Handpicked high-quality credits from top registries</p>
+                <p style={{ color: T.text2, fontSize: 14, marginTop: 6 }}>Handpicked high-impact credits from Indian operators</p>
               </div>
               <Btn variant="outline" onClick={() => setPage("marketplace")}>View All →</Btn>
             </div>
@@ -128,8 +131,8 @@ export default function Home({ setPage }) {
 
       <div style={{ padding: "80px 40px", textAlign: "center", background: `radial-gradient(ellipse 60% 80% at 50% 50%, rgba(14,165,233,0.07), transparent)` }}>
         <h2 style={{ fontFamily: "'Outfit',sans-serif", fontSize: 40, fontWeight: 900, marginBottom: 14 }}>Ready to Make an Impact?</h2>
-        <p style={{ color: T.text2, fontSize: 16, maxWidth: 460, margin: "0 auto 32px" }}>
-          Join 18,000+ individuals and 2,000+ companies already offsetting on CarbonBridge.
+        <p style={{ color: T.text2, fontSize: 16, maxWidth: 520, margin: "0 auto 32px" }}>
+          Join the FPOs, CBG plants, and enterprises building India's net-zero economy on Carbon Bridge.
         </p>
         <Btn size="lg" onClick={() => setPage("register")} style={{ boxShadow: "0 0 48px rgba(14,165,233,0.3)" }}>Create Free Account →</Btn>
       </div>

@@ -7,7 +7,7 @@ import SellCredits from "./components/SellCredits.jsx";
 import Login from "./components/Login.jsx";
 import Btn from "./components/ui/Btn.jsx";
 import Logo from "./components/ui/Logo.jsx";
-import { CONTACT } from "./data/credits.js";
+import { CONTACT, BRAND } from "./data/credits.js";
 
 export const T = {
   bg0: "#04080f",
@@ -151,8 +151,8 @@ function Footer({ setPage }) {
       <div style={{ maxWidth: 1200, margin: "0 auto", display: "grid", gridTemplateColumns: "repeat(auto-fit,minmax(220px,1fr))", gap: 40, marginBottom: 40 }}>
         <div>
           <Logo size={42} withTagline muted={T.text3} />
-          <p style={{ color: T.text2, fontSize: 13, lineHeight: 1.7, marginTop: 16, maxWidth: 280 }}>
-            The world's most trusted marketplace for verified carbon credits. Built by Nomad Life Corporation.
+          <p style={{ color: T.text2, fontSize: 13, lineHeight: 1.7, marginTop: 16, maxWidth: 320 }}>
+            India's first environmental credit marketplace — Carbon · Soil · Plastic · CBG · Biogas. Built by {BRAND.company}.
           </p>
         </div>
 
@@ -180,8 +180,8 @@ function Footer({ setPage }) {
       </div>
 
       <div style={{ maxWidth: 1200, margin: "0 auto", paddingTop: 22, borderTop: `1px solid ${T.border}`, display: "flex", justifyContent: "space-between", flexWrap: "wrap", gap: 8 }}>
-        <span style={{ fontSize: 12, color: T.text3 }}>© {new Date().getFullYear()} Nomad Life Corporation. All rights reserved.</span>
-        <span style={{ fontSize: 12, color: T.text3 }}>🌍 Building a net-zero world, one credit at a time.</span>
+        <span style={{ fontSize: 12, color: T.text3 }}>© {new Date().getFullYear()} {BRAND.company}. All rights reserved.</span>
+        <span style={{ fontSize: 12, color: T.text3 }}>🇮🇳 Building India's net-zero economy, one credit at a time.</span>
       </div>
     </footer>
   );

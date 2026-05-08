@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import { T } from "../App.jsx";
-import { CATEGORIES, CREDITS, COUNTRY_COUNT } from "../data/credits.js";
+import { CATEGORIES, CREDITS, STATES, STATE_COUNT, formatINR, formatUSD } from "../data/credits.js";
 import Btn from "./ui/Btn.jsx";
 import Badge from "./ui/Badge.jsx";
 
@@ -26,35 +26,56 @@ function ProjectCard({ c }) {
         cursor: "pointer",
         display: "flex",
         flexDirection: "column",
-        gap: 14,
+        gap: 12,
       }}
     >
-      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: 8 }}>
         <Badge color={c.color}>{c.type}</Badge>
-        <span style={{ fontSize: 12, color: T.text3, display: "inline-flex", alignItems: "center", gap: 5 }}>
-          <span aria-hidden>{c.flag}</span>
-          {c.country}
+        <span style={{ fontSize: 12, color: T.text3, display: "inline-flex", alignItems: "center", gap: 5, whiteSpace: "nowrap" }}>
+          <span aria-hidden>{c.flag}</span>{c.state}
         </span>
       </div>
 
       <div style={{ fontSize: 32 }}>{c.icon}</div>
 
-      <h3 style={{ fontFamily: "'Outfit',sans-serif", fontWeight: 700, fontSize: 17, margin: 0 }}>{c.name}</h3>
+      <h3 style={{ fontFamily: "'Outfit',sans-serif", fontWeight: 700, fontSize: 17, margin: 0, lineHeight: 1.25 }}>{c.name}</h3>
+
+      {c.desc && (
+        <p style={{ color: T.text2, fontSize: 13, lineHeight: 1.55, margin: 0, display: "-webkit-box", WebkitLineClamp: 3, WebkitBoxOrient: "vertical", overflow: "hidden" }}>
+          {c.desc}
+        </p>
+      )}
 
       <div style={{ display: "flex", gap: 8, flexWrap: "wrap" }}>
-        <span style={{ fontSize: 11, fontWeight: 600, color: T.text2, padding: "3px 10px", borderRadius: 999, border: `1px solid ${T.border}` }}>{c.standard}</span>
+        <span style={{ fontSize: 11, fontWeight: 600, color: T.text2, padding: "3px 10px", borderRadius: 999, border: `1px solid ${T.border}` }}>{c.registry}</span>
         <span style={{ fontSize: 11, fontWeight: 600, color: T.text2, padding: "3px 10px", borderRadius: 999, border: `1px solid ${T.border}` }}>Vintage {c.vintage}</span>
       </div>
 
-      <div style={{ display: "flex", alignItems: "flex-end", justifyContent: "space-between", marginTop: 6 }}>
+      {c.sdgs && c.sdgs.length > 0 && (
+        <div style={{ display: "flex", gap: 6, alignItems: "center", flexWrap: "wrap" }}>
+          <span style={{ fontSize: 10, color: T.text3, fontWeight: 700, letterSpacing: 0.5, textTransform: "uppercase" }}>SDG</span>
+          {c.sdgs.map((n) => (
+            <span key={n} style={{ fontSize: 11, fontWeight: 700, color: c.color, background: c.color + "1f", border: `1px solid ${c.color}55`, borderRadius: 6, padding: "1px 7px", minWidth: 22, textAlign: "center" }}>{n}</span>
+          ))}
+        </div>
+      )}
+
+      {c.certId && (
+        <div style={{ fontSize: 10, color: T.text3, fontFamily: "ui-monospace,SFMono-Regular,Menlo,monospace", letterSpacing: 0.3 }}>
+          {c.certId}
+        </div>
+      )}
+
+      <div style={{ display: "flex", alignItems: "flex-end", justifyContent: "space-between", marginTop: 4, paddingTop: 10, borderTop: `1px dashed ${T.border}` }}>
         <div>
-          <div style={{ fontFamily: "'Outfit',sans-serif", fontSize: 28, fontWeight: 900, color: T.green, lineHeight: 1 }}>
-            ${c.price.toFixed(2)}
+          <div style={{ fontFamily: "'Outfit',sans-serif", fontSize: 26, fontWeight: 900, color: T.green, lineHeight: 1 }}>
+            {formatINR(c.price)}
           </div>
-          <div style={{ fontSize: 11, color: T.text3, marginTop: 4 }}>per tonne CO₂</div>
+          <div style={{ fontSize: 11, color: T.text3, marginTop: 4 }}>{formatUSD(c.price)} USD</div>
+          <div style={{ fontSize: 11, color: T.text3, marginTop: 2 }}>per tonne CO₂</div>
         </div>
         <div style={{ textAlign: "right" }}>
-          <div style={{ fontFamily: "'Outfit',sans-serif", fontSize: 16, fontWeight: 700, color: T.text1 }}>{c.creditsLeft.toLocaleString()}</div>
+          <div style={{ fontFamily: "'Outfit',sans-serif", fontSize: 16, fontWeight: 700, color: T.text1 }}>{c.available.toLocaleString("en-IN")}</div>
           <div style={{ fontSize: 11, color: T.text3, marginTop: 2 }}>credits left</div>
         </div>
       </div>
@@ -65,17 +86,21 @@ function ProjectCard({ c }) {
 export default function Marketplace({ setPage }) {
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState("all");
+  const [stateFilter, setStateFilter] = useState("all");
   const [sort, setSort] = useState("price-asc");
 
   const visible = useMemo(() => {
     const q = query.trim().toLowerCase();
     let list = CREDITS.filter((c) => {
-      if (category !== "all" && c.category !== category) return false;
+      if (category !== "all" && c.type !== category) return false;
+      if (stateFilter !== "all" && c.state !== stateFilter) return false;
       if (!q) return true;
       return (
         c.name.toLowerCase().includes(q) ||
+        c.state.toLowerCase().includes(q) ||
         c.country.toLowerCase().includes(q) ||
-        c.type.toLowerCase().includes(q)
+        c.type.toLowerCase().includes(q) ||
+        (c.desc || "").toLowerCase().includes(q)
       );
     });
     list = [...list];
@@ -87,16 +112,29 @@ export default function Marketplace({ setPage }) {
         list.sort((a, b) => b.price - a.price);
         break;
       case "credits-desc":
-        list.sort((a, b) => b.creditsLeft - a.creditsLeft);
+        list.sort((a, b) => b.available - a.available);
         break;
       case "credits-asc":
-        list.sort((a, b) => a.creditsLeft - b.creditsLeft);
+        list.sort((a, b) => a.available - b.available);
         break;
       default:
         break;
     }
     return list;
-  }, [query, category, sort]);
+  }, [query, category, stateFilter, sort]);
+
+  const selectStyle = {
+    background: T.bg2,
+    border: `1px solid ${T.border}`,
+    color: T.text1,
+    fontSize: 14,
+    padding: "13px 16px",
+    borderRadius: 14,
+    outline: "none",
+    fontFamily: "inherit",
+    cursor: "pointer",
+    minWidth: 180,
+  };
 
   return (
     <div className="fade" style={{ maxWidth: 1200, margin: "0 auto", padding: "60px 24px 80px" }}>
@@ -104,16 +142,16 @@ export default function Marketplace({ setPage }) {
         Carbon Credit Marketplace
       </h1>
       <p style={{ color: T.text2, fontSize: 15, marginBottom: 32 }}>
-        {CREDITS.length} verified projects · {COUNTRY_COUNT} countries
+        {CREDITS.length} verified projects · {STATE_COUNT} states across India
       </p>
 
       <div style={{ display: "flex", gap: 12, marginBottom: 22, flexWrap: "wrap" }}>
-        <div style={{ position: "relative", flex: "1 1 320px", minWidth: 240 }}>
+        <div style={{ position: "relative", flex: "1 1 280px", minWidth: 220 }}>
           <span style={{ position: "absolute", left: 16, top: "50%", transform: "translateY(-50%)", fontSize: 14, opacity: 0.7 }}>🔍</span>
           <input
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Search by project name or country..."
+            placeholder="Search by project name, state, or type..."
             style={{
               width: "100%",
               background: T.bg2,
@@ -127,26 +165,15 @@ export default function Marketplace({ setPage }) {
             }}
           />
         </div>
-        <select
-          value={sort}
-          onChange={(e) => setSort(e.target.value)}
-          style={{
-            background: T.bg2,
-            border: `1px solid ${T.border}`,
-            color: T.text1,
-            fontSize: 14,
-            padding: "13px 16px",
-            borderRadius: 14,
-            outline: "none",
-            fontFamily: "inherit",
-            cursor: "pointer",
-            minWidth: 200,
-          }}
-        >
+        <select value={stateFilter} onChange={(e) => setStateFilter(e.target.value)} style={selectStyle} aria-label="Filter by state">
+          <option value="all">All States</option>
+          {STATES.map((s) => (
+            <option key={s} value={s}>{s}</option>
+          ))}
+        </select>
+        <select value={sort} onChange={(e) => setSort(e.target.value)} style={selectStyle} aria-label="Sort projects">
           {SORTS.map((s) => (
-            <option key={s.id} value={s.id} style={{ background: T.bg2 }}>
-              {s.label}
-            </option>
+            <option key={s.id} value={s.id}>{s.label}</option>
           ))}
         </select>
       </div>
@@ -154,14 +181,15 @@ export default function Marketplace({ setPage }) {
       <div style={{ display: "flex", gap: 8, marginBottom: 32, flexWrap: "wrap" }}>
         {CATEGORIES.map((cat) => {
           const active = category === cat.id;
+          const tint = cat.id === "all" ? T.teal : cat.color;
           return (
             <button
               key={cat.id}
               onClick={() => setCategory(cat.id)}
               style={{
-                background: active ? "rgba(56,189,248,0.15)" : "transparent",
-                border: `1px solid ${active ? T.teal : T.border}`,
-                color: active ? T.teal : T.text2,
+                background: active ? tint + "26" : "transparent",
+                border: `1px solid ${active ? tint : T.border}`,
+                color: active ? tint : T.text2,
                 padding: "8px 16px",
                 borderRadius: 999,
                 fontSize: 13,
@@ -177,15 +205,24 @@ export default function Marketplace({ setPage }) {
         })}
       </div>
 
+      {(category !== "all" || stateFilter !== "all" || query) && (
+        <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 18, fontSize: 13, color: T.text3, flexWrap: "wrap" }}>
+          <span>Showing {visible.length} of {CREDITS.length} projects</span>
+          <button onClick={() => { setQuery(""); setCategory("all"); setStateFilter("all"); }} style={{ background: "none", border: "none", color: T.teal, fontWeight: 600, cursor: "pointer", fontSize: 13, padding: 0, fontFamily: "inherit" }}>
+            Clear filters
+          </button>
+        </div>
+      )}
+
       {visible.length === 0 ? (
         <div style={{ textAlign: "center", padding: "80px 24px", color: T.text2, background: T.bg2, border: `1px solid ${T.border}`, borderRadius: 20 }}>
           <div style={{ fontSize: 40, marginBottom: 12 }}>🔍</div>
           <div style={{ fontSize: 16, marginBottom: 6 }}>No projects match your filters.</div>
-          <div style={{ fontSize: 13, color: T.text3, marginBottom: 18 }}>Try clearing the search or picking a different category.</div>
-          <Btn variant="outline" onClick={() => { setQuery(""); setCategory("all"); }}>Reset filters</Btn>
+          <div style={{ fontSize: 13, color: T.text3, marginBottom: 18 }}>Try clearing the search, picking a different state, or category.</div>
+          <Btn variant="outline" onClick={() => { setQuery(""); setCategory("all"); setStateFilter("all"); }}>Reset filters</Btn>
         </div>
       ) : (
-        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill,minmax(280px,1fr))", gap: 20 }}>
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill,minmax(300px,1fr))", gap: 20 }}>
           {visible.map((c) => <ProjectCard key={c.id} c={c} />)}
         </div>
       )}

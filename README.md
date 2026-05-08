@@ -2,7 +2,7 @@
 
 Verified carbon credit marketplace — buy, sell, and retire credits from Verra (VCS), Gold Standard, and ACR.
 
-> Developed by **Nomad Life Corporation**.
+> Developed by **Carbon Bridge Pvt. Ltd.** — India's First Environmental Credit Marketplace (Carbon · Soil · Plastic · CBG · Biogas).
 
 ## Tech stack
 
@@ -87,4 +87,4 @@ This repo includes a [`render.yaml`](./render.yaml) blueprint, so deployment is 
 
 ## License
 
-Copyright (c) Nomad Life Corporation. All rights reserved.
+Copyright (c) Carbon Bridge Pvt. Ltd. All rights reserved.
