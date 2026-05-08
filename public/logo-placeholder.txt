@@ -1,0 +1,19 @@
+DROP YOUR LOGO HERE
+===================
+
+Save your PNG file as one (or both) of:
+
+  public/logo.png   ← used everywhere on the site (header + footer)
+  public/logo.svg   ← optional, takes priority if present
+
+Recommended specs:
+  - Format:    PNG (transparent background) or SVG
+  - Size:      512x512 px (square) or larger
+  - Background: TRANSPARENT — the site has a dark navy background
+                so opaque white will look ugly behind the logo
+
+Once the file is committed and pushed, the inline SVG fallback in
+src/components/ui/Logo.jsx is automatically replaced with your image.
+No code changes needed.
+
+You can delete this file once your logo is in place.
