@@ -25,34 +25,68 @@ export function toCertItem(t) {
   };
 }
 
-/**
- * Generate the PDF and trigger a download in the browser. Loads react-pdf and
- * the Certificate component dynamically (code-split).
- */
+function getLogoUrl() {
+  return typeof window !== "undefined" ? window.location.origin + "/logo.png" : undefined;
+}
+
+async function triggerDownload(blob, filename) {
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  a.style.display = "none";
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  setTimeout(() => URL.revokeObjectURL(url), 1500);
+  return url;
+}
+
+/** Generate single-cert PDF and download. */
 export async function downloadCertificate(rawItem, user) {
   const item = toCertItem(rawItem);
-  if (!item?.certId) {
-    throw new Error("Certificate is not ready yet — try again in a moment.");
-  }
+  if (!item?.certId) throw new Error("Certificate is not ready yet — try again in a moment.");
 
   const [{ pdf }, { CarbonCertificate }] = await Promise.all([
     import("@react-pdf/renderer"),
     import("../components/Certificate.jsx"),
   ]);
 
-  const logoUrl = typeof window !== "undefined" ? window.location.origin + "/logo.png" : undefined;
+  const blob = await pdf(<CarbonCertificate item={item} user={user} logoUrl={getLogoUrl()} />).toBlob();
+  await triggerDownload(blob, `CarbonBridge-Certificate-${item.certId}.pdf`);
+  return { item };
+}
 
-  const blob = await pdf(<CarbonCertificate item={item} user={user} logoUrl={logoUrl} />).toBlob();
+/** Bundle every wallet item into ONE multi-page PDF and download. */
+export async function downloadAllCertificates(rawItems, user) {
+  const items = (rawItems || []).map(toCertItem).filter((i) => i?.certId);
+  if (items.length === 0) throw new Error("Nothing to download — your wallet is empty.");
 
-  const url = URL.createObjectURL(blob);
-  const a = document.createElement("a");
-  a.href = url;
-  a.download = `CarbonBridge-Certificate-${item.certId}.pdf`;
-  a.style.display = "none";
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
-  setTimeout(() => URL.revokeObjectURL(url), 1500);
+  const [{ pdf }, { CarbonCertificateBundle }] = await Promise.all([
+    import("@react-pdf/renderer"),
+    import("../components/Certificate.jsx"),
+  ]);
 
-  return { item, url };
+  const blob = await pdf(<CarbonCertificateBundle items={items} user={user} logoUrl={getLogoUrl()} />).toBlob();
+  const stamp = new Date().toISOString().slice(0, 10);
+  await triggerDownload(blob, `CarbonBridge-AllCertificates-${stamp}.pdf`);
+  return { count: items.length };
+}
+
+/** Generate an ESG summary PDF (portfolio summary + registry breakdown +
+ *  climate equivalence) and download. Designed to be droppable into a CSRD /
+ *  GRI / SASB / BRSR report. */
+export async function downloadEsgReport(rawItems, user) {
+  const items = (rawItems || []).map(toCertItem);
+
+  const [{ pdf }, { default: EsgReport }] = await Promise.all([
+    import("@react-pdf/renderer"),
+    import("../components/EsgReport.jsx"),
+  ]);
+
+  const blob = await pdf(<EsgReport items={items} user={user} logoUrl={getLogoUrl()} />).toBlob();
+  const stamp = new Date().toISOString().slice(0, 10);
+  const who = (user?.name || user?.email || "user").replace(/[^a-z0-9]+/gi, "-").toLowerCase();
+  await triggerDownload(blob, `CarbonBridge-ESG-Report-${who}-${stamp}.pdf`);
+  return { count: items.length };
 }

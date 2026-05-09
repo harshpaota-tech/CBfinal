@@ -3,6 +3,7 @@ import { useTranslation } from "react-i18next";
 import { T } from "../theme.js";
 import Btn from "./ui/Btn.jsx";
 import Badge from "./ui/Badge.jsx";
+import IndiaMap from "./IndiaMap.jsx";
 import { getFeatured, formatINR, formatUSD, BRAND, STATE_COUNT, CREDITS } from "../data/credits.js";
 
 function MiniCard({ c, onClick }) {
@@ -50,10 +51,10 @@ export default function Home({ setPage }) {
   const { t } = useTranslation();
   const featured = getFeatured();
   const stats = [
-    { v: "200+",      l: t("home.stats.farmers") },
-    { v: "1,33,700+", l: t("home.stats.co2") },
-    { v: "6",         l: t("home.stats.plants") },
-    { v: `${STATE_COUNT}`, l: t("home.stats.states") },
+    { v: "4,800+",   l: "SATAT CBG Plants Targetable" },
+    { v: "₹8,400 Cr", l: "India Carbon Market 2025" },
+    { v: "50M+",     l: "Farmers Addressable" },
+    { v: "18,000",   l: "tCO₂e Per CBG Plant/Year" },
   ];
   const steps = [
     { icon: "🔐", t: "Register & Verify", d: "Sign up and complete KYC in under 5 minutes." },
@@ -95,6 +96,8 @@ export default function Home({ setPage }) {
           <span key={p} style={{ fontSize: 13, fontWeight: 700, color: T.text2, opacity: 0.7 }}>{p}</span>
         ))}
       </div>
+
+      <IndiaMap onPinClick={() => setPage("marketplace")} />
 
       <div style={{ padding: "80px 40px", maxWidth: 1100, margin: "0 auto" }}>
         <div style={{ textAlign: "center", marginBottom: 52 }}>

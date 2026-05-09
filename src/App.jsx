@@ -12,6 +12,7 @@ import Btn from "./components/ui/Btn.jsx";
 import Logo from "./components/ui/Logo.jsx";
 import ToastHost from "./components/ui/Toast.jsx";
 import LangToggle from "./components/ui/LangToggle.jsx";
+import Ticker from "./components/ui/Ticker.jsx";
 import { setLanguage } from "./i18n/index.js";
 import { CONTACT, BRAND } from "./data/credits.js";
 import { supabase, isSupabaseConfigured } from "./lib/supabase.js";
@@ -149,6 +150,7 @@ export default function App() {
       `}</style>
 
       <Header page={page} setPage={setPage} user={user} authLoading={authLoading} onSignOut={handleSignOut} />
+      <Ticker />
       <main style={{ flex: 1 }}>{renderPage()}</main>
       <Footer setPage={setPage} />
       <ToastHost />

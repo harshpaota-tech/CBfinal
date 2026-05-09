@@ -155,7 +155,12 @@ const styles = StyleSheet.create({
   },
 });
 
-export const CarbonCertificate = ({ item, user, logoUrl }) => {
+/**
+ * One A4 retirement certificate page. Exported separately so multiple
+ * certificates can be combined into a single multi-page Document by
+ * src/lib/certificate.jsx (downloadAllCertificates).
+ */
+export const CarbonCertificatePage = ({ item, user, logoUrl }) => {
   const dateStr = (() => {
     try {
       return new Date(item.date).toLocaleDateString("en-IN", {
@@ -176,64 +181,83 @@ export const CarbonCertificate = ({ item, user, logoUrl }) => {
     ["Payment Reference", item.paymentId || "N/A"],
     ["Verified By", "Carbon Bridge Pvt. Ltd."],
     ["Platform", "thecarbonbridge.com"],
-    ["Status", "PERMANENTLY RETIRED"],
+    ["Status", item.retired ? "PERMANENTLY RETIRED" : "ACTIVE — UNRETIRED"],
   ];
 
   return (
-    <Document
-      title={`Carbon Bridge Certificate ${item.certId || ""}`}
-      author="Carbon Bridge Pvt. Ltd."
-      subject={`Retirement of ${item.qty} tCO2e from ${item.creditName}`}
-      creator="Carbon Bridge"
-    >
-      <Page size="A4" style={styles.page}>
-        <View style={styles.border} fixed />
-        <View style={styles.innerBorder} fixed />
-        <Text style={styles.watermark} fixed>RETIRED</Text>
+    <Page size="A4" style={styles.page}>
+      <View style={styles.border} fixed />
+      <View style={styles.innerBorder} fixed />
+      <Text style={styles.watermark} fixed>{item.retired ? "RETIRED" : "ACTIVE"}</Text>
 
-        {logoUrl && (
-          <View style={styles.logoRow}>
-            <Image src={logoUrl} style={styles.logo} />
+      {logoUrl && (
+        <View style={styles.logoRow}>
+          <Image src={logoUrl} style={styles.logo} />
+        </View>
+      )}
+
+      <View style={styles.header}>
+        <Text style={styles.title}>CARBON BRIDGE</Text>
+        <Text style={styles.subtitle}>VERIFIED CARBON CREDIT RETIREMENT CERTIFICATE</Text>
+      </View>
+
+      <View style={styles.certBody}>
+        <Text style={styles.bodyText}>This certifies that</Text>
+        <Text style={styles.recipient}>{user?.name || user?.email || "Cardholder"}</Text>
+        <Text style={styles.bodyText}>has permanently retired</Text>
+        <Text style={styles.highlight}>{item.qty} tCO₂e</Text>
+        <Text style={styles.bodyText}>of verified carbon credits from</Text>
+        <Text style={styles.projectName}>{item.creditName}</Text>
+      </View>
+
+      <View style={styles.detailsGrid}>
+        {details.map(([label, value]) => (
+          <View key={label} style={styles.detailBox}>
+            <Text style={styles.detailLabel}>{label}</Text>
+            <Text style={styles.detailValue}>{String(value)}</Text>
           </View>
-        )}
+        ))}
+      </View>
 
-        <View style={styles.header}>
-          <Text style={styles.title}>CARBON BRIDGE</Text>
-          <Text style={styles.subtitle}>VERIFIED CARBON CREDIT RETIREMENT CERTIFICATE</Text>
-        </View>
-
-        <View style={styles.certBody}>
-          <Text style={styles.bodyText}>This certifies that</Text>
-          <Text style={styles.recipient}>{user?.name || user?.email || "Cardholder"}</Text>
-          <Text style={styles.bodyText}>has permanently retired</Text>
-          <Text style={styles.highlight}>{item.qty} tCO₂e</Text>
-          <Text style={styles.bodyText}>of verified carbon credits from</Text>
-          <Text style={styles.projectName}>{item.creditName}</Text>
-        </View>
-
-        <View style={styles.detailsGrid}>
-          {details.map(([label, value]) => (
-            <View key={label} style={styles.detailBox}>
-              <Text style={styles.detailLabel}>{label}</Text>
-              <Text style={styles.detailValue}>{String(value)}</Text>
-            </View>
-          ))}
-        </View>
-
-        <View style={styles.footer}>
-          <Text style={styles.footerText}>
-            This retirement is permanent and cannot be reversed. The carbon credits
-            have been removed from circulation on the {item.registry || "Verra"}
-            registry and can no longer be used by any other party.
-          </Text>
-          <Text style={styles.footerText}>
-            Carbon Bridge Pvt. Ltd. | Bhubaneswar, Odisha, India | CIN: Pending
-          </Text>
-          <Text style={styles.serial}>SERIAL: {item.certId || "—"}</Text>
-        </View>
-      </Page>
-    </Document>
+      <View style={styles.footer}>
+        <Text style={styles.footerText}>
+          This retirement is permanent and cannot be reversed. The carbon credits
+          have been removed from circulation on the {item.registry || "Verra"}
+          registry and can no longer be used by any other party.
+        </Text>
+        <Text style={styles.footerText}>
+          Carbon Bridge Pvt. Ltd. | Bhubaneswar, Odisha, India | CIN: Pending
+        </Text>
+        <Text style={styles.serial}>SERIAL: {item.certId || "—"}</Text>
+      </View>
+    </Page>
   );
 };
+
+/** Single-cert Document (existing API — used by single-row Download button). */
+export const CarbonCertificate = ({ item, user, logoUrl }) => (
+  <Document
+    title={`Carbon Bridge Certificate ${item.certId || ""}`}
+    author="Carbon Bridge Pvt. Ltd."
+    subject={`Retirement of ${item.qty} tCO2e from ${item.creditName}`}
+    creator="Carbon Bridge"
+  >
+    <CarbonCertificatePage item={item} user={user} logoUrl={logoUrl} />
+  </Document>
+);
+
+/** Multi-cert Document — one Page per item. Used by "Download All Certs". */
+export const CarbonCertificateBundle = ({ items, user, logoUrl }) => (
+  <Document
+    title={`Carbon Bridge — ${items.length} certificate${items.length === 1 ? "" : "s"}`}
+    author="Carbon Bridge Pvt. Ltd."
+    subject={`Bundle of ${items.length} retirement certificates`}
+    creator="Carbon Bridge"
+  >
+    {items.map((item) => (
+      <CarbonCertificatePage key={item.certId} item={item} user={user} logoUrl={logoUrl} />
+    ))}
+  </Document>
+);
 
 export default CarbonCertificate;
