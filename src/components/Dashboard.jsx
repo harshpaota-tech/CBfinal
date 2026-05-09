@@ -3,6 +3,7 @@ import { T } from "../theme.js";
 import Btn from "./ui/Btn.jsx";
 import { uploadKycDocument, authErrorMessage } from "../lib/auth.js";
 import { fetchUserTransactions, retireTransaction } from "../lib/transactions.js";
+import { downloadCertificate } from "../lib/certificate.jsx";
 import { showToast } from "../lib/toast.js";
 import { formatINR } from "../data/credits.js";
 
@@ -71,13 +72,25 @@ export default function Dashboard({ user, setUser, setPage, walletDelta = [] }) 
   const kyc = KYC_BADGES[user.kyc_status] || KYC_BADGES.pending;
   const firstName = (user.name || user.email || "").split(/\s+|@/)[0];
 
-  const handleRetire = async (certId) => {
+  const handleRetireAndDownload = async (rawItem) => {
+    const certId = rawItem.cert_id || rawItem.certId;
     try {
       await retireTransaction(certId);
       setTransactions((prev) => prev.map((t) => (t.cert_id === certId ? { ...t, retired: true } : t)));
-      showToast("Credit retired ✓ — certificate will reflect retirement on the registry.");
+      showToast("Credit retired ✓ — generating certificate…");
+      await downloadCertificate({ ...rawItem, retired: true }, user);
+      showToast("Certificate downloaded 🌿");
     } catch (err) {
-      showToast(err.message || "Could not retire credit.", "error");
+      showToast(err.message || "Could not retire credit.", "error", 6000);
+    }
+  };
+
+  const handleDownload = async (rawItem) => {
+    try {
+      showToast("Generating certificate…", "info", 2500);
+      await downloadCertificate(rawItem, user);
+    } catch (err) {
+      showToast(err.message || "Could not generate certificate.", "error", 6000);
     }
   };
 
@@ -103,7 +116,7 @@ export default function Dashboard({ user, setUser, setPage, walletDelta = [] }) 
         <KycPanel user={user} setUser={setUser} />
       )}
 
-      <WalletPanel txs={allTx} loading={txLoading} setPage={setPage} onRetire={handleRetire} />
+      <WalletPanel txs={allTx} loading={txLoading} setPage={setPage} onRetireAndDownload={handleRetireAndDownload} onDownload={handleDownload} />
 
       <ProfilePanel user={user} />
 
@@ -116,7 +129,7 @@ export default function Dashboard({ user, setUser, setPage, walletDelta = [] }) 
   );
 }
 
-function WalletPanel({ txs, loading, setPage, onRetire }) {
+function WalletPanel({ txs, loading, setPage, onRetireAndDownload, onDownload }) {
   return (
     <div style={{ background: T.bg2, border: `1px solid ${T.border}`, borderRadius: 18, padding: 24, marginBottom: 16 }}>
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 18, flexWrap: "wrap", gap: 8 }}>
@@ -133,48 +146,74 @@ function WalletPanel({ txs, loading, setPage, onRetire }) {
           <Btn variant="outline" size="sm" onClick={() => setPage("marketplace")}>Browse marketplace</Btn>
         </div>
       ) : (
-        <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-          {txs.map((t) => <WalletRow key={t.id || t.cert_id} t={t} onRetire={onRetire} />)}
+        <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
+          {txs.map((t) => <WalletRow key={t.id || t.cert_id} t={t} onRetireAndDownload={onRetireAndDownload} onDownload={onDownload} />)}
         </div>
       )}
     </div>
   );
 }
 
-function WalletRow({ t, onRetire }) {
-  const dt = t.created_at ? new Date(t.created_at) : null;
+function WalletRow({ t, onRetireAndDownload, onDownload }) {
+  const [busy, setBusy] = useState(null); // 'download' | 'retire' | null
+  const dt = (t.created_at || t.date) ? new Date(t.created_at || t.date) : null;
   const dateStr = dt ? dt.toLocaleDateString("en-IN", { day: "2-digit", month: "short", year: "numeric" }) : "—";
+  const certId = t.cert_id || t.certId;
+  const creditName = t.credit_name || t.creditName;
+  const totalInr = t.total_inr ?? t.paidINR ?? 0;
+  const isRetired = !!t.retired;
+  const isStub = !!t._stub;
+
+  const wrap = (key, fn) => async (...args) => {
+    if (busy) return;
+    setBusy(key);
+    try { await fn(...args); } finally { setBusy(null); }
+  };
+
+  const handleDownload = wrap("download", () => onDownload(t));
+  const handleRetireAndDownload = wrap("retire", () => onRetireAndDownload(t));
+
   return (
     <div style={{
       display: "grid",
-      gridTemplateColumns: "44px minmax(0,1.6fr) minmax(0,1fr) auto",
+      gridTemplateColumns: "44px minmax(0,1.4fr) minmax(0,0.9fr) auto",
       alignItems: "center",
       gap: 14,
-      padding: "14px 14px",
+      padding: "14px 16px",
       background: T.bg1,
-      border: `1px solid ${t.retired ? "rgba(34,197,94,0.25)" : T.border}`,
+      border: `1px solid ${isRetired ? "rgba(34,197,94,0.3)" : T.border}`,
       borderRadius: 14,
     }}>
-      <div style={{ fontSize: 28, lineHeight: 1, textAlign: "center" }}>{t._icon || "🌿"}</div>
+      <div style={{ fontSize: 28, lineHeight: 1, textAlign: "center" }}>{t._icon || t.icon || "🌿"}</div>
+
       <div style={{ minWidth: 0 }}>
-        <div style={{ fontSize: 14, fontWeight: 700, color: T.text1, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{t.credit_name}</div>
-        <div style={{ fontSize: 11, color: T.text3, marginTop: 3, fontFamily: "ui-monospace,SFMono-Regular,Menlo,monospace", letterSpacing: 0.3 }}>
-          {t.cert_id} · {dateStr}
+        <div style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 3 }}>
+          <span style={{ fontSize: 14, fontWeight: 700, color: T.text1, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{creditName}</span>
+          {isRetired && (
+            <span style={{ fontSize: 9, fontWeight: 800, color: "#86efac", background: "rgba(34,197,94,0.12)", border: "1px solid rgba(34,197,94,0.4)", padding: "2px 7px", borderRadius: 999, letterSpacing: 0.5, textTransform: "uppercase", flexShrink: 0 }}>Retired ✓</span>
+          )}
+          {isStub && !isRetired && (
+            <span style={{ fontSize: 9, fontWeight: 800, color: "#fdba74", background: "rgba(251,146,60,0.1)", border: "1px solid rgba(251,146,60,0.35)", padding: "2px 7px", borderRadius: 999, letterSpacing: 0.5, textTransform: "uppercase", flexShrink: 0 }}>Just bought</span>
+          )}
+        </div>
+        <div style={{ fontSize: 11, color: T.text3, fontFamily: "ui-monospace,SFMono-Regular,Menlo,monospace", letterSpacing: 0.3, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>
+          {certId} · {dateStr}
         </div>
       </div>
+
       <div style={{ textAlign: "right" }}>
         <div style={{ fontSize: 14, fontWeight: 700, color: T.text1 }}>{(t.qty || 0).toLocaleString("en-IN")} tCO₂e</div>
-        <div style={{ fontSize: 11, color: T.text3, marginTop: 3 }}>₹{Number(t.total_inr || 0).toLocaleString("en-IN")}</div>
+        <div style={{ fontSize: 11, color: T.text3, marginTop: 3 }}>₹{Number(totalInr).toLocaleString("en-IN")}</div>
       </div>
-      <div style={{ display: "flex", flexDirection: "column", gap: 6, alignItems: "flex-end" }}>
-        {t.retired ? (
-          <span style={{ fontSize: 11, fontWeight: 700, color: "#86efac", background: "rgba(34,197,94,0.12)", border: "1px solid rgba(34,197,94,0.4)", padding: "3px 10px", borderRadius: 999, letterSpacing: 0.4, textTransform: "uppercase" }}>Retired ✓</span>
-        ) : t._stub ? (
-          <span style={{ fontSize: 11, fontWeight: 700, color: "#fdba74", background: "rgba(251,146,60,0.1)", border: "1px solid rgba(251,146,60,0.35)", padding: "3px 10px", borderRadius: 999, letterSpacing: 0.4, textTransform: "uppercase" }}>Just bought</span>
-        ) : (
-          <button onClick={() => onRetire(t.cert_id)} style={{ background: "transparent", border: `1px solid ${T.border}`, color: T.text2, fontSize: 11, fontWeight: 600, padding: "5px 12px", borderRadius: 999, cursor: "pointer", fontFamily: "inherit" }}>
-            Retire
-          </button>
+
+      <div style={{ display: "flex", gap: 8, flexWrap: "wrap", justifyContent: "flex-end" }}>
+        <Btn size="sm" variant="outline" onClick={handleDownload} disabled={busy !== null}>
+          {busy === "download" ? "⏳ Generating…" : "📜 Download Certificate"}
+        </Btn>
+        {!isRetired && !isStub && (
+          <Btn size="sm" variant="success" onClick={handleRetireAndDownload} disabled={busy !== null}>
+            {busy === "retire" ? "⏳ Retiring…" : "🔥 Retire & Download"}
+          </Btn>
         )}
       </div>
     </div>

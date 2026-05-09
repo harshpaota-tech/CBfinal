@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { T } from "../../App.jsx";
+import { T } from "../../theme.js";
 
 export default function Btn({
   children,
@@ -41,6 +41,12 @@ export default function Btn({
       color: "#04131a",
       transform: hov && !disabled ? "translateY(-1px)" : "none",
       boxShadow: hov && !disabled ? "0 8px 24px rgba(56,189,248,0.25)" : "none",
+    },
+    success: {
+      background: "linear-gradient(135deg, #22c55e 0%, #15803d 100%)",
+      color: "#04131a",
+      transform: hov && !disabled ? "translateY(-1px)" : "none",
+      boxShadow: hov && !disabled ? "0 8px 24px rgba(34,197,94,0.3)" : "none",
     },
     outline: {
       background: hov && !disabled ? "rgba(56,189,248,0.08)" : "transparent",
