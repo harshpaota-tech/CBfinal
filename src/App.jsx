@@ -6,11 +6,14 @@ import ForBusiness from "./components/ForBusiness.jsx";
 import SellCredits from "./components/SellCredits.jsx";
 import Login from "./components/Login.jsx";
 import Dashboard from "./components/Dashboard.jsx";
+import Checkout from "./components/Checkout.jsx";
 import Btn from "./components/ui/Btn.jsx";
 import Logo from "./components/ui/Logo.jsx";
+import ToastHost from "./components/ui/Toast.jsx";
 import { CONTACT, BRAND } from "./data/credits.js";
 import { supabase, isSupabaseConfigured } from "./lib/supabase.js";
 import { fetchAndSetUser, signOut } from "./lib/auth.js";
+import { showToast } from "./lib/toast.js";
 import { T } from "./theme.js";
 
 // Re-export T from App.jsx for backwards compatibility with components
@@ -31,6 +34,8 @@ export default function App() {
   });
   const [user, setUser] = useState(null);
   const [authLoading, setAuthLoading] = useState(true);
+  const [checkout, setCheckout] = useState(null);     // { credit, qty }
+  const [walletDelta, setWalletDelta] = useState([]); // newly bought, optimistic
 
   // ----- Hash-based routing (unchanged) -----
   useEffect(() => {
@@ -82,7 +87,18 @@ export default function App() {
 
   const handleSignOut = async () => {
     await signOut(setUser);
+    setCheckout(null);
+    setWalletDelta([]);
     setPage("home");
+  };
+
+  const handleBuy = (credit) => {
+    setCheckout({ credit, qty: 1 });
+    setPage("checkout");
+  };
+
+  const handlePurchased = (walletItem) => {
+    setWalletDelta((prev) => [walletItem, ...prev]);
   };
 
   const renderPage = () => {
@@ -90,7 +106,7 @@ export default function App() {
       case "home":
         return <Home setPage={setPage} />;
       case "marketplace":
-        return <Marketplace setPage={setPage} />;
+        return <Marketplace setPage={setPage} onBuy={handleBuy} />;
       case "howitworks":
         return <HowItWorks setPage={setPage} />;
       case "business":
@@ -98,11 +114,13 @@ export default function App() {
       case "sell":
         return <SellCredits setPage={setPage} />;
       case "login":
-        return user ? <Dashboard user={user} setUser={setUser} setPage={setPage} /> : <Login setPage={setPage} setUser={setUser} mode="login" />;
+        return user ? <Dashboard user={user} setUser={setUser} setPage={setPage} walletDelta={walletDelta} /> : <Login setPage={setPage} setUser={setUser} mode="login" />;
       case "register":
-        return user ? <Dashboard user={user} setUser={setUser} setPage={setPage} /> : <Login setPage={setPage} setUser={setUser} mode="register" />;
+        return user ? <Dashboard user={user} setUser={setUser} setPage={setPage} walletDelta={walletDelta} /> : <Login setPage={setPage} setUser={setUser} mode="register" />;
       case "dashboard":
-        return <Dashboard user={user} setUser={setUser} setPage={setPage} />;
+        return <Dashboard user={user} setUser={setUser} setPage={setPage} walletDelta={walletDelta} />;
+      case "checkout":
+        return <Checkout checkout={checkout} setCheckout={setCheckout} user={user} setPage={setPage} onPurchased={handlePurchased} />;
       default:
         return <Home setPage={setPage} />;
     }
@@ -123,6 +141,7 @@ export default function App() {
       <Header page={page} setPage={setPage} user={user} authLoading={authLoading} onSignOut={handleSignOut} />
       <main style={{ flex: 1 }}>{renderPage()}</main>
       <Footer setPage={setPage} />
+      <ToastHost />
     </div>
   );
 }

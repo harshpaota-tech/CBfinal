@@ -65,7 +65,48 @@ create trigger on_auth_user_created
   after insert on auth.users
   for each row execute function public.handle_new_user();
 
--- 4. KYC documents storage bucket --------------------------------------------
+-- 4. transactions table -------------------------------------------------------
+create extension if not exists "uuid-ossp";
+
+create table if not exists public.transactions (
+  id                  uuid default uuid_generate_v4() primary key,
+  user_id             uuid references public.profiles(id) on delete cascade,
+  credit_id           int,
+  credit_name         text,
+  qty                 int,
+  price_inr           numeric,
+  total_inr           numeric,
+  payment_id          text,
+  razorpay_order_id   text,
+  cert_id             text unique,
+  status              text default 'completed' check (status in ('completed', 'failed', 'refunded')),
+  registry            text,
+  vintage             int,
+  retired             boolean default false,
+  created_at          timestamptz default now()
+);
+
+create index if not exists transactions_user_id_idx on public.transactions(user_id);
+create index if not exists transactions_created_at_idx on public.transactions(created_at desc);
+
+alter table public.transactions enable row level security;
+
+drop policy if exists "Users can view their own transactions" on public.transactions;
+create policy "Users can view their own transactions"
+  on public.transactions for select
+  using (auth.uid() = user_id);
+
+drop policy if exists "Users can insert their own transactions" on public.transactions;
+create policy "Users can insert their own transactions"
+  on public.transactions for insert
+  with check (auth.uid() = user_id);
+
+drop policy if exists "Users can retire their own transactions" on public.transactions;
+create policy "Users can retire their own transactions"
+  on public.transactions for update
+  using (auth.uid() = user_id);
+
+-- 5. KYC documents storage bucket --------------------------------------------
 insert into storage.buckets (id, name, public)
 values ('kyc-documents', 'kyc-documents', false)
 on conflict (id) do nothing;

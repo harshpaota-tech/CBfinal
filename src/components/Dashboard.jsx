@@ -1,7 +1,9 @@
-import { useState } from "react";
-import { T } from "../App.jsx";
+import { useEffect, useState } from "react";
+import { T } from "../theme.js";
 import Btn from "./ui/Btn.jsx";
 import { uploadKycDocument, authErrorMessage } from "../lib/auth.js";
+import { fetchUserTransactions, retireTransaction } from "../lib/transactions.js";
+import { showToast } from "../lib/toast.js";
 import { formatINR } from "../data/credits.js";
 
 const KYC_BADGES = {
@@ -12,7 +14,21 @@ const KYC_BADGES = {
 
 const ROLE_LABELS = { buyer: "Buyer", seller: "Seller", business: "Business" };
 
-export default function Dashboard({ user, setUser, setPage }) {
+export default function Dashboard({ user, setUser, setPage, walletDelta = [] }) {
+  const [transactions, setTransactions] = useState([]);
+  const [txLoading, setTxLoading] = useState(false);
+
+  // Fetch the user's purchases on mount + whenever a new purchase is recorded.
+  useEffect(() => {
+    let mounted = true;
+    if (!user?.id) return;
+    setTxLoading(true);
+    fetchUserTransactions(user.id)
+      .then((data) => mounted && setTransactions(data))
+      .finally(() => mounted && setTxLoading(false));
+    return () => { mounted = false; };
+  }, [user?.id, walletDelta.length]);
+
   if (!user) {
     return (
       <div className="fade" style={{ minHeight: "60vh", display: "flex", alignItems: "center", justifyContent: "center", padding: "60px 24px" }}>
@@ -28,8 +44,42 @@ export default function Dashboard({ user, setUser, setPage }) {
     );
   }
 
+  // Merge persisted transactions with optimistically-added in-memory ones (so
+  // the Wallet shows the new credit instantly even before Supabase round-trip).
+  const seen = new Set(transactions.map((t) => t.cert_id));
+  const inMemory = walletDelta
+    .filter((w) => !seen.has(w.certId))
+    .map((w) => ({
+      id: w.certId,
+      cert_id: w.certId,
+      credit_name: w.creditName,
+      qty: w.qty,
+      total_inr: w.paidINR,
+      payment_id: w.paymentId,
+      registry: w.registry,
+      created_at: w.date,
+      retired: false,
+      _icon: w.icon,
+      _stub: true,
+    }));
+  const allTx = [...inMemory, ...transactions];
+
+  const totalCredits = allTx.filter((t) => !t.retired).reduce((s, t) => s + (t.qty || 0), 0);
+  const totalRetired = allTx.filter((t) => t.retired).reduce((s, t) => s + (t.qty || 0), 0);
+  const totalSpentINR = allTx.reduce((s, t) => s + Number(t.total_inr || 0), 0);
+
   const kyc = KYC_BADGES[user.kyc_status] || KYC_BADGES.pending;
   const firstName = (user.name || user.email || "").split(/\s+|@/)[0];
+
+  const handleRetire = async (certId) => {
+    try {
+      await retireTransaction(certId);
+      setTransactions((prev) => prev.map((t) => (t.cert_id === certId ? { ...t, retired: true } : t)));
+      showToast("Credit retired ✓ — certificate will reflect retirement on the registry.");
+    } catch (err) {
+      showToast(err.message || "Could not retire credit.", "error");
+    }
+  };
 
   return (
     <div className="fade" style={{ maxWidth: 1100, margin: "0 auto", padding: "60px 24px 80px" }}>
@@ -42,9 +92,10 @@ export default function Dashboard({ user, setUser, setPage }) {
         </p>
       </div>
 
-      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit,minmax(240px,1fr))", gap: 16, marginBottom: 32 }}>
-        <StatCard label="Wallet balance" value={formatINR(user.wallet_balance / 83.5)} sub={`${user.wallet_balance.toLocaleString("en-IN")} INR`} />
-        <StatCard label="Account type" value={ROLE_LABELS[user.role] ?? "—"} sub={user.country === "IN" ? "🇮🇳 India" : user.country} />
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit,minmax(220px,1fr))", gap: 16, marginBottom: 24 }}>
+        <StatCard label="Active credits" value={totalCredits.toLocaleString("en-IN")} sub="tCO₂e in wallet" />
+        <StatCard label="Retired credits" value={totalRetired.toLocaleString("en-IN")} sub="tCO₂e offset" />
+        <StatCard label="Total spent" value={`₹${totalSpentINR.toLocaleString("en-IN")}`} sub={`${allTx.length} transactions`} />
         <StatCard label="KYC status" value={kyc.label} valueColor={kyc.color} valueBg={kyc.bg} sub={user.kyc_doc_url ? "Document submitted" : "Not yet submitted"} />
       </div>
 
@@ -52,12 +103,79 @@ export default function Dashboard({ user, setUser, setPage }) {
         <KycPanel user={user} setUser={setUser} />
       )}
 
+      <WalletPanel txs={allTx} loading={txLoading} setPage={setPage} onRetire={handleRetire} />
+
       <ProfilePanel user={user} />
 
       <div style={{ marginTop: 28, padding: "32px 28px", background: T.bg1, border: `1px solid ${T.border}`, borderRadius: 18, textAlign: "center" }}>
-        <h3 style={{ fontFamily: "'Outfit',sans-serif", fontSize: 20, fontWeight: 800, marginBottom: 6 }}>Ready to start offsetting?</h3>
-        <p style={{ color: T.text2, fontSize: 14, marginBottom: 20 }}>Browse 8 verified projects across 6 Indian states.</p>
+        <h3 style={{ fontFamily: "'Outfit',sans-serif", fontSize: 20, fontWeight: 800, marginBottom: 6 }}>Want to offset more?</h3>
+        <p style={{ color: T.text2, fontSize: 14, marginBottom: 20 }}>8 verified projects across 6 Indian states — buy credits in INR.</p>
         <Btn onClick={() => setPage("marketplace")}>Browse marketplace →</Btn>
+      </div>
+    </div>
+  );
+}
+
+function WalletPanel({ txs, loading, setPage, onRetire }) {
+  return (
+    <div style={{ background: T.bg2, border: `1px solid ${T.border}`, borderRadius: 18, padding: 24, marginBottom: 16 }}>
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 18, flexWrap: "wrap", gap: 8 }}>
+        <h3 style={{ fontFamily: "'Outfit',sans-serif", fontSize: 17, fontWeight: 700, margin: 0 }}>Wallet & Certificates</h3>
+        <span style={{ fontSize: 12, color: T.text3 }}>{txs.length} transaction{txs.length === 1 ? "" : "s"}</span>
+      </div>
+
+      {loading && txs.length === 0 ? (
+        <div style={{ padding: "30px 0", textAlign: "center", color: T.text3, fontSize: 13 }}>Loading wallet…</div>
+      ) : txs.length === 0 ? (
+        <div style={{ padding: "30px 0", textAlign: "center" }}>
+          <div style={{ fontSize: 36, marginBottom: 10 }}>🪪</div>
+          <div style={{ fontSize: 14, color: T.text2, marginBottom: 14 }}>No credits yet — your purchases will appear here.</div>
+          <Btn variant="outline" size="sm" onClick={() => setPage("marketplace")}>Browse marketplace</Btn>
+        </div>
+      ) : (
+        <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
+          {txs.map((t) => <WalletRow key={t.id || t.cert_id} t={t} onRetire={onRetire} />)}
+        </div>
+      )}
+    </div>
+  );
+}
+
+function WalletRow({ t, onRetire }) {
+  const dt = t.created_at ? new Date(t.created_at) : null;
+  const dateStr = dt ? dt.toLocaleDateString("en-IN", { day: "2-digit", month: "short", year: "numeric" }) : "—";
+  return (
+    <div style={{
+      display: "grid",
+      gridTemplateColumns: "44px minmax(0,1.6fr) minmax(0,1fr) auto",
+      alignItems: "center",
+      gap: 14,
+      padding: "14px 14px",
+      background: T.bg1,
+      border: `1px solid ${t.retired ? "rgba(34,197,94,0.25)" : T.border}`,
+      borderRadius: 14,
+    }}>
+      <div style={{ fontSize: 28, lineHeight: 1, textAlign: "center" }}>{t._icon || "🌿"}</div>
+      <div style={{ minWidth: 0 }}>
+        <div style={{ fontSize: 14, fontWeight: 700, color: T.text1, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{t.credit_name}</div>
+        <div style={{ fontSize: 11, color: T.text3, marginTop: 3, fontFamily: "ui-monospace,SFMono-Regular,Menlo,monospace", letterSpacing: 0.3 }}>
+          {t.cert_id} · {dateStr}
+        </div>
+      </div>
+      <div style={{ textAlign: "right" }}>
+        <div style={{ fontSize: 14, fontWeight: 700, color: T.text1 }}>{(t.qty || 0).toLocaleString("en-IN")} tCO₂e</div>
+        <div style={{ fontSize: 11, color: T.text3, marginTop: 3 }}>₹{Number(t.total_inr || 0).toLocaleString("en-IN")}</div>
+      </div>
+      <div style={{ display: "flex", flexDirection: "column", gap: 6, alignItems: "flex-end" }}>
+        {t.retired ? (
+          <span style={{ fontSize: 11, fontWeight: 700, color: "#86efac", background: "rgba(34,197,94,0.12)", border: "1px solid rgba(34,197,94,0.4)", padding: "3px 10px", borderRadius: 999, letterSpacing: 0.4, textTransform: "uppercase" }}>Retired ✓</span>
+        ) : t._stub ? (
+          <span style={{ fontSize: 11, fontWeight: 700, color: "#fdba74", background: "rgba(251,146,60,0.1)", border: "1px solid rgba(251,146,60,0.35)", padding: "3px 10px", borderRadius: 999, letterSpacing: 0.4, textTransform: "uppercase" }}>Just bought</span>
+        ) : (
+          <button onClick={() => onRetire(t.cert_id)} style={{ background: "transparent", border: `1px solid ${T.border}`, color: T.text2, fontSize: 11, fontWeight: 600, padding: "5px 12px", borderRadius: 999, cursor: "pointer", fontFamily: "inherit" }}>
+            Retire
+          </button>
+        )}
       </div>
     </div>
   );

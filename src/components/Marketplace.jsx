@@ -11,7 +11,7 @@ const SORTS = [
   { id: "credits-asc", label: "Fewest Credits" },
 ];
 
-function ProjectCard({ c }) {
+function ProjectCard({ c, onBuy }) {
   const [hov, setHov] = useState(false);
   return (
     <div
@@ -23,7 +23,6 @@ function ProjectCard({ c }) {
         borderRadius: 20,
         padding: 24,
         transition: "all .25s",
-        cursor: "pointer",
         display: "flex",
         flexDirection: "column",
         gap: 12,
@@ -79,11 +78,15 @@ function ProjectCard({ c }) {
           <div style={{ fontSize: 11, color: T.text3, marginTop: 2 }}>credits left</div>
         </div>
       </div>
+
+      <Btn onClick={() => onBuy?.(c)} style={{ width: "100%", marginTop: 6 }}>
+        Buy credits →
+      </Btn>
     </div>
   );
 }
 
-export default function Marketplace({ setPage }) {
+export default function Marketplace({ setPage, onBuy }) {
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState("all");
   const [stateFilter, setStateFilter] = useState("all");
@@ -223,7 +226,7 @@ export default function Marketplace({ setPage }) {
         </div>
       ) : (
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill,minmax(300px,1fr))", gap: 20 }}>
-          {visible.map((c) => <ProjectCard key={c.id} c={c} />)}
+          {visible.map((c) => <ProjectCard key={c.id} c={c} onBuy={onBuy} />)}
         </div>
       )}
 
