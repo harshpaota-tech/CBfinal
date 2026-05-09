@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from "react";
+import { useTranslation } from "react-i18next";
 import Home from "./components/Home.jsx";
 import HowItWorks from "./components/HowItWorks.jsx";
 import Marketplace from "./components/Marketplace.jsx";
@@ -10,6 +11,8 @@ import Checkout from "./components/Checkout.jsx";
 import Btn from "./components/ui/Btn.jsx";
 import Logo from "./components/ui/Logo.jsx";
 import ToastHost from "./components/ui/Toast.jsx";
+import LangToggle from "./components/ui/LangToggle.jsx";
+import { setLanguage } from "./i18n/index.js";
 import { CONTACT, BRAND } from "./data/credits.js";
 import { supabase, isSupabaseConfigured } from "./lib/supabase.js";
 import { fetchAndSetUser, signOut } from "./lib/auth.js";
@@ -20,11 +23,11 @@ import { T } from "./theme.js";
 // that already do `import { T } from "../App.jsx"`. Source of truth is theme.js.
 export { T };
 
-const NAV = [
-  { id: "marketplace", label: "Marketplace" },
-  { id: "howitworks", label: "How It Works" },
-  { id: "business", label: "For Business" },
-  { id: "sell", label: "Sell Credits" },
+const NAV_KEYS = [
+  { id: "marketplace", tk: "nav.marketplace" },
+  { id: "howitworks", tk: "nav.howItWorks" },
+  { id: "business", tk: "nav.forBusiness" },
+  { id: "sell", tk: "nav.sellCredits" },
 ];
 
 export default function App() {
@@ -49,6 +52,13 @@ export default function App() {
     window.addEventListener("hashchange", onHash);
     return () => window.removeEventListener("hashchange", onHash);
   }, []);
+
+  // ----- Sync UI language to user profile when logged in -----
+  useEffect(() => {
+    if (user?.language && (user.language === "en" || user.language === "hi")) {
+      setLanguage(user.language);
+    }
+  }, [user?.language]);
 
   // ----- Session bootstrap + onAuthStateChange listener -----
   useEffect(() => {
@@ -147,6 +157,7 @@ export default function App() {
 }
 
 function Header({ page, setPage, user, authLoading, onSignOut }) {
+  const { t } = useTranslation();
   return (
     <header style={{ position: "sticky", top: 0, zIndex: 50, background: "rgba(4,8,15,0.78)", backdropFilter: "blur(12px)", borderBottom: `1px solid ${T.border}` }}>
       <div style={{ maxWidth: 1200, margin: "0 auto", padding: "14px 24px", display: "flex", alignItems: "center", justifyContent: "space-between", gap: 16, flexWrap: "wrap" }}>
@@ -154,7 +165,7 @@ function Header({ page, setPage, user, authLoading, onSignOut }) {
           <Logo size={40} muted={T.text3} />
         </div>
         <nav style={{ display: "flex", gap: 4, alignItems: "center", flexWrap: "wrap" }}>
-          {NAV.map((n) => (
+          {NAV_KEYS.map((n) => (
             <button
               key={n.id}
               onClick={() => setPage(n.id)}
@@ -171,18 +182,19 @@ function Header({ page, setPage, user, authLoading, onSignOut }) {
                 transition: "all .2s",
               }}
             >
-              {n.label}
+              {t(n.tk)}
             </button>
           ))}
           <div style={{ width: 1, height: 22, background: T.border, margin: "0 6px" }} />
+          <LangToggle size="sm" />
           {authLoading ? (
             <div style={{ width: 90, height: 32, borderRadius: 10, background: T.bg2, opacity: 0.5 }} />
           ) : user ? (
             <UserMenu user={user} setPage={setPage} onSignOut={onSignOut} />
           ) : (
             <>
-              <Btn variant="outline" size="sm" onClick={() => setPage("login")}>Login</Btn>
-              <Btn size="sm" onClick={() => setPage("register")}>Get Started</Btn>
+              <Btn variant="outline" size="sm" onClick={() => setPage("login")}>{t("nav.login")}</Btn>
+              <Btn size="sm" onClick={() => setPage("register")}>{t("nav.getStarted")}</Btn>
             </>
           )}
         </nav>
@@ -254,11 +266,16 @@ function UserMenu({ user, setPage, onSignOut }) {
           <MenuItem onClick={() => { setOpen(false); setPage("dashboard"); }}>📊 Dashboard</MenuItem>
           <MenuItem onClick={() => { setOpen(false); setPage("marketplace"); }}>🛒 Marketplace</MenuItem>
           <div style={{ height: 1, background: T.border, margin: "4px 0" }} />
-          <MenuItem onClick={() => { setOpen(false); onSignOut(); }} danger>↩ Sign out</MenuItem>
+          <SignOutMenuItem onSelect={() => { setOpen(false); onSignOut(); }} />
         </div>
       )}
     </div>
   );
+}
+
+function SignOutMenuItem({ onSelect }) {
+  const { t } = useTranslation();
+  return <MenuItem onClick={onSelect} danger>↩ {t("nav.signOut")}</MenuItem>;
 }
 
 function MenuItem({ children, onClick, danger }) {

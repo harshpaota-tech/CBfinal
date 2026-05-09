@@ -16,13 +16,15 @@ function ensureConfigured() {
 export function buildUserFromProfile(authUser, profile) {
   return {
     id: authUser.id,
-    email: authUser.email,
+    email: authUser.email || profile?.email || "",
+    phone: profile?.phone ?? authUser.phone ?? authUser.user_metadata?.phone ?? "",
+    phoneConfirmed: !!authUser.phone_confirmed_at,
     emailConfirmed: !!authUser.email_confirmed_at,
     name: profile?.name ?? authUser.user_metadata?.name ?? "",
-    phone: profile?.phone ?? authUser.user_metadata?.phone ?? "",
     role: profile?.role ?? authUser.user_metadata?.role ?? "buyer",
     company: profile?.company ?? authUser.user_metadata?.company ?? "",
     country: profile?.country ?? "IN",
+    language: profile?.language ?? authUser.user_metadata?.language ?? "en",
     kyc_status: profile?.kyc_status ?? "pending",
     kyc_doc_url: profile?.kyc_doc_url ?? null,
     wallet_balance: Number(profile?.wallet_balance ?? 0),
@@ -82,15 +84,51 @@ export async function signInWithGoogle(redirectTo) {
   return data;
 }
 
-export async function signUpWithEmail({ email, password, name, phone, role, company }) {
+export async function signUpWithEmail({ email, password, name, phone, role, company, language }) {
   ensureConfigured();
   const { data, error } = await supabase.auth.signUp({
     email,
     password,
     options: {
-      data: { name, phone, role, company: company || null },
+      data: { name, phone, role, company: company || null, language: language || "en" },
       emailRedirectTo: typeof window !== "undefined" ? window.location.origin + "/#register" : undefined,
     },
+  });
+  if (error) throw error;
+  return data;
+}
+
+/** Normalize a free-form phone string to E.164 with India default (+91). */
+export function toE164India(raw) {
+  if (!raw) return "";
+  const digits = String(raw).replace(/\D/g, "");
+  if (digits.startsWith("91") && digits.length === 12) return "+" + digits;
+  if (digits.length === 10) return "+91" + digits;
+  if (digits.length === 11 && digits.startsWith("0")) return "+91" + digits.slice(1);
+  if (raw.startsWith("+")) return "+" + digits;
+  return "+91" + digits;
+}
+
+export function isValidIndianMobile(raw) {
+  const digits = String(raw || "").replace(/\D/g, "").replace(/^91/, "").replace(/^0/, "");
+  return /^[6-9]\d{9}$/.test(digits);
+}
+
+export async function sendPhoneOtp(phoneE164) {
+  ensureConfigured();
+  const { error } = await supabase.auth.signInWithOtp({
+    phone: phoneE164,
+    options: { channel: "sms" },
+  });
+  if (error) throw error;
+}
+
+export async function verifyPhoneOtp(phoneE164, token) {
+  ensureConfigured();
+  const { data, error } = await supabase.auth.verifyOtp({
+    phone: phoneE164,
+    token,
+    type: "sms",
   });
   if (error) throw error;
   return data;
@@ -165,5 +203,9 @@ export function authErrorMessage(err) {
   if (/user already registered/i.test(msg)) return "An account with that email already exists. Try logging in instead.";
   if (/weak.password|password.*at least/i.test(msg)) return "Password is too weak — use at least 8 characters.";
   if (/rate limit/i.test(msg)) return "Too many attempts. Wait a minute and try again.";
+  if (/sms.*provider|phone.*provider|signup.*disabled.*phone|unsupported phone provider/i.test(msg))
+    return "SMS login isn't enabled yet. Set up an SMS provider in Supabase → Authentication → Providers → Phone.";
+  if (/invalid.*phone|phone.*invalid|phone.*format/i.test(msg)) return "Please enter a valid 10-digit Indian mobile number.";
+  if (/invalid.*token|otp.*invalid|invalid.*otp/i.test(msg)) return "That OTP is incorrect or expired. Try again or request a new code.";
   return msg;
 }

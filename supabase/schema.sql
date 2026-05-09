@@ -14,11 +14,15 @@ create table if not exists public.profiles (
   role            text check (role in ('buyer', 'seller', 'business')),
   company         text,
   country         text default 'IN',
+  language        text default 'en' check (language in ('en', 'hi')),
   kyc_status      text default 'pending' check (kyc_status in ('pending', 'approved', 'rejected')),
   kyc_doc_url     text,
   wallet_balance  numeric default 0,
   created_at      timestamptz default now()
 );
+
+-- Idempotent column add for existing deployments
+alter table public.profiles add column if not exists language text default 'en';
 
 -- 2. Row Level Security -------------------------------------------------------
 alter table public.profiles enable row level security;
@@ -46,14 +50,15 @@ security definer
 set search_path = public
 as $$
 begin
-  insert into public.profiles (id, email, name, phone, role, company)
+  insert into public.profiles (id, email, phone, name, role, company, language)
   values (
     new.id,
-    new.email,
+    coalesce(new.email, ''),
+    coalesce(new.phone, new.raw_user_meta_data->>'phone', ''),
     coalesce(new.raw_user_meta_data->>'name', ''),
-    coalesce(new.raw_user_meta_data->>'phone', ''),
     coalesce(new.raw_user_meta_data->>'role', 'buyer'),
-    coalesce(new.raw_user_meta_data->>'company', null)
+    coalesce(new.raw_user_meta_data->>'company', null),
+    coalesce(new.raw_user_meta_data->>'language', 'en')
   )
   on conflict (id) do nothing;
   return new;

@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
-import { T } from "../App.jsx";
+import { useTranslation } from "react-i18next";
+import { T } from "../theme.js";
 import { CATEGORIES, CREDITS, STATES, STATE_COUNT, formatINR, formatUSD } from "../data/credits.js";
 import Btn from "./ui/Btn.jsx";
 import Badge from "./ui/Badge.jsx";
@@ -12,6 +13,7 @@ const SORTS = [
 ];
 
 function ProjectCard({ c, onBuy }) {
+  const { t } = useTranslation();
   const [hov, setHov] = useState(false);
   return (
     <div
@@ -71,16 +73,16 @@ function ProjectCard({ c, onBuy }) {
             {formatINR(c.price)}
           </div>
           <div style={{ fontSize: 11, color: T.text3, marginTop: 4 }}>{formatUSD(c.price)} USD</div>
-          <div style={{ fontSize: 11, color: T.text3, marginTop: 2 }}>per tonne CO₂</div>
+          <div style={{ fontSize: 11, color: T.text3, marginTop: 2 }}>{t("credits.perTonne")}</div>
         </div>
         <div style={{ textAlign: "right" }}>
           <div style={{ fontFamily: "'Outfit',sans-serif", fontSize: 16, fontWeight: 700, color: T.text1 }}>{c.available.toLocaleString("en-IN")}</div>
-          <div style={{ fontSize: 11, color: T.text3, marginTop: 2 }}>credits left</div>
+          <div style={{ fontSize: 11, color: T.text3, marginTop: 2 }}>{t("credits.available")}</div>
         </div>
       </div>
 
       <Btn onClick={() => onBuy?.(c)} style={{ width: "100%", marginTop: 6 }}>
-        Buy credits →
+        {t("credits.buyNow")} →
       </Btn>
     </div>
   );

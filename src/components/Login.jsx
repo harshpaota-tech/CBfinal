@@ -1,6 +1,8 @@
 import { useEffect, useRef, useState } from "react";
+import { useTranslation } from "react-i18next";
 import { T } from "../theme.js";
 import Btn from "./ui/Btn.jsx";
+import OtpInput from "./ui/OtpInput.jsx";
 import { supabase, isSupabaseConfigured } from "../lib/supabase.js";
 import {
   signInWithEmail,
@@ -10,7 +12,12 @@ import {
   uploadKycDocument,
   authErrorMessage,
   fetchAndSetUser,
+  sendPhoneOtp,
+  verifyPhoneOtp,
+  toE164India,
+  isValidIndianMobile,
 } from "../lib/auth.js";
+import { setLanguage } from "../i18n/index.js";
 
 const ROLES = [
   { id: "buyer", icon: "🛒", title: "Buyer", desc: "Individuals and ESG buyers offsetting their footprint." },
@@ -18,15 +25,84 @@ const ROLES = [
   { id: "business", icon: "🏢", title: "Business", desc: "Companies needing bulk credits, GST invoices, ESG reports." },
 ];
 
+const RESEND_COOLDOWN_SEC = 30;
+
 export default function Login({ setPage, setUser, mode = "login" }) {
   if (mode === "register") return <Register setPage={setPage} setUser={setUser} />;
   return <SignIn setPage={setPage} setUser={setUser} />;
 }
 
 // =============================================================================
-// SIGN IN
+// SIGN IN — email/password OR phone OTP
 // =============================================================================
 function SignIn({ setPage, setUser }) {
+  const { t } = useTranslation();
+  const [method, setMethod] = useState("email"); // 'email' | 'phone'
+
+  return (
+    <AuthShell title={t("auth.welcomeBack")} subtitle={t("auth.signIn")}>
+      {!isSupabaseConfigured && <ConfigWarning />}
+
+      <MethodTabs method={method} onChange={setMethod} />
+
+      {method === "email" ? (
+        <EmailSignIn setPage={setPage} setUser={setUser} />
+      ) : (
+        <PhoneSignIn setPage={setPage} setUser={setUser} />
+      )}
+
+      <SwitchLink>
+        {t("auth.dontHaveAccount")}{" "}
+        <LinkButton onClick={() => setPage("register")}>{t("auth.signUpFree")}</LinkButton>
+      </SwitchLink>
+    </AuthShell>
+  );
+}
+
+function MethodTabs({ method, onChange }) {
+  const { t } = useTranslation();
+  const tabs = [
+    { id: "email", label: t("auth.loginWithEmail"), icon: "✉️" },
+    { id: "phone", label: t("auth.loginWithPhone"), icon: "📱" },
+  ];
+  return (
+    <div style={{ display: "flex", background: T.bg1, border: `1px solid ${T.border}`, borderRadius: 12, padding: 4, marginBottom: 18 }}>
+      {tabs.map((tab) => {
+        const active = method === tab.id;
+        return (
+          <button
+            key={tab.id}
+            type="button"
+            onClick={() => onChange(tab.id)}
+            style={{
+              flex: 1,
+              background: active ? "rgba(34,197,94,0.12)" : "transparent",
+              border: `1px solid ${active ? "rgba(34,197,94,0.35)" : "transparent"}`,
+              color: active ? "#86efac" : T.text2,
+              padding: "9px 10px",
+              borderRadius: 9,
+              fontSize: 13,
+              fontWeight: 600,
+              cursor: "pointer",
+              fontFamily: "inherit",
+              transition: "all .15s",
+              display: "inline-flex",
+              alignItems: "center",
+              justifyContent: "center",
+              gap: 6,
+            }}
+          >
+            <span aria-hidden style={{ fontSize: 14 }}>{tab.icon}</span>
+            <span>{tab.label}</span>
+          </button>
+        );
+      })}
+    </div>
+  );
+}
+
+function EmailSignIn({ setPage, setUser }) {
+  const { t } = useTranslation();
   const [form, setForm] = useState({ email: "", password: "" });
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
@@ -59,36 +135,182 @@ function SignIn({ setPage, setUser }) {
   };
 
   return (
-    <AuthShell title="Welcome back" subtitle="Log in to manage your wallet and retirements.">
-      {!isSupabaseConfigured && <ConfigWarning />}
-
+    <>
       <GoogleButton onClick={handleGoogle} loading={googleLoading} disabled={loading} />
-
       <Divider />
 
       <form onSubmit={submit} style={{ display: "flex", flexDirection: "column", gap: 12 }}>
-        <Field label="Email" type="email" value={form.email} onChange={(v) => setForm({ ...form, email: v })} placeholder="you@company.com" required autoComplete="email" />
-        <Field label="Password" type="password" value={form.password} onChange={(v) => setForm({ ...form, password: v })} placeholder="••••••••" required autoComplete="current-password" />
+        <Field label={t("auth.email")} type="email" value={form.email} onChange={(v) => setForm({ ...form, email: v })} placeholder="you@company.com" required autoComplete="email" />
+        <Field label={t("auth.password")} type="password" value={form.password} onChange={(v) => setForm({ ...form, password: v })} placeholder="••••••••" required autoComplete="current-password" />
 
         {error && <ErrorBox>{error}</ErrorBox>}
 
         <Btn type="submit" disabled={loading} style={{ width: "100%", marginTop: 4 }}>
-          {loading ? "Logging in…" : "Log in"}
+          {loading ? "…" : t("auth.signIn")}
         </Btn>
       </form>
+    </>
+  );
+}
 
-      <SwitchLink>
-        New to Carbon Bridge?{" "}
-        <LinkButton onClick={() => setPage("register")}>Create account</LinkButton>
-      </SwitchLink>
-    </AuthShell>
+// -------------------- Phone OTP flow ---------------------
+function PhoneSignIn({ setPage, setUser }) {
+  const { t } = useTranslation();
+  const [phone, setPhone] = useState("");
+  const [stage, setStage] = useState("phone"); // 'phone' | 'otp'
+  const [otp, setOtp] = useState("");
+  const [error, setError] = useState("");
+  const [sending, setSending] = useState(false);
+  const [verifying, setVerifying] = useState(false);
+  const [cooldown, setCooldown] = useState(0);
+
+  // Countdown for resend
+  useEffect(() => {
+    if (cooldown <= 0) return;
+    const id = setInterval(() => setCooldown((c) => Math.max(0, c - 1)), 1000);
+    return () => clearInterval(id);
+  }, [cooldown]);
+
+  const e164 = toE164India(phone);
+
+  const sendOtp = async () => {
+    setError("");
+    if (!isValidIndianMobile(phone)) {
+      setError("Please enter a valid 10-digit Indian mobile number.");
+      return;
+    }
+    setSending(true);
+    try {
+      await sendPhoneOtp(e164);
+      setStage("otp");
+      setCooldown(RESEND_COOLDOWN_SEC);
+    } catch (err) {
+      setError(authErrorMessage(err));
+    } finally {
+      setSending(false);
+    }
+  };
+
+  const verify = async (token) => {
+    const code = token || otp;
+    if (code.length !== 6) return;
+    setError("");
+    setVerifying(true);
+    try {
+      const { user: authUser } = await verifyPhoneOtp(e164, code);
+      if (!authUser) throw new Error("Verification failed — no user returned.");
+      await fetchAndSetUser(authUser.id, setUser, authUser);
+      setPage("dashboard");
+    } catch (err) {
+      setError(authErrorMessage(err));
+      setVerifying(false);
+    }
+  };
+
+  if (stage === "phone") {
+    return (
+      <form onSubmit={(e) => { e.preventDefault(); sendOtp(); }} style={{ display: "flex", flexDirection: "column", gap: 12 }}>
+        <label style={{ display: "flex", flexDirection: "column", gap: 6 }}>
+          <span style={{ fontSize: 12, color: T.text3, fontWeight: 600, letterSpacing: 0.3 }}>{t("auth.phoneNumber")}</span>
+          <div style={{ display: "flex", alignItems: "stretch", background: T.bg1, border: `1px solid ${T.border}`, borderRadius: 12, overflow: "hidden" }}>
+            <span style={{
+              padding: "12px 14px",
+              fontSize: 14,
+              color: T.text2,
+              background: T.bg2,
+              borderRight: `1px solid ${T.border}`,
+              fontWeight: 600,
+              userSelect: "none",
+            }}>🇮🇳 +91</span>
+            <input
+              type="tel"
+              inputMode="numeric"
+              autoComplete="tel-national"
+              value={phone}
+              onChange={(e) => setPhone(e.target.value.replace(/\D/g, "").slice(0, 10))}
+              placeholder={t("auth.phonePlaceholder")}
+              required
+              style={{
+                flex: 1,
+                background: "transparent",
+                border: "none",
+                color: T.text1,
+                fontSize: 16,
+                padding: "12px 14px",
+                outline: "none",
+                fontFamily: "inherit",
+                letterSpacing: 0.5,
+              }}
+            />
+          </div>
+        </label>
+
+        {error && <ErrorBox>{error}</ErrorBox>}
+
+        <Btn type="submit" disabled={sending || !isValidIndianMobile(phone)} style={{ width: "100%", marginTop: 4 }}>
+          {sending ? "…" : t("auth.sendOtp")}
+        </Btn>
+      </form>
+    );
+  }
+
+  return (
+    <div>
+      <div style={{ textAlign: "center", marginBottom: 18 }}>
+        <div style={{ fontSize: 13, color: T.text2, marginBottom: 4 }}>
+          {t("auth.otpSentTo")}
+        </div>
+        <div style={{ fontSize: 16, fontWeight: 700, color: T.text1, letterSpacing: 0.5 }}>{e164}</div>
+        <button
+          type="button"
+          onClick={() => { setStage("phone"); setOtp(""); setError(""); }}
+          style={{ background: "none", border: "none", color: "#86efac", fontWeight: 600, fontSize: 12, marginTop: 6, cursor: "pointer", fontFamily: "inherit" }}
+        >
+          {t("auth.changeNumber")}
+        </button>
+      </div>
+
+      <div style={{ marginBottom: 14 }}>
+        <OtpInput
+          length={6}
+          value={otp}
+          onChange={(v) => { setOtp(v); setError(""); }}
+          onComplete={(code) => verify(code)}
+          disabled={verifying}
+        />
+      </div>
+
+      {error && <ErrorBox>{error}</ErrorBox>}
+
+      <Btn onClick={() => verify()} disabled={verifying || otp.length !== 6} style={{ width: "100%", marginTop: 4 }}>
+        {verifying ? "…" : t("auth.verifyOtp")}
+      </Btn>
+
+      <div style={{ textAlign: "center", marginTop: 14 }}>
+        {cooldown > 0 ? (
+          <span style={{ fontSize: 12, color: T.text3 }}>
+            {t("auth.resendIn", { seconds: cooldown })}
+          </span>
+        ) : (
+          <button
+            type="button"
+            onClick={sendOtp}
+            disabled={sending}
+            style={{ background: "none", border: "none", color: "#86efac", fontWeight: 700, fontSize: 13, cursor: "pointer", fontFamily: "inherit" }}
+          >
+            {sending ? "…" : t("auth.resendOtp")}
+          </button>
+        )}
+      </div>
+    </div>
   );
 }
 
 // =============================================================================
-// REGISTER — 5-step flow
+// REGISTER — 5-step flow (with "I prefer Hindi" checkbox)
 // =============================================================================
 function Register({ setPage, setUser }) {
+  const { t } = useTranslation();
   const [step, setStep] = useState(1);
   const [data, setData] = useState({
     role: "",
@@ -97,11 +319,10 @@ function Register({ setPage, setUser }) {
     password: "",
     phone: "",
     company: "",
+    language: "en",
   });
-  const [verifiedUser, setVerifiedUser] = useState(null); // auth user once verified
+  const [verifiedUser, setVerifiedUser] = useState(null);
 
-  // Resume the register flow if user clicks the email verification link and
-  // lands back on /#register — we'll already have a session.
   useEffect(() => {
     let mounted = true;
     if (!isSupabaseConfigured) return;
@@ -119,7 +340,7 @@ function Register({ setPage, setUser }) {
   const goBack = () => setStep((s) => Math.max(1, s - 1));
 
   return (
-    <AuthShell title="Create your account" subtitle="Start trading verified environmental credits in under 5 minutes." wide>
+    <AuthShell title={t("auth.createAccount")} subtitle={t("home.subhero")} wide>
       {!isSupabaseConfigured && <ConfigWarning />}
 
       <Stepper step={step} />
@@ -131,19 +352,19 @@ function Register({ setPage, setUser }) {
       {step === 5 && <DoneStep setPage={setPage} setUser={setUser} verifiedUser={verifiedUser} />}
 
       <SwitchLink>
-        Already have an account?{" "}
-        <LinkButton onClick={() => setPage("login")}>Log in</LinkButton>
+        {t("auth.alreadyHaveAccount")}{" "}
+        <LinkButton onClick={() => setPage("login")}>{t("auth.signIn")}</LinkButton>
       </SwitchLink>
     </AuthShell>
   );
 }
 
-// -------------------- Step 1: Account Type ---------------------
 function RoleStep({ data, setData, onNext }) {
+  const { t } = useTranslation();
   return (
     <div>
-      <h3 style={stepTitle}>What kind of account?</h3>
-      <p style={stepSubtitle}>Pick one — you can change this later from your dashboard.</p>
+      <h3 style={stepTitleStyle}>{t("auth.step1Title")}</h3>
+      <p style={stepSubtitleStyle}>{t("auth.step1Subtitle")}</p>
 
       <div style={{ display: "grid", gap: 12, marginBottom: 22 }}>
         {ROLES.map((r) => {
@@ -182,26 +403,31 @@ function RoleStep({ data, setData, onNext }) {
       </div>
 
       <Btn onClick={onNext} disabled={!data.role} style={{ width: "100%" }}>
-        Continue →
+        {t("auth.continueButton")}
       </Btn>
     </div>
   );
 }
 
-// -------------------- Step 2: Details ---------------------
 function DetailsStep({ data, setData, onNext, onBack }) {
+  const { t, i18n } = useTranslation();
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
+
+  const togglePreferHindi = (checked) => {
+    const lang = checked ? "hi" : "en";
+    setData({ ...data, language: lang });
+    setLanguage(lang);
+  };
+  const preferHindi = data.language === "hi" || i18n.language?.startsWith("hi");
 
   const submit = async (e) => {
     e.preventDefault();
     setError("");
-
     if (data.password.length < 8) {
       setError("Password must be at least 8 characters.");
       return;
     }
-
     setLoading(true);
     try {
       const result = await signUpWithEmail({
@@ -211,9 +437,8 @@ function DetailsStep({ data, setData, onNext, onBack }) {
         phone: data.phone,
         role: data.role,
         company: data.company,
+        language: data.language || (i18n.language?.startsWith("hi") ? "hi" : "en"),
       });
-      // Supabase returns the user even before email verification.
-      // If "Confirm email" is OFF in dashboard, the user may already be confirmed.
       const authUser = result.user;
       onNext(authUser?.email_confirmed_at ? authUser : null);
     } catch (err) {
@@ -227,39 +452,48 @@ function DetailsStep({ data, setData, onNext, onBack }) {
 
   return (
     <form onSubmit={submit}>
-      <h3 style={stepTitle}>Your details</h3>
-      <p style={stepSubtitle}>We'll send a verification link to your email.</p>
+      <h3 style={stepTitleStyle}>{t("auth.step2Title")}</h3>
+      <p style={stepSubtitleStyle}>{t("auth.step2Subtitle")}</p>
 
-      <div style={{ display: "flex", flexDirection: "column", gap: 12, marginBottom: 18 }}>
-        <Field label="Full name" type="text" value={data.name} onChange={(v) => setData({ ...data, name: v })} placeholder="Harsh Bhavrayat" required autoComplete="name" />
-        <Field label="Email" type="email" value={data.email} onChange={(v) => setData({ ...data, email: v })} placeholder="you@company.com" required autoComplete="email" />
-        <Field label="Phone" type="tel" value={data.phone} onChange={(v) => setData({ ...data, phone: v })} placeholder="+91 90248 49162" required autoComplete="tel" />
+      <div style={{ display: "flex", flexDirection: "column", gap: 12, marginBottom: 14 }}>
+        <Field label={t("auth.fullName")} type="text" value={data.name} onChange={(v) => setData({ ...data, name: v })} placeholder="Harsh Bhavrayat" required autoComplete="name" />
+        <Field label={t("auth.email")} type="email" value={data.email} onChange={(v) => setData({ ...data, email: v })} placeholder="you@company.com" required autoComplete="email" />
+        <Field label={t("auth.phone")} type="tel" value={data.phone} onChange={(v) => setData({ ...data, phone: v })} placeholder="+91 90248 49162" required autoComplete="tel" />
         {isBusiness && (
-          <Field label="Company name" type="text" value={data.company} onChange={(v) => setData({ ...data, company: v })} placeholder="Acme Industries Pvt. Ltd." required autoComplete="organization" />
+          <Field label={t("auth.companyName")} type="text" value={data.company} onChange={(v) => setData({ ...data, company: v })} placeholder="Acme Industries Pvt. Ltd." required autoComplete="organization" />
         )}
-        <Field label="Password" type="password" value={data.password} onChange={(v) => setData({ ...data, password: v })} placeholder="At least 8 characters" required autoComplete="new-password" />
+        <Field label={t("auth.password")} type="password" value={data.password} onChange={(v) => setData({ ...data, password: v })} placeholder="At least 8 characters" required autoComplete="new-password" />
       </div>
+
+      <label style={{ display: "flex", alignItems: "center", gap: 10, padding: "12px 14px", background: T.bg1, border: `1px solid ${preferHindi ? "rgba(34,197,94,0.4)" : T.border}`, borderRadius: 12, cursor: "pointer", marginBottom: 16, transition: "border-color .2s" }}>
+        <input
+          type="checkbox"
+          checked={preferHindi}
+          onChange={(e) => togglePreferHindi(e.target.checked)}
+          style={{ accentColor: "#22c55e", width: 16, height: 16, cursor: "pointer" }}
+        />
+        <span style={{ fontSize: 13, color: T.text1, fontWeight: 500 }}>{t("auth.preferHindi")}</span>
+      </label>
 
       {error && <ErrorBox>{error}</ErrorBox>}
 
-      <div style={{ display: "flex", gap: 10, marginTop: 16 }}>
-        <Btn type="button" variant="outline" onClick={onBack} disabled={loading}>← Back</Btn>
+      <div style={{ display: "flex", gap: 10, marginTop: 10 }}>
+        <Btn type="button" variant="outline" onClick={onBack} disabled={loading}>{t("auth.back")}</Btn>
         <Btn type="submit" disabled={loading} style={{ flex: 1 }}>
-          {loading ? "Creating account…" : "Create account →"}
+          {loading ? "…" : `${t("auth.createAccount")} →`}
         </Btn>
       </div>
     </form>
   );
 }
 
-// -------------------- Step 3: Verify Email ---------------------
 function VerifyStep({ email, onVerified }) {
+  const { t } = useTranslation();
   const [resent, setResent] = useState(false);
   const [resendError, setResendError] = useState("");
   const [resending, setResending] = useState(false);
   const pollRef = useRef(null);
 
-  // Poll session every 3 seconds; auto-advance when email is confirmed.
   useEffect(() => {
     if (!isSupabaseConfigured) return;
     const check = async () => {
@@ -290,10 +524,9 @@ function VerifyStep({ email, onVerified }) {
   return (
     <div style={{ textAlign: "center", padding: "12px 0 4px" }}>
       <div style={{ fontSize: 56, marginBottom: 14 }}>📩</div>
-      <h3 style={{ ...stepTitle, textAlign: "center" }}>Check your inbox</h3>
-      <p style={{ ...stepSubtitle, textAlign: "center", maxWidth: 380, margin: "0 auto 22px" }}>
-        We sent a verification link to <strong style={{ color: T.text1 }}>{email}</strong>.<br />
-        Click the link to continue — this page will advance automatically.
+      <h3 style={{ ...stepTitleStyle, textAlign: "center" }}>{t("auth.step3Title")}</h3>
+      <p style={{ ...stepSubtitleStyle, textAlign: "center", maxWidth: 380, margin: "0 auto 22px" }}>
+        We sent a verification link to <strong style={{ color: T.text1 }}>{email}</strong>.
       </p>
 
       <div style={{ display: "inline-flex", alignItems: "center", gap: 10, padding: "10px 18px", background: T.bg1, border: `1px solid ${T.border}`, borderRadius: 12, fontSize: 13, color: T.text2, marginBottom: 22 }}>
@@ -307,19 +540,15 @@ function VerifyStep({ email, onVerified }) {
 
       <div style={{ display: "flex", gap: 10, justifyContent: "center", flexWrap: "wrap", marginTop: 8 }}>
         <Btn variant="outline" size="sm" onClick={resend} disabled={resending || resent}>
-          {resending ? "Sending…" : resent ? "Email sent ✓" : "Resend email"}
+          {resending ? "…" : resent ? "✓" : "Resend email"}
         </Btn>
       </div>
-
-      <p style={{ fontSize: 11, color: T.text3, marginTop: 22, lineHeight: 1.6 }}>
-        Didn't receive it? Check your spam folder. The link is valid for 24 hours.
-      </p>
     </div>
   );
 }
 
-// -------------------- Step 4: KYC ---------------------
 function KycStep({ userId, onDone, onSkip }) {
+  const { t } = useTranslation();
   const [file, setFile] = useState(null);
   const [error, setError] = useState("");
   const [progress, setProgress] = useState(0);
@@ -351,25 +580,12 @@ function KycStep({ userId, onDone, onSkip }) {
 
   return (
     <div>
-      <h3 style={stepTitle}>Upload your KYC document</h3>
-      <p style={stepSubtitle}>
+      <h3 style={stepTitleStyle}>{t("auth.step4Title")}</h3>
+      <p style={stepSubtitleStyle}>
         Upload one of: PAN card, Aadhaar, passport, or business registration certificate. PDF / JPG / PNG, max 10 MB.
       </p>
 
-      <label
-        htmlFor="kyc-file"
-        style={{
-          display: "block",
-          background: T.bg1,
-          border: `2px dashed ${file ? "#22c55e" : T.border}`,
-          borderRadius: 14,
-          padding: "28px 18px",
-          textAlign: "center",
-          cursor: uploading ? "not-allowed" : "pointer",
-          marginBottom: 14,
-          transition: "border-color .2s",
-        }}
-      >
+      <label htmlFor="kyc-file" style={{ display: "block", background: T.bg1, border: `2px dashed ${file ? "#22c55e" : T.border}`, borderRadius: 14, padding: "28px 18px", textAlign: "center", cursor: uploading ? "not-allowed" : "pointer", marginBottom: 14 }}>
         <div style={{ fontSize: 34, marginBottom: 10 }}>{file ? "📄" : "⬆️"}</div>
         <div style={{ fontSize: 14, fontWeight: 600, color: T.text1, marginBottom: 4 }}>
           {file ? file.name : "Click or drop a file here"}
@@ -377,14 +593,7 @@ function KycStep({ userId, onDone, onSkip }) {
         <div style={{ fontSize: 12, color: T.text3 }}>
           {file ? `${(file.size / 1024).toFixed(0)} KB` : "PDF, JPG, or PNG up to 10 MB"}
         </div>
-        <input
-          id="kyc-file"
-          type="file"
-          accept=".pdf,.jpg,.jpeg,.png,application/pdf,image/jpeg,image/png"
-          onChange={(e) => { setFile(e.target.files?.[0] ?? null); setError(""); }}
-          disabled={uploading}
-          style={{ display: "none" }}
-        />
+        <input id="kyc-file" type="file" accept=".pdf,.jpg,.jpeg,.png,application/pdf,image/jpeg,image/png" onChange={(e) => { setFile(e.target.files?.[0] ?? null); setError(""); }} disabled={uploading} style={{ display: "none" }} />
       </label>
 
       {(uploading || uploaded) && (
@@ -410,15 +619,11 @@ function KycStep({ userId, onDone, onSkip }) {
   );
 }
 
-// -------------------- Step 5: Done ---------------------
 function DoneStep({ setPage, setUser, verifiedUser }) {
+  const { t } = useTranslation();
   const goDashboard = async () => {
     if (verifiedUser?.id) {
-      try {
-        await fetchAndSetUser(verifiedUser.id, setUser, verifiedUser);
-      } catch {
-        // ignore — App.jsx onAuthStateChange will catch it
-      }
+      try { await fetchAndSetUser(verifiedUser.id, setUser, verifiedUser); } catch {}
     }
     setPage("dashboard");
   };
@@ -426,12 +631,12 @@ function DoneStep({ setPage, setUser, verifiedUser }) {
   return (
     <div style={{ textAlign: "center", padding: "12px 0" }}>
       <div style={{ fontSize: 64, marginBottom: 16 }}>🎉</div>
-      <h3 style={{ ...stepTitle, textAlign: "center" }}>You're in!</h3>
-      <p style={{ ...stepSubtitle, textAlign: "center", maxWidth: 360, margin: "0 auto 24px" }}>
+      <h3 style={{ ...stepTitleStyle, textAlign: "center" }}>{t("auth.step5Title")}</h3>
+      <p style={{ ...stepSubtitleStyle, textAlign: "center", maxWidth: 360, margin: "0 auto 24px" }}>
         Welcome to Carbon Bridge. Your account is ready — KYC review usually takes 1 business day.
       </p>
       <Btn onClick={goDashboard} style={{ width: "100%" }}>
-        Go to dashboard →
+        {t("auth.goToDashboard")}
       </Btn>
     </div>
   );
@@ -485,6 +690,7 @@ function Stepper({ step }) {
 }
 
 function GoogleButton({ onClick, loading, disabled }) {
+  const { t } = useTranslation();
   return (
     <button
       type="button"
@@ -515,16 +721,17 @@ function GoogleButton({ onClick, loading, disabled }) {
         <path d="M4.59 10.64A4.79 4.79 0 0 1 4.34 9c0-.57.1-1.13.25-1.64V5.32H1.97A8 8 0 0 0 1 9c0 1.3.31 2.51.97 3.68l2.62-2.04z" fill="#FBBC05" />
         <path d="M9 4.75c1.16 0 2.2.4 3.02 1.18l2.25-2.25C13.05 2.18 11.27 1 9 1A8 8 0 0 0 1.97 5.32l2.62 2.04C5.21 6.14 6.95 4.75 9 4.75z" fill="#EA4335" />
       </svg>
-      {loading ? "Redirecting…" : "Continue with Google"}
+      {loading ? "…" : t("auth.continueWithGoogle")}
     </button>
   );
 }
 
 function Divider() {
+  const { t } = useTranslation();
   return (
     <div style={{ display: "flex", alignItems: "center", gap: 12, margin: "18px 0", color: T.text3, fontSize: 11, fontWeight: 700, letterSpacing: 0.5, textTransform: "uppercase" }}>
       <div style={{ flex: 1, height: 1, background: T.border }} />
-      OR
+      {t("auth.orContinueWith")}
       <div style={{ flex: 1, height: 1, background: T.border }} />
     </div>
   );
@@ -590,5 +797,5 @@ function Field({ label, type, value, onChange, placeholder, required, autoComple
   );
 }
 
-const stepTitle = { fontFamily: "'Outfit',sans-serif", fontWeight: 700, fontSize: 18, marginBottom: 6, color: T.text1 };
-const stepSubtitle = { fontSize: 13, color: T.text2, marginBottom: 20, lineHeight: 1.6 };
+const stepTitleStyle = { fontFamily: "'Outfit',sans-serif", fontWeight: 700, fontSize: 18, marginBottom: 6, color: "#e6f1ff" };
+const stepSubtitleStyle = { fontSize: 13, color: "#9fb3c8", marginBottom: 20, lineHeight: 1.6 };

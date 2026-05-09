@@ -1,10 +1,12 @@
 import { useState } from "react";
-import { T } from "../App.jsx";
+import { useTranslation } from "react-i18next";
+import { T } from "../theme.js";
 import Btn from "./ui/Btn.jsx";
 import Badge from "./ui/Badge.jsx";
 import { getFeatured, formatINR, formatUSD, BRAND, STATE_COUNT, CREDITS } from "../data/credits.js";
 
 function MiniCard({ c, onClick }) {
+  const { t } = useTranslation();
   const [hov, setHov] = useState(false);
   return (
     <div
@@ -38,19 +40,20 @@ function MiniCard({ c, onClick }) {
           </div>
           <div style={{ fontSize: 10, color: T.text3, marginTop: 3 }}>{formatUSD(c.price)} USD</div>
         </div>
-        <div style={{ fontSize: 11, color: T.text3, textAlign: "right" }}>{c.available.toLocaleString("en-IN")} left</div>
+        <div style={{ fontSize: 11, color: T.text3, textAlign: "right" }}>{c.available.toLocaleString("en-IN")} {t("credits.available")}</div>
       </div>
     </div>
   );
 }
 
 export default function Home({ setPage }) {
+  const { t } = useTranslation();
   const featured = getFeatured();
   const stats = [
-    { v: `${CREDITS.length}`, l: "Verified Projects" },
-    { v: `${STATE_COUNT}`, l: "Indian States" },
-    { v: "1,33,700+", l: "tCO₂e Available" },
-    { v: "5", l: "Credit Types" },
+    { v: "200+",      l: t("home.stats.farmers") },
+    { v: "1,33,700+", l: t("home.stats.co2") },
+    { v: "6",         l: t("home.stats.plants") },
+    { v: `${STATE_COUNT}`, l: t("home.stats.states") },
   ];
   const steps = [
     { icon: "🔐", t: "Register & Verify", d: "Sign up and complete KYC in under 5 minutes." },
@@ -66,18 +69,15 @@ export default function Home({ setPage }) {
         <div style={{ background: "rgba(34,197,94,0.08)", border: "1px solid rgba(34,197,94,0.25)", borderRadius: 24, padding: "7px 20px", marginBottom: 28, fontSize: 13, color: "#86efac", fontWeight: 600 }}>
           🇮🇳 By {BRAND.company}
         </div>
-        <div style={{ fontSize: 12, fontWeight: 700, color: "#86efac", letterSpacing: 1.6, textTransform: "uppercase", marginBottom: 18, maxWidth: 760, lineHeight: 1.5 }}>
-          {BRAND.tagline}
-        </div>
-        <h1 style={{ fontFamily: "'Outfit',sans-serif", fontSize: "clamp(38px,7vw,76px)", fontWeight: 900, lineHeight: 1.05, marginBottom: 24, maxWidth: 900 }}>
-          Trade Verified <span style={{ background: T.grad, WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>Environmental Credits</span> with Confidence
+        <h1 style={{ fontFamily: "'Outfit',sans-serif", fontSize: "clamp(38px,7vw,76px)", fontWeight: 900, lineHeight: 1.05, marginBottom: 24, maxWidth: 940 }}>
+          <span style={{ background: T.grad, WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>{t("home.hero")}</span>
         </h1>
-        <p style={{ fontSize: 18, color: T.text2, maxWidth: 620, lineHeight: 1.75, marginBottom: 44 }}>
-          India's first marketplace for buying, selling, and retiring verified environmental credits — built for CBG plant operators, FPOs, smallholder farmers, and ESG-driven enterprises.
+        <p style={{ fontSize: 18, color: T.text2, maxWidth: 640, lineHeight: 1.75, marginBottom: 44 }}>
+          {t("home.subhero")}
         </p>
         <div style={{ display: "flex", gap: 14, flexWrap: "wrap", justifyContent: "center" }}>
-          <Btn size="lg" onClick={() => setPage("register")} style={{ boxShadow: "0 0 48px rgba(14,165,233,0.35)" }}>Start Offsetting Free →</Btn>
-          <Btn size="lg" variant="outline" onClick={() => setPage("marketplace")}>Browse Credits</Btn>
+          <Btn size="lg" onClick={() => setPage("marketplace")} style={{ boxShadow: "0 0 48px rgba(14,165,233,0.35)" }}>{t("home.buyCredits")} →</Btn>
+          <Btn size="lg" variant="outline" onClick={() => setPage("sell")}>{t("home.sellCredits")}</Btn>
         </div>
         <div style={{ display: "flex", gap: 20, marginTop: 72, flexWrap: "wrap", justifyContent: "center" }}>
           {stats.map((s) => (
