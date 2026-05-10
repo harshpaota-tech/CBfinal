@@ -1,10 +1,22 @@
-import { useState } from "react";
+import { lazy, Suspense, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { T } from "../theme.js";
 import Btn from "./ui/Btn.jsx";
 import Badge from "./ui/Badge.jsx";
-import WorldMap from "./WorldMap.jsx";
 import { getFeatured, formatINR, formatUSD, BRAND, STATE_COUNT, CREDITS } from "../data/credits.js";
+
+// Lazy-loaded so the world-atlas topojson (~15 KB gzip), d3-geo (~30 KB gzip),
+// and react-simple-maps (~30 KB gzip) split into their own chunk and don't
+// inflate the main bundle / first paint of the home page.
+const WorldMap = lazy(() => import("./WorldMap.jsx"));
+
+function WorldMapFallback() {
+  return (
+    <div style={{ minHeight: 460, display: "flex", alignItems: "center", justifyContent: "center", color: T.text3, fontSize: 13 }}>
+      Loading map…
+    </div>
+  );
+}
 
 function MiniCard({ c, onClick }) {
   const { t } = useTranslation();
@@ -97,7 +109,9 @@ export default function Home({ setPage }) {
         ))}
       </div>
 
-      <WorldMap onPinClick={() => setPage("marketplace")} />
+      <Suspense fallback={<WorldMapFallback />}>
+        <WorldMap onPinClick={() => setPage("marketplace")} />
+      </Suspense>
 
       <div style={{ padding: "80px 40px", maxWidth: 1100, margin: "0 auto" }}>
         <div style={{ textAlign: "center", marginBottom: 52 }}>
