@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { T } from "../theme.js";
-import { CATEGORIES, CREDITS, STATES, STATE_COUNT, formatINR, formatUSD } from "../data/credits.js";
+import { CATEGORIES, CREDITS, STATES, COUNTRY_COUNT, formatINR, formatUSD } from "../data/credits.js";
 import Btn from "./ui/Btn.jsx";
 import Badge from "./ui/Badge.jsx";
 
@@ -147,7 +147,7 @@ export default function Marketplace({ setPage, onBuy }) {
         Carbon Credit Marketplace
       </h1>
       <p style={{ color: T.text2, fontSize: 15, marginBottom: 32 }}>
-        {CREDITS.length} verified projects · {STATE_COUNT} states across India
+        {CREDITS.length} verified projects across {COUNTRY_COUNT} {COUNTRY_COUNT === 1 ? "country" : "countries"} · India-first, globally sourced
       </p>
 
       <div style={{ display: "flex", gap: 12, marginBottom: 22, flexWrap: "wrap" }}>
@@ -170,11 +170,14 @@ export default function Marketplace({ setPage, onBuy }) {
             }}
           />
         </div>
-        <select value={stateFilter} onChange={(e) => setStateFilter(e.target.value)} style={selectStyle} aria-label="Filter by state">
-          <option value="all">All States</option>
-          {STATES.map((s) => (
-            <option key={s} value={s}>{s}</option>
-          ))}
+        <select value={stateFilter} onChange={(e) => setStateFilter(e.target.value)} style={selectStyle} aria-label="Filter by region">
+          <option value="all">All Regions</option>
+          {STATES.map((s) => {
+            const sample = CREDITS.find((c) => c.state === s);
+            const country = sample?.country;
+            const label = country && country !== "India" ? `${s} (${country})` : s;
+            return <option key={s} value={s}>{label}</option>;
+          })}
         </select>
         <select value={sort} onChange={(e) => setSort(e.target.value)} style={selectStyle} aria-label="Sort projects">
           {SORTS.map((s) => (

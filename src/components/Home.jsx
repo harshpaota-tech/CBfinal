@@ -3,7 +3,7 @@ import { useTranslation } from "react-i18next";
 import { T } from "../theme.js";
 import Btn from "./ui/Btn.jsx";
 import Badge from "./ui/Badge.jsx";
-import IndiaMap from "./IndiaMap.jsx";
+import WorldMap from "./WorldMap.jsx";
 import { getFeatured, formatINR, formatUSD, BRAND, STATE_COUNT, CREDITS } from "../data/credits.js";
 
 function MiniCard({ c, onClick }) {
@@ -97,7 +97,7 @@ export default function Home({ setPage }) {
         ))}
       </div>
 
-      <IndiaMap onPinClick={() => setPage("marketplace")} />
+      <WorldMap onPinClick={() => setPage("marketplace")} />
 
       <div style={{ padding: "80px 40px", maxWidth: 1100, margin: "0 auto" }}>
         <div style={{ textAlign: "center", marginBottom: 52 }}>

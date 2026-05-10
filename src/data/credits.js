@@ -16,6 +16,7 @@ export const CATEGORIES = [
   { id: "Soil Carbon", label: "Soil Carbon", color: "#a78bfa" },
   { id: "Plastic / EPR", label: "EPR Plastic", color: "#ec4899" },
   { id: "Blue Carbon", label: "Blue Carbon", color: "#0891b2" },
+  { id: "Clean Cooking", label: "Clean Cooking", color: "#22d3ee" },
 ];
 
 export const TYPE_COLORS = {
@@ -26,6 +27,7 @@ export const TYPE_COLORS = {
   "Blue Carbon": "#0891b2",
   "Plastic / EPR": "#ec4899",
   "Carbon / Forestry": "#10b981",
+  "Clean Cooking": "#22d3ee",
 };
 
 export const CREDITS = [
@@ -189,6 +191,47 @@ export const CREDITS = [
       "Sundarban mangrove restoration covering 3,000 hectares in West Bengal. Blue carbon sequestration while protecting coastal communities from cyclones and storm surge.",
     sdgs: [14, 13, 15],
   },
+  // ---------------------------- INTERNATIONAL DEMOS ----------------------------
+  {
+    id: 9,
+    name: "Amazon Rainforest REDD+",
+    type: "Carbon / Forestry",
+    country: "Brazil",
+    flag: "🇧🇷",
+    state: "Amazonas",
+    icon: "🌳",
+    color: "#10b981",
+    price: 14.5,
+    vintage: 2024,
+    available: 12400,
+    creditsLeft: 12400,
+    registry: "Verra VCS VM0007",
+    standard: "Verra VCS VM0007",
+    certId: "VCS-CB-009-BR",
+    desc:
+      "REDD+ avoided-deforestation project in the Amazonas state of Brazil, protecting 80,000 hectares of primary rainforest in partnership with indigenous communities. Demo international project showing Carbon Bridge can source globally.",
+    sdgs: [13, 15, 1],
+  },
+  {
+    id: 10,
+    name: "Kenya Improved Cookstoves",
+    type: "Clean Cooking",
+    country: "Kenya",
+    flag: "🇰🇪",
+    state: "Nairobi",
+    icon: "🔥",
+    color: "#22d3ee",
+    price: 18.2,
+    vintage: 2025,
+    available: 3100,
+    creditsLeft: 3100,
+    registry: "Gold Standard",
+    standard: "Gold Standard",
+    certId: "GS-CB-010-KE",
+    desc:
+      "Distribution of 25,000 high-efficiency biomass cookstoves to rural Kenyan households, displacing open-fire wood combustion. Reduces emissions and indoor air pollution. Demo international project sourced via partner registry.",
+    sdgs: [7, 3, 13],
+  },
 ];
 
 export const FEATURED_IDS = [1, 6, 8];
@@ -199,7 +242,8 @@ export const getFeatured = () =>
 export const STATES = [...new Set(CREDITS.map((c) => c.state))].sort();
 export const STATE_COUNT = STATES.length;
 
-export const COUNTRY_COUNT = new Set(CREDITS.map((c) => c.country)).size;
+export const COUNTRIES = [...new Set(CREDITS.map((c) => c.country))].sort();
+export const COUNTRY_COUNT = COUNTRIES.length;
 
 export const BRAND = {
   company: "Carbon Bridge Pvt. Ltd.",
