@@ -57,6 +57,31 @@ export const NEWS_PHOTOS = [
   UNSPLASH("1500076656116-558758c991c1", 1000), // Indian rural field
 ];
 
+// One photo per methodology category. Used by the Methodologies page so every
+// card has a thumbnail and the category 'feels' tangible. All IDs HEAD-checked.
+export const CATEGORY_PHOTOS = {
+  afolu:     UNSPLASH("1448375240586-882707db888b", 800), // rainforest canopy
+  soil:      UNSPLASH("1416879595882-3373a0480b5b", 800), // hands holding soil
+  blue:      UNSPLASH("1518837695005-2083093ee35b", 800), // mangrove water
+  waste:     UNSPLASH("1582408921715-18e7806365c1", 800), // waste sorting
+  energy:    UNSPLASH("1466611653911-95081537e5b7", 800), // wind turbines
+  cooking:   UNSPLASH("1488521787991-ed7bbaae773c", 800), // cooking fire
+  water:     UNSPLASH("1541544537156-7627a7a4aa1c", 800), // water hands
+  plastic:   UNSPLASH("1532996122724-e3c354a0b15b", 800), // plastic waste
+  transport: UNSPLASH("1593941707882-a5bba14938c7", 800), // EV charging
+  hydrogen:  UNSPLASH("1581094271901-8022df4466f9", 800), // industrial / hydrogen plant
+};
+
+// Top-of-page banner photos for each main subpage. Half-height "hero strip"
+// gives every internal page the same editorial weight as the home page.
+export const PAGE_BANNERS = {
+  methodologies: UNSPLASH("1502082553048-f009c37129b9", 1920), // misty mountain forest
+  howitworks:    UNSPLASH("1500076656116-558758c991c1", 1920), // paddy field at sunset
+  marketplace:   UNSPLASH("1542601906990-b4d3fb778b09", 1920), // wind farm
+  business:      UNSPLASH("1448375240586-882707db888b", 1920), // rainforest canopy
+  sell:          UNSPLASH("1497436072909-60f360e1d4b1", 1920), // tree row / agroforestry
+};
+
 // Helper for the photo-as-background pattern used everywhere
 export const bgImage = (url) => ({
   backgroundImage: `url(${url})`,

@@ -1,5 +1,7 @@
-import { T } from "../App.jsx";
+import { T } from "../theme.js";
 import Btn from "./ui/Btn.jsx";
+import PageBanner from "./ui/PageBanner.jsx";
+import { PAGE_BANNERS } from "../data/media.js";
 import { formatINR, formatUSD, CREDITS } from "../data/credits.js";
 
 const cheapest = Math.min(...CREDITS.map((c) => c.price));
@@ -39,11 +41,15 @@ export default function HowItWorks({ setPage }) {
   ];
 
   return (
-    <div className="fade" style={{ maxWidth: 860, margin: "0 auto", padding: "60px 24px" }}>
-      <div style={{ textAlign: "center", marginBottom: 52 }}>
-        <h1 style={{ fontFamily: "'Outfit',sans-serif", fontSize: 38, fontWeight: 900, marginBottom: 10 }}>How It Works</h1>
-        <p style={{ color: T.text2, fontSize: 15 }}>Everything about buying, selling, and retiring environmental credits in India.</p>
-      </div>
+    <div className="fade">
+      <PageBanner
+        tag="Guide"
+        title="How It Works"
+        subtitle="Everything about buying, selling, and retiring environmental credits in India."
+        photo={PAGE_BANNERS.howitworks}
+        height={300}
+      />
+      <div style={{ maxWidth: 860, margin: "0 auto", padding: "50px 24px 60px" }}>
       {items.map((item, i) => (
         <div key={i} style={{ display: "flex", gap: 22, marginBottom: 22, background: T.bg2, border: `1px solid ${T.border}`, borderRadius: 18, padding: 26 }}>
           <div style={{ fontSize: 36, flexShrink: 0 }}>{item.icon}</div>
@@ -56,6 +62,7 @@ export default function HowItWorks({ setPage }) {
       <div style={{ textAlign: "center", marginTop: 44, display: "flex", gap: 12, justifyContent: "center" }}>
         <Btn onClick={() => setPage("register")}>Create Account →</Btn>
         <Btn variant="outline" onClick={() => setPage("marketplace")}>Browse Credits</Btn>
+      </div>
       </div>
     </div>
   );

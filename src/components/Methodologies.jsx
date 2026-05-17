@@ -1,7 +1,9 @@
 import { useMemo, useState } from "react";
 import { T } from "../theme.js";
 import Btn from "./ui/Btn.jsx";
+import PageBanner from "./ui/PageBanner.jsx";
 import { ALL_METHODOLOGIES, REGISTRIES, CATEGORIES, LATEST_METHODOLOGY_CODES, METHODOLOGY_COUNTS } from "../data/methodologies.js";
+import { CATEGORY_PHOTOS, PAGE_BANNERS, bgImage } from "../data/media.js";
 
 export default function Methodologies({ setPage }) {
   const [registry, setRegistry] = useState("all");
@@ -30,20 +32,16 @@ export default function Methodologies({ setPage }) {
     .filter(Boolean);
 
   return (
-    <div className="fade" style={{ maxWidth: 1200, margin: "0 auto", padding: "60px 24px 80px" }}>
-      {/* Hero */}
-      <div style={{ marginBottom: 40 }}>
-        <div style={{ fontSize: 11, fontWeight: 800, color: "#86efac", letterSpacing: 3, textTransform: "uppercase", marginBottom: 12 }}>
-          Methodology Catalog
-        </div>
-        <h1 style={{ fontFamily: "'Outfit',sans-serif", fontSize: "clamp(34px,5vw,52px)", fontWeight: 900, margin: 0, marginBottom: 14, lineHeight: 1.05 }}>
-          Every methodology under which Carbon Bridge can earn credits
-        </h1>
-        <p style={{ color: T.text2, fontSize: 16, lineHeight: 1.7, maxWidth: 760, margin: 0 }}>
-          {METHODOLOGY_COUNTS.total} methodologies across Verra (VCS), Gold Standard, and India's domestic regulatory regimes — covering forestry, soil, blue carbon, waste, energy, plastic, cookstoves, transport, and now <strong style={{ color: "#5eead4" }}>Green Hydrogen</strong> under the National Green Hydrogen Mission.
-        </p>
-      </div>
+    <div className="fade">
+      <PageBanner
+        tag="Methodology Catalog"
+        title="Every methodology under which Carbon Bridge can earn credits"
+        subtitle={`${METHODOLOGY_COUNTS.total} methodologies across Verra (VCS), Gold Standard, and India's domestic regulatory regimes — including the new Green Hydrogen credit class under NGHM.`}
+        photo={PAGE_BANNERS.methodologies}
+        height={360}
+      />
 
+      <div style={{ maxWidth: 1200, margin: "0 auto", padding: "50px 24px 80px" }}>
       {/* Registry stat row */}
       <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit,minmax(220px,1fr))", gap: 14, marginBottom: 36 }}>
         {REGISTRIES.map((r) => (
@@ -73,38 +71,20 @@ export default function Methodologies({ setPage }) {
         ))}
       </div>
 
-      {/* Latest additions */}
+      {/* Latest additions — photo cards */}
       {latest.length > 0 && (
         <section style={{ marginBottom: 40 }}>
           <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 14 }}>
             <span style={{ fontSize: 11, fontWeight: 800, color: "#5eead4", letterSpacing: 2, textTransform: "uppercase" }}>Latest & Emerging</span>
             <span style={{ background: "rgba(20,184,166,0.12)", color: "#5eead4", border: "1px solid rgba(20,184,166,0.45)", borderRadius: 999, padding: "2px 9px", fontSize: 10, fontWeight: 700, letterSpacing: 0.5 }}>UPDATED 2026</span>
           </div>
-          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit,minmax(280px,1fr))", gap: 12 }}>
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill,minmax(260px,1fr))", gap: 14 }}>
             {latest.map((m) => (
-              <button
+              <LatestCard
                 key={m.code}
+                m={m}
                 onClick={() => { setExpandedCode(m.code); document.getElementById(`m-${m.code}`)?.scrollIntoView({ behavior: "smooth", block: "center" }); }}
-                style={{
-                  textAlign: "left",
-                  background: "linear-gradient(135deg, rgba(20,184,166,0.08), rgba(34,197,94,0.05))",
-                  border: "1px solid rgba(20,184,166,0.35)",
-                  borderRadius: 14,
-                  padding: "14px 16px",
-                  cursor: "pointer",
-                  fontFamily: "inherit",
-                  transition: "transform .2s",
-                }}
-                onMouseEnter={(e) => { e.currentTarget.style.transform = "translateY(-2px)"; }}
-                onMouseLeave={(e) => { e.currentTarget.style.transform = "none"; }}
-              >
-                <div style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 6 }}>
-                  <RegistryPill registry={m.registry} small />
-                  <span style={{ fontSize: 11, fontWeight: 700, color: "#5eead4", fontFamily: "ui-monospace,SFMono-Regular,Menlo,monospace" }}>{m.code}</span>
-                </div>
-                <div style={{ fontSize: 14, fontWeight: 700, color: T.text1, marginBottom: 4, lineHeight: 1.3 }}>{m.name}</div>
-                <div style={{ fontSize: 11, color: T.text3 }}>{categoryLabel(m.category)}</div>
-              </button>
+              />
             ))}
           </div>
         </section>
@@ -215,11 +195,59 @@ export default function Methodologies({ setPage }) {
           <Btn variant="outline" onClick={() => setPage("business")}>Talk to our team</Btn>
         </div>
       </div>
+      </div>
     </div>
   );
 }
 
+function LatestCard({ m, onClick }) {
+  const photo = CATEGORY_PHOTOS[m.category];
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      style={{
+        position: "relative",
+        textAlign: "left",
+        background: T.bg2,
+        border: "1px solid rgba(20,184,166,0.35)",
+        borderRadius: 16,
+        overflow: "hidden",
+        cursor: "pointer",
+        fontFamily: "inherit",
+        padding: 0,
+        transition: "transform .2s, border-color .2s, box-shadow .3s",
+        minHeight: 200,
+      }}
+      onMouseEnter={(e) => {
+        e.currentTarget.style.transform = "translateY(-3px)";
+        e.currentTarget.style.borderColor = "rgba(20,184,166,0.7)";
+        e.currentTarget.style.boxShadow = "0 12px 36px rgba(20,184,166,0.22)";
+      }}
+      onMouseLeave={(e) => {
+        e.currentTarget.style.transform = "none";
+        e.currentTarget.style.borderColor = "rgba(20,184,166,0.35)";
+        e.currentTarget.style.boxShadow = "none";
+      }}
+    >
+      <div style={{ position: "absolute", inset: 0, ...(photo ? bgImage(photo) : {}) }} />
+      <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, rgba(4,8,15,0.55) 0%, rgba(4,8,15,0.92) 100%), linear-gradient(135deg, rgba(20,184,166,0.18), transparent 60%)" }} />
+      <div style={{ position: "relative", padding: "16px 18px", display: "flex", flexDirection: "column", justifyContent: "space-between", height: "100%", minHeight: 200 }}>
+        <div style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 8 }}>
+          <RegistryPill registry={m.registry} small />
+        </div>
+        <div>
+          <div style={{ fontSize: 10, fontWeight: 800, color: "#5eead4", fontFamily: "ui-monospace,SFMono-Regular,Menlo,monospace", letterSpacing: 0.5, marginBottom: 4 }}>{m.code}</div>
+          <div style={{ fontSize: 15, fontWeight: 800, color: "#ffffff", lineHeight: 1.25, marginBottom: 6, textShadow: "0 2px 12px rgba(0,0,0,0.55)" }}>{m.name}</div>
+          <div style={{ fontSize: 11, color: "#cbd5e1" }}>{categoryLabel(m.category)}</div>
+        </div>
+      </div>
+    </button>
+  );
+}
+
 function MethodologyCard({ m, expanded, onToggle }) {
+  const photo = CATEGORY_PHOTOS[m.category];
   return (
     <article
       id={`m-${m.code}`}
@@ -240,16 +268,31 @@ function MethodologyCard({ m, expanded, onToggle }) {
           background: "none",
           border: "none",
           color: T.text1,
-          padding: "20px 22px",
+          padding: "16px 18px",
           cursor: "pointer",
           fontFamily: "inherit",
           display: "flex",
-          gap: 18,
-          alignItems: "flex-start",
+          gap: 16,
+          alignItems: "stretch",
         }}
       >
+        {/* Square thumbnail keyed to the category */}
+        <div style={{
+          flexShrink: 0,
+          width: 86,
+          height: 86,
+          borderRadius: 12,
+          overflow: "hidden",
+          position: "relative",
+          alignSelf: "flex-start",
+          border: `1px solid ${T.border}`,
+        }}>
+          {photo && <div style={{ position: "absolute", inset: 0, ...bgImage(photo) }} />}
+          <div style={{ position: "absolute", inset: 0, background: "linear-gradient(135deg, rgba(4,8,15,0.10), rgba(4,8,15,0.55))" }} />
+        </div>
+
         <div style={{ flex: 1, minWidth: 0 }}>
-          <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 8, flexWrap: "wrap" }}>
+          <div style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 8, flexWrap: "wrap" }}>
             <RegistryPill registry={m.registry} />
             <CategoryPill category={m.category} />
             <span style={{ fontSize: 12, fontWeight: 800, color: "#86efac", fontFamily: "ui-monospace,SFMono-Regular,Menlo,monospace", letterSpacing: 0.5 }}>{m.code}</span>
@@ -259,9 +302,11 @@ function MethodologyCard({ m, expanded, onToggle }) {
           </h3>
           <p style={{ fontSize: 13, color: T.text2, lineHeight: 1.55, margin: 0 }}>{m.scope}</p>
         </div>
+
         <div
           style={{
             flexShrink: 0,
+            alignSelf: "center",
             width: 30,
             height: 30,
             borderRadius: 999,
@@ -282,19 +327,30 @@ function MethodologyCard({ m, expanded, onToggle }) {
       </button>
 
       {expanded && (
-        <div style={{ padding: "0 22px 22px", borderTop: `1px dashed ${T.border}`, paddingTop: 16, marginTop: 4 }}>
-          <p style={{ fontSize: 14, color: T.text1, lineHeight: 1.75, margin: 0, marginBottom: 14 }}>
-            {m.desc}
-          </p>
-          {m.used && (
-            <div style={{ background: T.bg1, border: `1px solid ${T.border}`, borderRadius: 12, padding: "12px 14px", display: "flex", gap: 10, alignItems: "flex-start" }}>
-              <span style={{ fontSize: 16, lineHeight: "20px" }}>🔗</span>
-              <div>
-                <div style={{ fontSize: 10, fontWeight: 700, color: T.text3, letterSpacing: 0.6, textTransform: "uppercase", marginBottom: 3 }}>Carbon Bridge use</div>
-                <div style={{ fontSize: 13, color: T.text1, lineHeight: 1.5 }}>{m.used}</div>
-              </div>
+        <div style={{ borderTop: `1px dashed ${T.border}` }}>
+          {/* Expanded view: wide hero photo + full description */}
+          <div style={{ position: "relative", aspectRatio: "21/8", overflow: "hidden" }}>
+            {photo && <div style={{ position: "absolute", inset: 0, ...bgImage(photo) }} />}
+            <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, rgba(4,8,15,0.20) 0%, rgba(4,8,15,0.75) 100%)" }} />
+            <div style={{ position: "absolute", bottom: 14, left: 18, right: 18, fontSize: 12, color: "#cbd5e1", fontWeight: 600, letterSpacing: 0.5, textTransform: "uppercase", textShadow: "0 2px 12px rgba(0,0,0,0.6)" }}>
+              {categoryLabel(m.category)} · {m.code}
             </div>
-          )}
+          </div>
+
+          <div style={{ padding: "18px 22px 22px" }}>
+            <p style={{ fontSize: 14, color: T.text1, lineHeight: 1.75, margin: 0, marginBottom: 14 }}>
+              {m.desc}
+            </p>
+            {m.used && (
+              <div style={{ background: T.bg1, border: `1px solid ${T.border}`, borderRadius: 12, padding: "12px 14px", display: "flex", gap: 10, alignItems: "flex-start" }}>
+                <span style={{ fontSize: 16, lineHeight: "20px" }}>🔗</span>
+                <div>
+                  <div style={{ fontSize: 10, fontWeight: 700, color: T.text3, letterSpacing: 0.6, textTransform: "uppercase", marginBottom: 3 }}>Carbon Bridge use</div>
+                  <div style={{ fontSize: 13, color: T.text1, lineHeight: 1.5 }}>{m.used}</div>
+                </div>
+              </div>
+            )}
+          </div>
         </div>
       )}
     </article>

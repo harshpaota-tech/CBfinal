@@ -1,5 +1,7 @@
-import { T } from "../App.jsx";
+import { T } from "../theme.js";
 import Btn from "./ui/Btn.jsx";
+import PageBanner from "./ui/PageBanner.jsx";
+import { PAGE_BANNERS } from "../data/media.js";
 import { CONTACT } from "../data/credits.js";
 
 export default function SellCredits({ setPage }) {
@@ -11,16 +13,15 @@ export default function SellCredits({ setPage }) {
   ];
 
   return (
-    <div className="fade" style={{ maxWidth: 1000, margin: "0 auto", padding: "60px 24px" }}>
-      <div style={{ textAlign: "center", marginBottom: 52 }}>
-        <h1 style={{ fontFamily: "'Outfit',sans-serif", fontSize: "clamp(34px,5vw,52px)", fontWeight: 900, marginBottom: 14 }}>
-          List Your <span style={{ background: T.grad, WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>Carbon Project</span>
-        </h1>
-        <p style={{ color: T.text2, fontSize: 16, lineHeight: 1.7, maxWidth: 620, margin: "0 auto" }}>
-          Reach 18,000+ buyers and 2,000+ companies actively retiring credits. List in 4 steps, keep 95% of every sale.
-        </p>
-      </div>
-
+    <div className="fade">
+      <PageBanner
+        tag="Sell Credits"
+        title="List your environmental project"
+        subtitle="Reach 18,000+ buyers and 2,000+ companies actively retiring credits. List in 4 steps, keep 95% of every sale."
+        photo={PAGE_BANNERS.sell}
+        height={340}
+      />
+      <div style={{ maxWidth: 1000, margin: "0 auto", padding: "50px 24px 60px" }}>
       <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit,minmax(220px,1fr))", gap: 18, marginBottom: 52 }}>
         {steps.map((s) => (
           <div key={s.n} style={{ background: T.bg2, border: `1px solid ${T.border}`, borderRadius: 18, padding: 26, position: "relative", overflow: "hidden" }}>
@@ -54,6 +55,7 @@ export default function SellCredits({ setPage }) {
           </a>
           <Btn variant="outline" onClick={() => setPage("howitworks")}>How It Works</Btn>
         </div>
+      </div>
       </div>
     </div>
   );

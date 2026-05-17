@@ -1,5 +1,7 @@
-import { T } from "../App.jsx";
+import { T } from "../theme.js";
 import Btn from "./ui/Btn.jsx";
+import PageBanner from "./ui/PageBanner.jsx";
+import { PAGE_BANNERS } from "../data/media.js";
 import { CONTACT } from "../data/credits.js";
 
 export default function ForBusiness({ setPage }) {
@@ -11,16 +13,15 @@ export default function ForBusiness({ setPage }) {
   ];
 
   return (
-    <div className="fade" style={{ maxWidth: 1000, margin: "0 auto", padding: "60px 24px" }}>
-      <div style={{ textAlign: "center", marginBottom: 56 }}>
-        <h1 style={{ fontFamily: "'Outfit',sans-serif", fontSize: "clamp(34px,5vw,52px)", fontWeight: 900, marginBottom: 14 }}>
-          CarbonBridge for <span style={{ background: T.grad, WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>Business</span>
-        </h1>
-        <p style={{ color: T.text2, fontSize: 16, lineHeight: 1.7, maxWidth: 640, margin: "0 auto" }}>
-          From climate-conscious startups to listed corporates — buy, retire, and report verified carbon credits at scale, with the audit trail your CFO and CSO will both sign off on.
-        </p>
-      </div>
-
+    <div className="fade">
+      <PageBanner
+        tag="For Business"
+        title="Carbon Bridge for Business"
+        subtitle="From climate-conscious startups to listed corporates — buy, retire, and report verified credits at scale, with the audit trail your CFO and CSO will both sign off on."
+        photo={PAGE_BANNERS.business}
+        height={340}
+      />
+      <div style={{ maxWidth: 1000, margin: "0 auto", padding: "50px 24px 60px" }}>
       <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit,minmax(260px,1fr))", gap: 20, marginBottom: 56 }}>
         {offers.map((o, i) => (
           <div key={i} style={{ background: T.bg2, border: `1px solid ${T.border}`, borderRadius: 18, padding: 26 }}>
@@ -49,6 +50,7 @@ export default function ForBusiness({ setPage }) {
           </a>
           <Btn variant="outline" onClick={() => setPage("marketplace")}>Browse marketplace</Btn>
         </div>
+      </div>
       </div>
     </div>
   );

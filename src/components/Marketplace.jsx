@@ -2,8 +2,10 @@ import { useMemo, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { T } from "../theme.js";
 import { CATEGORIES, CREDITS, STATES, COUNTRY_COUNT, formatINR, formatUSD } from "../data/credits.js";
+import { PROJECT_PHOTOS, PAGE_BANNERS, bgImage } from "../data/media.js";
 import Btn from "./ui/Btn.jsx";
 import Badge from "./ui/Badge.jsx";
+import PageBanner from "./ui/PageBanner.jsx";
 
 const SORTS = [
   { id: "price-asc", label: "Price: Low → High" },
@@ -15,30 +17,36 @@ const SORTS = [
 function ProjectCard({ c, onBuy }) {
   const { t } = useTranslation();
   const [hov, setHov] = useState(false);
+  const photo = PROJECT_PHOTOS[c.id];
   return (
     <div
       onMouseEnter={() => setHov(true)}
       onMouseLeave={() => setHov(false)}
       style={{
-        background: hov ? "#111d30" : T.bg2,
+        background: T.bg2,
         border: `1.5px solid ${hov ? c.color + "66" : T.border}`,
         borderRadius: 20,
-        padding: 24,
+        overflow: "hidden",
         transition: "all .25s",
         display: "flex",
         flexDirection: "column",
-        gap: 12,
+        boxShadow: hov ? `0 12px 36px ${c.color}22` : "none",
       }}
     >
-      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: 8 }}>
-        <Badge color={c.color}>{c.type}</Badge>
-        <span style={{ fontSize: 12, color: T.text3, display: "inline-flex", alignItems: "center", gap: 5, whiteSpace: "nowrap" }}>
-          <span aria-hidden>{c.flag}</span>{c.state}
-        </span>
+      {/* Project photo strip */}
+      <div style={{ position: "relative", aspectRatio: "16/9", overflow: "hidden" }}>
+        <div data-mkt-img style={{ position: "absolute", inset: 0, transition: "transform .6s ease", transform: hov ? "scale(1.06)" : "none", ...(photo ? bgImage(photo) : { background: c.color + "33" }) }} />
+        <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, rgba(4,8,15,0.10) 40%, rgba(4,8,15,0.65) 100%)" }} />
+        <div style={{ position: "absolute", top: 12, left: 12, display: "flex", gap: 8 }}>
+          <Badge color={c.color}>{c.type}</Badge>
+        </div>
+        <div style={{ position: "absolute", top: 12, right: 12, fontSize: 11, color: "#fff", background: "rgba(13,21,37,0.7)", backdropFilter: "blur(8px)", border: `1px solid ${T.border}`, borderRadius: 999, padding: "3px 10px", fontWeight: 600 }}>
+          {c.flag} {c.state}
+        </div>
+        <div style={{ position: "absolute", bottom: 10, left: 14, fontSize: 26 }}>{c.icon}</div>
       </div>
 
-      <div style={{ fontSize: 32 }}>{c.icon}</div>
-
+      <div style={{ padding: "18px 22px", display: "flex", flexDirection: "column", gap: 12 }}>
       <h3 style={{ fontFamily: "'Outfit',sans-serif", fontWeight: 700, fontSize: 17, margin: 0, lineHeight: 1.25 }}>{c.name}</h3>
 
       {c.desc && (
@@ -84,6 +92,7 @@ function ProjectCard({ c, onBuy }) {
       <Btn onClick={() => onBuy?.(c)} style={{ width: "100%", marginTop: 6 }}>
         {t("credits.buyNow")} →
       </Btn>
+      </div>
     </div>
   );
 }
@@ -142,13 +151,15 @@ export default function Marketplace({ setPage, onBuy }) {
   };
 
   return (
-    <div className="fade" style={{ maxWidth: 1200, margin: "0 auto", padding: "60px 24px 80px" }}>
-      <h1 style={{ fontFamily: "'Outfit',sans-serif", fontSize: "clamp(34px,5vw,52px)", fontWeight: 900, margin: 0, marginBottom: 10 }}>
-        Carbon Credit Marketplace
-      </h1>
-      <p style={{ color: T.text2, fontSize: 15, marginBottom: 32 }}>
-        {CREDITS.length} verified projects across {COUNTRY_COUNT} {COUNTRY_COUNT === 1 ? "country" : "countries"} · India-first, globally sourced
-      </p>
+    <div className="fade">
+      <PageBanner
+        tag="Marketplace"
+        title="Buy verified environmental credits"
+        subtitle={`${CREDITS.length} projects across ${COUNTRY_COUNT} ${COUNTRY_COUNT === 1 ? "country" : "countries"} · India-first, globally sourced · Settled in INR`}
+        photo={PAGE_BANNERS.marketplace}
+        height={300}
+      />
+      <div style={{ maxWidth: 1200, margin: "0 auto", padding: "50px 24px 80px" }}>
 
       <div style={{ display: "flex", gap: 12, marginBottom: 22, flexWrap: "wrap" }}>
         <div style={{ position: "relative", flex: "1 1 280px", minWidth: 220 }}>
@@ -230,7 +241,7 @@ export default function Marketplace({ setPage, onBuy }) {
           <Btn variant="outline" onClick={() => { setQuery(""); setCategory("all"); setStateFilter("all"); }}>Reset filters</Btn>
         </div>
       ) : (
-        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill,minmax(300px,1fr))", gap: 20 }}>
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill,minmax(320px,1fr))", gap: 22 }}>
           {visible.map((c) => <ProjectCard key={c.id} c={c} onBuy={onBuy} />)}
         </div>
       )}
@@ -239,6 +250,7 @@ export default function Marketplace({ setPage, onBuy }) {
         <h3 style={{ fontFamily: "'Outfit',sans-serif", fontSize: 22, fontWeight: 800, marginBottom: 8 }}>Need bulk pricing for your business?</h3>
         <p style={{ color: T.text2, fontSize: 14, marginBottom: 22 }}>Volume discounts and ESG-ready reporting for 1,000+ tonnes.</p>
         <Btn onClick={() => setPage("business")}>Contact our team →</Btn>
+      </div>
       </div>
     </div>
   );
