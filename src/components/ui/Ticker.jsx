@@ -7,7 +7,9 @@ const ITEMS = [
   { icon: "♻️", label: "CPCB EPR Plastic",     value: "₹920/t" },
   { icon: "🌱", label: "Soil Carbon",          value: "₹475/t" },
   { icon: "🌊", label: "Ocean Plastic",        value: "₹1,180/t" },
+  { icon: "💧", label: "Green H₂ NGHM",        value: "₹2,088/t", positive: true },
   { icon: "📈", label: "India VCM",            value: "+12.4% YTD", positive: true },
+  { icon: "🔥", label: "SIGHT Phase II",       value: "4.5L t/yr awarded", positive: true },
 ];
 
 const SEPARATOR = "  •  ";

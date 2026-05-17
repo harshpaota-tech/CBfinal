@@ -17,6 +17,7 @@ export const CATEGORIES = [
   { id: "Plastic / EPR", label: "EPR Plastic", color: "#ec4899" },
   { id: "Blue Carbon", label: "Blue Carbon", color: "#0891b2" },
   { id: "Clean Cooking", label: "Clean Cooking", color: "#22d3ee" },
+  { id: "Green Hydrogen", label: "Green Hydrogen", color: "#14b8a6" },
 ];
 
 export const TYPE_COLORS = {
@@ -28,6 +29,7 @@ export const TYPE_COLORS = {
   "Plastic / EPR": "#ec4899",
   "Carbon / Forestry": "#10b981",
   "Clean Cooking": "#22d3ee",
+  "Green Hydrogen": "#14b8a6",
 };
 
 export const CREDITS = [
@@ -231,6 +233,26 @@ export const CREDITS = [
     desc:
       "Distribution of 25,000 high-efficiency biomass cookstoves to rural Kenyan households, displacing open-fire wood combustion. Reduces emissions and indoor air pollution. Demo international project sourced via partner registry.",
     sdgs: [7, 3, 13],
+  },
+  {
+    id: 11,
+    name: "Gujarat Green Hydrogen — SIGHT Phase II",
+    type: "Green Hydrogen",
+    country: "India",
+    flag: "🇮🇳",
+    state: "Gujarat",
+    icon: "💧",
+    color: "#14b8a6",
+    price: 25.0,
+    vintage: 2026,
+    available: 4500,
+    creditsLeft: 4500,
+    registry: "NGHM + BIS IS 18435:2023",
+    standard: "NGHM + BIS IS 18435:2023",
+    certId: "NGHM-CB-011-GJ",
+    desc:
+      "Carbon Bridge's first green hydrogen credit listing under India's National Green Hydrogen Mission (NGHM). 30 MW grid-connected electrolyzer powered by captive solar, producing 4,500 tonnes of green H2 per year for a Gujarat refinery. Awarded under SECI's SIGHT Phase II tender (March 2024).",
+    sdgs: [7, 9, 13],
   },
 ];
 

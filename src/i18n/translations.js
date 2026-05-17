@@ -8,6 +8,7 @@ const translations = {
   en: {
     nav: {
       marketplace: "Marketplace",
+      methodologies: "Methodologies",
       dashboard: "Dashboard",
       howItWorks: "How It Works",
       forBusiness: "For Business",
@@ -78,6 +79,7 @@ const translations = {
   hi: {
     nav: {
       marketplace: "मार्केटप्लेस",
+      methodologies: "मेथडोलॉजी",
       dashboard: "डैशबोर्ड",
       howItWorks: "यह कैसे काम करता है",
       forBusiness: "व्यवसाय के लिए",
