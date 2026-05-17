@@ -75,6 +75,12 @@ const translations = {
       back: "← Back",
       goToDashboard: "Go to dashboard →",
     },
+    demo: {
+      tag: "Demo Website",
+      title: "This is a demonstration website",
+      body: "Carbon Bridge Pvt. Ltd. is a concept / portfolio project. The listed credits, certificate IDs (e.g. VCS-CB-001-OD), partnerships, and price data shown across the site are illustrative only. No project on this site is currently registered with Verra, Gold Standard, CPCB EPR, India's National Green Hydrogen Mission, SECI, SATAT, or any other registry or government scheme. Please do not transact based on the prices or quantities shown.",
+      shortNotice: "Illustrative only — no credits or partnerships listed are registered with Verra, Gold Standard, CPCB, or any registry.",
+    },
   },
   hi: {
     nav: {
@@ -143,6 +149,12 @@ const translations = {
       continueButton: "आगे →",
       back: "← पीछे",
       goToDashboard: "डैशबोर्ड पर जाएँ →",
+    },
+    demo: {
+      tag: "डेमो वेबसाइट",
+      title: "यह एक डेमो (प्रदर्शन) वेबसाइट है",
+      body: "Carbon Bridge Pvt. Ltd. एक कॉन्सेप्ट / पोर्टफोलियो प्रोजेक्ट है। साइट पर दिखाए गए क्रेडिट, सर्टिफिकेट IDs (जैसे VCS-CB-001-OD), साझेदारियाँ और मूल्य डेटा केवल उदाहरण के लिए हैं। इस साइट पर कोई भी प्रोजेक्ट वर्तमान में Verra, Gold Standard, CPCB EPR, भारत के National Green Hydrogen Mission, SECI, SATAT, या किसी अन्य रजिस्ट्री या सरकारी योजना के साथ पंजीकृत नहीं है। कृपया दिखाई गई कीमतों या मात्राओं के आधार पर कोई लेनदेन न करें।",
+      shortNotice: "केवल प्रदर्शन के लिए — सूचीबद्ध कोई भी क्रेडिट या साझेदारी Verra, Gold Standard, CPCB, या किसी अन्य रजिस्ट्री के साथ पंजीकृत नहीं है।",
     },
   },
 };

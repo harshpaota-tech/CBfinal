@@ -14,6 +14,7 @@ import Logo from "./components/ui/Logo.jsx";
 import ToastHost from "./components/ui/Toast.jsx";
 import LangToggle from "./components/ui/LangToggle.jsx";
 import Ticker from "./components/ui/Ticker.jsx";
+import DemoNotice from "./components/ui/DemoNotice.jsx";
 import { setLanguage } from "./i18n/index.js";
 import { CONTACT, BRAND } from "./data/credits.js";
 import { supabase, isSupabaseConfigured } from "./lib/supabase.js";
@@ -334,8 +335,11 @@ function Footer({ setPage }) {
   ];
 
   return (
-    <footer style={{ borderTop: `1px solid ${T.border}`, background: T.bg1, padding: "56px 24px 24px", marginTop: 40 }}>
-      <div style={{ maxWidth: 1200, margin: "0 auto", display: "grid", gridTemplateColumns: "repeat(auto-fit,minmax(220px,1fr))", gap: 40, marginBottom: 40 }}>
+    <footer style={{ borderTop: `1px solid ${T.border}`, background: T.bg1, padding: "0 0 24px", marginTop: 40 }}>
+      {/* Detailed demo disclaimer — always above the footer columns */}
+      <DemoNotice variant="block" />
+
+      <div style={{ padding: "16px 24px 0", maxWidth: 1200, margin: "0 auto", display: "grid", gridTemplateColumns: "repeat(auto-fit,minmax(220px,1fr))", gap: 40, marginBottom: 40 }}>
         <div>
           <Logo size={42} withTagline muted={T.text3} />
           <p style={{ color: T.text2, fontSize: 13, lineHeight: 1.7, marginTop: 16, maxWidth: 320 }}>
@@ -366,8 +370,8 @@ function Footer({ setPage }) {
         </div>
       </div>
 
-      <div style={{ maxWidth: 1200, margin: "0 auto", paddingTop: 22, borderTop: `1px solid ${T.border}`, display: "flex", justifyContent: "space-between", flexWrap: "wrap", gap: 8 }}>
-        <span style={{ fontSize: 12, color: T.text3 }}>© {new Date().getFullYear()} {BRAND.company}. All rights reserved.</span>
+      <div style={{ maxWidth: 1200, margin: "0 auto", padding: "22px 24px 0", borderTop: `1px solid ${T.border}`, display: "flex", justifyContent: "space-between", flexWrap: "wrap", gap: 8 }}>
+        <span style={{ fontSize: 12, color: T.text3 }}>© {new Date().getFullYear()} {BRAND.company}. Demo project — all rights reserved.</span>
         <span style={{ fontSize: 12, color: T.text3 }}>🇮🇳 Building India's net-zero economy, one credit at a time.</span>
       </div>
     </footer>

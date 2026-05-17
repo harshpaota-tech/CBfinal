@@ -1,4 +1,5 @@
 import { T } from "../../theme.js";
+import DemoNotice from "./DemoNotice.jsx";
 
 const ITEMS = [
   { icon: "🌿", label: "Verra VCS India",      value: "₹582/t" },
@@ -29,19 +30,25 @@ function Item({ item }) {
 
 export default function Ticker() {
   return (
-    <div
-      role="region"
-      aria-label="India carbon credit price ticker"
-      style={{
-        position: "relative",
-        background: "linear-gradient(90deg, #050b16 0%, #0d1525 50%, #050b16 100%)",
-        borderBottom: `1px solid ${T.border}`,
-        overflow: "hidden",
-        height: 36,
-        display: "flex",
-        alignItems: "center",
-      }}
-    >
+    <>
+      {/* Demo disclaimer strip — sits above the price ticker so the very
+          first thing visitors see after the header is a clear notice that
+          the site is illustrative. */}
+      <DemoNotice variant="strip" />
+
+      <div
+        role="region"
+        aria-label="India carbon credit price ticker"
+        style={{
+          position: "relative",
+          background: "linear-gradient(90deg, #050b16 0%, #0d1525 50%, #050b16 100%)",
+          borderBottom: `1px solid ${T.border}`,
+          overflow: "hidden",
+          height: 36,
+          display: "flex",
+          alignItems: "center",
+        }}
+      >
       <style>{`
         @keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-50%); } }
         .cb-ticker-track {
@@ -75,6 +82,7 @@ export default function Ticker() {
           <Item key={i} item={item} />
         ))}
       </div>
-    </div>
+      </div>
+    </>
   );
 }
