@@ -150,7 +150,8 @@ function extractImageFromBlock(block) {
 
   for (const chunk of [extractRawTag(block, "content:encoded"), extractRawTag(block, "description")]) {
     if (!chunk) continue;
-    for (const m of chunk.matchAll(/<img[^>]+src=["']([^"']+)["']/gi)) {
+    const decoded = chunk.replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&amp;/g, "&").replace(/&quot;/g, '"');
+    for (const m of decoded.matchAll(/<img[^>]+src=["']([^"']+)["']/gi)) {
       if (!isBadImage(m[1])) return m[1].replace(/&amp;/g, "&");
     }
   }
