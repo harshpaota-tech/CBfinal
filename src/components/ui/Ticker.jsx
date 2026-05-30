@@ -1,5 +1,4 @@
 import { T } from "../../theme.js";
-import DemoNotice from "./DemoNotice.jsx";
 
 const ITEMS = [
   { icon: "🌿", label: "Verra VCS India",      value: "₹582/t" },
@@ -30,12 +29,6 @@ function Item({ item }) {
 
 export default function Ticker() {
   return (
-    <>
-      {/* Demo disclaimer strip — sits above the price ticker so the very
-          first thing visitors see after the header is a clear notice that
-          the site is illustrative. */}
-      <DemoNotice variant="strip" />
-
       <div
         role="region"
         aria-label="India carbon credit price ticker"
@@ -83,6 +76,5 @@ export default function Ticker() {
         ))}
       </div>
       </div>
-    </>
   );
 }
