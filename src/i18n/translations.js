@@ -93,6 +93,11 @@ const translations = {
       searchPlaceholder: "Search carbon, ESG, Verra, India, hydrogen…",
       noResults: "No articles match your filters.",
       sources: "Live data sources",
+      indiaSection: "India News",
+      indiaSectionSub: "Carbon credits, CBG, EPR, green hydrogen & climate policy from India",
+      worldSection: "World News",
+      worldSectionSub: "Global ESG, GHG, Verra & voluntary carbon market updates",
+      realImagesNote: "Images pulled from original articles — no stock photos",
     },
     demo: {
       tag: "Demo Website",
@@ -187,6 +192,11 @@ const translations = {
       searchPlaceholder: "कार्बन, ESG, Verra, भारत, हाइड्रोजन खोजें…",
       noResults: "कोई लेख नहीं मिला।",
       sources: "लाइव डेटा स्रोत",
+      indiaSection: "भारत समाचार",
+      indiaSectionSub: "कार्बन क्रेडिट, CBG, EPR, ग्रीन हाइड्रोजन और जलवायु नीति",
+      worldSection: "विश्व समाचार",
+      worldSectionSub: "वैश्विक ESG, GHG, Verra और कार्बन बाज़ार अपडेट",
+      realImagesNote: "चित्र मूल लेखों से — कोई स्टॉक फोटो नहीं",
     },
     demo: {
       tag: "डेमो वेबसाइट",

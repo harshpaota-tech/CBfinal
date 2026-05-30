@@ -2,14 +2,8 @@
 /**
  * Carbon Bridge — automated news aggregator
  *
- * Pulls live content from:
- *   • Verra.org RSS (official announcements)
- *   • Verra Registry API (latest VCS project listings)
- *   • Google News RSS (carbon credits, ESG, GHG, green hydrogen)
- *   • Carbon Brief RSS (climate / emissions journalism)
- *
- * Writes public/news-feed.json — served by Vite and refreshed by
- * GitHub Actions every 6 hours (see .github/workflows/update-news.yml).
+ * Pulls live content from Verra RSS, Verra Registry API, Google News, Carbon Brief.
+ * Extracts REAL article images (RSS media / og:image) — no stock photo placeholders.
  */
 
 import { writeFileSync, mkdirSync } from "node:fs";
@@ -20,22 +14,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT_PATH = join(__dirname, "../public/news-feed.json");
 
 const RSS_SOURCES = [
-  {
-    id: "verra",
-    name: "Verra",
-    url: "https://verra.org/feed/",
-    tag: "VERRA",
-    type: "announcement",
-    limit: 12,
-  },
-  {
-    id: "carbon-brief",
-    name: "Carbon Brief",
-    url: "https://www.carbonbrief.org/feed/",
-    tag: "CLIMATE",
-    type: "esg",
-    limit: 8,
-  },
+  { id: "verra", name: "Verra", url: "https://verra.org/feed/", tag: "VERRA", type: "announcement", limit: 12 },
+  { id: "carbon-brief", name: "Carbon Brief", url: "https://www.carbonbrief.org/feed/", tag: "CLIMATE", type: "esg", limit: 8 },
   {
     id: "google-esg",
     name: "ESG & GHG News",
@@ -58,7 +38,7 @@ const RSS_SOURCES = [
     url: "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
     tag: "INDIA",
     type: "esg",
-    limit: 8,
+    limit: 10,
   },
   {
     id: "google-h2",
@@ -70,15 +50,6 @@ const RSS_SOURCES = [
   },
 ];
 
-const NEWS_PHOTOS = [
-  "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
-  "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
-  "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
-  "https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
-  "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
-  "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
-];
-
 const TAG_ACCENTS = {
   VERRA: "#86efac",
   "VCS PROJECT": "#86efac",
@@ -87,10 +58,12 @@ const TAG_ACCENTS = {
   CLIMATE: "#34d399",
   INDIA: "#fbbf24",
   "GREEN HYDROGEN": "#5eead4",
-  REGISTRY: "#86efac",
   POLICY: "#5eead4",
   ANNOUNCEMENT: "#86efac",
 };
+
+const INDIA_KEYWORDS =
+  /\bindia\b|\bindian\b|cpcb|satat|nghm|seci|gujarat|maharashtra|tamil nadu|jharkhand|west bengal|karnataka|odisha|rajasthan|delhi|mumbai|bangalore|chennai|hyderabad|kolkata|pune|biogas|cbg\b|epr portal|bis is/i;
 
 function slugify(text) {
   return String(text || "")
@@ -100,23 +73,87 @@ function slugify(text) {
     .slice(0, 80);
 }
 
-function stripHtml(html) {
-  return String(html || "")
-    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
-    .replace(/<[^>]+>/g, " ")
+function decodeEntities(text) {
+  return String(text || "")
     .replace(/&nbsp;/g, " ")
     .replace(/&amp;/g, "&")
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
     .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)));
+}
+
+function stripHtml(html) {
+  return decodeEntities(String(html || ""))
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
+    .replace(/<script[\s\S]*?<\/script>/gi, " ")
+    .replace(/<style[\s\S]*?<\/style>/gi, " ")
+    .replace(/<[^>]+>/g, " ")
     .replace(/\s+/g, " ")
     .trim();
 }
 
-function extractTag(block, tag) {
+function extractRawTag(block, tag) {
   const m = block.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, "i"));
-  if (!m) return "";
-  return stripHtml(m[1]);
+  return m ? m[1] : "";
+}
+
+function extractExcerpt(rawDescription, title) {
+  const anchorMatch = rawDescription.match(/<a[^>]*>([\s\S]*?)<\/a>/i);
+  let text = anchorMatch ? stripHtml(anchorMatch[1]) : stripHtml(rawDescription);
+
+  text = text
+    .replace(/The post .* appeared first on .*/gi, "")
+    .replace(/&nbsp;/g, " ")
+    .trim();
+
+  if (!text || text.length < 24 || /^https?:\/\//i.test(text)) {
+    text = title.replace(/\s*[-–|]\s*[^-|]+$/, "").trim();
+  }
+
+  return text.length > 280 ? `${text.slice(0, 277)}…` : text;
+}
+
+function extractImageFromBlock(block) {
+  const media = block.match(/<media:content[^>]+url=["']([^"']+)["']/i);
+  if (media?.[1]) return media[1];
+
+  const thumb = block.match(/<media:thumbnail[^>]+url=["']([^"']+)["']/i);
+  if (thumb?.[1]) return thumb[1];
+
+  const enclosure = block.match(/<enclosure[^>]+url=["']([^"']+)["'][^>]+type=["']image/i);
+  if (enclosure?.[1]) return enclosure[1];
+
+  for (const chunk of [extractRawTag(block, "content:encoded"), extractRawTag(block, "description")]) {
+    if (!chunk) continue;
+    for (const m of chunk.matchAll(/<img[^>]+src=["']([^"']+)["']/gi)) {
+      const src = m[1];
+      if (!src.includes("ex_link") && !src.includes("favicon") && !src.endsWith(".svg")) return src;
+    }
+  }
+  return null;
+}
+
+function inferTag(title, description, category, defaultTag) {
+  const text = `${title} ${description} ${category}`.toLowerCase();
+  if (/green hydrogen|nghm|electrolyzer|sight/i.test(text)) return "GREEN HYDROGEN";
+  if (INDIA_KEYWORDS.test(text)) return "INDIA";
+  if (/verra|vcs|vm00|vcu|verified carbon/i.test(text)) return "VERRA";
+  if (/gold standard|gs4gg|carbon credit|offset|voluntary carbon/i.test(text)) return "CARBON MARKET";
+  if (/esg|ghg|emission|net.?zero|sustainability/i.test(text)) return "ESG";
+  if (/climate|cop\d|warming|decarbon/i.test(text)) return "CLIMATE";
+  if (/policy|regulation|compliance|epr/i.test(text)) return "POLICY";
+  return defaultTag;
+}
+
+function classifyRegion(article) {
+  if (article.country === "India") return "india";
+  if (article.tag === "INDIA") return "india";
+  if (article.source === "google-india") return "india";
+  const text = `${article.title} ${article.excerpt}`;
+  if (INDIA_KEYWORDS.test(text)) return "india";
+  return "world";
 }
 
 function parseRssItems(xml, source) {
@@ -126,19 +163,21 @@ function parseRssItems(xml, source) {
 
   while ((match = itemRegex.exec(xml)) && items.length < source.limit) {
     const block = match[1];
-    const title = extractTag(block, "title");
-    const link = extractTag(block, "link");
-    const pubDate = extractTag(block, "pubDate");
-    const description = extractTag(block, "description");
-    const category = extractTag(block, "category");
+    const title = stripHtml(extractRawTag(block, "title"));
+    const link = stripHtml(extractRawTag(block, "link"));
+    const pubDate = stripHtml(extractRawTag(block, "pubDate"));
+    const rawDescription = extractRawTag(block, "description");
+    const category = stripHtml(extractRawTag(block, "category"));
 
     if (!title || !link) continue;
 
     const publishedAt = pubDate ? new Date(pubDate).toISOString() : new Date().toISOString();
-    const tag = inferTag(title, description, category, source.tag);
+    const tag = inferTag(title, rawDescription, category, source.tag);
     const id = `${source.id}-${slugify(title).slice(0, 40)}-${publishedAt.slice(0, 10)}`;
+    const excerpt = extractExcerpt(rawDescription, title);
+    const image = extractImageFromBlock(block);
 
-    items.push({
+    const article = {
       id,
       source: source.id,
       sourceName: source.name,
@@ -146,37 +185,21 @@ function parseRssItems(xml, source) {
       tag,
       accent: TAG_ACCENTS[tag] || "#86efac",
       title,
-      excerpt: description.slice(0, 280) + (description.length > 280 ? "…" : ""),
+      excerpt,
       url: link,
       publishedAt,
-      image: pickPhoto(title + tag),
-      country: tag === "INDIA" || /india/i.test(title) ? "India" : null,
+      image,
+      country: tag === "INDIA" || INDIA_KEYWORDS.test(title) ? "India" : null,
       methodology: null,
       registryId: null,
       status: null,
       meta: { category: category || null, feed: source.url },
-    });
+    };
+    article.region = classifyRegion(article);
+    items.push(article);
   }
 
   return items;
-}
-
-function inferTag(title, description, category, defaultTag) {
-  const text = `${title} ${description} ${category}`.toLowerCase();
-  if (/green hydrogen|nghm|electrolyzer|sight/i.test(text)) return "GREEN HYDROGEN";
-  if (/india|indian|cpcb|satat|nghm|seci|bis is/i.test(text)) return "INDIA";
-  if (/verra|vcs|vm00|vcu|verified carbon/i.test(text)) return "VERRA";
-  if (/gold standard|gs4gg|carbon credit|offset|voluntary carbon/i.test(text)) return "CARBON MARKET";
-  if (/esg|ghg|emission|net.?zero|sustainability/i.test(text)) return "ESG";
-  if (/climate|cop\d|warming|decarbon/i.test(text)) return "CLIMATE";
-  if (/policy|regulation|compliance|epr/i.test(text)) return "POLICY";
-  return defaultTag;
-}
-
-function pickPhoto(seed) {
-  let hash = 0;
-  for (let i = 0; i < seed.length; i++) hash = (hash * 31 + seed.charCodeAt(i)) >>> 0;
-  return NEWS_PHOTOS[hash % NEWS_PHOTOS.length];
 }
 
 async function fetchText(url, timeoutMs = 20000) {
@@ -185,9 +208,10 @@ async function fetchText(url, timeoutMs = 20000) {
   try {
     const res = await fetch(url, {
       signal: controller.signal,
+      redirect: "follow",
       headers: {
-        "User-Agent": "CarbonBridge-NewsBot/1.0 (+https://thecarbonbridge.com)",
-        Accept: "application/rss+xml, application/xml, text/xml, application/json, */*",
+        "User-Agent": "Mozilla/5.0 (compatible; CarbonBridge-NewsBot/1.1; +https://thecarbonbridge.com)",
+        Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
       },
     });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -195,6 +219,51 @@ async function fetchText(url, timeoutMs = 20000) {
   } finally {
     clearTimeout(timer);
   }
+}
+
+async function fetchOgImage(pageUrl) {
+  try {
+    const html = await fetchText(pageUrl, 14000);
+    const patterns = [
+      /property=["']og:image["'][^>]+content=["']([^"']+)["']/i,
+      /content=["']([^"']+)["'][^>]+property=["']og:image["']/i,
+      /name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i,
+      /content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i,
+    ];
+    for (const pattern of patterns) {
+      const m = html.match(pattern);
+      if (m?.[1] && !m[1].includes("ex_link.svg") && !m[1].includes("favicon")) {
+        return m[1].replace(/&amp;/g, "&");
+      }
+    }
+    const imgMatch = html.match(/<img[^>]+src=["'](https?:\/\/[^"']+\.(?:jpg|jpeg|png|webp)[^"']*)["']/i);
+    if (imgMatch?.[1] && !imgMatch[1].includes("ex_link")) return imgMatch[1].replace(/&amp;/g, "&");
+  } catch {
+    /* skip */
+  }
+  return null;
+}
+
+async function enrichImages(articles, { concurrency = 8 } = {}) {
+  const queue = articles.filter((a) => !a.image && a.url);
+  let idx = 0;
+  let enriched = 0;
+
+  async function worker() {
+    while (idx < queue.length) {
+      const i = idx++;
+      const article = queue[i];
+      const img = await fetchOgImage(article.url);
+      if (img) {
+        article.image = img;
+        article.meta = { ...article.meta, imageSource: "og:image" };
+        enriched++;
+      }
+    }
+  }
+
+  await Promise.all(Array.from({ length: concurrency }, () => worker()));
+  console.log(`  ✓ Image enrichment: ${enriched}/${queue.length} articles got real thumbnails`);
 }
 
 async function fetchRssSource(source) {
@@ -222,7 +291,7 @@ async function fetchVerraRegistryProjects() {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
-        "User-Agent": "CarbonBridge-NewsBot/1.0",
+        "User-Agent": "CarbonBridge-NewsBot/1.1",
       },
       body: JSON.stringify({ program: "VCS" }),
     });
@@ -246,7 +315,7 @@ function mapVerraProject(p) {
     : "—";
   const tag = p.country === "India" ? "INDIA" : "VCS PROJECT";
 
-  return {
+  const article = {
     id,
     source: "verra-registry",
     sourceName: "Verra VCS Registry",
@@ -254,19 +323,12 @@ function mapVerraProject(p) {
     tag,
     accent: TAG_ACCENTS[tag] || "#86efac",
     title: p.resourceName,
-    excerpt: [
-      p.country,
-      p.resourceStatus,
-      p.protocols || p.protocolCategories,
-      reductions,
-    ]
+    excerpt: [p.country, p.resourceStatus, p.protocols || p.protocolCategories, reductions]
       .filter(Boolean)
       .join(" · "),
     url: `https://registry.verra.org/app/projectDetail/VCS/${p.resourceIdentifier}`,
-    publishedAt: p.createDate
-      ? new Date(p.createDate).toISOString()
-      : new Date().toISOString(),
-    image: pickPhoto(p.resourceName + p.country),
+    publishedAt: p.createDate ? new Date(p.createDate).toISOString() : new Date().toISOString(),
+    image: null,
     country: p.country || null,
     methodology: p.protocols || p.protocolCategories || null,
     registryId: p.resourceIdentifier,
@@ -279,6 +341,8 @@ function mapVerraProject(p) {
       program: p.program,
     },
   };
+  article.region = classifyRegion(article);
+  return article;
 }
 
 function dedupeArticles(articles) {
@@ -300,8 +364,17 @@ async function main() {
   const all = dedupeArticles([...registryProjects, ...rssResults.flat()]);
   all.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
+  console.log("\n  Enriching missing images from article pages…");
+  await enrichImages(all);
+
+  // Re-classify regions after enrichment
+  for (const a of all) a.region = classifyRegion(a);
+
+  const indiaArticles = all.filter((a) => a.region === "india");
+  const worldArticles = all.filter((a) => a.region === "world");
+
   const feed = {
-    version: 1,
+    version: 2,
     fetchedAt: new Date().toISOString(),
     sources: [
       { id: "verra-registry", name: "Verra VCS Registry API", url: "https://registry.verra.org/" },
@@ -309,10 +382,16 @@ async function main() {
     ],
     stats: {
       total: all.length,
+      india: indiaArticles.length,
+      world: worldArticles.length,
+      withImages: all.filter((a) => a.image).length,
       verra: all.filter((a) => a.source === "verra").length,
       registry: all.filter((a) => a.source === "verra-registry").length,
       esg: all.filter((a) => a.type === "esg").length,
-      india: all.filter((a) => a.country === "India" || a.tag === "INDIA").length,
+    },
+    sections: {
+      india: indiaArticles,
+      world: worldArticles,
     },
     articles: all,
   };
@@ -321,7 +400,9 @@ async function main() {
   writeFileSync(OUT_PATH, JSON.stringify(feed, null, 2), "utf8");
 
   console.log(`\n✓ Wrote ${all.length} articles → public/news-feed.json`);
-  console.log(`  Stats: ${feed.stats.registry} registry · ${feed.stats.verra} Verra · ${feed.stats.esg} ESG · ${feed.stats.india} India`);
+  console.log(
+    `  🇮🇳 India: ${feed.stats.india} · 🌍 World: ${feed.stats.world} · 🖼 Real images: ${feed.stats.withImages}/${feed.stats.total}`
+  );
 }
 
 main().catch((err) => {

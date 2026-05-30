@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "fetchedAt": "2026-05-30T13:45:27.529Z",
+  "version": 2,
+  "fetchedAt": "2026-05-30T14:08:51.531Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -39,11 +39,1877 @@
     }
   ],
   "stats": {
-    "total": 77,
+    "total": 79,
+    "india": 23,
+    "world": 56,
+    "withImages": 54,
     "verra": 10,
     "registry": 25,
-    "esg": 42,
-    "india": 20
+    "esg": 44
+  },
+  "sections": {
+    "india": [
+      {
+        "id": "carbon-brief-debriefed-29-may-2026-europe-s-mind-bogg-2026-05-29",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "DeBriefed 29 May 2026: Europe’s ‘mind-boggling’ May | Indian heat deaths | Nigeria’s solar mini-grids",
+        "excerpt": "DeBriefed 29 May 2026: Europe’s ‘mind-boggling’ May | Indian heat deaths | Nigeria’s solar mini-grids",
+        "url": "https://www.carbonbrief.org/debriefed-29-may-2026-europes-mind-boggling-may-indian-heat-deaths-nigerias-solar-mini-grids/",
+        "publishedAt": "2026-05-29T14:00:00.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/hospital_flooding_debriefed.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "DeBriefed",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-green-india-challenge-founder-urges-citi-2026-05-28",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Green India Challenge founder urges citizen-led climate federalism at IIM Bangalore - The News Mill",
+        "excerpt": "Green India Challenge founder urges citizen-led climate federalism at IIM Bangalore    The News Mill",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONXQ0Mm1KWHMyc3F6ajBrRjgtSDNPWlhyQVNsUW5mclNKSm1PbE1XMkNSX3k2RDVRWk5FTTVEby1hVUZrNWpHQ2lKLWJSZzFIaXpNbG1GNU1tSXBzUE10RWV4UkpyLVdkS1IxY3hVSG9IUjBTMTZyaEppeG5oNm1jNXMzcjZ4UW9lZ3hDTUhtOVo5eDN0S003bl9taTFwXzZqTTBlQ3M1a3pFbWltSDl2UnZZemliNTg?oc=5",
+        "publishedAt": "2026-05-28T15:02:25.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-05-26",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
+        "excerpt": "The Ultimate Guide to Understanding Carbon Credits    CarbonCredits.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+        "publishedAt": "2026-05-26T16:22:07.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
+        "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur    Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5",
+        "publishedAt": "2026-05-25T12:09:22.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-india-among-biggest-new-carbon-markets-a-2026-05-21",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India among biggest new carbon markets as global carbon pricing covers 29 per cent of emissions - Down To Earth",
+        "excerpt": "India among biggest new carbon markets as global carbon pricing covers 29 per cent of emissions    Down To Earth",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaV9LeHJRbDJwR3JaMzlENTN6VnFjVkxnODZxTjF6dDNqckhWbkszaGZoTjFjZGdvNENTUGM5R200LUhja1Nxb3NBU0MyRGU2R29kTU1hdXVDbGs5VEV2S2NnU0Z2ZUlJSFU1RmEweS1Wd3F0M2dwcnpzc1hHTkdLNm9yTUJSd1NFRWtiS0FFb0RhYUJYRkJWVlBxVUVGVGhSRUxQblVFdldmMnVVeW0wNDZyU2xLRFhIVnZzc2NZSE85cHEwSmtLOTE4M255OFdjYmg0STZIelbSAeYBQVVfeXFMTXEzTVRuRVVyTFljbXJxMnV4a2RuSE5qamF1UFpIRkFTOTJESmcxQ3dBWmlKbUhhUlBuM1JKLV9EMnhWSlJITTB3ZDlQeWFUNV9IbzBvajVCZDZFQ3hfOW9pUDJnY3NqdlExaHJjYWt1V1N3MThBMUtYSGFsZjJweDl2WlFxNjYzZmtSZzdpRnpqYnNSYWpoUEIwZlg0YVczcXNTZGpoNm0wYmhIR1RNVDM3Qk1kMzZMSFJnQ3hlZGZWeTdub2Zzem0wLUQ2S29Bb3NJaVNNeXc3RDdoa2JURGROTmt6aVE?oc=5",
+        "publishedAt": "2026-05-21T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      },
+      {
+        "id": "verra-vcs-6032",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Solar PV Power Project by Juniper Green Ray Two Private Limited",
+        "excerpt": "India · Under validation · Methodology Under Development · 2,80,000 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6032",
+        "publishedAt": "2026-05-14T00:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": "Methodology Under Development",
+        "registryId": "6032",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Juniper Green Ray Two Private Limited",
+          "region": "Asia",
+          "creditingPeriodStart": "2025-05-22",
+          "creditingPeriodEnd": "2032-05-21",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India’s Grasslands Need Climate Policy, Not Carbon Rush - Frontline Magazine",
+        "excerpt": "India’s Grasslands Need Climate Policy, Not Carbon Rush    Frontline Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlhkQURpdUd0Yk51RUEwNGEtc1NmWHMtV2dZY3hPREhXZGJUMWNlYXh3UHotaF9jZjlFZXp4RF95UEduSkg5VGlad3JWdmxBZU15T2tiZUE0TWtGZTFKOVRqT2lSRGE4d0VNYWNOdExNdTEzT0RwVVhOeEl2dTZob19pY283NFliVHk3b1ZXdDlkVVhKQUFvZG0xdE9la2htQUFmc3pJMDVFYWJxeVh4OGQ1NVhZSDJDZjR1bnlaek5rSzBTTGhlM9IBzwFBVV95cUxPemxKSjVSeW0zVXZsRG51eFhTVjk1S0R2VmcwRHppNVFPdU02NDRES2dhV1QwWFoybjdzQWNVbHg1dU1xbWJCdjlxemVrTXc3cUl0aFJPVXN6Sk9UeU5reEJhRFk5MFM5a2NzUFRiVzZVaDBxQmVxS0M4Ql9aSXpGc3lhNUFUaVhqMDZiYTNHUDBtTFNYTnJJdExuUEpMT0JkNDhvSmtyaGg3aTdvbktZcXpxUWFadDJrRHpCclJLX0h4S1I1NlNQUVpXWDFqR2M?oc=5",
+        "publishedAt": "2026-04-25T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      },
+      {
+        "id": "verra-vcs-5992",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "ATMANIRBHAR KRISHAK PLANTATION PROJECT (KHARGONE, M.P.)",
+        "excerpt": "India · Under development · VM0047 · 3,39,097 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5992",
+        "publishedAt": "2026-04-16T00:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": "VM0047",
+        "registryId": "5992",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Multiple Proponents",
+          "region": "Asia",
+          "creditingPeriodStart": null,
+          "creditingPeriodEnd": null,
+          "program": "Verified Carbon Standard"
+        },
+        "region": "india"
+      },
+      {
+        "id": "verra-vcs-5990",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "ATMANIRBHAR KRISHAK PLANTATION PROJECT (KHANDWA, M.P.)",
+        "excerpt": "India · Under development · VM0047 · 3,54,025 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5990",
+        "publishedAt": "2026-04-15T00:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": "VM0047",
+        "registryId": "5990",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Multiple Proponents",
+          "region": "Asia",
+          "creditingPeriodStart": "2025-06-16",
+          "creditingPeriodEnd": "2057-06-15",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "india"
+      },
+      {
+        "id": "verra-vcs-5986",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Sillverton Methane Reduction & Biogas Project",
+        "excerpt": "India · Under validation · AMS-I.C.; AMS-III.H.; AMS-III.AQ · 60,000 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5986",
+        "publishedAt": "2026-04-13T00:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": "AMS-I.C.; AMS-III.H.; AMS-III.AQ",
+        "registryId": "5986",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "SILLVERTON INDUSTRIES LIMITED",
+          "region": "Asia",
+          "creditingPeriodStart": "2026-01-01",
+          "creditingPeriodEnd": "2032-12-31",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "india"
+      },
+      {
+        "id": "verra-vcs-5983",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Implementing Sustainable Agroforestry Practices in the State of Gujarat, India",
+        "excerpt": "India · Under development · VM0047 · 15,448 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5983",
+        "publishedAt": "2026-04-08T00:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": "VM0047",
+        "registryId": "5983",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Multiple Proponents",
+          "region": "Asia",
+          "creditingPeriodStart": "2023-07-01",
+          "creditingPeriodEnd": "2063-06-30",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
+        "excerpt": "How Indian industries are adapting to CBAM and carbon pricing    EY",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
+        "publishedAt": "2026-04-03T07:24:04.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      },
+      {
+        "id": "verra-vcs-5973",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "HIM EVERGREEN – Integrated Climate Smart Agriculture, and Agroforestry Program",
+        "excerpt": "India · Under development · VM0042 · 3,37,767 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5973",
+        "publishedAt": "2026-03-27T00:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": "VM0042",
+        "registryId": "5973",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Proclime Services Private Limited",
+          "region": "Asia",
+          "creditingPeriodStart": null,
+          "creditingPeriodEnd": null,
+          "program": "Verified Carbon Standard"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-carbon-global-blue-carbon-market-to-reach-usd-1-2026-03-25",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
+        "excerpt": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International    PR Newswire UK",
+        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxORU40NERySjF1ZVh1cGlYZzdHa09sblVKYlNHRHktbUw0UUxhbzliTWc5SFNSb3BWRnBRMUsxa2lEa01BR055Qk1LVWtrejMzQm9xeUhvcUkxSUJpOWwxNkxsRDdoaDBwUmhGS0pDNnI4d0Eya2RZc2lhcHNCYm5HZXdjWDRlRjhRODRhaG5Iazdya2FtYjRyb3JtWUVaWFp5bWtZVy1vUWo4VnZMOFhZOS15NHNhVExMZUpvaDBOWUhELVdXRTJPN2hyTGVaVUhwWDFqZ01FWnRyNUJyV1J5ZUlRdHFwbjl2bHVKZ25LWmJSVjRlaTFuNnFXZkNic2Ztd3JfRTRPb1lJX2ZqZW1lVlJTMHZGSm5taU50NlEtcXlpcHBpeFBoT0x4dlRXV2l6azZhWVY3UXRMczBRekZpNXA5RjNkWjR6MzBvQ0RRc0lidw?oc=5",
+        "publishedAt": "2026-03-25T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-india-launches-centralized-carbon-market-2026-03-23",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
+        "excerpt": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance    ESG News",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5",
+        "publishedAt": "2026-03-23T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
+        "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments    PIB",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5",
+        "publishedAt": "2026-03-21T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-digital-pathways-to-net-zero-union-power-2026-03-21",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Digital Pathways to Net Zero: Union Power Minister Launches Indian Carbon Market Portal - The Policy Edge",
+        "excerpt": "Digital Pathways to Net Zero: Union Power Minister Launches Indian Carbon Market Portal    The Policy Edge",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazM3ZHJoaGFPNV9kc1c4VkZHUVdrZUNVSjVWc2xIWTJZQ0RjLXo0WThyejhDaTRFb2NtV0NpZGVONmlDZU1jT2FUekE1SzNIMFlJRUZqUXlQeDA0MVluY01ZVWFsMmNxUkluOFVwMzJSRjhNZ2hGTVo2VHQ3QTNPWDJIekF5bmo4d1Z1dEtjWnBNTFh3Q2ZGd0Y1SUNYX05zNkVuTjBTVTd5SlBJTm9WbE15aF8?oc=5",
+        "publishedAt": "2026-03-21T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-carbon-credits-climate-policy-and-the-fu-2026-03-10",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon Credits, Climate Policy and the Future of Textile Manufacturing with SED’s MVR Based LTE® Technology - The Textile Magazine",
+        "excerpt": "Carbon Credits, Climate Policy and the Future of Textile Manufacturing with SED’s MVR Based LTE® Technology    The Textile Magazine",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS284NGtBNXZ5bGZEeTBoVlRmUWVDZFNrS1BTV0xsWEdlWnd4QjY4S3FCWkl5VFdPVjUtYnRPZzJ1VEZhM3U5bk1idE16ZTBmMnFUNFdKWlYzYW5uTkQxY0cteUJsZ1A1UUtDN3BmemNGVzdGbnhYbVhfd1Mtd2ZhNVRlN3BaT2gxRVZwQ1lpWk5iQ3dfbl9JdkxDTHNSUEhLVVR4RUdURWNPdFlTTjVNQWlRbVVoZ2h3VUIyRW1pR2JlZWZ1WmNodUlrYkRNbWl4VXBSWlJhN2wxdw?oc=5",
+        "publishedAt": "2026-03-10T08:55:12.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Decarbonizing India’s Development Journey - Drishti IAS",
+        "excerpt": "Decarbonizing India’s Development Journey    Drishti IAS",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT25tZUNQVS1HTkRUc3pCdFpQRlNlUGVOV0xkclJ4WnRYTXRRMlNkelRYWnlUYkdzRmNqRXIxQkFsOUotOUh0TmdvclN5WHZWX01FMmpleFRXWVpRd3k1TFo2eUpZaW5teEViZnpZcDlCTDFvYjdENFBJa2tvSENGckdURWtlamFtdEYxanFnNUs0azZLZ1o5WTFVcU8wUGJjc1VybThn?oc=5",
+        "publishedAt": "2026-02-25T08:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "India’s Green Hydrogen Ambition - MillenniumPost",
+        "excerpt": "India’s Green Hydrogen Ambition    MillenniumPost",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5",
+        "publishedAt": "2026-01-21T08:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
+        "excerpt": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets    Fuel Cells Works",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
+        "publishedAt": "2025-09-01T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-h2-knowledge-nugget-what-you-must-know-abou-2025-08-20",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam - The Indian Express",
+        "excerpt": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam    The Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
+        "publishedAt": "2025-08-20T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-h2-green-hydrogen-fuel-in-india-types-benef-2025-07-21",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Green Hydrogen Fuel in India, Types, Benefits and Challenges - StudyIQ",
+        "excerpt": "Green Hydrogen Fuel in India, Types, Benefits and Challenges    StudyIQ",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pMThoZm5Ya29ZX2R3RWk4NjVPeUcwbkNBR3R4QzJGYUxHNXVUekdqMlVvS0t5Q09sTDd0aTFITXo2aUdwd21FcDNEUTBOTlMtMGVET214R3JZWGxB?oc=5",
+        "publishedAt": "2025-07-21T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "india"
+      }
+    ],
+    "world": [
+      {
+        "id": "carbon-brief-ai-boom-means-us-is-now-investing-more-i-2026-05-29",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "AI boom means US is now ‘investing more’ in fossil-fuel power than China",
+        "excerpt": "AI boom means US is now ‘investing more’ in fossil-fuel power than China",
+        "url": "https://www.carbonbrief.org/ai-boom-means-us-is-now-investing-more-in-fossil-fuel-power-than-china/",
+        "publishedAt": "2026-05-29T12:58:11.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/ai-boom-means-us-now-investing-fossil-fuel-power-china.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "US Policy",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-em-dat-trump-aid-cuts-could-close-databa-2026-05-29",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "EM-DAT: Trump aid cuts could close database storing ‘world’s memory of disasters’",
+        "excerpt": "EM-DAT: Trump aid cuts could close database storing ‘world’s memory of disasters’",
+        "url": "https://www.carbonbrief.org/em-dat-trump-aid-cuts-could-close-database-storing-worlds-memory-of-disasters/",
+        "publishedAt": "2026-05-29T09:44:14.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/heat_media_reaction-2-300x200.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Extreme weather",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-china-briefing-28-may-2026-deadly-rains--2026-05-28",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "China Briefing 28 May 2026: Deadly rains | China pushes back | Examining China’s carbon intensity metric",
+        "excerpt": "China Briefing 28 May 2026: Deadly rains | China pushes back | Examining China’s carbon intensity metric",
+        "url": "https://www.carbonbrief.org/china-briefing-28-may-2026-deadly-rains-china-pushes-back-examining-chinas-carbon-intensity-metric/",
+        "publishedAt": "2026-05-28T14:40:21.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2021/02/qrcode_for_gh_9c056d53c2b7_258-1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "China Briefing",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-media-reaction-uk-and-europe-s-mind-bogg-2026-05-28",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Media reaction: UK and Europe’s ‘mind-boggling’ May heat and climate change",
+        "excerpt": "Media reaction: UK and Europe’s ‘mind-boggling’ May heat and climate change",
+        "url": "https://www.carbonbrief.org/media-reaction-uk-and-europes-mind-boggling-may-heat-and-climate-change/",
+        "publishedAt": "2026-05-28T12:29:38.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-13.02.06.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Extreme weather",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-who-verifies-carbon-credits-carboncredit-2026-05-27",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Who Verifies Carbon Credits? - CarbonCredits.com",
+        "excerpt": "Who Verifies Carbon Credits?    CarbonCredits.com",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tRUdsSnFiUmRJNl9Nakt2MkVQVW9jNFRDNnBnd1I0dURvRFVQVmljN1c3aTJ2T0VhQjkzQjdUbVZrbXJkMWEzUzVTWUF5QU5IVXhHbll2Ny13LU43VzZTcEFYc20?oc=5",
+        "publishedAt": "2026-05-27T16:32:36.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-q-a-can-china-turn-hydrogen-into-its-nex-2026-05-27",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "Q&A: Can China turn hydrogen into its next clean-energy industry?",
+        "excerpt": "Q&A: Can China turn hydrogen into its next clean-energy industry?",
+        "url": "https://www.carbonbrief.org/qa-can-china-turn-hydrogen-into-its-next-clean-energy-industry/",
+        "publishedAt": "2026-05-27T13:13:42.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/China_consumes-scaled.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "China Policy",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-analysis-china-s-new-carbon-metric-leave-2026-05-25",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions",
+        "excerpt": "Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions",
+        "url": "https://www.carbonbrief.org/analysis-chinas-new-carbon-metric-leaves-germany-sized-gap-in-its-emissions/",
+        "publishedAt": "2026-05-25T23:01:00.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/China_has_changed_the_scope_of_its_carbon-intensity_metric.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "China energy",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-revealed-floods-have-forced-at-least-67--2026-05-25",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "Revealed: Floods have forced at least 67 closures at NHS hospitals since 2021",
+        "excerpt": "Revealed: Floods have forced at least 67 closures at NHS hospitals since 2021",
+        "url": "https://www.carbonbrief.org/revealed-floods-have-forced-at-least-67-closures-at-nhs-hospitals-since-2021/",
+        "publishedAt": "2026-05-25T15:00:00.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/hospital_flooding-02.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "UK policy",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-projects-open-for-public-comment-may-25--2026-05-25",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Projects Open for Public Comment: May 25, 2026",
+        "excerpt": "Projects Open for Public Comment: May 25, 2026",
+        "url": "https://verra.org/projects-open-for-public-comment-may-25-2026/",
+        "publishedAt": "2026-05-25T12:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2024/12/gustavo-quinalha-mZUJl2GAaSE-unsplash-scaled.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-may-2026-newsletter-2026-05-21",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "May 2026 Newsletter",
+        "excerpt": "May 2026 Newsletter",
+        "url": "https://verra.org/may-2026-newsletter/",
+        "publishedAt": "2026-05-21T20:36:51.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/05/DSCF1995.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-registers-first-project-under-food-2026-05-21",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Registers First Project under Food Loss and Waste Methodology",
+        "excerpt": "Verra Registers First Project under Food Loss and Waste Methodology",
+        "url": "https://verra.org/verra-registers-first-project-under-food-loss-and-waste-methodology/",
+        "publishedAt": "2026-05-21T13:14:16.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/05/Food-Rescue-Picture-1-scaled-e1779222630517.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-projects-open-for-public-comment-may-18--2026-05-18",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Projects Open for Public Comment: May 18, 2026",
+        "excerpt": "Projects Open for Public Comment: May 18, 2026",
+        "url": "https://verra.org/projects-open-for-public-comment-may-18-2026/",
+        "publishedAt": "2026-05-18T12:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2023/09/Food-waste_Shuttershock.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-launches-fsc-label-for-carbon-cred-2026-05-14",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Launches FSC Label for Carbon Credits",
+        "excerpt": "Verra Launches FSC Label for Carbon Credits",
+        "url": "https://verra.org/verra-launches-fsc-label-for-carbon-credits/",
+        "publishedAt": "2026-05-14T18:55:49.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/05/andrew-coelho-aL7SA1ASVdQ-unsplash.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-announces-vetted-data-service-prov-2026-05-14",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Announces Vetted Data Service Providers for ARR Methodology",
+        "excerpt": "Verra Announces Vetted Data Service Providers for ARR Methodology",
+        "url": "https://verra.org/verra-announces-vetted-data-service-providers-for-arr-methodology/",
+        "publishedAt": "2026-05-14T15:58:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2025/08/paraguay.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-consultation-revision-to-improved-forest-2026-05-12",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Consultation: Revision to Improved Forest Management Methodology",
+        "excerpt": "Consultation: Revision to Improved Forest Management Methodology",
+        "url": "https://verra.org/consultation-revision-to-improved-forest-management-methodology/",
+        "publishedAt": "2026-05-12T16:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/imported/news/jan-huber-tree-sun-unsplash-scaled-jpg.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-projects-open-for-public-comment-may-11--2026-05-11",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Projects Open for Public Comment: May 11, 2026",
+        "excerpt": "Projects Open for Public Comment: May 11, 2026",
+        "url": "https://verra.org/projects-open-for-public-comment-may-11-2026/",
+        "publishedAt": "2026-05-11T12:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2024/09/Deekali-Plastic-Recovery-Verra-Project-2720-Senegal-22-2048x1365-1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-secures-icvcm-approval-for-renewab-2026-05-10",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Secures ICVCM Approval for Renewable Energy and Mine Methane Methodologies",
+        "excerpt": "Verra Secures ICVCM Approval for Renewable Energy and Mine Methane Methodologies",
+        "url": "https://verra.org/verra-secures-icvcm-approval-for-renewable-energy-and-mine-methane-methodologies/",
+        "publishedAt": "2026-05-10T23:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2024/08/solar-panels-8344199_1280.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-selects-data-service-providers-to--2026-05-07",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Selects Data Service Providers to Produce REDD Risk Maps",
+        "excerpt": "Verra Selects Data Service Providers to Produce REDD Risk Maps",
+        "url": "https://verra.org/verra-selects-data-service-providers-to-produce-redd-risk-maps/",
+        "publishedAt": "2026-05-07T13:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2023/11/Bale-Mountains-Eco-Region-REDD-1340-Lisa-Murray-Ethiopia-Coffee-farmer-Abdul-Haji-Ismael-walking-in-forest-with-farm-tools-scaled.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6027",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Recovery and Avoidance of Methane from Industrial Wastewater Treatment Project at PT SMART Tbk. (PKS Padang Halaban), Indonesia.",
+        "excerpt": "Indonesia · Under validation · AMS-III.H. · 57,773 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6027",
+        "publishedAt": "2026-05-07T00:00:00.000Z",
+        "image": null,
+        "country": "Indonesia",
+        "methodology": "AMS-III.H.",
+        "registryId": "6027",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "KNOWLEDGE INTEGRATION SERVICES SINGAPORE PTE. LTD.",
+          "region": "Asia",
+          "creditingPeriodStart": null,
+          "creditingPeriodEnd": null,
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-esg-ibm-launches-ghg-emissions-calculation-s-2026-05-04",
+        "source": "google-esg",
+        "sourceName": "ESG & GHG News",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "IBM Launches GHG Emissions Calculation Solution for Spreadsheet Users - ESG Today",
+        "excerpt": "IBM Launches GHG Emissions Calculation Solution for Spreadsheet Users    ESG Today",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcmNQMmZic3lmbWx4OE5NbF9GcnRpc2JISnloZTFjZ2RyaGtJVEprZFVPR0l0LWV4YTB4aDVERVlnVnZ6a1IxTVB1TGNZT1phRmpiODhBN05CcGVmUVcybk8taWhHM3hQbXhhSVVCNldfV0t1bG1YTXZvUHZrNk15clc4SDY1bkVwQTFXZ2VHcE5MbFFSUFdvdFFuSQ?oc=5",
+        "publishedAt": "2026-05-04T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6019",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Ningxia Junfeng Siguquan Coal Mine Well NO.2 CMM Power Generation Project",
+        "excerpt": "China · Under validation · ACM0008 · 1,91,025 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6019",
+        "publishedAt": "2026-04-30T00:00:00.000Z",
+        "image": null,
+        "country": "China",
+        "methodology": "ACM0008",
+        "registryId": "6019",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Ningxia Junfeng New Energy Technology Co., Ltd.",
+          "region": "Asia",
+          "creditingPeriodStart": "2026-01-05",
+          "creditingPeriodEnd": "2036-01-04",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-esg-ghg-protocol-taps-industry-vet-to-become-2026-04-28",
+        "source": "google-esg",
+        "sourceName": "ESG & GHG News",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "GHG Protocol taps industry vet to become first CEO - ESG Dive",
+        "excerpt": "GHG Protocol taps industry vet to become first CEO    ESG Dive",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVmI0bHNHelY3VGpqamxsZVYtaGFYcVBSdm9DUDN3cThUWmF5VFNCa3l5bHhlcDl1V2lvMWg2SV8xVnNhZFcxX0JoZUVsVDFtcXdOTE54ajZUNnJBZ2ZIb2IwZEYxTWZsQ1dFREdhMmlhMV9Fd0tSVmVhWDJoT0VydG1oV0JPa0xtMTNBdg?oc=5",
+        "publishedAt": "2026-04-28T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-esg-ghg-protocol-appoints-tim-mohin-as-first-2026-04-28",
+        "source": "google-esg",
+        "sourceName": "ESG & GHG News",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "GHG Protocol Appoints Tim Mohin as First CEO - ESG Today",
+        "excerpt": "GHG Protocol Appoints Tim Mohin as First CEO    ESG Today",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0b0h6eTc3UjVCZ0ZONk9BNlVHZHBvQXJfa041YzMyOUJfb2trQ0FPQmJGLTE4aW9nRHBoZVpQZ3RyTTZubENDMWh4V1N1TGd0T05nanFwajZIS3dUNVNGRXRfdzE0a2VrVDc5ZWlxR2N6d2Rvdm5HY29B?oc=5",
+        "publishedAt": "2026-04-28T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-esg-apple-amazon-schneider-electric-warn-ghg-2026-04-27",
+        "source": "google-esg",
+        "sourceName": "ESG & GHG News",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Apple, Amazon, Schneider Electric Warn GHG Protocol that Tougher Scope 2 Reporting Rules will Slow Corporate Energy Transition - ESG Today",
+        "excerpt": "Apple, Amazon, Schneider Electric Warn GHG Protocol that Tougher Scope 2 Reporting Rules will Slow Corporate Energy Transition    ESG Today",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbTdOcDRpLWgxX0xaUldqMzVGVVVWbzRSU1hmTi1TRHVLN2ZENjVXSUlKb1c5dGRTaklMOU53emYzQTRGejJxTXRpRTVwMXFCM21qZ3RsNWY2SEl6THNjdjJiNFJhMWZvRlNXbFlkTDJ3M19iQWtQdl8waU0tbEVsQS1jSmRscUJ0ZW14U2R5SXhLbnZSNmgzOG82Nzc4Q0t3eHhVV245VDh0dGkxRlVuWGI2YlNCZnE1NlA0R0hKM2NWc3U4RlJ3RUlQcGcxN3NmSjMzTHhxSDk5dDhPWnlTR0l6ZWFFQXZDZ1E?oc=5",
+        "publishedAt": "2026-04-27T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6014",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra",
+        "excerpt": "Malaysia · Under development · ACM0001 · 92,766 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
+        "publishedAt": "2026-04-27T00:00:00.000Z",
+        "image": null,
+        "country": "Malaysia",
+        "methodology": "ACM0001",
+        "registryId": "6014",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Climate Quest Sdn Bhd",
+          "region": "Asia",
+          "creditingPeriodStart": "2025-05-19",
+          "creditingPeriodEnd": "2035-05-18",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6016",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Barnett Zero Project",
+        "excerpt": "United States · Under validation · VM0049 · 1,09,088 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
+        "publishedAt": "2026-04-27T00:00:00.000Z",
+        "image": null,
+        "country": "United States",
+        "methodology": "VM0049",
+        "registryId": "6016",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "BKV Marketing, LLC",
+          "region": "North America",
+          "creditingPeriodStart": "2023-11-08",
+          "creditingPeriodEnd": "2068-11-07",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6008",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Makanza Peatland Conservation Project, Democratic Republic of Congo",
+        "excerpt": "Congo, The Democratic Republic of The · Under development · VM0007 · 5,95,349 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6008",
+        "publishedAt": "2026-04-24T00:00:00.000Z",
+        "image": null,
+        "country": "Congo, The Democratic Republic of The",
+        "methodology": "VM0007",
+        "registryId": "6008",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Congo Nature Tourbières (CNT)",
+          "region": "Africa",
+          "creditingPeriodStart": null,
+          "creditingPeriodEnd": null,
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6004",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Ebuta Peatland Conservation Project, Democratic Republic of Congo",
+        "excerpt": "Congo, The Democratic Republic of The · Under development · VM0007 · 7,51,188 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6004",
+        "publishedAt": "2026-04-22T00:00:00.000Z",
+        "image": null,
+        "country": "Congo, The Democratic Republic of The",
+        "methodology": "VM0007",
+        "registryId": "6004",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Congo Nature Tourbières (CNT)",
+          "region": "Africa",
+          "creditingPeriodStart": null,
+          "creditingPeriodEnd": null,
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6003",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Arona 1",
+        "excerpt": "Uruguay · Under validation · VM0047 · 29,442 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6003",
+        "publishedAt": "2026-04-21T00:00:00.000Z",
+        "image": null,
+        "country": "Uruguay",
+        "methodology": "VM0047",
+        "registryId": "6003",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "ARONA S.A.S.",
+          "region": "Latin America",
+          "creditingPeriodStart": "2025-06-30",
+          "creditingPeriodEnd": "2045-06-29",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "How to navigate all those certifications in the voluntary carbon market - Trellis Group (formerly GreenBiz)",
+        "excerpt": "How to navigate all those certifications in the voluntary carbon market    Trellis Group (formerly GreenBiz)",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wZk82WFJ2V1Z6UDd1aEM5YXhGdkpGTmhOc1dnMGhmV2lsTVJ4QTdRbU9GN0pkVlRsXzNZdjU4MVFhVDRxbEpZWEFjekY3QnM3XzBxWDhhRWlLMmZvcGFyYjZTWHBSWk1KMkttSUxCRmdfdi1IWnc?oc=5",
+        "publishedAt": "2026-04-20T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-5993",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Project Muçununga",
+        "excerpt": "Brazil · Under validation · VM0047 · 13,028 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5993",
+        "publishedAt": "2026-04-16T00:00:00.000Z",
+        "image": null,
+        "country": "Brazil",
+        "methodology": "VM0047",
+        "registryId": "5993",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "MUCUNUNGA SERVICOS AMBIENTAIS, RESTAURACAO E CARBONO S.A",
+          "region": "Latin America",
+          "creditingPeriodStart": "2025-04-28",
+          "creditingPeriodEnd": "2065-04-27",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-esg-environmental-sustainability-rsm-2026-04-13",
+        "source": "google-esg",
+        "sourceName": "ESG & GHG News",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Environmental sustainability - RSM",
+        "excerpt": "Environmental sustainability    RSM",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wQnF0OEhtWEg3TEI3UU5ob3lLYUZXaVg4a1luN2ExRGVNbFdKaDFFdFd2eFZoUXlIbVdqYXZtaTl4c3Z2YW1IbzhfUHpsaThEdkFWZGdqQU94czRVOVBCRFNVUHllZ09UY25nSl94WEdrSlRld2ZFSA?oc=5",
+        "publishedAt": "2026-04-13T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-5988",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Certified Livestock Emissions Abatement with Rumin8 in Beef Confinement",
+        "excerpt": "United States · Under development · VM0041 · 5,87,000 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5988",
+        "publishedAt": "2026-04-13T00:00:00.000Z",
+        "image": null,
+        "country": "United States",
+        "methodology": "VM0041",
+        "registryId": "5988",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Rumin8 Pty Ltd",
+          "region": "North America",
+          "creditingPeriodStart": null,
+          "creditingPeriodEnd": null,
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-5989",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "La Tigra Watershed Conservation ARR/ANR Reforestation Project",
+        "excerpt": "Honduras · Under development · VM0047 · 67,554 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5989",
+        "publishedAt": "2026-04-13T00:00:00.000Z",
+        "image": null,
+        "country": "Honduras",
+        "methodology": "VM0047",
+        "registryId": "5989",
+        "status": "Under development",
+        "meta": {
+          "proponent": "EP Carbon",
+          "region": "Latin America",
+          "creditingPeriodStart": null,
+          "creditingPeriodEnd": null,
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-5985",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Topraq Carbon Management Project in Northern Kazakhstan",
+        "excerpt": "Kazakhstan · Under development · VM0042 · 38,000 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5985",
+        "publishedAt": "2026-04-10T00:00:00.000Z",
+        "image": null,
+        "country": "Kazakhstan",
+        "methodology": "VM0042",
+        "registryId": "5985",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Valor Carbon Limited",
+          "region": "Asia",
+          "creditingPeriodStart": null,
+          "creditingPeriodEnd": null,
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-5977",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Electric Mobility Program Chile VCS",
+        "excerpt": "Chile · Under validation · VMR0014; VM0038 · 9,90,000 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5977",
+        "publishedAt": "2026-04-02T00:00:00.000Z",
+        "image": null,
+        "country": "Chile",
+        "methodology": "VMR0014; VM0038",
+        "registryId": "5977",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Zeroca B.V.",
+          "region": "Latin America",
+          "creditingPeriodStart": "2025-01-01",
+          "creditingPeriodEnd": "2034-12-31",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-5975",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Recovery and Avoidance of Methane from Industrial Wastewater Treatment Projects at Bina Pitri Jaya mill, Indonesia",
+        "excerpt": "Indonesia · Under validation · AMS-III.H. · 56,092 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5975",
+        "publishedAt": "2026-04-01T00:00:00.000Z",
+        "image": null,
+        "country": "Indonesia",
+        "methodology": "AMS-III.H.",
+        "registryId": "5975",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "KNOWLEDGE INTEGRATION SERVICES SINGAPORE PTE. LTD.",
+          "region": "Asia",
+          "creditingPeriodStart": null,
+          "creditingPeriodEnd": null,
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-5974",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "CHANGU-CHANGU MOTO IMPROVED COOKSTOVES CARBON PROJECT IN MULANJE DISTRICT IN SOUTHERN MALAWI",
+        "excerpt": "Malawi · Under validation · VM0050 · 50,903 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5974",
+        "publishedAt": "2026-03-31T00:00:00.000Z",
+        "image": null,
+        "country": "Malawi",
+        "methodology": "VM0050",
+        "registryId": "5974",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Mulanje Mission Hospital (MMH)",
+          "region": "Africa",
+          "creditingPeriodStart": "2024-11-01",
+          "creditingPeriodEnd": "2031-10-31",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-5968",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Carbon Cork Resilience Project",
+        "excerpt": "Spain · Under validation · VM0047 · 244 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5968",
+        "publishedAt": "2026-03-25T00:00:00.000Z",
+        "image": null,
+        "country": "Spain",
+        "methodology": "VM0047",
+        "registryId": "5968",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Multiple Proponents",
+          "region": "Europe",
+          "creditingPeriodStart": "2023-05-25",
+          "creditingPeriodEnd": "2053-05-24",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-5970",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Respira Patagonia",
+        "excerpt": "Chile · Under validation · VM0042 · 8,67,709 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5970",
+        "publishedAt": "2026-03-25T00:00:00.000Z",
+        "image": null,
+        "country": "Chile",
+        "methodology": "VM0042",
+        "registryId": "5970",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Gestión de inversiones Plan-C SPA",
+          "region": "Latin America",
+          "creditingPeriodStart": "2024-12-13",
+          "creditingPeriodEnd": "2044-12-12",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-5967",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Community Collection and Ocean Bound Plastic Waste Recycling in Indonesia",
+        "excerpt": "Indonesia · Under validation · VMR0007 · 48,000 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5967",
+        "publishedAt": "2026-03-24T00:00:00.000Z",
+        "image": null,
+        "country": "Indonesia",
+        "methodology": "VMR0007",
+        "registryId": "5967",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Indorama Ventures Global Services Limited (IVGS)",
+          "region": "Asia",
+          "creditingPeriodStart": "2023-10-11",
+          "creditingPeriodEnd": "2033-10-10",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-5962",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Recovery and Avoidance of methane from Industrial wastewater treatment  project at Agro Muara Rupit mill, Indonesia.",
+        "excerpt": "Indonesia · Under validation · AMS-III.H. · 56,373 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5962",
+        "publishedAt": "2026-03-21T00:00:00.000Z",
+        "image": null,
+        "country": "Indonesia",
+        "methodology": "AMS-III.H.",
+        "registryId": "5962",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "KNOWLEDGE INTEGRATION SERVICES SINGAPORE PTE. LTD.",
+          "region": "Asia",
+          "creditingPeriodStart": null,
+          "creditingPeriodEnd": null,
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-esg-chanel-unveils-first-climate-transition--2026-03-17",
+        "source": "google-esg",
+        "sourceName": "ESG & GHG News",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Chanel unveils first climate transition plan, outlines net-zero strategy - ESG Dive",
+        "excerpt": "Chanel unveils first climate transition plan, outlines net-zero strategy    ESG Dive",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0ljcG8tN3lEcjNxWWYtYTFrREJUUmVsQ19kVVZNOWpiVGhQc3dkSEttWDhYMFNfOURuSVVpUlJiYzhva0FmVE5wcDFGZEdDd0FBNzVUQWYyckpkUndmVUVmMURkUnp0RWI2RTNjMTVTaFIzNXotVlJzQ1ZXMEZZa0FtMjVjb1MzMnBJRU5CRVJoWFdBRkZRMlJ3QTFaVFdLVDV1ekg0NGE3Qnct?oc=5",
+        "publishedAt": "2026-03-17T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-5957",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "KENYA HIGHLANDS GROUPED CARBON PROJECT",
+        "excerpt": "Kenya · Under development · VM0042 · 1,91,805 tCO₂e/yr",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5957",
+        "publishedAt": "2026-03-17T00:00:00.000Z",
+        "image": null,
+        "country": "Kenya",
+        "methodology": "VM0042",
+        "registryId": "5957",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Multiple Proponents",
+          "region": "Africa",
+          "creditingPeriodStart": "2024-04-01",
+          "creditingPeriodEnd": "2044-03-31",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "The Evolving Spectrum of Energy Sources - PIB",
+        "excerpt": "The Evolving Spectrum of Energy Sources    PIB",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5",
+        "publishedAt": "2026-02-28T08:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-esg-amazon-expands-carbon-credit-offerings-t-2026-02-18",
+        "source": "google-esg",
+        "sourceName": "ESG & GHG News",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Amazon expands carbon credit offerings to help suppliers cut emissions - ESG Dive",
+        "excerpt": "Amazon expands carbon credit offerings to help suppliers cut emissions    ESG Dive",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLUNwelB1cHZ6YUxWRkZUckxvYmN3QzNOMmxDaXF0bnJDclZNMVJCS3pFMnFPM2x5dTJGc1JmSHpIV3Nwc1VHZGNXaUdaaE1jVU4tdnN1UUF6UlY1RXc5cEpsVFZhSTZldkswQzE1b20xVFVUQjJXT3JFdkdJRWtjNXhKRk5tN1NwZ01KQWFDQnlhM3BuM0dLZENzcjNqTTlOUG5CdVYtTWtEcHhTcXVLYl94aVg3dlBaSXBJ?oc=5",
+        "publishedAt": "2026-02-18T08:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-carbon-credit-demand-plateaued-in-2025-a-2026-02-03",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability - Fastmarkets",
+        "excerpt": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability    Fastmarkets",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5",
+        "publishedAt": "2026-02-03T08:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-carbon-credit-project-developers-baulk-a-2026-01-20",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon credit project developers baulk at new Gold Standard rules - edie.net",
+        "excerpt": "Carbon credit project developers baulk at new Gold Standard rules    edie.net",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hYOXV2Q0hBbG1uRXVLQWFNYlFTbHRvUVpuTGd0OFI0Qm43bVg3WkU3V2lEWERzQU9ZbzV2N3VHX2M5VnpnRlpOdXNmNC1FZzQwZ3czd00wU1VQbWhQVmhsdjRiRVdXaHpiMnN1N1UxcmM1eWgtMGt6WkFoVWpLLXAtUlZfczYzT3haNE1BSEbSAZwBQVVfeXFMT1ZUREJlS1YxdzBMN3N2TjVyV3RzdWo0RDNrZ0E1bENjMXVJRTlVeVRZNXl5UFI0eEZjdWlpcEYxU2ZiaDBIMzlZUTRDTWlBVGg4SHBiMkJyVDRkSGRhd1NUWWc2cHZOR0J5UWVsYXNIMUFJMnVGLTNRLXQ1Tnk3ZHNneHN2Tk1UMHZOZmJRQks4RGlsVHRRUlFzTmF5?oc=5",
+        "publishedAt": "2026-01-20T08:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-esg-new-york-releases-regulation-requiring-m-2025-12-15",
+        "source": "google-esg",
+        "sourceName": "ESG & GHG News",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "New York Releases Regulation Requiring Mandatory GHG Reporting for Large Emitters from 2027 - ESG Today",
+        "excerpt": "New York Releases Regulation Requiring Mandatory GHG Reporting for Large Emitters from 2027    ESG Today",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3gtZ2tTcUJ1VjBFeGJFelVqS1B6YVVWazlJNUFsNWNzTXI4WmFiU2ZrbEQzWmN2eUpxSHU0Tk9YaE5lUDBjeEREVk5vR3h3bGIyaUZQYThNT21zR1ZDb0MyNDlMMUtlbFc5U2pCX0E0bW9BVGtRd0txRTZaQ25wam1MM0dVWk85VnNITkZMOHZoamdMd3hRVHhuX1V0SkZhbHZ0TV9tNGtmSTR0aDJ2OTJLLXR5dXRM?oc=5",
+        "publishedAt": "2025-12-15T08:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
+        "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology    Carbon Herald",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5",
+        "publishedAt": "2025-12-10T08:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon markets are incomplete without nuclear - Utility Dive",
+        "excerpt": "Carbon markets are incomplete without nuclear    Utility Dive",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5",
+        "publishedAt": "2025-09-23T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-esg-stratasys-advances-mindful-manufacturing-2025-09-17",
+        "source": "google-esg",
+        "sourceName": "ESG & GHG News",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Stratasys Advances Mindful Manufacturing™ Vision With Fourth Annual ESG and Sustainability Report, Featuring Year-Over-Year Scope 3 Emissions Disclosure - Business Wire",
+        "excerpt": "Stratasys Advances Mindful Manufacturing™ Vision With Fourth Annual ESG and Sustainability Report, Featuring Year-Over-Year Scope 3 Emissions Disclosure    Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQUEZmazViUXBheDU1TUw5UG1MamlrbVZuZFFUalFxX2FuM3QzOXJ3cVNtMUtGT2U0STRobzYzLWZwS3VlQ3psbFRUNFgwYUJMYl9pYlVVdlctbUh0cmgyYlR4S0wzdGtsTU9ndWFTMWVrZUJxRzJSMGtYSkFpSUVRU2lYSzQ1bEswUDktVWJ4WlpCT3RNVFJrRmsxcURIcEo4N2RMcTRwNkltOWV1YmRVdzdnLUVCSy1iYVhsTHVjZm42djRNSUFlOU1xTktkeU5ibWZldDdob1RZV2NHOC1NWkhqNDNWbnEtRWluR242SHpFZVR3WHJPNTFRWXRrcFpNR3JwTENybU5JZG1ENUNDMGdvU2JaY2psazhYMEFWc1lqUUJxRTgwa1I4SjRnZzUw?oc=5",
+        "publishedAt": "2025-09-17T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-verra-and-gold-standard-release-insuranc-2025-07-22",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra and Gold Standard Release Insurance Framework for CORSIA-Eligible Credits - ClearBlue Markets",
+        "excerpt": "Verra and Gold Standard Release Insurance Framework for CORSIA-Eligible Credits    ClearBlue Markets",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0tGTnd1eDdJYWdKeXp3MkFRT2hDWkxqMzF4R1JZWmRQakNnY0s0NUZQcFF3ZzcxWEdRVkE1WWRIaG1fcmNmclZrTXBZT0cwdDFsSjZrMU1nN3VXRk9kYU9ZWEpocWh3cW9DVW41c3ZwWXF3eHNES0dWb2tiSW1yUXJldUNvclZRZTZqTi1NclpGZzlaWmZrN2g4cFpaWHgwZHpUbXR0Q2Z6TksxbERrVWNmZDBwU01nazdSMUJiZm4wSzM1YmfSAdYBQVVfeXFMTklTZ2poX3lBMXNBekhlR1dRV1dVck1xWHJtSUlUVkRObTBIb1gzekJIcHVXWFhYOEdsR3VhZmNVSmRQR1d3RGJ4RU5qUzR0cElxVjI2MVBDX0FycjQ1T2dXdlBLLUdwYjZmV0R5d2pLSUVGRWFnR1duSE5WN2RlQ0lqaHRvQ212b1c4Y0JPNzhrX2dDNG9jY3pjWmJiYWZYX2FsNW5JWjNXTXF1NXJ2QVBvY201RTdxXzI3SEFTY042dUJvZ05uNlZxeHd1eG9ndzI0SnhZZw?oc=5",
+        "publishedAt": "2025-07-22T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-esg-lenovo-releases-fy-2024-25-esg-report-sh-2025-06-25",
+        "source": "google-esg",
+        "sourceName": "ESG & GHG News",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Lenovo Releases FY 2024/25 ESG Report, Showcasing Measurable Progress and Industry Leadership - Lenovo StoryHub",
+        "excerpt": "Lenovo Releases FY 2024/25 ESG Report, Showcasing Measurable Progress and Industry Leadership    Lenovo StoryHub",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMlViUjVHbXN6UjVrdlUtMzRrTWRoWlVXTGhDdEctX1VvX09LVVFxTk5VZW1rcnRnajhJVmc1dmV4NjVON2dGMUFhRVBsN0M1d0ZHVmpYanVOejZWbGNfRU1CZ2FqSHl5TGFPQUk0UURSYldWY2t1aU9HN0RDdXVYV3FlZkdaMVcxVnNzb05IWjdLRWs0d1VRcVBqOEt5WTRMSDlaZkpUUHBSZkkwclZNMzRWVjFrdU9kTVhYendxYUxwU2UxRGVkdE1OSTlNbW1mX0ZCRQ?oc=5",
+        "publishedAt": "2025-06-25T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
+        "excerpt": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets    Verra",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
+        "publishedAt": "2023-12-04T08:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-the-lifecycle-of-a-voluntary-carbon-cred-2022-08-26",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "The Lifecycle of a Voluntary Carbon Credit - Morrison Foerster",
+        "excerpt": "The Lifecycle of a Voluntary Carbon Credit    Morrison Foerster",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJLNnZyc3NCaDZnWjA0Z3ExblFrMUxYUlRLUlRXcm9MUUFsWkpEdUFKU29iV3ZoV1RCX2lmdExJcERLYThrRFk2aGttdWVvZGNiUEoydm9SSmVZOHltejhDTm00c0E3OTk5MHNwNnR4eS0wTXZHcGZRcmhKXzd4ZGNzaDNhcDdUd2dZNnFB?oc=5",
+        "publishedAt": "2022-08-26T07:00:00.000Z",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "imageSource": "og:image"
+        },
+        "region": "world"
+      }
+    ]
   },
   "articles": [
     {
@@ -54,10 +1920,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "DeBriefed 29 May 2026: Europe’s ‘mind-boggling’ May | Indian heat deaths | Nigeria’s solar mini-grids",
-      "excerpt": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 29 May 2026: Europe’s ‘mind-boggling’ May | Indian heat deaths | Nigeria’s solar mini-grids appeared first on Carbon Brief .",
+      "excerpt": "DeBriefed 29 May 2026: Europe’s ‘mind-boggling’ May | Indian heat deaths | Nigeria’s solar mini-grids",
       "url": "https://www.carbonbrief.org/debriefed-29-may-2026-europes-mind-boggling-may-indian-heat-deaths-nigerias-solar-mini-grids/",
       "publishedAt": "2026-05-29T14:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/hospital_flooding_debriefed.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -65,7 +1931,8 @@
       "meta": {
         "category": "DeBriefed",
         "feed": "https://www.carbonbrief.org/feed/"
-      }
+      },
+      "region": "india"
     },
     {
       "id": "carbon-brief-ai-boom-means-us-is-now-investing-more-i-2026-05-29",
@@ -75,10 +1942,10 @@
       "tag": "POLICY",
       "accent": "#5eead4",
       "title": "AI boom means US is now ‘investing more’ in fossil-fuel power than China",
-      "excerpt": "The “data-centre boom” is driving a surge in gas investment in the US, pushing its... The post AI boom means US is now ‘investing more’ in fossil-fuel power than China appeared first on Carbon Brief .",
+      "excerpt": "AI boom means US is now ‘investing more’ in fossil-fuel power than China",
       "url": "https://www.carbonbrief.org/ai-boom-means-us-is-now-investing-more-in-fossil-fuel-power-than-china/",
       "publishedAt": "2026-05-29T12:58:11.000Z",
-      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/ai-boom-means-us-now-investing-fossil-fuel-power-china.png",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -86,7 +1953,8 @@
       "meta": {
         "category": "US Policy",
         "feed": "https://www.carbonbrief.org/feed/"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "carbon-brief-em-dat-trump-aid-cuts-could-close-databa-2026-05-29",
@@ -96,10 +1964,10 @@
       "tag": "CLIMATE",
       "accent": "#34d399",
       "title": "EM-DAT: Trump aid cuts could close database storing ‘world’s memory of disasters’",
-      "excerpt": "The world’s most comprehensive disaster database – relied on by thousands of climate scientists and... The post EM-DAT: Trump aid cuts could close database storing ‘world’s memory of disasters’ appeared first on Carbon Brief .",
+      "excerpt": "EM-DAT: Trump aid cuts could close database storing ‘world’s memory of disasters’",
       "url": "https://www.carbonbrief.org/em-dat-trump-aid-cuts-could-close-database-storing-worlds-memory-of-disasters/",
       "publishedAt": "2026-05-29T09:44:14.000Z",
-      "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/heat_media_reaction-2-300x200.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -107,7 +1975,8 @@
       "meta": {
         "category": "Extreme weather",
         "feed": "https://www.carbonbrief.org/feed/"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "google-india-green-india-challenge-founder-urges-citi-2026-05-28",
@@ -117,18 +1986,20 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "Green India Challenge founder urges citizen-led climate federalism at IIM Bangalore - The News Mill",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxONXQ0Mm1KWHMyc3F6ajBrRjgtSDNPWlhyQVNsUW5mclNKSm1PbE1XMkNSX3k2RDVRWk5FTTVEby1hVUZrNWpHQ2lKLWJSZzFIaXpNbG1GNU1tSXBzUE10RWV4UkpyLVdkS1IxY3hVSG9IUjBTMTZyaEppeG5oNm1jNXMzcjZ4UW9lZ3hDTUhtOVo5eDN0S003bl9taTFwXzZqTTBlQ3M1a3pFbW…",
+      "excerpt": "Green India Challenge founder urges citizen-led climate federalism at IIM Bangalore    The News Mill",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONXQ0Mm1KWHMyc3F6ajBrRjgtSDNPWlhyQVNsUW5mclNKSm1PbE1XMkNSX3k2RDVRWk5FTTVEby1hVUZrNWpHQ2lKLWJSZzFIaXpNbG1GNU1tSXBzUE10RWV4UkpyLVdkS1IxY3hVSG9IUjBTMTZyaEppeG5oNm1jNXMzcjZ4UW9lZ3hDTUhtOVo5eDN0S003bl9taTFwXzZqTTBlQ3M1a3pFbWltSDl2UnZZemliNTg?oc=5",
       "publishedAt": "2026-05-28T15:02:25.000Z",
-      "image": "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
     },
     {
       "id": "carbon-brief-china-briefing-28-may-2026-deadly-rains--2026-05-28",
@@ -138,10 +2009,10 @@
       "tag": "CLIMATE",
       "accent": "#34d399",
       "title": "China Briefing 28 May 2026: Deadly rains | China pushes back | Examining China’s carbon intensity metric",
-      "excerpt": "Welcome to Carbon Brief’s China Briefing. China Briefing handpicks and explains the most important climate... The post China Briefing 28 May 2026: Deadly rains | China pushes back | Examining China’s carbon intensity metric appeared first on Carbon Brief .",
+      "excerpt": "China Briefing 28 May 2026: Deadly rains | China pushes back | Examining China’s carbon intensity metric",
       "url": "https://www.carbonbrief.org/china-briefing-28-may-2026-deadly-rains-china-pushes-back-examining-chinas-carbon-intensity-metric/",
       "publishedAt": "2026-05-28T14:40:21.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2021/02/qrcode_for_gh_9c056d53c2b7_258-1.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -149,7 +2020,8 @@
       "meta": {
         "category": "China Briefing",
         "feed": "https://www.carbonbrief.org/feed/"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "carbon-brief-media-reaction-uk-and-europe-s-mind-bogg-2026-05-28",
@@ -159,10 +2031,10 @@
       "tag": "CLIMATE",
       "accent": "#34d399",
       "title": "Media reaction: UK and Europe’s ‘mind-boggling’ May heat and climate change",
-      "excerpt": "Europe has been hit by a searing heatwave, which has shattered temperature records across France,... The post Media reaction: UK and Europe’s ‘mind-boggling’ May heat and climate change appeared first on Carbon Brief .",
+      "excerpt": "Media reaction: UK and Europe’s ‘mind-boggling’ May heat and climate change",
       "url": "https://www.carbonbrief.org/media-reaction-uk-and-europes-mind-boggling-may-heat-and-climate-change/",
       "publishedAt": "2026-05-28T12:29:38.000Z",
-      "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-13.02.06.png",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -170,7 +2042,8 @@
       "meta": {
         "category": "Extreme weather",
         "feed": "https://www.carbonbrief.org/feed/"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-who-verifies-carbon-credits-carboncredit-2026-05-27",
@@ -180,18 +2053,20 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "Who Verifies Carbon Credits? - CarbonCredits.com",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tRUdsSnFiUmRJNl9Nakt2MkVQVW9jNFRDNnBnd1I0dURvRFVQVmljN1c3aTJ2T0VhQjkzQjdUbVZrbXJkMWEzUzVTWUF5QU5IVXhHbll2Ny13LU43VzZTcEFYc20?oc=5\" target=\"_blank\">Who Verifies Carbon Credits?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carbon…",
+      "excerpt": "Who Verifies Carbon Credits?    CarbonCredits.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tRUdsSnFiUmRJNl9Nakt2MkVQVW9jNFRDNnBnd1I0dURvRFVQVmljN1c3aTJ2T0VhQjkzQjdUbVZrbXJkMWEzUzVTWUF5QU5IVXhHbll2Ny13LU43VzZTcEFYc20?oc=5",
       "publishedAt": "2026-05-27T16:32:36.000Z",
-      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "carbon-brief-q-a-can-china-turn-hydrogen-into-its-nex-2026-05-27",
@@ -201,10 +2076,10 @@
       "tag": "POLICY",
       "accent": "#5eead4",
       "title": "Q&A: Can China turn hydrogen into its next clean-energy industry?",
-      "excerpt": "China has said that hydrogen is a key “future industry”, important to both its energy... The post Q&A: Can China turn hydrogen into its next clean-energy industry? appeared first on Carbon Brief .",
+      "excerpt": "Q&A: Can China turn hydrogen into its next clean-energy industry?",
       "url": "https://www.carbonbrief.org/qa-can-china-turn-hydrogen-into-its-next-clean-energy-industry/",
       "publishedAt": "2026-05-27T13:13:42.000Z",
-      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/China_consumes-scaled.png",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -212,7 +2087,8 @@
       "meta": {
         "category": "China Policy",
         "feed": "https://www.carbonbrief.org/feed/"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-05-26",
@@ -222,18 +2098,20 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5\" target=\"_blank\">The Ultimate Guide to Underst…",
+      "excerpt": "The Ultimate Guide to Understanding Carbon Credits    CarbonCredits.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
       "publishedAt": "2026-05-26T16:22:07.000Z",
-      "image": "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
     },
     {
       "id": "carbon-brief-analysis-china-s-new-carbon-metric-leave-2026-05-25",
@@ -243,10 +2121,10 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions",
-      "excerpt": "A major change in the way that China measures its core climate goal has effectively... The post Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions appeared first on Carbon Brief .",
+      "excerpt": "Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions",
       "url": "https://www.carbonbrief.org/analysis-chinas-new-carbon-metric-leaves-germany-sized-gap-in-its-emissions/",
       "publishedAt": "2026-05-25T23:01:00.000Z",
-      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/China_has_changed_the_scope_of_its_carbon-intensity_metric.png",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -254,7 +2132,8 @@
       "meta": {
         "category": "China energy",
         "feed": "https://www.carbonbrief.org/feed/"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "carbon-brief-revealed-floods-have-forced-at-least-67--2026-05-25",
@@ -264,10 +2143,10 @@
       "tag": "POLICY",
       "accent": "#5eead4",
       "title": "Revealed: Floods have forced at least 67 closures at NHS hospitals since 2021",
-      "excerpt": "At least 67 NHS hospital wards, departments and other sites across the UK have been... The post Revealed: Floods have forced at least 67 closures at NHS hospitals since 2021 appeared first on Carbon Brief .",
+      "excerpt": "Revealed: Floods have forced at least 67 closures at NHS hospitals since 2021",
       "url": "https://www.carbonbrief.org/revealed-floods-have-forced-at-least-67-closures-at-nhs-hospitals-since-2021/",
       "publishedAt": "2026-05-25T15:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/hospital_flooding-02.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -275,7 +2154,8 @@
       "meta": {
         "category": "UK policy",
         "feed": "https://www.carbonbrief.org/feed/"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
@@ -285,18 +2165,20 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFaz…",
+      "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur    Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5",
       "publishedAt": "2026-05-25T12:09:22.000Z",
-      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
     },
     {
       "id": "verra-projects-open-for-public-comment-may-25--2026-05-25",
@@ -306,18 +2188,20 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "Projects Open for Public Comment: May 25, 2026",
-      "excerpt": "The post Projects Open for Public Comment: May 25, 2026 appeared first on Verra .",
+      "excerpt": "Projects Open for Public Comment: May 25, 2026",
       "url": "https://verra.org/projects-open-for-public-comment-may-25-2026/",
       "publishedAt": "2026-05-25T12:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://verra.org/wp-content/uploads/2024/12/gustavo-quinalha-mZUJl2GAaSE-unsplash-scaled.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Announcements",
-        "feed": "https://verra.org/feed/"
-      }
+        "feed": "https://verra.org/feed/",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "verra-may-2026-newsletter-2026-05-21",
@@ -327,10 +2211,10 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "May 2026 Newsletter",
-      "excerpt": "The post May 2026 Newsletter appeared first on Verra .",
+      "excerpt": "May 2026 Newsletter",
       "url": "https://verra.org/may-2026-newsletter/",
       "publishedAt": "2026-05-21T20:36:51.000Z",
-      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://verra.org/wp-content/uploads/2026/05/DSCF1995.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -338,7 +2222,8 @@
       "meta": {
         "category": "Announcements",
         "feed": "https://verra.org/feed/"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "verra-verra-registers-first-project-under-food-2026-05-21",
@@ -348,18 +2233,20 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "Verra Registers First Project under Food Loss and Waste Methodology",
-      "excerpt": "The post Verra Registers First Project under Food Loss and Waste Methodology appeared first on Verra .",
+      "excerpt": "Verra Registers First Project under Food Loss and Waste Methodology",
       "url": "https://verra.org/verra-registers-first-project-under-food-loss-and-waste-methodology/",
       "publishedAt": "2026-05-21T13:14:16.000Z",
-      "image": "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://verra.org/wp-content/uploads/2026/05/Food-Rescue-Picture-1-scaled-e1779222630517.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Announcements",
-        "feed": "https://verra.org/feed/"
-      }
+        "feed": "https://verra.org/feed/",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "google-india-india-among-biggest-new-carbon-markets-a-2026-05-21",
@@ -369,18 +2256,20 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "India among biggest new carbon markets as global carbon pricing covers 29 per cent of emissions - Down To Earth",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaV9LeHJRbDJwR3JaMzlENTN6VnFjVkxnODZxTjF6dDNqckhWbkszaGZoTjFjZGdvNENTUGM5R200LUhja1Nxb3NBU0MyRGU2R29kTU1hdXVDbGs5VEV2S2NnU0Z2ZUlJSFU1RmEweS1Wd3F0M2dwcnpzc1hHTkdLNm9yTUJSd1NFRWtiS0FFb0RhYUJYRkJWVlBxVUVGVGhSRUxQblVFdldmMn…",
+      "excerpt": "India among biggest new carbon markets as global carbon pricing covers 29 per cent of emissions    Down To Earth",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaV9LeHJRbDJwR3JaMzlENTN6VnFjVkxnODZxTjF6dDNqckhWbkszaGZoTjFjZGdvNENTUGM5R200LUhja1Nxb3NBU0MyRGU2R29kTU1hdXVDbGs5VEV2S2NnU0Z2ZUlJSFU1RmEweS1Wd3F0M2dwcnpzc1hHTkdLNm9yTUJSd1NFRWtiS0FFb0RhYUJYRkJWVlBxVUVGVGhSRUxQblVFdldmMnVVeW0wNDZyU2xLRFhIVnZzc2NZSE85cHEwSmtLOTE4M255OFdjYmg0STZIelbSAeYBQVVfeXFMTXEzTVRuRVVyTFljbXJxMnV4a2RuSE5qamF1UFpIRkFTOTJESmcxQ3dBWmlKbUhhUlBuM1JKLV9EMnhWSlJITTB3ZDlQeWFUNV9IbzBvajVCZDZFQ3hfOW9pUDJnY3NqdlExaHJjYWt1V1N3MThBMUtYSGFsZjJweDl2WlFxNjYzZmtSZzdpRnpqYnNSYWpoUEIwZlg0YVczcXNTZGpoNm0wYmhIR1RNVDM3Qk1kMzZMSFJnQ3hlZGZWeTdub2Zzem0wLUQ2S29Bb3NJaVNNeXc3RDdoa2JURGROTmt6aVE?oc=5",
       "publishedAt": "2026-05-21T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
     },
     {
       "id": "verra-projects-open-for-public-comment-may-18--2026-05-18",
@@ -390,18 +2279,20 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "Projects Open for Public Comment: May 18, 2026",
-      "excerpt": "The post Projects Open for Public Comment: May 18, 2026 appeared first on Verra .",
+      "excerpt": "Projects Open for Public Comment: May 18, 2026",
       "url": "https://verra.org/projects-open-for-public-comment-may-18-2026/",
       "publishedAt": "2026-05-18T12:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://verra.org/wp-content/uploads/2023/09/Food-waste_Shuttershock.png",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Announcements",
-        "feed": "https://verra.org/feed/"
-      }
+        "feed": "https://verra.org/feed/",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "verra-verra-launches-fsc-label-for-carbon-cred-2026-05-14",
@@ -411,18 +2302,20 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "Verra Launches FSC Label for Carbon Credits",
-      "excerpt": "The post Verra Launches FSC Label for Carbon Credits appeared first on Verra .",
+      "excerpt": "Verra Launches FSC Label for Carbon Credits",
       "url": "https://verra.org/verra-launches-fsc-label-for-carbon-credits/",
       "publishedAt": "2026-05-14T18:55:49.000Z",
-      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://verra.org/wp-content/uploads/2026/05/andrew-coelho-aL7SA1ASVdQ-unsplash.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Announcements",
-        "feed": "https://verra.org/feed/"
-      }
+        "feed": "https://verra.org/feed/",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "verra-verra-announces-vetted-data-service-prov-2026-05-14",
@@ -432,18 +2325,20 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "Verra Announces Vetted Data Service Providers for ARR Methodology",
-      "excerpt": "The post Verra Announces Vetted Data Service Providers for ARR Methodology appeared first on Verra .",
+      "excerpt": "Verra Announces Vetted Data Service Providers for ARR Methodology",
       "url": "https://verra.org/verra-announces-vetted-data-service-providers-for-arr-methodology/",
       "publishedAt": "2026-05-14T15:58:00.000Z",
-      "image": "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://verra.org/wp-content/uploads/2025/08/paraguay.png",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Uncategorized",
-        "feed": "https://verra.org/feed/"
-      }
+        "feed": "https://verra.org/feed/",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-6032",
@@ -456,7 +2351,7 @@
       "excerpt": "India · Under validation · Methodology Under Development · 2,80,000 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/6032",
       "publishedAt": "2026-05-14T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "India",
       "methodology": "Methodology Under Development",
       "registryId": "6032",
@@ -467,7 +2362,8 @@
         "creditingPeriodStart": "2025-05-22",
         "creditingPeriodEnd": "2032-05-21",
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "india"
     },
     {
       "id": "verra-consultation-revision-to-improved-forest-2026-05-12",
@@ -477,18 +2373,20 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "Consultation: Revision to Improved Forest Management Methodology",
-      "excerpt": "The post Consultation: Revision to Improved Forest Management Methodology appeared first on Verra .",
+      "excerpt": "Consultation: Revision to Improved Forest Management Methodology",
       "url": "https://verra.org/consultation-revision-to-improved-forest-management-methodology/",
       "publishedAt": "2026-05-12T16:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://verra.org/wp-content/uploads/imported/news/jan-huber-tree-sun-unsplash-scaled-jpg.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Announcements",
-        "feed": "https://verra.org/feed/"
-      }
+        "feed": "https://verra.org/feed/",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "verra-projects-open-for-public-comment-may-11--2026-05-11",
@@ -498,18 +2396,20 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "Projects Open for Public Comment: May 11, 2026",
-      "excerpt": "The post Projects Open for Public Comment: May 11, 2026 appeared first on Verra .",
+      "excerpt": "Projects Open for Public Comment: May 11, 2026",
       "url": "https://verra.org/projects-open-for-public-comment-may-11-2026/",
       "publishedAt": "2026-05-11T12:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://verra.org/wp-content/uploads/2024/09/Deekali-Plastic-Recovery-Verra-Project-2720-Senegal-22-2048x1365-1.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Announcements",
-        "feed": "https://verra.org/feed/"
-      }
+        "feed": "https://verra.org/feed/",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "verra-verra-secures-icvcm-approval-for-renewab-2026-05-10",
@@ -519,18 +2419,20 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "Verra Secures ICVCM Approval for Renewable Energy and Mine Methane Methodologies",
-      "excerpt": "The post Verra Secures ICVCM Approval for Renewable Energy and Mine Methane Methodologies appeared first on Verra .",
+      "excerpt": "Verra Secures ICVCM Approval for Renewable Energy and Mine Methane Methodologies",
       "url": "https://verra.org/verra-secures-icvcm-approval-for-renewable-energy-and-mine-methane-methodologies/",
       "publishedAt": "2026-05-10T23:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://verra.org/wp-content/uploads/2024/08/solar-panels-8344199_1280.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Announcements",
-        "feed": "https://verra.org/feed/"
-      }
+        "feed": "https://verra.org/feed/",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "verra-verra-selects-data-service-providers-to--2026-05-07",
@@ -540,18 +2442,20 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "Verra Selects Data Service Providers to Produce REDD Risk Maps",
-      "excerpt": "The post Verra Selects Data Service Providers to Produce REDD Risk Maps appeared first on Verra .",
+      "excerpt": "Verra Selects Data Service Providers to Produce REDD Risk Maps",
       "url": "https://verra.org/verra-selects-data-service-providers-to-produce-redd-risk-maps/",
       "publishedAt": "2026-05-07T13:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://verra.org/wp-content/uploads/2023/11/Bale-Mountains-Eco-Region-REDD-1340-Lisa-Murray-Ethiopia-Coffee-farmer-Abdul-Haji-Ismael-walking-in-forest-with-farm-tools-scaled.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Announcements",
-        "feed": "https://verra.org/feed/"
-      }
+        "feed": "https://verra.org/feed/",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-6027",
@@ -564,7 +2468,7 @@
       "excerpt": "Indonesia · Under validation · AMS-III.H. · 57,773 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/6027",
       "publishedAt": "2026-05-07T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Indonesia",
       "methodology": "AMS-III.H.",
       "registryId": "6027",
@@ -575,7 +2479,8 @@
         "creditingPeriodStart": null,
         "creditingPeriodEnd": null,
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "google-esg-ibm-launches-ghg-emissions-calculation-s-2026-05-04",
@@ -585,18 +2490,20 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "IBM Launches GHG Emissions Calculation Solution for Spreadsheet Users - ESG Today",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcmNQMmZic3lmbWx4OE5NbF9GcnRpc2JISnloZTFjZ2RyaGtJVEprZFVPR0l0LWV4YTB4aDVERVlnVnZ6a1IxTVB1TGNZT1phRmpiODhBN05CcGVmUVcybk8taWhHM3hQbXhhSVVCNldfV0t1bG1YTXZvUHZrNk15clc4SDY1bkVwQTFXZ2VHcE5MbFFSUFdvdFFuSQ?oc=5\" target=\"_blan…",
+      "excerpt": "IBM Launches GHG Emissions Calculation Solution for Spreadsheet Users    ESG Today",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcmNQMmZic3lmbWx4OE5NbF9GcnRpc2JISnloZTFjZ2RyaGtJVEprZFVPR0l0LWV4YTB4aDVERVlnVnZ6a1IxTVB1TGNZT1phRmpiODhBN05CcGVmUVcybk8taWhHM3hQbXhhSVVCNldfV0t1bG1YTXZvUHZrNk15clc4SDY1bkVwQTFXZ2VHcE5MbFFSUFdvdFFuSQ?oc=5",
       "publishedAt": "2026-05-04T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-6019",
@@ -609,7 +2516,7 @@
       "excerpt": "China · Under validation · ACM0008 · 1,91,025 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/6019",
       "publishedAt": "2026-04-30T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "China",
       "methodology": "ACM0008",
       "registryId": "6019",
@@ -620,7 +2527,8 @@
         "creditingPeriodStart": "2026-01-05",
         "creditingPeriodEnd": "2036-01-04",
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "google-esg-ghg-protocol-taps-industry-vet-to-become-2026-04-28",
@@ -630,18 +2538,20 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "GHG Protocol taps industry vet to become first CEO - ESG Dive",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQVmI0bHNHelY3VGpqamxsZVYtaGFYcVBSdm9DUDN3cThUWmF5VFNCa3l5bHhlcDl1V2lvMWg2SV8xVnNhZFcxX0JoZUVsVDFtcXdOTE54ajZUNnJBZ2ZIb2IwZEYxTWZsQ1dFREdhMmlhMV9Fd0tSVmVhWDJoT0VydG1oV0JPa0xtMTNBdg?oc=5\" target=\"_blank\">GHG Protocol taps…",
+      "excerpt": "GHG Protocol taps industry vet to become first CEO    ESG Dive",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVmI0bHNHelY3VGpqamxsZVYtaGFYcVBSdm9DUDN3cThUWmF5VFNCa3l5bHhlcDl1V2lvMWg2SV8xVnNhZFcxX0JoZUVsVDFtcXdOTE54ajZUNnJBZ2ZIb2IwZEYxTWZsQ1dFREdhMmlhMV9Fd0tSVmVhWDJoT0VydG1oV0JPa0xtMTNBdg?oc=5",
       "publishedAt": "2026-04-28T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "google-esg-ghg-protocol-appoints-tim-mohin-as-first-2026-04-28",
@@ -651,18 +2561,20 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "GHG Protocol Appoints Tim Mohin as First CEO - ESG Today",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA0b0h6eTc3UjVCZ0ZONk9BNlVHZHBvQXJfa041YzMyOUJfb2trQ0FPQmJGLTE4aW9nRHBoZVpQZ3RyTTZubENDMWh4V1N1TGd0T05nanFwajZIS3dUNVNGRXRfdzE0a2VrVDc5ZWlxR2N6d2Rvdm5HY29B?oc=5\" target=\"_blank\">GHG Protocol Appoints Tim Mohin as First CE…",
+      "excerpt": "GHG Protocol Appoints Tim Mohin as First CEO    ESG Today",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0b0h6eTc3UjVCZ0ZONk9BNlVHZHBvQXJfa041YzMyOUJfb2trQ0FPQmJGLTE4aW9nRHBoZVpQZ3RyTTZubENDMWh4V1N1TGd0T05nanFwajZIS3dUNVNGRXRfdzE0a2VrVDc5ZWlxR2N6d2Rvdm5HY29B?oc=5",
       "publishedAt": "2026-04-28T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "google-esg-apple-amazon-schneider-electric-warn-ghg-2026-04-27",
@@ -672,18 +2584,20 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "Apple, Amazon, Schneider Electric Warn GHG Protocol that Tougher Scope 2 Reporting Rules will Slow Corporate Energy Transition - ESG Today",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbTdOcDRpLWgxX0xaUldqMzVGVVVWbzRSU1hmTi1TRHVLN2ZENjVXSUlKb1c5dGRTaklMOU53emYzQTRGejJxTXRpRTVwMXFCM21qZ3RsNWY2SEl6THNjdjJiNFJhMWZvRlNXbFlkTDJ3M19iQWtQdl8waU0tbEVsQS1jSmRscUJ0ZW14U2R5SXhLbnZSNmgzOG82Nzc4Q0t3eHhVV245VDh0dG…",
+      "excerpt": "Apple, Amazon, Schneider Electric Warn GHG Protocol that Tougher Scope 2 Reporting Rules will Slow Corporate Energy Transition    ESG Today",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbTdOcDRpLWgxX0xaUldqMzVGVVVWbzRSU1hmTi1TRHVLN2ZENjVXSUlKb1c5dGRTaklMOU53emYzQTRGejJxTXRpRTVwMXFCM21qZ3RsNWY2SEl6THNjdjJiNFJhMWZvRlNXbFlkTDJ3M19iQWtQdl8waU0tbEVsQS1jSmRscUJ0ZW14U2R5SXhLbnZSNmgzOG82Nzc4Q0t3eHhVV245VDh0dGkxRlVuWGI2YlNCZnE1NlA0R0hKM2NWc3U4RlJ3RUlQcGcxN3NmSjMzTHhxSDk5dDhPWnlTR0l6ZWFFQXZDZ1E?oc=5",
       "publishedAt": "2026-04-27T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-6014",
@@ -696,7 +2610,7 @@
       "excerpt": "Malaysia · Under development · ACM0001 · 92,766 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
       "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Malaysia",
       "methodology": "ACM0001",
       "registryId": "6014",
@@ -707,7 +2621,8 @@
         "creditingPeriodStart": "2025-05-19",
         "creditingPeriodEnd": "2035-05-18",
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-6016",
@@ -720,7 +2635,7 @@
       "excerpt": "United States · Under validation · VM0049 · 1,09,088 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
       "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "United States",
       "methodology": "VM0049",
       "registryId": "6016",
@@ -731,7 +2646,8 @@
         "creditingPeriodStart": "2023-11-08",
         "creditingPeriodEnd": "2068-11-07",
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
@@ -741,18 +2657,20 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "India’s Grasslands Need Climate Policy, Not Carbon Rush - Frontline Magazine",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlhkQURpdUd0Yk51RUEwNGEtc1NmWHMtV2dZY3hPREhXZGJUMWNlYXh3UHotaF9jZjlFZXp4RF95UEduSkg5VGlad3JWdmxBZU15T2tiZUE0TWtGZTFKOVRqT2lSRGE4d0VNYWNOdExNdTEzT0RwVVhOeEl2dTZob19pY283NFliVHk3b1ZXdDlkVVhKQUFvZG0xdE9la2htQUFmc3pJMDVFYW…",
+      "excerpt": "India’s Grasslands Need Climate Policy, Not Carbon Rush    Frontline Magazine",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlhkQURpdUd0Yk51RUEwNGEtc1NmWHMtV2dZY3hPREhXZGJUMWNlYXh3UHotaF9jZjlFZXp4RF95UEduSkg5VGlad3JWdmxBZU15T2tiZUE0TWtGZTFKOVRqT2lSRGE4d0VNYWNOdExNdTEzT0RwVVhOeEl2dTZob19pY283NFliVHk3b1ZXdDlkVVhKQUFvZG0xdE9la2htQUFmc3pJMDVFYWJxeVh4OGQ1NVhZSDJDZjR1bnlaek5rSzBTTGhlM9IBzwFBVV95cUxPemxKSjVSeW0zVXZsRG51eFhTVjk1S0R2VmcwRHppNVFPdU02NDRES2dhV1QwWFoybjdzQWNVbHg1dU1xbWJCdjlxemVrTXc3cUl0aFJPVXN6Sk9UeU5reEJhRFk5MFM5a2NzUFRiVzZVaDBxQmVxS0M4Ql9aSXpGc3lhNUFUaVhqMDZiYTNHUDBtTFNYTnJJdExuUEpMT0JkNDhvSmtyaGg3aTdvbktZcXpxUWFadDJrRHpCclJLX0h4S1I1NlNQUVpXWDFqR2M?oc=5",
       "publishedAt": "2026-04-25T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
     },
     {
       "id": "verra-vcs-6008",
@@ -765,7 +2683,7 @@
       "excerpt": "Congo, The Democratic Republic of The · Under development · VM0007 · 5,95,349 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/6008",
       "publishedAt": "2026-04-24T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Congo, The Democratic Republic of The",
       "methodology": "VM0007",
       "registryId": "6008",
@@ -776,7 +2694,8 @@
         "creditingPeriodStart": null,
         "creditingPeriodEnd": null,
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-6004",
@@ -789,7 +2708,7 @@
       "excerpt": "Congo, The Democratic Republic of The · Under development · VM0007 · 7,51,188 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/6004",
       "publishedAt": "2026-04-22T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Congo, The Democratic Republic of The",
       "methodology": "VM0007",
       "registryId": "6004",
@@ -800,7 +2719,8 @@
         "creditingPeriodStart": null,
         "creditingPeriodEnd": null,
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-6003",
@@ -813,7 +2733,7 @@
       "excerpt": "Uruguay · Under validation · VM0047 · 29,442 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/6003",
       "publishedAt": "2026-04-21T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Uruguay",
       "methodology": "VM0047",
       "registryId": "6003",
@@ -824,7 +2744,8 @@
         "creditingPeriodStart": "2025-06-30",
         "creditingPeriodEnd": "2045-06-29",
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
@@ -834,18 +2755,20 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "How to navigate all those certifications in the voluntary carbon market - Trellis Group (formerly GreenBiz)",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8wZk82WFJ2V1Z6UDd1aEM5YXhGdkpGTmhOc1dnMGhmV2lsTVJ4QTdRbU9GN0pkVlRsXzNZdjU4MVFhVDRxbEpZWEFjekY3QnM3XzBxWDhhRWlLMmZvcGFyYjZTWHBSWk1KMkttSUxCRmdfdi1IWnc?oc=5\" target=\"_blank\">How to navigate all those certifications in the …",
+      "excerpt": "How to navigate all those certifications in the voluntary carbon market    Trellis Group (formerly GreenBiz)",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wZk82WFJ2V1Z6UDd1aEM5YXhGdkpGTmhOc1dnMGhmV2lsTVJ4QTdRbU9GN0pkVlRsXzNZdjU4MVFhVDRxbEpZWEFjekY3QnM3XzBxWDhhRWlLMmZvcGFyYjZTWHBSWk1KMkttSUxCRmdfdi1IWnc?oc=5",
       "publishedAt": "2026-04-20T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-5992",
@@ -858,7 +2781,7 @@
       "excerpt": "India · Under development · VM0047 · 3,39,097 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5992",
       "publishedAt": "2026-04-16T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "India",
       "methodology": "VM0047",
       "registryId": "5992",
@@ -869,7 +2792,8 @@
         "creditingPeriodStart": null,
         "creditingPeriodEnd": null,
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "india"
     },
     {
       "id": "verra-vcs-5993",
@@ -882,7 +2806,7 @@
       "excerpt": "Brazil · Under validation · VM0047 · 13,028 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5993",
       "publishedAt": "2026-04-16T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Brazil",
       "methodology": "VM0047",
       "registryId": "5993",
@@ -893,7 +2817,8 @@
         "creditingPeriodStart": "2025-04-28",
         "creditingPeriodEnd": "2065-04-27",
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-5990",
@@ -906,7 +2831,7 @@
       "excerpt": "India · Under development · VM0047 · 3,54,025 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5990",
       "publishedAt": "2026-04-15T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "India",
       "methodology": "VM0047",
       "registryId": "5990",
@@ -917,7 +2842,8 @@
         "creditingPeriodStart": "2025-06-16",
         "creditingPeriodEnd": "2057-06-15",
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "india"
     },
     {
       "id": "google-esg-environmental-sustainability-rsm-2026-04-13",
@@ -927,18 +2853,20 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "Environmental sustainability - RSM",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE0wQnF0OEhtWEg3TEI3UU5ob3lLYUZXaVg4a1luN2ExRGVNbFdKaDFFdFd2eFZoUXlIbVdqYXZtaTl4c3Z2YW1IbzhfUHpsaThEdkFWZGdqQU94czRVOVBCRFNVUHllZ09UY25nSl94WEdrSlRld2ZFSA?oc=5\" target=\"_blank\">Environmental sustainability</a>&nbsp;&nbsp;<…",
+      "excerpt": "Environmental sustainability    RSM",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wQnF0OEhtWEg3TEI3UU5ob3lLYUZXaVg4a1luN2ExRGVNbFdKaDFFdFd2eFZoUXlIbVdqYXZtaTl4c3Z2YW1IbzhfUHpsaThEdkFWZGdqQU94czRVOVBCRFNVUHllZ09UY25nSl94WEdrSlRld2ZFSA?oc=5",
       "publishedAt": "2026-04-13T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-5986",
@@ -951,7 +2879,7 @@
       "excerpt": "India · Under validation · AMS-I.C.; AMS-III.H.; AMS-III.AQ · 60,000 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5986",
       "publishedAt": "2026-04-13T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "India",
       "methodology": "AMS-I.C.; AMS-III.H.; AMS-III.AQ",
       "registryId": "5986",
@@ -962,7 +2890,8 @@
         "creditingPeriodStart": "2026-01-01",
         "creditingPeriodEnd": "2032-12-31",
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "india"
     },
     {
       "id": "verra-vcs-5988",
@@ -975,7 +2904,7 @@
       "excerpt": "United States · Under development · VM0041 · 5,87,000 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5988",
       "publishedAt": "2026-04-13T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "United States",
       "methodology": "VM0041",
       "registryId": "5988",
@@ -986,7 +2915,8 @@
         "creditingPeriodStart": null,
         "creditingPeriodEnd": null,
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-5989",
@@ -999,7 +2929,7 @@
       "excerpt": "Honduras · Under development · VM0047 · 67,554 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5989",
       "publishedAt": "2026-04-13T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Honduras",
       "methodology": "VM0047",
       "registryId": "5989",
@@ -1010,7 +2940,8 @@
         "creditingPeriodStart": null,
         "creditingPeriodEnd": null,
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-5985",
@@ -1023,7 +2954,7 @@
       "excerpt": "Kazakhstan · Under development · VM0042 · 38,000 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5985",
       "publishedAt": "2026-04-10T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Kazakhstan",
       "methodology": "VM0042",
       "registryId": "5985",
@@ -1034,7 +2965,8 @@
         "creditingPeriodStart": null,
         "creditingPeriodEnd": null,
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-5983",
@@ -1047,7 +2979,7 @@
       "excerpt": "India · Under development · VM0047 · 15,448 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5983",
       "publishedAt": "2026-04-08T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "India",
       "methodology": "VM0047",
       "registryId": "5983",
@@ -1058,7 +2990,8 @@
         "creditingPeriodStart": "2023-07-01",
         "creditingPeriodEnd": "2063-06-30",
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "india"
     },
     {
       "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
@@ -1068,18 +3001,20 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2…",
+      "excerpt": "How Indian industries are adapting to CBAM and carbon pricing    EY",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
       "publishedAt": "2026-04-03T07:24:04.000Z",
-      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
     },
     {
       "id": "verra-vcs-5977",
@@ -1092,7 +3027,7 @@
       "excerpt": "Chile · Under validation · VMR0014; VM0038 · 9,90,000 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5977",
       "publishedAt": "2026-04-02T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Chile",
       "methodology": "VMR0014; VM0038",
       "registryId": "5977",
@@ -1103,7 +3038,8 @@
         "creditingPeriodStart": "2025-01-01",
         "creditingPeriodEnd": "2034-12-31",
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-5975",
@@ -1116,7 +3052,7 @@
       "excerpt": "Indonesia · Under validation · AMS-III.H. · 56,092 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5975",
       "publishedAt": "2026-04-01T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Indonesia",
       "methodology": "AMS-III.H.",
       "registryId": "5975",
@@ -1127,7 +3063,8 @@
         "creditingPeriodStart": null,
         "creditingPeriodEnd": null,
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-5974",
@@ -1140,7 +3077,7 @@
       "excerpt": "Malawi · Under validation · VM0050 · 50,903 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5974",
       "publishedAt": "2026-03-31T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Malawi",
       "methodology": "VM0050",
       "registryId": "5974",
@@ -1151,7 +3088,8 @@
         "creditingPeriodStart": "2024-11-01",
         "creditingPeriodEnd": "2031-10-31",
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-5973",
@@ -1164,7 +3102,7 @@
       "excerpt": "India · Under development · VM0042 · 3,37,767 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5973",
       "publishedAt": "2026-03-27T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "India",
       "methodology": "VM0042",
       "registryId": "5973",
@@ -1175,7 +3113,8 @@
         "creditingPeriodStart": null,
         "creditingPeriodEnd": null,
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "india"
     },
     {
       "id": "google-carbon-global-blue-carbon-market-to-reach-usd-1-2026-03-25",
@@ -1185,18 +3124,20 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxORU40NERySjF1ZVh1cGlYZzdHa09sblVKYlNHRHktbUw0UUxhbzliTWc5SFNSb3BWRnBRMUsxa2lEa01BR055Qk1LVWtrejMzQm9xeUhvcUkxSUJpOWwxNkxsRDdoaDBwUmhGS0pDNnI4d0Eya2RZc2lhcHNCYm5HZXdjWDRlRjhRODRhaG5Iazdya2FtYjRyb3JtWUVaWFp5bWtZVy1vUWo4Vn…",
+      "excerpt": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International    PR Newswire UK",
       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxORU40NERySjF1ZVh1cGlYZzdHa09sblVKYlNHRHktbUw0UUxhbzliTWc5SFNSb3BWRnBRMUsxa2lEa01BR055Qk1LVWtrejMzQm9xeUhvcUkxSUJpOWwxNkxsRDdoaDBwUmhGS0pDNnI4d0Eya2RZc2lhcHNCYm5HZXdjWDRlRjhRODRhaG5Iazdya2FtYjRyb3JtWUVaWFp5bWtZVy1vUWo4VnZMOFhZOS15NHNhVExMZUpvaDBOWUhELVdXRTJPN2hyTGVaVUhwWDFqZ01FWnRyNUJyV1J5ZUlRdHFwbjl2bHVKZ25LWmJSVjRlaTFuNnFXZkNic2Ztd3JfRTRPb1lJX2ZqZW1lVlJTMHZGSm5taU50NlEtcXlpcHBpeFBoT0x4dlRXV2l6azZhWVY3UXRMczBRekZpNXA5RjNkWjR6MzBvQ0RRc0lidw?oc=5",
       "publishedAt": "2026-03-25T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
     },
     {
       "id": "verra-vcs-5968",
@@ -1209,7 +3150,7 @@
       "excerpt": "Spain · Under validation · VM0047 · 244 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5968",
       "publishedAt": "2026-03-25T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Spain",
       "methodology": "VM0047",
       "registryId": "5968",
@@ -1220,7 +3161,8 @@
         "creditingPeriodStart": "2023-05-25",
         "creditingPeriodEnd": "2053-05-24",
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-5970",
@@ -1233,7 +3175,7 @@
       "excerpt": "Chile · Under validation · VM0042 · 8,67,709 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5970",
       "publishedAt": "2026-03-25T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Chile",
       "methodology": "VM0042",
       "registryId": "5970",
@@ -1244,7 +3186,8 @@
         "creditingPeriodStart": "2024-12-13",
         "creditingPeriodEnd": "2044-12-12",
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-5967",
@@ -1257,7 +3200,7 @@
       "excerpt": "Indonesia · Under validation · VMR0007 · 48,000 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5967",
       "publishedAt": "2026-03-24T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Indonesia",
       "methodology": "VMR0007",
       "registryId": "5967",
@@ -1268,7 +3211,8 @@
         "creditingPeriodStart": "2023-10-11",
         "creditingPeriodEnd": "2033-10-10",
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "google-india-india-launches-centralized-carbon-market-2026-03-23",
@@ -1278,18 +3222,20 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5\" target=\"_blank\">India L…",
+      "excerpt": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance    ESG News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5",
       "publishedAt": "2026-03-23T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
     },
     {
       "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
@@ -1299,18 +3245,43 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5\" target=\"_blank\">Union Power Minister Inaugurates Prakriti 2…",
+      "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments    PIB",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5",
       "publishedAt": "2026-03-21T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-digital-pathways-to-net-zero-union-power-2026-03-21",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Digital Pathways to Net Zero: Union Power Minister Launches Indian Carbon Market Portal - The Policy Edge",
+      "excerpt": "Digital Pathways to Net Zero: Union Power Minister Launches Indian Carbon Market Portal    The Policy Edge",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazM3ZHJoaGFPNV9kc1c4VkZHUVdrZUNVSjVWc2xIWTJZQ0RjLXo0WThyejhDaTRFb2NtV0NpZGVONmlDZU1jT2FUekE1SzNIMFlJRUZqUXlQeDA0MVluY01ZVWFsMmNxUkluOFVwMzJSRjhNZ2hGTVo2VHQ3QTNPWDJIekF5bmo4d1Z1dEtjWnBNTFh3Q2ZGd0Y1SUNYX05zNkVuTjBTVTd5SlBJTm9WbE15aF8?oc=5",
+      "publishedAt": "2026-03-21T07:00:00.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
     },
     {
       "id": "verra-vcs-5962",
@@ -1323,7 +3294,7 @@
       "excerpt": "Indonesia · Under validation · AMS-III.H. · 56,373 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5962",
       "publishedAt": "2026-03-21T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Indonesia",
       "methodology": "AMS-III.H.",
       "registryId": "5962",
@@ -1334,7 +3305,8 @@
         "creditingPeriodStart": null,
         "creditingPeriodEnd": null,
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
     },
     {
       "id": "google-esg-chanel-unveils-first-climate-transition--2026-03-17",
@@ -1344,18 +3316,20 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "Chanel unveils first climate transition plan, outlines net-zero strategy - ESG Dive",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0ljcG8tN3lEcjNxWWYtYTFrREJUUmVsQ19kVVZNOWpiVGhQc3dkSEttWDhYMFNfOURuSVVpUlJiYzhva0FmVE5wcDFGZEdDd0FBNzVUQWYyckpkUndmVUVmMURkUnp0RWI2RTNjMTVTaFIzNXotVlJzQ1ZXMEZZa0FtMjVjb1MzMnBJRU5CRVJoWFdBRkZRMlJ3QTFaVFdLVDV1ekg0NGE3Qn…",
+      "excerpt": "Chanel unveils first climate transition plan, outlines net-zero strategy    ESG Dive",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0ljcG8tN3lEcjNxWWYtYTFrREJUUmVsQ19kVVZNOWpiVGhQc3dkSEttWDhYMFNfOURuSVVpUlJiYzhva0FmVE5wcDFGZEdDd0FBNzVUQWYyckpkUndmVUVmMURkUnp0RWI2RTNjMTVTaFIzNXotVlJzQ1ZXMEZZa0FtMjVjb1MzMnBJRU5CRVJoWFdBRkZRMlJ3QTFaVFdLVDV1ekg0NGE3Qnct?oc=5",
       "publishedAt": "2026-03-17T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-5957",
@@ -1368,7 +3342,7 @@
       "excerpt": "Kenya · Under development · VM0042 · 1,91,805 tCO₂e/yr",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5957",
       "publishedAt": "2026-03-17T00:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": null,
       "country": "Kenya",
       "methodology": "VM0042",
       "registryId": "5957",
@@ -1379,7 +3353,31 @@
         "creditingPeriodStart": "2024-04-01",
         "creditingPeriodEnd": "2044-03-31",
         "program": "Verified Carbon Standard"
-      }
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-india-carbon-credits-climate-policy-and-the-fu-2026-03-10",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon Credits, Climate Policy and the Future of Textile Manufacturing with SED’s MVR Based LTE® Technology - The Textile Magazine",
+      "excerpt": "Carbon Credits, Climate Policy and the Future of Textile Manufacturing with SED’s MVR Based LTE® Technology    The Textile Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS284NGtBNXZ5bGZEeTBoVlRmUWVDZFNrS1BTV0xsWEdlWnd4QjY4S3FCWkl5VFdPVjUtYnRPZzJ1VEZhM3U5bk1idE16ZTBmMnFUNFdKWlYzYW5uTkQxY0cteUJsZ1A1UUtDN3BmemNGVzdGbnhYbVhfd1Mtd2ZhNVRlN3BaT2gxRVZwQ1lpWk5iQ3dfbl9JdkxDTHNSUEhLVVR4RUdURWNPdFlTTjVNQWlRbVVoZ2h3VUIyRW1pR2JlZWZ1WmNodUlrYkRNbWl4VXBSWlJhN2wxdw?oc=5",
+      "publishedAt": "2026-03-10T08:55:12.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
     },
     {
       "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
@@ -1389,18 +3387,20 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "The Evolving Spectrum of Energy Sources - PIB",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5\" target=\"_blank\">The Evolving Spectrum of Energy Sources</a>…",
+      "excerpt": "The Evolving Spectrum of Energy Sources    PIB",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5",
       "publishedAt": "2026-02-28T08:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
@@ -1410,18 +3410,20 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "Decarbonizing India’s Development Journey - Drishti IAS",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQT25tZUNQVS1HTkRUc3pCdFpQRlNlUGVOV0xkclJ4WnRYTXRRMlNkelRYWnlUYkdzRmNqRXIxQkFsOUotOUh0TmdvclN5WHZWX01FMmpleFRXWVpRd3k1TFo2eUpZaW5teEViZnpZcDlCTDFvYjdENFBJa2tvSENGckdURWtlamFtdEYxanFnNUs0azZLZ1o5WTFVcU8wUGJjc1VybThn?oc=5\"…",
+      "excerpt": "Decarbonizing India’s Development Journey    Drishti IAS",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT25tZUNQVS1HTkRUc3pCdFpQRlNlUGVOV0xkclJ4WnRYTXRRMlNkelRYWnlUYkdzRmNqRXIxQkFsOUotOUh0TmdvclN5WHZWX01FMmpleFRXWVpRd3k1TFo2eUpZaW5teEViZnpZcDlCTDFvYjdENFBJa2tvSENGckdURWtlamFtdEYxanFnNUs0azZLZ1o5WTFVcU8wUGJjc1VybThn?oc=5",
       "publishedAt": "2026-02-25T08:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
     },
     {
       "id": "google-esg-amazon-expands-carbon-credit-offerings-t-2026-02-18",
@@ -1431,18 +3433,20 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "Amazon expands carbon credit offerings to help suppliers cut emissions - ESG Dive",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLUNwelB1cHZ6YUxWRkZUckxvYmN3QzNOMmxDaXF0bnJDclZNMVJCS3pFMnFPM2x5dTJGc1JmSHpIV3Nwc1VHZGNXaUdaaE1jVU4tdnN1UUF6UlY1RXc5cEpsVFZhSTZldkswQzE1b20xVFVUQjJXT3JFdkdJRWtjNXhKRk5tN1NwZ01KQWFDQnlhM3BuM0dLZENzcjNqTTlOUG5CdVYtTWtEcH…",
+      "excerpt": "Amazon expands carbon credit offerings to help suppliers cut emissions    ESG Dive",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLUNwelB1cHZ6YUxWRkZUckxvYmN3QzNOMmxDaXF0bnJDclZNMVJCS3pFMnFPM2x5dTJGc1JmSHpIV3Nwc1VHZGNXaUdaaE1jVU4tdnN1UUF6UlY1RXc5cEpsVFZhSTZldkswQzE1b20xVFVUQjJXT3JFdkdJRWtjNXhKRk5tN1NwZ01KQWFDQnlhM3BuM0dLZENzcjNqTTlOUG5CdVYtTWtEcHhTcXVLYl94aVg3dlBaSXBJ?oc=5",
       "publishedAt": "2026-02-18T08:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-carbon-credit-demand-plateaued-in-2025-a-2026-02-03",
@@ -1452,18 +3456,20 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability - Fastmarkets",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcV…",
+      "excerpt": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability    Fastmarkets",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5",
       "publishedAt": "2026-02-03T08:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
@@ -1473,18 +3479,20 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s Green Hydrogen Ambition - MillenniumPost",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWl…",
+      "excerpt": "India’s Green Hydrogen Ambition    MillenniumPost",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5",
       "publishedAt": "2026-01-21T08:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
     },
     {
       "id": "google-carbon-carbon-credit-project-developers-baulk-a-2026-01-20",
@@ -1494,18 +3502,20 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "Carbon credit project developers baulk at new Gold Standard rules - edie.net",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hYOXV2Q0hBbG1uRXVLQWFNYlFTbHRvUVpuTGd0OFI0Qm43bVg3WkU3V2lEWERzQU9ZbzV2N3VHX2M5VnpnRlpOdXNmNC1FZzQwZ3czd00wU1VQbWhQVmhsdjRiRVdXaHpiMnN1N1UxcmM1eWgtMGt6WkFoVWpLLXAtUlZfczYzT3haNE1BSEbSAZwBQVVfeXFMT1ZUREJlS1YxdzBMN3N2Tj…",
+      "excerpt": "Carbon credit project developers baulk at new Gold Standard rules    edie.net",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hYOXV2Q0hBbG1uRXVLQWFNYlFTbHRvUVpuTGd0OFI0Qm43bVg3WkU3V2lEWERzQU9ZbzV2N3VHX2M5VnpnRlpOdXNmNC1FZzQwZ3czd00wU1VQbWhQVmhsdjRiRVdXaHpiMnN1N1UxcmM1eWgtMGt6WkFoVWpLLXAtUlZfczYzT3haNE1BSEbSAZwBQVVfeXFMT1ZUREJlS1YxdzBMN3N2TjVyV3RzdWo0RDNrZ0E1bENjMXVJRTlVeVRZNXl5UFI0eEZjdWlpcEYxU2ZiaDBIMzlZUTRDTWlBVGg4SHBiMkJyVDRkSGRhd1NUWWc2cHZOR0J5UWVsYXNIMUFJMnVGLTNRLXQ1Tnk3ZHNneHN2Tk1UMHZOZmJRQks4RGlsVHRRUlFzTmF5?oc=5",
       "publishedAt": "2026-01-20T08:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "google-esg-new-york-releases-regulation-requiring-m-2025-12-15",
@@ -1515,18 +3525,20 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "New York Releases Regulation Requiring Mandatory GHG Reporting for Large Emitters from 2027 - ESG Today",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3gtZ2tTcUJ1VjBFeGJFelVqS1B6YVVWazlJNUFsNWNzTXI4WmFiU2ZrbEQzWmN2eUpxSHU0Tk9YaE5lUDBjeEREVk5vR3h3bGIyaUZQYThNT21zR1ZDb0MyNDlMMUtlbFc5U2pCX0E0bW9BVGtRd0txRTZaQ25wam1MM0dVWk85VnNITkZMOHZoamdMd3hRVHhuX1V0SkZhbHZ0TV9tNGtmST…",
+      "excerpt": "New York Releases Regulation Requiring Mandatory GHG Reporting for Large Emitters from 2027    ESG Today",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3gtZ2tTcUJ1VjBFeGJFelVqS1B6YVVWazlJNUFsNWNzTXI4WmFiU2ZrbEQzWmN2eUpxSHU0Tk9YaE5lUDBjeEREVk5vR3h3bGIyaUZQYThNT21zR1ZDb0MyNDlMMUtlbFc5U2pCX0E0bW9BVGtRd0txRTZaQ25wam1MM0dVWk85VnNITkZMOHZoamdMd3hRVHhuX1V0SkZhbHZ0TV9tNGtmSTR0aDJ2OTJLLXR5dXRM?oc=5",
       "publishedAt": "2025-12-15T08:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
@@ -1536,18 +3548,20 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5\" target=\"_blank\">Verra Rolls Out First Hi…",
+      "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology    Carbon Herald",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5",
       "publishedAt": "2025-12-10T08:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
@@ -1557,18 +3571,20 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "Carbon markets are incomplete without nuclear - Utility Dive",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5\" target=\"_blank\">Carbon markets are incomplete without nuclear…",
+      "excerpt": "Carbon markets are incomplete without nuclear    Utility Dive",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5",
       "publishedAt": "2025-09-23T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "google-esg-stratasys-advances-mindful-manufacturing-2025-09-17",
@@ -1578,18 +3594,20 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "Stratasys Advances Mindful Manufacturing™ Vision With Fourth Annual ESG and Sustainability Report, Featuring Year-Over-Year Scope 3 Emissions Disclosure - Business Wire",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxQUEZmazViUXBheDU1TUw5UG1MamlrbVZuZFFUalFxX2FuM3QzOXJ3cVNtMUtGT2U0STRobzYzLWZwS3VlQ3psbFRUNFgwYUJMYl9pYlVVdlctbUh0cmgyYlR4S0wzdGtsTU9ndWFTMWVrZUJxRzJSMGtYSkFpSUVRU2lYSzQ1bEswUDktVWJ4WlpCT3RNVFJrRmsxcURIcEo4N2RMcTRwNkltOW…",
+      "excerpt": "Stratasys Advances Mindful Manufacturing™ Vision With Fourth Annual ESG and Sustainability Report, Featuring Year-Over-Year Scope 3 Emissions Disclosure    Business Wire",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQUEZmazViUXBheDU1TUw5UG1MamlrbVZuZFFUalFxX2FuM3QzOXJ3cVNtMUtGT2U0STRobzYzLWZwS3VlQ3psbFRUNFgwYUJMYl9pYlVVdlctbUh0cmgyYlR4S0wzdGtsTU9ndWFTMWVrZUJxRzJSMGtYSkFpSUVRU2lYSzQ1bEswUDktVWJ4WlpCT3RNVFJrRmsxcURIcEo4N2RMcTRwNkltOWV1YmRVdzdnLUVCSy1iYVhsTHVjZm42djRNSUFlOU1xTktkeU5ibWZldDdob1RZV2NHOC1NWkhqNDNWbnEtRWluR242SHpFZVR3WHJPNTFRWXRrcFpNR3JwTENybU5JZG1ENUNDMGdvU2JaY2psazhYMEFWc1lqUUJxRTgwa1I4SjRnZzUw?oc=5",
       "publishedAt": "2025-09-17T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
@@ -1599,18 +3617,20 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNX…",
+      "excerpt": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets    Fuel Cells Works",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
       "publishedAt": "2025-09-01T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
     },
     {
       "id": "google-h2-knowledge-nugget-what-you-must-know-abou-2025-08-20",
@@ -1620,18 +3640,20 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam - The Indian Express",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMH…",
+      "excerpt": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam    The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
       "publishedAt": "2025-08-20T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
     },
     {
       "id": "google-carbon-verra-and-gold-standard-release-insuranc-2025-07-22",
@@ -1641,18 +3663,20 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "Verra and Gold Standard Release Insurance Framework for CORSIA-Eligible Credits - ClearBlue Markets",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0tGTnd1eDdJYWdKeXp3MkFRT2hDWkxqMzF4R1JZWmRQakNnY0s0NUZQcFF3ZzcxWEdRVkE1WWRIaG1fcmNmclZrTXBZT0cwdDFsSjZrMU1nN3VXRk9kYU9ZWEpocWh3cW9DVW41c3ZwWXF3eHNES0dWb2tiSW1yUXJldUNvclZRZTZqTi1NclpGZzlaWmZrN2g4cFpaWHgwZHpUbXR0Q2Z6Tk…",
+      "excerpt": "Verra and Gold Standard Release Insurance Framework for CORSIA-Eligible Credits    ClearBlue Markets",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0tGTnd1eDdJYWdKeXp3MkFRT2hDWkxqMzF4R1JZWmRQakNnY0s0NUZQcFF3ZzcxWEdRVkE1WWRIaG1fcmNmclZrTXBZT0cwdDFsSjZrMU1nN3VXRk9kYU9ZWEpocWh3cW9DVW41c3ZwWXF3eHNES0dWb2tiSW1yUXJldUNvclZRZTZqTi1NclpGZzlaWmZrN2g4cFpaWHgwZHpUbXR0Q2Z6TksxbERrVWNmZDBwU01nazdSMUJiZm4wSzM1YmfSAdYBQVVfeXFMTklTZ2poX3lBMXNBekhlR1dRV1dVck1xWHJtSUlUVkRObTBIb1gzekJIcHVXWFhYOEdsR3VhZmNVSmRQR1d3RGJ4RU5qUzR0cElxVjI2MVBDX0FycjQ1T2dXdlBLLUdwYjZmV0R5d2pLSUVGRWFnR1duSE5WN2RlQ0lqaHRvQ212b1c4Y0JPNzhrX2dDNG9jY3pjWmJiYWZYX2FsNW5JWjNXTXF1NXJ2QVBvY201RTdxXzI3SEFTY042dUJvZ05uNlZxeHd1eG9ndzI0SnhZZw?oc=5",
       "publishedAt": "2025-07-22T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "google-h2-green-hydrogen-fuel-in-india-types-benef-2025-07-21",
@@ -1662,18 +3686,20 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "Green Hydrogen Fuel in India, Types, Benefits and Challenges - StudyIQ",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pMThoZm5Ya29ZX2R3RWk4NjVPeUcwbkNBR3R4QzJGYUxHNXVUekdqMlVvS0t5Q09sTDd0aTFITXo2aUdwd21FcDNEUTBOTlMtMGVET214R3JZWGxB?oc=5\" target=\"_blank\">Green Hydrogen Fuel in India, Types, Benefits and Challenges</a>&nbsp;&nbsp;<font c…",
+      "excerpt": "Green Hydrogen Fuel in India, Types, Benefits and Challenges    StudyIQ",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pMThoZm5Ya29ZX2R3RWk4NjVPeUcwbkNBR3R4QzJGYUxHNXVUekdqMlVvS0t5Q09sTDd0aTFITXo2aUdwd21FcDNEUTBOTlMtMGVET214R3JZWGxB?oc=5",
       "publishedAt": "2025-07-21T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "india"
     },
     {
       "id": "google-esg-lenovo-releases-fy-2024-25-esg-report-sh-2025-06-25",
@@ -1683,18 +3709,20 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "Lenovo Releases FY 2024/25 ESG Report, Showcasing Measurable Progress and Industry Leadership - Lenovo StoryHub",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMlViUjVHbXN6UjVrdlUtMzRrTWRoWlVXTGhDdEctX1VvX09LVVFxTk5VZW1rcnRnajhJVmc1dmV4NjVON2dGMUFhRVBsN0M1d0ZHVmpYanVOejZWbGNfRU1CZ2FqSHl5TGFPQUk0UURSYldWY2t1aU9HN0RDdXVYV3FlZkdaMVcxVnNzb05IWjdLRWs0d1VRcVBqOEt5WTRMSDlaZkpUUHBSZk…",
+      "excerpt": "Lenovo Releases FY 2024/25 ESG Report, Showcasing Measurable Progress and Industry Leadership    Lenovo StoryHub",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMlViUjVHbXN6UjVrdlUtMzRrTWRoWlVXTGhDdEctX1VvX09LVVFxTk5VZW1rcnRnajhJVmc1dmV4NjVON2dGMUFhRVBsN0M1d0ZHVmpYanVOejZWbGNfRU1CZ2FqSHl5TGFPQUk0UURSYldWY2t1aU9HN0RDdXVYV3FlZkdaMVcxVnNzb05IWjdLRWs0d1VRcVBqOEt5WTRMSDlaZkpUUHBSZkkwclZNMzRWVjFrdU9kTVhYendxYUxwU2UxRGVkdE1OSTlNbW1mX0ZCRQ?oc=5",
       "publishedAt": "2025-06-25T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
@@ -1704,18 +3732,20 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3…",
+      "excerpt": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets    Verra",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
       "publishedAt": "2023-12-04T08:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-the-lifecycle-of-a-voluntary-carbon-cred-2022-08-26",
@@ -1725,18 +3755,20 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "The Lifecycle of a Voluntary Carbon Credit - Morrison Foerster",
-      "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJLNnZyc3NCaDZnWjA0Z3ExblFrMUxYUlRLUlRXcm9MUUFsWkpEdUFKU29iV3ZoV1RCX2lmdExJcERLYThrRFk2aGttdWVvZGNiUEoydm9SSmVZOHltejhDTm00c0E3OTk5MHNwNnR4eS0wTXZHcGZRcmhKXzd4ZGNzaDNhcDdUd2dZNnFB?oc=5\" target=\"_blank\">The Lifecycle o…",
+      "excerpt": "The Lifecycle of a Voluntary Carbon Credit    Morrison Foerster",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJLNnZyc3NCaDZnWjA0Z3ExblFrMUxYUlRLUlRXcm9MUUFsWkpEdUFKU29iV3ZoV1RCX2lmdExJcERLYThrRFk2aGttdWVvZGNiUEoydm9SSmVZOHltejhDTm00c0E3OTk5MHNwNnR4eS0wTXZHcGZRcmhKXzd4ZGNzaDNhcDdUd2dZNnFB?oc=5",
       "publishedAt": "2022-08-26T07:00:00.000Z",
-      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en"
-      }
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "imageSource": "og:image"
+      },
+      "region": "world"
     }
   ]
 }
