@@ -5,6 +5,8 @@
   "type": "module",
   "description": "Carbon Bridge — India's first environmental credit marketplace (Carbon, Soil, Plastic, CBG, Biogas). React + Vite. By Carbon Bridge Pvt. Ltd.",
   "scripts": {
+    "fetch-news": "node scripts/fetch-news.mjs",
+    "prebuild": "npm run fetch-news",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"

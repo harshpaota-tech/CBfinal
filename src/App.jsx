@@ -9,6 +9,7 @@ import Login from "./components/Login.jsx";
 import Dashboard from "./components/Dashboard.jsx";
 import Checkout from "./components/Checkout.jsx";
 import Methodologies from "./components/Methodologies.jsx";
+import NewsBlog from "./components/NewsBlog.jsx";
 import Btn from "./components/ui/Btn.jsx";
 import Logo from "./components/ui/Logo.jsx";
 import ToastHost from "./components/ui/Toast.jsx";
@@ -29,6 +30,7 @@ export { T };
 const NAV_KEYS = [
   { id: "marketplace",    tk: "nav.marketplace" },
   { id: "methodologies",  tk: "nav.methodologies" },
+  { id: "news",           tk: "nav.news" },
   { id: "howitworks",     tk: "nav.howItWorks" },
   { id: "business",       tk: "nav.forBusiness" },
   { id: "sell",           tk: "nav.sellCredits" },
@@ -123,6 +125,8 @@ export default function App() {
         return <Marketplace setPage={setPage} onBuy={handleBuy} />;
       case "methodologies":
         return <Methodologies setPage={setPage} />;
+      case "news":
+        return <NewsBlog setPage={setPage} />;
       case "howitworks":
         return <HowItWorks setPage={setPage} />;
       case "business":
@@ -319,6 +323,7 @@ function Footer({ setPage }) {
       links: [
         { label: "Marketplace", id: "marketplace" },
         { label: "Methodologies", id: "methodologies" },
+        { label: "News & Insights", id: "news" },
         { label: "How It Works", id: "howitworks" },
         { label: "For Business", id: "business" },
         { label: "Sell Credits", id: "sell" },

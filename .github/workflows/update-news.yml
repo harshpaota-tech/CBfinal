@@ -1,0 +1,41 @@
+name: Update live news feed
+
+on:
+  schedule:
+    # Every 6 hours — keeps Verra + ESG news fresh on thecarbonbridge.com
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch live news feeds
+        run: npm run fetch-news
+
+      - name: Commit updated news feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/news-feed.json
+          if git diff --staged --quiet; then
+            echo "No news changes to commit."
+          else
+            git commit -m "chore: auto-update live news feed [skip ci]"
+            git push
+          fi
