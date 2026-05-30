@@ -1,26 +1,28 @@
 #!/usr/bin/env node
 /**
  * Carbon Bridge — automated news aggregator
- *
- * Pulls live content from Verra RSS, Verra Registry API, Google News, Carbon Brief.
- * Extracts REAL article images (RSS media / og:image) — no stock photo placeholders.
+ * Real blog thumbnails + longer descriptions from publisher pages (not Google proxy images).
  */
 
 import { writeFileSync, mkdirSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { GoogleDecoder } from "google-news-url-decoder";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT_PATH = join(__dirname, "../public/news-feed.json");
+const EXCERPT_MAX = 560;
 
 const RSS_SOURCES = [
   { id: "verra", name: "Verra", url: "https://verra.org/feed/", tag: "VERRA", type: "announcement", limit: 12 },
   { id: "carbon-brief", name: "Carbon Brief", url: "https://www.carbonbrief.org/feed/", tag: "CLIMATE", type: "esg", limit: 8 },
+  { id: "esg-today", name: "ESG Today", url: "https://www.esgtoday.com/feed/", tag: "ESG", type: "esg", limit: 12 },
+  { id: "esg-dive", name: "ESG Dive", url: "https://www.esgdive.com/feeds/news/", tag: "ESG", type: "esg", limit: 12 },
   {
-    id: "google-esg",
-    name: "ESG & GHG News",
-    url: "https://news.google.com/rss/search?q=ESG+GHG+carbon+emissions+sustainability&hl=en&gl=US&ceid=US:en",
-    tag: "ESG",
+    id: "google-india",
+    name: "India Climate Policy",
+    url: "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+    tag: "INDIA",
     type: "esg",
     limit: 10,
   },
@@ -30,15 +32,7 @@ const RSS_SOURCES = [
     url: "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
     tag: "CARBON MARKET",
     type: "esg",
-    limit: 10,
-  },
-  {
-    id: "google-india",
-    name: "India Climate Policy",
-    url: "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-    tag: "INDIA",
-    type: "esg",
-    limit: 10,
+    limit: 8,
   },
   {
     id: "google-h2",
@@ -65,6 +59,8 @@ const TAG_ACCENTS = {
 const INDIA_KEYWORDS =
   /\bindia\b|\bindian\b|cpcb|satat|nghm|seci|gujarat|maharashtra|tamil nadu|jharkhand|west bengal|karnataka|odisha|rajasthan|delhi|mumbai|bangalore|chennai|hyderabad|kolkata|pune|biogas|cbg\b|epr portal|bis is/i;
 
+const googleDecoder = new GoogleDecoder();
+
 function slugify(text) {
   return String(text || "")
     .toLowerCase()
@@ -80,6 +76,8 @@ function decodeEntities(text) {
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
     .replace(/&quot;/g, '"')
+    .replace(/&hellip;/g, "…")
+    .replace(/&[#\w]+;/g, " ")
     .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
     .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)));
 }
@@ -90,8 +88,17 @@ function stripHtml(html) {
     .replace(/<script[\s\S]*?<\/script>/gi, " ")
     .replace(/<style[\s\S]*?<\/style>/gi, " ")
     .replace(/<[^>]+>/g, " ")
+    .replace(/\[\s*&hellip;\s*\]/g, "…")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function trimExcerpt(text, max = EXCERPT_MAX) {
+  const clean = text.replace(/\s+/g, " ").trim();
+  if (clean.length <= max) return clean;
+  const cut = clean.slice(0, max);
+  const lastSpace = cut.lastIndexOf(" ");
+  return `${(lastSpace > max * 0.6 ? cut.slice(0, lastSpace) : cut).trim()}…`;
 }
 
 function extractRawTag(block, tag) {
@@ -99,40 +106,75 @@ function extractRawTag(block, tag) {
   return m ? m[1] : "";
 }
 
-function extractExcerpt(rawDescription, title) {
+function buildExcerptFromContent(rawEncoded, rawDescription, title) {
+  if (rawEncoded) {
+    const paragraphs = rawEncoded.match(/<p[^>]*>[\s\S]*?<\/p>/gi) || [];
+    let combined = "";
+    for (const p of paragraphs) {
+      const t = stripHtml(p);
+      if (t.length < 30) continue;
+      combined += (combined ? " " : "") + t;
+      if (combined.length >= EXCERPT_MAX) break;
+    }
+    if (combined.length >= 80) {
+      return trimExcerpt(combined.replace(/The post .* appeared first on .*/gi, ""));
+    }
+  }
+
   const anchorMatch = rawDescription.match(/<a[^>]*>([\s\S]*?)<\/a>/i);
   let text = anchorMatch ? stripHtml(anchorMatch[1]) : stripHtml(rawDescription);
+  text = text.replace(/The post .* appeared first on .*/gi, "").trim();
 
-  text = text
-    .replace(/The post .* appeared first on .*/gi, "")
-    .replace(/&nbsp;/g, " ")
-    .trim();
-
-  if (!text || text.length < 24 || /^https?:\/\//i.test(text)) {
+  if (!text || text.length < 30 || /^https?:\/\//i.test(text)) {
     text = title.replace(/\s*[-–|]\s*[^-|]+$/, "").trim();
   }
 
-  return text.length > 280 ? `${text.slice(0, 277)}…` : text;
+  return trimExcerpt(text);
+}
+
+function mergeExcerpt(current, ogDescription, bodySnippet, title) {
+  const candidates = [bodySnippet, ogDescription, current, title.replace(/\s*[-–|]\s*[^-|]+$/, "")]
+    .map((s) => stripHtml(s).replace(/The post .* appeared first on .*/gi, "").trim())
+    .filter((s) => s.length >= 40 && !/^https?:\/\//i.test(s));
+
+  candidates.sort((a, b) => b.length - a.length);
+  return trimExcerpt(candidates[0] || current || title);
 }
 
 function extractImageFromBlock(block) {
   const media = block.match(/<media:content[^>]+url=["']([^"']+)["']/i);
-  if (media?.[1]) return media[1];
+  if (media?.[1] && !isBadImage(media[1])) return media[1];
 
   const thumb = block.match(/<media:thumbnail[^>]+url=["']([^"']+)["']/i);
-  if (thumb?.[1]) return thumb[1];
-
-  const enclosure = block.match(/<enclosure[^>]+url=["']([^"']+)["'][^>]+type=["']image/i);
-  if (enclosure?.[1]) return enclosure[1];
+  if (thumb?.[1] && !isBadImage(thumb[1])) return thumb[1];
 
   for (const chunk of [extractRawTag(block, "content:encoded"), extractRawTag(block, "description")]) {
     if (!chunk) continue;
     for (const m of chunk.matchAll(/<img[^>]+src=["']([^"']+)["']/gi)) {
-      const src = m[1];
-      if (!src.includes("ex_link") && !src.includes("favicon") && !src.endsWith(".svg")) return src;
+      if (!isBadImage(m[1])) return m[1].replace(/&amp;/g, "&");
     }
   }
   return null;
+}
+
+function isBadImage(url) {
+  if (!url) return true;
+  return (
+    url.includes("ex_link") ||
+    url.includes("favicon") ||
+    url.endsWith(".svg") ||
+    url.includes("googleusercontent.com") ||
+    url.includes("gstatic.com/images")
+  );
+}
+
+function isGoogleNewsUrl(url) {
+  try {
+    const u = new URL(url);
+    return u.hostname === "news.google.com" && u.pathname.includes("/articles/");
+  } catch {
+    return false;
+  }
 }
 
 function inferTag(title, description, category, defaultTag) {
@@ -156,6 +198,27 @@ function classifyRegion(article) {
   return "world";
 }
 
+function buildRegistryExcerpt(p) {
+  const parts = [];
+  parts.push(
+    `${p.resourceName} is a Verified Carbon Standard (VCS) project registered on the Verra registry in ${p.country || "its host country"}.`
+  );
+  if (p.resourceStatus) parts.push(`The project is currently listed as "${p.resourceStatus}".`);
+  if (p.protocols || p.protocolCategories) {
+    parts.push(`It applies ${p.protocols || p.protocolCategories} methodology.`);
+  }
+  if (p.estAnnualEmissionReductions) {
+    parts.push(
+      `Estimated annual emission reductions are ${Number(p.estAnnualEmissionReductions).toLocaleString("en-IN")} tonnes CO₂ equivalent per year.`
+    );
+  }
+  if (p.proponent) parts.push(`Project proponent: ${p.proponent}.`);
+  if (p.creditingPeriodStartDate && p.creditingPeriodEndDate) {
+    parts.push(`Crediting period runs ${p.creditingPeriodStartDate} to ${p.creditingPeriodEndDate}.`);
+  }
+  return trimExcerpt(parts.join(" "));
+}
+
 function parseRssItems(xml, source) {
   const items = [];
   const itemRegex = /<item>([\s\S]*?)<\/item>/gi;
@@ -164,9 +227,10 @@ function parseRssItems(xml, source) {
   while ((match = itemRegex.exec(xml)) && items.length < source.limit) {
     const block = match[1];
     const title = stripHtml(extractRawTag(block, "title"));
-    const link = stripHtml(extractRawTag(block, "link"));
+    const link = stripHtml(extractRawTag(block, "link")).replace(/&amp;/g, "&");
     const pubDate = stripHtml(extractRawTag(block, "pubDate"));
     const rawDescription = extractRawTag(block, "description");
+    const rawEncoded = extractRawTag(block, "content:encoded");
     const category = stripHtml(extractRawTag(block, "category"));
 
     if (!title || !link) continue;
@@ -174,8 +238,6 @@ function parseRssItems(xml, source) {
     const publishedAt = pubDate ? new Date(pubDate).toISOString() : new Date().toISOString();
     const tag = inferTag(title, rawDescription, category, source.tag);
     const id = `${source.id}-${slugify(title).slice(0, 40)}-${publishedAt.slice(0, 10)}`;
-    const excerpt = extractExcerpt(rawDescription, title);
-    const image = extractImageFromBlock(block);
 
     const article = {
       id,
@@ -185,10 +247,10 @@ function parseRssItems(xml, source) {
       tag,
       accent: TAG_ACCENTS[tag] || "#86efac",
       title,
-      excerpt,
+      excerpt: buildExcerptFromContent(rawEncoded, rawDescription, title),
       url: link,
       publishedAt,
-      image,
+      image: extractImageFromBlock(block),
       country: tag === "INDIA" || INDIA_KEYWORDS.test(title) ? "India" : null,
       methodology: null,
       registryId: null,
@@ -210,7 +272,7 @@ async function fetchText(url, timeoutMs = 20000) {
       signal: controller.signal,
       redirect: "follow",
       headers: {
-        "User-Agent": "Mozilla/5.0 (compatible; CarbonBridge-NewsBot/1.1; +https://thecarbonbridge.com)",
+        "User-Agent": "Mozilla/5.0 (compatible; CarbonBridge-NewsBot/1.2; +https://thecarbonbridge.com)",
         Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
       },
     });
@@ -221,49 +283,115 @@ async function fetchText(url, timeoutMs = 20000) {
   }
 }
 
-async function fetchOgImage(pageUrl) {
-  try {
-    const html = await fetchText(pageUrl, 14000);
+function extractMetaContent(html, names) {
+  for (const name of names) {
     const patterns = [
-      /property=["']og:image["'][^>]+content=["']([^"']+)["']/i,
-      /content=["']([^"']+)["'][^>]+property=["']og:image["']/i,
-      /name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i,
-      /content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i,
+      new RegExp(`property=["']${name}["'][^>]+content=["']([^"']+)["']`, "i"),
+      new RegExp(`content=["']([^"']+)["'][^>]+property=["']${name}["']`, "i"),
+      new RegExp(`name=["']${name}["'][^>]+content=["']([^"']+)["']`, "i"),
+      new RegExp(`content=["']([^"']+)["'][^>]+name=["']${name}["']`, "i"),
     ];
-    for (const pattern of patterns) {
-      const m = html.match(pattern);
-      if (m?.[1] && !m[1].includes("ex_link.svg") && !m[1].includes("favicon")) {
-        return m[1].replace(/&amp;/g, "&");
-      }
+    for (const p of patterns) {
+      const m = html.match(p);
+      if (m?.[1]) return decodeEntities(m[1].replace(/&amp;/g, "&"));
     }
-    const imgMatch = html.match(/<img[^>]+src=["'](https?:\/\/[^"']+\.(?:jpg|jpeg|png|webp)[^"']*)["']/i);
-    if (imgMatch?.[1] && !imgMatch[1].includes("ex_link")) return imgMatch[1].replace(/&amp;/g, "&");
-  } catch {
-    /* skip */
   }
   return null;
 }
 
-async function enrichImages(articles, { concurrency = 8 } = {}) {
-  const queue = articles.filter((a) => !a.image && a.url);
+function extractBodySnippet(html) {
+  const articleMatch = html.match(/<article[\s\S]*?<\/article>/i);
+  const scope = articleMatch ? articleMatch[0] : html;
+  const paragraphs = scope.match(/<p[^>]*>[\s\S]*?<\/p>/gi) || [];
+  let text = "";
+  for (const p of paragraphs) {
+    const t = stripHtml(p);
+    if (t.length < 40) continue;
+    text += (text ? " " : "") + t;
+    if (text.length >= EXCERPT_MAX) break;
+  }
+  return text.trim();
+}
+
+async function fetchPageMeta(pageUrl) {
+  const html = await fetchText(pageUrl, 14000);
+  const image = extractMetaContent(html, ["og:image:secure_url", "og:image", "twitter:image"]);
+  const description = extractMetaContent(html, ["og:description", "twitter:description", "description"]);
+  const bodySnippet = extractBodySnippet(html);
+  return {
+    image: image && !isBadImage(image) ? image : null,
+    description,
+    bodySnippet,
+  };
+}
+
+async function resolvePublisherUrl(article) {
+  if (!isGoogleNewsUrl(article.url)) return article.url;
+  try {
+    const result = await googleDecoder.decode(article.url);
+    if (result.status && result.decoded_url) {
+      article.meta = { ...article.meta, googleNewsUrl: article.url };
+      article.url = result.decoded_url;
+      return result.decoded_url;
+    }
+  } catch {
+    /* keep original */
+  }
+  return article.url;
+}
+
+async function enrichArticles(articles, { concurrency = 6 } = {}) {
+  const queue = articles.filter(
+    (a) =>
+      isGoogleNewsUrl(a.url) ||
+      isBadImage(a.image) ||
+      !a.image ||
+      (a.excerpt?.length || 0) < 180
+  );
+
   let idx = 0;
-  let enriched = 0;
+  let resolved = 0;
+  let images = 0;
+  let expanded = 0;
 
   async function worker() {
     while (idx < queue.length) {
       const i = idx++;
       const article = queue[i];
-      const img = await fetchOgImage(article.url);
-      if (img) {
-        article.image = img;
-        article.meta = { ...article.meta, imageSource: "og:image" };
-        enriched++;
+
+      if (isGoogleNewsUrl(article.url)) {
+        const before = article.url;
+        await resolvePublisherUrl(article);
+        if (article.url !== before) resolved++;
+      }
+
+      const needsMeta =
+        isBadImage(article.image) || !article.image || (article.excerpt?.length || 0) < 180;
+
+      if (needsMeta && article.url && !isGoogleNewsUrl(article.url)) {
+        try {
+          const meta = await fetchPageMeta(article.url);
+          if (meta.image && (isBadImage(article.image) || !article.image)) {
+            article.image = meta.image;
+            article.meta = { ...article.meta, imageSource: "publisher" };
+            images++;
+          }
+          const longer = mergeExcerpt(article.excerpt, meta.description, meta.bodySnippet, article.title);
+          if (longer.length > (article.excerpt?.length || 0) + 20) {
+            article.excerpt = longer;
+            expanded++;
+          }
+        } catch {
+          /* skip */
+        }
       }
     }
   }
 
   await Promise.all(Array.from({ length: concurrency }, () => worker()));
-  console.log(`  ✓ Image enrichment: ${enriched}/${queue.length} articles got real thumbnails`);
+  console.log(
+    `  ✓ Publisher enrichment: ${resolved} Google URLs decoded · ${images} blog thumbnails · ${expanded} longer descriptions`
+  );
 }
 
 async function fetchRssSource(source) {
@@ -291,7 +419,7 @@ async function fetchVerraRegistryProjects() {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
-        "User-Agent": "CarbonBridge-NewsBot/1.1",
+        "User-Agent": "CarbonBridge-NewsBot/1.2",
       },
       body: JSON.stringify({ program: "VCS" }),
     });
@@ -310,9 +438,6 @@ async function fetchVerraRegistryProjects() {
 
 function mapVerraProject(p) {
   const id = `verra-vcs-${p.resourceIdentifier}`;
-  const reductions = p.estAnnualEmissionReductions
-    ? `${Number(p.estAnnualEmissionReductions).toLocaleString("en-IN")} tCO₂e/yr`
-    : "—";
   const tag = p.country === "India" ? "INDIA" : "VCS PROJECT";
 
   const article = {
@@ -323,9 +448,7 @@ function mapVerraProject(p) {
     tag,
     accent: TAG_ACCENTS[tag] || "#86efac",
     title: p.resourceName,
-    excerpt: [p.country, p.resourceStatus, p.protocols || p.protocolCategories, reductions]
-      .filter(Boolean)
-      .join(" · "),
+    excerpt: buildRegistryExcerpt(p),
     url: `https://registry.verra.org/app/projectDetail/VCS/${p.resourceIdentifier}`,
     publishedAt: p.createDate ? new Date(p.createDate).toISOString() : new Date().toISOString(),
     image: null,
@@ -348,7 +471,7 @@ function mapVerraProject(p) {
 function dedupeArticles(articles) {
   const seen = new Set();
   return articles.filter((a) => {
-    const key = `${a.title.toLowerCase().slice(0, 60)}|${a.url}`;
+    const key = `${a.title.toLowerCase().slice(0, 60)}`;
     if (seen.has(key)) return false;
     seen.add(key);
     return true;
@@ -364,17 +487,17 @@ async function main() {
   const all = dedupeArticles([...registryProjects, ...rssResults.flat()]);
   all.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
-  console.log("\n  Enriching missing images from article pages…");
-  await enrichImages(all);
+  console.log("\n  Resolving Google links → publisher blogs + fetching real thumbnails…");
+  await enrichArticles(all);
 
-  // Re-classify regions after enrichment
   for (const a of all) a.region = classifyRegion(a);
 
   const indiaArticles = all.filter((a) => a.region === "india");
   const worldArticles = all.filter((a) => a.region === "world");
+  const publisherImages = all.filter((a) => a.image && !isBadImage(a.image)).length;
 
   const feed = {
-    version: 2,
+    version: 3,
     fetchedAt: new Date().toISOString(),
     sources: [
       { id: "verra-registry", name: "Verra VCS Registry API", url: "https://registry.verra.org/" },
@@ -384,15 +507,13 @@ async function main() {
       total: all.length,
       india: indiaArticles.length,
       world: worldArticles.length,
-      withImages: all.filter((a) => a.image).length,
+      withImages: publisherImages,
+      avgExcerptLength: Math.round(all.reduce((s, a) => s + (a.excerpt?.length || 0), 0) / Math.max(all.length, 1)),
       verra: all.filter((a) => a.source === "verra").length,
       registry: all.filter((a) => a.source === "verra-registry").length,
       esg: all.filter((a) => a.type === "esg").length,
     },
-    sections: {
-      india: indiaArticles,
-      world: worldArticles,
-    },
+    sections: { india: indiaArticles, world: worldArticles },
     articles: all,
   };
 
@@ -401,7 +522,7 @@ async function main() {
 
   console.log(`\n✓ Wrote ${all.length} articles → public/news-feed.json`);
   console.log(
-    `  🇮🇳 India: ${feed.stats.india} · 🌍 World: ${feed.stats.world} · 🖼 Real images: ${feed.stats.withImages}/${feed.stats.total}`
+    `  🇮🇳 India: ${feed.stats.india} · 🌍 World: ${feed.stats.world} · 🖼 Publisher images: ${publisherImages} · Avg description: ${feed.stats.avgExcerptLength} chars`
   );
 }
 

@@ -4,7 +4,7 @@
  */
 
 const FEED_URL = "/news-feed.json";
-const CACHE_KEY = "cb_news_feed_v2";
+const CACHE_KEY = "cb_news_feed_v3";
 const CACHE_TTL_MS = 30 * 60 * 1000;
 
 /** Primary region tabs — India vs World */
@@ -105,7 +105,7 @@ function writeSessionCache(feed) {
 export async function loadNewsFeed({ force = false } = {}) {
   if (!force) {
     const cached = readSessionCache();
-    if (cached?.version >= 2) return cached;
+    if (cached?.version >= 3) return cached;
   }
 
   const res = await fetch(`${FEED_URL}?t=${Date.now()}`, { cache: "no-store" });
