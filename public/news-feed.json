@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-05-31T18:57:38.984Z",
+  "fetchedAt": "2026-06-01T02:06:06.460Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 23,
     "world": 62,
     "withImages": 55,
-    "avgExcerptLength": 438,
+    "avgExcerptLength": 439,
     "verra": 10,
     "registry": 23,
     "esg": 52
@@ -98,29 +98,6 @@
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
           "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
-        "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
-        "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
-        "publishedAt": "2026-05-25T12:09:22.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
         },
         "region": "india"
       },
@@ -353,7 +330,7 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "HIM EVERGREEN – Integrated Climate Smart Agriculture, and Agroforestry Program",
-        "excerpt": "HIM EVERGREEN – Integrated Climate Smart Agriculture, and Agroforestry Program is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under development\". It applies VM0042 methodology. Estimated annual emission reductions are 3,37,767 tonnes CO₂ equivalent per year. Project proponent: Proclime Services Private Limited.",
+        "excerpt": "HIM EVERGREEN – Integrated Climate Smart Agriculture, and Agroforestry Program is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under development\". It applies VM0042 methodology. Estimated annual emission reductions are 3,37,767 tonnes CO₂ equivalent per year. Project proponent: Proclime Services Private Limited. Crediting period runs 2026-06-01 to 2066-05-31.",
         "url": "https://registry.verra.org/app/projectDetail/VCS/5973",
         "publishedAt": "2026-03-27T00:00:00.000Z",
         "image": null,
@@ -364,8 +341,8 @@
         "meta": {
           "proponent": "Proclime Services Private Limited",
           "region": "Asia",
-          "creditingPeriodStart": null,
-          "creditingPeriodEnd": null,
+          "creditingPeriodStart": "2026-06-01",
+          "creditingPeriodEnd": "2066-05-31",
           "program": "Verified Carbon Standard"
         },
         "region": "india"
@@ -462,6 +439,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-digital-pathways-to-net-zero-union-power-2026-03-21",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Digital Pathways to Net Zero: Union Power Minister Launches Indian Carbon Market Portal - The Policy Edge",
+        "excerpt": "SDG 13: Climate Action | SDG 7: Affordable and Clean Energy | SDG 9: Industry, Innovation and Infrastructure Ministry of Power MoP | Ministry of Environment, Forest and Climate Change MoEFCC | Bureau of Energy Efficiency BEE The Union Minister for Power, Shri Manohar Lal, has officially launched the Indian Carbon Market Portal (www.indiancarbonmarket.gov.in) during the inauguration of The International Conference on Carbon Markets- Prakriti 2026 in New Delhi. Positioned as the central digital infrastructure for implementing and administering the Indian…",
+        "url": "https://www.policyedge.in/p/digital-pathways-to-net-zero-union-power-minister-launches-indian-carbon-market-portal",
+        "publishedAt": "2026-03-21T07:00:00.000Z",
+        "image": "https://my-strapi-buckets.s3.eu-north-1.amazonaws.com/uploads/Policy_Bites_Cover_252aa8ff70.png",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazM3ZHJoaGFPNV9kc1c4VkZHUVdrZUNVSjVWc2xIWTJZQ0RjLXo0WThyejhDaTRFb2NtV0NpZGVONmlDZU1jT2FUekE1SzNIMFlJRUZqUXlQeDA0MVluY01ZVWFsMmNxUkluOFVwMzJSRjhNZ2hGTVo2VHQ3QTNPWDJIekF5bmo4d1Z1dEtjWnBNTFh3Q2ZGd0Y1SUNYX05zNkVuTjBTVTd5SlBJTm9WbE15aF8?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -1714,7 +1715,7 @@
         "tag": "VCS PROJECT",
         "accent": "#86efac",
         "title": "La Tigra Watershed Conservation ARR/ANR Reforestation Project",
-        "excerpt": "La Tigra Watershed Conservation ARR/ANR Reforestation Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Honduras. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 67,554 tonnes CO₂ equivalent per year. Project proponent: EP Carbon.",
+        "excerpt": "La Tigra Watershed Conservation ARR/ANR Reforestation Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Honduras. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 67,554 tonnes CO₂ equivalent per year. Project proponent: EP Carbon. Crediting period runs 2026-06-01 to 2046-05-31.",
         "url": "https://registry.verra.org/app/projectDetail/VCS/5989",
         "publishedAt": "2026-04-13T00:00:00.000Z",
         "image": null,
@@ -1725,8 +1726,8 @@
         "meta": {
           "proponent": "EP Carbon",
           "region": "Latin America",
-          "creditingPeriodStart": null,
-          "creditingPeriodEnd": null,
+          "creditingPeriodStart": "2026-06-01",
+          "creditingPeriodEnd": "2046-05-31",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -1978,16 +1979,16 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
+        "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
-        "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
-        "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
-        "publishedAt": "2025-12-10T08:00:00.000Z",
+        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+        "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+        "publishedAt": "2025-11-12T08:00:00.000Z",
         "image": null,
         "country": null,
         "methodology": null,
@@ -1996,7 +1997,30 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon markets are incomplete without nuclear - Utility Dive",
+        "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
+        "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
+        "publishedAt": "2025-09-23T07:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
         },
         "region": "world"
       },
@@ -2020,30 +2044,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0tGTnd1eDdJYWdKeXp3MkFRT2hDWkxqMzF4R1JZWmRQakNnY0s0NUZQcFF3ZzcxWEdRVkE1WWRIaG1fcmNmclZrTXBZT0cwdDFsSjZrMU1nN3VXRk9kYU9ZWEpocWh3cW9DVW41c3ZwWXF3eHNES0dWb2tiSW1yUXJldUNvclZRZTZqTi1NclpGZzlaWmZrN2g4cFpaWHgwZHpUbXR0Q2Z6TksxbERrVWNmZDBwU01nazdSMUJiZm4wSzM1YmfSAdYBQVVfeXFMTklTZ2poX3lBMXNBekhlR1dRV1dVck1xWHJtSUlUVkRObTBIb1gzekJIcHVXWFhYOEdsR3VhZmNVSmRQR1d3RGJ4RU5qUzR0cElxVjI2MVBDX0FycjQ1T2dXdlBLLUdwYjZmV0R5d2pLSUVGRWFnR1duSE5WN2RlQ0lqaHRvQ212b1c4Y0JPNzhrX2dDNG9jY3pjWmJiYWZYX2FsNW5JWjNXTXF1NXJ2QVBvY201RTdxXzI3SEFTY042dUJvZ05uNlZxeHd1eG9ndzI0SnhZZw?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
-        "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
-        "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
-        "publishedAt": "2023-12-04T08:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -2716,29 +2716,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
-      "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
-      "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
-      "publishedAt": "2026-05-25T12:09:22.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
-      },
-      "region": "india"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-may-25--2026-05-25",
       "source": "verra",
       "sourceName": "Verra",
@@ -3396,7 +3373,7 @@
       "tag": "VCS PROJECT",
       "accent": "#86efac",
       "title": "La Tigra Watershed Conservation ARR/ANR Reforestation Project",
-      "excerpt": "La Tigra Watershed Conservation ARR/ANR Reforestation Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Honduras. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 67,554 tonnes CO₂ equivalent per year. Project proponent: EP Carbon.",
+      "excerpt": "La Tigra Watershed Conservation ARR/ANR Reforestation Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Honduras. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 67,554 tonnes CO₂ equivalent per year. Project proponent: EP Carbon. Crediting period runs 2026-06-01 to 2046-05-31.",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5989",
       "publishedAt": "2026-04-13T00:00:00.000Z",
       "image": null,
@@ -3407,8 +3384,8 @@
       "meta": {
         "proponent": "EP Carbon",
         "region": "Latin America",
-        "creditingPeriodStart": null,
-        "creditingPeriodEnd": null,
+        "creditingPeriodStart": "2026-06-01",
+        "creditingPeriodEnd": "2046-05-31",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
@@ -3545,7 +3522,7 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "HIM EVERGREEN – Integrated Climate Smart Agriculture, and Agroforestry Program",
-      "excerpt": "HIM EVERGREEN – Integrated Climate Smart Agriculture, and Agroforestry Program is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under development\". It applies VM0042 methodology. Estimated annual emission reductions are 3,37,767 tonnes CO₂ equivalent per year. Project proponent: Proclime Services Private Limited.",
+      "excerpt": "HIM EVERGREEN – Integrated Climate Smart Agriculture, and Agroforestry Program is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under development\". It applies VM0042 methodology. Estimated annual emission reductions are 3,37,767 tonnes CO₂ equivalent per year. Project proponent: Proclime Services Private Limited. Crediting period runs 2026-06-01 to 2066-05-31.",
       "url": "https://registry.verra.org/app/projectDetail/VCS/5973",
       "publishedAt": "2026-03-27T00:00:00.000Z",
       "image": null,
@@ -3556,8 +3533,8 @@
       "meta": {
         "proponent": "Proclime Services Private Limited",
         "region": "Asia",
-        "creditingPeriodStart": null,
-        "creditingPeriodEnd": null,
+        "creditingPeriodStart": "2026-06-01",
+        "creditingPeriodEnd": "2066-05-31",
         "program": "Verified Carbon Standard"
       },
       "region": "india"
@@ -3733,6 +3710,30 @@
       "region": "india"
     },
     {
+      "id": "google-india-digital-pathways-to-net-zero-union-power-2026-03-21",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Digital Pathways to Net Zero: Union Power Minister Launches Indian Carbon Market Portal - The Policy Edge",
+      "excerpt": "SDG 13: Climate Action | SDG 7: Affordable and Clean Energy | SDG 9: Industry, Innovation and Infrastructure Ministry of Power MoP | Ministry of Environment, Forest and Climate Change MoEFCC | Bureau of Energy Efficiency BEE The Union Minister for Power, Shri Manohar Lal, has officially launched the Indian Carbon Market Portal (www.indiancarbonmarket.gov.in) during the inauguration of The International Conference on Carbon Markets- Prakriti 2026 in New Delhi. Positioned as the central digital infrastructure for implementing and administering the Indian…",
+      "url": "https://www.policyedge.in/p/digital-pathways-to-net-zero-union-power-minister-launches-indian-carbon-market-portal",
+      "publishedAt": "2026-03-21T07:00:00.000Z",
+      "image": "https://my-strapi-buckets.s3.eu-north-1.amazonaws.com/uploads/Policy_Bites_Cover_252aa8ff70.png",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazM3ZHJoaGFPNV9kc1c4VkZHUVdrZUNVSjVWc2xIWTJZQ0RjLXo0WThyejhDaTRFb2NtV0NpZGVONmlDZU1jT2FUekE1SzNIMFlJRUZqUXlQeDA0MVluY01ZVWFsMmNxUkluOFVwMzJSRjhNZ2hGTVo2VHQ3QTNPWDJIekF5bmo4d1Z1dEtjWnBNTFh3Q2ZGd0Y1SUNYX05zNkVuTjBTVTd5SlBJTm9WbE15aF8?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "verra-vcs-5957",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3900,16 +3901,16 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
+      "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
-      "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
-      "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
-      "publishedAt": "2025-12-10T08:00:00.000Z",
+      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+      "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+      "publishedAt": "2025-11-12T08:00:00.000Z",
       "image": null,
       "country": null,
       "methodology": null,
@@ -3918,7 +3919,30 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon markets are incomplete without nuclear - Utility Dive",
+      "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
+      "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
+      "publishedAt": "2025-09-23T07:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
       },
       "region": "world"
     },
@@ -3993,30 +4017,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
-      "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
-      "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
-      "publishedAt": "2023-12-04T08:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
     },
     {
       "id": "google-h2-steel-decarbonisation-in-india-ieefa-ins-2023-09-14",
