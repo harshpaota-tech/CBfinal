@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-03T02:15:29.834Z",
+  "fetchedAt": "2026-06-03T10:27:00.918Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 85,
     "india": 23,
     "world": 62,
-    "withImages": 57,
-    "avgExcerptLength": 441,
+    "withImages": 56,
+    "avgExcerptLength": 435,
     "verra": 10,
     "registry": 23,
     "esg": 52
@@ -182,7 +182,7 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture - The Diplomat – Asia-Pacific",
-        "excerpt": "All Sections Search Read The Diplomat , Know The Asia-Pacific Diplomat Brief Weekly Newsletter The Diplomat Home Page About Us Contact Us Write for Us Advertise Syndicate Privacy Newsletter Subscriptions Flashpoints The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture Recent Features Security The Next Challenge Facing the US-Philippine Alliance, and How They Plan to Overcome It Videos The 3 Geopolitical Shocks That Boosted the Middle Corridor Security Why Does Okinawa Have So Many US Military Bases? Economy…",
+        "excerpt": "All Sections Search Read The Diplomat , Know The Asia-Pacific Diplomat Brief Weekly Newsletter The Diplomat Home Page About Us Contact Us Write for Us Advertise Syndicate Privacy Newsletter Subscriptions Flashpoints The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture Recent Features Diplomacy The Trump-Xi Summit Produced Stability, But It Won’t Last Forever Security The Next Challenge Facing the US-Philippine Alliance, and How They Plan to Overcome It Videos The 3 Geopolitical Shocks That Boosted the Middle…",
         "url": "https://thediplomat.com/2026/05/the-brics-climate-stress-test-indias-opportunity-to-reshape-global-climate-finance-architecture/",
         "publishedAt": "2026-05-02T07:00:00.000Z",
         "image": "https://thediplomat.com/wp-content/uploads/2025/10/sizes/td-story-s-2/thediplomat_2025-10-08-173414.jpg",
@@ -562,6 +562,30 @@
         "region": "india"
       },
       {
+        "id": "google-h2-knowledge-nugget-what-you-must-know-abou-2025-08-20",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam - The Indian Express",
+        "excerpt": "Weather ePaper Today’s Paper Journalism of Courage Home ePaper Politics Explained Opinion India Business Premium Cities UPSC Entertainment Sports World Lifestyle Tech Subscribe Sign In Trending UPSC Offer Long Reads Legal News Health Research Games 🎙️ Podcast Advertisement News UPSC Current Affairs UPSC Essentials Knowledge Nugget: What you must know about India s green hydrogen plants for the UPSC exam Premium Knowledge Nugget: What you must know about India s green hydrogen plants for the UPSC exam Uttar Pradesh Chief Minister Yogi Adityanath on…",
+        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-indias-green-hydrogen-plants-upsc-exam-10198700/",
+        "publishedAt": "2025-08-20T07:00:00.000Z",
+        "image": "https://images.indianexpress.com/2025/08/Knowledge-Nugget-Indias-Green-hydrogen-plants.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -584,33 +608,53 @@
           "imageSource": "publisher"
         },
         "region": "india"
-      },
+      }
+    ],
+    "world": [
       {
-        "id": "google-h2-steel-decarbonisation-in-india-ieefa-ins-2023-09-14",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
+        "id": "esg-today-deloitte-appoints-smruti-naik-jones-as-c-2026-06-03",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
         "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Steel decarbonisation in India - IEEFA | Institute for Energy Economics and Financial Analysis",
-        "excerpt": " Language Newsroom View the IEEFA Newsroom Insights Reports Fact Sheets Testimony/Submission Briefing Note Slides Press Releases Media Inquiries In the Media Research View all research Or browse one of our major research areas below Coal Petrochemicals Climate Finance Carbon Capture & Storage Renewables & Storage Energy Transition & Policy Oil/Gas & LNG Power & Utilities Steel Regions North America Asia Europe South Asia Australia About What We Do Who We Are Conference Contact Us Employment Events Subscribe  Language  Language  Executive Summary …",
-        "url": "https://ieefa.org/resources/steel-decarbonisation-india",
-        "publishedAt": "2023-09-14T07:00:00.000Z",
-        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2023-09/hero-graphic-jmksteel2%20%283%29.jpg?itok=lTXPD-tj",
-        "country": "India",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Deloitte Appoints Smruti Naik-Jones as Chief Sustainability Officer for EMEA",
+        "excerpt": "Global professional services firm Deloitte has appointed Smruti Naik-Jones as Chief Sustainability Officer for its newly launched Europe, Middle East and Africa business, Deloitte EMEA. The new EMEA business, which officially launched this week, was initially announced in February 2026, bringing together 16 participating firms operating in more than 80 countries across the Europe, Middle East and Africa region, in order to serve the EMEA market at greater scale through strategic alignment across participating firms. The EMEA business includes 6,000…",
+        "url": "https://www.esgtoday.com/deloitte-appoints-smruti-naik-jones-as-chief-sustainability-officer-for-emea/?utm_source=rss utm_medium=rss utm_campaign=deloitte-appoints-smruti-naik-jones-as-chief-sustainability-officer-for-emea",
+        "publishedAt": "2026-06-03T09:17:43.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Deloitte-Naik-Jones.jpg",
+        "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tTUtPWEs1YmtXZ21IaGVPZnR1ZmliVVdoLVFUUndZbDlQblFxMEItT0w0ZWhyb2c5b1JwcXppOC1DNUszRXNsSUUwOUl1TlBnUWI0Qk5Vem1IRWNWMk5CY2dfV0RkZw?oc=5",
-          "imageSource": "publisher"
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
         },
-        "region": "india"
-      }
-    ],
-    "world": [
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-q-a-how-uk-s-seventh-carbon-budget-will--2026-06-03",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Q A: How UK’s seventh carbon budget will deliver £865bn’ in economic benefits",
+        "excerpt": "The Labour government wants to cut UK greenhouse gas emissions to 87% below 1990 levels by 2040, which it says will deliver £865bn in economic benefits. The target has been set out in draft legislation for the seventh “carbon budget”, a legally binding limit on emissions during the five-year period from 2038-2042. The government says this would protect billpayers from “ fossil-fuel shocks ”, boost energy security, improve quality of life and help tackle climate change, by getting the country on track for net-zero by 2050. The UK would need to invest…",
+        "url": "https://www.carbonbrief.org/qa-how-uks-seventh-carbon-budget-will-deliver-865bn-in-economic-benefits/",
+        "publishedAt": "2026-06-03T08:11:32.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/uks-seventh-carbon-budget-will-aim-cut-emissions-87-2040.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Science",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-governance-surpasses-environment-as-top--2026-06-02",
         "source": "esg-dive",
@@ -965,28 +1009,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-ubs-appoints-alexander-seidler-as-head-o-2026-06-01",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "UBS Appoints Alexander Seidler as Head of Sustainability and Climate Risk",
-        "excerpt": "UBS has appointed as Alexander Seidler as Head Sustainability and Climate Risk, with responsibility for implementing the bank’s sustainability and climate risk (SCR) framework. Seidler initially joined UBS in 2006, holding a variety of environmental and social risk-related positions in Zurich, London and Singapore, and departing in 2022 to join Credit Suisse as Head of Sustainability Risk. He rejoined UBS through the bank’s acquisition of Credit Suisse in 2023, and has most recently been serving as Head of Sustainability and Climate Risk Assessments. In…",
-        "url": "https://www.esgtoday.com/ubs-appoints-alexander-seidler-as-head-of-sustainability-and-climate-risk/?utm_source=rss utm_medium=rss utm_campaign=ubs-appoints-alexander-seidler-as-head-of-sustainability-and-climate-risk",
-        "publishedAt": "2026-06-01T13:29:11.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/UBS-Seidler2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Executive Moves",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-projects-open-for-public-comment-june-1--2026-06-01",
         "source": "verra",
         "sourceName": "Verra",
@@ -1225,28 +1247,6 @@
         "status": null,
         "meta": {
           "category": "China Policy",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-analysis-china-s-new-carbon-metric-leave-2026-05-25",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions",
-        "excerpt": "A major change in the way that China measures its core climate goal has effectively halved the growth in the country’s carbon dioxide (CO2) emissions over the past five years. The revised measure of “carbon intensity”, the amount of CO2 per unit of economic output, implies that China’s emissions have only gone up by 7% from 2020-2025. This is just half of the 14% rise indicated by previous official statistics. On paper, the revision creates a gap of 700m tonnes of CO2 (MtCO2) per year, equivalent to the total emissions of Germany or South Korea. While…",
-        "url": "https://www.carbonbrief.org/analysis-chinas-new-carbon-metric-leaves-germany-sized-gap-in-its-emissions/",
-        "publishedAt": "2026-05-25T23:01:00.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/China_has_changed_the_scope_of_its_carbon-intensity_metric.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "China energy",
           "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
@@ -1931,29 +1931,6 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-verra-applies-first-corsia-labels-to-vol-2026-02-02",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa - Carbon Herald",
-        "excerpt": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa Carbon Herald",
-        "url": "https://carbonherald.com/verra-applies-first-corsia-labels-to-voluntary-carbon-credits-from-africa/",
-        "publishedAt": "2026-02-02T08:00:00.000Z",
-        "image": null,
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNGdzd3Q2FlTGZuMU5Wbm9iT1F3NnkwRzRGeE5Ic0x0U2lxdWMxV19ESUkzUVN2R21oZnVCZEx0TXdHcGFObUNackdvV0hYd3JVck9HbnB2Mk1kM2lXM3hoaURJVURydVlaYW1rTG9TaEdmdE9ZVUxrS0Nwa1hfX1BfYXVmTExGSFNaQkQtMU5KRTE4Rnh1TVNtbkV0SHV4?oc=5"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-carbon-credit-project-developers-baulk-a-2026-01-20",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2001,6 +1978,52 @@
         "region": "world"
       },
       {
+        "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+        "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+        "publishedAt": "2025-11-12T08:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon markets are incomplete without nuclear - Utility Dive",
+        "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
+        "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
+        "publishedAt": "2025-09-23T07:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-verra-and-gold-standard-release-insuranc-2025-07-22",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2023,34 +2046,54 @@
           "imageSource": "publisher"
         },
         "region": "world"
-      },
-      {
-        "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
-        "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
-        "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
-        "publishedAt": "2023-12-04T08:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
       }
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-deloitte-appoints-smruti-naik-jones-as-c-2026-06-03",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Deloitte Appoints Smruti Naik-Jones as Chief Sustainability Officer for EMEA",
+      "excerpt": "Global professional services firm Deloitte has appointed Smruti Naik-Jones as Chief Sustainability Officer for its newly launched Europe, Middle East and Africa business, Deloitte EMEA. The new EMEA business, which officially launched this week, was initially announced in February 2026, bringing together 16 participating firms operating in more than 80 countries across the Europe, Middle East and Africa region, in order to serve the EMEA market at greater scale through strategic alignment across participating firms. The EMEA business includes 6,000…",
+      "url": "https://www.esgtoday.com/deloitte-appoints-smruti-naik-jones-as-chief-sustainability-officer-for-emea/?utm_source=rss utm_medium=rss utm_campaign=deloitte-appoints-smruti-naik-jones-as-chief-sustainability-officer-for-emea",
+      "publishedAt": "2026-06-03T09:17:43.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Deloitte-Naik-Jones.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-q-a-how-uk-s-seventh-carbon-budget-will--2026-06-03",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Q A: How UK’s seventh carbon budget will deliver £865bn’ in economic benefits",
+      "excerpt": "The Labour government wants to cut UK greenhouse gas emissions to 87% below 1990 levels by 2040, which it says will deliver £865bn in economic benefits. The target has been set out in draft legislation for the seventh “carbon budget”, a legally binding limit on emissions during the five-year period from 2038-2042. The government says this would protect billpayers from “ fossil-fuel shocks ”, boost energy security, improve quality of life and help tackle climate change, by getting the country on track for net-zero by 2050. The UK would need to invest…",
+      "url": "https://www.carbonbrief.org/qa-how-uks-seventh-carbon-budget-will-deliver-865bn-in-economic-benefits/",
+      "publishedAt": "2026-06-03T08:11:32.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/uks-seventh-carbon-budget-will-aim-cut-emissions-87-2040.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Science",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-dive-governance-surpasses-environment-as-top--2026-06-02",
       "source": "esg-dive",
@@ -2429,28 +2472,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-ubs-appoints-alexander-seidler-as-head-o-2026-06-01",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "UBS Appoints Alexander Seidler as Head of Sustainability and Climate Risk",
-      "excerpt": "UBS has appointed as Alexander Seidler as Head Sustainability and Climate Risk, with responsibility for implementing the bank’s sustainability and climate risk (SCR) framework. Seidler initially joined UBS in 2006, holding a variety of environmental and social risk-related positions in Zurich, London and Singapore, and departing in 2022 to join Credit Suisse as Head of Sustainability Risk. He rejoined UBS through the bank’s acquisition of Credit Suisse in 2023, and has most recently been serving as Head of Sustainability and Climate Risk Assessments. In…",
-      "url": "https://www.esgtoday.com/ubs-appoints-alexander-seidler-as-head-of-sustainability-and-climate-risk/?utm_source=rss utm_medium=rss utm_campaign=ubs-appoints-alexander-seidler-as-head-of-sustainability-and-climate-risk",
-      "publishedAt": "2026-06-01T13:29:11.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/UBS-Seidler2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Executive Moves",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-june-1--2026-06-01",
       "source": "verra",
       "sourceName": "Verra",
@@ -2740,28 +2761,6 @@
       "region": "world"
     },
     {
-      "id": "carbon-brief-analysis-china-s-new-carbon-metric-leave-2026-05-25",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions",
-      "excerpt": "A major change in the way that China measures its core climate goal has effectively halved the growth in the country’s carbon dioxide (CO2) emissions over the past five years. The revised measure of “carbon intensity”, the amount of CO2 per unit of economic output, implies that China’s emissions have only gone up by 7% from 2020-2025. This is just half of the 14% rise indicated by previous official statistics. On paper, the revision creates a gap of 700m tonnes of CO2 (MtCO2) per year, equivalent to the total emissions of Germany or South Korea. While…",
-      "url": "https://www.carbonbrief.org/analysis-chinas-new-carbon-metric-leaves-germany-sized-gap-in-its-emissions/",
-      "publishedAt": "2026-05-25T23:01:00.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/China_has_changed_the_scope_of_its_carbon-intensity_metric.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "China energy",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-may-25--2026-05-25",
       "source": "verra",
       "sourceName": "Verra",
@@ -3026,7 +3025,7 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture - The Diplomat – Asia-Pacific",
-      "excerpt": "All Sections Search Read The Diplomat , Know The Asia-Pacific Diplomat Brief Weekly Newsletter The Diplomat Home Page About Us Contact Us Write for Us Advertise Syndicate Privacy Newsletter Subscriptions Flashpoints The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture Recent Features Security The Next Challenge Facing the US-Philippine Alliance, and How They Plan to Overcome It Videos The 3 Geopolitical Shocks That Boosted the Middle Corridor Security Why Does Okinawa Have So Many US Military Bases? Economy…",
+      "excerpt": "All Sections Search Read The Diplomat , Know The Asia-Pacific Diplomat Brief Weekly Newsletter The Diplomat Home Page About Us Contact Us Write for Us Advertise Syndicate Privacy Newsletter Subscriptions Flashpoints The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture Recent Features Diplomacy The Trump-Xi Summit Produced Stability, But It Won’t Last Forever Security The Next Challenge Facing the US-Philippine Alliance, and How They Plan to Overcome It Videos The 3 Geopolitical Shocks That Boosted the Middle…",
       "url": "https://thediplomat.com/2026/05/the-brics-climate-stress-test-indias-opportunity-to-reshape-global-climate-finance-architecture/",
       "publishedAt": "2026-05-02T07:00:00.000Z",
       "image": "https://thediplomat.com/wp-content/uploads/2025/10/sizes/td-story-s-2/thediplomat_2025-10-08-173414.jpg",
@@ -3830,29 +3829,6 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-verra-applies-first-corsia-labels-to-vol-2026-02-02",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa - Carbon Herald",
-      "excerpt": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa Carbon Herald",
-      "url": "https://carbonherald.com/verra-applies-first-corsia-labels-to-voluntary-carbon-credits-from-africa/",
-      "publishedAt": "2026-02-02T08:00:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNGdzd3Q2FlTGZuMU5Wbm9iT1F3NnkwRzRGeE5Ic0x0U2lxdWMxV19ESUkzUVN2R21oZnVCZEx0TXdHcGFObUNackdvV0hYd3JVck9HbnB2Mk1kM2lXM3hoaURJVURydVlaYW1rTG9TaEdmdE9ZVUxrS0Nwa1hfX1BfYXVmTExGSFNaQkQtMU5KRTE4Rnh1TVNtbkV0SHV4?oc=5"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -3923,6 +3899,52 @@
       "region": "world"
     },
     {
+      "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+      "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+      "publishedAt": "2025-11-12T08:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon markets are incomplete without nuclear - Utility Dive",
+      "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
+      "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
+      "publishedAt": "2025-09-23T07:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -3942,6 +3964,30 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-h2-knowledge-nugget-what-you-must-know-abou-2025-08-20",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam - The Indian Express",
+      "excerpt": "Weather ePaper Today’s Paper Journalism of Courage Home ePaper Politics Explained Opinion India Business Premium Cities UPSC Entertainment Sports World Lifestyle Tech Subscribe Sign In Trending UPSC Offer Long Reads Legal News Health Research Games 🎙️ Podcast Advertisement News UPSC Current Affairs UPSC Essentials Knowledge Nugget: What you must know about India s green hydrogen plants for the UPSC exam Premium Knowledge Nugget: What you must know about India s green hydrogen plants for the UPSC exam Uttar Pradesh Chief Minister Yogi Adityanath on…",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-indias-green-hydrogen-plants-upsc-exam-10198700/",
+      "publishedAt": "2025-08-20T07:00:00.000Z",
+      "image": "https://images.indianexpress.com/2025/08/Knowledge-Nugget-Indias-Green-hydrogen-plants.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -3990,54 +4036,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWYweWJqMjBTSzcwc0kzSUlnVTJfQ1RDaHRLalB4dFlKb1VpVUZaa2NBM1pOYk1XRnFISUkwWF9jWHBfQ0pJUy00aVdmYmYtUFZXTkF3bWh0U3BuaXVzNFMzXzllcll5cDdCQUxNVmMxWDlkLVh4b3JnWVh2Qy01YmNZVkQwWGxQVXg3NkVtZk0xUWNqdEhSNmV3MFk0THh2ZDFDNEpBaEFhTGZV?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
-      "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
-      "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
-      "publishedAt": "2023-12-04T08:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-h2-steel-decarbonisation-in-india-ieefa-ins-2023-09-14",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Steel decarbonisation in India - IEEFA | Institute for Energy Economics and Financial Analysis",
-      "excerpt": " Language Newsroom View the IEEFA Newsroom Insights Reports Fact Sheets Testimony/Submission Briefing Note Slides Press Releases Media Inquiries In the Media Research View all research Or browse one of our major research areas below Coal Petrochemicals Climate Finance Carbon Capture & Storage Renewables & Storage Energy Transition & Policy Oil/Gas & LNG Power & Utilities Steel Regions North America Asia Europe South Asia Australia About What We Do Who We Are Conference Contact Us Employment Events Subscribe  Language  Language  Executive Summary …",
-      "url": "https://ieefa.org/resources/steel-decarbonisation-india",
-      "publishedAt": "2023-09-14T07:00:00.000Z",
-      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2023-09/hero-graphic-jmksteel2%20%283%29.jpg?itok=lTXPD-tj",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tTUtPWEs1YmtXZ21IaGVPZnR1ZmliVVdoLVFUUndZbDlQblFxMEItT0w0ZWhyb2c5b1JwcXppOC1DNUszRXNsSUUwOUl1TlBnUWI0Qk5Vem1IRWNWMk5CY2dfV0RkZw?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
