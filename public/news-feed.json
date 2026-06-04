@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-04T02:13:28.405Z",
+  "fetchedAt": "2026-06-04T09:37:27.541Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 85,
     "india": 23,
     "world": 62,
-    "withImages": 56,
-    "avgExcerptLength": 435,
+    "withImages": 57,
+    "avgExcerptLength": 440,
     "verra": 10,
     "registry": 23,
     "esg": 52
@@ -199,6 +199,30 @@
         "region": "india"
       },
       {
+        "id": "google-india-ccts-to-keep-near-term-costs-manageable--2026-04-22",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "CCTS to keep near-term costs manageable but raise long-term pressure on cement, aluminium firms: ICRA ESG - ET Infra",
+        "excerpt": "By commenting, you agree to the Prohibited Content Policy By commenting, you agree to the Prohibited Content Policy See whats happening in Infrastructure sector right now Explore and discuss challenges & trends in India's leading B2B events Recognise work that not only stood out but was also purposeful Join leaders & experts for roundtables, conferences, panels and discussions By continuing you agree to our Privacy Policy & Terms & Conditions We have various options to advertise with us including Events, Advertorials, Banners, Mailers, etc. Save your…",
+        "url": "https://infra.economictimes.indiatimes.com/news/construction/indias-carbon-credit-trading-scheme-managing-costs-and-emission-pressures-for-cement-and-aluminium-industries/130441115",
+        "publishedAt": "2026-04-22T07:00:00.000Z",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130441115,imgsize-96112,width-1200,height=627,overlay-etinfra,resizemode-75/news/construction/indias-carbon-credit-trading-scheme-managing-costs-and-emission-pressures-for-cement-and-aluminium-industries.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTWEtbFlRY18zS0QzWWg3ZVNBYVJkd09RU3R4dXQ0WlZmWHROOXdCa0x1Z2x0TENQTUlBdFl6OUJKOHNFSlUzMXp4dm1iSkROLVBvRFlvNGJLT0JPeTdfNlhtQjhnaHQ1d1FqLVJGVEtBSlZPYnhwa0J0ZkliTDllYnFNRl9WaXhkZ2xCWURQQmZXQU5BQ2FCa09UaGRrY25fcmlvVjZMbnczU1dwbmVENGptOENVWEJjYnlNbUlyUFJHQ1Y3ajdYaWliT3FRNmNnUENsQi1zUWQ3Sy1fd1NfbVFETy1kclFhak1JNHNIMU5YYWF0VGxENW1NclFaY2RfTUZGanZZaFVtTkhW0gGSAkFVX3lxTE9BdFd5TFJMaFhndGEzODBKR0Z1U3ppRW8wMEl6TF9VZjFhZ0loUW9idmxwaU9ROVh6bkVaanlXSmxBUmlJUy0zMHRxTXZ1eVRqR1RyYW55WHViZGotNWxjQkFmMjBObjExcm5xMUVULVFQNTZ0MVdPWVhVVFM4a2xmejNOSWI3RTVuVjhNd1VndllPMFd6XzVzbVJjVEFEM0RxYk9xamNCQ0N6RExud2FvUWZ2UTFNbEl6cXFLa1QwREFOaThnbGNJaFpLYzZ2MkJFNUxpck5NMzZJaHBMMjNWN1RMZWpkMHI3MXB4VXM1X3dBMmVyUkRVaHpCUHZQUC03d0pxUDIyclJZTzk1blFOclE?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "verra-vcs-5992",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -245,29 +269,6 @@
           "creditingPeriodStart": "2025-06-16",
           "creditingPeriodEnd": "2057-06-15",
           "program": "Verified Carbon Standard"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
-        "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
-        "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
-        "publishedAt": "2026-04-14T07:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
         },
         "region": "india"
       },
@@ -610,6 +611,50 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-apave-acquires-climate-school-from-axa-2026-06-04",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Apave Acquires Climate School from AXA",
+        "excerpt": "France-based international risk management group Apave announced the acquisition of employee climate training business Climate School from insurance group AXA’s climate-focused unit, AXA Climate. The acquisition follows Apave’s launch earlier this year of Apave Impact, a new sustainability-focused subsidiary, focused on providing services aimed at supporting the responsible transition of companies and organizations across France, Europe, and internationally. Apave said that the acquisition will strengthen Apave Impact , and enhance its ability to…",
+        "url": "https://www.esgtoday.com/apave-acquires-climate-school-from-axa/?utm_source=rss utm_medium=rss utm_campaign=apave-acquires-climate-school-from-axa",
+        "publishedAt": "2026-06-04T08:45:56.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Apave.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-nordea-beats-200-billion-sustainable-fin-2026-06-04",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Nordea Beats €200 Billion Sustainable Finance Goal",
+        "excerpt": "Northern Europe-based financial services company Nordea announced that it has met or exceeded its key 2025 climate-focused finance and investment targets, and also facilitated €235 billion in sustainable financing between 2022 and 2025, significantly beating its €200 billion goal. Nordea also revealed significant progress towards its financed emissions goals, announcing that it reduced financed emissions by the end of 2025 in its lending portfolio by 44% compared to 2019 levels, putting the bank well ahead of its 2030 reduction target of 40-50%. The…",
+        "url": "https://www.esgtoday.com/nordea-beats-e200-billion-sustainable-finance-goal/?utm_source=rss utm_medium=rss utm_campaign=nordea-beats-e200-billion-sustainable-finance-goal",
+        "publishedAt": "2026-06-04T07:07:08.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Nordea.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Sustainable Finance",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "carbon-brief-analysis-china-s-co2-climbs-2-in-early-2-2026-06-03",
         "source": "carbon-brief",
@@ -1009,28 +1054,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-uk-sets-target-to-reduce-carbon-emission-2026-06-02",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "UK Sets Target to Reduce Carbon Emissions 87% by 2040",
-        "excerpt": "The UK government announced today the release of its proposed seventh carbon budget, including a target to reduce economy-wide emissions by 87% by 2040, on a 1990 basis. In his statement to Parliament introducing the new carbon budget, while noting the new target’s alignment with the UK’s goal to reach net zero by 2050, Energy Secretary Ed Miliband highlighted in particular the target s benefit of substantially reducing the economy’s exposure to fossil fuel price shocks. “As Britain faces the second fossil fuel shock of the decade, the only way to…",
-        "url": "https://www.esgtoday.com/uk-sets-target-to-reduce-carbon-emissions-87-by-2040/?utm_source=rss utm_medium=rss utm_campaign=uk-sets-target-to-reduce-carbon-emissions-87-by-2040",
-        "publishedAt": "2026-06-02T13:51:44.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/UK-Miliband.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-q-a-the-current-state-of-carbon-dioxide--2026-06-02",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1072,28 +1095,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-td-signs-long-term-carbon-removal-agreem-2026-06-02",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "TD Signs Long-Term Carbon Removal Agreement with Climeworks",
-        "excerpt": "Carbon dioxide removal (CDR) solutions provider Climeworks announced an agreement to supply high-quality carbon removal credits, spanning a range of CDR technologies over a 10-year period to Canada-based financial services provider TD Bank. Founded in 2009, Zurich-based Climeworks provides carbon removal solutions for companies, including its own DAC technology, with the company operating the world’s first two DAC plants. In 2024, Climeworks announced the launch of Climeworks Solutions, a new service providing companies with tailored, high-quality…",
-        "url": "https://www.esgtoday.com/td-signs-long-term-carbon-removal-agreement-with-climeworks/?utm_source=rss utm_medium=rss utm_campaign=td-signs-long-term-carbon-removal-agreement-with-climeworks",
-        "publishedAt": "2026-06-02T10:05:51.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/TD-Bank.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1979,16 +1980,16 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
+        "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
-        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
-        "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
-        "publishedAt": "2025-11-12T08:00:00.000Z",
+        "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
+        "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
+        "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
+        "publishedAt": "2025-12-10T08:00:00.000Z",
         "image": null,
         "country": null,
         "methodology": null,
@@ -1997,7 +1998,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
         },
         "region": "world"
       },
@@ -2051,6 +2052,50 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-apave-acquires-climate-school-from-axa-2026-06-04",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Apave Acquires Climate School from AXA",
+      "excerpt": "France-based international risk management group Apave announced the acquisition of employee climate training business Climate School from insurance group AXA’s climate-focused unit, AXA Climate. The acquisition follows Apave’s launch earlier this year of Apave Impact, a new sustainability-focused subsidiary, focused on providing services aimed at supporting the responsible transition of companies and organizations across France, Europe, and internationally. Apave said that the acquisition will strengthen Apave Impact , and enhance its ability to…",
+      "url": "https://www.esgtoday.com/apave-acquires-climate-school-from-axa/?utm_source=rss utm_medium=rss utm_campaign=apave-acquires-climate-school-from-axa",
+      "publishedAt": "2026-06-04T08:45:56.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Apave.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-nordea-beats-200-billion-sustainable-fin-2026-06-04",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Nordea Beats €200 Billion Sustainable Finance Goal",
+      "excerpt": "Northern Europe-based financial services company Nordea announced that it has met or exceeded its key 2025 climate-focused finance and investment targets, and also facilitated €235 billion in sustainable financing between 2022 and 2025, significantly beating its €200 billion goal. Nordea also revealed significant progress towards its financed emissions goals, announcing that it reduced financed emissions by the end of 2025 in its lending portfolio by 44% compared to 2019 levels, putting the bank well ahead of its 2030 reduction target of 40-50%. The…",
+      "url": "https://www.esgtoday.com/nordea-beats-e200-billion-sustainable-finance-goal/?utm_source=rss utm_medium=rss utm_campaign=nordea-beats-e200-billion-sustainable-finance-goal",
+      "publishedAt": "2026-06-04T07:07:08.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Nordea.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Sustainable Finance",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "carbon-brief-analysis-china-s-co2-climbs-2-in-early-2-2026-06-03",
       "source": "carbon-brief",
@@ -2450,28 +2495,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-uk-sets-target-to-reduce-carbon-emission-2026-06-02",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "UK Sets Target to Reduce Carbon Emissions 87% by 2040",
-      "excerpt": "The UK government announced today the release of its proposed seventh carbon budget, including a target to reduce economy-wide emissions by 87% by 2040, on a 1990 basis. In his statement to Parliament introducing the new carbon budget, while noting the new target’s alignment with the UK’s goal to reach net zero by 2050, Energy Secretary Ed Miliband highlighted in particular the target s benefit of substantially reducing the economy’s exposure to fossil fuel price shocks. “As Britain faces the second fossil fuel shock of the decade, the only way to…",
-      "url": "https://www.esgtoday.com/uk-sets-target-to-reduce-carbon-emissions-87-by-2040/?utm_source=rss utm_medium=rss utm_campaign=uk-sets-target-to-reduce-carbon-emissions-87-by-2040",
-      "publishedAt": "2026-06-02T13:51:44.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/UK-Miliband.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-q-a-the-current-state-of-carbon-dioxide--2026-06-02",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2513,28 +2536,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-td-signs-long-term-carbon-removal-agreem-2026-06-02",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "TD Signs Long-Term Carbon Removal Agreement with Climeworks",
-      "excerpt": "Carbon dioxide removal (CDR) solutions provider Climeworks announced an agreement to supply high-quality carbon removal credits, spanning a range of CDR technologies over a 10-year period to Canada-based financial services provider TD Bank. Founded in 2009, Zurich-based Climeworks provides carbon removal solutions for companies, including its own DAC technology, with the company operating the world’s first two DAC plants. In 2024, Climeworks announced the launch of Climeworks Solutions, a new service providing companies with tailored, high-quality…",
-      "url": "https://www.esgtoday.com/td-signs-long-term-carbon-removal-agreement-with-climeworks/?utm_source=rss utm_medium=rss utm_campaign=td-signs-long-term-carbon-removal-agreement-with-climeworks",
-      "publishedAt": "2026-06-02T10:05:51.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/TD-Bank.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -3168,6 +3169,30 @@
       "region": "world"
     },
     {
+      "id": "google-india-ccts-to-keep-near-term-costs-manageable--2026-04-22",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "CCTS to keep near-term costs manageable but raise long-term pressure on cement, aluminium firms: ICRA ESG - ET Infra",
+      "excerpt": "By commenting, you agree to the Prohibited Content Policy By commenting, you agree to the Prohibited Content Policy See whats happening in Infrastructure sector right now Explore and discuss challenges & trends in India's leading B2B events Recognise work that not only stood out but was also purposeful Join leaders & experts for roundtables, conferences, panels and discussions By continuing you agree to our Privacy Policy & Terms & Conditions We have various options to advertise with us including Events, Advertorials, Banners, Mailers, etc. Save your…",
+      "url": "https://infra.economictimes.indiatimes.com/news/construction/indias-carbon-credit-trading-scheme-managing-costs-and-emission-pressures-for-cement-and-aluminium-industries/130441115",
+      "publishedAt": "2026-04-22T07:00:00.000Z",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-130441115,imgsize-96112,width-1200,height=627,overlay-etinfra,resizemode-75/news/construction/indias-carbon-credit-trading-scheme-managing-costs-and-emission-pressures-for-cement-and-aluminium-industries.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTWEtbFlRY18zS0QzWWg3ZVNBYVJkd09RU3R4dXQ0WlZmWHROOXdCa0x1Z2x0TENQTUlBdFl6OUJKOHNFSlUzMXp4dm1iSkROLVBvRFlvNGJLT0JPeTdfNlhtQjhnaHQ1d1FqLVJGVEtBSlZPYnhwa0J0ZkliTDllYnFNRl9WaXhkZ2xCWURQQmZXQU5BQ2FCa09UaGRrY25fcmlvVjZMbnczU1dwbmVENGptOENVWEJjYnlNbUlyUFJHQ1Y3ajdYaWliT3FRNmNnUENsQi1zUWQ3Sy1fd1NfbVFETy1kclFhak1JNHNIMU5YYWF0VGxENW1NclFaY2RfTUZGanZZaFVtTkhW0gGSAkFVX3lxTE9BdFd5TFJMaFhndGEzODBKR0Z1U3ppRW8wMEl6TF9VZjFhZ0loUW9idmxwaU9ROVh6bkVaanlXSmxBUmlJUy0zMHRxTXZ1eVRqR1RyYW55WHViZGotNWxjQkFmMjBObjExcm5xMUVULVFQNTZ0MVdPWVhVVFM4a2xmejNOSWI3RTVuVjhNd1VndllPMFd6XzVzbVJjVEFEM0RxYk9xamNCQ0N6RExud2FvUWZ2UTFNbEl6cXFLa1QwREFOaThnbGNJaFpLYzZ2MkJFNUxpck5NMzZJaHBMMjNWN1RMZWpkMHI3MXB4VXM1X3dBMmVyUkRVaHpCUHZQUC03d0pxUDIyclJZTzk1blFOclE?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "verra-vcs-6004",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3313,29 +3338,6 @@
         "creditingPeriodStart": "2025-06-16",
         "creditingPeriodEnd": "2057-06-15",
         "program": "Verified Carbon Standard"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
-      "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
-      "publishedAt": "2026-04-14T07:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
       },
       "region": "india"
     },
@@ -3901,16 +3903,16 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
+      "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
-      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
-      "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
-      "publishedAt": "2025-11-12T08:00:00.000Z",
+      "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
+      "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
+      "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
+      "publishedAt": "2025-12-10T08:00:00.000Z",
       "image": null,
       "country": null,
       "methodology": null,
@@ -3919,7 +3921,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
       },
       "region": "world"
     },
