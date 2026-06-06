@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-05T19:25:11.495Z",
+  "fetchedAt": "2026-06-06T01:49:31.419Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,7 +47,7 @@
     "total": 86,
     "india": 23,
     "world": 63,
-    "withImages": 56,
+    "withImages": 54,
     "avgExcerptLength": 432,
     "verra": 10,
     "registry": 24,
@@ -55,6 +55,30 @@
   },
   "sections": {
     "india": [
+      {
+        "id": "google-india-climate-finance-gap-gives-brics-a-larger-2026-05-31",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Climate finance gap gives BRICS a larger role in 2026 | Policy Circle - Policy Circle",
+        "excerpt": "Climate finance challenge : Climate policy is moving from pledges to pricing. For developing economies, the issue is no longer only how fast they can cut emissions. It is also how much they must pay for the transition, who will finance it and whether climate rules will become another layer of trade discrimination. The shift is already visible. The EU s Carbon Border Adjustment Mechanism entered its definitive phase on January 1, 2026, requiring importers of covered goods to account for embedded carbon emissions. The UK will introduce its own CBAM from…",
+        "url": "https://www.policycircle.org/opinion/climate-finance-brics-agenda/",
+        "publishedAt": "2026-05-31T01:30:21.000Z",
+        "image": "https://www.policycircle.org/wp-content/uploads/2026/05/CLIM10.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMVERFWHNYeU9XX0sya05WY0E1OXVOTW0yZ2NKa2dYOGt2aWVtQnh5UHJsVHY3S0owaUxxZ0FwdnhUOTB1TncxTktVYmRJekJXQnRNRUduNjlMQTdtZ25DOEIwNmJfcWVxZFN3dUk4RVNoT1960gF6QVVfeXFMTmJPWnEzcDJ0M1NjRFJDWk1oSE9RbGlsajg0Nm5XSFlPd3Etc2JMaDNoaU9BMWFfdThDNkNmTlFLNlhsVWNUMEptNmNLTmJkOVdCZHduWlZGaUlPd0pCS21WZE5heGFxWm1Od0Z2RjRWWERCOE00cHQ5bkE?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
       {
         "id": "carbon-brief-debriefed-29-may-2026-europe-s-mind-bogg-2026-05-29",
         "source": "carbon-brief",
@@ -175,25 +199,25 @@
         "region": "india"
       },
       {
-        "id": "google-india-ccts-to-keep-near-term-costs-manageable--2026-04-22",
+        "id": "google-india-modelling-insights-and-design-choices-fo-2026-04-23",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "CCTS to keep near-term costs manageable but raise long-term pressure on cement, aluminium firms: ICRA ESG - ET Infra",
-        "excerpt": "By commenting, you agree to the Prohibited Content Policy By commenting, you agree to the Prohibited Content Policy See whats happening in Infrastructure sector right now Explore and discuss challenges & trends in India's leading B2B events Recognise work that not only stood out but was also purposeful Join leaders & experts for roundtables, conferences, panels and discussions By continuing you agree to our Privacy Policy & Terms & Conditions We have various options to advertise with us including Events, Advertorials, Banners, Mailers, etc. Save your…",
-        "url": "https://infra.economictimes.indiatimes.com/news/construction/indias-carbon-credit-trading-scheme-managing-costs-and-emission-pressures-for-cement-and-aluminium-industries/130441115",
-        "publishedAt": "2026-04-22T07:00:00.000Z",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130441115,imgsize-96112,width-1200,height=627,overlay-etinfra,resizemode-75/news/construction/indias-carbon-credit-trading-scheme-managing-costs-and-emission-pressures-for-cement-and-aluminium-industries.jpg",
-        "country": null,
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Modelling insights and design choices for a credible Indian carbon market: Workshop summary report - IEEFA | Institute for Energy Economics and Financial Analysis",
+        "excerpt": " Language Newsroom View the IEEFA Newsroom Insights Reports Fact Sheets Testimony/Submission Briefing Note Slides Press Releases Media Inquiries In the Media Research View all research Or browse one of our major research areas below Coal Petrochemicals Climate Finance Carbon Capture & Storage Renewables & Storage Energy Transition & Policy Oil/Gas & LNG Power & Utilities Steel Regions North America Asia Europe South Asia Australia About What We Do Who We Are Conference Contact Us Employment Events Subscribe  Language  Language  About the Authors…",
+        "url": "https://ieefa.org/resources/modelling-insights-and-design-choices-credible-indian-carbon-market-workshop-summary",
+        "publishedAt": "2026-04-23T07:00:00.000Z",
+        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-04/CCS-shutterstock_1555865300.jpg?itok=iLGz4_jn",
+        "country": "India",
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTWEtbFlRY18zS0QzWWg3ZVNBYVJkd09RU3R4dXQ0WlZmWHROOXdCa0x1Z2x0TENQTUlBdFl6OUJKOHNFSlUzMXp4dm1iSkROLVBvRFlvNGJLT0JPeTdfNlhtQjhnaHQ1d1FqLVJGVEtBSlZPYnhwa0J0ZkliTDllYnFNRl9WaXhkZ2xCWURQQmZXQU5BQ2FCa09UaGRrY25fcmlvVjZMbnczU1dwbmVENGptOENVWEJjYnlNbUlyUFJHQ1Y3ajdYaWliT3FRNmNnUENsQi1zUWQ3Sy1fd1NfbVFETy1kclFhak1JNHNIMU5YYWF0VGxENW1NclFaY2RfTUZGanZZaFVtTkhW0gGSAkFVX3lxTE9BdFd5TFJMaFhndGEzODBKR0Z1U3ppRW8wMEl6TF9VZjFhZ0loUW9idmxwaU9ROVh6bkVaanlXSmxBUmlJUy0zMHRxTXZ1eVRqR1RyYW55WHViZGotNWxjQkFmMjBObjExcm5xMUVULVFQNTZ0MVdPWVhVVFM4a2xmejNOSWI3RTVuVjhNd1VndllPMFd6XzVzbVJjVEFEM0RxYk9xamNCQ0N6RExud2FvUWZ2UTFNbEl6cXFLa1QwREFOaThnbGNJaFpLYzZ2MkJFNUxpck5NMzZJaHBMMjNWN1RMZWpkMHI3MXB4VXM1X3dBMmVyUkRVaHpCUHZQUC03d0pxUDIyclJZTzk1blFOclE?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemt4aE9zOTJrZ3pYQVFKWmg1c2xGQjR2RjNRNU9nXzgtVzNiTlUwc2RsSGJ4ejRldUg3OHJmYmpmSFJXS1lXME9Ec1ctWFpjVFhQZ0FFdkdYZHNHSHMxTjA3OXNtYWowS2x3YlhZcXVscXh6eU5EUk1QLTRGV0ZFQzlzZVh3dnJTN0JNMngtRk81REVZRndUZ0JLQUVVV3YyT01GOW5ERFBzMVl6MlVhV0xn?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -367,30 +391,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxORU40NERySjF1ZVh1cGlYZzdHa09sblVKYlNHRHktbUw0UUxhbzliTWc5SFNSb3BWRnBRMUsxa2lEa01BR055Qk1LVWtrejMzQm9xeUhvcUkxSUJpOWwxNkxsRDdoaDBwUmhGS0pDNnI4d0Eya2RZc2lhcHNCYm5HZXdjWDRlRjhRODRhaG5Iazdya2FtYjRyb3JtWUVaWFp5bWtZVy1vUWo4VnZMOFhZOS15NHNhVExMZUpvaDBOWUhELVdXRTJPN2hyTGVaVUhwWDFqZ01FWnRyNUJyV1J5ZUlRdHFwbjl2bHVKZ25LWmJSVjRlaTFuNnFXZkNic2Ztd3JfRTRPb1lJX2ZqZW1lVlJTMHZGSm5taU50NlEtcXlpcHBpeFBoT0x4dlRXV2l6azZhWVY3UXRMczBRekZpNXA5RjNkWjR6MzBvQ0RRc0lidw?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-india-s-carbon-market-portal-goes-live-a-2026-03-24",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India’s Carbon Market Portal Goes Live as Carbon Credit Trading Nears - CarbonCredits.com",
-        "excerpt": "India has taken a major step toward building a working carbon market. The government has launched the Indian Carbon Market Portal, a central digital platform that will support the Carbon Credit Trading Scheme, or CCTS. With this move, India is no longer just designing its carbon market on paper. It is now putting the system into action. The portal was launched at the International Conference on Carbon Markets, Prakriti 2026 , held in New Delhi. Union Power Minister Manohar Lal said formal trading in carbon credit certificates is expected to begin within…",
-        "url": "https://carboncredits.com/indias-carbon-market-portal-goes-live-as-carbon-credit-trading-nears/",
-        "publishedAt": "2026-03-24T07:00:00.000Z",
-        "image": "https://carboncredits.com/wp-content/uploads/2026/03/shutterstock_2544703617.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ1JxYUoxZEdWR0lOV3R2enZlMWd1dnNCWTU1dVJJbkVwZ3U1WlY3eGlvamFYXzZfS3FoWUZpdEwwVmN5dkU1emNoSXN5Y0d0a2NvRFR6RDVKajctWnJXOHg3RkJoaHVKYWlWY2hyXzdENlNRdG1SMmRrdFJteHcybjdqLWp5aU1WZ2VpTWh3eWdETG5peUliWU9IYw?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -611,6 +611,28 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-howgood-sweep-partner-to-track-carbon-fo-2026-06-05",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "HowGood, Sweep partner to track carbon footprint of food, agriculture products",
+        "excerpt": "The carbon accounting companies partnership aims to help food and agriculture businesses incorporate ingredient- and product-level emissions data into broader sustainability reporting efforts.",
+        "url": "https://www.esgdive.com/news/howgood-sweep-partner-to-track-carbon-footprint-of-food-agriculture-products/822183/",
+        "publishedAt": "2026-06-05T19:46:10.000Z",
+        "image": "https://imgproxy.divecdn.com/KN7_JlHLstMlFvQH2cHnl8GmF9BjAf43GG9ycA3_ODY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTg4Mjk4ODg0LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-jpmorgan-signs-carbon-offtake-and-financ-2026-06-05",
         "source": "esg-dive",
@@ -1164,28 +1186,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-democratic-finance-officers-rebut-republ-2026-06-02",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Democratic finance officers rebut Republican assertions to credit agencies: Exclusive",
-        "excerpt": "The state and local finance officers sent a letter to Fitch, Moody s and S P last month urging the companies to maintain independent, forward-looking risk assessments as part of their ratings frameworks.",
-        "url": "https://www.esgdive.com/news/dem-finance-officials-urge-credit-ratings-fitch-moodys-s-p-maintain-forward-looking-risk-analysis/821738/",
-        "publishedAt": "2026-06-02T16:14:00.000Z",
-        "image": "https://imgproxy.divecdn.com/_jw6LnjI7eYZgHwqlNfxtZgHWMqtQmDbg6x2DHGveZM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MjYwNjk2MTRfYVl5aTNBZC5qcGc=.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-q-a-the-current-state-of-carbon-dioxide--2026-06-02",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1378,15 +1378,14 @@
         "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
         "url": "https://verra.org/projects-open-for-public-comment-may-18-2026/",
         "publishedAt": "2026-05-18T12:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2023/09/Food-waste_Shuttershock.png",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
+          "feed": "https://verra.org/feed/"
         },
         "region": "world"
       },
@@ -1472,15 +1471,14 @@
         "excerpt": "The deadline for responding to the Request for Proposals has been extended to June 1, 2026 . Verra is launching a public consultation on a revision to VM0045 Improved Forest Management using Dynamic Matched Baselines from National Forest Inventories, v1.2 (methodology development ID #M0289) in the Verified Carbon Standard (VCS) Program . This is a minor revision that would expand the methodology’s applicability beyond the United States by using national forest inventories (NFIs) that meet established criteria. The consultation will run from May 12…",
         "url": "https://verra.org/consultation-revision-to-improved-forest-management-methodology/",
         "publishedAt": "2026-05-12T16:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/imported/news/jan-huber-tree-sun-unsplash-scaled-jpg.jpg",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
+          "feed": "https://verra.org/feed/"
         },
         "region": "world"
       },
@@ -2077,6 +2075,28 @@
   },
   "articles": [
     {
+      "id": "esg-dive-howgood-sweep-partner-to-track-carbon-fo-2026-06-05",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "HowGood, Sweep partner to track carbon footprint of food, agriculture products",
+      "excerpt": "The carbon accounting companies partnership aims to help food and agriculture businesses incorporate ingredient- and product-level emissions data into broader sustainability reporting efforts.",
+      "url": "https://www.esgdive.com/news/howgood-sweep-partner-to-track-carbon-footprint-of-food-agriculture-products/822183/",
+      "publishedAt": "2026-06-05T19:46:10.000Z",
+      "image": "https://imgproxy.divecdn.com/KN7_JlHLstMlFvQH2cHnl8GmF9BjAf43GG9ycA3_ODY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTg4Mjk4ODg0LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-jpmorgan-signs-carbon-offtake-and-financ-2026-06-05",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2629,28 +2649,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-democratic-finance-officers-rebut-republ-2026-06-02",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Democratic finance officers rebut Republican assertions to credit agencies: Exclusive",
-      "excerpt": "The state and local finance officers sent a letter to Fitch, Moody s and S P last month urging the companies to maintain independent, forward-looking risk assessments as part of their ratings frameworks.",
-      "url": "https://www.esgdive.com/news/dem-finance-officials-urge-credit-ratings-fitch-moodys-s-p-maintain-forward-looking-risk-analysis/821738/",
-      "publishedAt": "2026-06-02T16:14:00.000Z",
-      "image": "https://imgproxy.divecdn.com/_jw6LnjI7eYZgHwqlNfxtZgHWMqtQmDbg6x2DHGveZM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MjYwNjk2MTRfYVl5aTNBZC5qcGc=.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-q-a-the-current-state-of-carbon-dioxide--2026-06-02",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2717,6 +2715,30 @@
         "imageSource": "publisher"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-climate-finance-gap-gives-brics-a-larger-2026-05-31",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Climate finance gap gives BRICS a larger role in 2026 | Policy Circle - Policy Circle",
+      "excerpt": "Climate finance challenge : Climate policy is moving from pledges to pricing. For developing economies, the issue is no longer only how fast they can cut emissions. It is also how much they must pay for the transition, who will finance it and whether climate rules will become another layer of trade discrimination. The shift is already visible. The EU s Carbon Border Adjustment Mechanism entered its definitive phase on January 1, 2026, requiring importers of covered goods to account for embedded carbon emissions. The UK will introduce its own CBAM from…",
+      "url": "https://www.policycircle.org/opinion/climate-finance-brics-agenda/",
+      "publishedAt": "2026-05-31T01:30:21.000Z",
+      "image": "https://www.policycircle.org/wp-content/uploads/2026/05/CLIM10.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMVERFWHNYeU9XX0sya05WY0E1OXVOTW0yZ2NKa2dYOGt2aWVtQnh5UHJsVHY3S0owaUxxZ0FwdnhUOTB1TncxTktVYmRJekJXQnRNRUduNjlMQTdtZ25DOEIwNmJfcWVxZFN3dUk4RVNoT1960gF6QVVfeXFMTmJPWnEzcDJ0M1NjRFJDWk1oSE9RbGlsajg0Nm5XSFlPd3Etc2JMaDNoaU9BMWFfdThDNkNmTlFLNlhsVWNUMEptNmNLTmJkOVdCZHduWlZGaUlPd0pCS21WZE5heGFxWm1Od0Z2RjRWWERCOE00cHQ5bkE?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "carbon-brief-debriefed-29-may-2026-europe-s-mind-bogg-2026-05-29",
@@ -2889,15 +2911,14 @@
       "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
       "url": "https://verra.org/projects-open-for-public-comment-may-18-2026/",
       "publishedAt": "2026-05-18T12:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2023/09/Food-waste_Shuttershock.png",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
+        "feed": "https://verra.org/feed/"
       },
       "region": "world"
     },
@@ -3008,15 +3029,14 @@
       "excerpt": "The deadline for responding to the Request for Proposals has been extended to June 1, 2026 . Verra is launching a public consultation on a revision to VM0045 Improved Forest Management using Dynamic Matched Baselines from National Forest Inventories, v1.2 (methodology development ID #M0289) in the Verified Carbon Standard (VCS) Program . This is a minor revision that would expand the methodology’s applicability beyond the United States by using national forest inventories (NFIs) that meet established criteria. The consultation will run from May 12…",
       "url": "https://verra.org/consultation-revision-to-improved-forest-management-methodology/",
       "publishedAt": "2026-05-12T16:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/imported/news/jan-huber-tree-sun-unsplash-scaled-jpg.jpg",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
+        "feed": "https://verra.org/feed/"
       },
       "region": "world"
     },
@@ -3194,25 +3214,25 @@
       "region": "world"
     },
     {
-      "id": "google-india-ccts-to-keep-near-term-costs-manageable--2026-04-22",
+      "id": "google-india-modelling-insights-and-design-choices-fo-2026-04-23",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "CCTS to keep near-term costs manageable but raise long-term pressure on cement, aluminium firms: ICRA ESG - ET Infra",
-      "excerpt": "By commenting, you agree to the Prohibited Content Policy By commenting, you agree to the Prohibited Content Policy See whats happening in Infrastructure sector right now Explore and discuss challenges & trends in India's leading B2B events Recognise work that not only stood out but was also purposeful Join leaders & experts for roundtables, conferences, panels and discussions By continuing you agree to our Privacy Policy & Terms & Conditions We have various options to advertise with us including Events, Advertorials, Banners, Mailers, etc. Save your…",
-      "url": "https://infra.economictimes.indiatimes.com/news/construction/indias-carbon-credit-trading-scheme-managing-costs-and-emission-pressures-for-cement-and-aluminium-industries/130441115",
-      "publishedAt": "2026-04-22T07:00:00.000Z",
-      "image": "https://etimg.etb2bimg.com/thumb/msid-130441115,imgsize-96112,width-1200,height=627,overlay-etinfra,resizemode-75/news/construction/indias-carbon-credit-trading-scheme-managing-costs-and-emission-pressures-for-cement-and-aluminium-industries.jpg",
-      "country": null,
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Modelling insights and design choices for a credible Indian carbon market: Workshop summary report - IEEFA | Institute for Energy Economics and Financial Analysis",
+      "excerpt": " Language Newsroom View the IEEFA Newsroom Insights Reports Fact Sheets Testimony/Submission Briefing Note Slides Press Releases Media Inquiries In the Media Research View all research Or browse one of our major research areas below Coal Petrochemicals Climate Finance Carbon Capture & Storage Renewables & Storage Energy Transition & Policy Oil/Gas & LNG Power & Utilities Steel Regions North America Asia Europe South Asia Australia About What We Do Who We Are Conference Contact Us Employment Events Subscribe  Language  Language  About the Authors…",
+      "url": "https://ieefa.org/resources/modelling-insights-and-design-choices-credible-indian-carbon-market-workshop-summary",
+      "publishedAt": "2026-04-23T07:00:00.000Z",
+      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-04/CCS-shutterstock_1555865300.jpg?itok=iLGz4_jn",
+      "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTWEtbFlRY18zS0QzWWg3ZVNBYVJkd09RU3R4dXQ0WlZmWHROOXdCa0x1Z2x0TENQTUlBdFl6OUJKOHNFSlUzMXp4dm1iSkROLVBvRFlvNGJLT0JPeTdfNlhtQjhnaHQ1d1FqLVJGVEtBSlZPYnhwa0J0ZkliTDllYnFNRl9WaXhkZ2xCWURQQmZXQU5BQ2FCa09UaGRrY25fcmlvVjZMbnczU1dwbmVENGptOENVWEJjYnlNbUlyUFJHQ1Y3ajdYaWliT3FRNmNnUENsQi1zUWQ3Sy1fd1NfbVFETy1kclFhak1JNHNIMU5YYWF0VGxENW1NclFaY2RfTUZGanZZaFVtTkhW0gGSAkFVX3lxTE9BdFd5TFJMaFhndGEzODBKR0Z1U3ppRW8wMEl6TF9VZjFhZ0loUW9idmxwaU9ROVh6bkVaanlXSmxBUmlJUy0zMHRxTXZ1eVRqR1RyYW55WHViZGotNWxjQkFmMjBObjExcm5xMUVULVFQNTZ0MVdPWVhVVFM4a2xmejNOSWI3RTVuVjhNd1VndllPMFd6XzVzbVJjVEFEM0RxYk9xamNCQ0N6RExud2FvUWZ2UTFNbEl6cXFLa1QwREFOaThnbGNJaFpLYzZ2MkJFNUxpck5NMzZJaHBMMjNWN1RMZWpkMHI3MXB4VXM1X3dBMmVyUkRVaHpCUHZQUC03d0pxUDIyclJZTzk1blFOclE?oc=5",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemt4aE9zOTJrZ3pYQVFKWmg1c2xGQjR2RjNRNU9nXzgtVzNiTlUwc2RsSGJ4ejRldUg3OHJmYmpmSFJXS1lXME9Ec1ctWFpjVFhQZ0FFdkdYZHNHSHMxTjA3OXNtYWowS2x3YlhZcXVscXh6eU5EUk1QLTRGV0ZFQzlzZVh3dnJTN0JNMngtRk81REVZRndUZ0JLQUVVV3YyT01GOW5ERFBzMVl6MlVhV0xn?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -3688,30 +3708,6 @@
         "program": "Verified Carbon Standard"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-india-s-carbon-market-portal-goes-live-a-2026-03-24",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India’s Carbon Market Portal Goes Live as Carbon Credit Trading Nears - CarbonCredits.com",
-      "excerpt": "India has taken a major step toward building a working carbon market. The government has launched the Indian Carbon Market Portal, a central digital platform that will support the Carbon Credit Trading Scheme, or CCTS. With this move, India is no longer just designing its carbon market on paper. It is now putting the system into action. The portal was launched at the International Conference on Carbon Markets, Prakriti 2026 , held in New Delhi. Union Power Minister Manohar Lal said formal trading in carbon credit certificates is expected to begin within…",
-      "url": "https://carboncredits.com/indias-carbon-market-portal-goes-live-as-carbon-credit-trading-nears/",
-      "publishedAt": "2026-03-24T07:00:00.000Z",
-      "image": "https://carboncredits.com/wp-content/uploads/2026/03/shutterstock_2544703617.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ1JxYUoxZEdWR0lOV3R2enZlMWd1dnNCWTU1dVJJbkVwZ3U1WlY3eGlvamFYXzZfS3FoWUZpdEwwVmN5dkU1emNoSXN5Y0d0a2NvRFR6RDVKajctWnJXOHg3RkJoaHVKYWlWY2hyXzdENlNRdG1SMmRrdFJteHcybjdqLWp5aU1WZ2VpTWh3eWdETG5peUliWU9IYw?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "verra-vcs-5967",
