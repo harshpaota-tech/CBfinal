@@ -99,6 +99,8 @@ const translations = {
       worldSection: "World News",
       worldSectionSub: "Global ESG, GHG, Verra & voluntary carbon market updates",
       realImagesNote: "Images pulled from original articles — no stock photos",
+      seeMore: "See more",
+      showLess: "Show less",
     },
     demo: {
       tag: "Demo Website",
@@ -199,6 +201,8 @@ const translations = {
       worldSection: "विश्व समाचार",
       worldSectionSub: "वैश्विक ESG, GHG, Verra और कार्बन बाज़ार अपडेट",
       realImagesNote: "चित्र मूल लेखों से — कोई स्टॉक फोटो नहीं",
+      seeMore: "और देखें",
+      showLess: "कम दिखाएँ",
     },
     demo: {
       tag: "डेमो वेबसाइट",

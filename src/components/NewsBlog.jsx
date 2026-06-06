@@ -180,14 +180,6 @@ export default function NewsBlog({ setPage }) {
         {!loading && !error && region === "all" && (
           <>
             <NewsSectionBlock
-              emoji="🇮🇳"
-              title={t("news.indiaSection")}
-              subtitle={t("news.indiaSectionSub")}
-              articles={indiaArticles}
-              onSelect={setSelected}
-              accent="#fbbf24"
-            />
-            <NewsSectionBlock
               emoji="🌍"
               title={t("news.worldSection")}
               subtitle={t("news.worldSectionSub")}
@@ -195,19 +187,15 @@ export default function NewsBlog({ setPage }) {
               onSelect={setSelected}
               accent="#60a5fa"
             />
+            <NewsSectionBlock
+              emoji="🇮🇳"
+              title={t("news.indiaSection")}
+              subtitle={t("news.indiaSectionSub")}
+              articles={indiaArticles}
+              onSelect={setSelected}
+              accent="#fbbf24"
+            />
           </>
-        )}
-
-        {!loading && !error && region === "india" && (
-          <NewsSectionBlock
-            emoji="🇮🇳"
-            title={t("news.indiaSection")}
-            subtitle={t("news.indiaSectionSub")}
-            articles={indiaArticles}
-            onSelect={setSelected}
-            accent="#fbbf24"
-            solo
-          />
         )}
 
         {!loading && !error && region === "world" && (
@@ -218,6 +206,18 @@ export default function NewsBlog({ setPage }) {
             articles={worldArticles}
             onSelect={setSelected}
             accent="#60a5fa"
+            solo
+          />
+        )}
+
+        {!loading && !error && region === "india" && (
+          <NewsSectionBlock
+            emoji="🇮🇳"
+            title={t("news.indiaSection")}
+            subtitle={t("news.indiaSectionSub")}
+            articles={indiaArticles}
+            onSelect={setSelected}
+            accent="#fbbf24"
             solo
           />
         )}
@@ -247,8 +247,16 @@ export default function NewsBlog({ setPage }) {
   );
 }
 
+const INITIAL_VISIBLE = 6;
+
 function NewsSectionBlock({ emoji, title, subtitle, articles, onSelect, accent, solo = false }) {
+  const { t } = useTranslation();
+  const [expanded, setExpanded] = useState(false);
+
   if (!articles.length) return null;
+
+  const visible = expanded ? articles : articles.slice(0, INITIAL_VISIBLE);
+  const hasMore = articles.length > INITIAL_VISIBLE;
 
   return (
     <div style={{ marginBottom: solo ? 0 : 56 }}>
@@ -262,10 +270,33 @@ function NewsSectionBlock({ emoji, title, subtitle, articles, onSelect, accent, 
       </div>
       <div style={{ height: 2, background: `linear-gradient(90deg, ${accent}88, transparent)`, marginBottom: 24, borderRadius: 2 }} />
       <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit,minmax(300px,1fr))", gap: 22 }}>
-        {articles.map((item, i) => (
+        {visible.map((item, i) => (
           <NewsCard key={item.id || i} item={item} onOpen={() => onSelect(item)} />
         ))}
       </div>
+      {hasMore && (
+        <div style={{ textAlign: "center", marginTop: 28 }}>
+          <button
+            onClick={() => setExpanded((v) => !v)}
+            style={{
+              background: expanded ? "transparent" : `${accent}18`,
+              border: `1px solid ${accent}66`,
+              color: accent,
+              padding: "11px 26px",
+              borderRadius: 999,
+              fontSize: 13,
+              fontWeight: 800,
+              cursor: "pointer",
+              fontFamily: "inherit",
+              letterSpacing: 0.3,
+            }}
+          >
+            {expanded
+              ? `${t("news.showLess")} ▲`
+              : `${t("news.seeMore")} (${articles.length - INITIAL_VISIBLE}) ▼`}
+          </button>
+        </div>
+      )}
     </div>
   );
 }
@@ -463,8 +494,11 @@ export function NewsPreview({ setPage, limit = 3 }) {
           <div style={{ textAlign: "center", padding: 40, color: T.text3 }}>{t("news.loading")}</div>
         ) : (
           <>
-            <MiniSection emoji="🇮🇳" title={t("news.indiaSection")} articles={india} setPage={setPage} />
             <MiniSection emoji="🌍" title={t("news.worldSection")} articles={world} setPage={setPage} />
+            <MiniSection emoji="🇮🇳" title={t("news.indiaSection")} articles={india} setPage={setPage} />
+            <div style={{ textAlign: "center", marginTop: 8 }}>
+              <Btn onClick={() => setPage("news")}>{t("news.seeMore")} →</Btn>
+            </div>
           </>
         )}
       </div>
