@@ -1,20 +1,35 @@
 name: Update live news feed
 
+# Fully automated — no manual steps. Runs 4× daily + on demand.
+# After fetch: commits news-feed.json → pushes to main → triggers Render redeploy.
+
 on:
   schedule:
-    # Every 6 hours — keeps Verra + ESG news fresh on thecarbonbridge.com
-    - cron: "0 */6 * * *"
-  workflow_dispatch: # Manual trigger from GitHub Actions tab
+    # 6:30 AM IST (1:00 UTC)
+    - cron: "0 1 * * *"
+    # 12:30 PM IST (7:00 UTC)
+    - cron: "0 7 * * *"
+    # 6:30 PM IST (13:00 UTC)
+    - cron: "0 13 * * *"
+    # 12:30 AM IST (19:00 UTC)
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
 
 permissions:
   contents: write
 
 jobs:
-  fetch-news:
+  fetch-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -28,14 +43,28 @@ jobs:
       - name: Fetch live news feeds
         run: npm run fetch-news
 
-      - name: Commit updated news feed
+      - name: Commit and push updated news feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/news-feed.json
           if git diff --staged --quiet; then
-            echo "No news changes to commit."
+            echo "No news file changes — feed timestamp may still be fresh."
           else
-            git commit -m "chore: auto-update live news feed [skip ci]"
-            git push
+            git commit -m "chore: auto-update live news feed"
+            git push origin HEAD:main
+            echo "Pushed updated news-feed.json to main."
+          fi
+
+      - name: Trigger Render redeploy
+        env:
+          RENDER_DEPLOY_HOOK: ${{ secrets.RENDER_DEPLOY_HOOK }}
+        run: |
+          if [ -n "$RENDER_DEPLOY_HOOK" ]; then
+            echo "Triggering Render deploy hook…"
+            curl -fsS -X POST "$RENDER_DEPLOY_HOOK"
+            echo "Render redeploy triggered."
+          else
+            echo "RENDER_DEPLOY_HOOK secret not set — relying on git push to trigger Render."
+            echo "Add it in GitHub → Settings → Secrets → Actions for guaranteed redeploys."
           fi

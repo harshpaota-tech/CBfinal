@@ -14,6 +14,7 @@ import {
   NEWS_FILTERS,
   formatNewsDate,
 } from "../lib/news.js";
+import useNewsAutoRefresh from "../hooks/useNewsAutoRefresh.js";
 
 export default function NewsBlog({ setPage }) {
   const { t } = useTranslation();
@@ -42,6 +43,8 @@ export default function NewsBlog({ setPage }) {
   useEffect(() => {
     load();
   }, [load]);
+
+  useNewsAutoRefresh(() => load(true));
 
   const applyFilters = useCallback(
     (list) => searchArticles(filterArticles(list.map(normalizeArticle), topic), query),
@@ -91,7 +94,7 @@ export default function NewsBlog({ setPage }) {
             </div>
             {feed?.fetchedAt && (
               <div style={{ fontSize: 11, color: T.text3, marginTop: 4 }}>
-                {t("news.lastUpdated")}: {formatNewsDate(feed.fetchedAt)} · {t("news.autoRefresh")}
+                {t("news.lastUpdated")}: {formatNewsDate(feed.fetchedAt)} · {t("news.autoSchedule")}
               </div>
             )}
           </div>
@@ -353,7 +356,7 @@ function NewsCard({ item, onOpen }) {
         <h3 style={{ fontFamily: "'Outfit',sans-serif", fontWeight: 800, fontSize: 18, lineHeight: 1.3, color: T.text1, margin: "0 0 10px" }}>
           {item.title}
         </h3>
-        <p style={{ fontSize: 13, color: T.text2, lineHeight: 1.7, margin: 0, display: "-webkit-box", WebkitLineClamp: 6, WebkitBoxOrient: "vertical", overflow: "hidden" }}>{item.excerpt}</p>
+        <p style={{ fontSize: 13, color: T.text2, lineHeight: 1.65, margin: 0 }}>{item.excerpt}</p>
         <div style={{ marginTop: 14, fontSize: 12, fontWeight: 700, color: accent }}>
           {isExternal ? "READ ARTICLE →" : "VIEW PROJECT →"}
         </div>
@@ -383,7 +386,7 @@ function ArticleModal({ item, onClose }) {
         </div>
         <h2 style={{ fontFamily: "'Outfit',sans-serif", fontWeight: 900, fontSize: 24, lineHeight: 1.25, margin: "0 0 12px", color: T.text1 }}>{item.title}</h2>
         <div style={{ fontSize: 12, color: T.text3, marginBottom: 20 }}>{item.sourceName} · {formatNewsDate(item.publishedAt)}</div>
-        <p style={{ fontSize: 14, color: T.text2, lineHeight: 1.75, margin: "0 0 20px" }}>{item.excerpt}</p>
+        <p style={{ fontSize: 14, color: T.text2, lineHeight: 1.7, margin: "0 0 20px" }}>{item.excerpt}</p>
         {isRegistry && (
           <div style={{ background: T.bg2, border: `1px solid ${T.border}`, borderRadius: 14, padding: 16, marginBottom: 20, fontSize: 13, color: T.text2, lineHeight: 1.8 }}>
             {item.registryId && <div><strong style={{ color: T.text1 }}>VCS ID:</strong> {item.registryId}</div>}
@@ -414,8 +417,9 @@ export function NewsPreview({ setPage, limit = 3 }) {
   const [loading, setLoading] = useState(true);
   const [fetchedAt, setFetchedAt] = useState(null);
 
-  useEffect(() => {
-    loadNewsFeed()
+  const reload = useCallback((showLoading = false) => {
+    if (showLoading) setLoading(true);
+    loadNewsFeed({ force: true })
       .then((feed) => {
         const norm = (list) => (list || []).slice(0, limit).map(normalizeArticle);
         setIndia(norm(feed.sections?.india || feed.articles?.filter((a) => a.region === "india")));
@@ -428,6 +432,12 @@ export function NewsPreview({ setPage, limit = 3 }) {
       })
       .finally(() => setLoading(false));
   }, [limit]);
+
+  useEffect(() => {
+    reload(true);
+  }, [reload]);
+
+  useNewsAutoRefresh(() => reload(false));
 
   return (
     <section style={{ padding: "80px 24px", background: T.bg0 }}>
