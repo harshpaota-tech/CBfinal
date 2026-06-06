@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-06T14:28:19.041Z",
+  "fetchedAt": "2026-06-06T20:07:32.816Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 86,
     "india": 23,
     "world": 63,
-    "withImages": 57,
-    "avgExcerptLength": 438,
+    "withImages": 55,
+    "avgExcerptLength": 428,
     "verra": 10,
     "registry": 24,
     "esg": 52
@@ -171,30 +171,6 @@
           "creditingPeriodStart": "2025-05-22",
           "creditingPeriodEnd": "2032-05-21",
           "program": "Verified Carbon Standard"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-the-brics-climate-stress-test-india-s-op-2026-05-02",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture - The Diplomat – Asia-Pacific Current Affairs Magazine",
-        "excerpt": "All Sections Search Read The Diplomat , Know The Asia-Pacific Diplomat Brief Weekly Newsletter The Diplomat Home Page About Us Contact Us Write for Us Advertise Syndicate Privacy Newsletter Subscriptions Flashpoints The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture Recent Features Economy India’s Eye in the Sky: The Rise of a State-Deep Tech Startup Space Partnership Diplomacy Did China Overestimate the Geopolitical Returns of Its Latin America Strategy? Opinion Fixing AI in Conflict Photo Essays Nature…",
-        "url": "https://thediplomat.com/2026/05/the-brics-climate-stress-test-indias-opportunity-to-reshape-global-climate-finance-architecture/",
-        "publishedAt": "2026-05-02T07:00:00.000Z",
-        "image": "https://thediplomat.com/wp-content/uploads/2025/10/sizes/td-story-s-2/thediplomat_2025-10-08-173414.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGtXNFB0OXhYNnkwQVZPX2xTNnNDbEdfUUhfTEVYTTk0OWF2cFVWSWNNN3hrR1NQRG1ScjR4WkMtYl8wWXRWck9ZMDlWdDc3YlZmdnRPbnFaNzdDN0pmYUx6bmZVaGdqS3RWTGRraXMtUWd3MGFkTTJ5bmVPT0haRnVTZ0ptUy1ETDNiOUNGZkdCVVRsU2pCb2FsRmRvTWpGa3RUZXJZY1N0dDk2ckp1RTYtV3JOWWU0VUhYdmpjcWNhbl80TXBr?oc=5",
-          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -443,30 +419,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-digital-pathways-to-net-zero-union-power-2026-03-21",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Digital Pathways to Net Zero: Union Power Minister Launches Indian Carbon Market Portal - The Policy Edge",
-        "excerpt": "SDG 13: Climate Action | SDG 7: Affordable and Clean Energy | SDG 9: Industry, Innovation and Infrastructure Ministry of Power MoP | Ministry of Environment, Forest and Climate Change MoEFCC | Bureau of Energy Efficiency BEE Listen to article Audio version The Union Minister for Power, Shri Manohar Lal, has officially launched the Indian Carbon Market Portal (www.indiancarbonmarket.gov.in) during the inauguration of The International Conference on Carbon Markets- Prakriti 2026 in New Delhi. Positioned as the central digital infrastructure for…",
-        "url": "https://www.policyedge.in/p/digital-pathways-to-net-zero-union-power-minister-launches-indian-carbon-market-portal",
-        "publishedAt": "2026-03-21T07:00:00.000Z",
-        "image": "https://my-strapi-buckets.s3.eu-north-1.amazonaws.com/uploads/Policy_Bites_Cover_252aa8ff70.png",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazM3ZHJoaGFPNV9kc1c4VkZHUVdrZUNVSjVWc2xIWTJZQ0RjLXo0WThyejhDaTRFb2NtV0NpZGVONmlDZU1jT2FUekE1SzNIMFlJRUZqUXlQeDA0MVluY01ZVWFsMmNxUkluOFVwMzJSRjhNZ2hGTVo2VHQ3QTNPWDJIekF5bmo4d1Z1dEtjWnBNTFh3Q2ZGd0Y1SUNYX05zNkVuTjBTVTd5SlBJTm9WbE15aF8?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-carbon-credits-climate-policy-and-the-fu-2026-03-10",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -534,6 +486,53 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-what-can-india-s-bilateral-carbon-credit-2025-11-07",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "What can India’s bilateral carbon credit deals learn from the centralised global carbon market? - carboncopy.info",
+        "excerpt": "Carbon credit transfer could impact India’s NDC target. Visuals: Paridhi Choudhary India has entered the global carbon trading arena, recently signing a Memorandum of Cooperation with Japan on the Joint Crediting Mechanism (JCM). The mechanism allows Japan to invest in greenhouse gas-reduction projects in partner countries like India and earn carbon credits in return—making it India’s first bilateral carbon market deal under Article 6.2 (A6.2) of the Paris Agreement. A decade since that landmark climate accord, this move signals how carbon markets are…",
+        "url": "https://carboncopy.info/what-can-indias-bilateral-carbon-credit-deals-learn-from-the-centralised-global-carbon-market",
+        "publishedAt": "2025-11-07T08:00:00.000Z",
+        "image": "https://cms.carboncopy.info/assets/d35d9803-5fef-4d4b-b5fc-2c2057dcec91",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNck1fVUNZUklKbU5Ma0JqTjhqZWVfdXN2Qzk5MEdtZVRlV2h1MEtGT0l1RWpBbEpkYko4bWRyM081RXppSkVHck1DaU4tVEFQOGJuQXVhN3QwbVpRVHNFTWp4OEhHcVduMkQzV0tKUzAweGlMZDV5cXR3c2NDV0lONGxOdnFmWHpRZmt5U3RpN2lvSVZqR3hGMC0yQjZhN19lMi0yU2RxUnlnVXFuNVpNUmhFeGQ2b3VZ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-strengthening-india-s-carbon-market-the--2025-10-30",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS - IEEFA | Institute for Energy Economics and Financial Analysis",
+        "excerpt": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS IEEFA | Institute for Energy Economics and Financial Analysis",
+        "url": "https://ieefa.org/resources/strengthening-indias-carbon-market-case-stability-mechanism-indias-ccts",
+        "publishedAt": "2025-10-30T07:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1ltNkRHcU9aT3N6YUJkSkRWOEFWQkpyMHBhOFlhWUk0OXZoclp2eDgwaUlFNDBwTWI2anh1eF9kaU1mWUcwSkVhX0hDUUFGbGhCQ1pUSFZWamlCQi0yZDljejM0MmE1dmRmNjB4ajVDNWpKZlVIS1g3Y2ZzaDJreHFQWmJGQXFMWlJ6LWgzVjdXNE4zWkpNTkQzSXJDclhw?oc=5"
         },
         "region": "india"
       },
@@ -1964,33 +1963,9 @@
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
         "title": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability - Fastmarkets",
-        "excerpt": "Rather than pursuing scale, buyers increasingly prioritized quality, compliance eligibility, durability and reputational survivability, reshaping carbon credit demand across registries, project types and deal structures. Retirements across Verra, Gold Standard, ACR, Climate Action Reserve (CAR), ART, Puro and Cercarbono totaled 169 million tonnes of CO2 equivalent (tCO2e) in 2025, slightly down from 174.5 million tCO2e a year earlier but broadly in line with the just under 170 million tCO2e retired annually across 2021-2023. This shift was reflected at…",
+        "excerpt": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability Fastmarkets",
         "url": "https://www.fastmarkets.com/insights/carbon-credit-demand-plateaued-in-2025-as-buyers-sorted-by-quality-compliance-and-durability/",
         "publishedAt": "2026-02-03T08:00:00.000Z",
-        "image": "https://www.fastmarkets.com/tachyon/2026/02/Carbon-credit-demand-plateaued-in-2025-scaled.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-verra-applies-first-corsia-labels-to-vol-2026-02-02",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa - Carbon Herald",
-        "excerpt": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa Carbon Herald",
-        "url": "https://carbonherald.com/verra-applies-first-corsia-labels-to-voluntary-carbon-credits-from-africa/",
-        "publishedAt": "2026-02-02T08:00:00.000Z",
         "image": null,
         "country": null,
         "methodology": null,
@@ -1999,7 +1974,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNGdzd3Q2FlTGZuMU5Wbm9iT1F3NnkwRzRGeE5Ic0x0U2lxdWMxV19ESUkzUVN2R21oZnVCZEx0TXdHcGFObUNackdvV0hYd3JVck9HbnB2Mk1kM2lXM3hoaURJVURydVlaYW1rTG9TaEdmdE9ZVUxrS0Nwa1hfX1BfYXVmTExGSFNaQkQtMU5KRTE4Rnh1TVNtbkV0SHV4?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5"
         },
         "region": "world"
       },
@@ -2028,16 +2003,16 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
+        "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
-        "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
-        "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
-        "publishedAt": "2025-12-10T08:00:00.000Z",
+        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+        "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+        "publishedAt": "2025-11-12T08:00:00.000Z",
         "image": null,
         "country": null,
         "methodology": null,
@@ -2046,22 +2021,22 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
         },
         "region": "world"
       },
       {
-        "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
+        "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
-        "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
-        "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
-        "publishedAt": "2023-12-04T08:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon markets are incomplete without nuclear - Utility Dive",
+        "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
+        "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
+        "publishedAt": "2025-09-23T07:00:00.000Z",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -2069,7 +2044,30 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-verra-and-gold-standard-release-insuranc-2025-07-22",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra and Gold Standard Release Insurance Framework for CORSIA-Eligible Credits - ClearBlue Markets",
+        "excerpt": "On July 16 and 17, 2025, Verra and Gold Standard each announced new insurance frameworks and eligibility criteria aimed at supporting the integrity of CORSIA-eligible carbon credits. These insurance mechanisms are designed to address political risks associated with the potential double counting of emission reductions. As CORSIA enters a new phase of implementation, these developments represent a critical advancement in strengthening the credibility of the program, directly addressing one of its most prominent criticisms. The Carbon Offsetting and…",
+        "url": "https://www.clearbluemarkets.com/knowledge-base/verra-and-gold-standard-release-insurance-framework-for-corsia-eligible-credits",
+        "publishedAt": "2025-07-22T07:00:00.000Z",
+        "image": "https://www.clearbluemarkets.com/hubfs/Blog%20images%20(62).png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0tGTnd1eDdJYWdKeXp3MkFRT2hDWkxqMzF4R1JZWmRQakNnY0s0NUZQcFF3ZzcxWEdRVkE1WWRIaG1fcmNmclZrTXBZT0cwdDFsSjZrMU1nN3VXRk9kYU9ZWEpocWh3cW9DVW41c3ZwWXF3eHNES0dWb2tiSW1yUXJldUNvclZRZTZqTi1NclpGZzlaWmZrN2g4cFpaWHgwZHpUbXR0Q2Z6TksxbERrVWNmZDBwU01nazdSMUJiZm4wSzM1YmfSAdYBQVVfeXFMTklTZ2poX3lBMXNBekhlR1dRV1dVck1xWHJtSUlUVkRObTBIb1gzekJIcHVXWFhYOEdsR3VhZmNVSmRQR1d3RGJ4RU5qUzR0cElxVjI2MVBDX0FycjQ1T2dXdlBLLUdwYjZmV0R5d2pLSUVGRWFnR1duSE5WN2RlQ0lqaHRvQ212b1c4Y0JPNzhrX2dDNG9jY3pjWmJiYWZYX2FsNW5JWjNXTXF1NXJ2QVBvY201RTdxXzI3SEFTY042dUJvZ05uNlZxeHd1eG9ndzI0SnhZZw?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -3095,30 +3093,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-the-brics-climate-stress-test-india-s-op-2026-05-02",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture - The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "excerpt": "All Sections Search Read The Diplomat , Know The Asia-Pacific Diplomat Brief Weekly Newsletter The Diplomat Home Page About Us Contact Us Write for Us Advertise Syndicate Privacy Newsletter Subscriptions Flashpoints The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture Recent Features Economy India’s Eye in the Sky: The Rise of a State-Deep Tech Startup Space Partnership Diplomacy Did China Overestimate the Geopolitical Returns of Its Latin America Strategy? Opinion Fixing AI in Conflict Photo Essays Nature…",
-      "url": "https://thediplomat.com/2026/05/the-brics-climate-stress-test-indias-opportunity-to-reshape-global-climate-finance-architecture/",
-      "publishedAt": "2026-05-02T07:00:00.000Z",
-      "image": "https://thediplomat.com/wp-content/uploads/2025/10/sizes/td-story-s-2/thediplomat_2025-10-08-173414.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGtXNFB0OXhYNnkwQVZPX2xTNnNDbEdfUUhfTEVYTTk0OWF2cFVWSWNNN3hrR1NQRG1ScjR4WkMtYl8wWXRWck9ZMDlWdDc3YlZmdnRPbnFaNzdDN0pmYUx6bmZVaGdqS3RWTGRraXMtUWd3MGFkTTJ5bmVPT0haRnVTZ0ptUy1ETDNiOUNGZkdCVVRsU2pCb2FsRmRvTWpGa3RUZXJZY1N0dDk2ckp1RTYtV3JOWWU0VUhYdmpjcWNhbl80TXBr?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "verra-vcs-6019",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3787,30 +3761,6 @@
       "region": "india"
     },
     {
-      "id": "google-india-digital-pathways-to-net-zero-union-power-2026-03-21",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Digital Pathways to Net Zero: Union Power Minister Launches Indian Carbon Market Portal - The Policy Edge",
-      "excerpt": "SDG 13: Climate Action | SDG 7: Affordable and Clean Energy | SDG 9: Industry, Innovation and Infrastructure Ministry of Power MoP | Ministry of Environment, Forest and Climate Change MoEFCC | Bureau of Energy Efficiency BEE Listen to article Audio version The Union Minister for Power, Shri Manohar Lal, has officially launched the Indian Carbon Market Portal (www.indiancarbonmarket.gov.in) during the inauguration of The International Conference on Carbon Markets- Prakriti 2026 in New Delhi. Positioned as the central digital infrastructure for…",
-      "url": "https://www.policyedge.in/p/digital-pathways-to-net-zero-union-power-minister-launches-indian-carbon-market-portal",
-      "publishedAt": "2026-03-21T07:00:00.000Z",
-      "image": "https://my-strapi-buckets.s3.eu-north-1.amazonaws.com/uploads/Policy_Bites_Cover_252aa8ff70.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazM3ZHJoaGFPNV9kc1c4VkZHUVdrZUNVSjVWc2xIWTJZQ0RjLXo0WThyejhDaTRFb2NtV0NpZGVONmlDZU1jT2FUekE1SzNIMFlJRUZqUXlQeDA0MVluY01ZVWFsMmNxUkluOFVwMzJSRjhNZ2hGTVo2VHQ3QTNPWDJIekF5bmo4d1Z1dEtjWnBNTFh3Q2ZGd0Y1SUNYX05zNkVuTjBTVTd5SlBJTm9WbE15aF8?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-carbon-credits-climate-policy-and-the-fu-2026-03-10",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -3889,33 +3839,9 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability - Fastmarkets",
-      "excerpt": "Rather than pursuing scale, buyers increasingly prioritized quality, compliance eligibility, durability and reputational survivability, reshaping carbon credit demand across registries, project types and deal structures. Retirements across Verra, Gold Standard, ACR, Climate Action Reserve (CAR), ART, Puro and Cercarbono totaled 169 million tonnes of CO2 equivalent (tCO2e) in 2025, slightly down from 174.5 million tCO2e a year earlier but broadly in line with the just under 170 million tCO2e retired annually across 2021-2023. This shift was reflected at…",
+      "excerpt": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability Fastmarkets",
       "url": "https://www.fastmarkets.com/insights/carbon-credit-demand-plateaued-in-2025-as-buyers-sorted-by-quality-compliance-and-durability/",
       "publishedAt": "2026-02-03T08:00:00.000Z",
-      "image": "https://www.fastmarkets.com/tachyon/2026/02/Carbon-credit-demand-plateaued-in-2025-scaled.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-verra-applies-first-corsia-labels-to-vol-2026-02-02",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa - Carbon Herald",
-      "excerpt": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa Carbon Herald",
-      "url": "https://carbonherald.com/verra-applies-first-corsia-labels-to-voluntary-carbon-credits-from-africa/",
-      "publishedAt": "2026-02-02T08:00:00.000Z",
       "image": null,
       "country": null,
       "methodology": null,
@@ -3924,7 +3850,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNGdzd3Q2FlTGZuMU5Wbm9iT1F3NnkwRzRGeE5Ic0x0U2lxdWMxV19ESUkzUVN2R21oZnVCZEx0TXdHcGFObUNackdvV0hYd3JVck9HbnB2Mk1kM2lXM3hoaURJVURydVlaYW1rTG9TaEdmdE9ZVUxrS0Nwa1hfX1BfYXVmTExGSFNaQkQtMU5KRTE4Rnh1TVNtbkV0SHV4?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5"
       },
       "region": "world"
     },
@@ -3976,16 +3902,16 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
+      "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
-      "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
-      "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
-      "publishedAt": "2025-12-10T08:00:00.000Z",
+      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+      "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+      "publishedAt": "2025-11-12T08:00:00.000Z",
       "image": null,
       "country": null,
       "methodology": null,
@@ -3994,7 +3920,77 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-india-what-can-india-s-bilateral-carbon-credit-2025-11-07",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "What can India’s bilateral carbon credit deals learn from the centralised global carbon market? - carboncopy.info",
+      "excerpt": "Carbon credit transfer could impact India’s NDC target. Visuals: Paridhi Choudhary India has entered the global carbon trading arena, recently signing a Memorandum of Cooperation with Japan on the Joint Crediting Mechanism (JCM). The mechanism allows Japan to invest in greenhouse gas-reduction projects in partner countries like India and earn carbon credits in return—making it India’s first bilateral carbon market deal under Article 6.2 (A6.2) of the Paris Agreement. A decade since that landmark climate accord, this move signals how carbon markets are…",
+      "url": "https://carboncopy.info/what-can-indias-bilateral-carbon-credit-deals-learn-from-the-centralised-global-carbon-market",
+      "publishedAt": "2025-11-07T08:00:00.000Z",
+      "image": "https://cms.carboncopy.info/assets/d35d9803-5fef-4d4b-b5fc-2c2057dcec91",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNck1fVUNZUklKbU5Ma0JqTjhqZWVfdXN2Qzk5MEdtZVRlV2h1MEtGT0l1RWpBbEpkYko4bWRyM081RXppSkVHck1DaU4tVEFQOGJuQXVhN3QwbVpRVHNFTWp4OEhHcVduMkQzV0tKUzAweGlMZDV5cXR3c2NDV0lONGxOdnFmWHpRZmt5U3RpN2lvSVZqR3hGMC0yQjZhN19lMi0yU2RxUnlnVXFuNVpNUmhFeGQ2b3VZ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-strengthening-india-s-carbon-market-the--2025-10-30",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS - IEEFA | Institute for Energy Economics and Financial Analysis",
+      "excerpt": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS IEEFA | Institute for Energy Economics and Financial Analysis",
+      "url": "https://ieefa.org/resources/strengthening-indias-carbon-market-case-stability-mechanism-indias-ccts",
+      "publishedAt": "2025-10-30T07:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1ltNkRHcU9aT3N6YUJkSkRWOEFWQkpyMHBhOFlhWUk0OXZoclp2eDgwaUlFNDBwTWI2anh1eF9kaU1mWUcwSkVhX0hDUUFGbGhCQ1pUSFZWamlCQi0yZDljejM0MmE1dmRmNjB4ajVDNWpKZlVIS1g3Y2ZzaDJreHFQWmJGQXFMWlJ6LWgzVjdXNE4zWkpNTkQzSXJDclhw?oc=5"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon markets are incomplete without nuclear - Utility Dive",
+      "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
+      "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
+      "publishedAt": "2025-09-23T07:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
       },
       "region": "world"
     },
@@ -4047,6 +4043,30 @@
       "region": "india"
     },
     {
+      "id": "google-carbon-verra-and-gold-standard-release-insuranc-2025-07-22",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra and Gold Standard Release Insurance Framework for CORSIA-Eligible Credits - ClearBlue Markets",
+      "excerpt": "On July 16 and 17, 2025, Verra and Gold Standard each announced new insurance frameworks and eligibility criteria aimed at supporting the integrity of CORSIA-eligible carbon credits. These insurance mechanisms are designed to address political risks associated with the potential double counting of emission reductions. As CORSIA enters a new phase of implementation, these developments represent a critical advancement in strengthening the credibility of the program, directly addressing one of its most prominent criticisms. The Carbon Offsetting and…",
+      "url": "https://www.clearbluemarkets.com/knowledge-base/verra-and-gold-standard-release-insurance-framework-for-corsia-eligible-credits",
+      "publishedAt": "2025-07-22T07:00:00.000Z",
+      "image": "https://www.clearbluemarkets.com/hubfs/Blog%20images%20(62).png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0tGTnd1eDdJYWdKeXp3MkFRT2hDWkxqMzF4R1JZWmRQakNnY0s0NUZQcFF3ZzcxWEdRVkE1WWRIaG1fcmNmclZrTXBZT0cwdDFsSjZrMU1nN3VXRk9kYU9ZWEpocWh3cW9DVW41c3ZwWXF3eHNES0dWb2tiSW1yUXJldUNvclZRZTZqTi1NclpGZzlaWmZrN2g4cFpaWHgwZHpUbXR0Q2Z6TksxbERrVWNmZDBwU01nazdSMUJiZm4wSzM1YmfSAdYBQVVfeXFMTklTZ2poX3lBMXNBekhlR1dRV1dVck1xWHJtSUlUVkRObTBIb1gzekJIcHVXWFhYOEdsR3VhZmNVSmRQR1d3RGJ4RU5qUzR0cElxVjI2MVBDX0FycjQ1T2dXdlBLLUdwYjZmV0R5d2pLSUVGRWFnR1duSE5WN2RlQ0lqaHRvQ212b1c4Y0JPNzhrX2dDNG9jY3pjWmJiYWZYX2FsNW5JWjNXTXF1NXJ2QVBvY201RTdxXzI3SEFTY042dUJvZ05uNlZxeHd1eG9ndzI0SnhZZw?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -4069,30 +4089,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
-      "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
-      "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
-      "publishedAt": "2023-12-04T08:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
     }
   ]
 }
