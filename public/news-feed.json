@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-07T05:18:49.885Z",
+  "fetchedAt": "2026-06-07T10:08:08.389Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 86,
     "india": 23,
     "world": 63,
-    "withImages": 53,
-    "avgExcerptLength": 428,
+    "withImages": 57,
+    "avgExcerptLength": 438,
     "verra": 10,
     "registry": 24,
     "esg": 52
@@ -521,10 +521,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS - IEEFA | Institute for Energy Economics and Financial Analysis",
-        "excerpt": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS IEEFA | Institute for Energy Economics and Financial Analysis",
+        "excerpt": " Language Newsroom View the IEEFA Newsroom Insights Reports Fact Sheets Testimony/Submission Briefing Note Slides Press Releases Media Inquiries In the Media Research View all research Or browse one of our major research areas below Coal Petrochemicals Climate Finance Carbon Capture & Storage Renewables & Storage Energy Transition & Policy Oil/Gas & LNG Power & Utilities Steel Regions North America Asia Europe South Asia Australia About What We Do Who We Are Conference Contact Us Employment Events Subscribe  Language  Language  About the Authors…",
         "url": "https://ieefa.org/resources/strengthening-indias-carbon-market-case-stability-mechanism-indias-ccts",
         "publishedAt": "2025-10-30T07:00:00.000Z",
-        "image": null,
+        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2025-11/hero%20graphic%20%2839%29.jpg?itok=ZgLBZf46",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -532,7 +532,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1ltNkRHcU9aT3N6YUJkSkRWOEFWQkpyMHBhOFlhWUk0OXZoclp2eDgwaUlFNDBwTWI2anh1eF9kaU1mWUcwSkVhX0hDUUFGbGhCQ1pUSFZWamlCQi0yZDljejM0MmE1dmRmNjB4ajVDNWpKZlVIS1g3Y2ZzaDJreHFQWmJGQXFMWlJ6LWgzVjdXNE4zWkpNTkQzSXJDclhw?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1ltNkRHcU9aT3N6YUJkSkRWOEFWQkpyMHBhOFlhWUk0OXZoclp2eDgwaUlFNDBwTWI2anh1eF9kaU1mWUcwSkVhX0hDUUFGbGhCQ1pUSFZWamlCQi0yZDljejM0MmE1dmRmNjB4ajVDNWpKZlVIS1g3Y2ZzaDJreHFQWmJGQXFMWlJ6LWgzVjdXNE4zWkpNTkQzSXJDclhw?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -610,6 +611,28 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-esg-today-week-in-review-2026-06-07",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "ESG Today: Week in Review",
+        "excerpt": "This week in ESG news: Goldman Sachs raises $3 billion for energy transition, circular economy, digital and transport infrastructure fund; Brazil shifts from mandatory to voluntary sustainability reporting; UK sets 2040 GHG emissions reduction target; ISO launches transition planning standard for banks, investors; Google sets series of water sustainability goals; Nordea beats €200 billion sustainable finance target; JPMorgan backs carbon removal startup Charm; states sue Trump over $1 billion deal with TotalEnergies to stop offshore wind; 20 EU states…",
+        "url": "https://www.esgtoday.com/esg-today-week-in-review-264/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-264",
+        "publishedAt": "2026-06-07T07:12:21.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/05/Wind-Austria-1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG News",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-howgood-sweep-partner-to-track-carbon-fo-2026-06-05",
         "source": "esg-dive",
@@ -980,28 +1003,6 @@
         "status": null,
         "meta": {
           "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-iso-launches-net-zero-transition-plannin-2026-06-04",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "ISO Launches Net Zero Transition Planning Standard for Financial Institutions",
-        "excerpt": "The International Organization for Standardization (ISO) announced the launch of “ISO 32212, Sustainable finance — Net zero transition planning for financial institutions,” a new standard aimed at enabling banks, insurers, and investors to develop, maintain and integrate climate transition plans into their activities. According to ISO, the new standard is designed to provide a common framework for transition planning across the financial sector, applying to financial activities ranging from lending and insurance, to asset owner and asset manager…",
-        "url": "https://www.esgtoday.com/iso-launches-net-zero-transition-planning-standard-for-financial-institutions/?utm_source=rss utm_medium=rss utm_campaign=iso-launches-net-zero-transition-planning-standard-for-financial-institutions",
-        "publishedAt": "2026-06-04T10:44:27.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/ISO.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
           "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
@@ -1400,14 +1401,15 @@
         "excerpt": "Verra has launched a Forest Stewardship Council (FSC) label for Verified Carbon Units (VCUs). The label can be applied to credits generated by projects that are both registered with the Verified Carbon Standard (VCS) Program and located on lands that have FSC forest management (FM) certification . This collaboration between FSC and Verra aims to ensure that VCUs from projects in FSC FM-certified forests are transparently labeled and indicates these projects conform with both standards programs. Simultaneous participation in both programs will allow…",
         "url": "https://verra.org/verra-launches-fsc-label-for-carbon-credits/",
         "publishedAt": "2026-05-14T18:55:49.000Z",
-        "image": null,
+        "image": "https://verra.org/wp-content/uploads/2026/05/andrew-coelho-aL7SA1ASVdQ-unsplash.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": "Announcements",
-          "feed": "https://verra.org/feed/"
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -1422,14 +1424,15 @@
         "excerpt": "Verra has announced that three data service providers (DSPs) are now vetted to provide stocking index (SI) data that establish performance benchmarks for projects using Verified Carbon Standard (VCS) methodology VM0047 Afforestation, Reforestation, and Revegetation . Making the list of vetted DSPs available offers the opportunity for an efficient selection process, which in turn will streamline projects registration and verification processes. Projects can also opt to use their own data for performance benchmarks from DSPs not listed. The initial vetted…",
         "url": "https://verra.org/verra-announces-vetted-data-service-providers-for-arr-methodology/",
         "publishedAt": "2026-05-14T15:58:00.000Z",
-        "image": null,
+        "image": "https://verra.org/wp-content/uploads/2025/08/paraguay.png",
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": "Uncategorized",
-          "feed": "https://verra.org/feed/"
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -1961,10 +1964,10 @@
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
         "title": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability - Fastmarkets",
-        "excerpt": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability Fastmarkets",
+        "excerpt": "Rather than pursuing scale, buyers increasingly prioritized quality, compliance eligibility, durability and reputational survivability, reshaping carbon credit demand across registries, project types and deal structures. Retirements across Verra, Gold Standard, ACR, Climate Action Reserve (CAR), ART, Puro and Cercarbono totaled 169 million tonnes of CO2 equivalent (tCO2e) in 2025, slightly down from 174.5 million tCO2e a year earlier but broadly in line with the just under 170 million tCO2e retired annually across 2021-2023. This shift was reflected at…",
         "url": "https://www.fastmarkets.com/insights/carbon-credit-demand-plateaued-in-2025-as-buyers-sorted-by-quality-compliance-and-durability/",
         "publishedAt": "2026-02-03T08:00:00.000Z",
-        "image": null,
+        "image": "https://www.fastmarkets.com/tachyon/2026/02/Carbon-credit-demand-plateaued-in-2025-scaled.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1972,7 +1975,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -2073,6 +2077,28 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-esg-today-week-in-review-2026-06-07",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "ESG Today: Week in Review",
+      "excerpt": "This week in ESG news: Goldman Sachs raises $3 billion for energy transition, circular economy, digital and transport infrastructure fund; Brazil shifts from mandatory to voluntary sustainability reporting; UK sets 2040 GHG emissions reduction target; ISO launches transition planning standard for banks, investors; Google sets series of water sustainability goals; Nordea beats €200 billion sustainable finance target; JPMorgan backs carbon removal startup Charm; states sue Trump over $1 billion deal with TotalEnergies to stop offshore wind; 20 EU states…",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-264/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-264",
+      "publishedAt": "2026-06-07T07:12:21.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/05/Wind-Austria-1.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG News",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "google-india-ieefa-report-highlights-key-factors-that-2026-06-06",
       "source": "google-india",
@@ -2491,28 +2517,6 @@
       "status": null,
       "meta": {
         "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-iso-launches-net-zero-transition-plannin-2026-06-04",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "ISO Launches Net Zero Transition Planning Standard for Financial Institutions",
-      "excerpt": "The International Organization for Standardization (ISO) announced the launch of “ISO 32212, Sustainable finance — Net zero transition planning for financial institutions,” a new standard aimed at enabling banks, insurers, and investors to develop, maintain and integrate climate transition plans into their activities. According to ISO, the new standard is designed to provide a common framework for transition planning across the financial sector, applying to financial activities ranging from lending and insurance, to asset owner and asset manager…",
-      "url": "https://www.esgtoday.com/iso-launches-net-zero-transition-planning-standard-for-financial-institutions/?utm_source=rss utm_medium=rss utm_campaign=iso-launches-net-zero-transition-planning-standard-for-financial-institutions",
-      "publishedAt": "2026-06-04T10:44:27.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/ISO.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
         "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
@@ -2957,14 +2961,15 @@
       "excerpt": "Verra has launched a Forest Stewardship Council (FSC) label for Verified Carbon Units (VCUs). The label can be applied to credits generated by projects that are both registered with the Verified Carbon Standard (VCS) Program and located on lands that have FSC forest management (FM) certification . This collaboration between FSC and Verra aims to ensure that VCUs from projects in FSC FM-certified forests are transparently labeled and indicates these projects conform with both standards programs. Simultaneous participation in both programs will allow…",
       "url": "https://verra.org/verra-launches-fsc-label-for-carbon-credits/",
       "publishedAt": "2026-05-14T18:55:49.000Z",
-      "image": null,
+      "image": "https://verra.org/wp-content/uploads/2026/05/andrew-coelho-aL7SA1ASVdQ-unsplash.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Announcements",
-        "feed": "https://verra.org/feed/"
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -2979,14 +2984,15 @@
       "excerpt": "Verra has announced that three data service providers (DSPs) are now vetted to provide stocking index (SI) data that establish performance benchmarks for projects using Verified Carbon Standard (VCS) methodology VM0047 Afforestation, Reforestation, and Revegetation . Making the list of vetted DSPs available offers the opportunity for an efficient selection process, which in turn will streamline projects registration and verification processes. Projects can also opt to use their own data for performance benchmarks from DSPs not listed. The initial vetted…",
       "url": "https://verra.org/verra-announces-vetted-data-service-providers-for-arr-methodology/",
       "publishedAt": "2026-05-14T15:58:00.000Z",
-      "image": null,
+      "image": "https://verra.org/wp-content/uploads/2025/08/paraguay.png",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Uncategorized",
-        "feed": "https://verra.org/feed/"
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -3835,10 +3841,10 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability - Fastmarkets",
-      "excerpt": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability Fastmarkets",
+      "excerpt": "Rather than pursuing scale, buyers increasingly prioritized quality, compliance eligibility, durability and reputational survivability, reshaping carbon credit demand across registries, project types and deal structures. Retirements across Verra, Gold Standard, ACR, Climate Action Reserve (CAR), ART, Puro and Cercarbono totaled 169 million tonnes of CO2 equivalent (tCO2e) in 2025, slightly down from 174.5 million tCO2e a year earlier but broadly in line with the just under 170 million tCO2e retired annually across 2021-2023. This shift was reflected at…",
       "url": "https://www.fastmarkets.com/insights/carbon-credit-demand-plateaued-in-2025-as-buyers-sorted-by-quality-compliance-and-durability/",
       "publishedAt": "2026-02-03T08:00:00.000Z",
-      "image": null,
+      "image": "https://www.fastmarkets.com/tachyon/2026/02/Carbon-credit-demand-plateaued-in-2025-scaled.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3846,7 +3852,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -3952,10 +3959,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS - IEEFA | Institute for Energy Economics and Financial Analysis",
-      "excerpt": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS IEEFA | Institute for Energy Economics and Financial Analysis",
+      "excerpt": " Language Newsroom View the IEEFA Newsroom Insights Reports Fact Sheets Testimony/Submission Briefing Note Slides Press Releases Media Inquiries In the Media Research View all research Or browse one of our major research areas below Coal Petrochemicals Climate Finance Carbon Capture & Storage Renewables & Storage Energy Transition & Policy Oil/Gas & LNG Power & Utilities Steel Regions North America Asia Europe South Asia Australia About What We Do Who We Are Conference Contact Us Employment Events Subscribe  Language  Language  About the Authors…",
       "url": "https://ieefa.org/resources/strengthening-indias-carbon-market-case-stability-mechanism-indias-ccts",
       "publishedAt": "2025-10-30T07:00:00.000Z",
-      "image": null,
+      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2025-11/hero%20graphic%20%2839%29.jpg?itok=ZgLBZf46",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3963,7 +3970,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1ltNkRHcU9aT3N6YUJkSkRWOEFWQkpyMHBhOFlhWUk0OXZoclp2eDgwaUlFNDBwTWI2anh1eF9kaU1mWUcwSkVhX0hDUUFGbGhCQ1pUSFZWamlCQi0yZDljejM0MmE1dmRmNjB4ajVDNWpKZlVIS1g3Y2ZzaDJreHFQWmJGQXFMWlJ6LWgzVjdXNE4zWkpNTkQzSXJDclhw?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1ltNkRHcU9aT3N6YUJkSkRWOEFWQkpyMHBhOFlhWUk0OXZoclp2eDgwaUlFNDBwTWI2anh1eF9kaU1mWUcwSkVhX0hDUUFGbGhCQ1pUSFZWamlCQi0yZDljejM0MmE1dmRmNjB4ajVDNWpKZlVIS1g3Y2ZzaDJreHFQWmJGQXFMWlJ6LWgzVjdXNE4zWkpNTkQzSXJDclhw?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
