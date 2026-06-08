@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-08T12:03:27.890Z",
+  "fetchedAt": "2026-06-08T16:47:25.413Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 24,
     "world": 62,
     "withImages": 56,
-    "avgExcerptLength": 433,
+    "avgExcerptLength": 432,
     "verra": 10,
     "registry": 24,
     "esg": 52
@@ -634,6 +634,51 @@
     ],
     "world": [
       {
+        "id": "esg-dive-women-s-representation-is-slipping-on-co-2026-06-08",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "Women’s representation is slipping on corporate boards",
+        "excerpt": "President Donald Trump s top-down attack on diversity and inclusion has trickled into every aspect of work.",
+        "url": "https://www.esgdive.com/news/womens-representation-slipping-on-corporate-boards-dei-equilar/822234/",
+        "publishedAt": "2026-06-08T15:35:00.000Z",
+        "image": "https://imgproxy.divecdn.com/SI1BgMZx2Hq_qkyiiyezxQE8M9Zue8yoeurGCOCqAk8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjczOTMxNDAwLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-projects-open-for-public-comment-june-8--2026-06-08",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Projects Open for Public Comment: June 8, 2026",
+        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+        "url": "https://verra.org/projects-open-for-public-comment-june-8-2026/",
+        "publishedAt": "2026-06-08T12:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2023/12/shutterstock_2311969343-scaled.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-alphabet-s-waymo-to-repurpose-used-ev-ba-2026-06-08",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -1186,28 +1231,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-governance-surpasses-environment-as-top--2026-06-02",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Governance surpasses environment as top ESG reputational risk in 2026",
-        "excerpt": "A new report from GlobeScan that surveyed nearly 300 business leaders found that the reordering of perceived risk highlights rising concern over corporate ethics and accountability.",
-        "url": "https://www.esgdive.com/news/governance-surpasses-environment-top-esg-reputational-risk-2026-globescan/821752/",
-        "publishedAt": "2026-06-02T16:30:26.000Z",
-        "image": "https://imgproxy.divecdn.com/NuTysRLskh2oJzNmjyQAQwkwqd_2SHMSUNbLjskKejw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkyOTQ4NTg3XzEuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-q-a-the-current-state-of-carbon-dioxide--2026-06-02",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1484,29 +1507,6 @@
         "region": "world"
       },
       {
-        "id": "verra-consultation-revision-to-improved-forest-2026-05-12",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Consultation: Revision to Improved Forest Management Methodology",
-        "excerpt": "The deadline for responding to the Request for Proposals has been extended to June 1, 2026 . Verra is launching a public consultation on a revision to VM0045 Improved Forest Management using Dynamic Matched Baselines from National Forest Inventories, v1.2 (methodology development ID #M0289) in the Verified Carbon Standard (VCS) Program . This is a minor revision that would expand the methodology’s applicability beyond the United States by using national forest inventories (NFIs) that meet established criteria. The consultation will run from May 12…",
-        "url": "https://verra.org/consultation-revision-to-improved-forest-management-methodology/",
-        "publishedAt": "2026-05-12T16:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/imported/news/jan-huber-tree-sun-unsplash-scaled-jpg.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6027",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1664,7 +1664,7 @@
         "tag": "VCS PROJECT",
         "accent": "#86efac",
         "title": "Acorn - Rainforest Alliance Vietnam Smallholder Agroforestry",
-        "excerpt": "Acorn - Rainforest Alliance Vietnam Smallholder Agroforestry is a Verified Carbon Standard (VCS) project registered on the Verra registry in Viet Nam. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 1,99,000 tonnes CO₂ equivalent per year. Project proponent: Acorn B.V.. Crediting period runs 2023-01-01 to 2052-12-31.",
+        "excerpt": "Acorn - Rainforest Alliance Vietnam Smallholder Agroforestry is a Verified Carbon Standard (VCS) project registered on the Verra registry in Viet Nam. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 1,99,000 tonnes CO₂ equivalent per year. Project proponent: Acorn B.V.. Crediting period runs 2023-06-30 to 2053-06-29.",
         "url": "https://registry.verra.org/app/projectDetail/VCS/6001",
         "publishedAt": "2026-04-21T00:00:00.000Z",
         "image": null,
@@ -1675,8 +1675,8 @@
         "meta": {
           "proponent": "Acorn B.V.",
           "region": "Asia",
-          "creditingPeriodStart": "2023-01-01",
-          "creditingPeriodEnd": "2052-12-31",
+          "creditingPeriodStart": "2023-06-30",
+          "creditingPeriodEnd": "2053-06-29",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -2076,6 +2076,51 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-women-s-representation-is-slipping-on-co-2026-06-08",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "POLICY",
+      "accent": "#5eead4",
+      "title": "Women’s representation is slipping on corporate boards",
+      "excerpt": "President Donald Trump s top-down attack on diversity and inclusion has trickled into every aspect of work.",
+      "url": "https://www.esgdive.com/news/womens-representation-slipping-on-corporate-boards-dei-equilar/822234/",
+      "publishedAt": "2026-06-08T15:35:00.000Z",
+      "image": "https://imgproxy.divecdn.com/SI1BgMZx2Hq_qkyiiyezxQE8M9Zue8yoeurGCOCqAk8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjczOTMxNDAwLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-projects-open-for-public-comment-june-8--2026-06-08",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Projects Open for Public Comment: June 8, 2026",
+      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+      "url": "https://verra.org/projects-open-for-public-comment-june-8-2026/",
+      "publishedAt": "2026-06-08T12:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2023/12/shutterstock_2311969343-scaled.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-alphabet-s-waymo-to-repurpose-used-ev-ba-2026-06-08",
       "source": "esg-today",
@@ -2676,28 +2721,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-governance-surpasses-environment-as-top--2026-06-02",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Governance surpasses environment as top ESG reputational risk in 2026",
-      "excerpt": "A new report from GlobeScan that surveyed nearly 300 business leaders found that the reordering of perceived risk highlights rising concern over corporate ethics and accountability.",
-      "url": "https://www.esgdive.com/news/governance-surpasses-environment-top-esg-reputational-risk-2026-globescan/821752/",
-      "publishedAt": "2026-06-02T16:30:26.000Z",
-      "image": "https://imgproxy.divecdn.com/NuTysRLskh2oJzNmjyQAQwkwqd_2SHMSUNbLjskKejw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkyOTQ4NTg3XzEuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-q-a-the-current-state-of-carbon-dioxide--2026-06-02",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -3092,29 +3115,6 @@
       "region": "world"
     },
     {
-      "id": "verra-consultation-revision-to-improved-forest-2026-05-12",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Consultation: Revision to Improved Forest Management Methodology",
-      "excerpt": "The deadline for responding to the Request for Proposals has been extended to June 1, 2026 . Verra is launching a public consultation on a revision to VM0045 Improved Forest Management using Dynamic Matched Baselines from National Forest Inventories, v1.2 (methodology development ID #M0289) in the Verified Carbon Standard (VCS) Program . This is a minor revision that would expand the methodology’s applicability beyond the United States by using national forest inventories (NFIs) that meet established criteria. The consultation will run from May 12…",
-      "url": "https://verra.org/consultation-revision-to-improved-forest-management-methodology/",
-      "publishedAt": "2026-05-12T16:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/imported/news/jan-huber-tree-sun-unsplash-scaled-jpg.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6027",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3296,7 +3296,7 @@
       "tag": "VCS PROJECT",
       "accent": "#86efac",
       "title": "Acorn - Rainforest Alliance Vietnam Smallholder Agroforestry",
-      "excerpt": "Acorn - Rainforest Alliance Vietnam Smallholder Agroforestry is a Verified Carbon Standard (VCS) project registered on the Verra registry in Viet Nam. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 1,99,000 tonnes CO₂ equivalent per year. Project proponent: Acorn B.V.. Crediting period runs 2023-01-01 to 2052-12-31.",
+      "excerpt": "Acorn - Rainforest Alliance Vietnam Smallholder Agroforestry is a Verified Carbon Standard (VCS) project registered on the Verra registry in Viet Nam. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 1,99,000 tonnes CO₂ equivalent per year. Project proponent: Acorn B.V.. Crediting period runs 2023-06-30 to 2053-06-29.",
       "url": "https://registry.verra.org/app/projectDetail/VCS/6001",
       "publishedAt": "2026-04-21T00:00:00.000Z",
       "image": null,
@@ -3307,8 +3307,8 @@
       "meta": {
         "proponent": "Acorn B.V.",
         "region": "Asia",
-        "creditingPeriodStart": "2023-01-01",
-        "creditingPeriodEnd": "2052-12-31",
+        "creditingPeriodStart": "2023-06-30",
+        "creditingPeriodEnd": "2053-06-29",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
