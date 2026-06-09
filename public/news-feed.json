@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-08T21:10:56.207Z",
+  "fetchedAt": "2026-06-09T05:00:30.557Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,38 +47,14 @@
     "total": 86,
     "india": 24,
     "world": 62,
-    "withImages": 55,
-    "avgExcerptLength": 428,
+    "withImages": 56,
+    "avgExcerptLength": 433,
     "verra": 10,
     "registry": 24,
     "esg": 52
   },
   "sections": {
     "india": [
-      {
-        "id": "google-india-ieefa-report-highlights-key-factors-that-2026-06-06",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "IEEFA Report Highlights Key Factors That Will Shape Carbon Prices Under India's New Trading Scheme - SolarQuarter",
-        "excerpt": "As India moves forward with implementing its Carbon Credit Trading Scheme (CCTS), a new report from the Institute for Energy Economics and Financial Analysis explores the factors that will influence carbon price formation and determine how effectively the scheme supports industrial decarbonisation. The report, titled Potential Drivers of Carbon Price Formation in the CCTS: Design and Market Dynamics in the Indian Carbon Market, examines the structure of India s intensity-based emissions trading system, which will initially cover seven industrial sectors…",
-        "url": "https://solarquarter.com/2026/06/06/ieefa-report-highlights-key-factors-that-will-shape-carbon-prices-under-indias-new-trading-scheme/",
-        "publishedAt": "2026-06-06T07:05:48.000Z",
-        "image": "https://solarquarter.com/wp-content/uploads/2022/10/17-3.png",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmllSWdIYTh2cHJGOHJwRUhkc0laNmhGQ3ExTHd2ZS1CQkRsSnlxWFpGUlA5UWNQODJtTElaSUJmUmMtN3Jyc2YwQ2gza0RSQXZYZ1dzcWVJTGVOVnlRMlg2UUZpeHZqdE9FLS1QZW9UWmd5V0h6U1ZveTZYVURRZ1h1YkpIanpoLWxITzR0cThQU2JyelByZml4N19XMU1MbktrWWpJQlZDMWVNSmVCc2xzRXlaaURXZV9ENHRiaTlmd2FCaGp0cjhzV2w0aGM?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
       {
         "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
         "source": "google-india",
@@ -441,6 +417,30 @@
         "region": "india"
       },
       {
+        "id": "google-india-carbon-credits-climate-policy-and-the-fu-2026-03-10",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon Credits, Climate Policy and the Future of Textile Manufacturing with SED’s MVR Based LTE® Technology - The Textile Magazine",
+        "excerpt": "The textile industry is entering a decisive decade where competitiveness will be defined not by scale or cost alone, but by carbon intensity. This transition is structural, not ideological. At successive climate summits under the United Nations Framework Convention on Climate Change (UNFCCC), particularly COP28, governments reinforced commitments to accelerated decarbonization. Simultaneously, mechanisms like the European Union’s Carbon Border Adjustment Mechanism (CBAM) make carbon intensity a determinant of market access. For export-driven textile…",
+        "url": "https://www.indiantextilemagazine.in/carbon-credits-climate-policy-and-the-future-of-textile-manufacturing-with-seds-mvr-based-lte-technology/",
+        "publishedAt": "2026-03-10T08:55:12.000Z",
+        "image": "https://www.indiantextilemagazine.in/wp-content/uploads/2026/03/LTE-Product.jpg.jpeg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS284NGtBNXZ5bGZEeTBoVlRmUWVDZFNrS1BTV0xsWEdlWnd4QjY4S3FCWkl5VFdPVjUtYnRPZzJ1VEZhM3U5bk1idE16ZTBmMnFUNFdKWlYzYW5uTkQxY0cteUJsZ1A1UUtDN3BmemNGVzdGbnhYbVhfd1Mtd2ZhNVRlN3BaT2gxRVZwQ1lpWk5iQ3dfbl9JdkxDTHNSUEhLVVR4RUdURWNPdFlTTjVNQWlRbVVoZ2h3VUIyRW1pR2JlZWZ1WmNodUlrYkRNbWl4VXBSWlJhN2wxdw?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -518,8 +518,8 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS - IEEFA | Institute for Energy Economics and Financial Analysis",
-        "excerpt": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS IEEFA | Institute for Energy Economics and Financial Analysis",
+        "title": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS - Energy Economics and Financial Analysis (IEEFA)",
+        "excerpt": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS Energy Economics and Financial Analysis (IEEFA)",
         "url": "https://ieefa.org/resources/strengthening-indias-carbon-market-case-stability-mechanism-indias-ccts",
         "publishedAt": "2025-10-30T07:00:00.000Z",
         "image": null,
@@ -2003,29 +2003,6 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
-        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
-        "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
-        "publishedAt": "2025-11-12T08:00:00.000Z",
-        "image": null,
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2068,6 +2045,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0tGTnd1eDdJYWdKeXp3MkFRT2hDWkxqMzF4R1JZWmRQakNnY0s0NUZQcFF3ZzcxWEdRVkE1WWRIaG1fcmNmclZrTXBZT0cwdDFsSjZrMU1nN3VXRk9kYU9ZWEpocWh3cW9DVW41c3ZwWXF3eHNES0dWb2tiSW1yUXJldUNvclZRZTZqTi1NclpGZzlaWmZrN2g4cFpaWHgwZHpUbXR0Q2Z6TksxbERrVWNmZDBwU01nazdSMUJiZm4wSzM1YmfSAdYBQVVfeXFMTklTZ2poX3lBMXNBekhlR1dRV1dVck1xWHJtSUlUVkRObTBIb1gzekJIcHVXWFhYOEdsR3VhZmNVSmRQR1d3RGJ4RU5qUzR0cElxVjI2MVBDX0FycjQ1T2dXdlBLLUdwYjZmV0R5d2pLSUVGRWFnR1duSE5WN2RlQ0lqaHRvQ212b1c4Y0JPNzhrX2dDNG9jY3pjWmJiYWZYX2FsNW5JWjNXTXF1NXJ2QVBvY201RTdxXzI3SEFTY042dUJvZ05uNlZxeHd1eG9ndzI0SnhZZw?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
+        "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
+        "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
+        "publishedAt": "2023-12-04T08:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -2251,30 +2252,6 @@
         "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-ieefa-report-highlights-key-factors-that-2026-06-06",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "IEEFA Report Highlights Key Factors That Will Shape Carbon Prices Under India's New Trading Scheme - SolarQuarter",
-      "excerpt": "As India moves forward with implementing its Carbon Credit Trading Scheme (CCTS), a new report from the Institute for Energy Economics and Financial Analysis explores the factors that will influence carbon price formation and determine how effectively the scheme supports industrial decarbonisation. The report, titled Potential Drivers of Carbon Price Formation in the CCTS: Design and Market Dynamics in the Indian Carbon Market, examines the structure of India s intensity-based emissions trading system, which will initially cover seven industrial sectors…",
-      "url": "https://solarquarter.com/2026/06/06/ieefa-report-highlights-key-factors-that-will-shape-carbon-prices-under-indias-new-trading-scheme/",
-      "publishedAt": "2026-06-06T07:05:48.000Z",
-      "image": "https://solarquarter.com/wp-content/uploads/2022/10/17-3.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmllSWdIYTh2cHJGOHJwRUhkc0laNmhGQ3ExTHd2ZS1CQkRsSnlxWFpGUlA5UWNQODJtTElaSUJmUmMtN3Jyc2YwQ2gza0RSQXZYZ1dzcWVJTGVOVnlRMlg2UUZpeHZqdE9FLS1QZW9UWmd5V0h6U1ZveTZYVURRZ1h1YkpIanpoLWxITzR0cThQU2JyelByZml4N19XMU1MbktrWWpJQlZDMWVNSmVCc2xzRXlaaURXZV9ENHRiaTlmd2FCaGp0cjhzV2w0aGM?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "esg-dive-howgood-sweep-partner-to-track-carbon-fo-2026-06-05",
@@ -3783,6 +3760,30 @@
       "region": "india"
     },
     {
+      "id": "google-india-carbon-credits-climate-policy-and-the-fu-2026-03-10",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon Credits, Climate Policy and the Future of Textile Manufacturing with SED’s MVR Based LTE® Technology - The Textile Magazine",
+      "excerpt": "The textile industry is entering a decisive decade where competitiveness will be defined not by scale or cost alone, but by carbon intensity. This transition is structural, not ideological. At successive climate summits under the United Nations Framework Convention on Climate Change (UNFCCC), particularly COP28, governments reinforced commitments to accelerated decarbonization. Simultaneously, mechanisms like the European Union’s Carbon Border Adjustment Mechanism (CBAM) make carbon intensity a determinant of market access. For export-driven textile…",
+      "url": "https://www.indiantextilemagazine.in/carbon-credits-climate-policy-and-the-future-of-textile-manufacturing-with-seds-mvr-based-lte-technology/",
+      "publishedAt": "2026-03-10T08:55:12.000Z",
+      "image": "https://www.indiantextilemagazine.in/wp-content/uploads/2026/03/LTE-Product.jpg.jpeg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS284NGtBNXZ5bGZEeTBoVlRmUWVDZFNrS1BTV0xsWEdlWnd4QjY4S3FCWkl5VFdPVjUtYnRPZzJ1VEZhM3U5bk1idE16ZTBmMnFUNFdKWlYzYW5uTkQxY0cteUJsZ1A1UUtDN3BmemNGVzdGbnhYbVhfd1Mtd2ZhNVRlN3BaT2gxRVZwQ1lpWk5iQ3dfbl9JdkxDTHNSUEhLVVR4RUdURWNPdFlTTjVNQWlRbVVoZ2h3VUIyRW1pR2JlZWZ1WmNodUlrYkRNbWl4VXBSWlJhN2wxdw?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -3902,37 +3903,14 @@
       "region": "india"
     },
     {
-      "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
-      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
-      "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
-      "publishedAt": "2025-11-12T08:00:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-strengthening-india-s-carbon-market-the--2025-10-30",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS - IEEFA | Institute for Energy Economics and Financial Analysis",
-      "excerpt": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS IEEFA | Institute for Energy Economics and Financial Analysis",
+      "title": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS - Energy Economics and Financial Analysis (IEEFA)",
+      "excerpt": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS Energy Economics and Financial Analysis (IEEFA)",
       "url": "https://ieefa.org/resources/strengthening-indias-carbon-market-case-stability-mechanism-indias-ccts",
       "publishedAt": "2025-10-30T07:00:00.000Z",
       "image": null,
@@ -4089,6 +4067,30 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
+      "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
+      "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
+      "publishedAt": "2023-12-04T08:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
     }
   ]
 }
