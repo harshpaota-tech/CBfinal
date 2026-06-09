@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-09T15:53:26.506Z",
+  "fetchedAt": "2026-06-09T20:54:51.430Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 86,
     "india": 24,
     "world": 62,
-    "withImages": 55,
-    "avgExcerptLength": 429,
+    "withImages": 57,
+    "avgExcerptLength": 436,
     "verra": 10,
     "registry": 24,
     "esg": 52
@@ -543,10 +543,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
-        "excerpt": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets Fuel Cells Works",
+        "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login News Investors Research Consulting Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
         "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
         "publishedAt": "2025-09-01T07:00:00.000Z",
-        "image": null,
+        "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -554,7 +554,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -633,13 +634,79 @@
     ],
     "world": [
       {
+        "id": "esg-dive-banks-fossil-fuel-financing-increased-8--2026-06-09",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Banks’ fossil fuel financing increased 8% in 2025: report",
+        "excerpt": "The world s largest banks committed $906 billion to fossil fuel financing, with funding for expansion rising 27%, according to the latest Banking on Climate Chaos report.",
+        "url": "https://www.esgdive.com/news/banks-fossil-fuel-financing-increased-8-in-2025-report/822387/",
+        "publishedAt": "2026-06-09T16:40:00.000Z",
+        "image": "https://imgproxy.divecdn.com/saGIL2NgGQsqeYVIOKZcsMHHDEOAIMf6PBqyY4h7jHs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzg0NTk3MTkzLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-td-bank-inks-10-year-carbon-removal-deal-2026-06-09",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "TD Bank inks 10-year carbon removal deal with Deep Sky",
+        "excerpt": "The bank will purchase over 18,000 verified direct air capture carbon dioxide removal credits from the Canadian CDR project developer.",
+        "url": "https://www.esgdive.com/news/td-bank-inks-10-year-carbon-removal-deal-with-deep-sky/822390/",
+        "publishedAt": "2026-06-09T16:39:14.000Z",
+        "image": "https://imgproxy.divecdn.com/0nEShdNHlVhIDKlf6BYZVAPJxjVqhNlArDpQklU0YUE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTU2MDkwMjA1LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-ai-deployment-plans-are-catching-leaders-2026-06-09",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "AI deployment plans are catching leaders underprepared",
+        "excerpt": "Embedding control and creating visibility into AI systems will allow leaders to scale confidently, Matt Lyteson, IBM CIO said.",
+        "url": "https://www.esgdive.com/news/tech-leaders-ai-deployment-underprepared/822365/",
+        "publishedAt": "2026-06-09T16:07:00.000Z",
+        "image": "https://imgproxy.divecdn.com/0v69wWX6DLYJTk8bKpuTstOQnMGw-Hw_t8pHW2QJ1LU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTQ4ODUyNzAyLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-italy-s-23-billion-plan-to-support-renew-2026-06-09",
         "source": "esg-today",
         "sourceName": "ESG Today",
         "type": "esg",
         "tag": "ESG",
         "accent": "#60a5fa",
-        "title": "Italy’s €23 Billion Plan to Support Renewable Energy Production Approved by EU",
+        "title": "Italy’s €23 Billion Plan to Support Renewable Energy Buildout Approved by EU",
         "excerpt": "The European Commission announced that it has approved a €23 billion state aid program by Italy to support the deployment of renewable electricity generation, aimed at accelerating the country’s energy transition and helping meet EU renewable energy targets. The program will support the construction of installations that generate electricity using onshore wind, solar power, hydropower, and sewage gas, which are anticipated to add more than 37 GW of renewable electricity capacity – equivalent to approximately 48% of current RES capacity in Italy. The…",
         "url": "https://www.esgtoday.com/italys-e23-billion-plan-to-support-renewable-energy-production-approved-by-eu/?utm_source=rss utm_medium=rss utm_campaign=italys-e23-billion-plan-to-support-renewable-energy-production-approved-by-eu",
         "publishedAt": "2026-06-09T15:46:59.000Z",
@@ -1119,28 +1186,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-7-states-sue-trump-administration-over-t-2026-06-04",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "7 states sue Trump administration over TotalEnergies offshore wind lease buyout",
-        "excerpt": "The lawsuit calls the deal a sham settlement agreement to unlawfully cancel an offshore wind lease and redirect the money paid for the lease to a separate, unauthorized use favored by the President.",
-        "url": "https://www.esgdive.com/news/states-sue-trump-admin-over-totalenergies-offshore-wind-lease-buyout/821987/",
-        "publishedAt": "2026-06-04T16:11:00.000Z",
-        "image": "https://imgproxy.divecdn.com/Jiv9MB1HPZs2Y_Y2P7W_79Aaua6FXAuCj9iAb9ftAsA/g:nowe:0:185/c:5979:3377/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjk1NjYxNDIzLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-analysis-china-s-co2-climbs-2-in-early-2-2026-06-03",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1182,50 +1227,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-global-initiative-releases-draft-framewo-2026-06-03",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Global initiative releases draft framework for corporate social disclosures",
-        "excerpt": "The draft guidance from the Taskforce on Inequality and Social-related Financial Disclosures is designed to help companies disclose governance and oversight of issues related to workers, consumers and communities.",
-        "url": "https://www.esgdive.com/news/global-initiative-releases-draft-framework-for-corporate-social-disclosures/821898/",
-        "publishedAt": "2026-06-03T16:47:00.000Z",
-        "image": "https://imgproxy.divecdn.com/HBZ4PHy8sdUmJMHja3fHEAoIpULN7hywFr8z9-DJppA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NDI4NjYzMDAuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-deloitte-upgrades-uk-eu-sustainability-c-2026-06-03",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Deloitte upgrades UK, EU sustainability chief to CSO for new EMEA business",
-        "excerpt": "Company veteran Smruti Naik-Jones most recently CSO for Deloitte UK and North and South Europe will lead sustainability strategy for the firm s Europe, Middle East and Africa business.",
-        "url": "https://www.esgdive.com/news/deloitte-taps-uk-eu-cso-to-lead-sustainability-for-new-emea-business/821902/",
-        "publishedAt": "2026-06-03T16:45:02.000Z",
-        "image": "https://imgproxy.divecdn.com/y72PAW_ex8SEXF_vojFCEg0087DSwmuJEQwQvGjrg8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDQ0NDg4NjUyLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -1339,6 +1340,31 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6046",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Toucan Forestal Panama",
+        "excerpt": "Toucan Forestal Panama is a Verified Carbon Standard (VCS) project registered on the Verra registry in Panama. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 2,523 tonnes CO₂ equivalent per year. Project proponent: Toucan Forestal Panama S.A.. Crediting period runs 2025-06-03 to 2065-06-02.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6046",
+        "publishedAt": "2026-05-28T00:00:00.000Z",
+        "image": null,
+        "country": "Panama",
+        "methodology": "VM0047",
+        "registryId": "6046",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Toucan Forestal Panama S.A.",
+          "region": "Latin America",
+          "creditingPeriodStart": "2025-06-03",
+          "creditingPeriodEnd": "2065-06-02",
+          "program": "Verified Carbon Standard"
         },
         "region": "world"
       },
@@ -1706,6 +1732,31 @@
         "region": "world"
       },
       {
+        "id": "verra-vcs-6000",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Zambia Agroforestry Grouped Project",
+        "excerpt": "Zambia Agroforestry Grouped Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Zambia. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 1,77,525 tonnes CO₂ equivalent per year. Project proponent: ETG Climate Solutions SA. Crediting period runs 2025-12-01 to 2065-11-30.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6000",
+        "publishedAt": "2026-04-20T00:00:00.000Z",
+        "image": null,
+        "country": "Zambia",
+        "methodology": "VM0047",
+        "registryId": "6000",
+        "status": "Under development",
+        "meta": {
+          "proponent": "ETG Climate Solutions SA",
+          "region": "Africa",
+          "creditingPeriodStart": "2025-12-01",
+          "creditingPeriodEnd": "2065-11-30",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
         "id": "verra-vcs-5993",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1881,56 +1932,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-5968",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Carbon Cork Resilience Project",
-        "excerpt": "Carbon Cork Resilience Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Spain. The project is currently listed as \"Under validation\". It applies VM0047 methodology. Estimated annual emission reductions are 244 tonnes CO₂ equivalent per year. Project proponent: Multiple Proponents. Crediting period runs 2023-05-25 to 2053-05-24.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/5968",
-        "publishedAt": "2026-03-25T00:00:00.000Z",
-        "image": null,
-        "country": "Spain",
-        "methodology": "VM0047",
-        "registryId": "5968",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "Multiple Proponents",
-          "region": "Europe",
-          "creditingPeriodStart": "2023-05-25",
-          "creditingPeriodEnd": "2053-05-24",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-vcs-5970",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Respira Patagonia",
-        "excerpt": "Respira Patagonia is a Verified Carbon Standard (VCS) project registered on the Verra registry in Chile. The project is currently listed as \"Under validation\". It applies VM0042 methodology. Estimated annual emission reductions are 8,67,709 tonnes CO₂ equivalent per year. Project proponent: Gestión de inversiones Plan-C SPA. Crediting period runs 2024-12-13 to 2044-12-12.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/5970",
-        "publishedAt": "2026-03-25T00:00:00.000Z",
-        "image": null,
-        "country": "Chile",
-        "methodology": "VM0042",
-        "registryId": "5970",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "Gestión de inversiones Plan-C SPA",
-          "region": "Latin America",
-          "creditingPeriodStart": "2024-12-13",
-          "creditingPeriodEnd": "2044-12-12",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-carbon-credit-demand-plateaued-in-2025-a-2026-02-03",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1979,17 +1980,17 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
+        "id": "google-carbon-carbon-market-updates-indonesia-verra-ag-2025-10-16",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
-        "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
-        "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
-        "publishedAt": "2025-12-10T08:00:00.000Z",
-        "image": null,
+        "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
+        "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
+        "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
+        "publishedAt": "2025-10-16T07:00:00.000Z",
+        "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1997,7 +1998,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -2076,13 +2078,79 @@
   },
   "articles": [
     {
+      "id": "esg-dive-banks-fossil-fuel-financing-increased-8--2026-06-09",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Banks’ fossil fuel financing increased 8% in 2025: report",
+      "excerpt": "The world s largest banks committed $906 billion to fossil fuel financing, with funding for expansion rising 27%, according to the latest Banking on Climate Chaos report.",
+      "url": "https://www.esgdive.com/news/banks-fossil-fuel-financing-increased-8-in-2025-report/822387/",
+      "publishedAt": "2026-06-09T16:40:00.000Z",
+      "image": "https://imgproxy.divecdn.com/saGIL2NgGQsqeYVIOKZcsMHHDEOAIMf6PBqyY4h7jHs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzg0NTk3MTkzLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-td-bank-inks-10-year-carbon-removal-deal-2026-06-09",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "TD Bank inks 10-year carbon removal deal with Deep Sky",
+      "excerpt": "The bank will purchase over 18,000 verified direct air capture carbon dioxide removal credits from the Canadian CDR project developer.",
+      "url": "https://www.esgdive.com/news/td-bank-inks-10-year-carbon-removal-deal-with-deep-sky/822390/",
+      "publishedAt": "2026-06-09T16:39:14.000Z",
+      "image": "https://imgproxy.divecdn.com/0nEShdNHlVhIDKlf6BYZVAPJxjVqhNlArDpQklU0YUE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTU2MDkwMjA1LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-ai-deployment-plans-are-catching-leaders-2026-06-09",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "AI deployment plans are catching leaders underprepared",
+      "excerpt": "Embedding control and creating visibility into AI systems will allow leaders to scale confidently, Matt Lyteson, IBM CIO said.",
+      "url": "https://www.esgdive.com/news/tech-leaders-ai-deployment-underprepared/822365/",
+      "publishedAt": "2026-06-09T16:07:00.000Z",
+      "image": "https://imgproxy.divecdn.com/0v69wWX6DLYJTk8bKpuTstOQnMGw-Hw_t8pHW2QJ1LU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTQ4ODUyNzAyLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-today-italy-s-23-billion-plan-to-support-renew-2026-06-09",
       "source": "esg-today",
       "sourceName": "ESG Today",
       "type": "esg",
       "tag": "ESG",
       "accent": "#60a5fa",
-      "title": "Italy’s €23 Billion Plan to Support Renewable Energy Production Approved by EU",
+      "title": "Italy’s €23 Billion Plan to Support Renewable Energy Buildout Approved by EU",
       "excerpt": "The European Commission announced that it has approved a €23 billion state aid program by Italy to support the deployment of renewable electricity generation, aimed at accelerating the country’s energy transition and helping meet EU renewable energy targets. The program will support the construction of installations that generate electricity using onshore wind, solar power, hydropower, and sewage gas, which are anticipated to add more than 37 GW of renewable electricity capacity – equivalent to approximately 48% of current RES capacity in Italy. The…",
       "url": "https://www.esgtoday.com/italys-e23-billion-plan-to-support-renewable-energy-production-approved-by-eu/?utm_source=rss utm_medium=rss utm_campaign=italys-e23-billion-plan-to-support-renewable-energy-production-approved-by-eu",
       "publishedAt": "2026-06-09T15:46:59.000Z",
@@ -2585,28 +2653,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-7-states-sue-trump-administration-over-t-2026-06-04",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "7 states sue Trump administration over TotalEnergies offshore wind lease buyout",
-      "excerpt": "The lawsuit calls the deal a sham settlement agreement to unlawfully cancel an offshore wind lease and redirect the money paid for the lease to a separate, unauthorized use favored by the President.",
-      "url": "https://www.esgdive.com/news/states-sue-trump-admin-over-totalenergies-offshore-wind-lease-buyout/821987/",
-      "publishedAt": "2026-06-04T16:11:00.000Z",
-      "image": "https://imgproxy.divecdn.com/Jiv9MB1HPZs2Y_Y2P7W_79Aaua6FXAuCj9iAb9ftAsA/g:nowe:0:185/c:5979:3377/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjk1NjYxNDIzLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-analysis-china-s-co2-climbs-2-in-early-2-2026-06-03",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2648,50 +2694,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-global-initiative-releases-draft-framewo-2026-06-03",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Global initiative releases draft framework for corporate social disclosures",
-      "excerpt": "The draft guidance from the Taskforce on Inequality and Social-related Financial Disclosures is designed to help companies disclose governance and oversight of issues related to workers, consumers and communities.",
-      "url": "https://www.esgdive.com/news/global-initiative-releases-draft-framework-for-corporate-social-disclosures/821898/",
-      "publishedAt": "2026-06-03T16:47:00.000Z",
-      "image": "https://imgproxy.divecdn.com/HBZ4PHy8sdUmJMHja3fHEAoIpULN7hywFr8z9-DJppA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NDI4NjYzMDAuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-deloitte-upgrades-uk-eu-sustainability-c-2026-06-03",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Deloitte upgrades UK, EU sustainability chief to CSO for new EMEA business",
-      "excerpt": "Company veteran Smruti Naik-Jones most recently CSO for Deloitte UK and North and South Europe will lead sustainability strategy for the firm s Europe, Middle East and Africa business.",
-      "url": "https://www.esgdive.com/news/deloitte-taps-uk-eu-cso-to-lead-sustainability-for-new-emea-business/821902/",
-      "publishedAt": "2026-06-03T16:45:02.000Z",
-      "image": "https://imgproxy.divecdn.com/y72PAW_ex8SEXF_vojFCEg0087DSwmuJEQwQvGjrg8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDQ0NDg4NjUyLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -2853,6 +2855,31 @@
         "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "india"
+    },
+    {
+      "id": "verra-vcs-6046",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Toucan Forestal Panama",
+      "excerpt": "Toucan Forestal Panama is a Verified Carbon Standard (VCS) project registered on the Verra registry in Panama. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 2,523 tonnes CO₂ equivalent per year. Project proponent: Toucan Forestal Panama S.A.. Crediting period runs 2025-06-03 to 2065-06-02.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6046",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "image": null,
+      "country": "Panama",
+      "methodology": "VM0047",
+      "registryId": "6046",
+      "status": "Under development",
+      "meta": {
+        "proponent": "Toucan Forestal Panama S.A.",
+        "region": "Latin America",
+        "creditingPeriodStart": "2025-06-03",
+        "creditingPeriodEnd": "2065-06-02",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
     },
     {
       "id": "verra-projects-open-for-public-comment-may-25--2026-05-25",
@@ -3362,6 +3389,31 @@
       "region": "world"
     },
     {
+      "id": "verra-vcs-6000",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Zambia Agroforestry Grouped Project",
+      "excerpt": "Zambia Agroforestry Grouped Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Zambia. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 1,77,525 tonnes CO₂ equivalent per year. Project proponent: ETG Climate Solutions SA. Crediting period runs 2025-12-01 to 2065-11-30.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6000",
+      "publishedAt": "2026-04-20T00:00:00.000Z",
+      "image": null,
+      "country": "Zambia",
+      "methodology": "VM0047",
+      "registryId": "6000",
+      "status": "Under development",
+      "meta": {
+        "proponent": "ETG Climate Solutions SA",
+        "region": "Africa",
+        "creditingPeriodStart": "2025-12-01",
+        "creditingPeriodEnd": "2065-11-30",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
       "id": "verra-vcs-5992",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3710,56 +3762,6 @@
       "region": "india"
     },
     {
-      "id": "verra-vcs-5968",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Carbon Cork Resilience Project",
-      "excerpt": "Carbon Cork Resilience Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Spain. The project is currently listed as \"Under validation\". It applies VM0047 methodology. Estimated annual emission reductions are 244 tonnes CO₂ equivalent per year. Project proponent: Multiple Proponents. Crediting period runs 2023-05-25 to 2053-05-24.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/5968",
-      "publishedAt": "2026-03-25T00:00:00.000Z",
-      "image": null,
-      "country": "Spain",
-      "methodology": "VM0047",
-      "registryId": "5968",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "Multiple Proponents",
-        "region": "Europe",
-        "creditingPeriodStart": "2023-05-25",
-        "creditingPeriodEnd": "2053-05-24",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-vcs-5970",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Respira Patagonia",
-      "excerpt": "Respira Patagonia is a Verified Carbon Standard (VCS) project registered on the Verra registry in Chile. The project is currently listed as \"Under validation\". It applies VM0042 methodology. Estimated annual emission reductions are 8,67,709 tonnes CO₂ equivalent per year. Project proponent: Gestión de inversiones Plan-C SPA. Crediting period runs 2024-12-13 to 2044-12-12.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/5970",
-      "publishedAt": "2026-03-25T00:00:00.000Z",
-      "image": null,
-      "country": "Chile",
-      "methodology": "VM0042",
-      "registryId": "5970",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "Gestión de inversiones Plan-C SPA",
-        "region": "Latin America",
-        "creditingPeriodStart": "2024-12-13",
-        "creditingPeriodEnd": "2044-12-12",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-india-launches-centralized-carbon-market-2026-03-23",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -3902,17 +3904,17 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
+      "id": "google-carbon-carbon-market-updates-indonesia-verra-ag-2025-10-16",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
-      "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
-      "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
-      "publishedAt": "2025-12-10T08:00:00.000Z",
-      "image": null,
+      "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
+      "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
+      "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
+      "publishedAt": "2025-10-16T07:00:00.000Z",
+      "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3920,7 +3922,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -3955,10 +3958,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
-      "excerpt": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets Fuel Cells Works",
+      "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login News Investors Research Consulting Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
       "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
       "publishedAt": "2025-09-01T07:00:00.000Z",
-      "image": null,
+      "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3966,7 +3969,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
