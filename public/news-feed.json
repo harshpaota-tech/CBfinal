@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-09T10:36:58.912Z",
+  "fetchedAt": "2026-06-09T15:53:26.506Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 86,
     "india": 24,
     "world": 62,
-    "withImages": 57,
-    "avgExcerptLength": 438,
+    "withImages": 55,
+    "avgExcerptLength": 429,
     "verra": 10,
     "registry": 24,
     "esg": 52
@@ -543,10 +543,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
-        "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login News Investors Research Consulting Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
+        "excerpt": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets Fuel Cells Works",
         "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
         "publishedAt": "2025-09-01T07:00:00.000Z",
-        "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -554,8 +554,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5"
         },
         "region": "india"
       },
@@ -634,6 +633,95 @@
     ],
     "world": [
       {
+        "id": "esg-today-italy-s-23-billion-plan-to-support-renew-2026-06-09",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Italy’s €23 Billion Plan to Support Renewable Energy Production Approved by EU",
+        "excerpt": "The European Commission announced that it has approved a €23 billion state aid program by Italy to support the deployment of renewable electricity generation, aimed at accelerating the country’s energy transition and helping meet EU renewable energy targets. The program will support the construction of installations that generate electricity using onshore wind, solar power, hydropower, and sewage gas, which are anticipated to add more than 37 GW of renewable electricity capacity – equivalent to approximately 48% of current RES capacity in Italy. The…",
+        "url": "https://www.esgtoday.com/italys-e23-billion-plan-to-support-renewable-energy-production-approved-by-eu/?utm_source=rss utm_medium=rss utm_campaign=italys-e23-billion-plan-to-support-renewable-energy-production-approved-by-eu",
+        "publishedAt": "2026-06-09T15:46:59.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Wind-Engie.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-cited-9-june-2026-europe-s-exceptional-h-2026-06-09",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Cited 9 June 2026: Europe’s ‘exceptional’ heatwave Warming forecast AMOC observations ‘at risk’",
+        "excerpt": "Welcome to Cited, your essential guide to new climate research. SPRING HEATWAVE: Temperature records for May fell across western Europe as the region baked in an “exceptionally early” heatwave, reported the Associated Press . The outlet noted that temperatures reached 35.1C in the UK and 36C in France at the end of last month, with the latter’s national weather service stating that a “heat dome” had produced temperatures more than 10C higher than “usual”. BBC News said temperatures reached 40.3C in Portugal. Carbon Brief explored how the media covered…",
+        "url": "https://www.carbonbrief.org/cited-9-june-2026-europes-exceptional-heatwave-warming-forecast-amoc-observations-at-risk/",
+        "publishedAt": "2026-06-09T14:44:36.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/china-dominates-levels-conventional-carbon-dioxide-removal.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Science",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-operationalizes-vcs-version-5-with-2026-06-09",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Operationalizes VCS Version 5 with Publication of Templates and Guidance",
+        "excerpt": "Verra has released updated versions of templates for the Verified Carbon Standard (VCS) Program . With this release, VCS Version 5 is fully operationalized, and all project proponents can begin using it. Launched in December 2025 , VCS Version 5 includes new and updated requirements to ensure that the program continues to enable carbon markets to operate at the scale, pace, and with the integrity needed to support global climate ambitions. In addition to project description, monitoring report, and validation/verification report templates, this release…",
+        "url": "https://verra.org/verra-operationalizes-vcs-version-5-with-publication-of-templates-and-guidance/",
+        "publishedAt": "2026-06-09T14:28:34.000Z",
+        "image": "https://verra.org/wp-content/uploads/imported/news/forest-photo-jpg-scaled.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-here-s-what-the-2026-election-is-really--2026-06-09",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Here s What the 2026 Election Is Really About: E, S G",
+        "excerpt": "At Novata, we work with hundreds of investment firms and thousands of companies on sustainability and the risks formerly known as ESG. Over the last couple of years, we watched the acronym ESG take a beating. It was politicized, deprioritized, and declared dead in multiple think pieces. Plenty of firms quietly stopped using the term, even as they kept doing the work. So it s been interesting to watch the 2026 midterm cycle take shape, because the issues animating American voters right now are aligned with the three pillars of the framework everyone said…",
+        "url": "https://www.esgtoday.com/heres-what-the-2026-election-is-really-about-e-s-g/?utm_source=rss utm_medium=rss utm_campaign=heres-what-the-2026-election-is-really-about-e-s-g",
+        "publishedAt": "2026-06-09T13:44:43.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Novata-Green.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Guest Posts",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-cdp-adds-new-ocean-category-to-sustainab-2026-06-09",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -663,7 +751,7 @@
         "tag": "ESG",
         "accent": "#60a5fa",
         "title": "BlackRock Appoints Louise Kooy-Henckel as Global Head of Sustainable and Transition Solutions",
-        "excerpt": "Investment giant BlackRock announced today the appointment of Louise Kooy-Henckel as Global Head of Sustainable and Transition Solutions, responsible for leading the firm’s efforts in sustainable and transition investing. Kooy-Henckel takes on her new position after joining BlackRock as EMEA Head of Sustainable and Transition Solutions in early 2025. Prior to joining BlackRock, Kooy-Henckel served as Managing Director and Investment Director, Sustainable and Impact Investments, EMEA at Wellington Management, responsible for leading ESG research and…",
+        "excerpt": "Investment giant BlackRock announced the appointment of Louise Kooy-Henckel as Global Head of Sustainable and Transition Solutions, responsible for leading the firm’s efforts in sustainable and transition investing. Kooy-Henckel takes on her new position after joining BlackRock as EMEA Head of Sustainable and Transition Solutions in early 2025. Prior to joining BlackRock, Kooy-Henckel served as Managing Director and Investment Director, Sustainable and Impact Investments, EMEA at Wellington Management, responsible for leading ESG research and…",
         "url": "https://www.esgtoday.com/blackrock-appoints-louise-kooy-henckel-as-global-head-of-sustainable-and-transition-solutions/?utm_source=rss utm_medium=rss utm_campaign=blackrock-appoints-louise-kooy-henckel-as-global-head-of-sustainable-and-transition-solutions",
         "publishedAt": "2026-06-09T07:47:23.000Z",
         "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/BlackRock-Kooy_Henckel.jpg",
@@ -987,50 +1075,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-nest-commits-200-million-to-ifm-to-back--2026-06-05",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Nest Commits £200 Million to IFM to Back Climate Solutions",
-        "excerpt": "Nest, the largest workplace pension scheme in the UK by membership, announced a £200 million (USD$269 million) commitment to support next-generation climate solutions through a partnership with investment manager IFM Investors. IFM’s next generation infrastructure credit strategy focuses on international lending opportunities across developed markets, supported by a pipeline of opportunities in the U.K. The strategy targets growth-stage companies with proven technologies and demonstrated commercial demand that have progressed beyond early-stage risk but…",
-        "url": "https://www.esgtoday.com/nest-commits-200-million-to-ifm-to-back-climate-solutions/?utm_source=rss utm_medium=rss utm_campaign=nest-commits-200-million-to-ifm-to-back-climate-solutions",
-        "publishedAt": "2026-06-05T11:04:17.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Nest2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Investors",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-fusion-developer-helion-raises-465-milli-2026-06-05",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Fusion Developer Helion Raises $465 Million at Triple its Prior Valuation",
-        "excerpt": "Fusion energy company Helion announced that it has raised $465 million in a Series G funding round, with proceeds aimed at accelerating commercial deployment of fusion energy in the U.S. and expanding the company’s operations. The new financing round values Helion, which aims to build the world’s first fusion power plant, at $15.5 billion, nearly triple the valuation from its Series F raise in early 2025. Fusion, the process of combining two atoms to release energy, is seen as a potential source of abundant, zero-carbon power. Unlike fossil fuels,…",
-        "url": "https://www.esgtoday.com/fusion-developer-helion-raises-465-million-at-triple-its-prior-valuation/?utm_source=rss utm_medium=rss utm_campaign=fusion-developer-helion-raises-465-million-at-triple-its-prior-valuation",
-        "publishedAt": "2026-06-05T10:02:35.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Helion2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-google-commits-to-replenish-more-water-t-2026-06-04",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -1299,28 +1343,6 @@
         "region": "world"
       },
       {
-        "id": "carbon-brief-ai-boom-means-us-is-now-investing-more-i-2026-05-29",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "POLICY",
-        "accent": "#5eead4",
-        "title": "AI boom means US is now ‘investing more’ in fossil-fuel power than China",
-        "excerpt": "The “data-centre boom” is driving a surge in gas investment in the US, pushing its fossil-power spending ahead of China, according to the International Energy Agency (IEA). A rapid expansion of data centres across the nation is at the heart of the US tech sector’s plans to continue “ dominat[ing] ” the global artificial intelligence (AI) industry. High demand for electricity to power these data centres has led to companies rushing to build new gas-fired power plants across the country. This trend, combined with “ soaring ” gas-turbine prices, drove a…",
-        "url": "https://www.carbonbrief.org/ai-boom-means-us-is-now-investing-more-in-fossil-fuel-power-than-china/",
-        "publishedAt": "2026-05-29T12:58:11.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/ai-boom-means-us-now-investing-fossil-fuel-power-china.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "US Policy",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-projects-open-for-public-comment-may-25--2026-05-25",
         "source": "verra",
         "sourceName": "Verra",
@@ -1429,29 +1451,6 @@
         "status": null,
         "meta": {
           "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-verra-announces-vetted-data-service-prov-2026-05-14",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra Announces Vetted Data Service Providers for ARR Methodology",
-        "excerpt": "Verra has announced that three data service providers (DSPs) are now vetted to provide stocking index (SI) data that establish performance benchmarks for projects using Verified Carbon Standard (VCS) methodology VM0047 Afforestation, Reforestation, and Revegetation . Making the list of vetted DSPs available offers the opportunity for an efficient selection process, which in turn will streamline projects registration and verification processes. Projects can also opt to use their own data for performance benchmarks from DSPs not listed. The initial vetted…",
-        "url": "https://verra.org/verra-announces-vetted-data-service-providers-for-arr-methodology/",
-        "publishedAt": "2026-05-14T15:58:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2025/08/paraguay.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
         },
@@ -1857,6 +1856,31 @@
         "region": "world"
       },
       {
+        "id": "verra-vcs-5972",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "CORPUS INDAIATUBA LANDFILL GAS PROJECT",
+        "excerpt": "CORPUS INDAIATUBA LANDFILL GAS PROJECT is a Verified Carbon Standard (VCS) project registered on the Verra registry in Brazil. The project is currently listed as \"Under validation\". It applies VMR0016 methodology. Estimated annual emission reductions are 1,28,558 tonnes CO₂ equivalent per year. Project proponent: CORPUS SANEAMENTO E OBRAS LTDA. Crediting period runs 2025-09-03 to 2032-09-02.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5972",
+        "publishedAt": "2026-03-27T00:00:00.000Z",
+        "image": null,
+        "country": "Brazil",
+        "methodology": "VMR0016",
+        "registryId": "5972",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "CORPUS SANEAMENTO E OBRAS LTDA",
+          "region": "Latin America",
+          "creditingPeriodStart": "2025-09-03",
+          "creditingPeriodEnd": "2032-09-02",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
         "id": "verra-vcs-5968",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1902,31 +1926,6 @@
           "region": "Latin America",
           "creditingPeriodStart": "2024-12-13",
           "creditingPeriodEnd": "2044-12-12",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-vcs-5967",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Community Collection and Ocean Bound Plastic Waste Recycling in Indonesia",
-        "excerpt": "Community Collection and Ocean Bound Plastic Waste Recycling in Indonesia is a Verified Carbon Standard (VCS) project registered on the Verra registry in Indonesia. The project is currently listed as \"Under validation\". It applies VMR0007 methodology. Estimated annual emission reductions are 48,000 tonnes CO₂ equivalent per year. Project proponent: Indorama Ventures Global Services Limited (IVGS). Crediting period runs 2023-10-11 to 2033-10-10.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/5967",
-        "publishedAt": "2026-03-24T00:00:00.000Z",
-        "image": null,
-        "country": "Indonesia",
-        "methodology": "VMR0007",
-        "registryId": "5967",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "Indorama Ventures Global Services Limited (IVGS)",
-          "region": "Asia",
-          "creditingPeriodStart": "2023-10-11",
-          "creditingPeriodEnd": "2033-10-10",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -1980,17 +1979,17 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-carbon-market-updates-indonesia-verra-ag-2025-10-16",
+        "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
-        "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
-        "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
-        "publishedAt": "2025-10-16T07:00:00.000Z",
-        "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
+        "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
+        "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
+        "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
+        "publishedAt": "2025-12-10T08:00:00.000Z",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1998,8 +1997,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
         },
         "region": "world"
       },
@@ -2078,6 +2076,95 @@
   },
   "articles": [
     {
+      "id": "esg-today-italy-s-23-billion-plan-to-support-renew-2026-06-09",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Italy’s €23 Billion Plan to Support Renewable Energy Production Approved by EU",
+      "excerpt": "The European Commission announced that it has approved a €23 billion state aid program by Italy to support the deployment of renewable electricity generation, aimed at accelerating the country’s energy transition and helping meet EU renewable energy targets. The program will support the construction of installations that generate electricity using onshore wind, solar power, hydropower, and sewage gas, which are anticipated to add more than 37 GW of renewable electricity capacity – equivalent to approximately 48% of current RES capacity in Italy. The…",
+      "url": "https://www.esgtoday.com/italys-e23-billion-plan-to-support-renewable-energy-production-approved-by-eu/?utm_source=rss utm_medium=rss utm_campaign=italys-e23-billion-plan-to-support-renewable-energy-production-approved-by-eu",
+      "publishedAt": "2026-06-09T15:46:59.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Wind-Engie.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-cited-9-june-2026-europe-s-exceptional-h-2026-06-09",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Cited 9 June 2026: Europe’s ‘exceptional’ heatwave Warming forecast AMOC observations ‘at risk’",
+      "excerpt": "Welcome to Cited, your essential guide to new climate research. SPRING HEATWAVE: Temperature records for May fell across western Europe as the region baked in an “exceptionally early” heatwave, reported the Associated Press . The outlet noted that temperatures reached 35.1C in the UK and 36C in France at the end of last month, with the latter’s national weather service stating that a “heat dome” had produced temperatures more than 10C higher than “usual”. BBC News said temperatures reached 40.3C in Portugal. Carbon Brief explored how the media covered…",
+      "url": "https://www.carbonbrief.org/cited-9-june-2026-europes-exceptional-heatwave-warming-forecast-amoc-observations-at-risk/",
+      "publishedAt": "2026-06-09T14:44:36.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/china-dominates-levels-conventional-carbon-dioxide-removal.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Science",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-verra-operationalizes-vcs-version-5-with-2026-06-09",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Operationalizes VCS Version 5 with Publication of Templates and Guidance",
+      "excerpt": "Verra has released updated versions of templates for the Verified Carbon Standard (VCS) Program . With this release, VCS Version 5 is fully operationalized, and all project proponents can begin using it. Launched in December 2025 , VCS Version 5 includes new and updated requirements to ensure that the program continues to enable carbon markets to operate at the scale, pace, and with the integrity needed to support global climate ambitions. In addition to project description, monitoring report, and validation/verification report templates, this release…",
+      "url": "https://verra.org/verra-operationalizes-vcs-version-5-with-publication-of-templates-and-guidance/",
+      "publishedAt": "2026-06-09T14:28:34.000Z",
+      "image": "https://verra.org/wp-content/uploads/imported/news/forest-photo-jpg-scaled.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-here-s-what-the-2026-election-is-really--2026-06-09",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Here s What the 2026 Election Is Really About: E, S G",
+      "excerpt": "At Novata, we work with hundreds of investment firms and thousands of companies on sustainability and the risks formerly known as ESG. Over the last couple of years, we watched the acronym ESG take a beating. It was politicized, deprioritized, and declared dead in multiple think pieces. Plenty of firms quietly stopped using the term, even as they kept doing the work. So it s been interesting to watch the 2026 midterm cycle take shape, because the issues animating American voters right now are aligned with the three pillars of the framework everyone said…",
+      "url": "https://www.esgtoday.com/heres-what-the-2026-election-is-really-about-e-s-g/?utm_source=rss utm_medium=rss utm_campaign=heres-what-the-2026-election-is-really-about-e-s-g",
+      "publishedAt": "2026-06-09T13:44:43.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Novata-Green.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Guest Posts",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-today-cdp-adds-new-ocean-category-to-sustainab-2026-06-09",
       "source": "esg-today",
       "sourceName": "ESG Today",
@@ -2107,7 +2194,7 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "BlackRock Appoints Louise Kooy-Henckel as Global Head of Sustainable and Transition Solutions",
-      "excerpt": "Investment giant BlackRock announced today the appointment of Louise Kooy-Henckel as Global Head of Sustainable and Transition Solutions, responsible for leading the firm’s efforts in sustainable and transition investing. Kooy-Henckel takes on her new position after joining BlackRock as EMEA Head of Sustainable and Transition Solutions in early 2025. Prior to joining BlackRock, Kooy-Henckel served as Managing Director and Investment Director, Sustainable and Impact Investments, EMEA at Wellington Management, responsible for leading ESG research and…",
+      "excerpt": "Investment giant BlackRock announced the appointment of Louise Kooy-Henckel as Global Head of Sustainable and Transition Solutions, responsible for leading the firm’s efforts in sustainable and transition investing. Kooy-Henckel takes on her new position after joining BlackRock as EMEA Head of Sustainable and Transition Solutions in early 2025. Prior to joining BlackRock, Kooy-Henckel served as Managing Director and Investment Director, Sustainable and Impact Investments, EMEA at Wellington Management, responsible for leading ESG research and…",
       "url": "https://www.esgtoday.com/blackrock-appoints-louise-kooy-henckel-as-global-head-of-sustainable-and-transition-solutions/?utm_source=rss utm_medium=rss utm_campaign=blackrock-appoints-louise-kooy-henckel-as-global-head-of-sustainable-and-transition-solutions",
       "publishedAt": "2026-06-09T07:47:23.000Z",
       "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/BlackRock-Kooy_Henckel.jpg",
@@ -2454,50 +2541,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-nest-commits-200-million-to-ifm-to-back--2026-06-05",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Nest Commits £200 Million to IFM to Back Climate Solutions",
-      "excerpt": "Nest, the largest workplace pension scheme in the UK by membership, announced a £200 million (USD$269 million) commitment to support next-generation climate solutions through a partnership with investment manager IFM Investors. IFM’s next generation infrastructure credit strategy focuses on international lending opportunities across developed markets, supported by a pipeline of opportunities in the U.K. The strategy targets growth-stage companies with proven technologies and demonstrated commercial demand that have progressed beyond early-stage risk but…",
-      "url": "https://www.esgtoday.com/nest-commits-200-million-to-ifm-to-back-climate-solutions/?utm_source=rss utm_medium=rss utm_campaign=nest-commits-200-million-to-ifm-to-back-climate-solutions",
-      "publishedAt": "2026-06-05T11:04:17.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Nest2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Investors",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-fusion-developer-helion-raises-465-milli-2026-06-05",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Fusion Developer Helion Raises $465 Million at Triple its Prior Valuation",
-      "excerpt": "Fusion energy company Helion announced that it has raised $465 million in a Series G funding round, with proceeds aimed at accelerating commercial deployment of fusion energy in the U.S. and expanding the company’s operations. The new financing round values Helion, which aims to build the world’s first fusion power plant, at $15.5 billion, nearly triple the valuation from its Series F raise in early 2025. Fusion, the process of combining two atoms to release energy, is seen as a potential source of abundant, zero-carbon power. Unlike fossil fuels,…",
-      "url": "https://www.esgtoday.com/fusion-developer-helion-raises-465-million-at-triple-its-prior-valuation/?utm_source=rss utm_medium=rss utm_campaign=fusion-developer-helion-raises-465-million-at-triple-its-prior-valuation",
-      "publishedAt": "2026-06-05T10:02:35.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Helion2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-google-commits-to-replenish-more-water-t-2026-06-04",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2812,28 +2855,6 @@
       "region": "india"
     },
     {
-      "id": "carbon-brief-ai-boom-means-us-is-now-investing-more-i-2026-05-29",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "POLICY",
-      "accent": "#5eead4",
-      "title": "AI boom means US is now ‘investing more’ in fossil-fuel power than China",
-      "excerpt": "The “data-centre boom” is driving a surge in gas investment in the US, pushing its fossil-power spending ahead of China, according to the International Energy Agency (IEA). A rapid expansion of data centres across the nation is at the heart of the US tech sector’s plans to continue “ dominat[ing] ” the global artificial intelligence (AI) industry. High demand for electricity to power these data centres has led to companies rushing to build new gas-fired power plants across the country. This trend, combined with “ soaring ” gas-turbine prices, drove a…",
-      "url": "https://www.carbonbrief.org/ai-boom-means-us-is-now-investing-more-in-fossil-fuel-power-than-china/",
-      "publishedAt": "2026-05-29T12:58:11.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/05/ai-boom-means-us-now-investing-fossil-fuel-power-china.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "US Policy",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-may-25--2026-05-25",
       "source": "verra",
       "sourceName": "Verra",
@@ -2989,29 +3010,6 @@
       "status": null,
       "meta": {
         "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-verra-announces-vetted-data-service-prov-2026-05-14",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Announces Vetted Data Service Providers for ARR Methodology",
-      "excerpt": "Verra has announced that three data service providers (DSPs) are now vetted to provide stocking index (SI) data that establish performance benchmarks for projects using Verified Carbon Standard (VCS) methodology VM0047 Afforestation, Reforestation, and Revegetation . Making the list of vetted DSPs available offers the opportunity for an efficient selection process, which in turn will streamline projects registration and verification processes. Projects can also opt to use their own data for performance benchmarks from DSPs not listed. The initial vetted…",
-      "url": "https://verra.org/verra-announces-vetted-data-service-providers-for-arr-methodology/",
-      "publishedAt": "2026-05-14T15:58:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2025/08/paraguay.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
       },
@@ -3638,6 +3636,31 @@
       "region": "world"
     },
     {
+      "id": "verra-vcs-5972",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "CORPUS INDAIATUBA LANDFILL GAS PROJECT",
+      "excerpt": "CORPUS INDAIATUBA LANDFILL GAS PROJECT is a Verified Carbon Standard (VCS) project registered on the Verra registry in Brazil. The project is currently listed as \"Under validation\". It applies VMR0016 methodology. Estimated annual emission reductions are 1,28,558 tonnes CO₂ equivalent per year. Project proponent: CORPUS SANEAMENTO E OBRAS LTDA. Crediting period runs 2025-09-03 to 2032-09-02.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/5972",
+      "publishedAt": "2026-03-27T00:00:00.000Z",
+      "image": null,
+      "country": "Brazil",
+      "methodology": "VMR0016",
+      "registryId": "5972",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "CORPUS SANEAMENTO E OBRAS LTDA",
+        "region": "Latin America",
+        "creditingPeriodStart": "2025-09-03",
+        "creditingPeriodEnd": "2032-09-02",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
       "id": "verra-vcs-5973",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3732,31 +3755,6 @@
         "region": "Latin America",
         "creditingPeriodStart": "2024-12-13",
         "creditingPeriodEnd": "2044-12-12",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-vcs-5967",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Community Collection and Ocean Bound Plastic Waste Recycling in Indonesia",
-      "excerpt": "Community Collection and Ocean Bound Plastic Waste Recycling in Indonesia is a Verified Carbon Standard (VCS) project registered on the Verra registry in Indonesia. The project is currently listed as \"Under validation\". It applies VMR0007 methodology. Estimated annual emission reductions are 48,000 tonnes CO₂ equivalent per year. Project proponent: Indorama Ventures Global Services Limited (IVGS). Crediting period runs 2023-10-11 to 2033-10-10.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/5967",
-      "publishedAt": "2026-03-24T00:00:00.000Z",
-      "image": null,
-      "country": "Indonesia",
-      "methodology": "VMR0007",
-      "registryId": "5967",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "Indorama Ventures Global Services Limited (IVGS)",
-        "region": "Asia",
-        "creditingPeriodStart": "2023-10-11",
-        "creditingPeriodEnd": "2033-10-10",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
@@ -3904,17 +3902,17 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-carbon-market-updates-indonesia-verra-ag-2025-10-16",
+      "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
-      "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
-      "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
-      "publishedAt": "2025-10-16T07:00:00.000Z",
-      "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
+      "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
+      "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
+      "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
+      "publishedAt": "2025-12-10T08:00:00.000Z",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3922,8 +3920,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
       },
       "region": "world"
     },
@@ -3958,10 +3955,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
-      "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login News Investors Research Consulting Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
+      "excerpt": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets Fuel Cells Works",
       "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
       "publishedAt": "2025-09-01T07:00:00.000Z",
-      "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3969,8 +3966,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5"
       },
       "region": "india"
     },
