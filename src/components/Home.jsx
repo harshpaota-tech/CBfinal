@@ -6,7 +6,7 @@ import ProgramsGrid from "./ProgramsGrid.jsx";
 import ImpactBanner from "./ImpactBanner.jsx";
 import ProjectShowcase from "./ProjectShowcase.jsx";
 import NewsSection from "./NewsSection.jsx";
-import { STATE_COUNT, CREDITS } from "../data/credits.js";
+import { CREDITS, INDIA_DEMO_COUNT, INDIA_STATE_COUNT } from "../data/credits.js";
 import { CTA_BANNER, bgImage } from "../data/media.js";
 
 // Lazy-loaded: world-atlas topojson (~15 KB gz), d3-geo (~30 KB gz),
@@ -96,10 +96,10 @@ export default function Home({ setPage }) {
           </p>
           <div style={{ display: "flex", gap: 12, justifyContent: "center", flexWrap: "wrap" }}>
             <Btn size="lg" onClick={() => setPage("register")} style={{ boxShadow: "0 0 48px rgba(34,197,94,0.4)" }}>Create Free Account →</Btn>
-            <Btn size="lg" variant="outline" onClick={() => setPage("marketplace")}>Browse {CREDITS.length} Projects</Btn>
+            <Btn size="lg" variant="outline" onClick={() => setPage("marketplace")}>Browse {CREDITS.length} Demo Listings</Btn>
           </div>
           <div style={{ marginTop: 20, fontSize: 12, color: "#cbd5e1" }}>
-            {CREDITS.length} verified projects · {STATE_COUNT} regions · India-first, globally sourced
+            {INDIA_DEMO_COUNT} demo India listings · {INDIA_STATE_COUNT} states · no real projects listed yet
           </div>
         </div>
       </section>

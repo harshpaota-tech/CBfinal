@@ -434,8 +434,19 @@ export const CREDITS = [
 
 export const FEATURED_IDS = [1, 6, 11];
 
-export const DEMO_CREDITS = CREDITS.filter((c) => c.demo);
-export const LIVE_CREDITS = CREDITS.filter((c) => !c.demo);
+/** Every marketplace listing is illustrative — no real projects are listed yet. */
+export const ALL_LISTINGS_ARE_DEMO = true;
+
+export const INDIA_CREDITS = CREDITS.filter((c) => c.country === "India");
+export const INDIA_DEMO_COUNT = INDIA_CREDITS.length;
+export const INDIA_STATE_COUNT = new Set(INDIA_CREDITS.map((c) => c.state)).size;
+export const INTERNATIONAL_DEMO_COUNT = CREDITS.length - INDIA_DEMO_COUNT;
+
+export const isDemoCredit = (credit) =>
+  ALL_LISTINGS_ARE_DEMO || Boolean(credit?.demo);
+
+export const DEMO_CREDITS = CREDITS;
+export const LIVE_CREDITS = [];
 
 export const getFeatured = () =>
   FEATURED_IDS.map((id) => CREDITS.find((c) => c.id === id)).filter(Boolean);

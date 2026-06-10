@@ -1,11 +1,12 @@
 import { useMemo, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { T } from "../theme.js";
-import { CATEGORIES, CREDITS, STATES, COUNTRY_COUNT, formatINR, formatUSD } from "../data/credits.js";
+import { CATEGORIES, CREDITS, STATES, INDIA_DEMO_COUNT, INDIA_STATE_COUNT, INTERNATIONAL_DEMO_COUNT, isDemoCredit, formatINR, formatUSD } from "../data/credits.js";
 import { PROJECT_PHOTOS, PAGE_BANNERS, bgImage } from "../data/media.js";
 import Btn from "./ui/Btn.jsx";
 import Badge from "./ui/Badge.jsx";
 import PageBanner from "./ui/PageBanner.jsx";
+import DemoNotice from "./ui/DemoNotice.jsx";
 
 const SORTS = [
   { id: "price-asc", label: "Price: Low → High" },
@@ -39,8 +40,8 @@ function ProjectCard({ c, onBuy }) {
         <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, rgba(4,8,15,0.10) 40%, rgba(4,8,15,0.65) 100%)" }} />
         <div style={{ position: "absolute", top: 12, left: 12, display: "flex", gap: 8, flexWrap: "wrap" }}>
           <Badge color={c.color}>{c.type}</Badge>
-          {c.demo && (
-            <Badge color="#f59e0b">Demo</Badge>
+          {isDemoCredit(c) && (
+            <Badge color="#f59e0b">{t("demo.marketplaceCard")}</Badge>
           )}
         </div>
         <div style={{ position: "absolute", top: 12, right: 12, fontSize: 11, color: "#fff", background: "rgba(13,21,37,0.7)", backdropFilter: "blur(8px)", border: `1px solid ${T.border}`, borderRadius: 999, padding: "3px 10px", fontWeight: 600 }}>
@@ -157,12 +158,20 @@ export default function Marketplace({ setPage, onBuy }) {
     <div className="fade">
       <PageBanner
         tag="Marketplace"
-        title="Buy verified environmental credits"
-        subtitle={`${CREDITS.length} projects across ${COUNTRY_COUNT} ${COUNTRY_COUNT === 1 ? "country" : "countries"} · India-first, globally sourced · Settled in INR`}
+        title="Browse demo environmental credits"
+        subtitle={`${INDIA_DEMO_COUNT} demo India listings across ${INDIA_STATE_COUNT} states · ${INTERNATIONAL_DEMO_COUNT} international showcase projects · No real projects listed yet`}
         photo={PAGE_BANNERS.marketplace}
         height={300}
       />
       <div style={{ maxWidth: 1200, margin: "0 auto", padding: "50px 24px 80px" }}>
+
+      <DemoNotice
+        variant="marketplace"
+        total={CREDITS.length}
+        indiaCount={INDIA_DEMO_COUNT}
+        stateCount={INDIA_STATE_COUNT}
+        intlCount={INTERNATIONAL_DEMO_COUNT}
+      />
 
       <div style={{ display: "flex", gap: 12, marginBottom: 22, flexWrap: "wrap" }}>
         <div style={{ position: "relative", flex: "1 1 280px", minWidth: 220 }}>

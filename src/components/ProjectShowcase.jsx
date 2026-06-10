@@ -2,7 +2,7 @@ import { useTranslation } from "react-i18next";
 import { T } from "../theme.js";
 import Btn from "./ui/Btn.jsx";
 import Badge from "./ui/Badge.jsx";
-import { getFeatured, formatINR, formatUSD } from "../data/credits.js";
+import { getFeatured, isDemoCredit, formatINR, formatUSD } from "../data/credits.js";
 import { PROJECT_PHOTOS, bgImage } from "../data/media.js";
 
 /**
@@ -23,7 +23,7 @@ export default function ProjectShowcase({ setPage }) {
           <div>
             <div style={{ fontSize: 11, fontWeight: 800, color: "#86efac", letterSpacing: 3, textTransform: "uppercase", marginBottom: 10 }}>Featured Projects</div>
             <h2 style={{ fontFamily: "'Outfit',sans-serif", fontSize: "clamp(28px,4vw,38px)", fontWeight: 900, margin: 0, lineHeight: 1.15, maxWidth: 720 }}>
-              Handpicked high-impact credits from Indian operators
+              Handpicked demo credits — no real projects listed yet
             </h2>
           </div>
           <Btn variant="outline" onClick={() => setPage("marketplace")}>View All →</Btn>
@@ -81,8 +81,9 @@ function ShowcaseCard({ c, t, onClick }) {
         <div data-showcase-img style={{ position: "absolute", inset: 0, transition: "transform .8s ease", ...(photo ? bgImage(photo) : { background: c.color + "33" }) }} />
         <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, rgba(4,8,15,0.05) 50%, rgba(4,8,15,0.85) 100%)" }} />
 
-        <div style={{ position: "absolute", top: 14, left: 14, display: "flex", gap: 8 }}>
+        <div style={{ position: "absolute", top: 14, left: 14, display: "flex", gap: 8, flexWrap: "wrap" }}>
           <Badge color={c.color}>{c.type}</Badge>
+          {isDemoCredit(c) && <Badge color="#f59e0b">Demo</Badge>}
         </div>
 
         <div style={{ position: "absolute", top: 14, right: 14, background: "rgba(13,21,37,0.6)", backdropFilter: "blur(8px)", border: `1px solid ${T.border}`, borderRadius: 999, padding: "4px 10px", fontSize: 12, color: T.text2, fontWeight: 600 }}>
