@@ -37,8 +37,11 @@ function ProjectCard({ c, onBuy }) {
       <div style={{ position: "relative", aspectRatio: "16/9", overflow: "hidden" }}>
         <div data-mkt-img style={{ position: "absolute", inset: 0, transition: "transform .6s ease", transform: hov ? "scale(1.06)" : "none", ...(photo ? bgImage(photo) : { background: c.color + "33" }) }} />
         <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, rgba(4,8,15,0.10) 40%, rgba(4,8,15,0.65) 100%)" }} />
-        <div style={{ position: "absolute", top: 12, left: 12, display: "flex", gap: 8 }}>
+        <div style={{ position: "absolute", top: 12, left: 12, display: "flex", gap: 8, flexWrap: "wrap" }}>
           <Badge color={c.color}>{c.type}</Badge>
+          {c.demo && (
+            <Badge color="#f59e0b">Demo</Badge>
+          )}
         </div>
         <div style={{ position: "absolute", top: 12, right: 12, fontSize: 11, color: "#fff", background: "rgba(13,21,37,0.7)", backdropFilter: "blur(8px)", border: `1px solid ${T.border}`, borderRadius: 999, padding: "3px 10px", fontWeight: 600 }}>
           {c.flag} {c.state}
