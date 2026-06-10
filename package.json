@@ -9,6 +9,7 @@
     "prebuild": "npm run fetch-news",
     "dev": "vite",
     "build": "vite build",
+    "postbuild": "node scripts/generate-pages.mjs",
     "preview": "vite preview"
   },
   "dependencies": {

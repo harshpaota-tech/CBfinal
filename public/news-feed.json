@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-10T15:12:06.642Z",
+  "fetchedAt": "2026-06-10T16:34:20.282Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,14 +47,38 @@
     "total": 86,
     "india": 24,
     "world": 62,
-    "withImages": 55,
-    "avgExcerptLength": 425,
+    "withImages": 54,
+    "avgExcerptLength": 420,
     "verra": 10,
     "registry": 24,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "google-india-ieefa-report-highlights-key-factors-that-2026-06-06",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "IEEFA Report Highlights Key Factors That Will Shape Carbon Prices Under India's New Trading Scheme - SolarQuarter",
+        "excerpt": "As India moves forward with implementing its Carbon Credit Trading Scheme (CCTS), a new report from the Institute for Energy Economics and Financial Analysis explores the factors that will influence carbon price formation and determine how effectively the scheme supports industrial decarbonisation. The report, titled Potential Drivers of Carbon Price Formation in the CCTS: Design and Market Dynamics in the Indian Carbon Market, examines the structure of India s intensity-based emissions trading system, which will initially cover seven industrial sectors…",
+        "url": "https://solarquarter.com/2026/06/06/ieefa-report-highlights-key-factors-that-will-shape-carbon-prices-under-indias-new-trading-scheme/",
+        "publishedAt": "2026-06-06T07:05:48.000Z",
+        "image": "https://solarquarter.com/wp-content/uploads/2022/10/17-3.png",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmllSWdIYTh2cHJGOHJwRUhkc0laNmhGQ3ExTHd2ZS1CQkRsSnlxWFpGUlA5UWNQODJtTElaSUJmUmMtN3Jyc2YwQ2gza0RSQXZYZ1dzcWVJTGVOVnlRMlg2UUZpeHZqdE9FLS1QZW9UWmd5V0h6U1ZveTZYVURRZ1h1YkpIanpoLWxITzR0cThQU2JyelByZml4N19XMU1MbktrWWpJQlZDMWVNSmVCc2xzRXlaaURXZV9ENHRiaTlmd2FCaGp0cjhzV2w0aGM?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
       {
         "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
         "source": "google-india",
@@ -197,30 +221,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-the-brics-climate-stress-test-india-s-op-2026-05-02",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture - The Diplomat – Asia-Pacific",
-        "excerpt": "All Sections Search Read The Diplomat , Know The Asia-Pacific Diplomat Brief Weekly Newsletter The Diplomat Home Page About Us Contact Us Write for Us Advertise Syndicate Privacy Newsletter Subscriptions Flashpoints The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture Recent Features Society Long Night Over Hualien: The China Threat Through the Eyes of Taiwan’s Indigenous Peoples Society Afghanistan’s Women: Erased Videos The North Korea Succession Issue Economy India’s Eye in the Sky: The Rise of a…",
-        "url": "https://thediplomat.com/2026/05/the-brics-climate-stress-test-indias-opportunity-to-reshape-global-climate-finance-architecture/",
-        "publishedAt": "2026-05-02T07:00:00.000Z",
-        "image": "https://thediplomat.com/wp-content/uploads/2025/10/sizes/td-story-s-2/thediplomat_2025-10-08-173414.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGtXNFB0OXhYNnkwQVZPX2xTNnNDbEdfUUhfTEVYTTk0OWF2cFVWSWNNN3hrR1NQRG1ScjR4WkMtYl8wWXRWck9ZMDlWdDc3YlZmdnRPbnFaNzdDN0pmYUx6bmZVaGdqS3RWTGRraXMtUWd3MGFkTTJ5bmVPT0haRnVTZ0ptUy1ETDNiOUNGZkdCVVRsU2pCb2FsRmRvTWpGa3RUZXJZY1N0dDk2ckp1RTYtV3JOWWU0VUhYdmpjcWNhbl80TXBr?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -252,10 +252,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "Modelling insights and design choices for a credible Indian carbon market: Workshop summary report - Institute for Energy Economics and Financial Analysis (IEEFA)",
-        "excerpt": " Language Newsroom View the IEEFA Newsroom Insights Reports Fact Sheets Testimony/Submission Briefing Note Slides Press Releases Media Inquiries In the Media Research View all research Or browse one of our major research areas below Coal Petrochemicals Climate Finance Carbon Capture & Storage Renewables & Storage Energy Transition & Policy Oil/Gas & LNG Power & Utilities Steel Regions North America Asia Europe South Asia Australia About What We Do Who We Are Conference Contact Us Employment Events Subscribe  Language  Language  About the Authors…",
+        "excerpt": "Modelling insights and design choices for a credible Indian carbon market: Workshop summary report Institute for Energy Economics and Financial Analysis (IEEFA)",
         "url": "https://ieefa.org/resources/modelling-insights-and-design-choices-credible-indian-carbon-market-workshop-summary",
         "publishedAt": "2026-04-23T07:00:00.000Z",
-        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-04/CCS-shutterstock_1555865300.jpg?itok=iLGz4_jn",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -263,8 +263,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemt4aE9zOTJrZ3pYQVFKWmg1c2xGQjR2RjNRNU9nXzgtVzNiTlUwc2RsSGJ4ejRldUg3OHJmYmpmSFJXS1lXME9Ec1ctWFpjVFhQZ0FFdkdYZHNHSHMxTjA3OXNtYWowS2x3YlhZcXVscXh6eU5EUk1QLTRGV0ZFQzlzZVh3dnJTN0JNMngtRk81REVZRndUZ0JLQUVVV3YyT01GOW5ERFBzMVl6MlVhV0xn?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemt4aE9zOTJrZ3pYQVFKWmg1c2xGQjR2RjNRNU9nXzgtVzNiTlUwc2RsSGJ4ejRldUg3OHJmYmpmSFJXS1lXME9Ec1ctWFpjVFhQZ0FFdkdYZHNHSHMxTjA3OXNtYWowS2x3YlhZcXVscXh6eU5EUk1QLTRGV0ZFQzlzZVh3dnJTN0JNMngtRk81REVZRndUZ0JLQUVVV3YyT01GOW5ERFBzMVl6MlVhV0xn?oc=5"
         },
         "region": "india"
       },
@@ -567,7 +566,7 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam - The Indian Express",
-        "excerpt": "Weather ePaper Today’s Paper Journalism of Courage Home ePaper Politics Explained Opinion India Business Premium Cities UPSC Entertainment Sports World Lifestyle Tech Subscribe Sign In Trending UPSC Offer Long Reads Legal News Health Research Games 🎙️ Podcast Advertisement News UPSC Current Affairs UPSC Essentials Knowledge Nugget: What you must know about India s green hydrogen plants for the UPSC exam Premium Knowledge Nugget: What you must know about India s green hydrogen plants for the UPSC exam Uttar Pradesh Chief Minister Yogi Adityanath on…",
+        "excerpt": "Weather ePaper Today’s Paper Journalism of Courage Home ePaper Politics Explained Opinion India Business Premium Cities UPSC Entertainment Fifa World Cup World Lifestyle Tech Subscribe Sign In Trending UPSC Offer Long Reads Legal News Health Research Games 🎙️ Podcast Advertisement News UPSC Current Affairs UPSC Essentials Knowledge Nugget: What you must know about India s green hydrogen plants for the UPSC exam Premium Knowledge Nugget: What you must know about India s green hydrogen plants for the UPSC exam Uttar Pradesh Chief Minister Yogi Adityanath…",
         "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-indias-green-hydrogen-plants-upsc-exam-10198700/",
         "publishedAt": "2025-08-20T07:00:00.000Z",
         "image": "https://images.indianexpress.com/2025/08/Knowledge-Nugget-Indias-Green-hydrogen-plants.jpg",
@@ -633,6 +632,28 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-bp-reshapes-organizational-structure-ami-2026-06-10",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "BP reshapes organizational structure amid years-long portfolio review",
+        "excerpt": "The company will split into upstream and downstream segments, replacing the current three-part structure that also includes a customers and products arm.",
+        "url": "https://www.esgdive.com/news/bp-reshapes-organizational-structure-amid-years-long-portfolio-review/822501/",
+        "publishedAt": "2026-06-10T15:57:00.000Z",
+        "image": "https://imgproxy.divecdn.com/elBmoTMG8vtOol80eBesreIKJKXBlJjJocMt8iLycVY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01NjAwNjQwOS5qcGc=.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-ardian-launches-new-nature-based-solutio-2026-06-10",
         "source": "esg-today",
@@ -965,6 +986,29 @@
         "region": "world"
       },
       {
+        "id": "verra-verra-selects-methodologies-for-further--2026-06-08",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Selects Methodologies for Further Development, Shapes Direction of Future Climate Impact",
+        "excerpt": "Verra has selected several proposed approaches to undergo further development into new or revised methodologies, modules, or tools in the Verified Carbon Standard (VCS) Program . These selection decisions follow a careful review of a broad range of methodology idea notes (MINs), enabling Verra to advance high-impact methodologies for climate mitigation activities and bring them to market in a timely manner. The selected methodology proposals include the following: The proposals were selected from MINs that were submitted by January 31, 2026, from…",
+        "url": "https://verra.org/verra-selects-methodologies-for-further-development-shapes-direction-of-future-climate-impact/",
+        "publishedAt": "2026-06-08T21:17:09.000Z",
+        "image": "https://verra.org/wp-content/uploads/imported/news/river-and-forest-jpg-scaled.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-dive-institutional-investors-have-governance--2026-06-08",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -1153,28 +1197,6 @@
         "url": "https://www.esgdive.com/news/google-commits-to-replenish-more-water-than-it-uses-by-2030/822021/",
         "publishedAt": "2026-06-04T16:40:00.000Z",
         "image": "https://imgproxy.divecdn.com/ZLMiiw3LiJKxG1kkgCQ9ry_kNewZpY8ySQNBxyvIOik/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2MjAyMzg0LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-circular-technology-where-esg-goals-and--2026-06-04",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Circular technology: Where ESG goals and commercial performance come together",
-        "excerpt": "The secondary technology market is on course to hit $262 billion by 2032. The businesses gaining ground are proving that ESG goals and profitability can advance together.",
-        "url": "https://www.esgdive.com/news/circular-technology-where-esg-goals-commercial-performance-come-together-alchemy/822019/",
-        "publishedAt": "2026-06-04T16:15:17.000Z",
-        "image": "https://imgproxy.divecdn.com/hQCGpLUTAL1BEqPSjemckpWyJ8IznBINbos0V10cWtQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TdXN0YWluYWJpbGl0eV9oZWFkZXIuanBn.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1448,29 +1470,6 @@
         "url": "https://verra.org/projects-open-for-public-comment-may-18-2026/",
         "publishedAt": "2026-05-18T12:00:00.000Z",
         "image": "https://verra.org/wp-content/uploads/2023/09/Food-waste_Shuttershock.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-verra-launches-fsc-label-for-carbon-cred-2026-05-14",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra Launches FSC Label for Carbon Credits",
-        "excerpt": "Verra has launched a Forest Stewardship Council (FSC) label for Verified Carbon Units (VCUs). The label can be applied to credits generated by projects that are both registered with the Verified Carbon Standard (VCS) Program and located on lands that have FSC forest management (FM) certification . This collaboration between FSC and Verra aims to ensure that VCUs from projects in FSC FM-certified forests are transparently labeled and indicates these projects conform with both standards programs. Simultaneous participation in both programs will allow…",
-        "url": "https://verra.org/verra-launches-fsc-label-for-carbon-credits/",
-        "publishedAt": "2026-05-14T18:55:49.000Z",
-        "image": "https://verra.org/wp-content/uploads/2026/05/andrew-coelho-aL7SA1ASVdQ-unsplash.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1939,10 +1938,10 @@
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
         "title": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability - Fastmarkets",
-        "excerpt": "Rather than pursuing scale, buyers increasingly prioritized quality, compliance eligibility, durability and reputational survivability, reshaping carbon credit demand across registries, project types and deal structures. Retirements across Verra, Gold Standard, ACR, Climate Action Reserve (CAR), ART, Puro and Cercarbono totaled 169 million tonnes of CO2 equivalent (tCO2e) in 2025, slightly down from 174.5 million tCO2e a year earlier but broadly in line with the just under 170 million tCO2e retired annually across 2021-2023. This shift was reflected at…",
+        "excerpt": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability Fastmarkets",
         "url": "https://www.fastmarkets.com/insights/carbon-credit-demand-plateaued-in-2025-as-buyers-sorted-by-quality-compliance-and-durability/",
         "publishedAt": "2026-02-03T08:00:00.000Z",
-        "image": "https://www.fastmarkets.com/tachyon/2026/02/Carbon-credit-demand-plateaued-in-2025-scaled.jpg",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1950,8 +1949,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5"
         },
         "region": "world"
       },
@@ -2003,29 +2001,6 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
-        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
-        "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
-        "publishedAt": "2025-11-12T08:00:00.000Z",
-        "image": null,
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2071,10 +2046,56 @@
           "imageSource": "publisher"
         },
         "region": "world"
+      },
+      {
+        "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
+        "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
+        "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
+        "publishedAt": "2023-12-04T08:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
       }
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-bp-reshapes-organizational-structure-ami-2026-06-10",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "BP reshapes organizational structure amid years-long portfolio review",
+      "excerpt": "The company will split into upstream and downstream segments, replacing the current three-part structure that also includes a customers and products arm.",
+      "url": "https://www.esgdive.com/news/bp-reshapes-organizational-structure-amid-years-long-portfolio-review/822501/",
+      "publishedAt": "2026-06-10T15:57:00.000Z",
+      "image": "https://imgproxy.divecdn.com/elBmoTMG8vtOol80eBesreIKJKXBlJjJocMt8iLycVY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01NjAwNjQwOS5qcGc=.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-ardian-launches-new-nature-based-solutio-2026-06-10",
       "source": "esg-today",
@@ -2407,6 +2428,29 @@
       "region": "world"
     },
     {
+      "id": "verra-verra-selects-methodologies-for-further--2026-06-08",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Selects Methodologies for Further Development, Shapes Direction of Future Climate Impact",
+      "excerpt": "Verra has selected several proposed approaches to undergo further development into new or revised methodologies, modules, or tools in the Verified Carbon Standard (VCS) Program . These selection decisions follow a careful review of a broad range of methodology idea notes (MINs), enabling Verra to advance high-impact methodologies for climate mitigation activities and bring them to market in a timely manner. The selected methodology proposals include the following: The proposals were selected from MINs that were submitted by January 31, 2026, from…",
+      "url": "https://verra.org/verra-selects-methodologies-for-further-development-shapes-direction-of-future-climate-impact/",
+      "publishedAt": "2026-06-08T21:17:09.000Z",
+      "image": "https://verra.org/wp-content/uploads/imported/news/river-and-forest-jpg-scaled.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-institutional-investors-have-governance--2026-06-08",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2472,6 +2516,30 @@
         "imageSource": "publisher"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-ieefa-report-highlights-key-factors-that-2026-06-06",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "IEEFA Report Highlights Key Factors That Will Shape Carbon Prices Under India's New Trading Scheme - SolarQuarter",
+      "excerpt": "As India moves forward with implementing its Carbon Credit Trading Scheme (CCTS), a new report from the Institute for Energy Economics and Financial Analysis explores the factors that will influence carbon price formation and determine how effectively the scheme supports industrial decarbonisation. The report, titled Potential Drivers of Carbon Price Formation in the CCTS: Design and Market Dynamics in the Indian Carbon Market, examines the structure of India s intensity-based emissions trading system, which will initially cover seven industrial sectors…",
+      "url": "https://solarquarter.com/2026/06/06/ieefa-report-highlights-key-factors-that-will-shape-carbon-prices-under-indias-new-trading-scheme/",
+      "publishedAt": "2026-06-06T07:05:48.000Z",
+      "image": "https://solarquarter.com/wp-content/uploads/2022/10/17-3.png",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmllSWdIYTh2cHJGOHJwRUhkc0laNmhGQ3ExTHd2ZS1CQkRsSnlxWFpGUlA5UWNQODJtTElaSUJmUmMtN3Jyc2YwQ2gza0RSQXZYZ1dzcWVJTGVOVnlRMlg2UUZpeHZqdE9FLS1QZW9UWmd5V0h6U1ZveTZYVURRZ1h1YkpIanpoLWxITzR0cThQU2JyelByZml4N19XMU1MbktrWWpJQlZDMWVNSmVCc2xzRXlaaURXZV9ENHRiaTlmd2FCaGp0cjhzV2w0aGM?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "esg-dive-howgood-sweep-partner-to-track-carbon-fo-2026-06-05",
@@ -2618,28 +2686,6 @@
       "url": "https://www.esgdive.com/news/google-commits-to-replenish-more-water-than-it-uses-by-2030/822021/",
       "publishedAt": "2026-06-04T16:40:00.000Z",
       "image": "https://imgproxy.divecdn.com/ZLMiiw3LiJKxG1kkgCQ9ry_kNewZpY8ySQNBxyvIOik/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2MjAyMzg0LmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-circular-technology-where-esg-goals-and--2026-06-04",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Circular technology: Where ESG goals and commercial performance come together",
-      "excerpt": "The secondary technology market is on course to hit $262 billion by 2032. The businesses gaining ground are proving that ESG goals and profitability can advance together.",
-      "url": "https://www.esgdive.com/news/circular-technology-where-esg-goals-commercial-performance-come-together-alchemy/822019/",
-      "publishedAt": "2026-06-04T16:15:17.000Z",
-      "image": "https://imgproxy.divecdn.com/hQCGpLUTAL1BEqPSjemckpWyJ8IznBINbos0V10cWtQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TdXN0YWluYWJpbGl0eV9oZWFkZXIuanBn.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3018,29 +3064,6 @@
       "region": "world"
     },
     {
-      "id": "verra-verra-launches-fsc-label-for-carbon-cred-2026-05-14",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Launches FSC Label for Carbon Credits",
-      "excerpt": "Verra has launched a Forest Stewardship Council (FSC) label for Verified Carbon Units (VCUs). The label can be applied to credits generated by projects that are both registered with the Verified Carbon Standard (VCS) Program and located on lands that have FSC forest management (FM) certification . This collaboration between FSC and Verra aims to ensure that VCUs from projects in FSC FM-certified forests are transparently labeled and indicates these projects conform with both standards programs. Simultaneous participation in both programs will allow…",
-      "url": "https://verra.org/verra-launches-fsc-label-for-carbon-credits/",
-      "publishedAt": "2026-05-14T18:55:49.000Z",
-      "image": "https://verra.org/wp-content/uploads/2026/05/andrew-coelho-aL7SA1ASVdQ-unsplash.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6032",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3114,30 +3137,6 @@
         "program": "Verified Carbon Standard"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-the-brics-climate-stress-test-india-s-op-2026-05-02",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture - The Diplomat – Asia-Pacific",
-      "excerpt": "All Sections Search Read The Diplomat , Know The Asia-Pacific Diplomat Brief Weekly Newsletter The Diplomat Home Page About Us Contact Us Write for Us Advertise Syndicate Privacy Newsletter Subscriptions Flashpoints The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture Recent Features Society Long Night Over Hualien: The China Threat Through the Eyes of Taiwan’s Indigenous Peoples Society Afghanistan’s Women: Erased Videos The North Korea Succession Issue Economy India’s Eye in the Sky: The Rise of a…",
-      "url": "https://thediplomat.com/2026/05/the-brics-climate-stress-test-indias-opportunity-to-reshape-global-climate-finance-architecture/",
-      "publishedAt": "2026-05-02T07:00:00.000Z",
-      "image": "https://thediplomat.com/wp-content/uploads/2025/10/sizes/td-story-s-2/thediplomat_2025-10-08-173414.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGtXNFB0OXhYNnkwQVZPX2xTNnNDbEdfUUhfTEVYTTk0OWF2cFVWSWNNN3hrR1NQRG1ScjR4WkMtYl8wWXRWck9ZMDlWdDc3YlZmdnRPbnFaNzdDN0pmYUx6bmZVaGdqS3RWTGRraXMtUWd3MGFkTTJ5bmVPT0haRnVTZ0ptUy1ETDNiOUNGZkdCVVRsU2pCb2FsRmRvTWpGa3RUZXJZY1N0dDk2ckp1RTYtV3JOWWU0VUhYdmpjcWNhbl80TXBr?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "verra-vcs-6019",
@@ -3271,10 +3270,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "Modelling insights and design choices for a credible Indian carbon market: Workshop summary report - Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "excerpt": " Language Newsroom View the IEEFA Newsroom Insights Reports Fact Sheets Testimony/Submission Briefing Note Slides Press Releases Media Inquiries In the Media Research View all research Or browse one of our major research areas below Coal Petrochemicals Climate Finance Carbon Capture & Storage Renewables & Storage Energy Transition & Policy Oil/Gas & LNG Power & Utilities Steel Regions North America Asia Europe South Asia Australia About What We Do Who We Are Conference Contact Us Employment Events Subscribe  Language  Language  About the Authors…",
+      "excerpt": "Modelling insights and design choices for a credible Indian carbon market: Workshop summary report Institute for Energy Economics and Financial Analysis (IEEFA)",
       "url": "https://ieefa.org/resources/modelling-insights-and-design-choices-credible-indian-carbon-market-workshop-summary",
       "publishedAt": "2026-04-23T07:00:00.000Z",
-      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-04/CCS-shutterstock_1555865300.jpg?itok=iLGz4_jn",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3282,8 +3281,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemt4aE9zOTJrZ3pYQVFKWmg1c2xGQjR2RjNRNU9nXzgtVzNiTlUwc2RsSGJ4ejRldUg3OHJmYmpmSFJXS1lXME9Ec1ctWFpjVFhQZ0FFdkdYZHNHSHMxTjA3OXNtYWowS2x3YlhZcXVscXh6eU5EUk1QLTRGV0ZFQzlzZVh3dnJTN0JNMngtRk81REVZRndUZ0JLQUVVV3YyT01GOW5ERFBzMVl6MlVhV0xn?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemt4aE9zOTJrZ3pYQVFKWmg1c2xGQjR2RjNRNU9nXzgtVzNiTlUwc2RsSGJ4ejRldUg3OHJmYmpmSFJXS1lXME9Ec1ctWFpjVFhQZ0FFdkdYZHNHSHMxTjA3OXNtYWowS2x3YlhZcXVscXh6eU5EUk1QLTRGV0ZFQzlzZVh3dnJTN0JNMngtRk81REVZRndUZ0JLQUVVV3YyT01GOW5ERFBzMVl6MlVhV0xn?oc=5"
       },
       "region": "india"
     },
@@ -3838,10 +3836,10 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability - Fastmarkets",
-      "excerpt": "Rather than pursuing scale, buyers increasingly prioritized quality, compliance eligibility, durability and reputational survivability, reshaping carbon credit demand across registries, project types and deal structures. Retirements across Verra, Gold Standard, ACR, Climate Action Reserve (CAR), ART, Puro and Cercarbono totaled 169 million tonnes of CO2 equivalent (tCO2e) in 2025, slightly down from 174.5 million tCO2e a year earlier but broadly in line with the just under 170 million tCO2e retired annually across 2021-2023. This shift was reflected at…",
+      "excerpt": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability Fastmarkets",
       "url": "https://www.fastmarkets.com/insights/carbon-credit-demand-plateaued-in-2025-as-buyers-sorted-by-quality-compliance-and-durability/",
       "publishedAt": "2026-02-03T08:00:00.000Z",
-      "image": "https://www.fastmarkets.com/tachyon/2026/02/Carbon-credit-demand-plateaued-in-2025-scaled.jpg",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3849,8 +3847,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5"
       },
       "region": "world"
     },
@@ -3925,29 +3922,6 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
-      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
-      "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
-      "publishedAt": "2025-11-12T08:00:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -4002,7 +3976,7 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam - The Indian Express",
-      "excerpt": "Weather ePaper Today’s Paper Journalism of Courage Home ePaper Politics Explained Opinion India Business Premium Cities UPSC Entertainment Sports World Lifestyle Tech Subscribe Sign In Trending UPSC Offer Long Reads Legal News Health Research Games 🎙️ Podcast Advertisement News UPSC Current Affairs UPSC Essentials Knowledge Nugget: What you must know about India s green hydrogen plants for the UPSC exam Premium Knowledge Nugget: What you must know about India s green hydrogen plants for the UPSC exam Uttar Pradesh Chief Minister Yogi Adityanath on…",
+      "excerpt": "Weather ePaper Today’s Paper Journalism of Courage Home ePaper Politics Explained Opinion India Business Premium Cities UPSC Entertainment Fifa World Cup World Lifestyle Tech Subscribe Sign In Trending UPSC Offer Long Reads Legal News Health Research Games 🎙️ Podcast Advertisement News UPSC Current Affairs UPSC Essentials Knowledge Nugget: What you must know about India s green hydrogen plants for the UPSC exam Premium Knowledge Nugget: What you must know about India s green hydrogen plants for the UPSC exam Uttar Pradesh Chief Minister Yogi Adityanath…",
       "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-indias-green-hydrogen-plants-upsc-exam-10198700/",
       "publishedAt": "2025-08-20T07:00:00.000Z",
       "image": "https://images.indianexpress.com/2025/08/Knowledge-Nugget-Indias-Green-hydrogen-plants.jpg",
@@ -4089,6 +4063,30 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
+      "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
+      "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
+      "publishedAt": "2023-12-04T08:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
     }
   ]
 }
