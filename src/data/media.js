@@ -29,6 +29,7 @@ export const PROGRAM_PHOTOS = {
   forestry:  UNSPLASH("1448375240586-882707db888b", 900), // rainforest canopy
   cbg:       UNSPLASH("1500595046743-cd271d694d30", 900), // pasture cattle
   renewable: UNSPLASH("1466611653911-95081537e5b7", 900), // wind turbines
+  hydrogen:  UNSPLASH("1581094271901-8022df4466f9", 900), // industrial / electrolyzer
   soil:      UNSPLASH("1416879595882-3373a0480b5b", 900), // hands holding soil
   bluecarbon:UNSPLASH("1518837695005-2083093ee35b", 900), // mangrove water
   plastic:   UNSPLASH("1532996122724-e3c354a0b15b", 900), // plastic waste sorting
@@ -48,6 +49,15 @@ export const PROJECT_PHOTOS = {
   8:  UNSPLASH("1518837695005-2083093ee35b", 1200), // mangrove sundarban
   9:  UNSPLASH("1448375240586-882707db888b", 1200), // amazon rainforest
   10: UNSPLASH("1488521787991-ed7bbaae773c", 1200), // cooking
+  11: UNSPLASH("1581094271901-8022df4466f9", 1200), // green hydrogen plant
+  12: UNSPLASH("1500595046743-cd271d694d30", 1200), // dairy / cattle
+  13: UNSPLASH("1582408921715-18e7806365c1", 1200), // waste sorting
+  14: UNSPLASH("1448375240586-882707db888b", 1200), // spice plantation trees
+  15: UNSPLASH("1466611653911-95081537e5b7", 1200), // wind farm
+  16: UNSPLASH("1509391366368-849e1590cc2f", 1200), // solar panels
+  17: UNSPLASH("1581094271901-8022df4466f9", 1200), // hydrogen / industrial
+  18: UNSPLASH("1582408921715-18e7806365c1", 1200), // landfill / waste
+  19: UNSPLASH("1519682337058-a94a19224d01", 1200), // himalayan mountains
 };
 
 // Editorial news/announcement photos

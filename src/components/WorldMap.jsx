@@ -21,14 +21,21 @@ const projection = geoMercator()
   .translate([VB.w / 2, VB.h / 2]);
 
 const PINS = [
-  { id: "OD", region: "Odisha",      country: "India",  flag: "🇮🇳", lat: 20.9,  lng:  85.1, types: ["🐄 CBG", "🌱 Soil", "🌊 Ocean Plastic"], color: "#22c55e" },
-  { id: "JH", region: "Jharkhand",   country: "India",  flag: "🇮🇳", lat: 23.6,  lng:  85.3, types: ["🌱 FPO Agroforestry"], color: "#10b981" },
-  { id: "RJ", region: "Rajasthan",   country: "India",  flag: "🇮🇳", lat: 27.0,  lng:  74.2, types: ["🌾 Biomass Pellets"], color: "#f59e0b" },
-  { id: "HR", region: "Haryana",     country: "India",  flag: "🇮🇳", lat: 29.1,  lng:  76.4, types: ["🐄 SATAT CBG Cluster"], color: "#06b6d4" },
-  { id: "KA", region: "Karnataka",   country: "India",  flag: "🇮🇳", lat: 15.3,  lng:  75.7, types: ["♻️ EPR Plastic"], color: "#ec4899" },
-  { id: "WB", region: "West Bengal", country: "India",  flag: "🇮🇳", lat: 22.5,  lng:  88.4, types: ["🌊 Sundarban Blue Carbon"], color: "#0891b2" },
-  { id: "BR", region: "Amazonas",    country: "Brazil", flag: "🇧🇷", lat: -3.0,  lng: -60.0, types: ["🌳 Amazon REDD+"], color: "#10b981", demo: true },
-  { id: "KE", region: "Nairobi",     country: "Kenya",  flag: "🇰🇪", lat: -1.3,  lng:  36.8, types: ["🔥 Clean Cookstoves"], color: "#22d3ee", demo: true },
+  { id: "OD", region: "Odisha",           country: "India",  flag: "🇮🇳", lat: 20.9,  lng:  85.1, types: ["🐄 CBG", "🌱 Soil", "🌊 Ocean Plastic"], color: "#22c55e" },
+  { id: "JH", region: "Jharkhand",        country: "India",  flag: "🇮🇳", lat: 23.6,  lng:  85.3, types: ["🌱 FPO Agroforestry"], color: "#10b981" },
+  { id: "RJ", region: "Rajasthan",        country: "India",  flag: "🇮🇳", lat: 27.0,  lng:  74.2, types: ["🌾 Biomass", "💨 Wind Power"], color: "#f59e0b" },
+  { id: "HR", region: "Haryana",          country: "India",  flag: "🇮🇳", lat: 29.1,  lng:  76.4, types: ["🐄 SATAT CBG Cluster"], color: "#06b6d4" },
+  { id: "PB", region: "Punjab",           country: "India",  flag: "🇮🇳", lat: 31.0,  lng:  75.5, types: ["🥛 Dairy CBG"], color: "#22c55e" },
+  { id: "MH", region: "Maharashtra",      country: "India",  flag: "🇮🇳", lat: 18.5,  lng:  73.9, types: ["♻️ MSW Methane"], color: "#22c55e" },
+  { id: "GJ", region: "Gujarat",          country: "India",  flag: "🇮🇳", lat: 23.0,  lng:  70.0, types: ["☀️ Solar", "💧 Green H₂"], color: "#14b8a6" },
+  { id: "AP", region: "Andhra Pradesh",   country: "India",  flag: "🇮🇳", lat: 17.7,  lng:  83.2, types: ["⚗️ SIGHT Green H₂"], color: "#14b8a6" },
+  { id: "KA", region: "Karnataka",        country: "India",  flag: "🇮🇳", lat: 15.3,  lng:  75.7, types: ["♻️ EPR Plastic"], color: "#ec4899" },
+  { id: "KL", region: "Kerala",           country: "India",  flag: "🇮🇳", lat: 10.0,  lng:  76.9, types: ["🌴 Spice Agroforestry"], color: "#10b981" },
+  { id: "WB", region: "West Bengal",      country: "India",  flag: "🇮🇳", lat: 22.5,  lng:  88.4, types: ["🌊 Sundarban Blue Carbon"], color: "#0891b2" },
+  { id: "BR", region: "Amazonas",         country: "Brazil", flag: "🇧🇷", lat: -3.0,  lng: -60.0, types: ["🌳 Amazon REDD+"], color: "#10b981", demo: true },
+  { id: "KE", region: "Nairobi",          country: "Kenya",  flag: "🇰🇪", lat: -1.3,  lng:  36.8, types: ["🔥 Clean Cookstoves"], color: "#22d3ee", demo: true },
+  { id: "MX", region: "Mexico City",      country: "Mexico", flag: "🇲🇽", lat: 19.4,  lng: -99.1, types: ["🏭 Landfill Methane"], color: "#22c55e", demo: true },
+  { id: "NP", region: "Gandaki",          country: "Nepal",  flag: "🇳🇵", lat: 28.2,  lng:  83.9, types: ["🏔️ Community Biogas"], color: "#22c55e", demo: true },
 ];
 
 const enrichedPins = PINS.map((p) => {
