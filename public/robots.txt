@@ -1,0 +1,11 @@
+# Carbon Bridge — robots.txt
+User-agent: *
+Allow: /
+
+# Keep private app routes out of search
+Disallow: /login
+Disallow: /register
+Disallow: /dashboard
+Disallow: /checkout
+
+Sitemap: https://thecarbonbridge.com/sitemap.xml

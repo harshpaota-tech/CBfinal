@@ -77,7 +77,7 @@ export async function signInWithGoogle(redirectTo) {
   const { data, error } = await supabase.auth.signInWithOAuth({
     provider: "google",
     options: {
-      redirectTo: redirectTo ?? (typeof window !== "undefined" ? window.location.origin + "/#dashboard" : undefined),
+      redirectTo: redirectTo ?? (typeof window !== "undefined" ? window.location.origin + "/dashboard" : undefined),
     },
   });
   if (error) throw error;
@@ -91,7 +91,7 @@ export async function signUpWithEmail({ email, password, name, phone, role, comp
     password,
     options: {
       data: { name, phone, role, company: company || null, language: language || "en" },
-      emailRedirectTo: typeof window !== "undefined" ? window.location.origin + "/#register" : undefined,
+      emailRedirectTo: typeof window !== "undefined" ? window.location.origin + "/register" : undefined,
     },
   });
   if (error) throw error;
