@@ -105,8 +105,12 @@ const translations = {
     demo: {
       tag: "Demo Website",
       title: "This is a demonstration website",
-      body: "Carbon Bridge Pvt. Ltd. is a concept / portfolio project. The listed credits, certificate IDs (e.g. VCS-CB-001-OD), partnerships, and price data shown across the site are illustrative only. No project on this site is currently registered with Verra, Gold Standard, CPCB EPR, India's National Green Hydrogen Mission, SECI, SATAT, or any other registry or government scheme. Please do not transact based on the prices or quantities shown.",
-      shortNotice: "Illustrative only — no credits or partnerships listed are registered with Verra, Gold Standard, CPCB, or any registry.",
+      body: "Carbon Bridge Pvt. Ltd. is a concept / portfolio project. Every credit listing on this website is a demo — there are no real projects listed yet. The sample projects, certificate IDs (e.g. VCS-CB-001-OD), partnerships, and price data are illustrative only. Nothing on this site is registered with Verra, Gold Standard, CPCB EPR, India's National Green Hydrogen Mission, SECI, SATAT, or any other registry or government scheme. Please do not transact based on the prices or quantities shown.",
+      shortNotice: "All listings are demo — no real projects are listed on this website yet.",
+      marketplaceTitle: "Demo marketplace — no real projects listed",
+      marketplaceBody: "Every project card below is an illustrative demo. There are {{total}} demo listings in total: {{indiaCount}} demo India projects across {{stateCount}} states, plus {{intlCount}} international showcase projects. Prices, quantities, registry IDs, and certificates are sample data only.",
+      marketplaceCard: "Demo listing",
+      checkoutNotice: "You are checking out a demo listing. No real environmental credits will be issued.",
     },
   },
   hi: {
@@ -207,8 +211,12 @@ const translations = {
     demo: {
       tag: "डेमो वेबसाइट",
       title: "यह एक डेमो (प्रदर्शन) वेबसाइट है",
-      body: "Carbon Bridge Pvt. Ltd. एक कॉन्सेप्ट / पोर्टफोलियो प्रोजेक्ट है। साइट पर दिखाए गए क्रेडिट, सर्टिफिकेट IDs (जैसे VCS-CB-001-OD), साझेदारियाँ और मूल्य डेटा केवल उदाहरण के लिए हैं। इस साइट पर कोई भी प्रोजेक्ट वर्तमान में Verra, Gold Standard, CPCB EPR, भारत के National Green Hydrogen Mission, SECI, SATAT, या किसी अन्य रजिस्ट्री या सरकारी योजना के साथ पंजीकृत नहीं है। कृपया दिखाई गई कीमतों या मात्राओं के आधार पर कोई लेनदेन न करें।",
-      shortNotice: "केवल प्रदर्शन के लिए — सूचीबद्ध कोई भी क्रेडिट या साझेदारी Verra, Gold Standard, CPCB, या किसी अन्य रजिस्ट्री के साथ पंजीकृत नहीं है।",
+      body: "Carbon Bridge Pvt. Ltd. एक कॉन्सेप्ट / पोर्टफोलियो प्रोजेक्ट है। इस वेबसाइट पर सूचीबद्ध हर क्रेडिट एक डेमो है — अभी कोई वास्तविक प्रोजेक्ट सूचीबद्ध नहीं है। नमूना प्रोजेक्ट, सर्टिफिकेट IDs (जैसे VCS-CB-001-OD), साझेदारियाँ और मूल्य डेटा केवल उदाहरण के लिए हैं। इस साइट पर कुछ भी Verra, Gold Standard, CPCB EPR, भारत के National Green Hydrogen Mission, SECI, SATAT, या किसी अन्य रजिस्ट्री या सरकारी योजना के साथ पंजीकृत नहीं है। कृपया दिखाई गई कीमतों या मात्राओं के आधार पर कोई लेनदेन न करें।",
+      shortNotice: "सभी सूचियाँ डेमो हैं — इस वेबसाइट पर अभी कोई वास्तविक प्रोजेक्ट सूचीबद्ध नहीं है।",
+      marketplaceTitle: "डेमो मार्केटप्लेस — कोई वास्तविक प्रोजेक्ट सूचीबद्ध नहीं",
+      marketplaceBody: "नीचे दिखाए गए हर प्रोजेक्ट कार्ड एक उदाहरणात्मक डेमो है। कुल {{total}} डेमो सूचियाँ: {{indiaCount}} भारतीय डेमो प्रोजेक्ट {{stateCount}} राज्यों में, और {{intlCount}} अंतर्राष्ट्रीय प्रदर्शन प्रोजेक्ट। कीमतें, मात्राएँ, रजिस्ट्री IDs और प्रमाणपत्र केवल नमूना डेटा हैं।",
+      marketplaceCard: "डेमो सूची",
+      checkoutNotice: "आप एक डेमो सूची चेकआउट कर रहे हैं। कोई वास्तविक पर्यावरण क्रेडिट जारी नहीं किया जाएगा।",
     },
   },
 };

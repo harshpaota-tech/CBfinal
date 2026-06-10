@@ -1,8 +1,9 @@
 import { useMemo, useState } from "react";
+import { useTranslation } from "react-i18next";
 import { T } from "../theme.js";
 import Btn from "./ui/Btn.jsx";
 import Badge from "./ui/Badge.jsx";
-import { CREDITS, formatINR, formatUSD, USD_TO_INR } from "../data/credits.js";
+import { formatINR, formatUSD, USD_TO_INR, isDemoCredit } from "../data/credits.js";
 import { isRazorpayConfigured, openCheckout, generateCertId } from "../lib/razorpay.js";
 import { insertTransaction } from "../lib/transactions.js";
 import { showToast } from "../lib/toast.js";
@@ -11,6 +12,7 @@ const PLATFORM_FEE_PCT = 0.02;
 const IS_DEV = import.meta.env.DEV;
 
 export default function Checkout({ checkout, setCheckout, user, setPage, onPurchased }) {
+  const { t } = useTranslation();
   const credit = checkout?.credit;
   const [qty, setQty] = useState(checkout?.qty ?? 1);
   const [paying, setPaying] = useState(false);
@@ -118,15 +120,33 @@ export default function Checkout({ checkout, setCheckout, user, setPage, onPurch
   return (
     <div className="fade" style={{ maxWidth: 980, margin: "0 auto", padding: "60px 24px" }}>
       <h1 style={{ fontFamily: "'Outfit',sans-serif", fontSize: "clamp(28px,4vw,38px)", fontWeight: 900, marginBottom: 8 }}>Checkout</h1>
-      <p style={{ color: T.text2, fontSize: 14, marginBottom: 30 }}>
+      <p style={{ color: T.text2, fontSize: 14, marginBottom: 16 }}>
         Confirm your order — payment is processed securely by Razorpay in INR.
       </p>
+
+      {isDemoCredit(credit) && (
+        <div style={{
+          background: "rgba(245,158,11,0.12)",
+          border: "1px solid rgba(245,158,11,0.45)",
+          borderRadius: 14,
+          padding: "12px 16px",
+          marginBottom: 24,
+          fontSize: 13,
+          color: "#fde68a",
+          lineHeight: 1.55,
+        }}>
+          ⚠️ {t("demo.checkoutNotice")}
+        </div>
+      )}
 
       <div style={{ display: "grid", gridTemplateColumns: "minmax(0,1.4fr) minmax(0,1fr)", gap: 24, alignItems: "flex-start" }}>
         {/* LEFT: Product summary */}
         <div style={{ background: T.bg2, border: `1px solid ${T.border}`, borderRadius: 18, padding: 26 }}>
-          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 14 }}>
-            <Badge color={credit.color}>{credit.type}</Badge>
+          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 14, flexWrap: "wrap", gap: 8 }}>
+            <div style={{ display: "flex", gap: 8, flexWrap: "wrap" }}>
+              <Badge color={credit.color}>{credit.type}</Badge>
+              {isDemoCredit(credit) && <Badge color="#f59e0b">Demo</Badge>}
+            </div>
             <span style={{ fontSize: 12, color: T.text3 }}>{credit.flag} {credit.state}</span>
           </div>
           <div style={{ fontSize: 40, marginBottom: 12 }}>{credit.icon}</div>

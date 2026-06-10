@@ -3,7 +3,7 @@ import { ComposableMap, Geographies, Geography, Marker } from "react-simple-maps
 import { geoMercator } from "d3-geo";
 import worldGeo from "world-atlas/countries-110m.json";
 import { T } from "../theme.js";
-import { CREDITS, COUNTRY_COUNT } from "../data/credits.js";
+import { CREDITS, COUNTRY_COUNT, ALL_LISTINGS_ARE_DEMO } from "../data/credits.js";
 
 // =============================================================================
 // Real topojson world map (Natural Earth 110m via world-atlas npm package).
@@ -63,7 +63,7 @@ export default function WorldMap({ onPinClick }) {
           Carbon Credits Across the World
         </h2>
         <p style={{ color: T.text2, fontSize: 14 }}>
-          {CREDITS.length} active and demo Carbon Bridge projects across {COUNTRY_COUNT} countries
+          {CREDITS.length} demo Carbon Bridge listings across {COUNTRY_COUNT} countries — no real projects listed yet
         </p>
       </div>
 
@@ -150,7 +150,7 @@ export default function WorldMap({ onPinClick }) {
             }}
           >
             <span style={{ width: 8, height: 8, borderRadius: 999, background: p.color }} />
-            {p.flag} {p.region}{p.demo ? " (demo)" : ""} · {p.totalAvailable.toLocaleString("en-IN")} tCO₂e
+            {p.flag} {p.region}{ALL_LISTINGS_ARE_DEMO || p.demo ? " (demo)" : ""} · {p.totalAvailable.toLocaleString("en-IN")} tCO₂e
           </span>
         ))}
       </div>
@@ -187,7 +187,7 @@ function PinTooltip({ pin }) {
           {pin.flag} {pin.region}
         </span>
         <span style={{ fontSize: 10, color: T.text3, fontFamily: "ui-monospace,SFMono-Regular,Menlo,monospace" }}>
-          {pin.country}{pin.demo ? " · DEMO" : ""}
+          {pin.country}{ALL_LISTINGS_ARE_DEMO || pin.demo ? " · DEMO" : ""}
         </span>
       </div>
       <div style={{ display: "flex", flexDirection: "column", gap: 4, marginBottom: 8 }}>
