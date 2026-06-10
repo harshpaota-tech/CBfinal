@@ -16,6 +16,7 @@ import ToastHost from "./components/ui/Toast.jsx";
 import LangToggle from "./components/ui/LangToggle.jsx";
 import Ticker from "./components/ui/Ticker.jsx";
 import { setLanguage } from "./i18n/index.js";
+import { setPageSeo, pageFromPath, pathForPage } from "./lib/seo.js";
 import { CONTACT, BRAND } from "./data/credits.js";
 import { supabase, isSupabaseConfigured } from "./lib/supabase.js";
 import { fetchAndSetUser, signOut } from "./lib/auth.js";
@@ -37,25 +38,32 @@ const NAV_KEYS = [
 
 export default function App() {
   const [page, setPage] = useState(() => {
-    const hash = typeof window !== "undefined" ? window.location.hash.replace("#", "") : "";
-    return hash || "home";
+    if (typeof window === "undefined") return "home";
+    // Support legacy #hash links (e.g. /#marketplace) and upgrade to clean paths.
+    const hash = window.location.hash.replace("#", "");
+    if (hash) return hash;
+    return pageFromPath(window.location.pathname);
   });
   const [user, setUser] = useState(null);
   const [authLoading, setAuthLoading] = useState(true);
   const [checkout, setCheckout] = useState(null);     // { credit, qty }
   const [walletDelta, setWalletDelta] = useState([]); // newly bought, optimistic
 
-  // ----- Hash-based routing (unchanged) -----
+  // ----- SEO-friendly path routing + per-page meta tags -----
   useEffect(() => {
     if (typeof window === "undefined") return;
-    window.history.replaceState(null, "", `#${page}`);
+    const target = pathForPage(page);
+    if (window.location.pathname !== target || window.location.hash) {
+      window.history.pushState(null, "", target);
+    }
+    setPageSeo(page);
     window.scrollTo({ top: 0, behavior: "instant" in window ? "instant" : "auto" });
   }, [page]);
 
   useEffect(() => {
-    const onHash = () => setPage(window.location.hash.replace("#", "") || "home");
-    window.addEventListener("hashchange", onHash);
-    return () => window.removeEventListener("hashchange", onHash);
+    const onPop = () => setPage(pageFromPath(window.location.pathname));
+    window.addEventListener("popstate", onPop);
+    return () => window.removeEventListener("popstate", onPop);
   }, []);
 
   // ----- Sync UI language to user profile when logged in -----

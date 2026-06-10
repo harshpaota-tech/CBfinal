@@ -3,19 +3,113 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Primary SEO -->
     <title>Carbon Bridge — India's First Environmental Credit Marketplace</title>
-    <meta name="description" content="India's first marketplace for verified Carbon, Soil, Plastic, CBG and Biogas credits. Built for CBG plant operators, FPOs, and smallholder farmers. By Carbon Bridge Pvt. Ltd." />
+    <meta
+      name="description"
+      content="Carbon Bridge is India's first marketplace to buy, sell and retire verified Carbon, Soil, Plastic, CBG, Biogas and Green Hydrogen credits. Built for CBG operators, FPOs and smallholder farmers."
+    />
+    <meta
+      name="keywords"
+      content="carbon credits India, buy carbon credits, carbon credit marketplace, CBG credits, biogas credits, plastic credits, EPR credits, soil carbon, blue carbon, green hydrogen credits, Verra VCS, Gold Standard, voluntary carbon market, ESG, GHG, net zero India, carbon offset India"
+    />
+    <meta name="author" content="Carbon Bridge Pvt. Ltd." />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
+    <meta name="googlebot" content="index, follow" />
     <meta name="theme-color" content="#04080f" />
+    <link rel="canonical" href="https://thecarbonbridge.com/" />
+
+    <!-- Open Graph -->
+    <meta property="og:site_name" content="Carbon Bridge" />
     <meta property="og:title" content="Carbon Bridge — India's First Environmental Credit Marketplace" />
-    <meta property="og:description" content="Buy, sell, and retire verified Carbon, Soil, Plastic, CBG and Biogas credits — built for India's CBG operators, FPOs, and smallholder farmers." />
+    <meta
+      property="og:description"
+      content="Buy, sell and retire verified Carbon, Soil, Plastic, CBG, Biogas and Green Hydrogen credits — built for India's CBG operators, FPOs and smallholder farmers."
+    />
     <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://thecarbonbridge.com/" />
+    <meta property="og:image" content="https://thecarbonbridge.com/logo.png" />
+    <meta property="og:image:alt" content="Carbon Bridge — India's First Environmental Credit Marketplace" />
+    <meta property="og:locale" content="en_IN" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Carbon Bridge — India's First Environmental Credit Marketplace" />
+    <meta
+      name="twitter:description"
+      content="Buy, sell and retire verified Carbon, Soil, Plastic, CBG, Biogas and Green Hydrogen credits — built for India."
+    />
+    <meta name="twitter:image" content="https://thecarbonbridge.com/logo.png" />
+
+    <!-- Icons / PWA -->
     <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="shortcut icon" href="/favicon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- Performance hints -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://images.unsplash.com" />
+    <link rel="dns-prefetch" href="https://checkout.razorpay.com" />
+
+    <!-- Structured data: Organization -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Carbon Bridge Pvt. Ltd.",
+        "alternateName": "Carbon Bridge",
+        "url": "https://thecarbonbridge.com/",
+        "logo": "https://thecarbonbridge.com/logo.png",
+        "description": "India's first marketplace to buy, sell and retire verified environmental credits — Carbon, Soil, Plastic, CBG, Biogas and Green Hydrogen.",
+        "email": "harshpaota@gmail.com",
+        "founder": { "@type": "Person", "name": "Harsh Bhavrayat" },
+        "foundingLocation": { "@type": "Country", "name": "India" },
+        "areaServed": "IN",
+        "sameAs": []
+      }
+    </script>
+
+    <!-- Structured data: WebSite + Sitelinks search -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Carbon Bridge",
+        "url": "https://thecarbonbridge.com/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://thecarbonbridge.com/marketplace?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+
+    <!-- Structured data: Online store / marketplace -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "OnlineStore",
+        "name": "Carbon Bridge Marketplace",
+        "url": "https://thecarbonbridge.com/marketplace",
+        "image": "https://thecarbonbridge.com/logo.png",
+        "description": "Buy and retire verified Carbon, CBG, Plastic, Soil, Blue Carbon and Green Hydrogen credits in India.",
+        "currenciesAccepted": "INR, USD",
+        "priceRange": "₹₹"
+      }
+    </script>
+
     <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
   </head>
   <body style="margin:0;background:#04080f">
     <div id="root"></div>
+    <noscript>
+      Carbon Bridge — India's first environmental credit marketplace to buy, sell
+      and retire verified Carbon, Soil, Plastic, CBG, Biogas and Green Hydrogen
+      credits. Please enable JavaScript to use the marketplace.
+    </noscript>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>

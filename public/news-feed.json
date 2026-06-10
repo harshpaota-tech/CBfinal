@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-10T10:59:51.047Z",
+  "fetchedAt": "2026-06-10T15:12:06.642Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 86,
     "india": 24,
     "world": 62,
-    "withImages": 57,
-    "avgExcerptLength": 436,
+    "withImages": 55,
+    "avgExcerptLength": 425,
     "verra": 10,
     "registry": 24,
     "esg": 52
@@ -79,6 +79,30 @@
         "region": "india"
       },
       {
+        "id": "google-india-what-is-a-carbon-credit-a-one-tonne-co2e-2026-06-02",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "What Is a Carbon Credit? A One-Tonne CO2e Building Block - TheCSRUniverse",
+        "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. A carbon credit is a tradable unit representing one metric tonne of carbon dioxide equivalent reduced, avoided, or removed,…",
+        "url": "https://thecsruniverse.com/articles/what-is-a-carbon-credit-a-one-tonne-co2e-building-block",
+        "publishedAt": "2026-06-02T08:04:35.000Z",
+        "image": "https://thecsruniverse.com/adminxsafe/uploads/1000163795.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkNqWWlhMDJLM1l2Tm50Z2U4UjNDUDhTeGtVY3F2cUEzWDBfXzFMRnV5QUZtUUp1UHJRSXN3YVAwYzI4eUU5ZTdRMzJyUlFtYW1IRm1fM1FyX1dKcUFUOXhSS0pNWURCSnNJdmEwazZ4SEVMUDBMQ3dYanNoOTFoMkRMQmNpaElJS0ZIdjhOMzNHMkZGUVE?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "carbon-brief-debriefed-29-may-2026-europe-s-mind-bogg-2026-05-29",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -97,6 +121,29 @@
         "meta": {
           "category": "DeBriefed",
           "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
+        "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
+        "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
+        "publishedAt": "2026-05-25T07:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
         },
         "region": "india"
       },
@@ -442,54 +489,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-digital-pathways-to-net-zero-union-power-2026-03-21",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Digital Pathways to Net Zero: Union Power Minister Launches Indian Carbon Market Portal - The Policy Edge",
-        "excerpt": "SDG 13: Climate Action | SDG 7: Affordable and Clean Energy | SDG 9: Industry, Innovation and Infrastructure Ministry of Power MoP | Ministry of Environment, Forest and Climate Change MoEFCC | Bureau of Energy Efficiency BEE Listen to article Audio version The Union Minister for Power, Shri Manohar Lal, has officially launched the Indian Carbon Market Portal (www.indiancarbonmarket.gov.in) during the inauguration of The International Conference on Carbon Markets- Prakriti 2026 in New Delhi. Positioned as the central digital infrastructure for…",
-        "url": "https://www.policyedge.in/p/digital-pathways-to-net-zero-union-power-minister-launches-indian-carbon-market-portal",
-        "publishedAt": "2026-03-21T07:00:00.000Z",
-        "image": "https://my-strapi-buckets.s3.eu-north-1.amazonaws.com/uploads/Policy_Bites_Cover_252aa8ff70.png",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazM3ZHJoaGFPNV9kc1c4VkZHUVdrZUNVSjVWc2xIWTJZQ0RjLXo0WThyejhDaTRFb2NtV0NpZGVONmlDZU1jT2FUekE1SzNIMFlJRUZqUXlQeDA0MVluY01ZVWFsMmNxUkluOFVwMzJSRjhNZ2hGTVo2VHQ3QTNPWDJIekF5bmo4d1Z1dEtjWnBNTFh3Q2ZGd0Y1SUNYX05zNkVuTjBTVTd5SlBJTm9WbE15aF8?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-carbon-credits-climate-policy-and-the-fu-2026-03-10",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Carbon Credits, Climate Policy and the Future of Textile Manufacturing with SED’s MVR Based LTE® Technology - The Textile Magazine",
-        "excerpt": "The textile industry is entering a decisive decade where competitiveness will be defined not by scale or cost alone, but by carbon intensity. This transition is structural, not ideological. At successive climate summits under the United Nations Framework Convention on Climate Change (UNFCCC), particularly COP28, governments reinforced commitments to accelerated decarbonization. Simultaneously, mechanisms like the European Union’s Carbon Border Adjustment Mechanism (CBAM) make carbon intensity a determinant of market access. For export-driven textile…",
-        "url": "https://www.indiantextilemagazine.in/carbon-credits-climate-policy-and-the-future-of-textile-manufacturing-with-seds-mvr-based-lte-technology/",
-        "publishedAt": "2026-03-10T08:55:12.000Z",
-        "image": "https://www.indiantextilemagazine.in/wp-content/uploads/2026/03/LTE-Product.jpg.jpeg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS284NGtBNXZ5bGZEeTBoVlRmUWVDZFNrS1BTV0xsWEdlWnd4QjY4S3FCWkl5VFdPVjUtYnRPZzJ1VEZhM3U5bk1idE16ZTBmMnFUNFdKWlYzYW5uTkQxY0cteUJsZ1A1UUtDN3BmemNGVzdGbnhYbVhfd1Mtd2ZhNVRlN3BaT2gxRVZwQ1lpWk5iQ3dfbl9JdkxDTHNSUEhLVVR4RUdURWNPdFlTTjVNQWlRbVVoZ2h3VUIyRW1pR2JlZWZ1WmNodUlrYkRNbWl4VXBSWlJhN2wxdw?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -635,6 +634,72 @@
     ],
     "world": [
       {
+        "id": "esg-today-ardian-launches-new-nature-based-solutio-2026-06-10",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Ardian Launches New Nature-Based Solutions Fund with €100 Million Investment by Societe Generale",
+        "excerpt": "Private markets investor Ardian announced the launch of Averrhoa NBS, a new nature-based solutions (NBS) fund aimed at supporting the development and scaling of projects focused on the preservation and restoration of natural ecosystems, and reducing 85 million tons of carbon over 40 years. Ardian’s new fund is being launched alongside the creation of a new NBS partnership with Societe Generale, with the Paris-based bank committing €100 million as an anchor investor in the fund, and supporting its structuring and deployment through its affiliate Societe…",
+        "url": "https://www.esgtoday.com/ardian-launches-new-nature-based-solutions-fund-with-e100-million-investment-by-societe-generale/?utm_source=rss utm_medium=rss utm_campaign=ardian-launches-new-nature-based-solutions-fund-with-e100-million-investment-by-societe-generale",
+        "publishedAt": "2026-06-10T14:17:18.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Ardian.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Investors",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-google-signs-record-saf-deal-with-americ-2026-06-10",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Google Signs Record SAF Deal with American Airlines",
+        "excerpt": "American Airlines and Google announced a new agreement for the purchase of sustainable aviation fuel certificates (SAFc) representing 35 million gallons (132 million liters) of SAF over three years. The deal marks the largest announced SAF agreement to date between an airline and a corporate end-user, according to the companies, and will enable the reduction of nearly 300,000 metric tons of CO2e. Fuel accounts for the vast majority of the aviation sector’s emissions. Generally produced from sustainable resources, like waste oils and agricultural…",
+        "url": "https://www.esgtoday.com/google-signs-largest-ever-corporate-saf-deal-with-american-airlines/?utm_source=rss utm_medium=rss utm_campaign=google-signs-largest-ever-corporate-saf-deal-with-american-airlines",
+        "publishedAt": "2026-06-10T13:25:36.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/American-airlines3.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-airbus-technip-safran-and-tereos-to-deve-2026-06-10",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Airbus, Technip, Safran and Tereos to Develop Large-Scale SAF Production Facility in France",
+        "excerpt": "Airbus, engineering and technology company Technip Energies, aerospace group Safran, and bioethanol producer Tereos announced an agreement to launch a new joint venture to develop a large-scale Sustainable Aviation Fuel (SAF) production project at the Port of Dunkirk, in Northern France. According to the companies, the new partnership will develop production capacity of 160,000 tons of SAF per year, making it one of the largest facilities of its kind in Europe. Generally produced from resources such as waste oils and agricultural residues, SAF is seen…",
+        "url": "https://www.esgtoday.com/airbus-technip-safran-and-tereos-to-develop-large-scale-saf-production-facility-in-france/?utm_source=rss utm_medium=rss utm_campaign=airbus-technip-safran-and-tereos-to-develop-large-scale-saf-production-facility-in-france",
+        "publishedAt": "2026-06-10T11:33:31.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Airbus-SAF.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-osapiens-greendot-partner-on-sustainable-2026-06-10",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -686,7 +751,7 @@
         "tag": "ESG",
         "accent": "#60a5fa",
         "title": "Omnibus Cuts Non-EU Companies in the Scope of CSRD from 10,000 to 1,200: EFRAG",
-        "excerpt": "The number of companies remaining in the scope of the EU’S Corporate Sustainability Reporting Directive (CSRD) following the European Commission’s Omnibus simplification initiative will fall to approximately 1,200 from around 10,000, according to European Financial Reporting Advisory Group (EFRAG). EFRAG also announced that it has resumed work on the sustainability reporting standard development for non-EU groups (N-ESRS), with plans to release its draft standard for consultation in mid-July. EFRAG has been mandated by the European Commission with…",
+        "excerpt": "The number of non-EU companies remaining in the scope of the EU’S Corporate Sustainability Reporting Directive (CSRD) following the European Commission’s Omnibus simplification initiative will fall to approximately 1,200 from around 10,000, according to European Financial Reporting Advisory Group (EFRAG). EFRAG also announced that it has resumed work on the sustainability reporting standard development for non-EU groups (N-ESRS), with plans to release its draft standard for consultation in mid-July. EFRAG has been mandated by the European Commission…",
         "url": "https://www.esgtoday.com/omnibus-cuts-non-eu-companies-in-the-scope-of-csrd-from-10000-to-1200-efrag/?utm_source=rss utm_medium=rss utm_campaign=omnibus-cuts-non-eu-companies-in-the-scope-of-csrd-from-10000-to-1200-efrag",
         "publishedAt": "2026-06-10T07:23:55.000Z",
         "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/EU-flags.jpg",
@@ -963,72 +1028,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-alphabet-s-waymo-to-repurpose-used-ev-ba-2026-06-08",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Alphabet’s Waymo to Repurpose Used EV Batteries for Grid Storage",
-        "excerpt": "Alphabet-owned autonomous driving technology company Waymo and energy storage developer B2U Storage Solutions announced a new partnership to repurpose retired electric vehicle (EV) batteries from Waymo’s fleet into battery energy storage systems (BESS). EV batteries are often the longest-lasting component of a vehicle, designed to operate for hundreds of thousands of miles and, in many cases, remain functional even after a vehicle reaches end-of-life, making them well-suited for stationary energy storage applications. Founded in 2016, Waymo develops…",
-        "url": "https://www.esgtoday.com/alphabets-waymo-to-repurpose-used-ev-batteries-for-grid-storage/?utm_source=rss utm_medium=rss utm_campaign=alphabets-waymo-to-repurpose-used-ev-batteries-for-grid-storage",
-        "publishedAt": "2026-06-08T11:42:37.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Waymo-battery.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-energy-optimization-software-startup-com-2026-06-08",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Energy Optimization Software Startup Companion.Energy Raises $9 Million",
-        "excerpt": "Energy optimization software startup Companion.energy announced today that it has raised €7.8 million (USD$9 million) in a seed funding round, with proceeds aimed at enhancing and expanding its platform enabling large industrial and commercial enterprises to manage energy as renewable penetration and industrial electrification advance. Founded in 2022 by Thomas Vyncke and Jonas Verstraeten, Companion.energy provides solutions aimed at providing commercial and industrial users with transparency into their energy economics, and to optimize workflows to…",
-        "url": "https://www.esgtoday.com/energy-optimization-software-startup-companion-energy-raises-9-million/?utm_source=rss utm_medium=rss utm_campaign=energy-optimization-software-startup-companion-energy-raises-9-million",
-        "publishedAt": "2026-06-08T10:27:42.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Companion-energy.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-td-signs-10-year-carbon-removal-deal-wit-2026-06-08",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "TD Signs 10-Year Carbon Removal Deal with Deep Sky",
-        "excerpt": "Canada-based carbon removal project developer Deep Sky announced today a new 10-year carbon dioxide removal (CDR) offtake agreement with TD Bank Group, providing for the purchase of more than 18,000 CDR credits from Deep Sky’s direct air capture (DAC) facilities. The companies said that the deal will support the development of permanent carbon removal infrastructure in Canada while strengthening the country’s position in the emerging carbon removal market. Founded in 2022, Montreal-based Deep Sky develops carbon removal projects using a range of…",
-        "url": "https://www.esgtoday.com/td-signs-10-year-carbon-removal-deal-with-deep-sky/?utm_source=rss utm_medium=rss utm_campaign=td-signs-10-year-carbon-removal-deal-with-deep-sky",
-        "publishedAt": "2026-06-08T07:57:58.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/TD-Bank-1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -2004,6 +2003,29 @@
         "region": "world"
       },
       {
+        "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+        "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+        "publishedAt": "2025-11-12T08:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2049,34 +2071,76 @@
           "imageSource": "publisher"
         },
         "region": "world"
-      },
-      {
-        "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
-        "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
-        "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
-        "publishedAt": "2023-12-04T08:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
       }
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-ardian-launches-new-nature-based-solutio-2026-06-10",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Ardian Launches New Nature-Based Solutions Fund with €100 Million Investment by Societe Generale",
+      "excerpt": "Private markets investor Ardian announced the launch of Averrhoa NBS, a new nature-based solutions (NBS) fund aimed at supporting the development and scaling of projects focused on the preservation and restoration of natural ecosystems, and reducing 85 million tons of carbon over 40 years. Ardian’s new fund is being launched alongside the creation of a new NBS partnership with Societe Generale, with the Paris-based bank committing €100 million as an anchor investor in the fund, and supporting its structuring and deployment through its affiliate Societe…",
+      "url": "https://www.esgtoday.com/ardian-launches-new-nature-based-solutions-fund-with-e100-million-investment-by-societe-generale/?utm_source=rss utm_medium=rss utm_campaign=ardian-launches-new-nature-based-solutions-fund-with-e100-million-investment-by-societe-generale",
+      "publishedAt": "2026-06-10T14:17:18.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Ardian.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Investors",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-google-signs-record-saf-deal-with-americ-2026-06-10",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Google Signs Record SAF Deal with American Airlines",
+      "excerpt": "American Airlines and Google announced a new agreement for the purchase of sustainable aviation fuel certificates (SAFc) representing 35 million gallons (132 million liters) of SAF over three years. The deal marks the largest announced SAF agreement to date between an airline and a corporate end-user, according to the companies, and will enable the reduction of nearly 300,000 metric tons of CO2e. Fuel accounts for the vast majority of the aviation sector’s emissions. Generally produced from sustainable resources, like waste oils and agricultural…",
+      "url": "https://www.esgtoday.com/google-signs-largest-ever-corporate-saf-deal-with-american-airlines/?utm_source=rss utm_medium=rss utm_campaign=google-signs-largest-ever-corporate-saf-deal-with-american-airlines",
+      "publishedAt": "2026-06-10T13:25:36.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/American-airlines3.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-airbus-technip-safran-and-tereos-to-deve-2026-06-10",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Airbus, Technip, Safran and Tereos to Develop Large-Scale SAF Production Facility in France",
+      "excerpt": "Airbus, engineering and technology company Technip Energies, aerospace group Safran, and bioethanol producer Tereos announced an agreement to launch a new joint venture to develop a large-scale Sustainable Aviation Fuel (SAF) production project at the Port of Dunkirk, in Northern France. According to the companies, the new partnership will develop production capacity of 160,000 tons of SAF per year, making it one of the largest facilities of its kind in Europe. Generally produced from resources such as waste oils and agricultural residues, SAF is seen…",
+      "url": "https://www.esgtoday.com/airbus-technip-safran-and-tereos-to-develop-large-scale-saf-production-facility-in-france/?utm_source=rss utm_medium=rss utm_campaign=airbus-technip-safran-and-tereos-to-develop-large-scale-saf-production-facility-in-france",
+      "publishedAt": "2026-06-10T11:33:31.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Airbus-SAF.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-osapiens-greendot-partner-on-sustainable-2026-06-10",
       "source": "esg-today",
@@ -2129,7 +2193,7 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "Omnibus Cuts Non-EU Companies in the Scope of CSRD from 10,000 to 1,200: EFRAG",
-      "excerpt": "The number of companies remaining in the scope of the EU’S Corporate Sustainability Reporting Directive (CSRD) following the European Commission’s Omnibus simplification initiative will fall to approximately 1,200 from around 10,000, according to European Financial Reporting Advisory Group (EFRAG). EFRAG also announced that it has resumed work on the sustainability reporting standard development for non-EU groups (N-ESRS), with plans to release its draft standard for consultation in mid-July. EFRAG has been mandated by the European Commission with…",
+      "excerpt": "The number of non-EU companies remaining in the scope of the EU’S Corporate Sustainability Reporting Directive (CSRD) following the European Commission’s Omnibus simplification initiative will fall to approximately 1,200 from around 10,000, according to European Financial Reporting Advisory Group (EFRAG). EFRAG also announced that it has resumed work on the sustainability reporting standard development for non-EU groups (N-ESRS), with plans to release its draft standard for consultation in mid-July. EFRAG has been mandated by the European Commission…",
       "url": "https://www.esgtoday.com/omnibus-cuts-non-eu-companies-in-the-scope-of-csrd-from-10000-to-1200-efrag/?utm_source=rss utm_medium=rss utm_campaign=omnibus-cuts-non-eu-companies-in-the-scope-of-csrd-from-10000-to-1200-efrag",
       "publishedAt": "2026-06-10T07:23:55.000Z",
       "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/EU-flags.jpg",
@@ -2406,72 +2470,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-alphabet-s-waymo-to-repurpose-used-ev-ba-2026-06-08",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Alphabet’s Waymo to Repurpose Used EV Batteries for Grid Storage",
-      "excerpt": "Alphabet-owned autonomous driving technology company Waymo and energy storage developer B2U Storage Solutions announced a new partnership to repurpose retired electric vehicle (EV) batteries from Waymo’s fleet into battery energy storage systems (BESS). EV batteries are often the longest-lasting component of a vehicle, designed to operate for hundreds of thousands of miles and, in many cases, remain functional even after a vehicle reaches end-of-life, making them well-suited for stationary energy storage applications. Founded in 2016, Waymo develops…",
-      "url": "https://www.esgtoday.com/alphabets-waymo-to-repurpose-used-ev-batteries-for-grid-storage/?utm_source=rss utm_medium=rss utm_campaign=alphabets-waymo-to-repurpose-used-ev-batteries-for-grid-storage",
-      "publishedAt": "2026-06-08T11:42:37.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Waymo-battery.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-energy-optimization-software-startup-com-2026-06-08",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Energy Optimization Software Startup Companion.Energy Raises $9 Million",
-      "excerpt": "Energy optimization software startup Companion.energy announced today that it has raised €7.8 million (USD$9 million) in a seed funding round, with proceeds aimed at enhancing and expanding its platform enabling large industrial and commercial enterprises to manage energy as renewable penetration and industrial electrification advance. Founded in 2022 by Thomas Vyncke and Jonas Verstraeten, Companion.energy provides solutions aimed at providing commercial and industrial users with transparency into their energy economics, and to optimize workflows to…",
-      "url": "https://www.esgtoday.com/energy-optimization-software-startup-companion-energy-raises-9-million/?utm_source=rss utm_medium=rss utm_campaign=energy-optimization-software-startup-companion-energy-raises-9-million",
-      "publishedAt": "2026-06-08T10:27:42.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Companion-energy.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-td-signs-10-year-carbon-removal-deal-wit-2026-06-08",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "TD Signs 10-Year Carbon Removal Deal with Deep Sky",
-      "excerpt": "Canada-based carbon removal project developer Deep Sky announced today a new 10-year carbon dioxide removal (CDR) offtake agreement with TD Bank Group, providing for the purchase of more than 18,000 CDR credits from Deep Sky’s direct air capture (DAC) facilities. The companies said that the deal will support the development of permanent carbon removal infrastructure in Canada while strengthening the country’s position in the emerging carbon removal market. Founded in 2022, Montreal-based Deep Sky develops carbon removal projects using a range of…",
-      "url": "https://www.esgtoday.com/td-signs-10-year-carbon-removal-deal-with-deep-sky/?utm_source=rss utm_medium=rss utm_campaign=td-signs-10-year-carbon-removal-deal-with-deep-sky",
-      "publishedAt": "2026-06-08T07:57:58.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/TD-Bank-1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2788,6 +2786,30 @@
       "region": "world"
     },
     {
+      "id": "google-india-what-is-a-carbon-credit-a-one-tonne-co2e-2026-06-02",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "What Is a Carbon Credit? A One-Tonne CO2e Building Block - TheCSRUniverse",
+      "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. A carbon credit is a tradable unit representing one metric tonne of carbon dioxide equivalent reduced, avoided, or removed,…",
+      "url": "https://thecsruniverse.com/articles/what-is-a-carbon-credit-a-one-tonne-co2e-building-block",
+      "publishedAt": "2026-06-02T08:04:35.000Z",
+      "image": "https://thecsruniverse.com/adminxsafe/uploads/1000163795.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkNqWWlhMDJLM1l2Tm50Z2U4UjNDUDhTeGtVY3F2cUEzWDBfXzFMRnV5QUZtUUp1UHJRSXN3YVAwYzI4eUU5ZTdRMzJyUlFtYW1IRm1fM1FyX1dKcUFUOXhSS0pNWURCSnNJdmEwazZ4SEVMUDBMQ3dYanNoOTFoMkRMQmNpaElJS0ZIdjhOMzNHMkZGUVE?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "verra-projects-open-for-public-comment-june-1--2026-06-01",
       "source": "verra",
       "sourceName": "Verra",
@@ -2879,6 +2901,29 @@
         "imageSource": "publisher"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
+      "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
+      "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
+      "publishedAt": "2026-05-25T07:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
+      },
+      "region": "india"
     },
     {
       "id": "verra-may-2026-newsletter-2026-05-21",
@@ -3762,54 +3807,6 @@
       "region": "india"
     },
     {
-      "id": "google-india-digital-pathways-to-net-zero-union-power-2026-03-21",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Digital Pathways to Net Zero: Union Power Minister Launches Indian Carbon Market Portal - The Policy Edge",
-      "excerpt": "SDG 13: Climate Action | SDG 7: Affordable and Clean Energy | SDG 9: Industry, Innovation and Infrastructure Ministry of Power MoP | Ministry of Environment, Forest and Climate Change MoEFCC | Bureau of Energy Efficiency BEE Listen to article Audio version The Union Minister for Power, Shri Manohar Lal, has officially launched the Indian Carbon Market Portal (www.indiancarbonmarket.gov.in) during the inauguration of The International Conference on Carbon Markets- Prakriti 2026 in New Delhi. Positioned as the central digital infrastructure for…",
-      "url": "https://www.policyedge.in/p/digital-pathways-to-net-zero-union-power-minister-launches-indian-carbon-market-portal",
-      "publishedAt": "2026-03-21T07:00:00.000Z",
-      "image": "https://my-strapi-buckets.s3.eu-north-1.amazonaws.com/uploads/Policy_Bites_Cover_252aa8ff70.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazM3ZHJoaGFPNV9kc1c4VkZHUVdrZUNVSjVWc2xIWTJZQ0RjLXo0WThyejhDaTRFb2NtV0NpZGVONmlDZU1jT2FUekE1SzNIMFlJRUZqUXlQeDA0MVluY01ZVWFsMmNxUkluOFVwMzJSRjhNZ2hGTVo2VHQ3QTNPWDJIekF5bmo4d1Z1dEtjWnBNTFh3Q2ZGd0Y1SUNYX05zNkVuTjBTVTd5SlBJTm9WbE15aF8?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-carbon-credits-climate-policy-and-the-fu-2026-03-10",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Carbon Credits, Climate Policy and the Future of Textile Manufacturing with SED’s MVR Based LTE® Technology - The Textile Magazine",
-      "excerpt": "The textile industry is entering a decisive decade where competitiveness will be defined not by scale or cost alone, but by carbon intensity. This transition is structural, not ideological. At successive climate summits under the United Nations Framework Convention on Climate Change (UNFCCC), particularly COP28, governments reinforced commitments to accelerated decarbonization. Simultaneously, mechanisms like the European Union’s Carbon Border Adjustment Mechanism (CBAM) make carbon intensity a determinant of market access. For export-driven textile…",
-      "url": "https://www.indiantextilemagazine.in/carbon-credits-climate-policy-and-the-future-of-textile-manufacturing-with-seds-mvr-based-lte-technology/",
-      "publishedAt": "2026-03-10T08:55:12.000Z",
-      "image": "https://www.indiantextilemagazine.in/wp-content/uploads/2026/03/LTE-Product.jpg.jpeg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS284NGtBNXZ5bGZEeTBoVlRmUWVDZFNrS1BTV0xsWEdlWnd4QjY4S3FCWkl5VFdPVjUtYnRPZzJ1VEZhM3U5bk1idE16ZTBmMnFUNFdKWlYzYW5uTkQxY0cteUJsZ1A1UUtDN3BmemNGVzdGbnhYbVhfd1Mtd2ZhNVRlN3BaT2gxRVZwQ1lpWk5iQ3dfbl9JdkxDTHNSUEhLVVR4RUdURWNPdFlTTjVNQWlRbVVoZ2h3VUIyRW1pR2JlZWZ1WmNodUlrYkRNbWl4VXBSWlJhN2wxdw?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -3924,6 +3921,29 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+      "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+      "publishedAt": "2025-11-12T08:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
       },
       "region": "world"
     },
@@ -4069,30 +4089,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
-      "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
-      "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
-      "publishedAt": "2023-12-04T08:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
     }
   ]
 }
