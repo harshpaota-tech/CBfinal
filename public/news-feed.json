@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-18T05:52:07.416Z",
+  "fetchedAt": "2026-06-18T11:11:52.502Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 87,
-    "india": 26,
-    "world": 61,
-    "withImages": 57,
-    "avgExcerptLength": 435,
+    "india": 25,
+    "world": 62,
+    "withImages": 56,
+    "avgExcerptLength": 430,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -76,28 +76,6 @@
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNENxXzhDWXBoVnA2ZmNybm1DRldMSVI0ODlVWXBVaHJKdDEya1UzOVF4dnBIZGFveWhhWkJBS3hLZkx1MVlINHNjTXY4Q1BXVVBGVXViLTNZNmlHaThxNTJIRUp4OXJnSjA2eGJ0elBhdVo3S0xKZ3huRkhJY1dGSVZwS1M1U3dYeTBMa1FwekF0dkdXd0dPYS11QUd1V0NtdWlHdE9xZ3p3a2RhYjRoNVVR0gG3AUFVX3lxTE16UHlIUHNIS0VjLUV0Vl9xeERndWRXM3o2OUxscEhXUURFZGQtb0VDSTZKaWxNdUh1SWtfemN2Qnc5Zm9qMUdOZzJNU1hkaUpfdlRJRHR3a1h5bkloUzJqd01GUlhiUWNpV1JsQ2ZSLU9GSTFsSTl6bWNxREtMakNac3MzbDdicXVlTHVFejlCenFFd2tYOXZjVnpULTFPZDFEVG1tRE5pV2Y0XzdKaFgyTXlMZXBPMA?oc=5",
           "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "esg-today-solarsquare-raises-53-million-to-scale-r-2026-06-16",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "SolarSquare Raises $53 Million to Scale Residential Solar Platform in India",
-        "excerpt": "India-based rooftop solar system provider SolarSquare announced today that it has raised $53 million in a Series C funding round, with proceeds from the financing to be used to expand its platform to new cities and deepen its technology capabilities. The company said that the raise marks the largest venture investment in India’s solar sector, reflecting growing investor confidence in the country’s rapidly expanding rooftop solar market. Founded in 2015 by Neeraj Jain, Nikhil Nahar and Shreya Mishra, SolarSquare provides end-to-end solar rooftop…",
-        "url": "https://www.esgtoday.com/solarsquare-raises-53-million-to-scale-residential-solar-platform-in-india/?utm_source=rss utm_medium=rss utm_campaign=solarsquare-raises-53-million-to-scale-residential-solar-platform-in-india",
-        "publishedAt": "2026-06-16T14:13:43.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/SolarSquare.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "india"
       },
@@ -142,6 +120,29 @@
         "meta": {
           "category": "Renewables",
           "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD News",
+        "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week DD News",
+        "url": "https://ddnews.gov.in/en/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
+        "publishedAt": "2026-06-05T07:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWRNZFVKLWdfd2tCSGtMYVN1MElGRzdEdDJZYXA2ZlRlRThRaUxkd1hKVEFNbzlpcWhOVXdFODBtZlREdHN6TWctTk05Q3VlX3JIS1NOMWRyY2RNTk1fYThuaGZXTm5yT1I0MVNnZFJQbm9pdkVBUmR2V3NwdGcwQUQxYmVDQVB1YzhBaTFlUGdPeGVxeVZ0cy1hY1ZoTmNNT2dGcU93bw?oc=5"
         },
         "region": "india"
       },
@@ -310,30 +311,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlhkQURpdUd0Yk51RUEwNGEtc1NmWHMtV2dZY3hPREhXZGJUMWNlYXh3UHotaF9jZjlFZXp4RF95UEduSkg5VGlad3JWdmxBZU15T2tiZUE0TWtGZTFKOVRqT2lSRGE4d0VNYWNOdExNdTEzT0RwVVhOeEl2dTZob19pY283NFliVHk3b1ZXdDlkVVhKQUFvZG0xdE9la2htQUFmc3pJMDVFYWJxeVh4OGQ1NVhZSDJDZjR1bnlaek5rSzBTTGhlM9IBzwFBVV95cUxPemxKSjVSeW0zVXZsRG51eFhTVjk1S0R2VmcwRHppNVFPdU02NDRES2dhV1QwWFoybjdzQWNVbHg1dU1xbWJCdjlxemVrTXc3cUl0aFJPVXN6Sk9UeU5reEJhRFk5MFM5a2NzUFRiVzZVaDBxQmVxS0M4Ql9aSXpGc3lhNUFUaVhqMDZiYTNHUDBtTFNYTnJJdExuUEpMT0JkNDhvSmtyaGg3aTdvbktZcXpxUWFadDJrRHpCclJLX0h4S1I1NlNQUVpXWDFqR2M?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-modelling-insights-and-design-choices-fo-2026-04-23",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Modelling insights and design choices for a credible Indian carbon market: Workshop summary report - Institute for Energy Economics and Financial Analysis (IEEFA)",
-        "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries In the media Events About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Insights…",
-        "url": "https://ieefa.org/resources/modelling-insights-and-design-choices-credible-indian-carbon-market-workshop-summary",
-        "publishedAt": "2026-04-23T07:00:00.000Z",
-        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-04/CCS-shutterstock_1555865300.jpg?itok=iLGz4_jn",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemt4aE9zOTJrZ3pYQVFKWmg1c2xGQjR2RjNRNU9nXzgtVzNiTlUwc2RsSGJ4ejRldUg3OHJmYmpmSFJXS1lXME9Ec1ctWFpjVFhQZ0FFdkdYZHNHSHMxTjA3OXNtYWowS2x3YlhZcXVscXh6eU5EUk1QLTRGV0ZFQzlzZVh3dnJTN0JNMngtRk81REVZRndUZ0JLQUVVV3YyT01GOW5ERFBzMVl6MlVhV0xn?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -519,7 +496,7 @@
         "accent": "#fbbf24",
         "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
         "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377",
         "publishedAt": "2026-03-21T07:00:00.000Z",
         "image": null,
         "country": "India",
@@ -529,7 +506,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16WjdjbDM1eTE0djR0ZFlBSUsyN3FaRDRRT1JWY0IwU3JBWWNlTVA0ZmNuV0h1aDZDaGhydklmUlpjR3RXdjZFc015cUNuaDdHNjNOVkMzbXN2VFMwbnFoX2NNTHBteFBR?oc=5"
         },
         "region": "india"
       },
@@ -678,6 +655,94 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-clean-fuel-startup-kvasir-raises-10-mill-2026-06-18",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Clean Fuel Startup Kvasir Raises €10 Million to Decarbonize Marine Transport",
+        "excerpt": "Danish biofuel startup Kvasir Technologies announced today that it has raised €10 million (USD$11.1 million) in a Series A funding round, with proceeds from the financing to be used to accelerate the commercialization its climate-neutral marine fuel technology. Alongside the financing, Kvasir announced a new strategic partnership with European Energy, who joined as a new investor in the round, to launch KVEEN Biofuels, a company focused on developing a commercial-scale plant to produce biofuels using Kvasir’s patented technology. Founded in 2018 as a…",
+        "url": "https://www.esgtoday.com/clean-fuel-startup-kvasir-raises-e10-million-to-decarbonize-marine-transport/?utm_source=rss utm_medium=rss utm_campaign=clean-fuel-startup-kvasir-raises-e10-million-to-decarbonize-marine-transport",
+        "publishedAt": "2026-06-18T11:01:42.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Kvasir.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-q-a-what-do-china-s-provincial-five-year-2026-06-18",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Q A: What do China’s provincial five-year plans say about climate and energy?",
+        "excerpt": "China’s provincial-level governments have now all published their 15th five-year plans – economic and social development blueprints for 2026-2030. These provincial plans reaffirm the overall trajectory of China’s energy transition, but reveal regional differences, based on economic and geographic considerations. Provincial plans are a critical mechanism for showing how high-level targets from the central government will be translated into action. For example, binding indicators set at national level include reductions in carbon intensity – carbon…",
+        "url": "https://www.carbonbrief.org/qa-what-do-chinas-provincial-five-year-plans-say-about-climate-and-energy/",
+        "publishedAt": "2026-06-18T10:00:27.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/chinas-provinces-focus-clean-energy-carbon-peaking-deadline-approaches_1.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "China Policy",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-eu-steel-giants-warn-rising-ets-carbon-c-2026-06-18",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EU Steel Giants Warn Rising ETS Carbon Costs Risk “Destroying” Industrial Base",
+        "excerpt": "Three of Europe’s largest steelmakers, ArcelorMittal Europe, thyssenkrupp Steel, and voestalpine, announced the publication of an open letter calling on European lawmakers to pause increasing carbon pricing under the EU Emissions Trading System (ETS), warning that the current trajectory of the scheme “risks destroying Europe’s industrial base.” While the companies – which collectively account for approximately 60% of Europe’s integrated steel production – expressed support for Europe’s climate goals, and said that they each have committed to…",
+        "url": "https://www.esgtoday.com/eu-steel-giants-warn-rising-ets-costs-risk-destroying-industrial-base/?utm_source=rss utm_medium=rss utm_campaign=eu-steel-giants-warn-rising-ets-costs-risk-destroying-industrial-base",
+        "publishedAt": "2026-06-18T09:57:39.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Steel-arcellowmittal.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-vertoro-raises-20-million-to-scale-plant-2026-06-18",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Vertoro Raises $20 Million to Scale Plant-Based Clean Fuel Technology",
+        "excerpt": "Climate technology startup Vertoro announced today that it has secured €17 million (USD$19.7 million) in its first Series B funding round, with proceeds from the financing to be used to scale the company’s technology that converts plant-based waste into renewable oil for the production of low-carbon fuels and chemicals. Founded in 2017, Netherlands-based Vertoro develops technology to convert lignin—one of the main components of plant biomass—into a liquid renewable feedstock designed to replace fossil oil in fuels, chemicals, and materials. According…",
+        "url": "https://www.esgtoday.com/vertoro-raises-20-million-to-scale-plant-based-clean-fuel-technology/?utm_source=rss utm_medium=rss utm_campaign=vertoro-raises-20-million-to-scale-plant-based-clean-fuel-technology",
+        "publishedAt": "2026-06-18T07:40:35.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Vertoro.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-british-airways-signs-saf-purchase-deal--2026-06-17",
         "source": "esg-today",
@@ -988,28 +1053,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-upright-launches-new-ai-model-to-quantif-2026-06-16",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Upright Launches New AI Model to Quantify Companies’ Sustainability Impacts, Risks and Opportunities",
-        "excerpt": "Impact data company Upright announced the launch of a new vertically-trained AI model designed to enable companies and investors to quantify sustainability impacts, risks, and opportunities. According to Upright, the new large language model (LLM) bases its impact quantification on scientific evidence, rather than relying primarily on corporate disclosures or general-purpose AI models. Annu Nieminen, Co-founder and CEO of Upright, said: “For 20 years, the sustainability industry has asked companies to grade their own homework in sustainability and make…",
-        "url": "https://www.esgtoday.com/upright-launches-new-ai-model-to-quantify-companies-sustainability-impacts-risks-and-opportunities/?utm_source=rss utm_medium=rss utm_campaign=upright-launches-new-ai-model-to-quantify-companies-sustainability-impacts-risks-and-opportunities",
-        "publishedAt": "2026-06-16T13:45:08.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Upright-team.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-verra-publishes-new-methodology-for-alte-2026-06-16",
         "source": "verra",
         "sourceName": "Verra",
@@ -1029,28 +1072,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-canada-launches-legislation-to-ban-produ-2026-06-16",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Canada Launches Legislation to Ban Products Made with Forced Labor Following U.S. Tariff Threat",
-        "excerpt": "The Government of Canada announced the launch of new proposed legislation aimed at strengthening its ban on imports of goods produced with forced labor, introducing new requirements for companies importing high-risk goods to provide enhanced supply chain tracing, and banning goods unless information requirements are met. The introduction of the new legislation follows the publication of a report by the U.S. government’s United States Trade Representative (USTR), listing Canada as one of the U.S.’ trading partners that have failed to effectively enforce…",
-        "url": "https://www.esgtoday.com/canada-launches-legislation-to-ban-products-made-with-forced-labor-following-u-s-tariff-threat/?utm_source=rss utm_medium=rss utm_campaign=canada-launches-legislation-to-ban-products-made-with-forced-labor-following-u-s-tariff-threat",
-        "publishedAt": "2026-06-16T12:47:10.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Canada-parliament2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Government",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1319,28 +1340,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-cited-9-june-2026-europe-s-exceptional-h-2026-06-09",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Cited 9 June 2026: Europe’s ‘exceptional’ heatwave Warming forecast AMOC observations ‘at risk’",
-        "excerpt": "Welcome to Cited, your essential guide to new climate research. SPRING HEATWAVE: Temperature records for May fell across western Europe as the region baked in an “exceptionally early” heatwave, reported the Associated Press . The outlet noted that temperatures reached 35.1C in the UK and 36C in France at the end of last month, with the latter’s national weather service stating that a “heat dome” had produced temperatures more than 10C higher than “usual”. BBC News said temperatures reached 40.3C in Portugal. Carbon Brief explored how the media covered…",
-        "url": "https://www.carbonbrief.org/cited-9-june-2026-europes-exceptional-heatwave-warming-forecast-amoc-observations-at-risk/",
-        "publishedAt": "2026-06-09T14:44:36.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/china-dominates-levels-conventional-carbon-dioxide-removal.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Science",
-          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -2103,6 +2102,94 @@
   },
   "articles": [
     {
+      "id": "esg-today-clean-fuel-startup-kvasir-raises-10-mill-2026-06-18",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Clean Fuel Startup Kvasir Raises €10 Million to Decarbonize Marine Transport",
+      "excerpt": "Danish biofuel startup Kvasir Technologies announced today that it has raised €10 million (USD$11.1 million) in a Series A funding round, with proceeds from the financing to be used to accelerate the commercialization its climate-neutral marine fuel technology. Alongside the financing, Kvasir announced a new strategic partnership with European Energy, who joined as a new investor in the round, to launch KVEEN Biofuels, a company focused on developing a commercial-scale plant to produce biofuels using Kvasir’s patented technology. Founded in 2018 as a…",
+      "url": "https://www.esgtoday.com/clean-fuel-startup-kvasir-raises-e10-million-to-decarbonize-marine-transport/?utm_source=rss utm_medium=rss utm_campaign=clean-fuel-startup-kvasir-raises-e10-million-to-decarbonize-marine-transport",
+      "publishedAt": "2026-06-18T11:01:42.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Kvasir.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-q-a-what-do-china-s-provincial-five-year-2026-06-18",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Q A: What do China’s provincial five-year plans say about climate and energy?",
+      "excerpt": "China’s provincial-level governments have now all published their 15th five-year plans – economic and social development blueprints for 2026-2030. These provincial plans reaffirm the overall trajectory of China’s energy transition, but reveal regional differences, based on economic and geographic considerations. Provincial plans are a critical mechanism for showing how high-level targets from the central government will be translated into action. For example, binding indicators set at national level include reductions in carbon intensity – carbon…",
+      "url": "https://www.carbonbrief.org/qa-what-do-chinas-provincial-five-year-plans-say-about-climate-and-energy/",
+      "publishedAt": "2026-06-18T10:00:27.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/chinas-provinces-focus-clean-energy-carbon-peaking-deadline-approaches_1.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "China Policy",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-eu-steel-giants-warn-rising-ets-carbon-c-2026-06-18",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EU Steel Giants Warn Rising ETS Carbon Costs Risk “Destroying” Industrial Base",
+      "excerpt": "Three of Europe’s largest steelmakers, ArcelorMittal Europe, thyssenkrupp Steel, and voestalpine, announced the publication of an open letter calling on European lawmakers to pause increasing carbon pricing under the EU Emissions Trading System (ETS), warning that the current trajectory of the scheme “risks destroying Europe’s industrial base.” While the companies – which collectively account for approximately 60% of Europe’s integrated steel production – expressed support for Europe’s climate goals, and said that they each have committed to…",
+      "url": "https://www.esgtoday.com/eu-steel-giants-warn-rising-ets-costs-risk-destroying-industrial-base/?utm_source=rss utm_medium=rss utm_campaign=eu-steel-giants-warn-rising-ets-costs-risk-destroying-industrial-base",
+      "publishedAt": "2026-06-18T09:57:39.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Steel-arcellowmittal.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-vertoro-raises-20-million-to-scale-plant-2026-06-18",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Vertoro Raises $20 Million to Scale Plant-Based Clean Fuel Technology",
+      "excerpt": "Climate technology startup Vertoro announced today that it has secured €17 million (USD$19.7 million) in its first Series B funding round, with proceeds from the financing to be used to scale the company’s technology that converts plant-based waste into renewable oil for the production of low-carbon fuels and chemicals. Founded in 2017, Netherlands-based Vertoro develops technology to convert lignin—one of the main components of plant biomass—into a liquid renewable feedstock designed to replace fossil oil in fuels, chemicals, and materials. According…",
+      "url": "https://www.esgtoday.com/vertoro-raises-20-million-to-scale-plant-based-clean-fuel-technology/?utm_source=rss utm_medium=rss utm_campaign=vertoro-raises-20-million-to-scale-plant-based-clean-fuel-technology",
+      "publishedAt": "2026-06-18T07:40:35.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Vertoro.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-today-british-airways-signs-saf-purchase-deal--2026-06-17",
       "source": "esg-today",
       "sourceName": "ESG Today",
@@ -2436,50 +2523,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-solarsquare-raises-53-million-to-scale-r-2026-06-16",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "SolarSquare Raises $53 Million to Scale Residential Solar Platform in India",
-      "excerpt": "India-based rooftop solar system provider SolarSquare announced today that it has raised $53 million in a Series C funding round, with proceeds from the financing to be used to expand its platform to new cities and deepen its technology capabilities. The company said that the raise marks the largest venture investment in India’s solar sector, reflecting growing investor confidence in the country’s rapidly expanding rooftop solar market. Founded in 2015 by Neeraj Jain, Nikhil Nahar and Shreya Mishra, SolarSquare provides end-to-end solar rooftop…",
-      "url": "https://www.esgtoday.com/solarsquare-raises-53-million-to-scale-residential-solar-platform-in-india/?utm_source=rss utm_medium=rss utm_campaign=solarsquare-raises-53-million-to-scale-residential-solar-platform-in-india",
-      "publishedAt": "2026-06-16T14:13:43.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/SolarSquare.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "india"
-    },
-    {
-      "id": "esg-today-upright-launches-new-ai-model-to-quantif-2026-06-16",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Upright Launches New AI Model to Quantify Companies’ Sustainability Impacts, Risks and Opportunities",
-      "excerpt": "Impact data company Upright announced the launch of a new vertically-trained AI model designed to enable companies and investors to quantify sustainability impacts, risks, and opportunities. According to Upright, the new large language model (LLM) bases its impact quantification on scientific evidence, rather than relying primarily on corporate disclosures or general-purpose AI models. Annu Nieminen, Co-founder and CEO of Upright, said: “For 20 years, the sustainability industry has asked companies to grade their own homework in sustainability and make…",
-      "url": "https://www.esgtoday.com/upright-launches-new-ai-model-to-quantify-companies-sustainability-impacts-risks-and-opportunities/?utm_source=rss utm_medium=rss utm_campaign=upright-launches-new-ai-model-to-quantify-companies-sustainability-impacts-risks-and-opportunities",
-      "publishedAt": "2026-06-16T13:45:08.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Upright-team.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-publishes-new-methodology-for-alte-2026-06-16",
       "source": "verra",
       "sourceName": "Verra",
@@ -2499,28 +2542,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-canada-launches-legislation-to-ban-produ-2026-06-16",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Canada Launches Legislation to Ban Products Made with Forced Labor Following U.S. Tariff Threat",
-      "excerpt": "The Government of Canada announced the launch of new proposed legislation aimed at strengthening its ban on imports of goods produced with forced labor, introducing new requirements for companies importing high-risk goods to provide enhanced supply chain tracing, and banning goods unless information requirements are met. The introduction of the new legislation follows the publication of a report by the U.S. government’s United States Trade Representative (USTR), listing Canada as one of the U.S.’ trading partners that have failed to effectively enforce…",
-      "url": "https://www.esgtoday.com/canada-launches-legislation-to-ban-products-made-with-forced-labor-following-u-s-tariff-threat/?utm_source=rss utm_medium=rss utm_campaign=canada-launches-legislation-to-ban-products-made-with-forced-labor-following-u-s-tariff-threat",
-      "publishedAt": "2026-06-16T12:47:10.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Canada-parliament2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Government",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2837,28 +2858,6 @@
       "region": "world"
     },
     {
-      "id": "carbon-brief-cited-9-june-2026-europe-s-exceptional-h-2026-06-09",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Cited 9 June 2026: Europe’s ‘exceptional’ heatwave Warming forecast AMOC observations ‘at risk’",
-      "excerpt": "Welcome to Cited, your essential guide to new climate research. SPRING HEATWAVE: Temperature records for May fell across western Europe as the region baked in an “exceptionally early” heatwave, reported the Associated Press . The outlet noted that temperatures reached 35.1C in the UK and 36C in France at the end of last month, with the latter’s national weather service stating that a “heat dome” had produced temperatures more than 10C higher than “usual”. BBC News said temperatures reached 40.3C in Portugal. Carbon Brief explored how the media covered…",
-      "url": "https://www.carbonbrief.org/cited-9-june-2026-europes-exceptional-heatwave-warming-forecast-amoc-observations-at-risk/",
-      "publishedAt": "2026-06-09T14:44:36.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/china-dominates-levels-conventional-carbon-dioxide-removal.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Science",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-operationalizes-vcs-version-5-with-2026-06-09",
       "source": "verra",
       "sourceName": "Verra",
@@ -2903,6 +2902,29 @@
         "imageSource": "publisher"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD News",
+      "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week DD News",
+      "url": "https://ddnews.gov.in/en/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
+      "publishedAt": "2026-06-05T07:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWRNZFVKLWdfd2tCSGtMYVN1MElGRzdEdDJZYXA2ZlRlRThRaUxkd1hKVEFNbzlpcWhOVXdFODBtZlREdHN6TWctTk05Q3VlX3JIS1NOMWRyY2RNTk1fYThuaGZXTm5yT1I0MVNnZFJQbm9pdkVBUmR2V3NwdGcwQUQxYmVDQVB1YzhBaTFlUGdPeGVxeVZ0cy1hY1ZoTmNNT2dGcU93bw?oc=5"
+      },
+      "region": "india"
     },
     {
       "id": "verra-verra-publishes-revision-to-cdm-methodol-2026-06-03",
@@ -3416,30 +3438,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-modelling-insights-and-design-choices-fo-2026-04-23",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Modelling insights and design choices for a credible Indian carbon market: Workshop summary report - Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries In the media Events About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Insights…",
-      "url": "https://ieefa.org/resources/modelling-insights-and-design-choices-credible-indian-carbon-market-workshop-summary",
-      "publishedAt": "2026-04-23T07:00:00.000Z",
-      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-04/CCS-shutterstock_1555865300.jpg?itok=iLGz4_jn",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemt4aE9zOTJrZ3pYQVFKWmg1c2xGQjR2RjNRNU9nXzgtVzNiTlUwc2RsSGJ4ejRldUg3OHJmYmpmSFJXS1lXME9Ec1ctWFpjVFhQZ0FFdkdYZHNHSHMxTjA3OXNtYWowS2x3YlhZcXVscXh6eU5EUk1QLTRGV0ZFQzlzZVh3dnJTN0JNMngtRk81REVZRndUZ0JLQUVVV3YyT01GOW5ERFBzMVl6MlVhV0xn?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "verra-vcs-6004",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3869,7 +3867,7 @@
       "accent": "#fbbf24",
       "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
       "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377",
       "publishedAt": "2026-03-21T07:00:00.000Z",
       "image": null,
       "country": "India",
@@ -3879,7 +3877,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16WjdjbDM1eTE0djR0ZFlBSUsyN3FaRDRRT1JWY0IwU3JBWWNlTVA0ZmNuV0h1aDZDaGhydklmUlpjR3RXdjZFc015cUNuaDdHNjNOVkMzbXN2VFMwbnFoX2NNTHBteFBR?oc=5"
       },
       "region": "india"
     },
