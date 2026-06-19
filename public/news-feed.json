@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-18T21:21:50.688Z",
+  "fetchedAt": "2026-06-19T06:12:01.881Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 87,
-    "india": 26,
-    "world": 61,
-    "withImages": 57,
-    "avgExcerptLength": 432,
+    "india": 25,
+    "world": 62,
+    "withImages": 56,
+    "avgExcerptLength": 426,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -97,30 +97,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-india-japan-adopt-rules-for-joint-carbon-2026-06-16",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India, Japan Adopt Rules for Joint Carbon Credit Mechanism - Devdiscourse",
-        "excerpt": "The adoption of the implementation rules is expected to strengthen India s climate action efforts by attracting investments in clean technologies and sustainable infrastructure. Image Credit: ChatGPT Country: India SHARE India and Japan have taken a major step forward in their climate partnership by adopting the Rule of Implementation for the Joint Crediting Mechanism (JCM). The framework was officially adopted on June 8, 2026, under Article 6.2 of the Paris Agreement of the United Nations Framework Convention on Climate Change (UNFCCC). The development…",
-        "url": "https://www.devdiscourse.com/article/law-order/3935852-india-japan-adopt-rules-for-joint-carbon-credit-mechanism",
-        "publishedAt": "2026-06-16T15:46:24.000Z",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/18_08_2021_16_32_13_5728252.png&width=920&format=jpeg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNENxXzhDWXBoVnA2ZmNybm1DRldMSVI0ODlVWXBVaHJKdDEya1UzOVF4dnBIZGFveWhhWkJBS3hLZkx1MVlINHNjTXY4Q1BXVVBGVXViLTNZNmlHaThxNTJIRUp4OXJnSjA2eGJ0elBhdVo3S0xKZ3huRkhJY1dGSVZwS1M1U3dYeTBMa1FwekF0dkdXd0dPYS11QUd1V0NtdWlHdE9xZ3p3a2RhYjRoNVVR0gG3AUFVX3lxTE16UHlIUHNIS0VjLUV0Vl9xeERndWRXM3o2OUxscEhXUURFZGQtb0VDSTZKaWxNdUh1SWtfemN2Qnc5Zm9qMUdOZzJNU1hkaUpfdlRJRHR3a1h5bkloUzJqd01GUlhiUWNpV1JsQ2ZSLU9GSTFsSTl6bWNxREtMakNac3MzbDdicXVlTHVFejlCenFFd2tYOXZjVnpULTFPZDFEVG1tRE5pV2Y0XzdKaFgyTXlMZXBPMA?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -287,6 +263,30 @@
           "creditingPeriodStart": "2025-05-22",
           "creditingPeriodEnd": "2032-05-21",
           "program": "Verified Carbon Standard"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-the-brics-climate-stress-test-india-s-op-2026-05-02",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture - The Diplomat – Asia-Pacific",
+        "excerpt": "All Sections Search Read The Diplomat , Know The Asia-Pacific Diplomat Brief Weekly Newsletter The Diplomat Home Page About Us Contact Us Write for Us Advertise Syndicate Privacy Newsletter Subscriptions Flashpoints The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture Recent Features Politics On the Bangladesh-India Border, BJP Victories Spike Anxieties Diplomacy China Is Indispensable, But Not Dominant Photo Essays Survivors of Myanmar’s Landmine Blasts Struggle With Severed Limbs and Shattered Lives Economy…",
+        "url": "https://thediplomat.com/2026/05/the-brics-climate-stress-test-indias-opportunity-to-reshape-global-climate-finance-architecture/",
+        "publishedAt": "2026-05-02T07:00:00.000Z",
+        "image": "https://thediplomat.com/wp-content/uploads/2025/10/sizes/td-story-s-2/thediplomat_2025-10-08-173414.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGtXNFB0OXhYNnkwQVZPX2xTNnNDbEdfUUhfTEVYTTk0OWF2cFVWSWNNN3hrR1NQRG1ScjR4WkMtYl8wWXRWck9ZMDlWdDc3YlZmdnRPbnFaNzdDN0pmYUx6bmZVaGdqS3RWTGRraXMtUWd3MGFkTTJ5bmVPT0haRnVTZ0ptUy1ETDNiOUNGZkdCVVRsU2pCb2FsRmRvTWpGa3RUZXJZY1N0dDk2ckp1RTYtV3JOWWU0VUhYdmpjcWNhbl80TXBr?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -648,30 +648,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pMThoZm5Ya29ZX2R3RWk4NjVPeUcwbkNBR3R4QzJGYUxHNXVUekdqMlVvS0t5Q09sTDd0aTFITXo2aUdwd21FcDNEUTBOTlMtMGVET214R3JZWGxB?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Hydrogen Horizons: Unlocking the Power of the Universe for Clean Mobility - TheCSRUniverse",
-        "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The global transition to clean energy has positioned hydrogen as a frontrunner in the race to decarbonize transportation. As…",
-        "url": "https://thecsruniverse.com/articles/hydrogen-horizons-unlocking-the-power-of-the-universe-for-clean-mobility",
-        "publishedAt": "2025-05-07T07:00:00.000Z",
-        "image": "https://thecsruniverse.com/adminxsafe/uploads/20260516055652",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWYweWJqMjBTSzcwc0kzSUlnVTJfQ1RDaHRLalB4dFlKb1VpVUZaa2NBM1pOYk1XRnFISUkwWF9jWHBfQ0pJUy00aVdmYmYtUFZXTkF3bWh0U3BuaXVzNFMzXzllcll5cDdCQUxNVmMxWDlkLVh4b3JnWVh2Qy01YmNZVkQwWGxQVXg3NkVtZk0xUWNqdEhSNmV3MFk0THh2ZDFDNEpBaEFhTGZV?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -1982,6 +1958,53 @@
         "region": "world"
       },
       {
+        "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "The Evolving Spectrum of Energy Sources - PIB",
+        "excerpt": "The Evolving Spectrum of Energy Sources PIB",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
+        "publishedAt": "2026-02-28T08:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Issues First CORSIA Label for 4.7 Million Carbon Credits - ClearBlue Markets",
+        "excerpt": "Verra, one of the world's leading developers of carbon standards, has reached a significant milestone by applying the International Civil Aviation Organization’s (ICAO) Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) label to millions of voluntary carbon credits for the first time, with the majority of these credits from projects in Africa. CORSIA's implementation continues to make it one of the most relevant climate compliance mechanisms globally, as it mitigates emissions from one of the highest-emitting and hardest-to-abate…",
+        "url": "https://www.clearbluemarkets.com/knowledge-base/verra-issues-first-corsia-label-for-4.7-million-carbon-credits",
+        "publishedAt": "2026-02-03T08:00:00.000Z",
+        "image": "https://www.clearbluemarkets.com/hubfs/Blog%20images%20(62).png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkEySVpteS1aZ3lfNnhCMk44TThDcEVoX1NGRkFWcGRfMUFJdDBwVEstUW5kMTlDUDVmdFFjaFVoZFZjUDJfbGJQVjNkdHlDY2RVOEhDeTFvV2FzU2RKV2F5MGQ1VkhBc0FrX3QzZWE5clhqa1ZXNFFmZjlabWdYQ2MzWU5QSXNOMExDWWUyS1FrWnZQTW1FeUxFRTZYb1owTnRlNGxQV0RHYkN3b1Mw0gG_AUFVX3lxTE8wT1pMd0QwUF9oOUhEdkl1U3UzRDE3VTJIVkN3YTloaU1KQ0p5c0NuZlZNYmJSQXljdXRsZ1U1eHFCbHRkLTJrSVBKS3ItYkdzLVdYVU1lcU1rM3d2V0s2dDdSMjdPUC1Fa192eTcxdGFGczl1Tk5xcnBCZVk1ZVJ5c0RQRlRVdkFHVWxCRUhobGhsTXJHbGFCOUxPclcyVjYwbmR0SHIzVkRkOW91X2M4ZkEtanlKVUlBY09MTXhV?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-carbon-credit-demand-plateaued-in-2025-a-2026-02-03",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2072,30 +2095,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-verra-and-gold-standard-release-insuranc-2025-07-22",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra and Gold Standard Release Insurance Framework for CORSIA-Eligible Credits - ClearBlue Markets",
-        "excerpt": "On July 16 and 17, 2025, Verra and Gold Standard each announced new insurance frameworks and eligibility criteria aimed at supporting the integrity of CORSIA-eligible carbon credits. These insurance mechanisms are designed to address political risks associated with the potential double counting of emission reductions. As CORSIA enters a new phase of implementation, these developments represent a critical advancement in strengthening the credibility of the program, directly addressing one of its most prominent criticisms. The Carbon Offsetting and…",
-        "url": "https://www.clearbluemarkets.com/knowledge-base/verra-and-gold-standard-release-insurance-framework-for-corsia-eligible-credits",
-        "publishedAt": "2025-07-22T07:00:00.000Z",
-        "image": "https://www.clearbluemarkets.com/hubfs/Blog%20images%20(62).png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0tGTnd1eDdJYWdKeXp3MkFRT2hDWkxqMzF4R1JZWmRQakNnY0s0NUZQcFF3ZzcxWEdRVkE1WWRIaG1fcmNmclZrTXBZT0cwdDFsSjZrMU1nN3VXRk9kYU9ZWEpocWh3cW9DVW41c3ZwWXF3eHNES0dWb2tiSW1yUXJldUNvclZRZTZqTi1NclpGZzlaWmZrN2g4cFpaWHgwZHpUbXR0Q2Z6TksxbERrVWNmZDBwU01nazdSMUJiZm4wSzM1YmfSAdYBQVVfeXFMTklTZ2poX3lBMXNBekhlR1dRV1dVck1xWHJtSUlUVkRObTBIb1gzekJIcHVXWFhYOEdsR3VhZmNVSmRQR1d3RGJ4RU5qUzR0cElxVjI2MVBDX0FycjQ1T2dXdlBLLUdwYjZmV0R5d2pLSUVGRWFnR1duSE5WN2RlQ0lqaHRvQ212b1c4Y0JPNzhrX2dDNG9jY3pjWmJiYWZYX2FsNW5JWjNXTXF1NXJ2QVBvY201RTdxXzI3SEFTY042dUJvZ05uNlZxeHd1eG9ndzI0SnhZZw?oc=5",
-          "imageSource": "publisher"
         },
         "region": "world"
       }
@@ -2589,30 +2588,6 @@
         "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-india-japan-adopt-rules-for-joint-carbon-2026-06-16",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India, Japan Adopt Rules for Joint Carbon Credit Mechanism - Devdiscourse",
-      "excerpt": "The adoption of the implementation rules is expected to strengthen India s climate action efforts by attracting investments in clean technologies and sustainable infrastructure. Image Credit: ChatGPT Country: India SHARE India and Japan have taken a major step forward in their climate partnership by adopting the Rule of Implementation for the Joint Crediting Mechanism (JCM). The framework was officially adopted on June 8, 2026, under Article 6.2 of the Paris Agreement of the United Nations Framework Convention on Climate Change (UNFCCC). The development…",
-      "url": "https://www.devdiscourse.com/article/law-order/3935852-india-japan-adopt-rules-for-joint-carbon-credit-mechanism",
-      "publishedAt": "2026-06-16T15:46:24.000Z",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/18_08_2021_16_32_13_5728252.png&width=920&format=jpeg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNENxXzhDWXBoVnA2ZmNybm1DRldMSVI0ODlVWXBVaHJKdDEya1UzOVF4dnBIZGFveWhhWkJBS3hLZkx1MVlINHNjTXY4Q1BXVVBGVXViLTNZNmlHaThxNTJIRUp4OXJnSjA2eGJ0elBhdVo3S0xKZ3huRkhJY1dGSVZwS1M1U3dYeTBMa1FwekF0dkdXd0dPYS11QUd1V0NtdWlHdE9xZ3p3a2RhYjRoNVVR0gG3AUFVX3lxTE16UHlIUHNIS0VjLUV0Vl9xeERndWRXM3o2OUxscEhXUURFZGQtb0VDSTZKaWxNdUh1SWtfemN2Qnc5Zm9qMUdOZzJNU1hkaUpfdlRJRHR3a1h5bkloUzJqd01GUlhiUWNpV1JsQ2ZSLU9GSTFsSTl6bWNxREtMakNac3MzbDdicXVlTHVFejlCenFFd2tYOXZjVnpULTFPZDFEVG1tRE5pV2Y0XzdKaFgyTXlMZXBPMA?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "esg-dive-ai-adoption-correlates-with-cyber-incide-2026-06-16",
@@ -3292,6 +3267,30 @@
       "region": "world"
     },
     {
+      "id": "google-india-the-brics-climate-stress-test-india-s-op-2026-05-02",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture - The Diplomat – Asia-Pacific",
+      "excerpt": "All Sections Search Read The Diplomat , Know The Asia-Pacific Diplomat Brief Weekly Newsletter The Diplomat Home Page About Us Contact Us Write for Us Advertise Syndicate Privacy Newsletter Subscriptions Flashpoints The BRICS Climate Stress Test: India’s Opportunity to Reshape Global Climate Finance Architecture Recent Features Politics On the Bangladesh-India Border, BJP Victories Spike Anxieties Diplomacy China Is Indispensable, But Not Dominant Photo Essays Survivors of Myanmar’s Landmine Blasts Struggle With Severed Limbs and Shattered Lives Economy…",
+      "url": "https://thediplomat.com/2026/05/the-brics-climate-stress-test-indias-opportunity-to-reshape-global-climate-finance-architecture/",
+      "publishedAt": "2026-05-02T07:00:00.000Z",
+      "image": "https://thediplomat.com/wp-content/uploads/2025/10/sizes/td-story-s-2/thediplomat_2025-10-08-173414.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGtXNFB0OXhYNnkwQVZPX2xTNnNDbEdfUUhfTEVYTTk0OWF2cFVWSWNNN3hrR1NQRG1ScjR4WkMtYl8wWXRWck9ZMDlWdDc3YlZmdnRPbnFaNzdDN0pmYUx6bmZVaGdqS3RWTGRraXMtUWd3MGFkTTJ5bmVPT0haRnVTZ0ptUy1ETDNiOUNGZkdCVVRsU2pCb2FsRmRvTWpGa3RUZXJZY1N0dDk2ckp1RTYtV3JOWWU0VUhYdmpjcWNhbl80TXBr?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "verra-vcs-6019",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3860,6 +3859,29 @@
       "region": "india"
     },
     {
+      "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "The Evolving Spectrum of Energy Sources - PIB",
+      "excerpt": "The Evolving Spectrum of Energy Sources PIB",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
+      "publishedAt": "2026-02-28T08:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -3882,6 +3904,30 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Issues First CORSIA Label for 4.7 Million Carbon Credits - ClearBlue Markets",
+      "excerpt": "Verra, one of the world's leading developers of carbon standards, has reached a significant milestone by applying the International Civil Aviation Organization’s (ICAO) Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) label to millions of voluntary carbon credits for the first time, with the majority of these credits from projects in Africa. CORSIA's implementation continues to make it one of the most relevant climate compliance mechanisms globally, as it mitigates emissions from one of the highest-emitting and hardest-to-abate…",
+      "url": "https://www.clearbluemarkets.com/knowledge-base/verra-issues-first-corsia-label-for-4.7-million-carbon-credits",
+      "publishedAt": "2026-02-03T08:00:00.000Z",
+      "image": "https://www.clearbluemarkets.com/hubfs/Blog%20images%20(62).png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkEySVpteS1aZ3lfNnhCMk44TThDcEVoX1NGRkFWcGRfMUFJdDBwVEstUW5kMTlDUDVmdFFjaFVoZFZjUDJfbGJQVjNkdHlDY2RVOEhDeTFvV2FzU2RKV2F5MGQ1VkhBc0FrX3QzZWE5clhqa1ZXNFFmZjlabWdYQ2MzWU5QSXNOMExDWWUyS1FrWnZQTW1FeUxFRTZYb1owTnRlNGxQV0RHYkN3b1Mw0gG_AUFVX3lxTE8wT1pMd0QwUF9oOUhEdkl1U3UzRDE3VTJIVkN3YTloaU1KQ0p5c0NuZlZNYmJSQXljdXRsZ1U1eHFCbHRkLTJrSVBKS3ItYkdzLVdYVU1lcU1rM3d2V0s2dDdSMjdPUC1Fa192eTcxdGFGczl1Tk5xcnBCZVk1ZVJ5c0RQRlRVdkFHVWxCRUhobGhsTXJHbGFCOUxPclcyVjYwbmR0SHIzVkRkOW91X2M4ZkEtanlKVUlBY09MTXhV?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-carbon-credit-demand-plateaued-in-2025-a-2026-02-03",
@@ -4073,30 +4119,6 @@
       "region": "india"
     },
     {
-      "id": "google-carbon-verra-and-gold-standard-release-insuranc-2025-07-22",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra and Gold Standard Release Insurance Framework for CORSIA-Eligible Credits - ClearBlue Markets",
-      "excerpt": "On July 16 and 17, 2025, Verra and Gold Standard each announced new insurance frameworks and eligibility criteria aimed at supporting the integrity of CORSIA-eligible carbon credits. These insurance mechanisms are designed to address political risks associated with the potential double counting of emission reductions. As CORSIA enters a new phase of implementation, these developments represent a critical advancement in strengthening the credibility of the program, directly addressing one of its most prominent criticisms. The Carbon Offsetting and…",
-      "url": "https://www.clearbluemarkets.com/knowledge-base/verra-and-gold-standard-release-insurance-framework-for-corsia-eligible-credits",
-      "publishedAt": "2025-07-22T07:00:00.000Z",
-      "image": "https://www.clearbluemarkets.com/hubfs/Blog%20images%20(62).png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0tGTnd1eDdJYWdKeXp3MkFRT2hDWkxqMzF4R1JZWmRQakNnY0s0NUZQcFF3ZzcxWEdRVkE1WWRIaG1fcmNmclZrTXBZT0cwdDFsSjZrMU1nN3VXRk9kYU9ZWEpocWh3cW9DVW41c3ZwWXF3eHNES0dWb2tiSW1yUXJldUNvclZRZTZqTi1NclpGZzlaWmZrN2g4cFpaWHgwZHpUbXR0Q2Z6TksxbERrVWNmZDBwU01nazdSMUJiZm4wSzM1YmfSAdYBQVVfeXFMTklTZ2poX3lBMXNBekhlR1dRV1dVck1xWHJtSUlUVkRObTBIb1gzekJIcHVXWFhYOEdsR3VhZmNVSmRQR1d3RGJ4RU5qUzR0cElxVjI2MVBDX0FycjQ1T2dXdlBLLUdwYjZmV0R5d2pLSUVGRWFnR1duSE5WN2RlQ0lqaHRvQ212b1c4Y0JPNzhrX2dDNG9jY3pjWmJiYWZYX2FsNW5JWjNXTXF1NXJ2QVBvY201RTdxXzI3SEFTY042dUJvZ05uNlZxeHd1eG9ndzI0SnhZZw?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-h2-green-hydrogen-fuel-in-india-types-benef-2025-07-21",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -4116,30 +4138,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pMThoZm5Ya29ZX2R3RWk4NjVPeUcwbkNBR3R4QzJGYUxHNXVUekdqMlVvS0t5Q09sTDd0aTFITXo2aUdwd21FcDNEUTBOTlMtMGVET214R3JZWGxB?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Hydrogen Horizons: Unlocking the Power of the Universe for Clean Mobility - TheCSRUniverse",
-      "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The global transition to clean energy has positioned hydrogen as a frontrunner in the race to decarbonize transportation. As…",
-      "url": "https://thecsruniverse.com/articles/hydrogen-horizons-unlocking-the-power-of-the-universe-for-clean-mobility",
-      "publishedAt": "2025-05-07T07:00:00.000Z",
-      "image": "https://thecsruniverse.com/adminxsafe/uploads/20260516055652",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWYweWJqMjBTSzcwc0kzSUlnVTJfQ1RDaHRLalB4dFlKb1VpVUZaa2NBM1pOYk1XRnFISUkwWF9jWHBfQ0pJUy00aVdmYmYtUFZXTkF3bWh0U3BuaXVzNFMzXzllcll5cDdCQUxNVmMxWDlkLVh4b3JnWVh2Qy01YmNZVkQwWGxQVXg3NkVtZk0xUWNqdEhSNmV3MFk0THh2ZDFDNEpBaEFhTGZV?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
