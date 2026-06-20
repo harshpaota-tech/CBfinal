@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-19T20:25:29.029Z",
+  "fetchedAt": "2026-06-20T05:07:52.706Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,8 +45,8 @@
   ],
   "stats": {
     "total": 87,
-    "india": 25,
-    "world": 62,
+    "india": 24,
+    "world": 63,
     "withImages": 55,
     "avgExcerptLength": 424,
     "verra": 10,
@@ -494,8 +494,8 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB India",
-        "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB India",
+        "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
+        "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
         "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377",
         "publishedAt": "2026-03-21T07:00:00.000Z",
         "image": null,
@@ -507,29 +507,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16WjdjbDM1eTE0djR0ZFlBSUsyN3FaRDRRT1JWY0IwU3JBWWNlTVA0ZmNuV0h1aDZDaGhydklmUlpjR3RXdjZFc015cUNuaDdHNjNOVkMzbXN2VFMwbnFoX2NNTHBteFBR?oc=5"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "The Evolving Spectrum of Energy Sources - PIB India",
-        "excerpt": "The Evolving Spectrum of Energy Sources PIB India",
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
-        "publishedAt": "2026-02-28T08:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
         },
         "region": "india"
       },
@@ -1975,6 +1952,29 @@
           "creditingPeriodStart": "2025-01-01",
           "creditingPeriodEnd": "2034-12-31",
           "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "The Evolving Spectrum of Energy Sources - PIB",
+        "excerpt": "The Evolving Spectrum of Energy Sources PIB",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
+        "publishedAt": "2026-02-28T08:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
         },
         "region": "world"
       },
@@ -3862,8 +3862,8 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB India",
-      "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB India",
+      "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
+      "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377",
       "publishedAt": "2026-03-21T07:00:00.000Z",
       "image": null,
@@ -3883,14 +3883,14 @@
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
       "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "The Evolving Spectrum of Energy Sources - PIB India",
-      "excerpt": "The Evolving Spectrum of Energy Sources PIB India",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "The Evolving Spectrum of Energy Sources - PIB",
+      "excerpt": "The Evolving Spectrum of Energy Sources PIB",
       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
       "publishedAt": "2026-02-28T08:00:00.000Z",
       "image": null,
-      "country": "India",
+      "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
@@ -3899,7 +3899,7 @@
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
       },
-      "region": "india"
+      "region": "world"
     },
     {
       "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
