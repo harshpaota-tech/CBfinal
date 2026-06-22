@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-22T12:53:32.336Z",
+  "fetchedAt": "2026-06-22T17:29:28.321Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 87,
-    "india": 24,
-    "world": 63,
-    "withImages": 56,
-    "avgExcerptLength": 430,
+    "india": 22,
+    "world": 65,
+    "withImages": 51,
+    "avgExcerptLength": 413,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -56,46 +56,26 @@
   "sections": {
     "india": [
       {
-        "id": "esg-today-100-100-launches-100-million-fund-to-bui-2026-06-18",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
+        "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-06-15",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
         "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "100 100 Launches $100 Million Fund to Build 50 New Climate Tech Companies",
-        "excerpt": "Singapore-based climate company builder and fund management platform 100 100 announced the launch of its second fund, “Fund II,” aimed at creating and scaling 50 new climate tech startups across South Asia and India. The firm said that it is seeking to raise $100 million for the new fund, compared with its predecessor, Fund I, which hit its hard cap at US$60 million in 2023. Founded in 2025 out of venture capital investor Wavemaker Partners, 100 100 develops and co-founds climate technology companies focused on solutions to address the largest emissions…",
-        "url": "https://www.esgtoday.com/100x100-launches-100-million-fund-to-build-climate-tech-companies-in-southeast-asia-india/?utm_source=rss utm_medium=rss utm_campaign=100x100-launches-100-million-fund-to-build-climate-tech-companies-in-southeast-asia-india",
-        "publishedAt": "2026-06-18T13:12:56.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/100x100.jpg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
+        "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+        "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
+        "publishedAt": "2026-06-15T16:26:30.000Z",
+        "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
-          "category": "Private Equity & Venture Capital",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "india"
-      },
-      {
-        "id": "carbon-brief-analysis-energy-efficient-air-conditioni-2026-06-16",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Analysis: Energy-efficient air conditioning could save Indian homes 69bn rupees a year",
-        "excerpt": "More energy-efficient air-conditioning units could, together, save Indian households ₹ 69bn ($724m) a year, according to new analysis by Carbon Brief. Climate change-induced extreme heat is driving up the use of air conditioning across the country, as people try to cope with record-breaking temperatures . This demand, however, is straining the country’s power grid and raising emissions. On 21 May 2026, India’s power demand reached a record 270 gigawatts (GW), fuelled by a heatwave sweeping across the country and a surge in air-conditioning demand.…",
-        "url": "https://www.carbonbrief.org/analysis-energy-efficient-air-conditioning-could-save-indian-homes-69bn-rupees-a-year/",
-        "publishedAt": "2026-06-16T11:09:23.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Screenshot-2026-06-16-at-10.40.53-1024x529.png",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "International policy",
-          "feed": "https://www.carbonbrief.org/feed/"
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -109,7 +89,7 @@
         "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD News",
         "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week DD News",
         "url": "https://ddnews.gov.in/en/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
-        "publishedAt": "2026-06-05T16:34:43.000Z",
+        "publishedAt": "2026-06-05T07:00:00.000Z",
         "image": null,
         "country": "India",
         "methodology": null,
@@ -168,6 +148,29 @@
           "creditingPeriodStart": "2025-06-06",
           "creditingPeriodEnd": "2032-06-05",
           "program": "Verified Carbon Standard"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
+        "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
+        "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
+        "publishedAt": "2026-05-25T07:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
         },
         "region": "india"
       },
@@ -295,6 +298,29 @@
         "region": "india"
       },
       {
+        "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
+        "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
+        "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
+        "publishedAt": "2026-04-14T07:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
+        },
+        "region": "india"
+      },
+      {
         "id": "verra-vcs-5986",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -345,6 +371,30 @@
         "region": "india"
       },
       {
+        "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
+        "excerpt": "Insights Latest AI insights: GenAI, agentic AI and AI trends People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time…",
+        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
+        "publishedAt": "2026-04-03T07:24:04.000Z",
+        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-carbon-global-blue-carbon-market-to-reach-usd-1-2026-03-25",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -376,10 +426,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market - carboncopy.info",
-        "excerpt": "If a carbon market is a financial system for emissions, then data is its collateral. Credible data is the bedrock on which market legitimacy rests. India is laying the foundation stones of a national compliance carbon market. The market design features and regulatory systems are progressively under development, and industries are starting to prepare for the market. Much of the conversation so far has focused on targets, sectors, and trading rules. These are of course important — but the strongest foundation of an effective carbon market is something far…",
+        "excerpt": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market carboncopy.info",
         "url": "https://carboncopy.info/data-is-the-new-collateral-building-a-high-fidelity-indian-carbon-market",
         "publishedAt": "2026-03-24T07:00:00.000Z",
-        "image": "https://cms.carboncopy.info/assets/780300ce-9cf3-4ddb-9e33-d8fc1dccee06",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -387,8 +437,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5"
         },
         "region": "india"
       },
@@ -412,30 +461,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-carbon-credits-climate-policy-and-the-fu-2026-03-10",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Carbon Credits, Climate Policy and the Future of Textile Manufacturing with SED’s MVR Based LTE® Technology - The Textile Magazine",
-        "excerpt": "The textile industry is entering a decisive decade where competitiveness will be defined not by scale or cost alone, but by carbon intensity. This transition is structural, not ideological. At successive climate summits under the United Nations Framework Convention on Climate Change (UNFCCC), particularly COP28, governments reinforced commitments to accelerated decarbonization. Simultaneously, mechanisms like the European Union’s Carbon Border Adjustment Mechanism (CBAM) make carbon intensity a determinant of market access. For export-driven textile…",
-        "url": "https://www.indiantextilemagazine.in/carbon-credits-climate-policy-and-the-future-of-textile-manufacturing-with-seds-mvr-based-lte-technology/",
-        "publishedAt": "2026-03-10T08:55:12.000Z",
-        "image": "https://www.indiantextilemagazine.in/wp-content/uploads/2026/03/LTE-Product.jpg.jpeg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS284NGtBNXZ5bGZEeTBoVlRmUWVDZFNrS1BTV0xsWEdlWnd4QjY4S3FCWkl5VFdPVjUtYnRPZzJ1VEZhM3U5bk1idE16ZTBmMnFUNFdKWlYzYW5uTkQxY0cteUJsZ1A1UUtDN3BmemNGVzdGbnhYbVhfd1Mtd2ZhNVRlN3BaT2gxRVZwQ1lpWk5iQ3dfbl9JdkxDTHNSUEhLVVR4RUdURWNPdFlTTjVNQWlRbVVoZ2h3VUIyRW1pR2JlZWZ1WmNodUlrYkRNbWl4VXBSWlJhN2wxdw?oc=5",
-          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -464,30 +489,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-refocuses-climate-policy-around-de-2026-02-02",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India Refocuses Climate Policy Around Development, Resilience and Energy Security - ESG News",
-        "excerpt": "Share on Twitter Share on LinkedIn India’s Economic Survey 2025–26 reframes climate action as a development-first strategy, placing adaptation, resilience, and human welfare at the centre of policy design. Domestic adaptation and resilience spending rose from 3.7 percent of GDP in FY16 to 5.6 percent in FY22, underscoring India’s reliance on internal capital rather than external climate finance. Non-fossil fuel sources now account for 51.93 percent of installed power capacity, while critical minerals, nuclear reform, and carbon markets reshape India’s…",
-        "url": "https://esgnews.com/india-refocuses-climate-policy-around-development-resilience-and-energy-security/",
-        "publishedAt": "2026-02-02T08:00:00.000Z",
-        "image": "https://esgnews.com/wp-content/uploads/2026/02/India-Refocuses-Climate-Policy-Around-Development-Resilience-and-Energy-Security-scaled.jpeg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSHRfX1RXVWFPbUpaMDcxWmhGVW8xQ0VkOW9Eazg5enRJcjJoaUpSSGIyRzIxcHo5b19RMHFqWGZMMVdvX2szdUxBZDZfd09qbkNCWGloOWJzVXRFb3NTcWxnNUN2ZlpzRmR0Y2RoTGNrcWh4N2NvZ3B0TDljRkc2dDJCLWNDaHR2M3FMem5WbjQ1UThFbEhmZmw4ckx2dFkwX0Fn?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -507,54 +508,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-how-ccts-is-accelerating-india-inc-s-rac-2026-01-08",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "How CCTS is accelerating India Inc.’s race to decarbonize - EY",
-        "excerpt": "Insights Latest AI insights: GenAI, agentic AI and AI trends People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time…",
-        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize",
-        "publishedAt": "2026-01-08T08:00:00.000Z",
-        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-ccts-banner.png",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFpleHAtN1I5eHA0T1R1czlGa0NDVVIxSlNqbWpCUTFGd25MTEtmdGhqT0FBa2Q2X2tRZGFzNUdsSDBRMzdwSGFmNl9TSFd3dWI0ZHJENVRielZkYU4zaUVtSGpxWkZCZzQ3MDFwT2Y0TWhxNDNqSVgxOEE5VnBhcmhyV3h6cWRXTTJNMTJheFNjUkZWOWNkWDE4azdyZEhwTnliandnN3F4ZzAtQVU5TmpNYTM2T1VyeXNJM1ZEUzdnSTNjbFNScg?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-strengthening-india-s-carbon-market-the--2025-10-30",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS - Institute for Energy Economics and Financial Analysis (IEEFA)",
-        "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report Energy…",
-        "url": "https://ieefa.org/resources/strengthening-indias-carbon-market-case-stability-mechanism-indias-ccts",
-        "publishedAt": "2025-10-30T07:00:00.000Z",
-        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2025-11/hero%20graphic%20%2839%29.jpg?itok=ZgLBZf46",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1ltNkRHcU9aT3N6YUJkSkRWOEFWQkpyMHBhOFlhWUk0OXZoclp2eDgwaUlFNDBwTWI2anh1eF9kaU1mWUcwSkVhX0hDUUFGbGhCQ1pUSFZWamlCQi0yZDljejM0MmE1dmRmNjB4ajVDNWpKZlVIS1g3Y2ZzaDJreHFQWmJGQXFMWlJ6LWgzVjdXNE4zWkpNTkQzSXJDclhw?oc=5",
-          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -633,6 +586,254 @@
     ],
     "world": [
       {
+        "id": "esg-dive-frontier-climate-adds-anthropic-to-buyer-2026-06-22",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Frontier Climate adds Anthropic to buyers group, makes new financing pledge",
+        "excerpt": "The company behind AI tool Claude joins the carbon removal purchasing group, which also announced $915 million in new financing commitments.",
+        "url": "https://www.esgdive.com/news/frontier-climate-adds-anthropic-to-CDR-buyers-group-makes-new-financing-pledge/823407/",
+        "publishedAt": "2026-06-22T16:34:00.000Z",
+        "image": "https://imgproxy.divecdn.com/s1awHO0Kf_AkBKgbjVpsJ5g-dPXwIds96Y3fKnFsxok/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTc0MDAyLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-cisco-appoints-colin-seward-as-new-chief-2026-06-22",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Cisco Appoints Colin Seward as New Chief Sustainability Officer",
+        "excerpt": "Communications and networking technology giant Cisco has appointed Colin Seward as its new Chief Sustainability Officer. Seward has been at Cisco for more than 25 years, joining the company in 2000, and has served as a variety of senior roles, including as CIO for EMEA, and as Global Lead for Cisco on Cisco, the company’s internal program in which it uses its own products to run, test, and manage its global IT infrastructure and shares learnings with customers, as well as IT Transformation Lead, where he developed the IT Sustainability Framework to…",
+        "url": "https://www.esgtoday.com/cisco-appoints-colin-seward-as-new-chief-sustainability-officer/?utm_source=rss utm_medium=rss utm_campaign=cisco-appoints-colin-seward-as-new-chief-sustainability-officer",
+        "publishedAt": "2026-06-22T15:27:42.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Cisco-Seward.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-doj-intervenes-on-behalf-of-xai-in-data--2026-06-22",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "DOJ intervenes on behalf of xAI in data center gas turbine lawsuit",
+        "excerpt": "The Department of Defense said the xAI data center powered by the gas plant is critical to national security, revealing Grok was used to fire thousands of missiles in the Iran war.",
+        "url": "https://www.esgdive.com/news/doj-intervenes-xai-data-center-gas-turbine-lawsuit/823389/",
+        "publishedAt": "2026-06-22T15:25:00.000Z",
+        "image": "https://imgproxy.divecdn.com/HW3x5SEiFrElThd2q6labrXGPN8RI8_C4uc35UCuYtg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3ODUyNTI4LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-dp-world-launches-new-suite-of-supply-ch-2026-06-22",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "DP World Launches New Suite of Supply Chain Sustainability Solutions",
+        "excerpt": "Dubai-based multinational logistics firm DP World announced today the launch of EcoRoute, a new suite of solutions aimed at helping businesses to build more efficient and lower-emissions supply chains. Key focus areas of the new solutions suite include network design, lower-carbon logistics solutions, emissions measurement and strategic partnerships. Ayla Bajwa, DP World Group Senior Vice President – Sustainability, said: “EcoRoute is about turning ambition into action. It gives our customers the tools, insights and partnerships needed to reduce…",
+        "url": "https://www.esgtoday.com/dp-world-launches-new-suite-of-supply-chain-sustainability-solutions/?utm_source=rss utm_medium=rss utm_campaign=dp-world-launches-new-suite-of-supply-chain-sustainability-solutions",
+        "publishedAt": "2026-06-22T14:33:35.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/DP-World2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-michael-bloomberg-pledges-285-million-to-2026-06-22",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Michael Bloomberg Pledges $285 Million to Help Clean Energy Industries Take on Fossil Fuel Influence",
+        "excerpt": "Billionaire Michael Bloomberg announced a new $285 million commitment to help clean energy industries scale up to meet rapidly growing power demand, with a focus on helping renewable energy players to mature rapidly to compete with the political influence and financing and institutional capabilities of their fossil fuel counterparts. The new commitment will focus on assisting national clean energy industries across emerging and developing economies “to play a more influential role in the energy planning, financing, and market decisions that have…",
+        "url": "https://www.esgtoday.com/bloomberg-pledges-285-million-to-help-clean-energy-industries-take-on-fossil-fuel-influence/?utm_source=rss utm_medium=rss utm_campaign=bloomberg-pledges-285-million-to-help-clean-energy-industries-take-on-fossil-fuel-influence",
+        "publishedAt": "2026-06-22T13:40:24.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Michael-Bloomberg.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-project-cosmos-2026-06-22",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Project Cosmos",
+        "excerpt": "Welcome to the Project Cosmos homepage. The project was launched by Carbon Brief in June 2026 following an 18-month research and development effort. The aim: to build the world’s largest database of climate change research. Containing more than 1.8 million unique publications linked by 40 million citation relationships, the Cosmos database represents the most complete and expansive mapping of human knowledge on climate change ever assembled. The articles and visuals below will guide you through how the Cosmos database was built, as well as all the…",
+        "url": "https://www.carbonbrief.org/project-cosmos/",
+        "publishedAt": "2026-06-22T13:00:00.000Z",
+        "image": "https://interactive.carbonbrief.org/cosmos/images/cosmos-preview.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Science",
+          "feed": "https://www.carbonbrief.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-mapped-inside-carbon-brief-s-cosmos-data-2026-06-22",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Mapped: Inside Carbon Brief s Cosmos database of 1.8 million climate studies",
+        "excerpt": "This is the vast “cosmos” of academic literature and evidence that underpins humanity’s knowledge of climate change. Every “star” – all 1.8m of them – represents one of the studies inside Carbon Brief’s Cosmos database . The coloured “nebulae” and “galaxies” within this cosmos illustrate where clusters of studies share similar citations and, hence, areas of common academic focus. For example, these two large circled areas resembling “nebulae” represent, at the broadest level, studies centred around the “physical sciences” (blue) and “social sciences”…",
+        "url": "https://www.carbonbrief.org/mapped-inside-carbon-briefs-cosmos-database-of-1-8-million-climate-studies/",
+        "publishedAt": "2026-06-22T13:00:00.000Z",
+        "image": "https://interactive.carbonbrief.org/cosmos/images/cosmos-preview.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Science",
+          "feed": "https://www.carbonbrief.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-carbon-brief-s-ranking-of-the-most-highl-2026-06-22",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Carbon Brief’s ranking of the most highly cited climate publications",
+        "excerpt": "The most highly cited publications in Carbon Brief’s Cosmos database reveal the building blocks supporting so many elements of climate science. Every year, thousands of new scientific documents are published, from studies and reports to books and assessments. Carbon Brief’s Project Cosmos pulls together the “universe” of climate research, spanning 1.8m publications from almost a century of scientific endeavor. Research publications are linked through citations – where one study references others, perhaps using their methods, confirming their results or…",
+        "url": "https://www.carbonbrief.org/carbon-briefs-ranking-of-the-most-highly-cited-climate-publications/",
+        "publishedAt": "2026-06-22T13:00:00.000Z",
+        "image": "https://interactive.carbonbrief.org/cosmos/images/publications-preview.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Science",
+          "feed": "https://www.carbonbrief.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-carbon-brief-s-ranking-of-the-most-highl-2026-06-22",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Carbon Brief’s ranking of the most highly cited climate scientists",
+        "excerpt": "Carbon Brief’s Project Cosmos is the largest known database of climate change research, featuring more than 1.8m individual publications. Every publication has a list of authors – the experts who carried out fieldwork, analysed data and drafted the document itself. Hundreds of thousands of experts are listed as authors in these studies, books and reports. Each publication also has a list of references – the other academic works on which the authors drew to develop their research. Carbon Brief has calculated a citation score for each expert, by counting…",
+        "url": "https://www.carbonbrief.org/carbon-briefs-ranking-of-the-most-highly-cited-climate-scientists-2/",
+        "publishedAt": "2026-06-22T13:00:00.000Z",
+        "image": "https://interactive.carbonbrief.org/cosmos/images/authors-preview.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Science",
+          "feed": "https://www.carbonbrief.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-introducing-project-cosmos-carbon-brief--2026-06-22",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Introducing Project Cosmos: Carbon Brief’s ‘universe’ of climate science",
+        "excerpt": "Carbon Brief’s Project Cosmos is a major collaborative effort to build the world’s largest and most complete database of climate change research. The Cosmos database – which features more than 1.8m individual publications linked by 40m citation relationships – captures the vast body of human knowledge about climate change that has accumulated over more than a century of academic study. Cosmos is a major new resource, which has taken more than 18 months to research and build, with help and guidance from a specialist team of academics. Carbon Brief…",
+        "url": "https://www.carbonbrief.org/introducing-project-cosmos-carbon-briefs-universe-of-climate-science/",
+        "publishedAt": "2026-06-22T13:00:00.000Z",
+        "image": "https://interactive.carbonbrief.org/cosmos/images/cosmos-preview.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Science",
+          "feed": "https://www.carbonbrief.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-carbon-brief-s-ranking-of-the-most-highl-2026-06-22",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Carbon Brief’s ranking of the most highly cited institutions",
+        "excerpt": "Analysis of Carbon Brief’s Cosmos database reveals the world’s leading “institutions” for climate research. There are more than 40,000 institutions in the Cosmos database, ranging from universities and research laboratories, through to policy institutes and governmental bodies. Carbon Brief has given each institution a “publication count”, by adding up the number of times that its experts appear in the author list of studies in the Cosmos database. This analysis has allowed Carbon Brief to identify the 500 institutions with the highest publication count…",
+        "url": "https://www.carbonbrief.org/carbon-briefs-ranking-of-the-most-highly-cited-institutions/",
+        "publishedAt": "2026-06-22T13:00:00.000Z",
+        "image": "https://interactive.carbonbrief.org/cosmos/images/institutions-preview.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Science",
+          "feed": "https://www.carbonbrief.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "verra-projects-open-for-public-comment-june-22-2026-06-22",
         "source": "verra",
         "sourceName": "Verra",
@@ -685,7 +886,7 @@
         "tag": "ESG",
         "accent": "#60a5fa",
         "title": "Nestlé Promotes Antonia Wanner to Chief Communications and Sustainability Officer",
-        "excerpt": "Global food and beverage company Nestlé announced that it has expanded the role of Chief Sustainability Officer Antonia Wanner to the new role of Chief Communications and Sustainability Officer, and added her as a member of the company’s Group Executive Board. Wanner has been with Nestlé since joining the company as an in-house lawyer in 2026, and was appointed as the company’s first Chief Sustainability Officer last year, reporting directly to the CEO, but without holding a position on the Executive Board. Prior to her appointment as CSO, she served as…",
+        "excerpt": "Global food and beverage company Nestlé announced that it has expanded the role of Chief Sustainability Officer Antonia Wanner to the new role of Chief Communications and Sustainability Officer, and added her as a member of the company’s Group Executive Board. Wanner has been with Nestlé since joining the company as an in-house lawyer in 1996, and was appointed as the company’s first Chief Sustainability Officer last year, reporting directly to the CEO, but without holding a position on the Executive Board. Prior to her appointment as CSO, she served as…",
         "url": "https://www.esgtoday.com/nestle-promotes-antonia-wanner-to-chief-communications-and-sustainability-officer/?utm_source=rss utm_medium=rss utm_campaign=nestle-promotes-antonia-wanner-to-chief-communications-and-sustainability-officer",
         "publishedAt": "2026-06-22T08:57:42.000Z",
         "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Nestle-Wanner.jpg",
@@ -832,28 +1033,6 @@
         "region": "world"
       },
       {
-        "id": "carbon-brief-experts-why-carbon-removal-needs-a-major-2026-06-19",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Experts: Why carbon removal needs a ‘major scale up’ to return warming to 1.5C",
-        "excerpt": "Last week, more than 260 researchers convened in Milan to discuss the opportunities, challenges and risks involved in scaling “carbon dioxide removal” (CDR) to help curb climate change. The conference – held on the campus of the Politecnico di Milano – is the fourth in a series, with previous editions held in Oxford, UK in 2024 , and Gothenburg, Sweden in 2018 and 2022. A broad range of academics – from forests, oceans and soils experts through to social and political scientists – discussed the co-benefits and trade-offs involved in drawing down CO2…",
-        "url": "https://www.carbonbrief.org/experts-why-carbon-removal-needs-a-major-scale-up-to-return-warming-to-1-5c/",
-        "publishedAt": "2026-06-19T10:02:15.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/gmd-19-2627-2026-f01-web.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Negative emissions",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-today-nestl-to-produce-1-5-billion-kitkat-bars-2026-06-19",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -965,28 +1144,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-trump-administration-signs-765-million-d-2026-06-18",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Trump Administration Signs $765 Million Deal with Invenergy to Swap Offshore Wind Projects for Natural Gas, Geothermal",
-        "excerpt": "The U.S. Department of the Interior announced that it has signed a new agreement with energy developer Invenergy to terminate four offshore wind leases totaling $765 million, with the funds to be redirected into the development of natural gas and geothermal projects in the U.S. The announcement forms part of a new tactic employed by the Trump administration to stop the development of offshore wind projects, following an initial $1 billion deal announced in March with TotalEnergies to stop its work on U.S. offshore wind projects, and to invest in gas and…",
-        "url": "https://www.esgtoday.com/trump-administration-signs-765-million-deal-with-invenergy-to-swap-offshore-wind-projects-for-natural-gas-geothermal/?utm_source=rss utm_medium=rss utm_campaign=trump-administration-signs-765-million-deal-with-invenergy-to-swap-offshore-wind-projects-for-natural-gas-geothermal",
-        "publishedAt": "2026-06-18T15:35:44.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Wind-offshore-EU1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-nextera-to-pay-150m-to-settle-charges-re-2026-06-18",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -1005,50 +1162,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-boe-integrates-net-zero-transition-risk--2026-06-18",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "BoE Integrates Net Zero Transition Risk into Collateral Framework",
-        "excerpt": "The Bank of England (BoE) issued a new Market Notice outlining changes to its collateral eligibility framework, including, for the first time, the integration of climate transition-related risk factors into its methodology for valuing corporate bonds pledged by banks as collateral. The BoE’s collateral eligibility framework sets out the assets that banks can use as collateral when borrowing from the central bank through its lending facilities. As a risk protection measure, the central bank applies discounts, or “haircuts” to the value of the assets…",
-        "url": "https://www.esgtoday.com/boe-integrates-net-zero-transition-risk-into-collateral-framework/?utm_source=rss utm_medium=rss utm_campaign=boe-integrates-net-zero-transition-risk-into-collateral-framework",
-        "publishedAt": "2026-06-18T14:00:04.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Bank-of-England.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Regulators",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-q-a-what-do-china-s-provincial-five-year-2026-06-18",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Q A: What do China’s provincial five-year plans say about climate and energy?",
-        "excerpt": "China’s provincial-level governments have now all published their 15th five-year plans – economic and social development blueprints for 2026-2030. These provincial plans reaffirm the overall trajectory of China’s energy transition, but reveal regional differences, based on economic and geographic considerations. Provincial plans are a critical mechanism for showing how high-level targets from the central government will be translated into action. For example, binding indicators set at national level include reductions in carbon intensity – carbon…",
-        "url": "https://www.carbonbrief.org/qa-what-do-chinas-provincial-five-year-plans-say-about-climate-and-energy/",
-        "publishedAt": "2026-06-18T10:00:27.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/chinas-provinces-focus-clean-energy-carbon-peaking-deadline-approaches_1.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "China Policy",
-          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -1094,28 +1207,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-cropped-17-june-2026-coral-reef-hope-oce-2026-06-17",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Cropped 17 June 2026: Coral reef ‘hope’ Ocean talks Plant flowering times ‘shift’",
-        "excerpt": "We handpick and explain the most important stories at the intersection of climate, land, food and nature over the past fortnight. This is an online version of Carbon Brief’s fortnightly Cropped email newsletter. Subscribe for free here. MAKING WAVES: African and Commonwealth countries issued a “call to action” to implement the High Seas Treaty at the Our Ocean Conference in Kenya this week, reported the Associated Press . The summit, which ends on 18 June, is focused on ocean issues including “climate change, biodiversity and pollution”, said the…",
-        "url": "https://www.carbonbrief.org/cropped-17-june-2026-coral-reef-hope-ocean-talks-plant-flowering-times-shift/",
-        "publishedAt": "2026-06-17T14:26:39.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Screenshot_2026-06-16_at_13.05.09-1024x568.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Cropped",
-          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -1231,72 +1322,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-nyc-comptroller-launches-search-for-new--2026-06-15",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "NYC comptroller launches search for new pension fund asset managers",
-        "excerpt": "The hunt for new public equity index services providers comes after the city s former comptroller recommended dropping BlackRock and Fidelity over their lack of climate policies.",
-        "url": "https://www.esgdive.com/news/nyc-comptroller-launches-search-for-new-pension-asset-managers/822924/",
-        "publishedAt": "2026-06-15T16:30:00.000Z",
-        "image": "https://imgproxy.divecdn.com/u5_8ixeuUBl-vbM-LKLqrHiLRWKj-_XPk-Pl-Q0rLbg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU3MTI1MjcyLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-jfk-airport-s-new-terminal-1-touts-esg-p-2026-06-15",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "JFK airport’s new Terminal 1 touts ESG performance",
-        "excerpt": "Reduced emissions in both construction and operations are key benefits, but the project had additional health, sustainability and diversity achievements, project participants say.",
-        "url": "https://www.esgdive.com/news/jfk-new-terminal-one-touts-esg-performance/822902/",
-        "publishedAt": "2026-06-15T15:33:24.000Z",
-        "image": "https://imgproxy.divecdn.com/hZA4vZP0q-jw58z5KW4V5cYESWXMKt0qAsfKcOucfck/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UTVJXLUdlbnNsZXItSkZLLUFlcmlhbC1Gcm9tLVNpZGUtQ29weXJpZ2h0LXRtcndzbS5qcGc=.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-analysis-uk-s-ev-drivers-are-now-saving--2026-06-15",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Analysis: UK’s EV drivers are now saving £1,100 each a year – and £3bn in total",
-        "excerpt": "Amid reports that the government could weaken the UK’s electric vehicle (EV) targets, Carbon Brief analysis reveals the nation’s EV drivers are saving more than £1,100 a year in fuel costs, compared with running a petrol car. Battery EVs (BEVs) are roughly four times more efficient than combustion-engine cars, making them far cheaper to run – particularly since the Iran crisis caused a spike in fossil-fuel prices . The savings from driving BEVs are also more than three times higher than for “plug-in” hybrids (PHEVs), which evidence shows are mostly…",
-        "url": "https://www.carbonbrief.org/analysis-uks-ev-drivers-are-now-saving-1100-each-a-year-and-3bn-in-total/",
-        "publishedAt": "2026-06-15T15:26:38.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/UKs-EV-drivers-are-now-saving-1100-a-year-–-and-3bn-in-total.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Renewables",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-projects-open-for-public-comment-june-15-2026-06-15",
         "source": "verra",
         "sourceName": "Verra",
@@ -1307,15 +1332,14 @@
         "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
         "url": "https://verra.org/projects-open-for-public-comment-june-15-2026/",
         "publishedAt": "2026-06-15T13:41:28.000Z",
-        "image": "https://verra.org/wp-content/uploads/2024/04/Agents-of-Change-Orchestrating-the-Recycling-Chain-4470-OMA-Ativos-Ambientais-S.A-Brazil-Plastic-waste-bales-1024x683.jpg",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
+          "feed": "https://verra.org/feed/"
         },
         "region": "world"
       },
@@ -1340,28 +1364,6 @@
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tRUdsSnFiUmRJNl9Nakt2MkVQVW9jNFRDNnBnd1I0dURvRFVQVmljN1c3aTJ2T0VhQjkzQjdUbVZrbXJkMWEzUzVTWUF5QU5IVXhHbll2Ny13LU43VzZTcEFYc20?oc=5",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-debriefed-12-june-2026-el-ni-o-begins-co-2026-06-12",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "DeBriefed 12 June 2026: El Niño begins COP31 hosts eye electrification Atlantic current monitoring at risk",
-        "excerpt": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week s key developments relating to climate change. ‘DOMINO WEATHER’: The natural weather phenomenon El Niño, which can raise global heat and “bring domino weather effects across the planet”, is now underway, the US National Oceanic and Atmospheric Administration (NOAA) declared on Thursday, reported the Washington Post . The Japanese Meteorological Administration also identified the start of El Niño on Wednesday, said Bloomberg . According to the Japanese weather agency, the event is…",
-        "url": "https://www.carbonbrief.org/debriefed-12-june-2026-el-nino-begins-cop31-hosts-eye-electrification-atlantic-current-monitoring-at-risk/",
-        "publishedAt": "2026-06-12T13:32:28.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/image-4.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "DeBriefed",
-          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -1422,15 +1424,14 @@
         "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
         "url": "https://verra.org/projects-open-for-public-comment-june-8-2026/",
         "publishedAt": "2026-06-08T12:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2023/12/shutterstock_2311969343-scaled.jpg",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
+          "feed": "https://verra.org/feed/"
         },
         "region": "world"
       },
@@ -2052,16 +2053,16 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
+        "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
-        "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
-        "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
-        "publishedAt": "2025-12-10T08:00:00.000Z",
+        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+        "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+        "publishedAt": "2025-11-12T08:00:00.000Z",
         "image": null,
         "country": null,
         "methodology": null,
@@ -2070,7 +2071,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
         },
         "region": "world"
       },
@@ -2100,6 +2101,254 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-frontier-climate-adds-anthropic-to-buyer-2026-06-22",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Frontier Climate adds Anthropic to buyers group, makes new financing pledge",
+      "excerpt": "The company behind AI tool Claude joins the carbon removal purchasing group, which also announced $915 million in new financing commitments.",
+      "url": "https://www.esgdive.com/news/frontier-climate-adds-anthropic-to-CDR-buyers-group-makes-new-financing-pledge/823407/",
+      "publishedAt": "2026-06-22T16:34:00.000Z",
+      "image": "https://imgproxy.divecdn.com/s1awHO0Kf_AkBKgbjVpsJ5g-dPXwIds96Y3fKnFsxok/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTc0MDAyLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-cisco-appoints-colin-seward-as-new-chief-2026-06-22",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Cisco Appoints Colin Seward as New Chief Sustainability Officer",
+      "excerpt": "Communications and networking technology giant Cisco has appointed Colin Seward as its new Chief Sustainability Officer. Seward has been at Cisco for more than 25 years, joining the company in 2000, and has served as a variety of senior roles, including as CIO for EMEA, and as Global Lead for Cisco on Cisco, the company’s internal program in which it uses its own products to run, test, and manage its global IT infrastructure and shares learnings with customers, as well as IT Transformation Lead, where he developed the IT Sustainability Framework to…",
+      "url": "https://www.esgtoday.com/cisco-appoints-colin-seward-as-new-chief-sustainability-officer/?utm_source=rss utm_medium=rss utm_campaign=cisco-appoints-colin-seward-as-new-chief-sustainability-officer",
+      "publishedAt": "2026-06-22T15:27:42.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Cisco-Seward.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-doj-intervenes-on-behalf-of-xai-in-data--2026-06-22",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "DOJ intervenes on behalf of xAI in data center gas turbine lawsuit",
+      "excerpt": "The Department of Defense said the xAI data center powered by the gas plant is critical to national security, revealing Grok was used to fire thousands of missiles in the Iran war.",
+      "url": "https://www.esgdive.com/news/doj-intervenes-xai-data-center-gas-turbine-lawsuit/823389/",
+      "publishedAt": "2026-06-22T15:25:00.000Z",
+      "image": "https://imgproxy.divecdn.com/HW3x5SEiFrElThd2q6labrXGPN8RI8_C4uc35UCuYtg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3ODUyNTI4LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-dp-world-launches-new-suite-of-supply-ch-2026-06-22",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "DP World Launches New Suite of Supply Chain Sustainability Solutions",
+      "excerpt": "Dubai-based multinational logistics firm DP World announced today the launch of EcoRoute, a new suite of solutions aimed at helping businesses to build more efficient and lower-emissions supply chains. Key focus areas of the new solutions suite include network design, lower-carbon logistics solutions, emissions measurement and strategic partnerships. Ayla Bajwa, DP World Group Senior Vice President – Sustainability, said: “EcoRoute is about turning ambition into action. It gives our customers the tools, insights and partnerships needed to reduce…",
+      "url": "https://www.esgtoday.com/dp-world-launches-new-suite-of-supply-chain-sustainability-solutions/?utm_source=rss utm_medium=rss utm_campaign=dp-world-launches-new-suite-of-supply-chain-sustainability-solutions",
+      "publishedAt": "2026-06-22T14:33:35.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/DP-World2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-michael-bloomberg-pledges-285-million-to-2026-06-22",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Michael Bloomberg Pledges $285 Million to Help Clean Energy Industries Take on Fossil Fuel Influence",
+      "excerpt": "Billionaire Michael Bloomberg announced a new $285 million commitment to help clean energy industries scale up to meet rapidly growing power demand, with a focus on helping renewable energy players to mature rapidly to compete with the political influence and financing and institutional capabilities of their fossil fuel counterparts. The new commitment will focus on assisting national clean energy industries across emerging and developing economies “to play a more influential role in the energy planning, financing, and market decisions that have…",
+      "url": "https://www.esgtoday.com/bloomberg-pledges-285-million-to-help-clean-energy-industries-take-on-fossil-fuel-influence/?utm_source=rss utm_medium=rss utm_campaign=bloomberg-pledges-285-million-to-help-clean-energy-industries-take-on-fossil-fuel-influence",
+      "publishedAt": "2026-06-22T13:40:24.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Michael-Bloomberg.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-project-cosmos-2026-06-22",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Project Cosmos",
+      "excerpt": "Welcome to the Project Cosmos homepage. The project was launched by Carbon Brief in June 2026 following an 18-month research and development effort. The aim: to build the world’s largest database of climate change research. Containing more than 1.8 million unique publications linked by 40 million citation relationships, the Cosmos database represents the most complete and expansive mapping of human knowledge on climate change ever assembled. The articles and visuals below will guide you through how the Cosmos database was built, as well as all the…",
+      "url": "https://www.carbonbrief.org/project-cosmos/",
+      "publishedAt": "2026-06-22T13:00:00.000Z",
+      "image": "https://interactive.carbonbrief.org/cosmos/images/cosmos-preview.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Science",
+        "feed": "https://www.carbonbrief.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-mapped-inside-carbon-brief-s-cosmos-data-2026-06-22",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Mapped: Inside Carbon Brief s Cosmos database of 1.8 million climate studies",
+      "excerpt": "This is the vast “cosmos” of academic literature and evidence that underpins humanity’s knowledge of climate change. Every “star” – all 1.8m of them – represents one of the studies inside Carbon Brief’s Cosmos database . The coloured “nebulae” and “galaxies” within this cosmos illustrate where clusters of studies share similar citations and, hence, areas of common academic focus. For example, these two large circled areas resembling “nebulae” represent, at the broadest level, studies centred around the “physical sciences” (blue) and “social sciences”…",
+      "url": "https://www.carbonbrief.org/mapped-inside-carbon-briefs-cosmos-database-of-1-8-million-climate-studies/",
+      "publishedAt": "2026-06-22T13:00:00.000Z",
+      "image": "https://interactive.carbonbrief.org/cosmos/images/cosmos-preview.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Science",
+        "feed": "https://www.carbonbrief.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-carbon-brief-s-ranking-of-the-most-highl-2026-06-22",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Carbon Brief’s ranking of the most highly cited climate publications",
+      "excerpt": "The most highly cited publications in Carbon Brief’s Cosmos database reveal the building blocks supporting so many elements of climate science. Every year, thousands of new scientific documents are published, from studies and reports to books and assessments. Carbon Brief’s Project Cosmos pulls together the “universe” of climate research, spanning 1.8m publications from almost a century of scientific endeavor. Research publications are linked through citations – where one study references others, perhaps using their methods, confirming their results or…",
+      "url": "https://www.carbonbrief.org/carbon-briefs-ranking-of-the-most-highly-cited-climate-publications/",
+      "publishedAt": "2026-06-22T13:00:00.000Z",
+      "image": "https://interactive.carbonbrief.org/cosmos/images/publications-preview.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Science",
+        "feed": "https://www.carbonbrief.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-carbon-brief-s-ranking-of-the-most-highl-2026-06-22",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Carbon Brief’s ranking of the most highly cited climate scientists",
+      "excerpt": "Carbon Brief’s Project Cosmos is the largest known database of climate change research, featuring more than 1.8m individual publications. Every publication has a list of authors – the experts who carried out fieldwork, analysed data and drafted the document itself. Hundreds of thousands of experts are listed as authors in these studies, books and reports. Each publication also has a list of references – the other academic works on which the authors drew to develop their research. Carbon Brief has calculated a citation score for each expert, by counting…",
+      "url": "https://www.carbonbrief.org/carbon-briefs-ranking-of-the-most-highly-cited-climate-scientists-2/",
+      "publishedAt": "2026-06-22T13:00:00.000Z",
+      "image": "https://interactive.carbonbrief.org/cosmos/images/authors-preview.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Science",
+        "feed": "https://www.carbonbrief.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-introducing-project-cosmos-carbon-brief--2026-06-22",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Introducing Project Cosmos: Carbon Brief’s ‘universe’ of climate science",
+      "excerpt": "Carbon Brief’s Project Cosmos is a major collaborative effort to build the world’s largest and most complete database of climate change research. The Cosmos database – which features more than 1.8m individual publications linked by 40m citation relationships – captures the vast body of human knowledge about climate change that has accumulated over more than a century of academic study. Cosmos is a major new resource, which has taken more than 18 months to research and build, with help and guidance from a specialist team of academics. Carbon Brief…",
+      "url": "https://www.carbonbrief.org/introducing-project-cosmos-carbon-briefs-universe-of-climate-science/",
+      "publishedAt": "2026-06-22T13:00:00.000Z",
+      "image": "https://interactive.carbonbrief.org/cosmos/images/cosmos-preview.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Science",
+        "feed": "https://www.carbonbrief.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-carbon-brief-s-ranking-of-the-most-highl-2026-06-22",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Carbon Brief’s ranking of the most highly cited institutions",
+      "excerpt": "Analysis of Carbon Brief’s Cosmos database reveals the world’s leading “institutions” for climate research. There are more than 40,000 institutions in the Cosmos database, ranging from universities and research laboratories, through to policy institutes and governmental bodies. Carbon Brief has given each institution a “publication count”, by adding up the number of times that its experts appear in the author list of studies in the Cosmos database. This analysis has allowed Carbon Brief to identify the 500 institutions with the highest publication count…",
+      "url": "https://www.carbonbrief.org/carbon-briefs-ranking-of-the-most-highly-cited-institutions/",
+      "publishedAt": "2026-06-22T13:00:00.000Z",
+      "image": "https://interactive.carbonbrief.org/cosmos/images/institutions-preview.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Science",
+        "feed": "https://www.carbonbrief.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
     {
       "id": "verra-projects-open-for-public-comment-june-22-2026-06-22",
       "source": "verra",
@@ -2153,7 +2402,7 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "Nestlé Promotes Antonia Wanner to Chief Communications and Sustainability Officer",
-      "excerpt": "Global food and beverage company Nestlé announced that it has expanded the role of Chief Sustainability Officer Antonia Wanner to the new role of Chief Communications and Sustainability Officer, and added her as a member of the company’s Group Executive Board. Wanner has been with Nestlé since joining the company as an in-house lawyer in 2026, and was appointed as the company’s first Chief Sustainability Officer last year, reporting directly to the CEO, but without holding a position on the Executive Board. Prior to her appointment as CSO, she served as…",
+      "excerpt": "Global food and beverage company Nestlé announced that it has expanded the role of Chief Sustainability Officer Antonia Wanner to the new role of Chief Communications and Sustainability Officer, and added her as a member of the company’s Group Executive Board. Wanner has been with Nestlé since joining the company as an in-house lawyer in 1996, and was appointed as the company’s first Chief Sustainability Officer last year, reporting directly to the CEO, but without holding a position on the Executive Board. Prior to her appointment as CSO, she served as…",
       "url": "https://www.esgtoday.com/nestle-promotes-antonia-wanner-to-chief-communications-and-sustainability-officer/?utm_source=rss utm_medium=rss utm_campaign=nestle-promotes-antonia-wanner-to-chief-communications-and-sustainability-officer",
       "publishedAt": "2026-06-22T08:57:42.000Z",
       "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Nestle-Wanner.jpg",
@@ -2300,28 +2549,6 @@
       "region": "world"
     },
     {
-      "id": "carbon-brief-experts-why-carbon-removal-needs-a-major-2026-06-19",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Experts: Why carbon removal needs a ‘major scale up’ to return warming to 1.5C",
-      "excerpt": "Last week, more than 260 researchers convened in Milan to discuss the opportunities, challenges and risks involved in scaling “carbon dioxide removal” (CDR) to help curb climate change. The conference – held on the campus of the Politecnico di Milano – is the fourth in a series, with previous editions held in Oxford, UK in 2024 , and Gothenburg, Sweden in 2018 and 2022. A broad range of academics – from forests, oceans and soils experts through to social and political scientists – discussed the co-benefits and trade-offs involved in drawing down CO2…",
-      "url": "https://www.carbonbrief.org/experts-why-carbon-removal-needs-a-major-scale-up-to-return-warming-to-1-5c/",
-      "publishedAt": "2026-06-19T10:02:15.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/gmd-19-2627-2026-f01-web.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Negative emissions",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-today-nestl-to-produce-1-5-billion-kitkat-bars-2026-06-19",
       "source": "esg-today",
       "sourceName": "ESG Today",
@@ -2433,28 +2660,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-trump-administration-signs-765-million-d-2026-06-18",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Trump Administration Signs $765 Million Deal with Invenergy to Swap Offshore Wind Projects for Natural Gas, Geothermal",
-      "excerpt": "The U.S. Department of the Interior announced that it has signed a new agreement with energy developer Invenergy to terminate four offshore wind leases totaling $765 million, with the funds to be redirected into the development of natural gas and geothermal projects in the U.S. The announcement forms part of a new tactic employed by the Trump administration to stop the development of offshore wind projects, following an initial $1 billion deal announced in March with TotalEnergies to stop its work on U.S. offshore wind projects, and to invest in gas and…",
-      "url": "https://www.esgtoday.com/trump-administration-signs-765-million-deal-with-invenergy-to-swap-offshore-wind-projects-for-natural-gas-geothermal/?utm_source=rss utm_medium=rss utm_campaign=trump-administration-signs-765-million-deal-with-invenergy-to-swap-offshore-wind-projects-for-natural-gas-geothermal",
-      "publishedAt": "2026-06-18T15:35:44.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Wind-offshore-EU1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-nextera-to-pay-150m-to-settle-charges-re-2026-06-18",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2473,72 +2678,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-boe-integrates-net-zero-transition-risk--2026-06-18",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "BoE Integrates Net Zero Transition Risk into Collateral Framework",
-      "excerpt": "The Bank of England (BoE) issued a new Market Notice outlining changes to its collateral eligibility framework, including, for the first time, the integration of climate transition-related risk factors into its methodology for valuing corporate bonds pledged by banks as collateral. The BoE’s collateral eligibility framework sets out the assets that banks can use as collateral when borrowing from the central bank through its lending facilities. As a risk protection measure, the central bank applies discounts, or “haircuts” to the value of the assets…",
-      "url": "https://www.esgtoday.com/boe-integrates-net-zero-transition-risk-into-collateral-framework/?utm_source=rss utm_medium=rss utm_campaign=boe-integrates-net-zero-transition-risk-into-collateral-framework",
-      "publishedAt": "2026-06-18T14:00:04.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Bank-of-England.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Regulators",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-100-100-launches-100-million-fund-to-bui-2026-06-18",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "100 100 Launches $100 Million Fund to Build 50 New Climate Tech Companies",
-      "excerpt": "Singapore-based climate company builder and fund management platform 100 100 announced the launch of its second fund, “Fund II,” aimed at creating and scaling 50 new climate tech startups across South Asia and India. The firm said that it is seeking to raise $100 million for the new fund, compared with its predecessor, Fund I, which hit its hard cap at US$60 million in 2023. Founded in 2025 out of venture capital investor Wavemaker Partners, 100 100 develops and co-founds climate technology companies focused on solutions to address the largest emissions…",
-      "url": "https://www.esgtoday.com/100x100-launches-100-million-fund-to-build-climate-tech-companies-in-southeast-asia-india/?utm_source=rss utm_medium=rss utm_campaign=100x100-launches-100-million-fund-to-build-climate-tech-companies-in-southeast-asia-india",
-      "publishedAt": "2026-06-18T13:12:56.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/100x100.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Private Equity & Venture Capital",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "india"
-    },
-    {
-      "id": "carbon-brief-q-a-what-do-china-s-provincial-five-year-2026-06-18",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Q A: What do China’s provincial five-year plans say about climate and energy?",
-      "excerpt": "China’s provincial-level governments have now all published their 15th five-year plans – economic and social development blueprints for 2026-2030. These provincial plans reaffirm the overall trajectory of China’s energy transition, but reveal regional differences, based on economic and geographic considerations. Provincial plans are a critical mechanism for showing how high-level targets from the central government will be translated into action. For example, binding indicators set at national level include reductions in carbon intensity – carbon…",
-      "url": "https://www.carbonbrief.org/qa-what-do-chinas-provincial-five-year-plans-say-about-climate-and-energy/",
-      "publishedAt": "2026-06-18T10:00:27.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/chinas-provinces-focus-clean-energy-carbon-peaking-deadline-approaches_1.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "China Policy",
-        "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
     },
@@ -2584,28 +2723,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-cropped-17-june-2026-coral-reef-hope-oce-2026-06-17",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Cropped 17 June 2026: Coral reef ‘hope’ Ocean talks Plant flowering times ‘shift’",
-      "excerpt": "We handpick and explain the most important stories at the intersection of climate, land, food and nature over the past fortnight. This is an online version of Carbon Brief’s fortnightly Cropped email newsletter. Subscribe for free here. MAKING WAVES: African and Commonwealth countries issued a “call to action” to implement the High Seas Treaty at the Our Ocean Conference in Kenya this week, reported the Associated Press . The summit, which ends on 18 June, is focused on ocean issues including “climate change, biodiversity and pollution”, said the…",
-      "url": "https://www.carbonbrief.org/cropped-17-june-2026-coral-reef-hope-ocean-talks-plant-flowering-times-shift/",
-      "publishedAt": "2026-06-17T14:26:39.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Screenshot_2026-06-16_at_13.05.09-1024x568.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Cropped",
-        "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
     },
@@ -2721,92 +2838,28 @@
       "region": "world"
     },
     {
-      "id": "carbon-brief-analysis-energy-efficient-air-conditioni-2026-06-16",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
+      "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-06-15",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
       "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Analysis: Energy-efficient air conditioning could save Indian homes 69bn rupees a year",
-      "excerpt": "More energy-efficient air-conditioning units could, together, save Indian households ₹ 69bn ($724m) a year, according to new analysis by Carbon Brief. Climate change-induced extreme heat is driving up the use of air conditioning across the country, as people try to cope with record-breaking temperatures . This demand, however, is straining the country’s power grid and raising emissions. On 21 May 2026, India’s power demand reached a record 270 gigawatts (GW), fuelled by a heatwave sweeping across the country and a surge in air-conditioning demand.…",
-      "url": "https://www.carbonbrief.org/analysis-energy-efficient-air-conditioning-could-save-indian-homes-69bn-rupees-a-year/",
-      "publishedAt": "2026-06-16T11:09:23.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Screenshot-2026-06-16-at-10.40.53-1024x529.png",
-      "country": "India",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
+      "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+      "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
+      "publishedAt": "2026-06-15T16:26:30.000Z",
+      "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
+      "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
-        "category": "International policy",
-        "feed": "https://www.carbonbrief.org/feed/"
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "esg-dive-nyc-comptroller-launches-search-for-new--2026-06-15",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "NYC comptroller launches search for new pension fund asset managers",
-      "excerpt": "The hunt for new public equity index services providers comes after the city s former comptroller recommended dropping BlackRock and Fidelity over their lack of climate policies.",
-      "url": "https://www.esgdive.com/news/nyc-comptroller-launches-search-for-new-pension-asset-managers/822924/",
-      "publishedAt": "2026-06-15T16:30:00.000Z",
-      "image": "https://imgproxy.divecdn.com/u5_8ixeuUBl-vbM-LKLqrHiLRWKj-_XPk-Pl-Q0rLbg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU3MTI1MjcyLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-jfk-airport-s-new-terminal-1-touts-esg-p-2026-06-15",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "JFK airport’s new Terminal 1 touts ESG performance",
-      "excerpt": "Reduced emissions in both construction and operations are key benefits, but the project had additional health, sustainability and diversity achievements, project participants say.",
-      "url": "https://www.esgdive.com/news/jfk-new-terminal-one-touts-esg-performance/822902/",
-      "publishedAt": "2026-06-15T15:33:24.000Z",
-      "image": "https://imgproxy.divecdn.com/hZA4vZP0q-jw58z5KW4V5cYESWXMKt0qAsfKcOucfck/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UTVJXLUdlbnNsZXItSkZLLUFlcmlhbC1Gcm9tLVNpZGUtQ29weXJpZ2h0LXRtcndzbS5qcGc=.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-analysis-uk-s-ev-drivers-are-now-saving--2026-06-15",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Analysis: UK’s EV drivers are now saving £1,100 each a year – and £3bn in total",
-      "excerpt": "Amid reports that the government could weaken the UK’s electric vehicle (EV) targets, Carbon Brief analysis reveals the nation’s EV drivers are saving more than £1,100 a year in fuel costs, compared with running a petrol car. Battery EVs (BEVs) are roughly four times more efficient than combustion-engine cars, making them far cheaper to run – particularly since the Iran crisis caused a spike in fossil-fuel prices . The savings from driving BEVs are also more than three times higher than for “plug-in” hybrids (PHEVs), which evidence shows are mostly…",
-      "url": "https://www.carbonbrief.org/analysis-uks-ev-drivers-are-now-saving-1100-each-a-year-and-3bn-in-total/",
-      "publishedAt": "2026-06-15T15:26:38.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/UKs-EV-drivers-are-now-saving-1100-a-year-–-and-3bn-in-total.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Renewables",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
     },
     {
       "id": "verra-projects-open-for-public-comment-june-15-2026-06-15",
@@ -2819,15 +2872,14 @@
       "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
       "url": "https://verra.org/projects-open-for-public-comment-june-15-2026/",
       "publishedAt": "2026-06-15T13:41:28.000Z",
-      "image": "https://verra.org/wp-content/uploads/2024/04/Agents-of-Change-Orchestrating-the-Recycling-Chain-4470-OMA-Ativos-Ambientais-S.A-Brazil-Plastic-waste-bales-1024x683.jpg",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
+        "feed": "https://verra.org/feed/"
       },
       "region": "world"
     },
@@ -2852,28 +2904,6 @@
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tRUdsSnFiUmRJNl9Nakt2MkVQVW9jNFRDNnBnd1I0dURvRFVQVmljN1c3aTJ2T0VhQjkzQjdUbVZrbXJkMWEzUzVTWUF5QU5IVXhHbll2Ny13LU43VzZTcEFYc20?oc=5",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-debriefed-12-june-2026-el-ni-o-begins-co-2026-06-12",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "DeBriefed 12 June 2026: El Niño begins COP31 hosts eye electrification Atlantic current monitoring at risk",
-      "excerpt": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week s key developments relating to climate change. ‘DOMINO WEATHER’: The natural weather phenomenon El Niño, which can raise global heat and “bring domino weather effects across the planet”, is now underway, the US National Oceanic and Atmospheric Administration (NOAA) declared on Thursday, reported the Washington Post . The Japanese Meteorological Administration also identified the start of El Niño on Wednesday, said Bloomberg . According to the Japanese weather agency, the event is…",
-      "url": "https://www.carbonbrief.org/debriefed-12-june-2026-el-nino-begins-cop31-hosts-eye-electrification-atlantic-current-monitoring-at-risk/",
-      "publishedAt": "2026-06-12T13:32:28.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/image-4.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "DeBriefed",
-        "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
     },
@@ -2934,15 +2964,14 @@
       "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
       "url": "https://verra.org/projects-open-for-public-comment-june-8-2026/",
       "publishedAt": "2026-06-08T12:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2023/12/shutterstock_2311969343-scaled.jpg",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
+        "feed": "https://verra.org/feed/"
       },
       "region": "world"
     },
@@ -2956,7 +2985,7 @@
       "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD News",
       "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week DD News",
       "url": "https://ddnews.gov.in/en/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
-      "publishedAt": "2026-06-05T16:34:43.000Z",
+      "publishedAt": "2026-06-05T07:00:00.000Z",
       "image": null,
       "country": "India",
       "methodology": null,
@@ -3090,6 +3119,29 @@
         "program": "Verified Carbon Standard"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
+      "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
+      "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
+      "publishedAt": "2026-05-25T07:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
+      },
+      "region": "india"
     },
     {
       "id": "google-india-india-among-biggest-new-carbon-markets-a-2026-05-21",
@@ -3564,6 +3616,29 @@
       "region": "india"
     },
     {
+      "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
+      "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
+      "publishedAt": "2026-04-14T07:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
+      },
+      "region": "india"
+    },
+    {
       "id": "verra-vcs-5986",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3689,6 +3764,30 @@
       "region": "india"
     },
     {
+      "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
+      "excerpt": "Insights Latest AI insights: GenAI, agentic AI and AI trends People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time…",
+      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
+      "publishedAt": "2026-04-03T07:24:04.000Z",
+      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "verra-vcs-5977",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3745,10 +3844,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market - carboncopy.info",
-      "excerpt": "If a carbon market is a financial system for emissions, then data is its collateral. Credible data is the bedrock on which market legitimacy rests. India is laying the foundation stones of a national compliance carbon market. The market design features and regulatory systems are progressively under development, and industries are starting to prepare for the market. Much of the conversation so far has focused on targets, sectors, and trading rules. These are of course important — but the strongest foundation of an effective carbon market is something far…",
+      "excerpt": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market carboncopy.info",
       "url": "https://carboncopy.info/data-is-the-new-collateral-building-a-high-fidelity-indian-carbon-market",
       "publishedAt": "2026-03-24T07:00:00.000Z",
-      "image": "https://cms.carboncopy.info/assets/780300ce-9cf3-4ddb-9e33-d8fc1dccee06",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3756,8 +3855,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5"
       },
       "region": "india"
     },
@@ -3781,30 +3879,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-carbon-credits-climate-policy-and-the-fu-2026-03-10",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Carbon Credits, Climate Policy and the Future of Textile Manufacturing with SED’s MVR Based LTE® Technology - The Textile Magazine",
-      "excerpt": "The textile industry is entering a decisive decade where competitiveness will be defined not by scale or cost alone, but by carbon intensity. This transition is structural, not ideological. At successive climate summits under the United Nations Framework Convention on Climate Change (UNFCCC), particularly COP28, governments reinforced commitments to accelerated decarbonization. Simultaneously, mechanisms like the European Union’s Carbon Border Adjustment Mechanism (CBAM) make carbon intensity a determinant of market access. For export-driven textile…",
-      "url": "https://www.indiantextilemagazine.in/carbon-credits-climate-policy-and-the-future-of-textile-manufacturing-with-seds-mvr-based-lte-technology/",
-      "publishedAt": "2026-03-10T08:55:12.000Z",
-      "image": "https://www.indiantextilemagazine.in/wp-content/uploads/2026/03/LTE-Product.jpg.jpeg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS284NGtBNXZ5bGZEeTBoVlRmUWVDZFNrS1BTV0xsWEdlWnd4QjY4S3FCWkl5VFdPVjUtYnRPZzJ1VEZhM3U5bk1idE16ZTBmMnFUNFdKWlYzYW5uTkQxY0cteUJsZ1A1UUtDN3BmemNGVzdGbnhYbVhfd1Mtd2ZhNVRlN3BaT2gxRVZwQ1lpWk5iQ3dfbl9JdkxDTHNSUEhLVVR4RUdURWNPdFlTTjVNQWlRbVVoZ2h3VUIyRW1pR2JlZWZ1WmNodUlrYkRNbWl4VXBSWlJhN2wxdw?oc=5",
-        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -3904,30 +3978,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-india-refocuses-climate-policy-around-de-2026-02-02",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India Refocuses Climate Policy Around Development, Resilience and Energy Security - ESG News",
-      "excerpt": "Share on Twitter Share on LinkedIn India’s Economic Survey 2025–26 reframes climate action as a development-first strategy, placing adaptation, resilience, and human welfare at the centre of policy design. Domestic adaptation and resilience spending rose from 3.7 percent of GDP in FY16 to 5.6 percent in FY22, underscoring India’s reliance on internal capital rather than external climate finance. Non-fossil fuel sources now account for 51.93 percent of installed power capacity, while critical minerals, nuclear reform, and carbon markets reshape India’s…",
-      "url": "https://esgnews.com/india-refocuses-climate-policy-around-development-resilience-and-energy-security/",
-      "publishedAt": "2026-02-02T08:00:00.000Z",
-      "image": "https://esgnews.com/wp-content/uploads/2026/02/India-Refocuses-Climate-Policy-Around-Development-Resilience-and-Energy-Security-scaled.jpeg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSHRfX1RXVWFPbUpaMDcxWmhGVW8xQ0VkOW9Eazg5enRJcjJoaUpSSGIyRzIxcHo5b19RMHFqWGZMMVdvX2szdUxBZDZfd09qbkNCWGloOWJzVXRFb3NTcWxnNUN2ZlpzRmR0Y2RoTGNrcWh4N2NvZ3B0TDljRkc2dDJCLWNDaHR2M3FMem5WbjQ1UThFbEhmZmw4ckx2dFkwX0Fn?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -3975,40 +4025,16 @@
       "region": "world"
     },
     {
-      "id": "google-india-how-ccts-is-accelerating-india-inc-s-rac-2026-01-08",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "How CCTS is accelerating India Inc.’s race to decarbonize - EY",
-      "excerpt": "Insights Latest AI insights: GenAI, agentic AI and AI trends People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time…",
-      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize",
-      "publishedAt": "2026-01-08T08:00:00.000Z",
-      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-ccts-banner.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFpleHAtN1I5eHA0T1R1czlGa0NDVVIxSlNqbWpCUTFGd25MTEtmdGhqT0FBa2Q2X2tRZGFzNUdsSDBRMzdwSGFmNl9TSFd3dWI0ZHJENVRielZkYU4zaUVtSGpxWkZCZzQ3MDFwT2Y0TWhxNDNqSVgxOEE5VnBhcmhyV3h6cWRXTTJNMTJheFNjUkZWOWNkWDE4azdyZEhwTnliandnN3F4ZzAtQVU5TmpNYTM2T1VyeXNJM1ZEUzdnSTNjbFNScg?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
+      "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
-      "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
-      "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
-      "publishedAt": "2025-12-10T08:00:00.000Z",
+      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+      "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+      "publishedAt": "2025-11-12T08:00:00.000Z",
       "image": null,
       "country": null,
       "methodology": null,
@@ -4017,33 +4043,9 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-strengthening-india-s-carbon-market-the--2025-10-30",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Strengthening India's carbon market: The case for a stability mechanism in India's CCTS - Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report Energy…",
-      "url": "https://ieefa.org/resources/strengthening-indias-carbon-market-case-stability-mechanism-indias-ccts",
-      "publishedAt": "2025-10-30T07:00:00.000Z",
-      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2025-11/hero%20graphic%20%2839%29.jpg?itok=ZgLBZf46",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1ltNkRHcU9aT3N6YUJkSkRWOEFWQkpyMHBhOFlhWUk0OXZoclp2eDgwaUlFNDBwTWI2anh1eF9kaU1mWUcwSkVhX0hDUUFGbGhCQ1pUSFZWamlCQi0yZDljejM0MmE1dmRmNjB4ajVDNWpKZlVIS1g3Y2ZzaDJreHFQWmJGQXFMWlJ6LWgzVjdXNE4zWkpNTkQzSXJDclhw?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
