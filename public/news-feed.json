@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-25T10:17:58.237Z",
+  "fetchedAt": "2026-06-25T15:38:30.402Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,38 +45,16 @@
   ],
   "stats": {
     "total": 87,
-    "india": 24,
-    "world": 63,
-    "withImages": 56,
-    "avgExcerptLength": 428,
+    "india": 23,
+    "world": 64,
+    "withImages": 54,
+    "avgExcerptLength": 418,
     "verra": 10,
     "registry": 25,
     "esg": 52
   },
   "sections": {
     "india": [
-      {
-        "id": "esg-today-amazon-achieves-water-positive-goal-in-i-2026-06-24",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Amazon Achieves Water Positive Goal in India Ahead of 2027 Target",
-        "excerpt": "Amazon announced that it has become water positive in India, achieving its goal of returning more water to communities than it consumes across its direct operations, including data centers, corporate offices, and fulfillment centers, ahead of its 2027 goal. The announcement comes as Amazon continues to expand its presence in India, where the company has committed to invest more than $35 billion by 2030 to strengthen AI capabilities, support digital infrastructure development, and boost exports. India is one of the world s most water-stressed regions, as…",
-        "url": "https://www.esgtoday.com/amazon-achieves-water-positive-goal-in-india-ahead-of-2027-target/?utm_source=rss utm_medium=rss utm_campaign=amazon-achieves-water-positive-goal-in-india-ahead-of-2027-target",
-        "publishedAt": "2026-06-24T08:25:25.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Amazon.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "india"
-      },
       {
         "id": "carbon-brief-cited-23-june-2026-project-cosmos-launch-2026-06-23",
         "source": "carbon-brief",
@@ -124,41 +102,17 @@
         "region": "india"
       },
       {
-        "id": "google-india-ieefa-report-highlights-key-factors-that-2026-06-06",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "IEEFA Report Highlights Key Factors That Will Shape Carbon Prices Under India's New Trading Scheme - SolarQuarter",
-        "excerpt": "As India moves forward with implementing its Carbon Credit Trading Scheme (CCTS), a new report from the Institute for Energy Economics and Financial Analysis explores the factors that will influence carbon price formation and determine how effectively the scheme supports industrial decarbonisation. The report, titled Potential Drivers of Carbon Price Formation in the CCTS: Design and Market Dynamics in the Indian Carbon Market, examines the structure of India s intensity-based emissions trading system, which will initially cover seven industrial sectors…",
-        "url": "https://solarquarter.com/2026/06/06/ieefa-report-highlights-key-factors-that-will-shape-carbon-prices-under-indias-new-trading-scheme/",
-        "publishedAt": "2026-06-06T07:00:00.000Z",
-        "image": "https://solarquarter.com/wp-content/uploads/2022/10/17-3.png",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmllSWdIYTh2cHJGOHJwRUhkc0laNmhGQ3ExTHd2ZS1CQkRsSnlxWFpGUlA5UWNQODJtTElaSUJmUmMtN3Jyc2YwQ2gza0RSQXZYZ1dzcWVJTGVOVnlRMlg2UUZpeHZqdE9FLS1QZW9UWmd5V0h6U1ZveTZYVURRZ1h1YkpIanpoLWxITzR0cThQU2JyelByZml4N19XMU1MbktrWWpJQlZDMWVNSmVCc2xzRXlaaURXZV9ENHRiaTlmd2FCaGp0cjhzV2w0aGM?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-        "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
-        "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
+        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD News",
+        "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week DD News",
+        "url": "https://ddnews.gov.in/en/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
         "publishedAt": "2026-06-05T07:00:00.000Z",
-        "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -166,8 +120,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWRNZFVKLWdfd2tCSGtMYVN1MElGRzdEdDJZYXA2ZlRlRThRaUxkd1hKVEFNbzlpcWhOVXdFODBtZlREdHN6TWctTk05Q3VlX3JIS1NOMWRyY2RNTk1fYThuaGZXTm5yT1I0MVNnZFJQbm9pdkVBUmR2V3NwdGcwQUQxYmVDQVB1YzhBaTFlUGdPeGVxeVZ0cy1hY1ZoTmNNT2dGcU93bw?oc=5"
         },
         "region": "india"
       },
@@ -191,30 +144,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkNqWWlhMDJLM1l2Tm50Z2U4UjNDUDhTeGtVY3F2cUEzWDBfXzFMRnV5QUZtUUp1UHJRSXN3YVAwYzI4eUU5ZTdRMzJyUlFtYW1IRm1fM1FyX1dKcUFUOXhSS0pNWURCSnNJdmEwazZ4SEVMUDBMQ3dYanNoOTFoMkRMQmNpaElJS0ZIdjhOMzNHMkZGUVE?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-building-trust-in-india-s-carbon-market--2026-05-31",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Building trust in India’s carbon market | Hindustan Times - Hindustan Times",
-        "excerpt": "E-Paper Subscribe Subscribe Enjoy unlimited access Subscribe Now! Get features like India’s climate policy is entering a decisive phase. The Union Budget 2026 allocated ₹ 20,000 crore for Carbon Capture and Utilisation (CCU) in hard-to-abate sectors. The focus has now shifted from ambition to execution. Whether driven by industrial carbon capture or carbon markets, credibility and measurability are now central to India’s climate strategy. Carbon (Getty Images/iStockphoto) India’s Carbon Credit Trading Scheme (CCTS), launched under the Energy…",
-        "url": "https://www.hindustantimes.com/ht-insight/climate-change/building-trust-in-india-s-carbon-market-101780154540297.html",
-        "publishedAt": "2026-05-31T07:00:00.000Z",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/30/550x309/eaa70b94-624b-11ec-b033-bfb7d2010c4a_1640084070662_1780154677128_ab2c2b02-b0d2-4d22-a05d-6227a3a5450e.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWV8yaC04Q3p0WklRNWVyZ2E2MVNFZ3hsQ245UUtGUGpfSmhvWWR0WkltU2NzY1pld0MtUWpzY25KRGxOT01QNmpSakhWU2pxaU5HMzNuQU1EUk1leldadUJVZS1fNmJ1Njg1c044R0JONm9tcFZPOXNGZGFsVW1VYnVtUzRpYXhiY0hQeE1XXzJLMUJWN1llOVlkeFBJZXVCNkpuZnVPRHNuTGxKMzRXOWJnUU5fVlpl0gG-AUFVX3lxTE1nM1RyVHExR3VPZkRuUndZVmd0WHV5LXVrUklUQ0w5YmVEYmhWSjRGMkZ5LXNWNVU4bXlPZ3pPaFQ5R21UaFQwdHRBSTZyZUM1Wm9KaXFJWEIxVUFLVDJGOVNFMkVBZDlFOWtyak1laE5FNGNWWGJxQXJNYkxRc3Bfc013YjNGS0FPZVB4V1FaY2lBSFFvZ0pTZVdzREhOd1dSRTZTdnRwYnp5d0ktbnlCdEM1M09BN0pzcVVwOHc?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -441,30 +370,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-        "excerpt": "Insights Latest AI insights: GenAI, agentic AI and AI trends People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time…",
-        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
-        "publishedAt": "2026-04-03T07:24:04.000Z",
-        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-carbon-global-blue-carbon-market-to-reach-usd-1-2026-03-25",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -583,6 +488,77 @@
         "region": "india"
       },
       {
+        "id": "google-india-how-ccts-is-accelerating-india-inc-s-rac-2026-01-08",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "How CCTS is accelerating India Inc.’s race to decarbonize - EY",
+        "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
+        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize",
+        "publishedAt": "2026-01-08T08:00:00.000Z",
+        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-ccts-banner.png",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFpleHAtN1I5eHA0T1R1czlGa0NDVVIxSlNqbWpCUTFGd25MTEtmdGhqT0FBa2Q2X2tRZGFzNUdsSDBRMzdwSGFmNl9TSFd3dWI0ZHJENVRielZkYU4zaUVtSGpxWkZCZzQ3MDFwT2Y0TWhxNDNqSVgxOEE5VnBhcmhyV3h6cWRXTTJNMTJheFNjUkZWOWNkWDE4azdyZEhwTnliandnN3F4ZzAtQVU5TmpNYTM2T1VyeXNJM1ZEUzdnSTNjbFNScg?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-why-india-s-carbon-market-needs-a-price--2025-11-10",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Why India’s carbon market needs a price stability mechanism for its new Carbon Credit Trading Scheme - The World Economic Forum",
+        "excerpt": "Why India’s carbon market needs a price stability mechanism for its new Carbon Credit Trading Scheme The World Economic Forum",
+        "url": "https://www.weforum.org/stories/2025/11/why-india-s-carbon-market-needs-a-price-stability-mechanism/",
+        "publishedAt": "2025-11-10T08:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWFR2SzIxckZ3UTdBZUV0Sy00eHo1LXMxOVBZd0dxR3l1bFFlbF9fenpBemlSQXJVMmxjQ1FOcXVad2VOU1dHUzExazRLVWRGWndfLW0wVUR2LWpEVGxVdFZGYl9TUV9vNVFoUnZ3bkUxVHFiX1hrd3ZqSXdPTGZ0R2FfRFJuLXVjbFBMNXZ5c2E3SjZoMnFHYURiZlFNTDJkeEE?oc=5"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-the-case-for-a-stability-mechanism-in-in-2025-10-30",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "The case for a stability mechanism in India’s carbon market - Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language Energy Policy Energy Transition &…",
+        "url": "https://ieefa.org/articles/case-stability-mechanism-indias-carbon-market",
+        "publishedAt": "2025-10-30T07:00:00.000Z",
+        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2025-10/hero%20graphic%20%284%29.jpg?itok=Q538r300",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OcUlTVUZibUVMLXljU2lHNGlpaENia0pkelNQSVhZZi1EcUJyTFBNYmNsUHU5czlENW1fb1ZTdU5aSzY0MGJwNDd6SWJWYWV1bEdLWnJHOXRMT20tZkZVNmhHa0U5Y2FkbkpsMGo5dGo1emFGOHA1T0dYN1Q?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -633,13 +609,167 @@
     ],
     "world": [
       {
-        "id": "esg-today-uk-to-introduce-mandatory-supply-chains--2026-06-25",
+        "id": "esg-dive-tesla-sunrun-renew-home-offer-16-8-gw-of-2026-06-25",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Tesla, Sunrun, Renew Home offer 16.8 GW of distributed energy to utilities, hyperscalers",
+        "excerpt": "An executive for Sunrun said active distributed power plant programs like one in Puerto Rico underscore the resource s potential.",
+        "url": "https://www.esgdive.com/news/3-home-energy-providers-offer-168-gw-of-distributed-capacity-to-utilities/823748/",
+        "publishedAt": "2026-06-25T15:35:00.000Z",
+        "image": "https://imgproxy.divecdn.com/eGMN0QVCPu3-VRb8TNotGIfu43f9YzWEC8wrBUpdkpw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wb3dlcm9ucHIxX05EM3I5NUguanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-microsoft-hits-water-positive-target-5-y-2026-06-25",
         "source": "esg-today",
         "sourceName": "ESG Today",
         "type": "esg",
         "tag": "ESG",
         "accent": "#60a5fa",
-        "title": "UK to Introduce Mandatory Supply Chains Deforestation Due Diligence Rules",
+        "title": "Microsoft Hits Water Positive Target 5 Years Ahead of 2030 Goal",
+        "excerpt": "Microsoft revealed a series of water-related sustainability milestones, including announcing that it became “water positive” in 2025, replenishing more water than it withdrew across its global operations for the year. The achievement comes several years ahead of its 2030 goal, set by the company in 2020 . The announcement comes as tech companies are coming under increasing pressure to ease concerns about the local water and energy impact of their rapidly expanding datacenter footprints – in recent weeks, both Google and Amazon have announced pledges and…",
+        "url": "https://www.esgtoday.com/microsoft-hits-water-positive-target-5-years-ahead-of-2030-goal/?utm_source=rss utm_medium=rss utm_campaign=microsoft-hits-water-positive-target-5-years-ahead-of-2030-goal",
+        "publishedAt": "2026-06-25T14:48:38.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Microsoft2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-china-briefing-25-june-2026-five-year-pl-2026-06-25",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "China Briefing 25 June 2026: Five-year plans passed Critical-mineral tensions Industrial decarbonisation plan",
+        "excerpt": "W elcome to Carbon Brief’s China Briefing. China Briefing handpicks and explains the most important climate and energy stories from China over the past fortnight. Subscribe for free here. GENERATION TARGET: China today released its 15th five-year plan for building a “new-type energy system”, according to finance news outlet Cailianshe . It said the plan covered topics including energy sources, power-market reform and China’s role in clean-energy supply chains and climate governance. The plan , published by the National Development and Reform Commission…",
+        "url": "https://www.carbonbrief.org/china-briefing-25-june-2026-five-year-plans-passed-critical-mineral-tensions-industrial-decarbonisation-plan/",
+        "publishedAt": "2026-06-25T14:25:29.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2021/05/website-masthead-new-300x200.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "China Briefing",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-livestock-heat-deaths-in-transit-doubled-2026-06-25",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Livestock heat deaths in transit doubled in UK record-hot summer of 2025",
+        "excerpt": "Twice as many animals died due to heat stress en route to slaughterhouses during the UK’s record-hot summer in 2025 compared to 2024, according to new Carbon Brief analysis. Government figures showed that nearly 6,600 animals – mostly chickens – died in transport as a result of the sweltering summer heat in England and Wales from June to August 2025. This compared to 3,100 in summer 2024 and no official cases in summer 2023. These figures were still below the more than 18,500 deaths recorded in the summer of 2022 when UK temperatures hit 40C for the…",
+        "url": "https://www.carbonbrief.org/livestock-heat-deaths-in-transit-doubled-in-uk-record-hot-summer-of-2025/",
+        "publishedAt": "2026-06-25T13:30:22.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/3CCDKA0.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Food and farming",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-tesla-sunrun-renew-home-to-turn-u-s-home-2026-06-25",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Tesla, Sunrun, Renew Home to Turn U.S. Homes into Massive Distributed Power Plant",
+        "excerpt": "Tesla, residential clean energy provider Sunrun and Google-backed home energy management company Renew Home announced a new partnership to aggregate millions of home energy devices to form the largest distributed power plant in the U.S., capable of delivering more than 16 GW of flexible energy capacity to hyperscalers and utilities. The framework is aimed at helping hyperscalers secure electricity for data centers while reducing costs for residential customers by shifting energy demand during periods of peak consumption, the companies said. Mary Powell,…",
+        "url": "https://www.esgtoday.com/tesla-sunrun-renew-home-to-turn-u-s-homes-into-massive-distributed-power-plant/?utm_source=rss utm_medium=rss utm_campaign=tesla-sunrun-renew-home-to-turn-u-s-homes-into-massive-distributed-power-plant",
+        "publishedAt": "2026-06-25T13:16:02.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Tesla-Sunrun.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-dhl-to-offer-wind-powered-ocean-shipping-2026-06-25",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "DHL to Offer Wind-Powered Ocean Shipping",
+        "excerpt": "DHL Global Forwarding announced a new agreement with wind-powered maritime transport company VELA to offer a transatlantic cargo shipping service using wind-powered ships, enabling emissions reductions of up to 99% compared to air freight and up to 90% compared to conventional sea freight. Founded in 2023, France-based VELA develops and operates wind-powered cargo vessels for transatlantic freight transport, using high-performance trimaran designs inspired by offshore racing to provide lower-emissions maritime shipping solutions. The companies said that…",
+        "url": "https://www.esgtoday.com/dhl-to-offer-wind-powered-ocean-shipping/?utm_source=rss utm_medium=rss utm_campaign=dhl-to-offer-wind-powered-ocean-shipping",
+        "publishedAt": "2026-06-25T12:41:08.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/DHL-Vela.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-california-pushes-back-deadline-for-firs-2026-06-25",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "California Pushes Back Deadline for First Corporate Climate Reports to November",
+        "excerpt": "The California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s new corporate climate reporting regulations, released a new notification indicating that it plans to delay the deadline for companies’ first mandatory emissions disclosures to November 10, from the current August deadline. According to CARB, the delayed deadline is aimed at giving companies more time, as the regulator plans to introduce limited changes to the climate reporting regulation, which may delay its final approval. California’s new climate…",
+        "url": "https://www.esgtoday.com/california-pushes-back-deadline-for-first-corporate-climate-reports-to-november/?utm_source=rss utm_medium=rss utm_campaign=california-pushes-back-deadline-for-first-corporate-climate-reports-to-november",
+        "publishedAt": "2026-06-25T11:31:12.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/California-CARB.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-uk-to-introduce-mandatory-supply-chain-d-2026-06-25",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "UK to Introduce Mandatory Supply Chain Deforestation Due Diligence Rules",
         "excerpt": "The UK Government announced plans to introduce new regulations requiring businesses to ensure that their supply chains are not contributing to illegal deforestation, including new mandatory due diligence requirements, with a consultation on the new rules to be launched this year. The government said that its approach will propose covering the same core commodities and underlying information requirements to be used in the EU’s Deforestation Regulation (EUDR), in order to help businesses avoid administrative duplication and to enable consistent data and…",
         "url": "https://www.esgtoday.com/uk-to-introduce-mandatory-supply-chains-deforestation-due-diligence-rules/?utm_source=rss utm_medium=rss utm_campaign=uk-to-introduce-mandatory-supply-chains-deforestation-due-diligence-rules",
         "publishedAt": "2026-06-25T10:17:09.000Z",
@@ -651,6 +781,28 @@
         "meta": {
           "category": "Environment",
           "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-analysis-uk-sales-of-electric-vehicles-j-2026-06-25",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Analysis: UK sales of electric vehicles just overtook petrol cars for the first time",
+        "excerpt": "For the first time in the UK, more new electric vehicles (EVs) have been sold over a 12-month period than petrol cars, according to Carbon Brief analysis. The news comes amid a battle over the future of the UK’s “ zero-emissions vehicle ” (ZEV) mandate, which the car industry and some unions are pushing to water down. The mandate sets a rising target for the share of new car sales that must be “zero-emissions vehicles” (ZEVs) each year – primarily “pure” or “battery” EVs that only run on electricity. The car industry argues that demand for these cars is…",
+        "url": "https://www.carbonbrief.org/analysis-uk-sales-of-electric-vehicles-just-overtook-petrol-cars-for-the-first-time/",
+        "publishedAt": "2026-06-25T10:15:58.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/UK_sales_of_electric_vehicles.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Other technologies",
+          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -853,72 +1005,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-eu-member-states-propose-dropping-exclus-2026-06-24",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EU Member States Propose Dropping Exclusion of Fossil Fuel Companies from New SFDR Transition Fund Category",
-        "excerpt": "The European Council announced an agreement by EU member states on its negotiating position on proposed changes to the Sustainable Finance Disclosure Regulation (SFDR), the EU’s key legislation setting out how financial market participants have to disclose sustainability information, and aimed at helping investors to more easily identify and compare sustainability-focused investment products and invest in line with their sustainability preferences. One of the key changes included in the Council position is the elimination of a proposed exclusion of…",
-        "url": "https://www.esgtoday.com/eu-member-states-propose-dropping-exclusion-of-fossil-fuel-companies-from-new-sfdr-transition-fund-category/?utm_source=rss utm_medium=rss utm_campaign=eu-member-states-propose-dropping-exclusion-of-fossil-fuel-companies-from-new-sfdr-transition-fund-category",
-        "publishedAt": "2026-06-24T13:30:10.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/EU-Council5.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Government",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-walmart-signs-its-first-long-term-nuclea-2026-06-24",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Walmart Signs its First Long-term Nuclear Power Purchase Agreement",
-        "excerpt": "Retail giant Walmart announced that it has signed long-term nuclear power purchase agreement (PPA) with energy provider Constellation Energy for the production of approximately 176 MW of emissions-free electricity from Constellation’s Dresden Clean Energy Center in Illinois. Under the agreement, which consists of two 15-year contracts beginning in 2029 and 2030, Walmart will purchase electricity, capacity, and associated environmental attributes from the facility. The power will support Walmart’s previously announced high-tech perishable distribution…",
-        "url": "https://www.esgtoday.com/walmart-signs-its-first-long-term-nuclear-power-purchase-agreement/?utm_source=rss utm_medium=rss utm_campaign=walmart-signs-its-first-long-term-nuclear-power-purchase-agreement",
-        "publishedAt": "2026-06-24T10:45:39.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Walmart.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-stegra-completes-1-6-billion-capital-rai-2026-06-24",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Stegra Completes $1.6 Billion Capital Raise to Build Largest Green Steel Plant in Europe",
-        "excerpt": "Swedish green iron and steel maker Stegra announced that it has closed a €1.4 billion (USD$1.6 billion) financing round, enabling the company to complete the construction of the world’s first large-scale green steel plant in Boden, Sweden. The completion of the financing will provide a major lifeline to the project, which had slowed development pending the outcome of the financing process. Founded in 2020, Stegra is building its first large scale low-carbon steel plant in Boden, aimed at producing 5 million tonnes of green steel annually. The company’s…",
-        "url": "https://www.esgtoday.com/stegra-completes-1-6-billion-capital-raise-to-build-largest-green-steel-plant-in-europe/?utm_source=rss utm_medium=rss utm_campaign=stegra-completes-1-6-billion-capital-raise-to-build-largest-green-steel-plant-in-europe",
-        "publishedAt": "2026-06-24T09:58:01.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Stegra.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Sustainable Finance",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-ccc-faster-electrification-of-uk-will-pu-2026-06-23",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -926,7 +1012,7 @@
         "tag": "POLICY",
         "accent": "#5eead4",
         "title": "CCC: Faster electrification of UK will ‘put money back into people’s pockets’",
-        "excerpt": "Faster electrification is the best way to secure lower energy bills and stronger energy security, according to the Climate Change Committee (CCC). The government’s official climate advisers have stressed the importance of electrification, noting that electric cars and heat pumps can “put money back into people’s pockets”. Moreover, the UK’s net-zero targets face “significant risks” unless there is faster progress in electrifying cars, heating and industry, according to the CCC’s latest progress report The report notes that the government has closed some…",
+        "excerpt": "Faster electrification is the best way to secure lower energy bills and stronger energy security, according to the Climate Change Committee (CCC). The government’s official climate advisers have stressed the importance of electrification, noting that electric cars and heat pumps can “put money back into people’s pockets”. Moreover, the UK’s net-zero targets face “significant risks” unless there is faster progress in electrifying cars, heating and industry, according to the CCC’s latest progress report . The report notes that the government has closed…",
         "url": "https://www.carbonbrief.org/ccc-faster-electrification-of-uk-will-put-money-back-into-peoples-pockets/",
         "publishedAt": "2026-06-23T23:01:00.000Z",
         "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/transport-buildings-now-uks-biggest-emitters-far.png",
@@ -1052,29 +1138,6 @@
         "region": "world"
       },
       {
-        "id": "carbon-brief-prof-detlef-van-vuuren-the-climate-scien-2026-06-23",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Prof Detlef van Vuuren: The climate scientist most cited by the IPCC",
-        "excerpt": "Detlef van Vuuren is one of the world’s leading climate modellers and, as a result, a high-profile focus of his life’s work – the “ RCP8.5 ” scenario – has recently been targeted as “wrong, wrong, wrong” by Donald Trump. Speaking to Carbon Brief at his office in the Hague, Van Vuuren cuts a serious, but relaxed figure – despite, momentarily, being caught in the white heat of global media attention following the social-media post by the climate-sceptic US president. Leading a team of modellers at PBL Netherlands Environmental Assessment Agency in the…",
-        "url": "https://www.carbonbrief.org/prof-detlef-van-vuuren-the-climate-scientist-most-cited-by-the-ipcc/",
-        "publishedAt": "2026-06-23T13:01:14.000Z",
-        "image": "https://interactive.carbonbrief.org/cosmos/images/detlef-preview-2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Interviews",
-          "feed": "https://www.carbonbrief.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-verra-partners-with-servicenow-and-docus-2026-06-23",
         "source": "verra",
         "sourceName": "Verra",
@@ -1138,52 +1201,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-project-cosmos-2026-06-22",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Project Cosmos",
-        "excerpt": "Welcome to the Project Cosmos homepage. The project was launched by Carbon Brief in June 2026 following an 18-month research and development effort. The aim: to build the world’s largest database of climate change research. Containing more than 1.8 million unique publications linked by 40 million citation relationships, the Cosmos database represents the most complete and expansive mapping of human knowledge on climate change ever assembled. The articles and visuals below will guide you through how the Cosmos database was built, as well as all the…",
-        "url": "https://www.carbonbrief.org/project-cosmos/",
-        "publishedAt": "2026-06-22T13:00:00.000Z",
-        "image": "https://interactive.carbonbrief.org/cosmos/images/cosmos-preview.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Science",
-          "feed": "https://www.carbonbrief.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-mapped-inside-carbon-brief-s-cosmos-data-2026-06-22",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Mapped: Inside Carbon Brief s Cosmos database of 1.8 million climate studies",
-        "excerpt": "This is the vast “cosmos” of academic literature and evidence that underpins humanity’s knowledge of climate change. Every “star” – all 1.8m of them – represents one of the studies inside Carbon Brief’s Cosmos database . The coloured “nebulae” and “galaxies” within this cosmos illustrate where clusters of studies share similar citations and, hence, areas of common academic focus. For example, these two large circled areas resembling “nebulae” represent, at the broadest level, studies centred around the “physical sciences” (blue) and “social sciences”…",
-        "url": "https://www.carbonbrief.org/mapped-inside-carbon-briefs-cosmos-database-of-1-8-million-climate-studies/",
-        "publishedAt": "2026-06-22T13:00:00.000Z",
-        "image": "https://interactive.carbonbrief.org/cosmos/images/cosmos-preview.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Science",
-          "feed": "https://www.carbonbrief.org/feed/",
-          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -1274,28 +1291,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-how-brands-low-t-shirt-pricing-impacts-s-2026-06-18",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "How brands’ low T-shirt pricing impacts supplier labor conditions: report",
-        "excerpt": "Keeping T-shirt prices at unsustainably low levels, despite inflation, spurs negative consequences for workers wages and safety, according to nonprofits Clean Clothes Campaign and Public Eye.",
-        "url": "https://www.esgdive.com/news/brands-low-t-shirt-pricing-impacts-supplier-labor-conditions-clean-clothes-campaign-fast-fashion/823285/",
-        "publishedAt": "2026-06-18T15:46:00.000Z",
-        "image": "https://imgproxy.divecdn.com/zTRuVjQsGKiXrIg9lKyKSSDqp12qvpKaHv4k37QGkos/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjMzODE1OTEwLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -2105,13 +2100,167 @@
   },
   "articles": [
     {
-      "id": "esg-today-uk-to-introduce-mandatory-supply-chains--2026-06-25",
+      "id": "esg-dive-tesla-sunrun-renew-home-offer-16-8-gw-of-2026-06-25",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Tesla, Sunrun, Renew Home offer 16.8 GW of distributed energy to utilities, hyperscalers",
+      "excerpt": "An executive for Sunrun said active distributed power plant programs like one in Puerto Rico underscore the resource s potential.",
+      "url": "https://www.esgdive.com/news/3-home-energy-providers-offer-168-gw-of-distributed-capacity-to-utilities/823748/",
+      "publishedAt": "2026-06-25T15:35:00.000Z",
+      "image": "https://imgproxy.divecdn.com/eGMN0QVCPu3-VRb8TNotGIfu43f9YzWEC8wrBUpdkpw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wb3dlcm9ucHIxX05EM3I5NUguanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-microsoft-hits-water-positive-target-5-y-2026-06-25",
       "source": "esg-today",
       "sourceName": "ESG Today",
       "type": "esg",
       "tag": "ESG",
       "accent": "#60a5fa",
-      "title": "UK to Introduce Mandatory Supply Chains Deforestation Due Diligence Rules",
+      "title": "Microsoft Hits Water Positive Target 5 Years Ahead of 2030 Goal",
+      "excerpt": "Microsoft revealed a series of water-related sustainability milestones, including announcing that it became “water positive” in 2025, replenishing more water than it withdrew across its global operations for the year. The achievement comes several years ahead of its 2030 goal, set by the company in 2020 . The announcement comes as tech companies are coming under increasing pressure to ease concerns about the local water and energy impact of their rapidly expanding datacenter footprints – in recent weeks, both Google and Amazon have announced pledges and…",
+      "url": "https://www.esgtoday.com/microsoft-hits-water-positive-target-5-years-ahead-of-2030-goal/?utm_source=rss utm_medium=rss utm_campaign=microsoft-hits-water-positive-target-5-years-ahead-of-2030-goal",
+      "publishedAt": "2026-06-25T14:48:38.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Microsoft2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-china-briefing-25-june-2026-five-year-pl-2026-06-25",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "China Briefing 25 June 2026: Five-year plans passed Critical-mineral tensions Industrial decarbonisation plan",
+      "excerpt": "W elcome to Carbon Brief’s China Briefing. China Briefing handpicks and explains the most important climate and energy stories from China over the past fortnight. Subscribe for free here. GENERATION TARGET: China today released its 15th five-year plan for building a “new-type energy system”, according to finance news outlet Cailianshe . It said the plan covered topics including energy sources, power-market reform and China’s role in clean-energy supply chains and climate governance. The plan , published by the National Development and Reform Commission…",
+      "url": "https://www.carbonbrief.org/china-briefing-25-june-2026-five-year-plans-passed-critical-mineral-tensions-industrial-decarbonisation-plan/",
+      "publishedAt": "2026-06-25T14:25:29.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2021/05/website-masthead-new-300x200.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "China Briefing",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-livestock-heat-deaths-in-transit-doubled-2026-06-25",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Livestock heat deaths in transit doubled in UK record-hot summer of 2025",
+      "excerpt": "Twice as many animals died due to heat stress en route to slaughterhouses during the UK’s record-hot summer in 2025 compared to 2024, according to new Carbon Brief analysis. Government figures showed that nearly 6,600 animals – mostly chickens – died in transport as a result of the sweltering summer heat in England and Wales from June to August 2025. This compared to 3,100 in summer 2024 and no official cases in summer 2023. These figures were still below the more than 18,500 deaths recorded in the summer of 2022 when UK temperatures hit 40C for the…",
+      "url": "https://www.carbonbrief.org/livestock-heat-deaths-in-transit-doubled-in-uk-record-hot-summer-of-2025/",
+      "publishedAt": "2026-06-25T13:30:22.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/3CCDKA0.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Food and farming",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-tesla-sunrun-renew-home-to-turn-u-s-home-2026-06-25",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Tesla, Sunrun, Renew Home to Turn U.S. Homes into Massive Distributed Power Plant",
+      "excerpt": "Tesla, residential clean energy provider Sunrun and Google-backed home energy management company Renew Home announced a new partnership to aggregate millions of home energy devices to form the largest distributed power plant in the U.S., capable of delivering more than 16 GW of flexible energy capacity to hyperscalers and utilities. The framework is aimed at helping hyperscalers secure electricity for data centers while reducing costs for residential customers by shifting energy demand during periods of peak consumption, the companies said. Mary Powell,…",
+      "url": "https://www.esgtoday.com/tesla-sunrun-renew-home-to-turn-u-s-homes-into-massive-distributed-power-plant/?utm_source=rss utm_medium=rss utm_campaign=tesla-sunrun-renew-home-to-turn-u-s-homes-into-massive-distributed-power-plant",
+      "publishedAt": "2026-06-25T13:16:02.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Tesla-Sunrun.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-dhl-to-offer-wind-powered-ocean-shipping-2026-06-25",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "DHL to Offer Wind-Powered Ocean Shipping",
+      "excerpt": "DHL Global Forwarding announced a new agreement with wind-powered maritime transport company VELA to offer a transatlantic cargo shipping service using wind-powered ships, enabling emissions reductions of up to 99% compared to air freight and up to 90% compared to conventional sea freight. Founded in 2023, France-based VELA develops and operates wind-powered cargo vessels for transatlantic freight transport, using high-performance trimaran designs inspired by offshore racing to provide lower-emissions maritime shipping solutions. The companies said that…",
+      "url": "https://www.esgtoday.com/dhl-to-offer-wind-powered-ocean-shipping/?utm_source=rss utm_medium=rss utm_campaign=dhl-to-offer-wind-powered-ocean-shipping",
+      "publishedAt": "2026-06-25T12:41:08.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/DHL-Vela.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-california-pushes-back-deadline-for-firs-2026-06-25",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "California Pushes Back Deadline for First Corporate Climate Reports to November",
+      "excerpt": "The California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s new corporate climate reporting regulations, released a new notification indicating that it plans to delay the deadline for companies’ first mandatory emissions disclosures to November 10, from the current August deadline. According to CARB, the delayed deadline is aimed at giving companies more time, as the regulator plans to introduce limited changes to the climate reporting regulation, which may delay its final approval. California’s new climate…",
+      "url": "https://www.esgtoday.com/california-pushes-back-deadline-for-first-corporate-climate-reports-to-november/?utm_source=rss utm_medium=rss utm_campaign=california-pushes-back-deadline-for-first-corporate-climate-reports-to-november",
+      "publishedAt": "2026-06-25T11:31:12.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/California-CARB.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-uk-to-introduce-mandatory-supply-chain-d-2026-06-25",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "UK to Introduce Mandatory Supply Chain Deforestation Due Diligence Rules",
       "excerpt": "The UK Government announced plans to introduce new regulations requiring businesses to ensure that their supply chains are not contributing to illegal deforestation, including new mandatory due diligence requirements, with a consultation on the new rules to be launched this year. The government said that its approach will propose covering the same core commodities and underlying information requirements to be used in the EU’s Deforestation Regulation (EUDR), in order to help businesses avoid administrative duplication and to enable consistent data and…",
       "url": "https://www.esgtoday.com/uk-to-introduce-mandatory-supply-chains-deforestation-due-diligence-rules/?utm_source=rss utm_medium=rss utm_campaign=uk-to-introduce-mandatory-supply-chains-deforestation-due-diligence-rules",
       "publishedAt": "2026-06-25T10:17:09.000Z",
@@ -2123,6 +2272,28 @@
       "meta": {
         "category": "Environment",
         "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-analysis-uk-sales-of-electric-vehicles-j-2026-06-25",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Analysis: UK sales of electric vehicles just overtook petrol cars for the first time",
+      "excerpt": "For the first time in the UK, more new electric vehicles (EVs) have been sold over a 12-month period than petrol cars, according to Carbon Brief analysis. The news comes amid a battle over the future of the UK’s “ zero-emissions vehicle ” (ZEV) mandate, which the car industry and some unions are pushing to water down. The mandate sets a rising target for the share of new car sales that must be “zero-emissions vehicles” (ZEVs) each year – primarily “pure” or “battery” EVs that only run on electricity. The car industry argues that demand for these cars is…",
+      "url": "https://www.carbonbrief.org/analysis-uk-sales-of-electric-vehicles-just-overtook-petrol-cars-for-the-first-time/",
+      "publishedAt": "2026-06-25T10:15:58.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/UK_sales_of_electric_vehicles.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Other technologies",
+        "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
     },
@@ -2325,94 +2496,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-eu-member-states-propose-dropping-exclus-2026-06-24",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EU Member States Propose Dropping Exclusion of Fossil Fuel Companies from New SFDR Transition Fund Category",
-      "excerpt": "The European Council announced an agreement by EU member states on its negotiating position on proposed changes to the Sustainable Finance Disclosure Regulation (SFDR), the EU’s key legislation setting out how financial market participants have to disclose sustainability information, and aimed at helping investors to more easily identify and compare sustainability-focused investment products and invest in line with their sustainability preferences. One of the key changes included in the Council position is the elimination of a proposed exclusion of…",
-      "url": "https://www.esgtoday.com/eu-member-states-propose-dropping-exclusion-of-fossil-fuel-companies-from-new-sfdr-transition-fund-category/?utm_source=rss utm_medium=rss utm_campaign=eu-member-states-propose-dropping-exclusion-of-fossil-fuel-companies-from-new-sfdr-transition-fund-category",
-      "publishedAt": "2026-06-24T13:30:10.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/EU-Council5.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Government",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-walmart-signs-its-first-long-term-nuclea-2026-06-24",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Walmart Signs its First Long-term Nuclear Power Purchase Agreement",
-      "excerpt": "Retail giant Walmart announced that it has signed long-term nuclear power purchase agreement (PPA) with energy provider Constellation Energy for the production of approximately 176 MW of emissions-free electricity from Constellation’s Dresden Clean Energy Center in Illinois. Under the agreement, which consists of two 15-year contracts beginning in 2029 and 2030, Walmart will purchase electricity, capacity, and associated environmental attributes from the facility. The power will support Walmart’s previously announced high-tech perishable distribution…",
-      "url": "https://www.esgtoday.com/walmart-signs-its-first-long-term-nuclear-power-purchase-agreement/?utm_source=rss utm_medium=rss utm_campaign=walmart-signs-its-first-long-term-nuclear-power-purchase-agreement",
-      "publishedAt": "2026-06-24T10:45:39.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Walmart.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-stegra-completes-1-6-billion-capital-rai-2026-06-24",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Stegra Completes $1.6 Billion Capital Raise to Build Largest Green Steel Plant in Europe",
-      "excerpt": "Swedish green iron and steel maker Stegra announced that it has closed a €1.4 billion (USD$1.6 billion) financing round, enabling the company to complete the construction of the world’s first large-scale green steel plant in Boden, Sweden. The completion of the financing will provide a major lifeline to the project, which had slowed development pending the outcome of the financing process. Founded in 2020, Stegra is building its first large scale low-carbon steel plant in Boden, aimed at producing 5 million tonnes of green steel annually. The company’s…",
-      "url": "https://www.esgtoday.com/stegra-completes-1-6-billion-capital-raise-to-build-largest-green-steel-plant-in-europe/?utm_source=rss utm_medium=rss utm_campaign=stegra-completes-1-6-billion-capital-raise-to-build-largest-green-steel-plant-in-europe",
-      "publishedAt": "2026-06-24T09:58:01.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Stegra.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Sustainable Finance",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-amazon-achieves-water-positive-goal-in-i-2026-06-24",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Amazon Achieves Water Positive Goal in India Ahead of 2027 Target",
-      "excerpt": "Amazon announced that it has become water positive in India, achieving its goal of returning more water to communities than it consumes across its direct operations, including data centers, corporate offices, and fulfillment centers, ahead of its 2027 goal. The announcement comes as Amazon continues to expand its presence in India, where the company has committed to invest more than $35 billion by 2030 to strengthen AI capabilities, support digital infrastructure development, and boost exports. India is one of the world s most water-stressed regions, as…",
-      "url": "https://www.esgtoday.com/amazon-achieves-water-positive-goal-in-india-ahead-of-2027-target/?utm_source=rss utm_medium=rss utm_campaign=amazon-achieves-water-positive-goal-in-india-ahead-of-2027-target",
-      "publishedAt": "2026-06-24T08:25:25.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Amazon.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "india"
-    },
-    {
       "id": "carbon-brief-ccc-faster-electrification-of-uk-will-pu-2026-06-23",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2420,7 +2503,7 @@
       "tag": "POLICY",
       "accent": "#5eead4",
       "title": "CCC: Faster electrification of UK will ‘put money back into people’s pockets’",
-      "excerpt": "Faster electrification is the best way to secure lower energy bills and stronger energy security, according to the Climate Change Committee (CCC). The government’s official climate advisers have stressed the importance of electrification, noting that electric cars and heat pumps can “put money back into people’s pockets”. Moreover, the UK’s net-zero targets face “significant risks” unless there is faster progress in electrifying cars, heating and industry, according to the CCC’s latest progress report The report notes that the government has closed some…",
+      "excerpt": "Faster electrification is the best way to secure lower energy bills and stronger energy security, according to the Climate Change Committee (CCC). The government’s official climate advisers have stressed the importance of electrification, noting that electric cars and heat pumps can “put money back into people’s pockets”. Moreover, the UK’s net-zero targets face “significant risks” unless there is faster progress in electrifying cars, heating and industry, according to the CCC’s latest progress report . The report notes that the government has closed…",
       "url": "https://www.carbonbrief.org/ccc-faster-electrification-of-uk-will-put-money-back-into-peoples-pockets/",
       "publishedAt": "2026-06-23T23:01:00.000Z",
       "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/transport-buildings-now-uks-biggest-emitters-far.png",
@@ -2568,29 +2651,6 @@
       "region": "world"
     },
     {
-      "id": "carbon-brief-prof-detlef-van-vuuren-the-climate-scien-2026-06-23",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Prof Detlef van Vuuren: The climate scientist most cited by the IPCC",
-      "excerpt": "Detlef van Vuuren is one of the world’s leading climate modellers and, as a result, a high-profile focus of his life’s work – the “ RCP8.5 ” scenario – has recently been targeted as “wrong, wrong, wrong” by Donald Trump. Speaking to Carbon Brief at his office in the Hague, Van Vuuren cuts a serious, but relaxed figure – despite, momentarily, being caught in the white heat of global media attention following the social-media post by the climate-sceptic US president. Leading a team of modellers at PBL Netherlands Environmental Assessment Agency in the…",
-      "url": "https://www.carbonbrief.org/prof-detlef-van-vuuren-the-climate-scientist-most-cited-by-the-ipcc/",
-      "publishedAt": "2026-06-23T13:01:14.000Z",
-      "image": "https://interactive.carbonbrief.org/cosmos/images/detlef-preview-2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Interviews",
-        "feed": "https://www.carbonbrief.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-partners-with-servicenow-and-docus-2026-06-23",
       "source": "verra",
       "sourceName": "Verra",
@@ -2654,52 +2714,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-project-cosmos-2026-06-22",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Project Cosmos",
-      "excerpt": "Welcome to the Project Cosmos homepage. The project was launched by Carbon Brief in June 2026 following an 18-month research and development effort. The aim: to build the world’s largest database of climate change research. Containing more than 1.8 million unique publications linked by 40 million citation relationships, the Cosmos database represents the most complete and expansive mapping of human knowledge on climate change ever assembled. The articles and visuals below will guide you through how the Cosmos database was built, as well as all the…",
-      "url": "https://www.carbonbrief.org/project-cosmos/",
-      "publishedAt": "2026-06-22T13:00:00.000Z",
-      "image": "https://interactive.carbonbrief.org/cosmos/images/cosmos-preview.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Science",
-        "feed": "https://www.carbonbrief.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-mapped-inside-carbon-brief-s-cosmos-data-2026-06-22",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Mapped: Inside Carbon Brief s Cosmos database of 1.8 million climate studies",
-      "excerpt": "This is the vast “cosmos” of academic literature and evidence that underpins humanity’s knowledge of climate change. Every “star” – all 1.8m of them – represents one of the studies inside Carbon Brief’s Cosmos database . The coloured “nebulae” and “galaxies” within this cosmos illustrate where clusters of studies share similar citations and, hence, areas of common academic focus. For example, these two large circled areas resembling “nebulae” represent, at the broadest level, studies centred around the “physical sciences” (blue) and “social sciences”…",
-      "url": "https://www.carbonbrief.org/mapped-inside-carbon-briefs-cosmos-database-of-1-8-million-climate-studies/",
-      "publishedAt": "2026-06-22T13:00:00.000Z",
-      "image": "https://interactive.carbonbrief.org/cosmos/images/cosmos-preview.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Science",
-        "feed": "https://www.carbonbrief.org/feed/",
-        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -2790,28 +2804,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-how-brands-low-t-shirt-pricing-impacts-s-2026-06-18",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "How brands’ low T-shirt pricing impacts supplier labor conditions: report",
-      "excerpt": "Keeping T-shirt prices at unsustainably low levels, despite inflation, spurs negative consequences for workers wages and safety, according to nonprofits Clean Clothes Campaign and Public Eye.",
-      "url": "https://www.esgdive.com/news/brands-low-t-shirt-pricing-impacts-supplier-labor-conditions-clean-clothes-campaign-fast-fashion/823285/",
-      "publishedAt": "2026-06-18T15:46:00.000Z",
-      "image": "https://imgproxy.divecdn.com/zTRuVjQsGKiXrIg9lKyKSSDqp12qvpKaHv4k37QGkos/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjMzODE1OTEwLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -3002,41 +2994,17 @@
       "region": "world"
     },
     {
-      "id": "google-india-ieefa-report-highlights-key-factors-that-2026-06-06",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "IEEFA Report Highlights Key Factors That Will Shape Carbon Prices Under India's New Trading Scheme - SolarQuarter",
-      "excerpt": "As India moves forward with implementing its Carbon Credit Trading Scheme (CCTS), a new report from the Institute for Energy Economics and Financial Analysis explores the factors that will influence carbon price formation and determine how effectively the scheme supports industrial decarbonisation. The report, titled Potential Drivers of Carbon Price Formation in the CCTS: Design and Market Dynamics in the Indian Carbon Market, examines the structure of India s intensity-based emissions trading system, which will initially cover seven industrial sectors…",
-      "url": "https://solarquarter.com/2026/06/06/ieefa-report-highlights-key-factors-that-will-shape-carbon-prices-under-indias-new-trading-scheme/",
-      "publishedAt": "2026-06-06T07:00:00.000Z",
-      "image": "https://solarquarter.com/wp-content/uploads/2022/10/17-3.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmllSWdIYTh2cHJGOHJwRUhkc0laNmhGQ3ExTHd2ZS1CQkRsSnlxWFpGUlA5UWNQODJtTElaSUJmUmMtN3Jyc2YwQ2gza0RSQXZYZ1dzcWVJTGVOVnlRMlg2UUZpeHZqdE9FLS1QZW9UWmd5V0h6U1ZveTZYVURRZ1h1YkpIanpoLWxITzR0cThQU2JyelByZml4N19XMU1MbktrWWpJQlZDMWVNSmVCc2xzRXlaaURXZV9ENHRiaTlmd2FCaGp0cjhzV2w0aGM?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-      "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
-      "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
+      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD News",
+      "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week DD News",
+      "url": "https://ddnews.gov.in/en/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
       "publishedAt": "2026-06-05T07:00:00.000Z",
-      "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3044,8 +3012,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWRNZFVKLWdfd2tCSGtMYVN1MElGRzdEdDJZYXA2ZlRlRThRaUxkd1hKVEFNbzlpcWhOVXdFODBtZlREdHN6TWctTk05Q3VlX3JIS1NOMWRyY2RNTk1fYThuaGZXTm5yT1I0MVNnZFJQbm9pdkVBUmR2V3NwdGcwQUQxYmVDQVB1YzhBaTFlUGdPeGVxeVZ0cy1hY1ZoTmNNT2dGcU93bw?oc=5"
       },
       "region": "india"
     },
@@ -3097,30 +3064,6 @@
         "program": "Verified Carbon Standard"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-building-trust-in-india-s-carbon-market--2026-05-31",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Building trust in India’s carbon market | Hindustan Times - Hindustan Times",
-      "excerpt": "E-Paper Subscribe Subscribe Enjoy unlimited access Subscribe Now! Get features like India’s climate policy is entering a decisive phase. The Union Budget 2026 allocated ₹ 20,000 crore for Carbon Capture and Utilisation (CCU) in hard-to-abate sectors. The focus has now shifted from ambition to execution. Whether driven by industrial carbon capture or carbon markets, credibility and measurability are now central to India’s climate strategy. Carbon (Getty Images/iStockphoto) India’s Carbon Credit Trading Scheme (CCTS), launched under the Energy…",
-      "url": "https://www.hindustantimes.com/ht-insight/climate-change/building-trust-in-india-s-carbon-market-101780154540297.html",
-      "publishedAt": "2026-05-31T07:00:00.000Z",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/05/30/550x309/eaa70b94-624b-11ec-b033-bfb7d2010c4a_1640084070662_1780154677128_ab2c2b02-b0d2-4d22-a05d-6227a3a5450e.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWV8yaC04Q3p0WklRNWVyZ2E2MVNFZ3hsQ245UUtGUGpfSmhvWWR0WkltU2NzY1pld0MtUWpzY25KRGxOT01QNmpSakhWU2pxaU5HMzNuQU1EUk1leldadUJVZS1fNmJ1Njg1c044R0JONm9tcFZPOXNGZGFsVW1VYnVtUzRpYXhiY0hQeE1XXzJLMUJWN1llOVlkeFBJZXVCNkpuZnVPRHNuTGxKMzRXOWJnUU5fVlpl0gG-AUFVX3lxTE1nM1RyVHExR3VPZkRuUndZVmd0WHV5LXVrUklUQ0w5YmVEYmhWSjRGMkZ5LXNWNVU4bXlPZ3pPaFQ5R21UaFQwdHRBSTZyZUM1Wm9KaXFJWEIxVUFLVDJGOVNFMkVBZDlFOWtyak1laE5FNGNWWGJxQXJNYkxRc3Bfc013YjNGS0FPZVB4V1FaY2lBSFFvZ0pTZVdzREhOd1dSRTZTdnRwYnp5d0ktbnlCdEM1M09BN0pzcVVwOHc?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "verra-vcs-6048",
@@ -3793,30 +3736,6 @@
       "region": "india"
     },
     {
-      "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-      "excerpt": "Insights Latest AI insights: GenAI, agentic AI and AI trends People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time…",
-      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
-      "publishedAt": "2026-04-03T07:24:04.000Z",
-      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "verra-vcs-5977",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -4008,6 +3927,30 @@
       "region": "india"
     },
     {
+      "id": "google-india-how-ccts-is-accelerating-india-inc-s-rac-2026-01-08",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "How CCTS is accelerating India Inc.’s race to decarbonize - EY",
+      "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
+      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize",
+      "publishedAt": "2026-01-08T08:00:00.000Z",
+      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-ccts-banner.png",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFpleHAtN1I5eHA0T1R1czlGa0NDVVIxSlNqbWpCUTFGd25MTEtmdGhqT0FBa2Q2X2tRZGFzNUdsSDBRMzdwSGFmNl9TSFd3dWI0ZHJENVRielZkYU4zaUVtSGpxWkZCZzQ3MDFwT2Y0TWhxNDNqSVgxOEE5VnBhcmhyV3h6cWRXTTJNMTJheFNjUkZWOWNkWDE4azdyZEhwTnliandnN3F4ZzAtQVU5TmpNYTM2T1VyeXNJM1ZEUzdnSTNjbFNScg?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -4052,6 +3995,53 @@
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-why-india-s-carbon-market-needs-a-price--2025-11-10",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Why India’s carbon market needs a price stability mechanism for its new Carbon Credit Trading Scheme - The World Economic Forum",
+      "excerpt": "Why India’s carbon market needs a price stability mechanism for its new Carbon Credit Trading Scheme The World Economic Forum",
+      "url": "https://www.weforum.org/stories/2025/11/why-india-s-carbon-market-needs-a-price-stability-mechanism/",
+      "publishedAt": "2025-11-10T08:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWFR2SzIxckZ3UTdBZUV0Sy00eHo1LXMxOVBZd0dxR3l1bFFlbF9fenpBemlSQXJVMmxjQ1FOcXVad2VOU1dHUzExazRLVWRGWndfLW0wVUR2LWpEVGxVdFZGYl9TUV9vNVFoUnZ3bkUxVHFiX1hrd3ZqSXdPTGZ0R2FfRFJuLXVjbFBMNXZ5c2E3SjZoMnFHYURiZlFNTDJkeEE?oc=5"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-the-case-for-a-stability-mechanism-in-in-2025-10-30",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "The case for a stability mechanism in India’s carbon market - Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language Energy Policy Energy Transition &…",
+      "url": "https://ieefa.org/articles/case-stability-mechanism-indias-carbon-market",
+      "publishedAt": "2025-10-30T07:00:00.000Z",
+      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2025-10/hero%20graphic%20%284%29.jpg?itok=Q538r300",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OcUlTVUZibUVMLXljU2lHNGlpaENia0pkelNQSVhZZi1EcUJyTFBNYmNsUHU5czlENW1fb1ZTdU5aSzY0MGJwNDd6SWJWYWV1bEdLWnJHOXRMT20tZkZVNmhHa0U5Y2FkbkpsMGo5dGo1emFGOHA1T0dYN1Q?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
