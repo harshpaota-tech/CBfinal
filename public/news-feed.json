@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-25T05:00:08.532Z",
+  "fetchedAt": "2026-06-25T10:17:58.237Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 87,
-    "india": 25,
-    "world": 62,
-    "withImages": 54,
-    "avgExcerptLength": 418,
+    "india": 24,
+    "world": 63,
+    "withImages": 56,
+    "avgExcerptLength": 428,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -154,11 +154,11 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD News",
-        "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week DD News",
-        "url": "https://ddnews.gov.in/en/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
+        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
+        "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
+        "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
         "publishedAt": "2026-06-05T07:00:00.000Z",
-        "image": null,
+        "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -166,7 +166,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWRNZFVKLWdfd2tCSGtMYVN1MElGRzdEdDJZYXA2ZlRlRThRaUxkd1hKVEFNbzlpcWhOVXdFODBtZlREdHN6TWctTk05Q3VlX3JIS1NOMWRyY2RNTk1fYThuaGZXTm5yT1I0MVNnZFJQbm9pdkVBUmR2V3NwdGcwQUQxYmVDQVB1YzhBaTFlUGdPeGVxeVZ0cy1hY1ZoTmNNT2dGcU93bw?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -239,31 +240,6 @@
           "region": "Asia",
           "creditingPeriodStart": "2025-06-06",
           "creditingPeriodEnd": "2032-06-05",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "india"
-      },
-      {
-        "id": "verra-vcs-6045",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd.",
-        "excerpt": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd. is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under development\". It applies AMS-I.F.; AMS-III.D. methodology. Estimated annual emission reductions are 12,284 tonnes CO₂ equivalent per year. Project proponent: Asvata Climate Solutions Private Limited. Crediting period runs 2025-10-15 to 2032-10-14.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6045",
-        "publishedAt": "2026-05-28T00:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": "AMS-I.F.; AMS-III.D.",
-        "registryId": "6045",
-        "status": "Under development",
-        "meta": {
-          "proponent": "Asvata Climate Solutions Private Limited",
-          "region": "Asia",
-          "creditingPeriodStart": "2025-10-15",
-          "creditingPeriodEnd": "2032-10-14",
           "program": "Verified Carbon Standard"
         },
         "region": "india"
@@ -520,10 +496,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market - carboncopy.info",
-        "excerpt": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market carboncopy.info",
+        "excerpt": "If a carbon market is a financial system for emissions, then data is its collateral. Credible data is the bedrock on which market legitimacy rests. India is laying the foundation stones of a national compliance carbon market. The market design features and regulatory systems are progressively under development, and industries are starting to prepare for the market. Much of the conversation so far has focused on targets, sectors, and trading rules. These are of course important — but the strongest foundation of an effective carbon market is something far…",
         "url": "https://carboncopy.info/data-is-the-new-collateral-building-a-high-fidelity-indian-carbon-market",
         "publishedAt": "2026-03-24T07:00:00.000Z",
-        "image": null,
+        "image": "https://cms.carboncopy.info/assets/780300ce-9cf3-4ddb-9e33-d8fc1dccee06",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -531,7 +507,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -655,6 +632,94 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-uk-to-introduce-mandatory-supply-chains--2026-06-25",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "UK to Introduce Mandatory Supply Chains Deforestation Due Diligence Rules",
+        "excerpt": "The UK Government announced plans to introduce new regulations requiring businesses to ensure that their supply chains are not contributing to illegal deforestation, including new mandatory due diligence requirements, with a consultation on the new rules to be launched this year. The government said that its approach will propose covering the same core commodities and underlying information requirements to be used in the EU’s Deforestation Regulation (EUDR), in order to help businesses avoid administrative duplication and to enable consistent data and…",
+        "url": "https://www.esgtoday.com/uk-to-introduce-mandatory-supply-chains-deforestation-due-diligence-rules/?utm_source=rss utm_medium=rss utm_campaign=uk-to-introduce-mandatory-supply-chains-deforestation-due-diligence-rules",
+        "publishedAt": "2026-06-25T10:17:09.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/UK-Dept-for-environment2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-water-has-a-financing-problem-blue-bonds-2026-06-25",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Water Has a Financing Problem. Blue Bonds Can Fix It.",
+        "excerpt": "As the U.S. water sector faces the challenges of aging infrastructure, worsening drought, contamination, and millions lacking clean water, an urgent need has emerged for a dedicated financing solution. The standard instrument used for funding environmental projects — green bonds — permit water projects but don t prioritize them, leaving water infrastructure to compete for proceeds against larger, better-understood energy transition investments and consistently losing. Now is the moment for the U.S. to build a real market for blue bonds, dedicated…",
+        "url": "https://www.esgtoday.com/water-has-a-financing-problem-blue-bonds-can-fix-it/?utm_source=rss utm_medium=rss utm_campaign=water-has-a-financing-problem-blue-bonds-can-fix-it",
+        "publishedAt": "2026-06-25T08:58:20.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Xylem-Miller.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-climeworks-signs-450-000-tons-of-carbon--2026-06-25",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Climeworks Signs 450,000 Tons of Carbon Removal Agreements",
+        "excerpt": "Zurich-based Carbon removal solutions provider Climeworks announced that its carbon dioxide removal (CDR) portfolio service, Climeworks Solutions, has signed 14 new carbon removal deals in the first half of 2026, totaling 450,000 tons of CDR across a range of technologies. Founded in 2009 by Christoph Gebald and Jan Wurzbacher, Zurich-based Climeworks provides companies with carbon removal solutions, including its own DAC technology, with the company operating the world’s first two DAC plants. In 2024, Climeworks announced the launch of Climeworks…",
+        "url": "https://www.esgtoday.com/climeworks-signs-450000-tons-of-carbon-removal-agreements/?utm_source=rss utm_medium=rss utm_campaign=climeworks-signs-450000-tons-of-carbon-removal-agreements",
+        "publishedAt": "2026-06-25T08:39:38.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Climeworks4.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-guest-post-how-us-renewable-energy-growt-2026-06-25",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "Guest post: How US renewable-energy growth persists despite federal policy uncertainty",
+        "excerpt": "Despite recent shifts in federal energy policies, our analysis shows that the US transition to renewable energy is continuing. The current administration has enacted a range of changes to prioritise fossil-fuel energy and environmental deregulation in the US, while withdrawing support for renewables. Yet solar, wind and battery storage accounted for over 90% of new energy capacity in 2025. This is thanks to the falling cost of renewable energy technologies, investments spurred by the Inflation Reduction Act and Bipartisan Infrastructure Law and local…",
+        "url": "https://www.carbonbrief.org/guest-post-how-us-renewable-energy-growth-persists-despite-federal-policy-uncertainty/",
+        "publishedAt": "2026-06-25T08:38:25.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/demand-accelerating-01.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-microsoft-claims-2025-water-replenishmen-2026-06-24",
         "source": "esg-dive",
@@ -1033,72 +1098,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-lego-launches-solar-project-to-provide-1-2026-06-23",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "LEGO Launches Solar Project to Provide 100% of Electricity for Denmark Headquarters",
-        "excerpt": "The LEGO Group announced the launch of construction of its largest solar park to date near its headquarters in Billund, Denmark, anticipated to generate enough renewable electricity to match 100% of the company’s total electricity consumption in Billund. The company has several sites in Billund, including its LEGO Campus, the Kornmarken manufacturing plant, Our LEGO Agency (OLA) in-house creative agency, and Innovation House, among others. The new solar park, scheduled to begin operations in late 2027, will have an installed capacity of 116 MW, and is…",
-        "url": "https://www.esgtoday.com/lego-launches-solar-park-to-provide-100-of-electricity-for-denmark-headquarters/?utm_source=rss utm_medium=rss utm_campaign=lego-launches-solar-park-to-provide-100-of-electricity-for-denmark-headquarters",
-        "publishedAt": "2026-06-23T12:10:08.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Lego-HQ.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-isometric-raises-40-million-to-expand-in-2026-06-23",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Isometric Raises $40 Million to Expand Industrial Certification Platform Beyond Carbon Removal",
-        "excerpt": "Industrial certification provider Isometric announced that it has raised $40 million in a Series A funding round, as the company seeks to extend its AI-powered certification platform, focused to date primarily on carbon markets, across the industrial economy. According to Isometric, the new funding comes as industrial sectors face growing complexity in certification and compliance processes, with AI, automation, and decarbonization projects often assessed across a fragmented landscape of registries, certifiers, and standards bodies, each employing…",
-        "url": "https://www.esgtoday.com/isometric-raises-40-million-to-expand-industrial-certification-platform-beyond-carbon-markets/?utm_source=rss utm_medium=rss utm_campaign=isometric-raises-40-million-to-expand-industrial-certification-platform-beyond-carbon-markets",
-        "publishedAt": "2026-06-23T11:45:44.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Isometric-Jubbawy.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-eba-simplifies-esg-reporting-for-banks-e-2026-06-23",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EBA Simplifies ESG Reporting for Banks, Extends Disclosure Requirements to Smaller Institutions for First Time",
-        "excerpt": "EU banking supervisor The European Banking Authority (EBA) announced the publication of its finalized draft Implementing Technical Standards (ITS) updating Pillar 3 disclosure requirements on ESG risks for banks, including significant simplification and streamlining of requirements for large banks, while for the first time extending the scope of ESG reporting requirements – in a proportionate manner – to all banks, including smaller institutions. The new finalized draft ITS would reduce the number of ESG risk-related reporting datapoints for large…",
-        "url": "https://www.esgtoday.com/eba-simplifies-esg-reporting-for-banks-extends-disclosure-requirements-to-smaller-institutions-for-first-time/?utm_source=rss utm_medium=rss utm_campaign=eba-simplifies-esg-reporting-for-banks-extends-disclosure-requirements-to-smaller-institutions-for-first-time",
-        "publishedAt": "2026-06-23T11:10:28.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/EBA2-1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-frontier-climate-adds-anthropic-to-buyer-2026-06-22",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -1177,29 +1176,6 @@
         "url": "https://www.carbonbrief.org/mapped-inside-carbon-briefs-cosmos-database-of-1-8-million-climate-studies/",
         "publishedAt": "2026-06-22T13:00:00.000Z",
         "image": "https://interactive.carbonbrief.org/cosmos/images/cosmos-preview.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Science",
-          "feed": "https://www.carbonbrief.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-carbon-brief-s-ranking-of-the-most-highl-2026-06-22",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Carbon Brief’s ranking of the most highly cited climate publications",
-        "excerpt": "The most highly cited publications in Carbon Brief’s Cosmos database reveal the building blocks supporting so many elements of climate science. Every year, thousands of new scientific documents are published, from studies and reports to books and assessments. Carbon Brief’s Project Cosmos pulls together the “universe” of climate research, spanning 1.8m publications from almost a century of scientific endeavor. Research publications are linked through citations – where one study references others, perhaps using their methods, confirming their results or…",
-        "url": "https://www.carbonbrief.org/carbon-briefs-ranking-of-the-most-highly-cited-climate-publications/",
-        "publishedAt": "2026-06-22T13:00:00.000Z",
-        "image": "https://interactive.carbonbrief.org/cosmos/images/publications-preview.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1667,8 +1643,8 @@
         "type": "registry",
         "tag": "VCS PROJECT",
         "accent": "#86efac",
-        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra",
-        "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
+        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
+        "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
         "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
         "publishedAt": "2026-04-27T00:00:00.000Z",
         "image": null,
@@ -1960,6 +1936,31 @@
         "region": "world"
       },
       {
+        "id": "verra-vcs-5977",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Electric Mobility Program Chile VCS",
+        "excerpt": "Electric Mobility Program Chile VCS is a Verified Carbon Standard (VCS) project registered on the Verra registry in Chile. The project is currently listed as \"Under validation\". It applies VMR0014; VM0038 methodology. Estimated annual emission reductions are 9,90,000 tonnes CO₂ equivalent per year. Project proponent: Zeroca B.V.. Crediting period runs 2025-01-01 to 2034-12-31.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/5977",
+        "publishedAt": "2026-04-02T00:00:00.000Z",
+        "image": null,
+        "country": "Chile",
+        "methodology": "VMR0014; VM0038",
+        "registryId": "5977",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Zeroca B.V.",
+          "region": "Latin America",
+          "creditingPeriodStart": "2025-01-01",
+          "creditingPeriodEnd": "2034-12-31",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2103,6 +2104,94 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-uk-to-introduce-mandatory-supply-chains--2026-06-25",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "UK to Introduce Mandatory Supply Chains Deforestation Due Diligence Rules",
+      "excerpt": "The UK Government announced plans to introduce new regulations requiring businesses to ensure that their supply chains are not contributing to illegal deforestation, including new mandatory due diligence requirements, with a consultation on the new rules to be launched this year. The government said that its approach will propose covering the same core commodities and underlying information requirements to be used in the EU’s Deforestation Regulation (EUDR), in order to help businesses avoid administrative duplication and to enable consistent data and…",
+      "url": "https://www.esgtoday.com/uk-to-introduce-mandatory-supply-chains-deforestation-due-diligence-rules/?utm_source=rss utm_medium=rss utm_campaign=uk-to-introduce-mandatory-supply-chains-deforestation-due-diligence-rules",
+      "publishedAt": "2026-06-25T10:17:09.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/UK-Dept-for-environment2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-water-has-a-financing-problem-blue-bonds-2026-06-25",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Water Has a Financing Problem. Blue Bonds Can Fix It.",
+      "excerpt": "As the U.S. water sector faces the challenges of aging infrastructure, worsening drought, contamination, and millions lacking clean water, an urgent need has emerged for a dedicated financing solution. The standard instrument used for funding environmental projects — green bonds — permit water projects but don t prioritize them, leaving water infrastructure to compete for proceeds against larger, better-understood energy transition investments and consistently losing. Now is the moment for the U.S. to build a real market for blue bonds, dedicated…",
+      "url": "https://www.esgtoday.com/water-has-a-financing-problem-blue-bonds-can-fix-it/?utm_source=rss utm_medium=rss utm_campaign=water-has-a-financing-problem-blue-bonds-can-fix-it",
+      "publishedAt": "2026-06-25T08:58:20.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Xylem-Miller.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-climeworks-signs-450-000-tons-of-carbon--2026-06-25",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Climeworks Signs 450,000 Tons of Carbon Removal Agreements",
+      "excerpt": "Zurich-based Carbon removal solutions provider Climeworks announced that its carbon dioxide removal (CDR) portfolio service, Climeworks Solutions, has signed 14 new carbon removal deals in the first half of 2026, totaling 450,000 tons of CDR across a range of technologies. Founded in 2009 by Christoph Gebald and Jan Wurzbacher, Zurich-based Climeworks provides companies with carbon removal solutions, including its own DAC technology, with the company operating the world’s first two DAC plants. In 2024, Climeworks announced the launch of Climeworks…",
+      "url": "https://www.esgtoday.com/climeworks-signs-450000-tons-of-carbon-removal-agreements/?utm_source=rss utm_medium=rss utm_campaign=climeworks-signs-450000-tons-of-carbon-removal-agreements",
+      "publishedAt": "2026-06-25T08:39:38.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Climeworks4.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-guest-post-how-us-renewable-energy-growt-2026-06-25",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "POLICY",
+      "accent": "#5eead4",
+      "title": "Guest post: How US renewable-energy growth persists despite federal policy uncertainty",
+      "excerpt": "Despite recent shifts in federal energy policies, our analysis shows that the US transition to renewable energy is continuing. The current administration has enacted a range of changes to prioritise fossil-fuel energy and environmental deregulation in the US, while withdrawing support for renewables. Yet solar, wind and battery storage accounted for over 90% of new energy capacity in 2025. This is thanks to the falling cost of renewable energy technologies, investments spurred by the Inflation Reduction Act and Bipartisan Infrastructure Law and local…",
+      "url": "https://www.carbonbrief.org/guest-post-how-us-renewable-energy-growth-persists-despite-federal-policy-uncertainty/",
+      "publishedAt": "2026-06-25T08:38:25.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/demand-accelerating-01.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-dive-microsoft-claims-2025-water-replenishmen-2026-06-24",
       "source": "esg-dive",
@@ -2525,72 +2614,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-lego-launches-solar-project-to-provide-1-2026-06-23",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "LEGO Launches Solar Project to Provide 100% of Electricity for Denmark Headquarters",
-      "excerpt": "The LEGO Group announced the launch of construction of its largest solar park to date near its headquarters in Billund, Denmark, anticipated to generate enough renewable electricity to match 100% of the company’s total electricity consumption in Billund. The company has several sites in Billund, including its LEGO Campus, the Kornmarken manufacturing plant, Our LEGO Agency (OLA) in-house creative agency, and Innovation House, among others. The new solar park, scheduled to begin operations in late 2027, will have an installed capacity of 116 MW, and is…",
-      "url": "https://www.esgtoday.com/lego-launches-solar-park-to-provide-100-of-electricity-for-denmark-headquarters/?utm_source=rss utm_medium=rss utm_campaign=lego-launches-solar-park-to-provide-100-of-electricity-for-denmark-headquarters",
-      "publishedAt": "2026-06-23T12:10:08.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Lego-HQ.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-isometric-raises-40-million-to-expand-in-2026-06-23",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Isometric Raises $40 Million to Expand Industrial Certification Platform Beyond Carbon Removal",
-      "excerpt": "Industrial certification provider Isometric announced that it has raised $40 million in a Series A funding round, as the company seeks to extend its AI-powered certification platform, focused to date primarily on carbon markets, across the industrial economy. According to Isometric, the new funding comes as industrial sectors face growing complexity in certification and compliance processes, with AI, automation, and decarbonization projects often assessed across a fragmented landscape of registries, certifiers, and standards bodies, each employing…",
-      "url": "https://www.esgtoday.com/isometric-raises-40-million-to-expand-industrial-certification-platform-beyond-carbon-markets/?utm_source=rss utm_medium=rss utm_campaign=isometric-raises-40-million-to-expand-industrial-certification-platform-beyond-carbon-markets",
-      "publishedAt": "2026-06-23T11:45:44.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Isometric-Jubbawy.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-eba-simplifies-esg-reporting-for-banks-e-2026-06-23",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EBA Simplifies ESG Reporting for Banks, Extends Disclosure Requirements to Smaller Institutions for First Time",
-      "excerpt": "EU banking supervisor The European Banking Authority (EBA) announced the publication of its finalized draft Implementing Technical Standards (ITS) updating Pillar 3 disclosure requirements on ESG risks for banks, including significant simplification and streamlining of requirements for large banks, while for the first time extending the scope of ESG reporting requirements – in a proportionate manner – to all banks, including smaller institutions. The new finalized draft ITS would reduce the number of ESG risk-related reporting datapoints for large…",
-      "url": "https://www.esgtoday.com/eba-simplifies-esg-reporting-for-banks-extends-disclosure-requirements-to-smaller-institutions-for-first-time/?utm_source=rss utm_medium=rss utm_campaign=eba-simplifies-esg-reporting-for-banks-extends-disclosure-requirements-to-smaller-institutions-for-first-time",
-      "publishedAt": "2026-06-23T11:10:28.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/EBA2-1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-frontier-climate-adds-anthropic-to-buyer-2026-06-22",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2669,29 +2692,6 @@
       "url": "https://www.carbonbrief.org/mapped-inside-carbon-briefs-cosmos-database-of-1-8-million-climate-studies/",
       "publishedAt": "2026-06-22T13:00:00.000Z",
       "image": "https://interactive.carbonbrief.org/cosmos/images/cosmos-preview.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Science",
-        "feed": "https://www.carbonbrief.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-carbon-brief-s-ranking-of-the-most-highl-2026-06-22",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Carbon Brief’s ranking of the most highly cited climate publications",
-      "excerpt": "The most highly cited publications in Carbon Brief’s Cosmos database reveal the building blocks supporting so many elements of climate science. Every year, thousands of new scientific documents are published, from studies and reports to books and assessments. Carbon Brief’s Project Cosmos pulls together the “universe” of climate research, spanning 1.8m publications from almost a century of scientific endeavor. Research publications are linked through citations – where one study references others, perhaps using their methods, confirming their results or…",
-      "url": "https://www.carbonbrief.org/carbon-briefs-ranking-of-the-most-highly-cited-climate-publications/",
-      "publishedAt": "2026-06-22T13:00:00.000Z",
-      "image": "https://interactive.carbonbrief.org/cosmos/images/publications-preview.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3032,11 +3032,11 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD News",
-      "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week DD News",
-      "url": "https://ddnews.gov.in/en/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
+      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
+      "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
+      "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
       "publishedAt": "2026-06-05T07:00:00.000Z",
-      "image": null,
+      "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3044,7 +3044,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWRNZFVKLWdfd2tCSGtMYVN1MElGRzdEdDJZYXA2ZlRlRThRaUxkd1hKVEFNbzlpcWhOVXdFODBtZlREdHN6TWctTk05Q3VlX3JIS1NOMWRyY2RNTk1fYThuaGZXTm5yT1I0MVNnZFJQbm9pdkVBUmR2V3NwdGcwQUQxYmVDQVB1YzhBaTFlUGdPeGVxeVZ0cy1hY1ZoTmNNT2dGcU93bw?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -3142,31 +3143,6 @@
         "region": "Asia",
         "creditingPeriodStart": "2025-06-06",
         "creditingPeriodEnd": "2032-06-05",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "india"
-    },
-    {
-      "id": "verra-vcs-6045",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd.",
-      "excerpt": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd. is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under development\". It applies AMS-I.F.; AMS-III.D. methodology. Estimated annual emission reductions are 12,284 tonnes CO₂ equivalent per year. Project proponent: Asvata Climate Solutions Private Limited. Crediting period runs 2025-10-15 to 2032-10-14.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6045",
-      "publishedAt": "2026-05-28T00:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": "AMS-I.F.; AMS-III.D.",
-      "registryId": "6045",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Asvata Climate Solutions Private Limited",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-10-15",
-        "creditingPeriodEnd": "2032-10-14",
         "program": "Verified Carbon Standard"
       },
       "region": "india"
@@ -3377,8 +3353,8 @@
       "type": "registry",
       "tag": "VCS PROJECT",
       "accent": "#86efac",
-      "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra",
-      "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
+      "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
+      "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
       "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
       "publishedAt": "2026-04-27T00:00:00.000Z",
       "image": null,
@@ -3841,6 +3817,31 @@
       "region": "india"
     },
     {
+      "id": "verra-vcs-5977",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Electric Mobility Program Chile VCS",
+      "excerpt": "Electric Mobility Program Chile VCS is a Verified Carbon Standard (VCS) project registered on the Verra registry in Chile. The project is currently listed as \"Under validation\". It applies VMR0014; VM0038 methodology. Estimated annual emission reductions are 9,90,000 tonnes CO₂ equivalent per year. Project proponent: Zeroca B.V.. Crediting period runs 2025-01-01 to 2034-12-31.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/5977",
+      "publishedAt": "2026-04-02T00:00:00.000Z",
+      "image": null,
+      "country": "Chile",
+      "methodology": "VMR0014; VM0038",
+      "registryId": "5977",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "Zeroca B.V.",
+        "region": "Latin America",
+        "creditingPeriodStart": "2025-01-01",
+        "creditingPeriodEnd": "2034-12-31",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-carbon-global-blue-carbon-market-to-reach-usd-1-2026-03-25",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -3872,10 +3873,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market - carboncopy.info",
-      "excerpt": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market carboncopy.info",
+      "excerpt": "If a carbon market is a financial system for emissions, then data is its collateral. Credible data is the bedrock on which market legitimacy rests. India is laying the foundation stones of a national compliance carbon market. The market design features and regulatory systems are progressively under development, and industries are starting to prepare for the market. Much of the conversation so far has focused on targets, sectors, and trading rules. These are of course important — but the strongest foundation of an effective carbon market is something far…",
       "url": "https://carboncopy.info/data-is-the-new-collateral-building-a-high-fidelity-indian-carbon-market",
       "publishedAt": "2026-03-24T07:00:00.000Z",
-      "image": null,
+      "image": "https://cms.carboncopy.info/assets/780300ce-9cf3-4ddb-9e33-d8fc1dccee06",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3883,7 +3884,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
