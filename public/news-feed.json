@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-26T10:25:34.268Z",
+  "fetchedAt": "2026-06-26T15:22:34.114Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,60 +47,14 @@
     "total": 87,
     "india": 22,
     "world": 65,
-    "withImages": 55,
-    "avgExcerptLength": 425,
+    "withImages": 57,
+    "avgExcerptLength": 436,
     "verra": 10,
     "registry": 25,
     "esg": 52
   },
   "sections": {
     "india": [
-      {
-        "id": "carbon-brief-cited-23-june-2026-project-cosmos-launch-2026-06-23",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Cited 23 June 2026: Project Cosmos launch Science ‘under attack’ at Bonn Emissions inequality",
-        "excerpt": "Welcome to Cited, your essential guide to new climate research. SCIENCE ‘UNDER ATTACK’: Climate Home News reported that “dozens” of countries called out “coordinated attacks” aimed at “undermining the role of climate science” at UN climate talks in Bonn, Germany, last week. According to the outlet, the countries said that UN decision-making had to remain based on the “best available science”, including the reports of the Intergovernmental Panel on Climate Change. One negotiator said that India and Saudi Arabia “opposed calls in draft texts to encourage…",
-        "url": "https://www.carbonbrief.org/cited-23-june-project-cosmos-launch-science-under-attack-at-bonn-emissions-inequality/",
-        "publishedAt": "2026-06-23T14:07:41.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/mono-headline.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Science",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-gaining-momentum-green-hydrogen-emerges--2026-06-11",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition - Renewable Watch Magazine",
-        "excerpt": "Green hydrogen is emerging as a key pillar of India’s transition towards a low-carbon economy, with the country increasingly focusing on building a domestic production and manufacturing ecosystem. Backed by India’s rapidly expanding renewable energy capacity, the sector is witnessing growing momentum with developments across the entire value chain. Falling renewable energy costs, technological advancements in electrolysers and rising global demand for low-carbon fuels and derivatives are further strengthening the business case for green hydrogen in…",
-        "url": "https://renewablewatch.in/2026/06/11/gaining-momentum-green-hydrogen-emerges-as-a-key-pillar-of-indias-energy-transition/",
-        "publishedAt": "2026-06-11T07:00:00.000Z",
-        "image": "https://renewablewatch.in/wp-content/uploads/2026/06/36-e1780380253365.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRGYzWjJVeXNkbzdpcE11TFBlUzVyUFN5SnV0eWRQRVdBeWdyY3plXzhtVlo0T0hReW4yTWV0V0N6YTJRMjlTZUVnQ3AtcjZLYzNrWmpsYnJZMlBJZWFCX08tYXVzZG5BRmxXak80YzJ3bFIxS1dmOERnTURUWmdfOHJXVXY2NUFMOWpkQ0l6Q1VrYlljdWtsRm9rZ1ZUYXMwbC16SlpqZVV1bEh4OHZUUUVIek94QVRCd0dFbXJn?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
       {
         "id": "google-india-ieefa-report-highlights-key-factors-that-2026-06-06",
         "source": "google-india",
@@ -247,6 +201,29 @@
         "region": "india"
       },
       {
+        "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
+        "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
+        "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
+        "publishedAt": "2026-05-25T07:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
+        },
+        "region": "india"
+      },
+      {
         "id": "verra-vcs-6032",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -346,29 +323,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
-        "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
-        "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
-        "publishedAt": "2026-04-14T07:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
-        },
-        "region": "india"
-      },
-      {
         "id": "verra-vcs-5986",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -449,10 +403,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market - carboncopy.info",
-        "excerpt": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market carboncopy.info",
+        "excerpt": "If a carbon market is a financial system for emissions, then data is its collateral. Credible data is the bedrock on which market legitimacy rests. India is laying the foundation stones of a national compliance carbon market. The market design features and regulatory systems are progressively under development, and industries are starting to prepare for the market. Much of the conversation so far has focused on targets, sectors, and trading rules. These are of course important — but the strongest foundation of an effective carbon market is something far…",
         "url": "https://carboncopy.info/data-is-the-new-collateral-building-a-high-fidelity-indian-carbon-market",
         "publishedAt": "2026-03-24T07:00:00.000Z",
-        "image": null,
+        "image": "https://cms.carboncopy.info/assets/780300ce-9cf3-4ddb-9e33-d8fc1dccee06",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -460,7 +414,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -535,6 +490,30 @@
         "region": "india"
       },
       {
+        "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
+        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+        "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
+        "publishedAt": "2026-01-02T08:44:45.000Z",
+        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -581,9 +560,165 @@
           "imageSource": "publisher"
         },
         "region": "india"
+      },
+      {
+        "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Hydrogen Horizons: Unlocking the Power of the Universe for Clean Mobility - TheCSRUniverse",
+        "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The global transition to clean energy has positioned hydrogen as a frontrunner in the race to decarbonize transportation. As…",
+        "url": "https://thecsruniverse.com/articles/hydrogen-horizons-unlocking-the-power-of-the-universe-for-clean-mobility",
+        "publishedAt": "2025-05-07T07:00:00.000Z",
+        "image": "https://thecsruniverse.com/adminxsafe/uploads/20260516055652",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWYweWJqMjBTSzcwc0kzSUlnVTJfQ1RDaHRLalB4dFlKb1VpVUZaa2NBM1pOYk1XRnFISUkwWF9jWHBfQ0pJUy00aVdmYmYtUFZXTkF3bWh0U3BuaXVzNFMzXzllcll5cDdCQUxNVmMxWDlkLVh4b3JnWVh2Qy01YmNZVkQwWGxQVXg3NkVtZk0xUWNqdEhSNmV3MFk0THh2ZDFDNEpBaEFhTGZV?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
       }
     ],
     "world": [
+      {
+        "id": "carbon-brief-debriefed-26-june-2026-heat-records-brok-2026-06-26",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "DeBriefed 26 June 2026: Heat records broken across Europe London climate action week Introducing ‘Project Cosmos’",
+        "excerpt": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week s key developments relating to climate change. HOTTEST EVER: The UK broke its temperature record for June twice this week, while France recorded its hottest day ever two days in a row, reported the Guardian . The Times reported that temperatures reached 36.7C in Somerset on Thursday, as the “London Ambulance Service had its busiest-ever day for life-threatening emergencies”. FRANCE FRYING: French newspaper Libération said that temperatures reached as high as 44.3C in the south-western…",
+        "url": "https://www.carbonbrief.org/debriefed-26-june-2026-heat-records-broken-across-europe-london-climate-action-week-introducing-project-cosmos/",
+        "publishedAt": "2026-06-26T14:27:07.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Electrification1__is_the_key_theme_of_this_year_s_CCC_report-scaled.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "DeBriefed",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-q-a-what-change-of-power-in-colombia-cou-2026-06-26",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "Q A: What change of power in Colombia could mean for world’s fossil-fuel transition",
+        "excerpt": "Over the last four years, Colombia has emerged as one of the most vocal advocates for the world to transition away from fossil fuels. Under the leadership of leftist politician and economist Gustavo Petro, it became the first major oil-and-gas producer to commit to halting all new fossil-fuel expansion. In April, the nation hosted a first-of-its-kind meeting of countries on transitioning away from fossil fuels, alongside the Netherlands, in the Caribbean city of Santa Marta. The meeting concluded with a promise for a new “Santa Marta process”…",
+        "url": "https://www.carbonbrief.org/qa-what-change-of-power-in-colombia-could-mean-for-worlds-fossil-fuel-transition/",
+        "publishedAt": "2026-06-26T14:04:53.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-2.46.30-PM.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "International policy",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-mirova-appoints-l-a-dunand-chatellet-as--2026-06-26",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Mirova Appoints Léa Dunand-Chatellet as CEO",
+        "excerpt": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers (Natixis IM), announced today the appointment of Léa Dunand-Chatellet as its new CEO, succeeding the firm’s outgoing CEO Philippe Zaouati. Mirova was launched as a subsidiary of Natixis Investment Management in 2014, with a focus on sustainable and impact investing. The firm is a conviction-based investment manager designed to offer clients investment solutions combining financial performance with environmental and social impact and accelerating the transformation of the…",
+        "url": "https://www.esgtoday.com/mirova-appoints-lea-dunand-chatellet-as-ceo/?utm_source=rss utm_medium=rss utm_campaign=mirova-appoints-lea-dunand-chatellet-as-ceo",
+        "publishedAt": "2026-06-26T13:54:54.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Mirova-Chatellet.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Executive Moves",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-carbon-credit-ratings-provider-bezero-ac-2026-06-26",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon Credit Ratings Provider BeZero Acquires Climate Analytics Platform Cedar",
+        "excerpt": "Carbon credit ratings agency BeZero Carbon announced the acquisition of AI-powered climate data startup Cedar, with the transaction aimed at advancing the due diligence capabilities of BeZero’s carbon markets platform. Founded in 2025 by Farouq Ghandour, Piotr Kosiński and Raphaël Haupt, New York-based Cedar provides solutions to automate complex sustainability tasks such as carbon accounting, climate due diligence, emissions reporting, and renewable energy analysis using AI agents. London-based BeZero is a ratings agency for carbon markets, providing…",
+        "url": "https://www.esgtoday.com/carbon-credit-ratings-provider-bezero-acquires-sustainability-data-platform-cedar/?utm_source=rss utm_medium=rss utm_campaign=carbon-credit-ratings-provider-bezero-acquires-sustainability-data-platform-cedar",
+        "publishedAt": "2026-06-26T13:01:40.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/BeZero-Cedar.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-media-reaction-how-climate-change-intens-2026-06-26",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Media reaction: How climate change intensified Europe’s record-breaking June heat",
+        "excerpt": "For the second time in two months, western and central Europe has been hit by a record-breaking heatwave. Temperature records have toppled in multiple countries, with France seeing its “hottest day ever” for two days running and the UK, Spain and Switzerland breaking records for June. A rapid-response attribution study has concluded that “climate change is unequivocally to blame”, noting that the scorching temperatures would have been “virtually impossible” 50 years ago. The research also found that the sweltering overnight temperatures seen this week…",
+        "url": "https://www.carbonbrief.org/media-reaction-how-climate-change-intensified-europes-record-breaking-june-heat/",
+        "publishedAt": "2026-06-26T12:44:22.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-13.01.21.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Extreme weather",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-ballard-acquires-green-hydrogen-power-so-2026-06-26",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Ballard Acquires Green Hydrogen Power Solutions Provider GeoPura",
+        "excerpt": "Canadian hydrogen fuel cell developer Ballard announced the acquisition of green hydrogen solutions provider GeoPura, with the transaction aimed at establishing Ballard as an integrated hydrogen ecosystem provider, according to the company. The deal values GeoPura at an enterprise value of £301 million (USD$397 million), with the potential for additional £27.5 million in contingent consideration if GeoPura achieves specified financial milestones. Founded in 2019, U.K.-based GeoPura provides solutions integrating hydrogen generation, storage, and fuel…",
+        "url": "https://www.esgtoday.com/ballard-acquires-green-hydrogen-power-solutions-provider-geopura/?utm_source=rss utm_medium=rss utm_campaign=ballard-acquires-green-hydrogen-power-solutions-provider-geopura",
+        "publishedAt": "2026-06-26T10:53:26.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Ballard-GeoPura.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-paris-court-orders-totalenergies-to-addr-2026-06-26",
         "source": "esg-today",
@@ -603,6 +738,52 @@
         "meta": {
           "category": "Companies",
           "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-per-aprueba-cuatro-metodolog-as-activas--2026-06-26",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Perú aprueba cuatro metodologías activas adicionales del Programa VCS para su uso en el Registro Nacional de Carbono del país",
+        "excerpt": "El Gobierno de Perú ha aprobado cuatro metodologías adicionales del Programa Verified Carbon Standard (VCS) de Verra. Esto permite que los proyectos que están certificados o en proceso de certificación bajo el Programa VCS y que utilizan estas metodologías, puedan inscribirse en el Registro Nacional de Medidas de Mitigación (RENAMI). Las nuevas metodologías aprobadas son las siguientes: El RENAMI permite al Ministerio del Ambiente del Perú hacer seguimiento al progreso del país hacia el cumplimiento de sus Contribuciones Determinadas a Nivel Nacional…",
+        "url": "https://verra.org/peru-aprueba-cuatro-metodologias-activas-adicionales-del-programa-vcs-para-su-uso-en-el-registro-nacional-de-carbono-del-pais/",
+        "publishedAt": "2026-06-26T00:29:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/06/david-geere-oFxuQxE0Hm0-unsplash.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-peru-approves-four-additional-methodolog-2026-06-26",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Peru Approves Four Additional Methodologies Active in the VCS Program for Use in Country’s National Carbon Registry",
+        "excerpt": "The government of Peru has approved four additional methodologies that are active in Verra’s Verified Carbon Standard (VCS) Program. This allows projects that are certified or undergoing certification in the VCS Program and that use these methodologies to be registered in the National Registry of Mitigation Measures (RENAMI). The methodologies are the following: RENAMI enables Peru’s Ministry of Environment to track the country’s progress toward its Nationally Determined Contributions (NDCs) and the emission reductions and carbon dioxide removals from…",
+        "url": "https://verra.org/peru-approves-four-additional-methodologies-active-in-the-vcs-program-for-use-in-countrys-national-carbon-registry/",
+        "publishedAt": "2026-06-26T00:28:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/06/david-geere-oFxuQxE0Hm0-unsplash.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -873,28 +1054,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-climeworks-signs-450-000-tons-of-carbon--2026-06-25",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Climeworks Signs 450,000 Tons of Carbon Removal Agreements",
-        "excerpt": "Zurich-based Carbon removal solutions provider Climeworks announced that its carbon dioxide removal (CDR) portfolio service, Climeworks Solutions, has signed 14 new carbon removal deals in the first half of 2026, totaling 450,000 tons of CDR across a range of technologies. Founded in 2009 by Christoph Gebald and Jan Wurzbacher, Zurich-based Climeworks provides companies with carbon removal solutions, including its own DAC technology, with the company operating the world’s first two DAC plants. In 2024, Climeworks announced the launch of Climeworks…",
-        "url": "https://www.esgtoday.com/climeworks-signs-450000-tons-of-carbon-removal-agreements/?utm_source=rss utm_medium=rss utm_campaign=climeworks-signs-450000-tons-of-carbon-removal-agreements",
-        "publishedAt": "2026-06-25T08:39:38.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Climeworks4.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-guest-post-how-us-renewable-energy-growt-2026-06-25",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -961,28 +1120,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-gap-appoints-levi-strauss-cso-as-new-chi-2026-06-24",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Gap Appoints Levi Strauss CSO as New Chief Sustainability Officer",
-        "excerpt": "Apparel retail company Gap Inc. announced the appointment of Jeffrey Hogue as its new Chief Sustainability Officer. Hogue joins Gap from Levi Strauss, where he has served as Chief Sustainability Officer since 2020. Prior to joining Levi Strauss, he served as Chief Sustainability Officer for fashion retailer C&A, and as Senior Director of Global Corporate Social Responsibility (CSR) and Sustainability at McDonald’s. Hogue will succeed former Gap CSO Daniel Fibiger in the role. Fibiger announced his plans to step down from the role earlier this year,…",
-        "url": "https://www.esgtoday.com/gap-appoints-levi-strauss-cso-as-new-chief-sustainability-officer/?utm_source=rss utm_medium=rss utm_campaign=gap-appoints-levi-strauss-cso-as-new-chief-sustainability-officer",
-        "publishedAt": "2026-06-24T16:19:52.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Gap-Old-Navy.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-mombasa-key-outcomes-from-the-our-ocean--2026-06-24",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1000,50 +1137,6 @@
         "status": null,
         "meta": {
           "category": "International policy",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-google-energy-dome-launch-energy-storage-2026-06-24",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Google, Energy Dome Launch Energy Storage Project to Enable 24/7 Clean Energy Access",
-        "excerpt": "Google and energy storage startup Energy Dome announced an agreement to construct a 23 MW/200 MWh energy storage plant in Ireland, marking the first commercial project under the companies’ strategic partnership aimed at scaling Energy Dome’s CO2 Battery technology globally. The new project will be developed at a former thermal power station near Rhode, Ireland, and forms part of a long-term agreement announced last year to deploy Energy Dome’s CO2 Battery technology at scale and support Google’s ambition to expand access to 24/7 clean, affordable energy…",
-        "url": "https://www.esgtoday.com/google-energy-dome-launch-energy-storage-project-to-enable-24-7-clean-energy-access/?utm_source=rss utm_medium=rss utm_campaign=google-energy-dome-launch-energy-storage-project-to-enable-24-7-clean-energy-access",
-        "publishedAt": "2026-06-24T14:56:10.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Energy-Dome-google.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-ccc-faster-electrification-of-uk-will-pu-2026-06-23",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "POLICY",
-        "accent": "#5eead4",
-        "title": "CCC: Faster electrification of UK will ‘put money back into people’s pockets’",
-        "excerpt": "Faster electrification is the best way to secure lower energy bills and stronger energy security, according to the Climate Change Committee (CCC). The government’s official climate advisers have stressed the importance of electrification, noting that electric cars and heat pumps can “put money back into people’s pockets”. Moreover, the UK’s net-zero targets face “significant risks” unless there is faster progress in electrifying cars, heating and industry, according to the CCC’s latest progress report . The report notes that the government has closed…",
-        "url": "https://www.carbonbrief.org/ccc-faster-electrification-of-uk-will-put-money-back-into-peoples-pockets/",
-        "publishedAt": "2026-06-23T23:01:00.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/transport-buildings-now-uks-biggest-emitters-far.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "UK policy",
           "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
@@ -1133,29 +1226,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-prof-philippe-ciais-the-world-s-most-hig-2026-06-23",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Prof Philippe Ciais: The world’s most highly cited climate scientist",
-        "excerpt": "Phillipe Ciais has spent almost four decades researching the planet’s carbon cycle – and the ways in which humans have been impacting its balance. Based at the Laboratoire des Sciences du Climat et de l’Environnement (LSCE) on the outskirts of Paris, Ciais (pronounced “see-es”) has been listed as an author on more than 1,300 peer-reviewed studies. In fact, analysis of Carbon Brief’s Cosmos database reveals that – by some distance – he is the most highly cited climate scientist in the world. In a wide-ranging interview, he discusses:",
-        "url": "https://www.carbonbrief.org/prof-philippe-ciais-the-worlds-most-highly-cited-climate-scientist/",
-        "publishedAt": "2026-06-23T13:01:26.000Z",
-        "image": "https://interactive.carbonbrief.org/cosmos/images/philippe-preview.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Interviews",
-          "feed": "https://www.carbonbrief.org/feed/",
-          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -1411,52 +1481,6 @@
         "region": "world"
       },
       {
-        "id": "verra-verra-operationalizes-vcs-version-5-with-2026-06-09",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra Operationalizes VCS Version 5 with Publication of Templates and Guidance",
-        "excerpt": "Verra has released updated versions of templates for the Verified Carbon Standard (VCS) Program . With this release, VCS Version 5 is fully operationalized, and all project proponents can begin using it. Launched in December 2025 , VCS Version 5 includes new and updated requirements to ensure that the program continues to enable carbon markets to operate at the scale, pace, and with the integrity needed to support global climate ambitions. In addition to project description, monitoring report, and validation/verification report templates, this release…",
-        "url": "https://verra.org/verra-operationalizes-vcs-version-5-with-publication-of-templates-and-guidance/",
-        "publishedAt": "2026-06-09T14:28:34.000Z",
-        "image": "https://verra.org/wp-content/uploads/imported/news/forest-photo-jpg-scaled.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-projects-open-for-public-comment-june-8--2026-06-08",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Projects Open for Public Comment: June 8, 2026",
-        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-        "url": "https://verra.org/projects-open-for-public-comment-june-8-2026/",
-        "publishedAt": "2026-06-08T12:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2023/12/shutterstock_2311969343-scaled.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6065",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1682,31 +1706,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6016",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Barnett Zero Project",
-        "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
-        "publishedAt": "2026-04-27T00:00:00.000Z",
-        "image": null,
-        "country": "United States",
-        "methodology": "VM0049",
-        "registryId": "6016",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "BKV Marketing, LLC",
-          "region": "North America",
-          "creditingPeriodStart": "2023-11-08",
-          "creditingPeriodEnd": "2068-11-07",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6014",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1727,6 +1726,31 @@
           "region": "Asia",
           "creditingPeriodStart": "2025-05-19",
           "creditingPeriodEnd": "2035-05-18",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6016",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Barnett Zero Project",
+        "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
+        "publishedAt": "2026-04-27T00:00:00.000Z",
+        "image": null,
+        "country": "United States",
+        "methodology": "VM0049",
+        "registryId": "6016",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "BKV Marketing, LLC",
+          "region": "North America",
+          "creditingPeriodStart": "2023-11-08",
+          "creditingPeriodEnd": "2068-11-07",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -1981,29 +2005,6 @@
         "region": "world"
       },
       {
-        "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "The Evolving Spectrum of Energy Sources - PIB",
-        "excerpt": "The Evolving Spectrum of Energy Sources PIB",
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
-        "publishedAt": "2026-02-28T08:00:00.000Z",
-        "image": null,
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2101,6 +2102,138 @@
   },
   "articles": [
     {
+      "id": "carbon-brief-debriefed-26-june-2026-heat-records-brok-2026-06-26",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "DeBriefed 26 June 2026: Heat records broken across Europe London climate action week Introducing ‘Project Cosmos’",
+      "excerpt": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week s key developments relating to climate change. HOTTEST EVER: The UK broke its temperature record for June twice this week, while France recorded its hottest day ever two days in a row, reported the Guardian . The Times reported that temperatures reached 36.7C in Somerset on Thursday, as the “London Ambulance Service had its busiest-ever day for life-threatening emergencies”. FRANCE FRYING: French newspaper Libération said that temperatures reached as high as 44.3C in the south-western…",
+      "url": "https://www.carbonbrief.org/debriefed-26-june-2026-heat-records-broken-across-europe-london-climate-action-week-introducing-project-cosmos/",
+      "publishedAt": "2026-06-26T14:27:07.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Electrification1__is_the_key_theme_of_this_year_s_CCC_report-scaled.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "DeBriefed",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-q-a-what-change-of-power-in-colombia-cou-2026-06-26",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "POLICY",
+      "accent": "#5eead4",
+      "title": "Q A: What change of power in Colombia could mean for world’s fossil-fuel transition",
+      "excerpt": "Over the last four years, Colombia has emerged as one of the most vocal advocates for the world to transition away from fossil fuels. Under the leadership of leftist politician and economist Gustavo Petro, it became the first major oil-and-gas producer to commit to halting all new fossil-fuel expansion. In April, the nation hosted a first-of-its-kind meeting of countries on transitioning away from fossil fuels, alongside the Netherlands, in the Caribbean city of Santa Marta. The meeting concluded with a promise for a new “Santa Marta process”…",
+      "url": "https://www.carbonbrief.org/qa-what-change-of-power-in-colombia-could-mean-for-worlds-fossil-fuel-transition/",
+      "publishedAt": "2026-06-26T14:04:53.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-2.46.30-PM.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "International policy",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-mirova-appoints-l-a-dunand-chatellet-as--2026-06-26",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Mirova Appoints Léa Dunand-Chatellet as CEO",
+      "excerpt": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers (Natixis IM), announced today the appointment of Léa Dunand-Chatellet as its new CEO, succeeding the firm’s outgoing CEO Philippe Zaouati. Mirova was launched as a subsidiary of Natixis Investment Management in 2014, with a focus on sustainable and impact investing. The firm is a conviction-based investment manager designed to offer clients investment solutions combining financial performance with environmental and social impact and accelerating the transformation of the…",
+      "url": "https://www.esgtoday.com/mirova-appoints-lea-dunand-chatellet-as-ceo/?utm_source=rss utm_medium=rss utm_campaign=mirova-appoints-lea-dunand-chatellet-as-ceo",
+      "publishedAt": "2026-06-26T13:54:54.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Mirova-Chatellet.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Executive Moves",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-carbon-credit-ratings-provider-bezero-ac-2026-06-26",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon Credit Ratings Provider BeZero Acquires Climate Analytics Platform Cedar",
+      "excerpt": "Carbon credit ratings agency BeZero Carbon announced the acquisition of AI-powered climate data startup Cedar, with the transaction aimed at advancing the due diligence capabilities of BeZero’s carbon markets platform. Founded in 2025 by Farouq Ghandour, Piotr Kosiński and Raphaël Haupt, New York-based Cedar provides solutions to automate complex sustainability tasks such as carbon accounting, climate due diligence, emissions reporting, and renewable energy analysis using AI agents. London-based BeZero is a ratings agency for carbon markets, providing…",
+      "url": "https://www.esgtoday.com/carbon-credit-ratings-provider-bezero-acquires-sustainability-data-platform-cedar/?utm_source=rss utm_medium=rss utm_campaign=carbon-credit-ratings-provider-bezero-acquires-sustainability-data-platform-cedar",
+      "publishedAt": "2026-06-26T13:01:40.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/BeZero-Cedar.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-media-reaction-how-climate-change-intens-2026-06-26",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Media reaction: How climate change intensified Europe’s record-breaking June heat",
+      "excerpt": "For the second time in two months, western and central Europe has been hit by a record-breaking heatwave. Temperature records have toppled in multiple countries, with France seeing its “hottest day ever” for two days running and the UK, Spain and Switzerland breaking records for June. A rapid-response attribution study has concluded that “climate change is unequivocally to blame”, noting that the scorching temperatures would have been “virtually impossible” 50 years ago. The research also found that the sweltering overnight temperatures seen this week…",
+      "url": "https://www.carbonbrief.org/media-reaction-how-climate-change-intensified-europes-record-breaking-june-heat/",
+      "publishedAt": "2026-06-26T12:44:22.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-13.01.21.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Extreme weather",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-ballard-acquires-green-hydrogen-power-so-2026-06-26",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Ballard Acquires Green Hydrogen Power Solutions Provider GeoPura",
+      "excerpt": "Canadian hydrogen fuel cell developer Ballard announced the acquisition of green hydrogen solutions provider GeoPura, with the transaction aimed at establishing Ballard as an integrated hydrogen ecosystem provider, according to the company. The deal values GeoPura at an enterprise value of £301 million (USD$397 million), with the potential for additional £27.5 million in contingent consideration if GeoPura achieves specified financial milestones. Founded in 2019, U.K.-based GeoPura provides solutions integrating hydrogen generation, storage, and fuel…",
+      "url": "https://www.esgtoday.com/ballard-acquires-green-hydrogen-power-solutions-provider-geopura/?utm_source=rss utm_medium=rss utm_campaign=ballard-acquires-green-hydrogen-power-solutions-provider-geopura",
+      "publishedAt": "2026-06-26T10:53:26.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Ballard-GeoPura.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-today-paris-court-orders-totalenergies-to-addr-2026-06-26",
       "source": "esg-today",
       "sourceName": "ESG Today",
@@ -2119,6 +2252,52 @@
       "meta": {
         "category": "Companies",
         "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-per-aprueba-cuatro-metodolog-as-activas--2026-06-26",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Perú aprueba cuatro metodologías activas adicionales del Programa VCS para su uso en el Registro Nacional de Carbono del país",
+      "excerpt": "El Gobierno de Perú ha aprobado cuatro metodologías adicionales del Programa Verified Carbon Standard (VCS) de Verra. Esto permite que los proyectos que están certificados o en proceso de certificación bajo el Programa VCS y que utilizan estas metodologías, puedan inscribirse en el Registro Nacional de Medidas de Mitigación (RENAMI). Las nuevas metodologías aprobadas son las siguientes: El RENAMI permite al Ministerio del Ambiente del Perú hacer seguimiento al progreso del país hacia el cumplimiento de sus Contribuciones Determinadas a Nivel Nacional…",
+      "url": "https://verra.org/peru-aprueba-cuatro-metodologias-activas-adicionales-del-programa-vcs-para-su-uso-en-el-registro-nacional-de-carbono-del-pais/",
+      "publishedAt": "2026-06-26T00:29:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2026/06/david-geere-oFxuQxE0Hm0-unsplash.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-peru-approves-four-additional-methodolog-2026-06-26",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Peru Approves Four Additional Methodologies Active in the VCS Program for Use in Country’s National Carbon Registry",
+      "excerpt": "The government of Peru has approved four additional methodologies that are active in Verra’s Verified Carbon Standard (VCS) Program. This allows projects that are certified or undergoing certification in the VCS Program and that use these methodologies to be registered in the National Registry of Mitigation Measures (RENAMI). The methodologies are the following: RENAMI enables Peru’s Ministry of Environment to track the country’s progress toward its Nationally Determined Contributions (NDCs) and the emission reductions and carbon dioxide removals from…",
+      "url": "https://verra.org/peru-approves-four-additional-methodologies-active-in-the-vcs-program-for-use-in-countrys-national-carbon-registry/",
+      "publishedAt": "2026-06-26T00:28:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2026/06/david-geere-oFxuQxE0Hm0-unsplash.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -2389,28 +2568,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-climeworks-signs-450-000-tons-of-carbon--2026-06-25",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Climeworks Signs 450,000 Tons of Carbon Removal Agreements",
-      "excerpt": "Zurich-based Carbon removal solutions provider Climeworks announced that its carbon dioxide removal (CDR) portfolio service, Climeworks Solutions, has signed 14 new carbon removal deals in the first half of 2026, totaling 450,000 tons of CDR across a range of technologies. Founded in 2009 by Christoph Gebald and Jan Wurzbacher, Zurich-based Climeworks provides companies with carbon removal solutions, including its own DAC technology, with the company operating the world’s first two DAC plants. In 2024, Climeworks announced the launch of Climeworks…",
-      "url": "https://www.esgtoday.com/climeworks-signs-450000-tons-of-carbon-removal-agreements/?utm_source=rss utm_medium=rss utm_campaign=climeworks-signs-450000-tons-of-carbon-removal-agreements",
-      "publishedAt": "2026-06-25T08:39:38.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Climeworks4.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-guest-post-how-us-renewable-energy-growt-2026-06-25",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2477,28 +2634,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-gap-appoints-levi-strauss-cso-as-new-chi-2026-06-24",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Gap Appoints Levi Strauss CSO as New Chief Sustainability Officer",
-      "excerpt": "Apparel retail company Gap Inc. announced the appointment of Jeffrey Hogue as its new Chief Sustainability Officer. Hogue joins Gap from Levi Strauss, where he has served as Chief Sustainability Officer since 2020. Prior to joining Levi Strauss, he served as Chief Sustainability Officer for fashion retailer C&A, and as Senior Director of Global Corporate Social Responsibility (CSR) and Sustainability at McDonald’s. Hogue will succeed former Gap CSO Daniel Fibiger in the role. Fibiger announced his plans to step down from the role earlier this year,…",
-      "url": "https://www.esgtoday.com/gap-appoints-levi-strauss-cso-as-new-chief-sustainability-officer/?utm_source=rss utm_medium=rss utm_campaign=gap-appoints-levi-strauss-cso-as-new-chief-sustainability-officer",
-      "publishedAt": "2026-06-24T16:19:52.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Gap-Old-Navy.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-mombasa-key-outcomes-from-the-our-ocean--2026-06-24",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2516,50 +2651,6 @@
       "status": null,
       "meta": {
         "category": "International policy",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-google-energy-dome-launch-energy-storage-2026-06-24",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Google, Energy Dome Launch Energy Storage Project to Enable 24/7 Clean Energy Access",
-      "excerpt": "Google and energy storage startup Energy Dome announced an agreement to construct a 23 MW/200 MWh energy storage plant in Ireland, marking the first commercial project under the companies’ strategic partnership aimed at scaling Energy Dome’s CO2 Battery technology globally. The new project will be developed at a former thermal power station near Rhode, Ireland, and forms part of a long-term agreement announced last year to deploy Energy Dome’s CO2 Battery technology at scale and support Google’s ambition to expand access to 24/7 clean, affordable energy…",
-      "url": "https://www.esgtoday.com/google-energy-dome-launch-energy-storage-project-to-enable-24-7-clean-energy-access/?utm_source=rss utm_medium=rss utm_campaign=google-energy-dome-launch-energy-storage-project-to-enable-24-7-clean-energy-access",
-      "publishedAt": "2026-06-24T14:56:10.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Energy-Dome-google.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-ccc-faster-electrification-of-uk-will-pu-2026-06-23",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "POLICY",
-      "accent": "#5eead4",
-      "title": "CCC: Faster electrification of UK will ‘put money back into people’s pockets’",
-      "excerpt": "Faster electrification is the best way to secure lower energy bills and stronger energy security, according to the Climate Change Committee (CCC). The government’s official climate advisers have stressed the importance of electrification, noting that electric cars and heat pumps can “put money back into people’s pockets”. Moreover, the UK’s net-zero targets face “significant risks” unless there is faster progress in electrifying cars, heating and industry, according to the CCC’s latest progress report . The report notes that the government has closed…",
-      "url": "https://www.carbonbrief.org/ccc-faster-electrification-of-uk-will-put-money-back-into-peoples-pockets/",
-      "publishedAt": "2026-06-23T23:01:00.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/transport-buildings-now-uks-biggest-emitters-far.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "UK policy",
         "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
@@ -2649,51 +2740,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-cited-23-june-2026-project-cosmos-launch-2026-06-23",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Cited 23 June 2026: Project Cosmos launch Science ‘under attack’ at Bonn Emissions inequality",
-      "excerpt": "Welcome to Cited, your essential guide to new climate research. SCIENCE ‘UNDER ATTACK’: Climate Home News reported that “dozens” of countries called out “coordinated attacks” aimed at “undermining the role of climate science” at UN climate talks in Bonn, Germany, last week. According to the outlet, the countries said that UN decision-making had to remain based on the “best available science”, including the reports of the Intergovernmental Panel on Climate Change. One negotiator said that India and Saudi Arabia “opposed calls in draft texts to encourage…",
-      "url": "https://www.carbonbrief.org/cited-23-june-project-cosmos-launch-science-under-attack-at-bonn-emissions-inequality/",
-      "publishedAt": "2026-06-23T14:07:41.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/mono-headline.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Science",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "india"
-    },
-    {
-      "id": "carbon-brief-prof-philippe-ciais-the-world-s-most-hig-2026-06-23",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Prof Philippe Ciais: The world’s most highly cited climate scientist",
-      "excerpt": "Phillipe Ciais has spent almost four decades researching the planet’s carbon cycle – and the ways in which humans have been impacting its balance. Based at the Laboratoire des Sciences du Climat et de l’Environnement (LSCE) on the outskirts of Paris, Ciais (pronounced “see-es”) has been listed as an author on more than 1,300 peer-reviewed studies. In fact, analysis of Carbon Brief’s Cosmos database reveals that – by some distance – he is the most highly cited climate scientist in the world. In a wide-ranging interview, he discusses:",
-      "url": "https://www.carbonbrief.org/prof-philippe-ciais-the-worlds-most-highly-cited-climate-scientist/",
-      "publishedAt": "2026-06-23T13:01:26.000Z",
-      "image": "https://interactive.carbonbrief.org/cosmos/images/philippe-preview.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Interviews",
-        "feed": "https://www.carbonbrief.org/feed/",
-        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -2926,30 +2972,6 @@
       "region": "world"
     },
     {
-      "id": "google-h2-gaining-momentum-green-hydrogen-emerges--2026-06-11",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition - Renewable Watch Magazine",
-      "excerpt": "Green hydrogen is emerging as a key pillar of India’s transition towards a low-carbon economy, with the country increasingly focusing on building a domestic production and manufacturing ecosystem. Backed by India’s rapidly expanding renewable energy capacity, the sector is witnessing growing momentum with developments across the entire value chain. Falling renewable energy costs, technological advancements in electrolysers and rising global demand for low-carbon fuels and derivatives are further strengthening the business case for green hydrogen in…",
-      "url": "https://renewablewatch.in/2026/06/11/gaining-momentum-green-hydrogen-emerges-as-a-key-pillar-of-indias-energy-transition/",
-      "publishedAt": "2026-06-11T07:00:00.000Z",
-      "image": "https://renewablewatch.in/wp-content/uploads/2026/06/36-e1780380253365.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRGYzWjJVeXNkbzdpcE11TFBlUzVyUFN5SnV0eWRQRVdBeWdyY3plXzhtVlo0T0hReW4yTWV0V0N6YTJRMjlTZUVnQ3AtcjZLYzNrWmpsYnJZMlBJZWFCX08tYXVzZG5BRmxXak80YzJ3bFIxS1dmOERnTURUWmdfOHJXVXY2NUFMOWpkQ0l6Q1VrYlljdWtsRm9rZ1ZUYXMwbC16SlpqZVV1bEh4OHZUUUVIek94QVRCd0dFbXJn?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "verra-verra-selects-methodologies-for-further--2026-06-10",
       "source": "verra",
       "sourceName": "Verra",
@@ -2961,52 +2983,6 @@
       "url": "https://verra.org/verra-selects-methodologies-for-further-development-shapes-direction-of-future-climate-impact/",
       "publishedAt": "2026-06-10T18:00:00.000Z",
       "image": "https://verra.org/wp-content/uploads/imported/news/river-and-forest-jpg-scaled.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-verra-operationalizes-vcs-version-5-with-2026-06-09",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Operationalizes VCS Version 5 with Publication of Templates and Guidance",
-      "excerpt": "Verra has released updated versions of templates for the Verified Carbon Standard (VCS) Program . With this release, VCS Version 5 is fully operationalized, and all project proponents can begin using it. Launched in December 2025 , VCS Version 5 includes new and updated requirements to ensure that the program continues to enable carbon markets to operate at the scale, pace, and with the integrity needed to support global climate ambitions. In addition to project description, monitoring report, and validation/verification report templates, this release…",
-      "url": "https://verra.org/verra-operationalizes-vcs-version-5-with-publication-of-templates-and-guidance/",
-      "publishedAt": "2026-06-09T14:28:34.000Z",
-      "image": "https://verra.org/wp-content/uploads/imported/news/forest-photo-jpg-scaled.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-projects-open-for-public-comment-june-8--2026-06-08",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Projects Open for Public Comment: June 8, 2026",
-      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-      "url": "https://verra.org/projects-open-for-public-comment-june-8-2026/",
-      "publishedAt": "2026-06-08T12:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2023/12/shutterstock_2311969343-scaled.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3264,6 +3240,29 @@
       "region": "world"
     },
     {
+      "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
+      "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
+      "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
+      "publishedAt": "2026-05-25T07:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
+      },
+      "region": "india"
+    },
+    {
       "id": "verra-vcs-6032",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3414,31 +3413,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6016",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Barnett Zero Project",
-      "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": null,
-      "country": "United States",
-      "methodology": "VM0049",
-      "registryId": "6016",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "BKV Marketing, LLC",
-        "region": "North America",
-        "creditingPeriodStart": "2023-11-08",
-        "creditingPeriodEnd": "2068-11-07",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6014",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3459,6 +3433,31 @@
         "region": "Asia",
         "creditingPeriodStart": "2025-05-19",
         "creditingPeriodEnd": "2035-05-18",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6016",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Barnett Zero Project",
+      "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "image": null,
+      "country": "United States",
+      "methodology": "VM0049",
+      "registryId": "6016",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "BKV Marketing, LLC",
+        "region": "North America",
+        "creditingPeriodStart": "2023-11-08",
+        "creditingPeriodEnd": "2068-11-07",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
@@ -3712,29 +3711,6 @@
       "region": "india"
     },
     {
-      "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
-      "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
-      "publishedAt": "2026-04-14T07:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
-      },
-      "region": "india"
-    },
-    {
       "id": "verra-vcs-5986",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3890,10 +3866,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market - carboncopy.info",
-      "excerpt": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market carboncopy.info",
+      "excerpt": "If a carbon market is a financial system for emissions, then data is its collateral. Credible data is the bedrock on which market legitimacy rests. India is laying the foundation stones of a national compliance carbon market. The market design features and regulatory systems are progressively under development, and industries are starting to prepare for the market. Much of the conversation so far has focused on targets, sectors, and trading rules. These are of course important — but the strongest foundation of an effective carbon market is something far…",
       "url": "https://carboncopy.info/data-is-the-new-collateral-building-a-high-fidelity-indian-carbon-market",
       "publishedAt": "2026-03-24T07:00:00.000Z",
-      "image": null,
+      "image": "https://cms.carboncopy.info/assets/780300ce-9cf3-4ddb-9e33-d8fc1dccee06",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3901,7 +3877,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -3927,29 +3904,6 @@
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
       },
       "region": "india"
-    },
-    {
-      "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "The Evolving Spectrum of Energy Sources - PIB",
-      "excerpt": "The Evolving Spectrum of Energy Sources PIB",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
-      "publishedAt": "2026-02-28T08:00:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
-      },
-      "region": "world"
     },
     {
       "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
@@ -4047,6 +4001,30 @@
       "region": "india"
     },
     {
+      "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
+      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+      "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
+      "publishedAt": "2026-01-02T08:44:45.000Z",
+      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -4136,6 +4114,30 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Hydrogen Horizons: Unlocking the Power of the Universe for Clean Mobility - TheCSRUniverse",
+      "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The global transition to clean energy has positioned hydrogen as a frontrunner in the race to decarbonize transportation. As…",
+      "url": "https://thecsruniverse.com/articles/hydrogen-horizons-unlocking-the-power-of-the-universe-for-clean-mobility",
+      "publishedAt": "2025-05-07T07:00:00.000Z",
+      "image": "https://thecsruniverse.com/adminxsafe/uploads/20260516055652",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWYweWJqMjBTSzcwc0kzSUlnVTJfQ1RDaHRLalB4dFlKb1VpVUZaa2NBM1pOYk1XRnFISUkwWF9jWHBfQ0pJUy00aVdmYmYtUFZXTkF3bWh0U3BuaXVzNFMzXzllcll5cDdCQUxNVmMxWDlkLVh4b3JnWVh2Qy01YmNZVkQwWGxQVXg3NkVtZk0xUWNqdEhSNmV3MFk0THh2ZDFDNEpBaEFhTGZV?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
