@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-26T15:22:34.114Z",
+  "fetchedAt": "2026-06-26T20:44:27.644Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 87,
-    "india": 22,
-    "world": 65,
-    "withImages": 57,
-    "avgExcerptLength": 436,
+    "india": 23,
+    "world": 64,
+    "withImages": 56,
+    "avgExcerptLength": 435,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -56,26 +56,24 @@
   "sections": {
     "india": [
       {
-        "id": "google-india-ieefa-report-highlights-key-factors-that-2026-06-06",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
+        "id": "esg-dive-a-top-down-commitment-is-crucial-for-inc-2026-06-23",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
         "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "IEEFA Report Highlights Key Factors That Will Shape Carbon Prices Under India's New Trading Scheme - SolarQuarter",
-        "excerpt": "As India moves forward with implementing its Carbon Credit Trading Scheme (CCTS), a new report from the Institute for Energy Economics and Financial Analysis explores the factors that will influence carbon price formation and determine how effectively the scheme supports industrial decarbonisation. The report, titled Potential Drivers of Carbon Price Formation in the CCTS: Design and Market Dynamics in the Indian Carbon Market, examines the structure of India s intensity-based emissions trading system, which will initially cover seven industrial sectors…",
-        "url": "https://solarquarter.com/2026/06/06/ieefa-report-highlights-key-factors-that-will-shape-carbon-prices-under-indias-new-trading-scheme/",
-        "publishedAt": "2026-06-06T07:00:00.000Z",
-        "image": "https://solarquarter.com/wp-content/uploads/2022/10/17-3.png",
-        "country": "India",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "A top-down commitment is crucial for inclusion in 2026, SHRM panelists say",
+        "excerpt": "Members of SHRM’s inclusion and diversity council presented a road map for creating diversity and inclusion at work while being mindful of the compliance landscape. ORLANDO, Fla. — Committing to diversity, equity and inclusion has been hard lately. That was one of the core issues that Ashissh Kaul, Doreen Mosher and Katharine Panessidi’s session sought to address for HR professionals seeking a path forward. Kaul is a part of SHRM India, Mosher works for SHRM Linkage and Panessidi works for SHRM Business, but collectively they’re a part of SHRM’s I&D…",
+        "url": "https://www.esgdive.com/news/top-down-leadership-crucial-to-implementing-inclusion-in-the-new-work-landscape/823518/",
+        "publishedAt": "2026-06-23T15:49:00.000Z",
+        "image": "https://imgproxy.divecdn.com/o0SqlXi6G_dnackhawjAxQvHzxw1rLogM-nHFvegJ7E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfRTMzMzkuSlBH.webp",
+        "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmllSWdIYTh2cHJGOHJwRUhkc0laNmhGQ3ExTHd2ZS1CQkRsSnlxWFpGUlA5UWNQODJtTElaSUJmUmMtN3Jyc2YwQ2gza0RSQXZYZ1dzcWVJTGVOVnlRMlg2UUZpeHZqdE9FLS1QZW9UWmd5V0h6U1ZveTZYVURRZ1h1YkpIanpoLWxITzR0cThQU2JyelByZml4N19XMU1MbktrWWpJQlZDMWVNSmVCc2xzRXlaaURXZV9ENHRiaTlmd2FCaGp0cjhzV2w0aGM?oc=5",
-          "imageSource": "publisher"
+          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "india"
       },
@@ -403,10 +401,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market - carboncopy.info",
-        "excerpt": "If a carbon market is a financial system for emissions, then data is its collateral. Credible data is the bedrock on which market legitimacy rests. India is laying the foundation stones of a national compliance carbon market. The market design features and regulatory systems are progressively under development, and industries are starting to prepare for the market. Much of the conversation so far has focused on targets, sectors, and trading rules. These are of course important — but the strongest foundation of an effective carbon market is something far…",
+        "excerpt": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market carboncopy.info",
         "url": "https://carboncopy.info/data-is-the-new-collateral-building-a-high-fidelity-indian-carbon-market",
         "publishedAt": "2026-03-24T07:00:00.000Z",
-        "image": "https://cms.carboncopy.info/assets/780300ce-9cf3-4ddb-9e33-d8fc1dccee06",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -414,7 +412,30 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-india-launches-centralized-carbon-market-2026-03-23",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
+        "excerpt": "• India launches a national carbon market portal to operationalize its Carbon Credit Trading Scheme across sectors • Nearly 490 entities across seven energy intensive industries now face compliance targets under the framework • Government positions carbon markets as a major channel to unlock capital, drive innovation, and support NDC delivery New Delhi hosted a decisive step in India’s climate and financial architecture as the government inaugurated Prakriti 2026 and launched the Indian Carbon Market Portal, a centralized platform designed to…",
+        "url": "https://esgnews.com/india-launches-carbon-market-portal-to-scale-national-climate-finance/",
+        "publishedAt": "2026-03-23T07:00:00.000Z",
+        "image": "https://esgnews.com/wp-content/uploads/2026/03/India-Launches-Carbon-Market-Portal-to-Scale-National-Climate-Finance.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -587,6 +608,72 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-carb-delays-emissions-reporting-deadline-2026-06-26",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "CARB delays emissions reporting deadline by 3 months",
+        "excerpt": "The agency said it will delay the compliance deadline for California s SB 253 the Climate Corporate Data Accountability Act and propose limited changes.",
+        "url": "https://www.esgdive.com/news/carb-delays-sb-253-ccda-emissions-reporting-deadline-by-3-months/823904/",
+        "publishedAt": "2026-06-26T16:34:00.000Z",
+        "image": "https://imgproxy.divecdn.com/Eqnd_quLKm6b-498FuZKQA749oR6TKLt94uV0Af5HJs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QOEFHUlcuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-luxury-ev-maker-lucid-motors-laying-off--2026-06-26",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Luxury EV-maker Lucid Motors laying off 18% of US workforce, COO resigns",
+        "excerpt": "The layoffs follow a 12% reduction of the company s workforce in February following the launch of the Gravity SUV, its second model.",
+        "url": "https://www.esgdive.com/news/luxury-ev-maker-lucid-motors-laying-off-18-of-us-workforce-coo-resigns/823878/",
+        "publishedAt": "2026-06-26T16:14:00.000Z",
+        "image": "https://imgproxy.divecdn.com/OiU_PC2NgTDQDH4357HT4OPcqP4oC1-yTjRFlmhbJ64/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcnRpY2xlTWVkaWFfMTQwN18xNzcxMzM2NzY5MzE1LndlYnA=.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-chemours-agrees-to-450m-pfas-settlement--2026-06-26",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Chemours agrees to $450M PFAS settlement with US government",
+        "excerpt": "The EPA accused the chemical giant of releasing forever chemicals into rivers near the company s facilities in North Carolina, New Jersey and West Virginia. In some instances, without the required permits.",
+        "url": "https://www.esgdive.com/news/epa-chemours-settle-pfas-claims-tsca-west-virginia-north-carolina-new-jerse/823873/",
+        "publishedAt": "2026-06-26T16:08:00.000Z",
+        "image": "https://imgproxy.divecdn.com/yISvwmLAPsJFjcFhd2cqZmp2PSWm_JlygtGIvWQtsTM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk3MjI2OTgzLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
       {
         "id": "carbon-brief-debriefed-26-june-2026-heat-records-brok-2026-06-26",
         "source": "carbon-brief",
@@ -1164,28 +1251,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-a-top-down-commitment-is-crucial-for-inc-2026-06-23",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "POLICY",
-        "accent": "#5eead4",
-        "title": "A top-down commitment is crucial for inclusion in 2026, SHRM panelists say",
-        "excerpt": "Members of SHRM s inclusion and diversity council presented a road map for creating diversity and inclusion at work while being mindful of the compliance landscape.",
-        "url": "https://www.esgdive.com/news/top-down-leadership-crucial-to-implementing-inclusion-in-the-new-work-landscape/823518/",
-        "publishedAt": "2026-06-23T15:49:00.000Z",
-        "image": "https://imgproxy.divecdn.com/o0SqlXi6G_dnackhawjAxQvHzxw1rLogM-nHFvegJ7E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfRTMzMzkuSlBH.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-majority-of-business-leaders-fear-a-diso-2026-06-23",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -1197,28 +1262,6 @@
         "url": "https://www.esgdive.com/news/majority-business-leaders-fear-disorderly-climate-transition-wbcsd-survey/823527/",
         "publishedAt": "2026-06-23T15:24:00.000Z",
         "image": "https://imgproxy.divecdn.com/00S1Y8IeHvuPLdqplewAChZNvXUSBuy3gb_SwvwCxh0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ET0Vfc3RvcnlfT2N0Ll8yMDIzXy1fR3JlZW5fYnVpbGRpbmdzX3N0b2NrX2ltYWdlLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-4-out-of-5-companies-can-t-measure-susta-2026-06-23",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "4 out of 5 companies can’t measure sustainability’s financial impact",
-        "excerpt": "While science and target setting have moved forward, valuation tools and financial methodologies have lagged behind, the KPMG report states.",
-        "url": "https://www.esgdive.com/news/4-out-5-companies-cant-measure-sustainabilitys-financial-impact-esg/823512/",
-        "publishedAt": "2026-06-23T15:10:00.000Z",
-        "image": "https://imgproxy.divecdn.com/CU4qA2DG4mC6Zgbjlu-1fSmqINu55vW0GpHzZlwTkc8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzgzNDUxLmpwZw==.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1249,50 +1292,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-frontier-climate-adds-anthropic-to-buyer-2026-06-22",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Frontier Climate adds Anthropic to buyers group, makes new financing pledge",
-        "excerpt": "The company behind AI tool Claude joins the carbon removal purchasing group, which also announced $915 million in new financing commitments.",
-        "url": "https://www.esgdive.com/news/frontier-climate-adds-anthropic-to-CDR-buyers-group-makes-new-financing-pledge/823407/",
-        "publishedAt": "2026-06-22T16:34:00.000Z",
-        "image": "https://imgproxy.divecdn.com/s1awHO0Kf_AkBKgbjVpsJ5g-dPXwIds96Y3fKnFsxok/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTc0MDAyLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-doj-intervenes-on-behalf-of-xai-in-data--2026-06-22",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "DOJ intervenes on behalf of xAI in data center gas turbine lawsuit",
-        "excerpt": "The Department of Defense said the xAI data center powered by the gas plant is critical to national security, revealing Grok was used to fire thousands of missiles in the Iran war.",
-        "url": "https://www.esgdive.com/news/doj-intervenes-xai-data-center-gas-turbine-lawsuit/823389/",
-        "publishedAt": "2026-06-22T15:25:00.000Z",
-        "image": "https://imgproxy.divecdn.com/HW3x5SEiFrElThd2q6labrXGPN8RI8_C4uc35UCuYtg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3ODUyNTI4LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -1706,31 +1705,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6014",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
-        "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
-        "publishedAt": "2026-04-27T00:00:00.000Z",
-        "image": null,
-        "country": "Malaysia",
-        "methodology": "ACM0001",
-        "registryId": "6014",
-        "status": "Under development",
-        "meta": {
-          "proponent": "Climate Quest Sdn Bhd",
-          "region": "Asia",
-          "creditingPeriodStart": "2025-05-19",
-          "creditingPeriodEnd": "2035-05-18",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6016",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1751,6 +1725,31 @@
           "region": "North America",
           "creditingPeriodStart": "2023-11-08",
           "creditingPeriodEnd": "2068-11-07",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6014",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
+        "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
+        "publishedAt": "2026-04-27T00:00:00.000Z",
+        "image": null,
+        "country": "Malaysia",
+        "methodology": "ACM0001",
+        "registryId": "6014",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Climate Quest Sdn Bhd",
+          "region": "Asia",
+          "creditingPeriodStart": "2025-05-19",
+          "creditingPeriodEnd": "2035-05-18",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -2101,6 +2100,72 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-carb-delays-emissions-reporting-deadline-2026-06-26",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "CARB delays emissions reporting deadline by 3 months",
+      "excerpt": "The agency said it will delay the compliance deadline for California s SB 253 the Climate Corporate Data Accountability Act and propose limited changes.",
+      "url": "https://www.esgdive.com/news/carb-delays-sb-253-ccda-emissions-reporting-deadline-by-3-months/823904/",
+      "publishedAt": "2026-06-26T16:34:00.000Z",
+      "image": "https://imgproxy.divecdn.com/Eqnd_quLKm6b-498FuZKQA749oR6TKLt94uV0Af5HJs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QOEFHUlcuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-luxury-ev-maker-lucid-motors-laying-off--2026-06-26",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Luxury EV-maker Lucid Motors laying off 18% of US workforce, COO resigns",
+      "excerpt": "The layoffs follow a 12% reduction of the company s workforce in February following the launch of the Gravity SUV, its second model.",
+      "url": "https://www.esgdive.com/news/luxury-ev-maker-lucid-motors-laying-off-18-of-us-workforce-coo-resigns/823878/",
+      "publishedAt": "2026-06-26T16:14:00.000Z",
+      "image": "https://imgproxy.divecdn.com/OiU_PC2NgTDQDH4357HT4OPcqP4oC1-yTjRFlmhbJ64/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcnRpY2xlTWVkaWFfMTQwN18xNzcxMzM2NzY5MzE1LndlYnA=.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-chemours-agrees-to-450m-pfas-settlement--2026-06-26",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Chemours agrees to $450M PFAS settlement with US government",
+      "excerpt": "The EPA accused the chemical giant of releasing forever chemicals into rivers near the company s facilities in North Carolina, New Jersey and West Virginia. In some instances, without the required permits.",
+      "url": "https://www.esgdive.com/news/epa-chemours-settle-pfas-claims-tsca-west-virginia-north-carolina-new-jerse/823873/",
+      "publishedAt": "2026-06-26T16:08:00.000Z",
+      "image": "https://imgproxy.divecdn.com/yISvwmLAPsJFjcFhd2cqZmp2PSWm_JlygtGIvWQtsTM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk3MjI2OTgzLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
     {
       "id": "carbon-brief-debriefed-26-june-2026-heat-records-brok-2026-06-26",
       "source": "carbon-brief",
@@ -2685,7 +2750,7 @@
       "tag": "POLICY",
       "accent": "#5eead4",
       "title": "A top-down commitment is crucial for inclusion in 2026, SHRM panelists say",
-      "excerpt": "Members of SHRM s inclusion and diversity council presented a road map for creating diversity and inclusion at work while being mindful of the compliance landscape.",
+      "excerpt": "Members of SHRM’s inclusion and diversity council presented a road map for creating diversity and inclusion at work while being mindful of the compliance landscape. ORLANDO, Fla. — Committing to diversity, equity and inclusion has been hard lately. That was one of the core issues that Ashissh Kaul, Doreen Mosher and Katharine Panessidi’s session sought to address for HR professionals seeking a path forward. Kaul is a part of SHRM India, Mosher works for SHRM Linkage and Panessidi works for SHRM Business, but collectively they’re a part of SHRM’s I&D…",
       "url": "https://www.esgdive.com/news/top-down-leadership-crucial-to-implementing-inclusion-in-the-new-work-landscape/823518/",
       "publishedAt": "2026-06-23T15:49:00.000Z",
       "image": "https://imgproxy.divecdn.com/o0SqlXi6G_dnackhawjAxQvHzxw1rLogM-nHFvegJ7E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfRTMzMzkuSlBH.webp",
@@ -2697,7 +2762,7 @@
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
       },
-      "region": "world"
+      "region": "india"
     },
     {
       "id": "esg-dive-majority-of-business-leaders-fear-a-diso-2026-06-23",
@@ -2711,28 +2776,6 @@
       "url": "https://www.esgdive.com/news/majority-business-leaders-fear-disorderly-climate-transition-wbcsd-survey/823527/",
       "publishedAt": "2026-06-23T15:24:00.000Z",
       "image": "https://imgproxy.divecdn.com/00S1Y8IeHvuPLdqplewAChZNvXUSBuy3gb_SwvwCxh0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ET0Vfc3RvcnlfT2N0Ll8yMDIzXy1fR3JlZW5fYnVpbGRpbmdzX3N0b2NrX2ltYWdlLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-4-out-of-5-companies-can-t-measure-susta-2026-06-23",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "4 out of 5 companies can’t measure sustainability’s financial impact",
-      "excerpt": "While science and target setting have moved forward, valuation tools and financial methodologies have lagged behind, the KPMG report states.",
-      "url": "https://www.esgdive.com/news/4-out-5-companies-cant-measure-sustainabilitys-financial-impact-esg/823512/",
-      "publishedAt": "2026-06-23T15:10:00.000Z",
-      "image": "https://imgproxy.divecdn.com/CU4qA2DG4mC6Zgbjlu-1fSmqINu55vW0GpHzZlwTkc8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzgzNDUxLmpwZw==.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2763,50 +2806,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-frontier-climate-adds-anthropic-to-buyer-2026-06-22",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Frontier Climate adds Anthropic to buyers group, makes new financing pledge",
-      "excerpt": "The company behind AI tool Claude joins the carbon removal purchasing group, which also announced $915 million in new financing commitments.",
-      "url": "https://www.esgdive.com/news/frontier-climate-adds-anthropic-to-CDR-buyers-group-makes-new-financing-pledge/823407/",
-      "publishedAt": "2026-06-22T16:34:00.000Z",
-      "image": "https://imgproxy.divecdn.com/s1awHO0Kf_AkBKgbjVpsJ5g-dPXwIds96Y3fKnFsxok/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTc0MDAyLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-doj-intervenes-on-behalf-of-xai-in-data--2026-06-22",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "DOJ intervenes on behalf of xAI in data center gas turbine lawsuit",
-      "excerpt": "The Department of Defense said the xAI data center powered by the gas plant is critical to national security, revealing Grok was used to fire thousands of missiles in the Iran war.",
-      "url": "https://www.esgdive.com/news/doj-intervenes-xai-data-center-gas-turbine-lawsuit/823389/",
-      "publishedAt": "2026-06-22T15:25:00.000Z",
-      "image": "https://imgproxy.divecdn.com/HW3x5SEiFrElThd2q6labrXGPN8RI8_C4uc35UCuYtg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3ODUyNTI4LmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -2993,30 +2992,6 @@
         "imageSource": "publisher"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-ieefa-report-highlights-key-factors-that-2026-06-06",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "IEEFA Report Highlights Key Factors That Will Shape Carbon Prices Under India's New Trading Scheme - SolarQuarter",
-      "excerpt": "As India moves forward with implementing its Carbon Credit Trading Scheme (CCTS), a new report from the Institute for Energy Economics and Financial Analysis explores the factors that will influence carbon price formation and determine how effectively the scheme supports industrial decarbonisation. The report, titled Potential Drivers of Carbon Price Formation in the CCTS: Design and Market Dynamics in the Indian Carbon Market, examines the structure of India s intensity-based emissions trading system, which will initially cover seven industrial sectors…",
-      "url": "https://solarquarter.com/2026/06/06/ieefa-report-highlights-key-factors-that-will-shape-carbon-prices-under-indias-new-trading-scheme/",
-      "publishedAt": "2026-06-06T07:00:00.000Z",
-      "image": "https://solarquarter.com/wp-content/uploads/2022/10/17-3.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmllSWdIYTh2cHJGOHJwRUhkc0laNmhGQ3ExTHd2ZS1CQkRsSnlxWFpGUlA5UWNQODJtTElaSUJmUmMtN3Jyc2YwQ2gza0RSQXZYZ1dzcWVJTGVOVnlRMlg2UUZpeHZqdE9FLS1QZW9UWmd5V0h6U1ZveTZYVURRZ1h1YkpIanpoLWxITzR0cThQU2JyelByZml4N19XMU1MbktrWWpJQlZDMWVNSmVCc2xzRXlaaURXZV9ENHRiaTlmd2FCaGp0cjhzV2w0aGM?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
@@ -3413,31 +3388,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6014",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
-      "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": null,
-      "country": "Malaysia",
-      "methodology": "ACM0001",
-      "registryId": "6014",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Climate Quest Sdn Bhd",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-05-19",
-        "creditingPeriodEnd": "2035-05-18",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6016",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3458,6 +3408,31 @@
         "region": "North America",
         "creditingPeriodStart": "2023-11-08",
         "creditingPeriodEnd": "2068-11-07",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6014",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
+      "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "image": null,
+      "country": "Malaysia",
+      "methodology": "ACM0001",
+      "registryId": "6014",
+      "status": "Under development",
+      "meta": {
+        "proponent": "Climate Quest Sdn Bhd",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-05-19",
+        "creditingPeriodEnd": "2035-05-18",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
@@ -3866,10 +3841,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market - carboncopy.info",
-      "excerpt": "If a carbon market is a financial system for emissions, then data is its collateral. Credible data is the bedrock on which market legitimacy rests. India is laying the foundation stones of a national compliance carbon market. The market design features and regulatory systems are progressively under development, and industries are starting to prepare for the market. Much of the conversation so far has focused on targets, sectors, and trading rules. These are of course important — but the strongest foundation of an effective carbon market is something far…",
+      "excerpt": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market carboncopy.info",
       "url": "https://carboncopy.info/data-is-the-new-collateral-building-a-high-fidelity-indian-carbon-market",
       "publishedAt": "2026-03-24T07:00:00.000Z",
-      "image": "https://cms.carboncopy.info/assets/780300ce-9cf3-4ddb-9e33-d8fc1dccee06",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3877,7 +3852,30 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-india-launches-centralized-carbon-market-2026-03-23",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
+      "excerpt": "• India launches a national carbon market portal to operationalize its Carbon Credit Trading Scheme across sectors • Nearly 490 entities across seven energy intensive industries now face compliance targets under the framework • Government positions carbon markets as a major channel to unlock capital, drive innovation, and support NDC delivery New Delhi hosted a decisive step in India’s climate and financial architecture as the government inaugurated Prakriti 2026 and launched the Indian Carbon Market Portal, a centralized platform designed to…",
+      "url": "https://esgnews.com/india-launches-carbon-market-portal-to-scale-national-climate-finance/",
+      "publishedAt": "2026-03-23T07:00:00.000Z",
+      "image": "https://esgnews.com/wp-content/uploads/2026/03/India-Launches-Carbon-Market-Portal-to-Scale-National-Climate-Finance.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
