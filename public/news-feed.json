@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-26T20:44:27.644Z",
+  "fetchedAt": "2026-06-27T04:47:02.742Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 87,
-    "india": 23,
-    "world": 64,
-    "withImages": 56,
-    "avgExcerptLength": 435,
+    "india": 22,
+    "world": 65,
+    "withImages": 54,
+    "avgExcerptLength": 420,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -56,47 +56,25 @@
   "sections": {
     "india": [
       {
-        "id": "esg-dive-a-top-down-commitment-is-crucial-for-inc-2026-06-23",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
+        "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-06-24",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
         "type": "esg",
-        "tag": "POLICY",
-        "accent": "#5eead4",
-        "title": "A top-down commitment is crucial for inclusion in 2026, SHRM panelists say",
-        "excerpt": "Members of SHRM’s inclusion and diversity council presented a road map for creating diversity and inclusion at work while being mindful of the compliance landscape. ORLANDO, Fla. — Committing to diversity, equity and inclusion has been hard lately. That was one of the core issues that Ashissh Kaul, Doreen Mosher and Katharine Panessidi’s session sought to address for HR professionals seeking a path forward. Kaul is a part of SHRM India, Mosher works for SHRM Linkage and Panessidi works for SHRM Business, but collectively they’re a part of SHRM’s I&D…",
-        "url": "https://www.esgdive.com/news/top-down-leadership-crucial-to-implementing-inclusion-in-the-new-work-landscape/823518/",
-        "publishedAt": "2026-06-23T15:49:00.000Z",
-        "image": "https://imgproxy.divecdn.com/o0SqlXi6G_dnackhawjAxQvHzxw1rLogM-nHFvegJ7E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfRTMzMzkuSlBH.webp",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
+        "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+        "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
+        "publishedAt": "2026-06-24T16:42:04.000Z",
+        "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-        "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
-        "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
-        "publishedAt": "2026-06-05T07:00:00.000Z",
-        "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -145,30 +123,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVklMemszbG9mYWJGMV9pcUUxcjRGRWZaNW50TkgyMzhOaDhLNjJRM1ZQcVk0MjhHWW5UR09GTmZhQ1N2cm1aSGpaUkZaX3F3U0RLSVJLUHl2QTBpaUE0THJrVmt4d3h4Z0YyaENHN3c5Q3drZlR5VjExd1NIWVBpVHFjX1FNTXR4Q0dlWnllM19BYTRiTmlZdHdKV1NGZFBDUnZ3Mml0WU45NGpaR01JbXZkaFpiazVGVDJCbFp2ZHpVSkkwMHfSAdMBQVVfeXFMTnhaVnA0eGNSY0xFc1JLTjR3SWdzdmJKdXZjenp0T0J0Mm1qTGZNdFZ3TzRIbjlVNmNKRzZ0SjZ0V19BdGEwaWlXSkl6ZHNQSVM1b1RiVDR5aFlhcFc1YUJsSDhFd2JTRkZ4eTFpblBNYm5NR3VGTUkxZlU2WGx3bnpoSG9IdTYzWWt1R1FheFdyVnNYdXRpU1p1azdtdUlRNFAzMVZCWF84Q3ppUkpXOVNpVlNRVGF2SnhPeGxuZ3F1ZGFGQ2FYWWNQenhTUEdOc1JjOA?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-building-trust-in-india-s-carbon-market--2026-05-31",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Building trust in India’s carbon market | Hindustan Times - Hindustan Times",
-        "excerpt": "E-Paper Subscribe Subscribe Enjoy unlimited access Subscribe Now! Get features like India’s climate policy is entering a decisive phase. The Union Budget 2026 allocated ₹ 20,000 crore for Carbon Capture and Utilisation (CCU) in hard-to-abate sectors. The focus has now shifted from ambition to execution. Whether driven by industrial carbon capture or carbon markets, credibility and measurability are now central to India’s climate strategy. Carbon (Getty Images/iStockphoto) India’s Carbon Credit Trading Scheme (CCTS), launched under the Energy…",
-        "url": "https://www.hindustantimes.com/ht-insight/climate-change/building-trust-in-india-s-carbon-market-101780154540297.html",
-        "publishedAt": "2026-05-31T07:00:00.000Z",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/30/550x309/eaa70b94-624b-11ec-b033-bfb7d2010c4a_1640084070662_1780154677128_ab2c2b02-b0d2-4d22-a05d-6227a3a5450e.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWV8yaC04Q3p0WklRNWVyZ2E2MVNFZ3hsQ245UUtGUGpfSmhvWWR0WkltU2NzY1pld0MtUWpzY25KRGxOT01QNmpSakhWU2pxaU5HMzNuQU1EUk1leldadUJVZS1fNmJ1Njg1c044R0JONm9tcFZPOXNGZGFsVW1VYnVtUzRpYXhiY0hQeE1XXzJLMUJWN1llOVlkeFBJZXVCNkpuZnVPRHNuTGxKMzRXOWJnUU5fVlpl0gG-AUFVX3lxTE1nM1RyVHExR3VPZkRuUndZVmd0WHV5LXVrUklUQ0w5YmVEYmhWSjRGMkZ5LXNWNVU4bXlPZ3pPaFQ5R21UaFQwdHRBSTZyZUM1Wm9KaXFJWEIxVUFLVDJGOVNFMkVBZDlFOWtyak1laE5FNGNWWGJxQXJNYkxRc3Bfc013YjNGS0FPZVB4V1FaY2lBSFFvZ0pTZVdzREhOd1dSRTZTdnRwYnp5d0ktbnlCdEM1M09BN0pzcVVwOHc?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -317,6 +271,29 @@
           "creditingPeriodStart": "2025-06-16",
           "creditingPeriodEnd": "2057-06-15",
           "program": "Verified Carbon Standard"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
+        "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
+        "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
+        "publishedAt": "2026-04-14T07:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
         },
         "region": "india"
       },
@@ -518,10 +495,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -529,8 +506,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
         },
         "region": "india"
       },
@@ -1251,6 +1227,28 @@
         "region": "world"
       },
       {
+        "id": "esg-dive-a-top-down-commitment-is-crucial-for-inc-2026-06-23",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "A top-down commitment is crucial for inclusion in 2026, SHRM panelists say",
+        "excerpt": "Members of SHRM s inclusion and diversity council presented a road map for creating diversity and inclusion at work while being mindful of the compliance landscape.",
+        "url": "https://www.esgdive.com/news/top-down-leadership-crucial-to-implementing-inclusion-in-the-new-work-landscape/823518/",
+        "publishedAt": "2026-06-23T15:49:00.000Z",
+        "image": "https://imgproxy.divecdn.com/o0SqlXi6G_dnackhawjAxQvHzxw1rLogM-nHFvegJ7E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfRTMzMzkuSlBH.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-dive-majority-of-business-leaders-fear-a-diso-2026-06-23",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -1705,31 +1703,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6016",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Barnett Zero Project",
-        "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
-        "publishedAt": "2026-04-27T00:00:00.000Z",
-        "image": null,
-        "country": "United States",
-        "methodology": "VM0049",
-        "registryId": "6016",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "BKV Marketing, LLC",
-          "region": "North America",
-          "creditingPeriodStart": "2023-11-08",
-          "creditingPeriodEnd": "2068-11-07",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6014",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1750,6 +1723,31 @@
           "region": "Asia",
           "creditingPeriodStart": "2025-05-19",
           "creditingPeriodEnd": "2035-05-18",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6016",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Barnett Zero Project",
+        "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
+        "publishedAt": "2026-04-27T00:00:00.000Z",
+        "image": null,
+        "country": "United States",
+        "methodology": "VM0049",
+        "registryId": "6016",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "BKV Marketing, LLC",
+          "region": "North America",
+          "creditingPeriodStart": "2023-11-08",
+          "creditingPeriodEnd": "2068-11-07",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -2677,6 +2675,30 @@
       "region": "world"
     },
     {
+      "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-06-24",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
+      "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+      "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
+      "publishedAt": "2026-06-24T16:42:04.000Z",
+      "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "esg-dive-17-republican-ags-suing-over-california--2026-06-24",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2750,7 +2772,7 @@
       "tag": "POLICY",
       "accent": "#5eead4",
       "title": "A top-down commitment is crucial for inclusion in 2026, SHRM panelists say",
-      "excerpt": "Members of SHRM’s inclusion and diversity council presented a road map for creating diversity and inclusion at work while being mindful of the compliance landscape. ORLANDO, Fla. — Committing to diversity, equity and inclusion has been hard lately. That was one of the core issues that Ashissh Kaul, Doreen Mosher and Katharine Panessidi’s session sought to address for HR professionals seeking a path forward. Kaul is a part of SHRM India, Mosher works for SHRM Linkage and Panessidi works for SHRM Business, but collectively they’re a part of SHRM’s I&D…",
+      "excerpt": "Members of SHRM s inclusion and diversity council presented a road map for creating diversity and inclusion at work while being mindful of the compliance landscape.",
       "url": "https://www.esgdive.com/news/top-down-leadership-crucial-to-implementing-inclusion-in-the-new-work-landscape/823518/",
       "publishedAt": "2026-06-23T15:49:00.000Z",
       "image": "https://imgproxy.divecdn.com/o0SqlXi6G_dnackhawjAxQvHzxw1rLogM-nHFvegJ7E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfRTMzMzkuSlBH.webp",
@@ -2762,7 +2784,7 @@
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
       },
-      "region": "india"
+      "region": "world"
     },
     {
       "id": "esg-dive-majority-of-business-leaders-fear-a-diso-2026-06-23",
@@ -2994,30 +3016,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-      "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
-      "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
-      "publishedAt": "2026-06-05T07:00:00.000Z",
-      "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "verra-vcs-6065",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3114,30 +3112,6 @@
         "program": "Verified Carbon Standard"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-building-trust-in-india-s-carbon-market--2026-05-31",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Building trust in India’s carbon market | Hindustan Times - Hindustan Times",
-      "excerpt": "E-Paper Subscribe Subscribe Enjoy unlimited access Subscribe Now! Get features like India’s climate policy is entering a decisive phase. The Union Budget 2026 allocated ₹ 20,000 crore for Carbon Capture and Utilisation (CCU) in hard-to-abate sectors. The focus has now shifted from ambition to execution. Whether driven by industrial carbon capture or carbon markets, credibility and measurability are now central to India’s climate strategy. Carbon (Getty Images/iStockphoto) India’s Carbon Credit Trading Scheme (CCTS), launched under the Energy…",
-      "url": "https://www.hindustantimes.com/ht-insight/climate-change/building-trust-in-india-s-carbon-market-101780154540297.html",
-      "publishedAt": "2026-05-31T07:00:00.000Z",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/05/30/550x309/eaa70b94-624b-11ec-b033-bfb7d2010c4a_1640084070662_1780154677128_ab2c2b02-b0d2-4d22-a05d-6227a3a5450e.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWV8yaC04Q3p0WklRNWVyZ2E2MVNFZ3hsQ245UUtGUGpfSmhvWWR0WkltU2NzY1pld0MtUWpzY25KRGxOT01QNmpSakhWU2pxaU5HMzNuQU1EUk1leldadUJVZS1fNmJ1Njg1c044R0JONm9tcFZPOXNGZGFsVW1VYnVtUzRpYXhiY0hQeE1XXzJLMUJWN1llOVlkeFBJZXVCNkpuZnVPRHNuTGxKMzRXOWJnUU5fVlpl0gG-AUFVX3lxTE1nM1RyVHExR3VPZkRuUndZVmd0WHV5LXVrUklUQ0w5YmVEYmhWSjRGMkZ5LXNWNVU4bXlPZ3pPaFQ5R21UaFQwdHRBSTZyZUM1Wm9KaXFJWEIxVUFLVDJGOVNFMkVBZDlFOWtyak1laE5FNGNWWGJxQXJNYkxRc3Bfc013YjNGS0FPZVB4V1FaY2lBSFFvZ0pTZVdzREhOd1dSRTZTdnRwYnp5d0ktbnlCdEM1M09BN0pzcVVwOHc?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "verra-vcs-6048",
@@ -3388,31 +3362,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6016",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Barnett Zero Project",
-      "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": null,
-      "country": "United States",
-      "methodology": "VM0049",
-      "registryId": "6016",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "BKV Marketing, LLC",
-        "region": "North America",
-        "creditingPeriodStart": "2023-11-08",
-        "creditingPeriodEnd": "2068-11-07",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6014",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3433,6 +3382,31 @@
         "region": "Asia",
         "creditingPeriodStart": "2025-05-19",
         "creditingPeriodEnd": "2035-05-18",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6016",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Barnett Zero Project",
+      "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "image": null,
+      "country": "United States",
+      "methodology": "VM0049",
+      "registryId": "6016",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "BKV Marketing, LLC",
+        "region": "North America",
+        "creditingPeriodStart": "2023-11-08",
+        "creditingPeriodEnd": "2068-11-07",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
@@ -3682,6 +3656,29 @@
         "creditingPeriodStart": "2025-06-16",
         "creditingPeriodEnd": "2057-06-15",
         "program": "Verified Carbon Standard"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
+      "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
+      "publishedAt": "2026-04-14T07:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
       },
       "region": "india"
     },
@@ -4006,10 +4003,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -4017,8 +4014,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
       },
       "region": "india"
     },
