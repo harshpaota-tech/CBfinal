@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-27T09:31:33.620Z",
+  "fetchedAt": "2026-06-27T14:27:14.312Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -1682,31 +1682,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6014",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
-        "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
-        "publishedAt": "2026-04-27T00:00:00.000Z",
-        "image": null,
-        "country": "Malaysia",
-        "methodology": "ACM0001",
-        "registryId": "6014",
-        "status": "Under development",
-        "meta": {
-          "proponent": "Climate Quest Sdn Bhd",
-          "region": "Asia",
-          "creditingPeriodStart": "2025-05-19",
-          "creditingPeriodEnd": "2035-05-18",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6016",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1727,6 +1702,31 @@
           "region": "North America",
           "creditingPeriodStart": "2023-11-08",
           "creditingPeriodEnd": "2068-11-07",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6014",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
+        "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
+        "publishedAt": "2026-04-27T00:00:00.000Z",
+        "image": null,
+        "country": "Malaysia",
+        "methodology": "ACM0001",
+        "registryId": "6014",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Climate Quest Sdn Bhd",
+          "region": "Asia",
+          "creditingPeriodStart": "2025-05-19",
+          "creditingPeriodEnd": "2035-05-18",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -3364,31 +3364,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6014",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
-      "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": null,
-      "country": "Malaysia",
-      "methodology": "ACM0001",
-      "registryId": "6014",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Climate Quest Sdn Bhd",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-05-19",
-        "creditingPeriodEnd": "2035-05-18",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6016",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3409,6 +3384,31 @@
         "region": "North America",
         "creditingPeriodStart": "2023-11-08",
         "creditingPeriodEnd": "2068-11-07",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6014",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
+      "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "image": null,
+      "country": "Malaysia",
+      "methodology": "ACM0001",
+      "registryId": "6014",
+      "status": "Under development",
+      "meta": {
+        "proponent": "Climate Quest Sdn Bhd",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-05-19",
+        "creditingPeriodEnd": "2035-05-18",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
