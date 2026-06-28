@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-28T05:13:51.145Z",
+  "fetchedAt": "2026-06-28T10:06:22.589Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -588,6 +588,28 @@
     ],
     "world": [
       {
+        "id": "esg-today-esg-today-week-in-review-2026-06-28",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "ESG Today: Week in Review",
+        "excerpt": "This week in ESG news: New Chief Sustainability Officers at Nestlé, Cisco, Gap; UK plans new mandatory deforestation supply chain due diligence law; California pushes back start date for corporate climate reporting; New water sustainability milestones at Microsoft, Amazon; Mike Bloomberg pledges $285 million for clean energy sector; EBA simplifies and expands sustainability reporting for banks; Danone, Mars back new $150 million nature-based solutions fund; EU governments ease fossil fuel restrictions in new SFDR sustainable fund category system; LEGO…",
+        "url": "https://www.esgtoday.com/esg-today-week-in-review-267/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-267",
+        "publishedAt": "2026-06-28T08:07:14.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Wind-Austria-1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG News",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-dive-carb-delays-emissions-reporting-deadline-2026-06-26",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -1070,28 +1092,6 @@
         "meta": {
           "category": "Other technologies",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-water-has-a-financing-problem-blue-bonds-2026-06-25",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Water Has a Financing Problem. Blue Bonds Can Fix It.",
-        "excerpt": "As the U.S. water sector faces the challenges of aging infrastructure, worsening drought, contamination, and millions lacking clean water, an urgent need has emerged for a dedicated financing solution. The standard instrument used for funding environmental projects — green bonds — permit water projects but don t prioritize them, leaving water infrastructure to compete for proceeds against larger, better-understood energy transition investments and consistently losing. Now is the moment for the U.S. to build a real market for blue bonds, dedicated…",
-        "url": "https://www.esgtoday.com/water-has-a-financing-problem-blue-bonds-can-fix-it/?utm_source=rss utm_medium=rss utm_campaign=water-has-a-financing-problem-blue-bonds-can-fix-it",
-        "publishedAt": "2026-06-25T08:58:20.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Xylem-Miller.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1658,31 +1658,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6014",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
-        "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
-        "publishedAt": "2026-04-27T00:00:00.000Z",
-        "image": null,
-        "country": "Malaysia",
-        "methodology": "ACM0001",
-        "registryId": "6014",
-        "status": "Under development",
-        "meta": {
-          "proponent": "Climate Quest Sdn Bhd",
-          "region": "Asia",
-          "creditingPeriodStart": "2025-05-19",
-          "creditingPeriodEnd": "2035-05-18",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6016",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1703,6 +1678,31 @@
           "region": "North America",
           "creditingPeriodStart": "2023-11-08",
           "creditingPeriodEnd": "2068-11-07",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6014",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
+        "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
+        "publishedAt": "2026-04-27T00:00:00.000Z",
+        "image": null,
+        "country": "Malaysia",
+        "methodology": "ACM0001",
+        "registryId": "6014",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Climate Quest Sdn Bhd",
+          "region": "Asia",
+          "creditingPeriodStart": "2025-05-19",
+          "creditingPeriodEnd": "2035-05-18",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -2100,6 +2100,28 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-esg-today-week-in-review-2026-06-28",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "ESG Today: Week in Review",
+      "excerpt": "This week in ESG news: New Chief Sustainability Officers at Nestlé, Cisco, Gap; UK plans new mandatory deforestation supply chain due diligence law; California pushes back start date for corporate climate reporting; New water sustainability milestones at Microsoft, Amazon; Mike Bloomberg pledges $285 million for clean energy sector; EBA simplifies and expands sustainability reporting for banks; Danone, Mars back new $150 million nature-based solutions fund; EU governments ease fossil fuel restrictions in new SFDR sustainable fund category system; LEGO…",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-267/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-267",
+      "publishedAt": "2026-06-28T08:07:14.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Wind-Austria-1.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG News",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-dive-carb-delays-emissions-reporting-deadline-2026-06-26",
       "source": "esg-dive",
@@ -2583,28 +2605,6 @@
       "meta": {
         "category": "Other technologies",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-water-has-a-financing-problem-blue-bonds-2026-06-25",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Water Has a Financing Problem. Blue Bonds Can Fix It.",
-      "excerpt": "As the U.S. water sector faces the challenges of aging infrastructure, worsening drought, contamination, and millions lacking clean water, an urgent need has emerged for a dedicated financing solution. The standard instrument used for funding environmental projects — green bonds — permit water projects but don t prioritize them, leaving water infrastructure to compete for proceeds against larger, better-understood energy transition investments and consistently losing. Now is the moment for the U.S. to build a real market for blue bonds, dedicated…",
-      "url": "https://www.esgtoday.com/water-has-a-financing-problem-blue-bonds-can-fix-it/?utm_source=rss utm_medium=rss utm_campaign=water-has-a-financing-problem-blue-bonds-can-fix-it",
-      "publishedAt": "2026-06-25T08:58:20.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Xylem-Miller.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -3317,31 +3317,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6014",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
-      "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": null,
-      "country": "Malaysia",
-      "methodology": "ACM0001",
-      "registryId": "6014",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Climate Quest Sdn Bhd",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-05-19",
-        "creditingPeriodEnd": "2035-05-18",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6016",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3362,6 +3337,31 @@
         "region": "North America",
         "creditingPeriodStart": "2023-11-08",
         "creditingPeriodEnd": "2068-11-07",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6014",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
+      "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "image": null,
+      "country": "Malaysia",
+      "methodology": "ACM0001",
+      "registryId": "6014",
+      "status": "Under development",
+      "meta": {
+        "proponent": "Climate Quest Sdn Bhd",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-05-19",
+        "creditingPeriodEnd": "2035-05-18",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
