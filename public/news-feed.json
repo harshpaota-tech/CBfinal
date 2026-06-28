@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-28T14:46:47.962Z",
+  "fetchedAt": "2026-06-28T20:10:31.195Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -1658,31 +1658,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6016",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Barnett Zero Project",
-        "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
-        "publishedAt": "2026-04-27T00:00:00.000Z",
-        "image": null,
-        "country": "United States",
-        "methodology": "VM0049",
-        "registryId": "6016",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "BKV Marketing, LLC",
-          "region": "North America",
-          "creditingPeriodStart": "2023-11-08",
-          "creditingPeriodEnd": "2068-11-07",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6014",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1703,6 +1678,31 @@
           "region": "Asia",
           "creditingPeriodStart": "2025-05-19",
           "creditingPeriodEnd": "2035-05-18",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6016",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Barnett Zero Project",
+        "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
+        "publishedAt": "2026-04-27T00:00:00.000Z",
+        "image": null,
+        "country": "United States",
+        "methodology": "VM0049",
+        "registryId": "6016",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "BKV Marketing, LLC",
+          "region": "North America",
+          "creditingPeriodStart": "2023-11-08",
+          "creditingPeriodEnd": "2068-11-07",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -3317,31 +3317,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6016",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Barnett Zero Project",
-      "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": null,
-      "country": "United States",
-      "methodology": "VM0049",
-      "registryId": "6016",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "BKV Marketing, LLC",
-        "region": "North America",
-        "creditingPeriodStart": "2023-11-08",
-        "creditingPeriodEnd": "2068-11-07",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6014",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3362,6 +3337,31 @@
         "region": "Asia",
         "creditingPeriodStart": "2025-05-19",
         "creditingPeriodEnd": "2035-05-18",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6016",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Barnett Zero Project",
+      "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "image": null,
+      "country": "United States",
+      "methodology": "VM0049",
+      "registryId": "6016",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "BKV Marketing, LLC",
+        "region": "North America",
+        "creditingPeriodStart": "2023-11-08",
+        "creditingPeriodEnd": "2068-11-07",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
