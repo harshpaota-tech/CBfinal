@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-30T10:33:38.694Z",
+  "fetchedAt": "2026-06-30T15:24:34.994Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 87,
     "india": 22,
     "world": 65,
-    "withImages": 57,
-    "avgExcerptLength": 437,
+    "withImages": 58,
+    "avgExcerptLength": 444,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -325,30 +325,6 @@
         "region": "india"
       },
       {
-        "id": "google-carbon-global-blue-carbon-market-to-reach-usd-1-2026-03-25",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
-        "excerpt": "Strong CAGR of 24.0% reflects premium shift in voluntary carbon markets toward durable, high-integrity removal credits NEWARK, Del. , March 25, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global blue carbon market, valued at USD 1.0 billion in 2025, is projected to reach USD 1.2 billion in 2026 and expand significantly to USD 10.3 billion by 2036, growing at a CAGR of 24.0% during the forecast period, according to analysis by Future Market Insights. The Blue Carbon market is expected to generate an absolute…",
-        "url": "https://www.prnewswire.co.uk/news-releases/global-blue-carbon-market-to-reach-usd-10-3-billion-by-2036--with-strong-growth-across-asia-pacific-india-and-the-us-led-by-verra-gold-standard-and-conservation-international-302724782.html",
-        "publishedAt": "2026-03-25T07:00:00.000Z",
-        "image": "https://mma.prnewswire.com/media/1197648/3531122/FMI_Logo.jpg?p=facebook",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxORU40NERySjF1ZVh1cGlYZzdHa09sblVKYlNHRHktbUw0UUxhbzliTWc5SFNSb3BWRnBRMUsxa2lEa01BR055Qk1LVWtrejMzQm9xeUhvcUkxSUJpOWwxNkxsRDdoaDBwUmhGS0pDNnI4d0Eya2RZc2lhcHNCYm5HZXdjWDRlRjhRODRhaG5Iazdya2FtYjRyb3JtWUVaWFp5bWtZVy1vUWo4VnZMOFhZOS15NHNhVExMZUpvaDBOWUhELVdXRTJPN2hyTGVaVUhwWDFqZ01FWnRyNUJyV1J5ZUlRdHFwbjl2bHVKZ25LWmJSVjRlaTFuNnFXZkNic2Ztd3JfRTRPb1lJX2ZqZW1lVlJTMHZGSm5taU50NlEtcXlpcHBpeFBoT0x4dlRXV2l6azZhWVY3UXRMczBRekZpNXA5RjNkWjR6MzBvQ0RRc0lidw?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-data-is-the-new-collateral-building-a-hi-2026-03-24",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -564,6 +540,30 @@
         "region": "india"
       },
       {
+        "id": "google-h2-green-hydrogen-fuel-in-india-types-benef-2025-07-21",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Green Hydrogen Fuel in India, Types, Benefits and Challenges - StudyIQ",
+        "excerpt": "About Green Hydrogen Green Hydrogen From Bio Waste: Process Green Vs. Grey Hydrogen Types of Hydrogen Why Green Hydrogen for Transportation? Advantages of Green Hydrogen as a Fuel Challenges Associated with Green Hydrogen Production in India India and Green Hydrogen Which Sectors in India Can Benefit from Green Hydrogen? What Steps have been Taken to Promote Green Hydrogen in India? Way Forward Context: Union Minister of New & Renewable Energy Prahlad Joshi lauded the innovation of producing green hydrogen from bio-waste at the Indian Institute of…",
+        "url": "https://www.studyiq.com/articles/green-hydrogen/",
+        "publishedAt": "2025-07-21T07:00:00.000Z",
+        "image": "https://www.studyiq.com/articles/wp-content/uploads/2023/05/20172952/Green-Hydrogen-Fuel.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pMThoZm5Ya29ZX2R3RWk4NjVPeUcwbkNBR3R4QzJGYUxHNXVUekdqMlVvS0t5Q09sTDd0aTFITXo2aUdwd21FcDNEUTBOTlMtMGVET214R3JZWGxB?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -589,6 +589,139 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-zillow-faces-class-action-lawsuit-over-r-2026-06-30",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Zillow faces class-action lawsuit over Redfin deal",
+        "excerpt": "An investor filed a class-action lawsuit in June, claiming he was misled about the nature of the apartment listing giants partnership. Zillow has also been sued by the FTC and several states over the deal.",
+        "url": "https://www.esgdive.com/news/zillow-investor-lawsuit-redfin-partnership/824094/",
+        "publishedAt": "2026-06-30T15:18:00.000Z",
+        "image": "https://imgproxy.divecdn.com/iTRcmL7Nk6ZWXwWc9TDhjiDa-JDh_N-OOCqFlZgQ6JI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg2MjAzMjY4LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-new-zealand-proposes-adopting-ifrs-s2-as-2026-06-30",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "New Zealand Proposes Adopting IFRS S2 as New Climate Reporting Standard",
+        "excerpt": "New Zealand’s External Reporting Board (XRB) announced the launch of a new consultation into a proposal to adopt a new climate reporting standard based on the IFRS Foundation’s IFRS S2 as the basis for its climate disclosure regime, although the new standard would only become mandatory for companies beginning in 2033 under the proposal. New Zealand has had a mandatory climate reporting system in place for financial services and publicly listed companies since 2024, utilizing TCFD-based New Zealand Climate Standards (NZ CS) developed prior to the release…",
+        "url": "https://www.esgtoday.com/new-zealand-proposes-adopting-ifrs-s2-as-new-climate-reporting-standard/?utm_source=rss utm_medium=rss utm_campaign=new-zealand-proposes-adopting-ifrs-s2-as-new-climate-reporting-standard",
+        "publishedAt": "2026-06-30T14:29:26.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/New-Zealand-Parliament.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-releases-results-from-second-part--2026-06-30",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Releases Results from Second Part of Quality Control Review of Kariba Project",
+        "excerpt": "Verra today released the results from the second component of its quality control review (QCR) of the Kariba REDD+ Project. This component was a safeguards-focused review that was conducted following the earlier carbon accounting review . Verra had asked the project’s validation/verification bodies (VVBs) to reassess whether the project met Verra’s safeguards-related rules and requirements at the time of the VVBs’ original assessments, considering the serious allegations raised through media reporting. The VVBs revisited their original audit work, which…",
+        "url": "https://verra.org/verra-releases-results-from-second-part-of-quality-control-review-of-kariba-project/",
+        "publishedAt": "2026-06-30T13:16:32.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/06/ivko-landscape-5053713_1920.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-deep-sky-delivers-first-certified-dac-ca-2026-06-30",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Deep Sky Delivers First Certified DAC Carbon Credits to Microsoft, RBC",
+        "excerpt": "Carbon removal project developer Deep Sky announced the delivery of the first certified direct air capture (DAC) carbon removal credits in North America to offtakers Microsoft and Royal Bank of Canada (RBC). Founded in 2022, Montreal-based Deep Sky was established as a technology-agnostic carbon removal project developer, with projects underway in Canada utilizing methodologies from direct air capture (DAC) to ocean carbon capture, and a goal to remove gigatons of carbon from the atmosphere and permanently store it underground. The company’s founding…",
+        "url": "https://www.esgtoday.com/deep-sky-delivers-first-certified-dac-carbon-credits-to-microsoft-rbc/?utm_source=rss utm_medium=rss utm_campaign=deep-sky-delivers-first-certified-dac-carbon-credits-to-microsoft-rbc",
+        "publishedAt": "2026-06-30T13:09:04.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Deep-Sky2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-airlines-face-a-48-billion-green-squeeze-2026-06-30",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Airlines Face a $48 Billion Green Squeeze",
+        "excerpt": "Rising environmental compliance costs are set to squeeze airline profitability over the next decade, as sustainable aviation fuel (SAF) mandates and carbon pricing policies tighten. BloombergNEF estimates those costs could reach $48 billion by 2035, quadrupling from 2026 levels and pushing some airlines into loss-making territory if revenue fails to keep pace. The burden will not be shared evenly. Europe’s stricter regulatory framework raises costs for departing flights, putting both low-cost and full-service carriers at a disadvantage relative to…",
+        "url": "https://www.esgtoday.com/airlines-face-a-48-billion-green-squeeze/?utm_source=rss utm_medium=rss utm_campaign=airlines-face-a-48-billion-green-squeeze",
+        "publishedAt": "2026-06-30T12:31:36.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Bloomberg-Kawahara.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-generation-im-raises-over-1-billion-for--2026-06-30",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Generation IM Raises Over $1 Billion for Sustainable Transformation-Focused Private Equity Fund",
+        "excerpt": "Generation Investment Management, a sustainability-focused investment firm chaired by former U.S. Vice President Al Gore, announced today the close of Sustainable Private Equity Fund II (SPEF II), raising more than $1 billion for the sustainable transformation-focused fund. The fund is the second vehicle in Generation’s private equity strategy and targets investments in scaled, mission-critical businesses driving the sustainability transformation of their industries. Tom Hodges, Co-Head of Private Equity at Generation Investment Management, said: “Our…",
+        "url": "https://www.esgtoday.com/generation-im-raises-over-1-billion-for-sustainable-transformation-focused-private-equity-fund/?utm_source=rss utm_medium=rss utm_campaign=generation-im-raises-over-1-billion-for-sustainable-transformation-focused-private-equity-fund",
+        "publishedAt": "2026-06-30T11:46:09.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Generation-Gore.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Private Equity & Venture Capital",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-world-bank-drops-climate-finance-target--2026-06-30",
         "source": "esg-today",
@@ -811,50 +944,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-eiffel-launches-1-billion-impact-debt-fu-2026-06-29",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Eiffel Launches €1 Billion Impact Debt Fund",
-        "excerpt": "Paris-based asset manager Eiffel Investment Group announced the launch of Eiffel Impact Debt III, the third vintage of its impact private credit fund, aimed at financing the growth of mid-sized European companies while accelerating their environmental and social transition, using impact objectives contractually embedded in the financing agreements. The new fund is being launched with €500 million (USD$570 million) in commitments raised at the first close, with Eiffel targeting a fund size of €1 billion (USD$1.14 billion). The new fund will provide…",
-        "url": "https://www.esgtoday.com/eiffel-launches-e1-billion-impact-debt-fund/?utm_source=rss utm_medium=rss utm_campaign=eiffel-launches-e1-billion-impact-debt-fund",
-        "publishedAt": "2026-06-29T09:54:24.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Eiffel-Investment.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Private Equity & Venture Capital",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-clarity-ai-launches-asset-level-climate--2026-06-29",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Clarity AI Launches Asset-Level Climate Risk Assessment Solution for Banks, Investors",
-        "excerpt": "Sustainability data and analytics company Clarity AI announced the announced the availability of its asset-level physical risk solution, aimed at enabling asset owners, investors, and banks to assess climate-related physical risks at the asset-level, across a broad range of hazards, scenarios and timelines. According to Clarity AI, physical climate risk is increasingly becoming an immediate financial concern, with more than 75% of institutional investors expecting it to affect asset prices within five years, while more than half say extreme weather…",
-        "url": "https://www.esgtoday.com/clarity-ai-launches-asset-level-climate-risk-assessment-solution-for-banks-investors/?utm_source=rss utm_medium=rss utm_campaign=clarity-ai-launches-asset-level-climate-risk-assessment-solution-for-banks-investors",
-        "publishedAt": "2026-06-29T08:58:41.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Clarity-AI-Physical-Risk.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-guest-post-climate-change-has-caused-one-2026-06-28",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -873,28 +962,6 @@
         "meta": {
           "category": "Guest posts",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-esg-today-week-in-review-2026-06-28",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "ESG Today: Week in Review",
-        "excerpt": "This week in ESG news: New Chief Sustainability Officers at Nestlé, Cisco, Gap; UK plans new mandatory deforestation supply chain due diligence law; California pushes back start date for corporate climate reporting; New water sustainability milestones at Microsoft, Amazon; Mike Bloomberg pledges $285 million for clean energy sector; EBA simplifies and expands sustainability reporting for banks; Danone, Mars back new $150 million nature-based solutions fund; EU governments ease fossil fuel restrictions in new SFDR sustainable fund category system; LEGO…",
-        "url": "https://www.esgtoday.com/esg-today-week-in-review-267/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-267",
-        "publishedAt": "2026-06-28T08:07:14.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Wind-Austria-1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG News",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1005,28 +1072,6 @@
         "meta": {
           "category": "International policy",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-mirova-appoints-l-a-dunand-chatellet-as--2026-06-26",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Mirova Appoints Léa Dunand-Chatellet as CEO",
-        "excerpt": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers (Natixis IM), announced today the appointment of Léa Dunand-Chatellet as its new CEO, succeeding the firm’s outgoing CEO Philippe Zaouati. Mirova was launched as a subsidiary of Natixis Investment Management in 2014, with a focus on sustainable and impact investing. The firm is a conviction-based investment manager designed to offer clients investment solutions combining financial performance with environmental and social impact and accelerating the transformation of the…",
-        "url": "https://www.esgtoday.com/mirova-appoints-lea-dunand-chatellet-as-ceo/?utm_source=rss utm_medium=rss utm_campaign=mirova-appoints-lea-dunand-chatellet-as-ceo",
-        "publishedAt": "2026-06-26T13:54:54.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Mirova-Chatellet.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Executive Moves",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1253,28 +1298,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-un-secretary-general-urges-ai-giants-to--2026-06-23",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "UN secretary general urges AI giants to disclose environmental impact",
-        "excerpt": "Ant nio Guterres called on artificial intelligence companies to make 2030 commitments, as part of a plan for achieving global energy independence and reaching net-zero by 2050.",
-        "url": "https://www.esgdive.com/news/un-secretary-general-guterres-urges-ai-giants-to-disclose-environmental-impact-renewables-2030/823554/",
-        "publishedAt": "2026-06-23T20:56:00.000Z",
-        "image": "https://imgproxy.divecdn.com/KXE9YHIcfzhQJaa7VCT4bY6W6KvPjHK3lGultYWXcuY/g:nowe:0:65/c:8192:4628/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQwMTk4Mzc4LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-verra-partners-with-servicenow-and-docus-2026-06-23",
         "source": "verra",
         "sourceName": "Verra",
@@ -1400,29 +1423,6 @@
         "url": "https://verra.org/verra-publishes-new-methodology-for-alternative-low-carbon-fuels-in-shipping/",
         "publishedAt": "2026-06-16T13:00:00.000Z",
         "image": "https://verra.org/wp-content/uploads/2024/11/shutterstock_1515258689-scaled.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-projects-open-for-public-comment-june-15-2026-06-15",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Projects Open for Public Comment: June 15, 2026",
-        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-        "url": "https://verra.org/projects-open-for-public-comment-june-15-2026/",
-        "publishedAt": "2026-06-15T13:41:28.000Z",
-        "image": "https://verra.org/wp-content/uploads/2024/04/Agents-of-Change-Orchestrating-the-Recycling-Chain-4470-OMA-Ativos-Ambientais-S.A-Brazil-Plastic-waste-bales-1024x683.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1585,6 +1585,31 @@
         "region": "world"
       },
       {
+        "id": "verra-vcs-6023",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Mindoro Arawatan Carbon Project",
+        "excerpt": "Mindoro Arawatan Carbon Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Philippines. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 69,574 tonnes CO₂ equivalent per year. Project proponent: Wovoka Philippines Inc.. Crediting period runs 2025-10-27 to 2055-10-26.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6023",
+        "publishedAt": "2026-05-06T00:00:00.000Z",
+        "image": null,
+        "country": "Philippines",
+        "methodology": "VM0047",
+        "registryId": "6023",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Wovoka Philippines Inc.",
+          "region": "Asia",
+          "creditingPeriodStart": "2025-10-27",
+          "creditingPeriodEnd": "2055-10-26",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
         "id": "verra-vcs-6025",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1660,31 +1685,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6016",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Barnett Zero Project",
-        "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
-        "publishedAt": "2026-04-27T00:00:00.000Z",
-        "image": null,
-        "country": "United States",
-        "methodology": "VM0049",
-        "registryId": "6016",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "BKV Marketing, LLC",
-          "region": "North America",
-          "creditingPeriodStart": "2023-11-08",
-          "creditingPeriodEnd": "2068-11-07",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6014",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1705,6 +1705,31 @@
           "region": "Asia",
           "creditingPeriodStart": "2025-05-19",
           "creditingPeriodEnd": "2035-05-18",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6016",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Barnett Zero Project",
+        "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
+        "publishedAt": "2026-04-27T00:00:00.000Z",
+        "image": null,
+        "country": "United States",
+        "methodology": "VM0049",
+        "registryId": "6016",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "BKV Marketing, LLC",
+          "region": "North America",
+          "creditingPeriodStart": "2023-11-08",
+          "creditingPeriodEnd": "2068-11-07",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -1885,54 +1910,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-5989",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "La Tigra Watershed Conservation ARR/ANR Reforestation Project",
-        "excerpt": "La Tigra Watershed Conservation ARR/ANR Reforestation Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Honduras. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 67,554 tonnes CO₂ equivalent per year. Project proponent: EP Carbon. Crediting period runs 2026-06-01 to 2046-05-31.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/5989",
-        "publishedAt": "2026-04-13T00:00:00.000Z",
-        "image": null,
-        "country": "Honduras",
-        "methodology": "VM0047",
-        "registryId": "5989",
-        "status": "Under development",
-        "meta": {
-          "proponent": "EP Carbon",
-          "region": "Latin America",
-          "creditingPeriodStart": "2026-06-01",
-          "creditingPeriodEnd": "2046-05-31",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "The Evolving Spectrum of Energy Sources - PIB",
-        "excerpt": "The Evolving Spectrum of Energy Sources PIB",
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
-        "publishedAt": "2026-02-28T08:00:00.000Z",
-        "image": null,
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1981,6 +1958,29 @@
         "region": "world"
       },
       {
+        "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
+        "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
+        "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
+        "publishedAt": "2025-12-10T08:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2004,17 +2004,17 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
+        "id": "google-carbon-carbon-market-updates-indonesia-verra-ag-2025-10-16",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Carbon markets are incomplete without nuclear - Utility Dive",
-        "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
-        "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
-        "publishedAt": "2025-09-23T07:00:00.000Z",
-        "image": null,
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
+        "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
+        "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
+        "publishedAt": "2025-10-16T07:00:00.000Z",
+        "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -2022,22 +2022,23 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
       {
-        "id": "google-carbon-systematic-assessment-of-the-achieved-em-2024-11-14",
+        "id": "google-carbon-verra-and-gold-standard-release-insuranc-2025-07-22",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Systematic assessment of the achieved emission reductions of carbon crediting projects - Nature",
-        "excerpt": "Nature Communications volume 15 , Article number: 9562 ( 2024 ) Cite this article Carbon markets play an important role in firms’ and governments’ climate strategies. Carbon crediting mechanisms allow project developers to earn carbon credits through mitigation projects. Several studies have raised concerns about environmental integrity, though a systematic evaluation is missing. We synthesized studies relying on experimental or rigorous observational methods, covering 14 studies on 2346 carbon mitigation projects and 51 studies investigating similar…",
-        "url": "https://www.nature.com/articles/s41467-024-53645-z",
-        "publishedAt": "2024-11-14T08:00:00.000Z",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-024-53645-z/MediaObjects/41467_2024_53645_Fig1_HTML.png",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra and Gold Standard Release Insurance Framework for CORSIA-Eligible Credits - ClearBlue Markets",
+        "excerpt": "On July 16 and 17, 2025, Verra and Gold Standard each announced new insurance frameworks and eligibility criteria aimed at supporting the integrity of CORSIA-eligible carbon credits. These insurance mechanisms are designed to address political risks associated with the potential double counting of emission reductions. As CORSIA enters a new phase of implementation, these developments represent a critical advancement in strengthening the credibility of the program, directly addressing one of its most prominent criticisms. The Carbon Offsetting and…",
+        "url": "https://www.clearbluemarkets.com/knowledge-base/verra-and-gold-standard-release-insurance-framework-for-corsia-eligible-credits",
+        "publishedAt": "2025-07-22T07:00:00.000Z",
+        "image": "https://www.clearbluemarkets.com/hubfs/Blog%20images%20(62).png",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -2045,7 +2046,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SdXhNNGk2MzVfSHB6THp4akR1cUdLSUhJbjJoQkJYSmJCNzg5U1NqMjJMSFFPWi1nU1NKOFUyZWc3VzdvaGJkOEpGbGx3eVI5OVVCcER0OGFaRl95Vms4?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0tGTnd1eDdJYWdKeXp3MkFRT2hDWkxqMzF4R1JZWmRQakNnY0s0NUZQcFF3ZzcxWEdRVkE1WWRIaG1fcmNmclZrTXBZT0cwdDFsSjZrMU1nN3VXRk9kYU9ZWEpocWh3cW9DVW41c3ZwWXF3eHNES0dWb2tiSW1yUXJldUNvclZRZTZqTi1NclpGZzlaWmZrN2g4cFpaWHgwZHpUbXR0Q2Z6TksxbERrVWNmZDBwU01nazdSMUJiZm4wSzM1YmfSAdYBQVVfeXFMTklTZ2poX3lBMXNBekhlR1dRV1dVck1xWHJtSUlUVkRObTBIb1gzekJIcHVXWFhYOEdsR3VhZmNVSmRQR1d3RGJ4RU5qUzR0cElxVjI2MVBDX0FycjQ1T2dXdlBLLUdwYjZmV0R5d2pLSUVGRWFnR1duSE5WN2RlQ0lqaHRvQ212b1c4Y0JPNzhrX2dDNG9jY3pjWmJiYWZYX2FsNW5JWjNXTXF1NXJ2QVBvY201RTdxXzI3SEFTY042dUJvZ05uNlZxeHd1eG9ndzI0SnhZZw?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -2101,6 +2102,139 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-zillow-faces-class-action-lawsuit-over-r-2026-06-30",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Zillow faces class-action lawsuit over Redfin deal",
+      "excerpt": "An investor filed a class-action lawsuit in June, claiming he was misled about the nature of the apartment listing giants partnership. Zillow has also been sued by the FTC and several states over the deal.",
+      "url": "https://www.esgdive.com/news/zillow-investor-lawsuit-redfin-partnership/824094/",
+      "publishedAt": "2026-06-30T15:18:00.000Z",
+      "image": "https://imgproxy.divecdn.com/iTRcmL7Nk6ZWXwWc9TDhjiDa-JDh_N-OOCqFlZgQ6JI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg2MjAzMjY4LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-new-zealand-proposes-adopting-ifrs-s2-as-2026-06-30",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "New Zealand Proposes Adopting IFRS S2 as New Climate Reporting Standard",
+      "excerpt": "New Zealand’s External Reporting Board (XRB) announced the launch of a new consultation into a proposal to adopt a new climate reporting standard based on the IFRS Foundation’s IFRS S2 as the basis for its climate disclosure regime, although the new standard would only become mandatory for companies beginning in 2033 under the proposal. New Zealand has had a mandatory climate reporting system in place for financial services and publicly listed companies since 2024, utilizing TCFD-based New Zealand Climate Standards (NZ CS) developed prior to the release…",
+      "url": "https://www.esgtoday.com/new-zealand-proposes-adopting-ifrs-s2-as-new-climate-reporting-standard/?utm_source=rss utm_medium=rss utm_campaign=new-zealand-proposes-adopting-ifrs-s2-as-new-climate-reporting-standard",
+      "publishedAt": "2026-06-30T14:29:26.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/New-Zealand-Parliament.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-verra-releases-results-from-second-part--2026-06-30",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Releases Results from Second Part of Quality Control Review of Kariba Project",
+      "excerpt": "Verra today released the results from the second component of its quality control review (QCR) of the Kariba REDD+ Project. This component was a safeguards-focused review that was conducted following the earlier carbon accounting review . Verra had asked the project’s validation/verification bodies (VVBs) to reassess whether the project met Verra’s safeguards-related rules and requirements at the time of the VVBs’ original assessments, considering the serious allegations raised through media reporting. The VVBs revisited their original audit work, which…",
+      "url": "https://verra.org/verra-releases-results-from-second-part-of-quality-control-review-of-kariba-project/",
+      "publishedAt": "2026-06-30T13:16:32.000Z",
+      "image": "https://verra.org/wp-content/uploads/2026/06/ivko-landscape-5053713_1920.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-deep-sky-delivers-first-certified-dac-ca-2026-06-30",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Deep Sky Delivers First Certified DAC Carbon Credits to Microsoft, RBC",
+      "excerpt": "Carbon removal project developer Deep Sky announced the delivery of the first certified direct air capture (DAC) carbon removal credits in North America to offtakers Microsoft and Royal Bank of Canada (RBC). Founded in 2022, Montreal-based Deep Sky was established as a technology-agnostic carbon removal project developer, with projects underway in Canada utilizing methodologies from direct air capture (DAC) to ocean carbon capture, and a goal to remove gigatons of carbon from the atmosphere and permanently store it underground. The company’s founding…",
+      "url": "https://www.esgtoday.com/deep-sky-delivers-first-certified-dac-carbon-credits-to-microsoft-rbc/?utm_source=rss utm_medium=rss utm_campaign=deep-sky-delivers-first-certified-dac-carbon-credits-to-microsoft-rbc",
+      "publishedAt": "2026-06-30T13:09:04.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Deep-Sky2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-airlines-face-a-48-billion-green-squeeze-2026-06-30",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Airlines Face a $48 Billion Green Squeeze",
+      "excerpt": "Rising environmental compliance costs are set to squeeze airline profitability over the next decade, as sustainable aviation fuel (SAF) mandates and carbon pricing policies tighten. BloombergNEF estimates those costs could reach $48 billion by 2035, quadrupling from 2026 levels and pushing some airlines into loss-making territory if revenue fails to keep pace. The burden will not be shared evenly. Europe’s stricter regulatory framework raises costs for departing flights, putting both low-cost and full-service carriers at a disadvantage relative to…",
+      "url": "https://www.esgtoday.com/airlines-face-a-48-billion-green-squeeze/?utm_source=rss utm_medium=rss utm_campaign=airlines-face-a-48-billion-green-squeeze",
+      "publishedAt": "2026-06-30T12:31:36.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Bloomberg-Kawahara.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-generation-im-raises-over-1-billion-for--2026-06-30",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Generation IM Raises Over $1 Billion for Sustainable Transformation-Focused Private Equity Fund",
+      "excerpt": "Generation Investment Management, a sustainability-focused investment firm chaired by former U.S. Vice President Al Gore, announced today the close of Sustainable Private Equity Fund II (SPEF II), raising more than $1 billion for the sustainable transformation-focused fund. The fund is the second vehicle in Generation’s private equity strategy and targets investments in scaled, mission-critical businesses driving the sustainability transformation of their industries. Tom Hodges, Co-Head of Private Equity at Generation Investment Management, said: “Our…",
+      "url": "https://www.esgtoday.com/generation-im-raises-over-1-billion-for-sustainable-transformation-focused-private-equity-fund/?utm_source=rss utm_medium=rss utm_campaign=generation-im-raises-over-1-billion-for-sustainable-transformation-focused-private-equity-fund",
+      "publishedAt": "2026-06-30T11:46:09.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Generation-Gore.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Private Equity & Venture Capital",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-world-bank-drops-climate-finance-target--2026-06-30",
       "source": "esg-today",
@@ -2323,50 +2457,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-eiffel-launches-1-billion-impact-debt-fu-2026-06-29",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Eiffel Launches €1 Billion Impact Debt Fund",
-      "excerpt": "Paris-based asset manager Eiffel Investment Group announced the launch of Eiffel Impact Debt III, the third vintage of its impact private credit fund, aimed at financing the growth of mid-sized European companies while accelerating their environmental and social transition, using impact objectives contractually embedded in the financing agreements. The new fund is being launched with €500 million (USD$570 million) in commitments raised at the first close, with Eiffel targeting a fund size of €1 billion (USD$1.14 billion). The new fund will provide…",
-      "url": "https://www.esgtoday.com/eiffel-launches-e1-billion-impact-debt-fund/?utm_source=rss utm_medium=rss utm_campaign=eiffel-launches-e1-billion-impact-debt-fund",
-      "publishedAt": "2026-06-29T09:54:24.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Eiffel-Investment.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Private Equity & Venture Capital",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-clarity-ai-launches-asset-level-climate--2026-06-29",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Clarity AI Launches Asset-Level Climate Risk Assessment Solution for Banks, Investors",
-      "excerpt": "Sustainability data and analytics company Clarity AI announced the announced the availability of its asset-level physical risk solution, aimed at enabling asset owners, investors, and banks to assess climate-related physical risks at the asset-level, across a broad range of hazards, scenarios and timelines. According to Clarity AI, physical climate risk is increasingly becoming an immediate financial concern, with more than 75% of institutional investors expecting it to affect asset prices within five years, while more than half say extreme weather…",
-      "url": "https://www.esgtoday.com/clarity-ai-launches-asset-level-climate-risk-assessment-solution-for-banks-investors/?utm_source=rss utm_medium=rss utm_campaign=clarity-ai-launches-asset-level-climate-risk-assessment-solution-for-banks-investors",
-      "publishedAt": "2026-06-29T08:58:41.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Clarity-AI-Physical-Risk.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-guest-post-climate-change-has-caused-one-2026-06-28",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2385,28 +2475,6 @@
       "meta": {
         "category": "Guest posts",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-esg-today-week-in-review-2026-06-28",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "ESG Today: Week in Review",
-      "excerpt": "This week in ESG news: New Chief Sustainability Officers at Nestlé, Cisco, Gap; UK plans new mandatory deforestation supply chain due diligence law; California pushes back start date for corporate climate reporting; New water sustainability milestones at Microsoft, Amazon; Mike Bloomberg pledges $285 million for clean energy sector; EBA simplifies and expands sustainability reporting for banks; Danone, Mars back new $150 million nature-based solutions fund; EU governments ease fossil fuel restrictions in new SFDR sustainable fund category system; LEGO…",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-267/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-267",
-      "publishedAt": "2026-06-28T08:07:14.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Wind-Austria-1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG News",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2517,28 +2585,6 @@
       "meta": {
         "category": "International policy",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-mirova-appoints-l-a-dunand-chatellet-as--2026-06-26",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Mirova Appoints Léa Dunand-Chatellet as CEO",
-      "excerpt": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers (Natixis IM), announced today the appointment of Léa Dunand-Chatellet as its new CEO, succeeding the firm’s outgoing CEO Philippe Zaouati. Mirova was launched as a subsidiary of Natixis Investment Management in 2014, with a focus on sustainable and impact investing. The firm is a conviction-based investment manager designed to offer clients investment solutions combining financial performance with environmental and social impact and accelerating the transformation of the…",
-      "url": "https://www.esgtoday.com/mirova-appoints-lea-dunand-chatellet-as-ceo/?utm_source=rss utm_medium=rss utm_campaign=mirova-appoints-lea-dunand-chatellet-as-ceo",
-      "publishedAt": "2026-06-26T13:54:54.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Mirova-Chatellet.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Executive Moves",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2765,28 +2811,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-un-secretary-general-urges-ai-giants-to--2026-06-23",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "UN secretary general urges AI giants to disclose environmental impact",
-      "excerpt": "Ant nio Guterres called on artificial intelligence companies to make 2030 commitments, as part of a plan for achieving global energy independence and reaching net-zero by 2050.",
-      "url": "https://www.esgdive.com/news/un-secretary-general-guterres-urges-ai-giants-to-disclose-environmental-impact-renewables-2030/823554/",
-      "publishedAt": "2026-06-23T20:56:00.000Z",
-      "image": "https://imgproxy.divecdn.com/KXE9YHIcfzhQJaa7VCT4bY6W6KvPjHK3lGultYWXcuY/g:nowe:0:65/c:8192:4628/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQwMTk4Mzc4LmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-partners-with-servicenow-and-docus-2026-06-23",
       "source": "verra",
       "sourceName": "Verra",
@@ -2912,29 +2936,6 @@
       "url": "https://verra.org/verra-publishes-new-methodology-for-alternative-low-carbon-fuels-in-shipping/",
       "publishedAt": "2026-06-16T13:00:00.000Z",
       "image": "https://verra.org/wp-content/uploads/2024/11/shutterstock_1515258689-scaled.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-projects-open-for-public-comment-june-15-2026-06-15",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Projects Open for Public Comment: June 15, 2026",
-      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-      "url": "https://verra.org/projects-open-for-public-comment-june-15-2026/",
-      "publishedAt": "2026-06-15T13:41:28.000Z",
-      "image": "https://verra.org/wp-content/uploads/2024/04/Agents-of-Change-Orchestrating-the-Recycling-Chain-4470-OMA-Ativos-Ambientais-S.A-Brazil-Plastic-waste-bales-1024x683.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3244,6 +3245,31 @@
       "region": "world"
     },
     {
+      "id": "verra-vcs-6023",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Mindoro Arawatan Carbon Project",
+      "excerpt": "Mindoro Arawatan Carbon Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Philippines. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 69,574 tonnes CO₂ equivalent per year. Project proponent: Wovoka Philippines Inc.. Crediting period runs 2025-10-27 to 2055-10-26.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6023",
+      "publishedAt": "2026-05-06T00:00:00.000Z",
+      "image": null,
+      "country": "Philippines",
+      "methodology": "VM0047",
+      "registryId": "6023",
+      "status": "Under development",
+      "meta": {
+        "proponent": "Wovoka Philippines Inc.",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-10-27",
+        "creditingPeriodEnd": "2055-10-26",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
       "id": "verra-vcs-6025",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3319,31 +3345,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6016",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Barnett Zero Project",
-      "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": null,
-      "country": "United States",
-      "methodology": "VM0049",
-      "registryId": "6016",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "BKV Marketing, LLC",
-        "region": "North America",
-        "creditingPeriodStart": "2023-11-08",
-        "creditingPeriodEnd": "2068-11-07",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6014",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3364,6 +3365,31 @@
         "region": "Asia",
         "creditingPeriodStart": "2025-05-19",
         "creditingPeriodEnd": "2035-05-18",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6016",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Barnett Zero Project",
+      "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "image": null,
+      "country": "United States",
+      "methodology": "VM0049",
+      "registryId": "6016",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "BKV Marketing, LLC",
+        "region": "North America",
+        "creditingPeriodStart": "2023-11-08",
+        "creditingPeriodEnd": "2068-11-07",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
@@ -3666,55 +3692,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-5989",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "La Tigra Watershed Conservation ARR/ANR Reforestation Project",
-      "excerpt": "La Tigra Watershed Conservation ARR/ANR Reforestation Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Honduras. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 67,554 tonnes CO₂ equivalent per year. Project proponent: EP Carbon. Crediting period runs 2026-06-01 to 2046-05-31.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/5989",
-      "publishedAt": "2026-04-13T00:00:00.000Z",
-      "image": null,
-      "country": "Honduras",
-      "methodology": "VM0047",
-      "registryId": "5989",
-      "status": "Under development",
-      "meta": {
-        "proponent": "EP Carbon",
-        "region": "Latin America",
-        "creditingPeriodStart": "2026-06-01",
-        "creditingPeriodEnd": "2046-05-31",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-global-blue-carbon-market-to-reach-usd-1-2026-03-25",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
-      "excerpt": "Strong CAGR of 24.0% reflects premium shift in voluntary carbon markets toward durable, high-integrity removal credits NEWARK, Del. , March 25, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global blue carbon market, valued at USD 1.0 billion in 2025, is projected to reach USD 1.2 billion in 2026 and expand significantly to USD 10.3 billion by 2036, growing at a CAGR of 24.0% during the forecast period, according to analysis by Future Market Insights. The Blue Carbon market is expected to generate an absolute…",
-      "url": "https://www.prnewswire.co.uk/news-releases/global-blue-carbon-market-to-reach-usd-10-3-billion-by-2036--with-strong-growth-across-asia-pacific-india-and-the-us-led-by-verra-gold-standard-and-conservation-international-302724782.html",
-      "publishedAt": "2026-03-25T07:00:00.000Z",
-      "image": "https://mma.prnewswire.com/media/1197648/3531122/FMI_Logo.jpg?p=facebook",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxORU40NERySjF1ZVh1cGlYZzdHa09sblVKYlNHRHktbUw0UUxhbzliTWc5SFNSb3BWRnBRMUsxa2lEa01BR055Qk1LVWtrejMzQm9xeUhvcUkxSUJpOWwxNkxsRDdoaDBwUmhGS0pDNnI4d0Eya2RZc2lhcHNCYm5HZXdjWDRlRjhRODRhaG5Iazdya2FtYjRyb3JtWUVaWFp5bWtZVy1vUWo4VnZMOFhZOS15NHNhVExMZUpvaDBOWUhELVdXRTJPN2hyTGVaVUhwWDFqZ01FWnRyNUJyV1J5ZUlRdHFwbjl2bHVKZ25LWmJSVjRlaTFuNnFXZkNic2Ztd3JfRTRPb1lJX2ZqZW1lVlJTMHZGSm5taU50NlEtcXlpcHBpeFBoT0x4dlRXV2l6azZhWVY3UXRMczBRekZpNXA5RjNkWjR6MzBvQ0RRc0lidw?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-data-is-the-new-collateral-building-a-hi-2026-03-24",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -3784,29 +3761,6 @@
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
       },
       "region": "india"
-    },
-    {
-      "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "The Evolving Spectrum of Energy Sources - PIB",
-      "excerpt": "The Evolving Spectrum of Energy Sources PIB",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
-      "publishedAt": "2026-02-28T08:00:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
-      },
-      "region": "world"
     },
     {
       "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
@@ -3929,6 +3883,29 @@
       "region": "india"
     },
     {
+      "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
+      "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
+      "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
+      "publishedAt": "2025-12-10T08:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -3976,17 +3953,17 @@
       "region": "india"
     },
     {
-      "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
+      "id": "google-carbon-carbon-market-updates-indonesia-verra-ag-2025-10-16",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
       "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Carbon markets are incomplete without nuclear - Utility Dive",
-      "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
-      "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
-      "publishedAt": "2025-09-23T07:00:00.000Z",
-      "image": null,
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
+      "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
+      "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
+      "publishedAt": "2025-10-16T07:00:00.000Z",
+      "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3994,7 +3971,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -4047,6 +4025,54 @@
       "region": "india"
     },
     {
+      "id": "google-carbon-verra-and-gold-standard-release-insuranc-2025-07-22",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra and Gold Standard Release Insurance Framework for CORSIA-Eligible Credits - ClearBlue Markets",
+      "excerpt": "On July 16 and 17, 2025, Verra and Gold Standard each announced new insurance frameworks and eligibility criteria aimed at supporting the integrity of CORSIA-eligible carbon credits. These insurance mechanisms are designed to address political risks associated with the potential double counting of emission reductions. As CORSIA enters a new phase of implementation, these developments represent a critical advancement in strengthening the credibility of the program, directly addressing one of its most prominent criticisms. The Carbon Offsetting and…",
+      "url": "https://www.clearbluemarkets.com/knowledge-base/verra-and-gold-standard-release-insurance-framework-for-corsia-eligible-credits",
+      "publishedAt": "2025-07-22T07:00:00.000Z",
+      "image": "https://www.clearbluemarkets.com/hubfs/Blog%20images%20(62).png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0tGTnd1eDdJYWdKeXp3MkFRT2hDWkxqMzF4R1JZWmRQakNnY0s0NUZQcFF3ZzcxWEdRVkE1WWRIaG1fcmNmclZrTXBZT0cwdDFsSjZrMU1nN3VXRk9kYU9ZWEpocWh3cW9DVW41c3ZwWXF3eHNES0dWb2tiSW1yUXJldUNvclZRZTZqTi1NclpGZzlaWmZrN2g4cFpaWHgwZHpUbXR0Q2Z6TksxbERrVWNmZDBwU01nazdSMUJiZm4wSzM1YmfSAdYBQVVfeXFMTklTZ2poX3lBMXNBekhlR1dRV1dVck1xWHJtSUlUVkRObTBIb1gzekJIcHVXWFhYOEdsR3VhZmNVSmRQR1d3RGJ4RU5qUzR0cElxVjI2MVBDX0FycjQ1T2dXdlBLLUdwYjZmV0R5d2pLSUVGRWFnR1duSE5WN2RlQ0lqaHRvQ212b1c4Y0JPNzhrX2dDNG9jY3pjWmJiYWZYX2FsNW5JWjNXTXF1NXJ2QVBvY201RTdxXzI3SEFTY042dUJvZ05uNlZxeHd1eG9ndzI0SnhZZw?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-h2-green-hydrogen-fuel-in-india-types-benef-2025-07-21",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Green Hydrogen Fuel in India, Types, Benefits and Challenges - StudyIQ",
+      "excerpt": "About Green Hydrogen Green Hydrogen From Bio Waste: Process Green Vs. Grey Hydrogen Types of Hydrogen Why Green Hydrogen for Transportation? Advantages of Green Hydrogen as a Fuel Challenges Associated with Green Hydrogen Production in India India and Green Hydrogen Which Sectors in India Can Benefit from Green Hydrogen? What Steps have been Taken to Promote Green Hydrogen in India? Way Forward Context: Union Minister of New & Renewable Energy Prahlad Joshi lauded the innovation of producing green hydrogen from bio-waste at the Indian Institute of…",
+      "url": "https://www.studyiq.com/articles/green-hydrogen/",
+      "publishedAt": "2025-07-21T07:00:00.000Z",
+      "image": "https://www.studyiq.com/articles/wp-content/uploads/2023/05/20172952/Green-Hydrogen-Fuel.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pMThoZm5Ya29ZX2R3RWk4NjVPeUcwbkNBR3R4QzJGYUxHNXVUekdqMlVvS0t5Q09sTDd0aTFITXo2aUdwd21FcDNEUTBOTlMtMGVET214R3JZWGxB?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -4069,30 +4095,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "google-carbon-systematic-assessment-of-the-achieved-em-2024-11-14",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Systematic assessment of the achieved emission reductions of carbon crediting projects - Nature",
-      "excerpt": "Nature Communications volume 15 , Article number: 9562 ( 2024 ) Cite this article Carbon markets play an important role in firms’ and governments’ climate strategies. Carbon crediting mechanisms allow project developers to earn carbon credits through mitigation projects. Several studies have raised concerns about environmental integrity, though a systematic evaluation is missing. We synthesized studies relying on experimental or rigorous observational methods, covering 14 studies on 2346 carbon mitigation projects and 51 studies investigating similar…",
-      "url": "https://www.nature.com/articles/s41467-024-53645-z",
-      "publishedAt": "2024-11-14T08:00:00.000Z",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-024-53645-z/MediaObjects/41467_2024_53645_Fig1_HTML.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SdXhNNGk2MzVfSHB6THp4akR1cUdLSUhJbjJoQkJYSmJCNzg5U1NqMjJMSFFPWi1nU1NKOFUyZWc3VzdvaGJkOEpGbGx3eVI5OVVCcER0OGFaRl95Vms4?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
     },
     {
       "id": "google-carbon-renewable-energy-carbon-credits-losing-s-2024-08-07",
