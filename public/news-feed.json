@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-30T15:24:34.994Z",
+  "fetchedAt": "2026-06-30T20:55:52.350Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,8 +45,8 @@
   ],
   "stats": {
     "total": 87,
-    "india": 22,
-    "world": 65,
+    "india": 23,
+    "world": 64,
     "withImages": 58,
     "avgExcerptLength": 444,
     "verra": 10,
@@ -149,6 +149,31 @@
           "region": "Asia",
           "creditingPeriodStart": "2025-06-06",
           "creditingPeriodEnd": "2032-06-05",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "india"
+      },
+      {
+        "id": "verra-vcs-6045",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd.",
+        "excerpt": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd. is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies AMS-I.F.; AMS-III.D. methodology. Estimated annual emission reductions are 12,284 tonnes CO₂ equivalent per year. Project proponent: Asvata Climate Solutions Private Limited. Crediting period runs 2025-10-15 to 2032-10-14.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6045",
+        "publishedAt": "2026-05-28T00:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": "AMS-I.F.; AMS-III.D.",
+        "registryId": "6045",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Asvata Climate Solutions Private Limited",
+          "region": "Asia",
+          "creditingPeriodStart": "2025-10-15",
+          "creditingPeriodEnd": "2032-10-14",
           "program": "Verified Carbon Standard"
         },
         "region": "india"
@@ -590,6 +615,50 @@
     ],
     "world": [
       {
+        "id": "esg-dive-world-bank-to-sunset-key-climate-financi-2026-06-30",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "World Bank to sunset key climate financing goal following US pressure",
+        "excerpt": "The organization is scrapping a target to commit 45% of its annual financing to projects with climate co-benefits amid increased scrutiny from the Trump administration.",
+        "url": "https://www.esgdive.com/news/world-bank-to-sunset-key-climate-financing-goal-following-us-pressure/824118/",
+        "publishedAt": "2026-06-30T16:48:59.000Z",
+        "image": "https://imgproxy.divecdn.com/ZzVgeAWRiQBW2Qw5yvX5Gp5FjKjDX846TF0Ucs7zxdo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MzIxMzUuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-eu-adopts-new-circularity-requirements-f-2026-06-30",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EU Adopts New Circularity Requirements for Vehicles",
+        "excerpt": "The European Council announced the adoption by EU Member States of a new regulation introducing circularity requirements for vehicles across their lifecycle, including recycled content in design, making vehicles easier to dismantle, repair, reuse and recycle, and making carmakers responsible for treatment of end-of-life vehicles. The adoption by the Council marks the last major step in the legislative procedure for the new regulation, following its adoption earlier this month by lawmakers in the European Parliament. The new regulation was initially…",
+        "url": "https://www.esgtoday.com/eu-adopts-new-circularity-requirements-for-vehicles/?utm_source=rss utm_medium=rss utm_campaign=eu-adopts-new-circularity-requirements-for-vehicles",
+        "publishedAt": "2026-06-30T15:33:28.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/EU-flags4-1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-dive-zillow-faces-class-action-lawsuit-over-r-2026-06-30",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -922,28 +991,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-china-unveils-goal-to-grow-non-fossil-en-2026-06-29",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "China Unveils Goal to Grow Non-Fossil Energy to 50% of Power Generation by 2030",
-        "excerpt": "China’s National Development and Reform Commission and the National Energy Administration announced a series of energy system goals under a new 5-year plan, including plans for non-fossil energy to become the primary electricity source at 50% of total power generation, and for coal and oil consumption to peak, by 2030. While acknowledging the increased planned role for clean energy in China’s power mix, however, environmental and energy transition-focused groups criticized the new plan as lacking ambition, with Lauri Myllyvirta, co-founder of the Centre…",
-        "url": "https://www.esgtoday.com/china-sets-goal-to-grow-non-fossil-energy-to-half-of-power-generation-by-2030/?utm_source=rss utm_medium=rss utm_campaign=china-sets-goal-to-grow-non-fossil-energy-to-half-of-power-generation-by-2030",
-        "publishedAt": "2026-06-29T10:37:24.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Solar-and-wind.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-guest-post-climate-change-has-caused-one-2026-06-28",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1265,28 +1312,6 @@
         "url": "https://www.esgdive.com/news/microsoft-claims-2025-water-replenishment-milestone/823666/",
         "publishedAt": "2026-06-24T18:00:00.000Z",
         "image": "https://imgproxy.divecdn.com/M9rbIcl9nDltxcDgDsors3_aPASxSGt67GgnMs4xdQE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMTg1ODI2LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-17-republican-ags-suing-over-california--2026-06-24",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "POLICY",
-        "accent": "#5eead4",
-        "title": "17 Republican AGs suing over California packaging EPR law",
-        "excerpt": "Less than a month out from a trial in Oregon, the National Association of Wholesaler-Distributors says it s joining this California lawsuit as the sole business plaintiff.",
-        "url": "https://www.esgdive.com/news/state-attorneys-general-lawsuit-california-sb54-nebraska-national-association-wholesalers/823638/",
-        "publishedAt": "2026-06-24T16:24:00.000Z",
-        "image": "https://imgproxy.divecdn.com/J2Q8_EiB4l3iVyyJzpakADQsab5YT5cIPi0RsbvHSCo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDkyNjY3ODQyLmpwZw==.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1685,31 +1710,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6014",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
-        "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
-        "publishedAt": "2026-04-27T00:00:00.000Z",
-        "image": null,
-        "country": "Malaysia",
-        "methodology": "ACM0001",
-        "registryId": "6014",
-        "status": "Under development",
-        "meta": {
-          "proponent": "Climate Quest Sdn Bhd",
-          "region": "Asia",
-          "creditingPeriodStart": "2025-05-19",
-          "creditingPeriodEnd": "2035-05-18",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6016",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1730,6 +1730,31 @@
           "region": "North America",
           "creditingPeriodStart": "2023-11-08",
           "creditingPeriodEnd": "2068-11-07",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6014",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
+        "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
+        "publishedAt": "2026-04-27T00:00:00.000Z",
+        "image": null,
+        "country": "Malaysia",
+        "methodology": "ACM0001",
+        "registryId": "6014",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Climate Quest Sdn Bhd",
+          "region": "Asia",
+          "creditingPeriodStart": "2025-05-19",
+          "creditingPeriodEnd": "2035-05-18",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -1885,31 +1910,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-5988",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Certified Livestock Emissions Abatement with Rumin8 in Beef Confinement",
-        "excerpt": "Certified Livestock Emissions Abatement with Rumin8 in Beef Confinement is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under development\". It applies VM0041 methodology. Estimated annual emission reductions are 5,87,000 tonnes CO₂ equivalent per year. Project proponent: Rumin8 Pty Ltd.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/5988",
-        "publishedAt": "2026-04-13T00:00:00.000Z",
-        "image": null,
-        "country": "United States",
-        "methodology": "VM0041",
-        "registryId": "5988",
-        "status": "Under development",
-        "meta": {
-          "proponent": "Rumin8 Pty Ltd",
-          "region": "North America",
-          "creditingPeriodStart": null,
-          "creditingPeriodEnd": null,
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1958,17 +1958,17 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
+        "id": "google-carbon-carbon-credit-project-developers-baulk-a-2026-01-20",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
-        "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
-        "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
-        "publishedAt": "2025-12-10T08:00:00.000Z",
-        "image": null,
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon credit project developers baulk at new Gold Standard rules - edie.net",
+        "excerpt": "Dozens of companies developing carbon credit projects have asked industry standards body Gold Standard to be more lenient in its alignment with the global Paris Agreement on climate change. Join our growing army of changemakers and get access to our free content Image: Carolina Pino for Verra. Trees classed as part of a deforestation avoidance project that generates carbon credits. Gold Standard first committed to aligning its requirements with those set out under the Paris Agreement in 2021. International negotiators subsequently agreed on the…",
+        "url": "https://www.edie.net/carbon-credit-project-developers-baulk-at-new-gold-standard-rules/",
+        "publishedAt": "2026-01-20T08:00:00.000Z",
+        "image": "https://edienetlive.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/2/TreesVerraCarbon.gif",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1976,7 +1976,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hYOXV2Q0hBbG1uRXVLQWFNYlFTbHRvUVpuTGd0OFI0Qm43bVg3WkU3V2lEWERzQU9ZbzV2N3VHX2M5VnpnRlpOdXNmNC1FZzQwZ3czd00wU1VQbWhQVmhsdjRiRVdXaHpiMnN1N1UxcmM1eWgtMGt6WkFoVWpLLXAtUlZfczYzT3haNE1BSEbSAZwBQVVfeXFMT1ZUREJlS1YxdzBMN3N2TjVyV3RzdWo0RDNrZ0E1bENjMXVJRTlVeVRZNXl5UFI0eEZjdWlpcEYxU2ZiaDBIMzlZUTRDTWlBVGg4SHBiMkJyVDRkSGRhd1NUWWc2cHZOR0J5UWVsYXNIMUFJMnVGLTNRLXQ1Tnk3ZHNneHN2Tk1UMHZOZmJRQks4RGlsVHRRUlFzTmF5?oc=5",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -2004,17 +2005,17 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-carbon-market-updates-indonesia-verra-ag-2025-10-16",
+        "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
-        "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
-        "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
-        "publishedAt": "2025-10-16T07:00:00.000Z",
-        "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon markets are incomplete without nuclear - Utility Dive",
+        "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
+        "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
+        "publishedAt": "2025-09-23T07:00:00.000Z",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -2022,23 +2023,22 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
         },
         "region": "world"
       },
       {
-        "id": "google-carbon-verra-and-gold-standard-release-insuranc-2025-07-22",
+        "id": "google-carbon-systematic-assessment-of-the-achieved-em-2024-11-14",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra and Gold Standard Release Insurance Framework for CORSIA-Eligible Credits - ClearBlue Markets",
-        "excerpt": "On July 16 and 17, 2025, Verra and Gold Standard each announced new insurance frameworks and eligibility criteria aimed at supporting the integrity of CORSIA-eligible carbon credits. These insurance mechanisms are designed to address political risks associated with the potential double counting of emission reductions. As CORSIA enters a new phase of implementation, these developments represent a critical advancement in strengthening the credibility of the program, directly addressing one of its most prominent criticisms. The Carbon Offsetting and…",
-        "url": "https://www.clearbluemarkets.com/knowledge-base/verra-and-gold-standard-release-insurance-framework-for-corsia-eligible-credits",
-        "publishedAt": "2025-07-22T07:00:00.000Z",
-        "image": "https://www.clearbluemarkets.com/hubfs/Blog%20images%20(62).png",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Systematic assessment of the achieved emission reductions of carbon crediting projects - Nature",
+        "excerpt": "Nature Communications volume 15 , Article number: 9562 ( 2024 ) Cite this article Carbon markets play an important role in firms’ and governments’ climate strategies. Carbon crediting mechanisms allow project developers to earn carbon credits through mitigation projects. Several studies have raised concerns about environmental integrity, though a systematic evaluation is missing. We synthesized studies relying on experimental or rigorous observational methods, covering 14 studies on 2346 carbon mitigation projects and 51 studies investigating similar…",
+        "url": "https://www.nature.com/articles/s41467-024-53645-z",
+        "publishedAt": "2024-11-14T08:00:00.000Z",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-024-53645-z/MediaObjects/41467_2024_53645_Fig1_HTML.png",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -2046,7 +2046,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0tGTnd1eDdJYWdKeXp3MkFRT2hDWkxqMzF4R1JZWmRQakNnY0s0NUZQcFF3ZzcxWEdRVkE1WWRIaG1fcmNmclZrTXBZT0cwdDFsSjZrMU1nN3VXRk9kYU9ZWEpocWh3cW9DVW41c3ZwWXF3eHNES0dWb2tiSW1yUXJldUNvclZRZTZqTi1NclpGZzlaWmZrN2g4cFpaWHgwZHpUbXR0Q2Z6TksxbERrVWNmZDBwU01nazdSMUJiZm4wSzM1YmfSAdYBQVVfeXFMTklTZ2poX3lBMXNBekhlR1dRV1dVck1xWHJtSUlUVkRObTBIb1gzekJIcHVXWFhYOEdsR3VhZmNVSmRQR1d3RGJ4RU5qUzR0cElxVjI2MVBDX0FycjQ1T2dXdlBLLUdwYjZmV0R5d2pLSUVGRWFnR1duSE5WN2RlQ0lqaHRvQ212b1c4Y0JPNzhrX2dDNG9jY3pjWmJiYWZYX2FsNW5JWjNXTXF1NXJ2QVBvY201RTdxXzI3SEFTY042dUJvZ05uNlZxeHd1eG9ndzI0SnhZZw?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SdXhNNGk2MzVfSHB6THp4akR1cUdLSUhJbjJoQkJYSmJCNzg5U1NqMjJMSFFPWi1nU1NKOFUyZWc3VzdvaGJkOEpGbGx3eVI5OVVCcER0OGFaRl95Vms4?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -2102,6 +2102,50 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-world-bank-to-sunset-key-climate-financi-2026-06-30",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "World Bank to sunset key climate financing goal following US pressure",
+      "excerpt": "The organization is scrapping a target to commit 45% of its annual financing to projects with climate co-benefits amid increased scrutiny from the Trump administration.",
+      "url": "https://www.esgdive.com/news/world-bank-to-sunset-key-climate-financing-goal-following-us-pressure/824118/",
+      "publishedAt": "2026-06-30T16:48:59.000Z",
+      "image": "https://imgproxy.divecdn.com/ZzVgeAWRiQBW2Qw5yvX5Gp5FjKjDX846TF0Ucs7zxdo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MzIxMzUuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-eu-adopts-new-circularity-requirements-f-2026-06-30",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EU Adopts New Circularity Requirements for Vehicles",
+      "excerpt": "The European Council announced the adoption by EU Member States of a new regulation introducing circularity requirements for vehicles across their lifecycle, including recycled content in design, making vehicles easier to dismantle, repair, reuse and recycle, and making carmakers responsible for treatment of end-of-life vehicles. The adoption by the Council marks the last major step in the legislative procedure for the new regulation, following its adoption earlier this month by lawmakers in the European Parliament. The new regulation was initially…",
+      "url": "https://www.esgtoday.com/eu-adopts-new-circularity-requirements-for-vehicles/?utm_source=rss utm_medium=rss utm_campaign=eu-adopts-new-circularity-requirements-for-vehicles",
+      "publishedAt": "2026-06-30T15:33:28.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/EU-flags4-1.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-dive-zillow-faces-class-action-lawsuit-over-r-2026-06-30",
       "source": "esg-dive",
@@ -2430,28 +2474,6 @@
       "status": null,
       "meta": {
         "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-china-unveils-goal-to-grow-non-fossil-en-2026-06-29",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "China Unveils Goal to Grow Non-Fossil Energy to 50% of Power Generation by 2030",
-      "excerpt": "China’s National Development and Reform Commission and the National Energy Administration announced a series of energy system goals under a new 5-year plan, including plans for non-fossil energy to become the primary electricity source at 50% of total power generation, and for coal and oil consumption to peak, by 2030. While acknowledging the increased planned role for clean energy in China’s power mix, however, environmental and energy transition-focused groups criticized the new plan as lacking ambition, with Lauri Myllyvirta, co-founder of the Centre…",
-      "url": "https://www.esgtoday.com/china-sets-goal-to-grow-non-fossil-energy-to-half-of-power-generation-by-2030/?utm_source=rss utm_medium=rss utm_campaign=china-sets-goal-to-grow-non-fossil-energy-to-half-of-power-generation-by-2030",
-      "publishedAt": "2026-06-29T10:37:24.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Solar-and-wind.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
         "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
@@ -2789,28 +2811,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-17-republican-ags-suing-over-california--2026-06-24",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "POLICY",
-      "accent": "#5eead4",
-      "title": "17 Republican AGs suing over California packaging EPR law",
-      "excerpt": "Less than a month out from a trial in Oregon, the National Association of Wholesaler-Distributors says it s joining this California lawsuit as the sole business plaintiff.",
-      "url": "https://www.esgdive.com/news/state-attorneys-general-lawsuit-california-sb54-nebraska-national-association-wholesalers/823638/",
-      "publishedAt": "2026-06-24T16:24:00.000Z",
-      "image": "https://imgproxy.divecdn.com/J2Q8_EiB4l3iVyyJzpakADQsab5YT5cIPi0RsbvHSCo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDkyNjY3ODQyLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-partners-with-servicenow-and-docus-2026-06-23",
       "source": "verra",
       "sourceName": "Verra",
@@ -3096,6 +3096,31 @@
       "region": "india"
     },
     {
+      "id": "verra-vcs-6045",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd.",
+      "excerpt": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd. is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies AMS-I.F.; AMS-III.D. methodology. Estimated annual emission reductions are 12,284 tonnes CO₂ equivalent per year. Project proponent: Asvata Climate Solutions Private Limited. Crediting period runs 2025-10-15 to 2032-10-14.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6045",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": "AMS-I.F.; AMS-III.D.",
+      "registryId": "6045",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "Asvata Climate Solutions Private Limited",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-10-15",
+        "creditingPeriodEnd": "2032-10-14",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "india"
+    },
+    {
       "id": "verra-vcs-6046",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3345,31 +3370,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6014",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
-      "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": null,
-      "country": "Malaysia",
-      "methodology": "ACM0001",
-      "registryId": "6014",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Climate Quest Sdn Bhd",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-05-19",
-        "creditingPeriodEnd": "2035-05-18",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6016",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3390,6 +3390,31 @@
         "region": "North America",
         "creditingPeriodStart": "2023-11-08",
         "creditingPeriodEnd": "2068-11-07",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6014",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
+      "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "image": null,
+      "country": "Malaysia",
+      "methodology": "ACM0001",
+      "registryId": "6014",
+      "status": "Under development",
+      "meta": {
+        "proponent": "Climate Quest Sdn Bhd",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-05-19",
+        "creditingPeriodEnd": "2035-05-18",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
@@ -3667,31 +3692,6 @@
       "region": "india"
     },
     {
-      "id": "verra-vcs-5988",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Certified Livestock Emissions Abatement with Rumin8 in Beef Confinement",
-      "excerpt": "Certified Livestock Emissions Abatement with Rumin8 in Beef Confinement is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under development\". It applies VM0041 methodology. Estimated annual emission reductions are 5,87,000 tonnes CO₂ equivalent per year. Project proponent: Rumin8 Pty Ltd.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/5988",
-      "publishedAt": "2026-04-13T00:00:00.000Z",
-      "image": null,
-      "country": "United States",
-      "methodology": "VM0041",
-      "registryId": "5988",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Rumin8 Pty Ltd",
-        "region": "North America",
-        "creditingPeriodStart": null,
-        "creditingPeriodEnd": null,
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-data-is-the-new-collateral-building-a-hi-2026-03-24",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -3835,6 +3835,30 @@
       "region": "world"
     },
     {
+      "id": "google-carbon-carbon-credit-project-developers-baulk-a-2026-01-20",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon credit project developers baulk at new Gold Standard rules - edie.net",
+      "excerpt": "Dozens of companies developing carbon credit projects have asked industry standards body Gold Standard to be more lenient in its alignment with the global Paris Agreement on climate change. Join our growing army of changemakers and get access to our free content Image: Carolina Pino for Verra. Trees classed as part of a deforestation avoidance project that generates carbon credits. Gold Standard first committed to aligning its requirements with those set out under the Paris Agreement in 2021. International negotiators subsequently agreed on the…",
+      "url": "https://www.edie.net/carbon-credit-project-developers-baulk-at-new-gold-standard-rules/",
+      "publishedAt": "2026-01-20T08:00:00.000Z",
+      "image": "https://edienetlive.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/2/TreesVerraCarbon.gif",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hYOXV2Q0hBbG1uRXVLQWFNYlFTbHRvUVpuTGd0OFI0Qm43bVg3WkU3V2lEWERzQU9ZbzV2N3VHX2M5VnpnRlpOdXNmNC1FZzQwZ3czd00wU1VQbWhQVmhsdjRiRVdXaHpiMnN1N1UxcmM1eWgtMGt6WkFoVWpLLXAtUlZfczYzT3haNE1BSEbSAZwBQVVfeXFMT1ZUREJlS1YxdzBMN3N2TjVyV3RzdWo0RDNrZ0E1bENjMXVJRTlVeVRZNXl5UFI0eEZjdWlpcEYxU2ZiaDBIMzlZUTRDTWlBVGg4SHBiMkJyVDRkSGRhd1NUWWc2cHZOR0J5UWVsYXNIMUFJMnVGLTNRLXQ1Tnk3ZHNneHN2Tk1UMHZOZmJRQks4RGlsVHRRUlFzTmF5?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-india-how-ccts-is-accelerating-india-inc-s-rac-2026-01-08",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -3881,29 +3905,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
-      "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
-      "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
-      "publishedAt": "2025-12-10T08:00:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
-      },
-      "region": "world"
     },
     {
       "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
@@ -3953,17 +3954,17 @@
       "region": "india"
     },
     {
-      "id": "google-carbon-carbon-market-updates-indonesia-verra-ag-2025-10-16",
+      "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
       "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
-      "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
-      "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
-      "publishedAt": "2025-10-16T07:00:00.000Z",
-      "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon markets are incomplete without nuclear - Utility Dive",
+      "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
+      "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
+      "publishedAt": "2025-09-23T07:00:00.000Z",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3971,8 +3972,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
       },
       "region": "world"
     },
@@ -4025,30 +4025,6 @@
       "region": "india"
     },
     {
-      "id": "google-carbon-verra-and-gold-standard-release-insuranc-2025-07-22",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra and Gold Standard Release Insurance Framework for CORSIA-Eligible Credits - ClearBlue Markets",
-      "excerpt": "On July 16 and 17, 2025, Verra and Gold Standard each announced new insurance frameworks and eligibility criteria aimed at supporting the integrity of CORSIA-eligible carbon credits. These insurance mechanisms are designed to address political risks associated with the potential double counting of emission reductions. As CORSIA enters a new phase of implementation, these developments represent a critical advancement in strengthening the credibility of the program, directly addressing one of its most prominent criticisms. The Carbon Offsetting and…",
-      "url": "https://www.clearbluemarkets.com/knowledge-base/verra-and-gold-standard-release-insurance-framework-for-corsia-eligible-credits",
-      "publishedAt": "2025-07-22T07:00:00.000Z",
-      "image": "https://www.clearbluemarkets.com/hubfs/Blog%20images%20(62).png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0tGTnd1eDdJYWdKeXp3MkFRT2hDWkxqMzF4R1JZWmRQakNnY0s0NUZQcFF3ZzcxWEdRVkE1WWRIaG1fcmNmclZrTXBZT0cwdDFsSjZrMU1nN3VXRk9kYU9ZWEpocWh3cW9DVW41c3ZwWXF3eHNES0dWb2tiSW1yUXJldUNvclZRZTZqTi1NclpGZzlaWmZrN2g4cFpaWHgwZHpUbXR0Q2Z6TksxbERrVWNmZDBwU01nazdSMUJiZm4wSzM1YmfSAdYBQVVfeXFMTklTZ2poX3lBMXNBekhlR1dRV1dVck1xWHJtSUlUVkRObTBIb1gzekJIcHVXWFhYOEdsR3VhZmNVSmRQR1d3RGJ4RU5qUzR0cElxVjI2MVBDX0FycjQ1T2dXdlBLLUdwYjZmV0R5d2pLSUVGRWFnR1duSE5WN2RlQ0lqaHRvQ212b1c4Y0JPNzhrX2dDNG9jY3pjWmJiYWZYX2FsNW5JWjNXTXF1NXJ2QVBvY201RTdxXzI3SEFTY042dUJvZ05uNlZxeHd1eG9ndzI0SnhZZw?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-h2-green-hydrogen-fuel-in-india-types-benef-2025-07-21",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -4095,6 +4071,30 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-carbon-systematic-assessment-of-the-achieved-em-2024-11-14",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Systematic assessment of the achieved emission reductions of carbon crediting projects - Nature",
+      "excerpt": "Nature Communications volume 15 , Article number: 9562 ( 2024 ) Cite this article Carbon markets play an important role in firms’ and governments’ climate strategies. Carbon crediting mechanisms allow project developers to earn carbon credits through mitigation projects. Several studies have raised concerns about environmental integrity, though a systematic evaluation is missing. We synthesized studies relying on experimental or rigorous observational methods, covering 14 studies on 2346 carbon mitigation projects and 51 studies investigating similar…",
+      "url": "https://www.nature.com/articles/s41467-024-53645-z",
+      "publishedAt": "2024-11-14T08:00:00.000Z",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-024-53645-z/MediaObjects/41467_2024_53645_Fig1_HTML.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SdXhNNGk2MzVfSHB6THp4akR1cUdLSUhJbjJoQkJYSmJCNzg5U1NqMjJMSFFPWi1nU1NKOFUyZWc3VzdvaGJkOEpGbGx3eVI5OVVCcER0OGFaRl95Vms4?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-renewable-energy-carbon-credits-losing-s-2024-08-07",
