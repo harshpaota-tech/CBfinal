@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-01T05:18:44.148Z",
+  "fetchedAt": "2026-07-01T10:44:46.723Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 87,
     "india": 23,
     "world": 64,
-    "withImages": 58,
-    "avgExcerptLength": 445,
+    "withImages": 57,
+    "avgExcerptLength": 439,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -476,10 +476,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -487,8 +487,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
         },
         "region": "india"
       },
@@ -614,6 +613,50 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-kkr-acquires-edf-s-north-american-renewa-2026-07-01",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "KKR Acquires EDF’s North American Renewable Energy Business for $4.2 Billion",
+        "excerpt": "Alternative asset manager KKR announced the acquisition of EDF Group’s U.S. and Canadian power solutions businesses, in a transaction valued at $4.2 billion, with potential additional payments of up to $390 million, marking KKR’s largest individual investment to date in the renewables sector. EDF power solutions North America is among the top ten owners of renewable energy capacity in the U.S. The business owns and operates a diversified portfolio of solar, wind, and battery storage assets and manages an integrated platform spanning project development,…",
+        "url": "https://www.esgtoday.com/kkr-acquires-edfs-north-american-renewable-energy-business-for-4-2-billion/?utm_source=rss utm_medium=rss utm_campaign=kkr-acquires-edfs-north-american-renewable-energy-business-for-4-2-billion",
+        "publishedAt": "2026-07-01T09:52:55.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/KKR.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-not-just-voluntary-credits-three-trends--2026-07-01",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Not Just Voluntary Credits: Three Trends Shaping the Next Phase of CDR Demand",
+        "excerpt": "Unless we do something about it, the world won’t be free of climate risk, even in the best-case scenarios of decarbonization: we’ve simply built up too much carbon in our atmosphere. To overcome decades of imbalance, we not only need to reduce current emissions, we need to embrace solutions that purify our atmosphere and help reset the clock. This is where the field of carbon dioxide removal, or CDR, comes in. CDR is deliberate human activity that removes CO 2 from the atmosphere and durably stores it in ocean, land, or rock reservoirs, or in products.…",
+        "url": "https://www.esgtoday.com/not-just-voluntary-credits-three-trends-shaping-the-next-phase-of-cdr-demand/?utm_source=rss utm_medium=rss utm_campaign=not-just-voluntary-credits-three-trends-shaping-the-next-phase-of-cdr-demand",
+        "publishedAt": "2026-07-01T09:15:34.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/RMI-Pike.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-world-bank-to-sunset-key-climate-financi-2026-06-30",
         "source": "esg-dive",
@@ -924,28 +967,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-issb-to-allow-use-of-tnfd-metrics-to-mee-2026-06-29",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "ISSB to Allow Use of TNFD Metrics to Meet Nature-Related Disclosure Requirements",
-        "excerpt": "The IFRS Foundation s International Sustainability Standards Board (ISSB) has proposed allowing companies to use Taskforce on Nature-related Financial Disclosures (TNFD) disclosure metrics to help meet nature-related disclosure requirements, and confirmed that it will draw on the TNFD framework in developing its upcoming draft Practice Statement for nature-related disclosures. The update comes as the ISSB is in the process of developing a new IFRS Practice Statement to enable companies on providing standardized disclosures on nature-related risks and…",
-        "url": "https://www.esgtoday.com/issb-to-allow-use-of-tnfd-metrics-to-meet-nature-related-disclosure-requirements/?utm_source=rss utm_medium=rss utm_campaign=issb-to-allow-use-of-tnfd-metrics-to-meet-nature-related-disclosure-requirements",
-        "publishedAt": "2026-06-29T14:57:23.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/IFRS2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-projects-open-for-public-comment-june-29-2026-06-29",
         "source": "verra",
         "sourceName": "Verra",
@@ -965,28 +986,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-mcdonald-s-appoints-suheily-natal-davis--2026-06-29",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "McDonald’s Appoints Suheily Natal Davis as Chief Sustainability, Social Impact Inclusion Officer",
-        "excerpt": "McDonald’s has appointed Suheily Natal Davis as its new Chief Sustainability, Social Impact & Inclusion Officer. The appointment marks an expansion of the company’s top sustainability role to incorporate inclusion, with Natal Davis succeeding Chief Sustainability & Social Impact Officer Beth Hart in the position. Hart has been appointed Vice President, Global Category Lead for Beef at the company. Natal Davis takes on the new role after 12 years at McDonald’s, initially joining the company as Senior Counsel, Global Labor & Employment, and most recently…",
-        "url": "https://www.esgtoday.com/mcdonalds-appoints-suheily-natal-davis-as-chief-sustainability-social-impact-inclusion-officer/?utm_source=rss utm_medium=rss utm_campaign=mcdonalds-appoints-suheily-natal-davis-as-chief-sustainability-social-impact-inclusion-officer",
-        "publishedAt": "2026-06-29T11:28:12.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/McDonalds-Davis.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1710,31 +1709,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6016",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Barnett Zero Project",
-        "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
-        "publishedAt": "2026-04-27T00:00:00.000Z",
-        "image": null,
-        "country": "United States",
-        "methodology": "VM0049",
-        "registryId": "6016",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "BKV Marketing, LLC",
-          "region": "North America",
-          "creditingPeriodStart": "2023-11-08",
-          "creditingPeriodEnd": "2068-11-07",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6014",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1755,6 +1729,31 @@
           "region": "Asia",
           "creditingPeriodStart": "2025-05-19",
           "creditingPeriodEnd": "2035-05-18",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6016",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Barnett Zero Project",
+        "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
+        "publishedAt": "2026-04-27T00:00:00.000Z",
+        "image": null,
+        "country": "United States",
+        "methodology": "VM0049",
+        "registryId": "6016",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "BKV Marketing, LLC",
+          "region": "North America",
+          "creditingPeriodStart": "2023-11-08",
+          "creditingPeriodEnd": "2068-11-07",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -2103,6 +2102,50 @@
   },
   "articles": [
     {
+      "id": "esg-today-kkr-acquires-edf-s-north-american-renewa-2026-07-01",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "KKR Acquires EDF’s North American Renewable Energy Business for $4.2 Billion",
+      "excerpt": "Alternative asset manager KKR announced the acquisition of EDF Group’s U.S. and Canadian power solutions businesses, in a transaction valued at $4.2 billion, with potential additional payments of up to $390 million, marking KKR’s largest individual investment to date in the renewables sector. EDF power solutions North America is among the top ten owners of renewable energy capacity in the U.S. The business owns and operates a diversified portfolio of solar, wind, and battery storage assets and manages an integrated platform spanning project development,…",
+      "url": "https://www.esgtoday.com/kkr-acquires-edfs-north-american-renewable-energy-business-for-4-2-billion/?utm_source=rss utm_medium=rss utm_campaign=kkr-acquires-edfs-north-american-renewable-energy-business-for-4-2-billion",
+      "publishedAt": "2026-07-01T09:52:55.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/KKR.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-not-just-voluntary-credits-three-trends--2026-07-01",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Not Just Voluntary Credits: Three Trends Shaping the Next Phase of CDR Demand",
+      "excerpt": "Unless we do something about it, the world won’t be free of climate risk, even in the best-case scenarios of decarbonization: we’ve simply built up too much carbon in our atmosphere. To overcome decades of imbalance, we not only need to reduce current emissions, we need to embrace solutions that purify our atmosphere and help reset the clock. This is where the field of carbon dioxide removal, or CDR, comes in. CDR is deliberate human activity that removes CO 2 from the atmosphere and durably stores it in ocean, land, or rock reservoirs, or in products.…",
+      "url": "https://www.esgtoday.com/not-just-voluntary-credits-three-trends-shaping-the-next-phase-of-cdr-demand/?utm_source=rss utm_medium=rss utm_campaign=not-just-voluntary-credits-three-trends-shaping-the-next-phase-of-cdr-demand",
+      "publishedAt": "2026-07-01T09:15:34.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/RMI-Pike.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-world-bank-to-sunset-key-climate-financi-2026-06-30",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2412,28 +2455,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-issb-to-allow-use-of-tnfd-metrics-to-mee-2026-06-29",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "ISSB to Allow Use of TNFD Metrics to Meet Nature-Related Disclosure Requirements",
-      "excerpt": "The IFRS Foundation s International Sustainability Standards Board (ISSB) has proposed allowing companies to use Taskforce on Nature-related Financial Disclosures (TNFD) disclosure metrics to help meet nature-related disclosure requirements, and confirmed that it will draw on the TNFD framework in developing its upcoming draft Practice Statement for nature-related disclosures. The update comes as the ISSB is in the process of developing a new IFRS Practice Statement to enable companies on providing standardized disclosures on nature-related risks and…",
-      "url": "https://www.esgtoday.com/issb-to-allow-use-of-tnfd-metrics-to-meet-nature-related-disclosure-requirements/?utm_source=rss utm_medium=rss utm_campaign=issb-to-allow-use-of-tnfd-metrics-to-meet-nature-related-disclosure-requirements",
-      "publishedAt": "2026-06-29T14:57:23.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/IFRS2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-june-29-2026-06-29",
       "source": "verra",
       "sourceName": "Verra",
@@ -2453,28 +2474,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-mcdonald-s-appoints-suheily-natal-davis--2026-06-29",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "McDonald’s Appoints Suheily Natal Davis as Chief Sustainability, Social Impact Inclusion Officer",
-      "excerpt": "McDonald’s has appointed Suheily Natal Davis as its new Chief Sustainability, Social Impact & Inclusion Officer. The appointment marks an expansion of the company’s top sustainability role to incorporate inclusion, with Natal Davis succeeding Chief Sustainability & Social Impact Officer Beth Hart in the position. Hart has been appointed Vice President, Global Category Lead for Beef at the company. Natal Davis takes on the new role after 12 years at McDonald’s, initially joining the company as Senior Counsel, Global Labor & Employment, and most recently…",
-      "url": "https://www.esgtoday.com/mcdonalds-appoints-suheily-natal-davis-as-chief-sustainability-social-impact-inclusion-officer/?utm_source=rss utm_medium=rss utm_campaign=mcdonalds-appoints-suheily-natal-davis-as-chief-sustainability-social-impact-inclusion-officer",
-      "publishedAt": "2026-06-29T11:28:12.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/McDonalds-Davis.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -3370,31 +3369,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6016",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Barnett Zero Project",
-      "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": null,
-      "country": "United States",
-      "methodology": "VM0049",
-      "registryId": "6016",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "BKV Marketing, LLC",
-        "region": "North America",
-        "creditingPeriodStart": "2023-11-08",
-        "creditingPeriodEnd": "2068-11-07",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6014",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3415,6 +3389,31 @@
         "region": "Asia",
         "creditingPeriodStart": "2025-05-19",
         "creditingPeriodEnd": "2035-05-18",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6016",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Barnett Zero Project",
+      "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "image": null,
+      "country": "United States",
+      "methodology": "VM0049",
+      "registryId": "6016",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "BKV Marketing, LLC",
+        "region": "North America",
+        "creditingPeriodStart": "2023-11-08",
+        "creditingPeriodEnd": "2068-11-07",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
@@ -3890,10 +3889,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3901,8 +3900,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
       },
       "region": "india"
     },
