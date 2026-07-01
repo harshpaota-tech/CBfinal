@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-06-30T20:55:52.350Z",
+  "fetchedAt": "2026-07-01T05:18:44.148Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 23,
     "world": 64,
     "withImages": 58,
-    "avgExcerptLength": 444,
+    "avgExcerptLength": 445,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -622,7 +622,7 @@
         "tag": "CLIMATE",
         "accent": "#34d399",
         "title": "World Bank to sunset key climate financing goal following US pressure",
-        "excerpt": "The organization is scrapping a target to commit 45% of its annual financing to projects with climate co-benefits amid increased scrutiny from the Trump administration.",
+        "excerpt": "The organization is scrapping a target to commit 45% of its annual financing to projects with climate benefits amid increased scrutiny from the Trump administration.",
         "url": "https://www.esgdive.com/news/world-bank-to-sunset-key-climate-financing-goal-following-us-pressure/824118/",
         "publishedAt": "2026-06-30T16:48:59.000Z",
         "image": "https://imgproxy.divecdn.com/ZzVgeAWRiQBW2Qw5yvX5Gp5FjKjDX846TF0Ucs7zxdo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MzIxMzUuanBn.webp",
@@ -1667,7 +1667,7 @@
         "tag": "VCS PROJECT",
         "accent": "#86efac",
         "title": "Spitfire Flare Gas Conservation Project",
-        "excerpt": "Spitfire Flare Gas Conservation Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Nigeria. The project is currently listed as \"Under development\". It applies AM0009 methodology. Estimated annual emission reductions are 1,90,000 tonnes CO₂ equivalent per year. Project proponent: CarbonAi Inc..",
+        "excerpt": "Spitfire Flare Gas Conservation Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Nigeria. The project is currently listed as \"Under development\". It applies AM0009 methodology. Estimated annual emission reductions are 1,90,000 tonnes CO₂ equivalent per year. Project proponent: CarbonAi Inc.. Crediting period runs 2026-07-01 to 2036-06-30.",
         "url": "https://registry.verra.org/app/projectDetail/VCS/6026",
         "publishedAt": "2026-05-06T00:00:00.000Z",
         "image": null,
@@ -1678,8 +1678,8 @@
         "meta": {
           "proponent": "CarbonAi Inc.",
           "region": "Africa",
-          "creditingPeriodStart": null,
-          "creditingPeriodEnd": null,
+          "creditingPeriodStart": "2026-07-01",
+          "creditingPeriodEnd": "2036-06-30",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -2110,7 +2110,7 @@
       "tag": "CLIMATE",
       "accent": "#34d399",
       "title": "World Bank to sunset key climate financing goal following US pressure",
-      "excerpt": "The organization is scrapping a target to commit 45% of its annual financing to projects with climate co-benefits amid increased scrutiny from the Trump administration.",
+      "excerpt": "The organization is scrapping a target to commit 45% of its annual financing to projects with climate benefits amid increased scrutiny from the Trump administration.",
       "url": "https://www.esgdive.com/news/world-bank-to-sunset-key-climate-financing-goal-following-us-pressure/824118/",
       "publishedAt": "2026-06-30T16:48:59.000Z",
       "image": "https://imgproxy.divecdn.com/ZzVgeAWRiQBW2Qw5yvX5Gp5FjKjDX846TF0Ucs7zxdo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MzIxMzUuanBn.webp",
@@ -3327,7 +3327,7 @@
       "tag": "VCS PROJECT",
       "accent": "#86efac",
       "title": "Spitfire Flare Gas Conservation Project",
-      "excerpt": "Spitfire Flare Gas Conservation Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Nigeria. The project is currently listed as \"Under development\". It applies AM0009 methodology. Estimated annual emission reductions are 1,90,000 tonnes CO₂ equivalent per year. Project proponent: CarbonAi Inc..",
+      "excerpt": "Spitfire Flare Gas Conservation Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Nigeria. The project is currently listed as \"Under development\". It applies AM0009 methodology. Estimated annual emission reductions are 1,90,000 tonnes CO₂ equivalent per year. Project proponent: CarbonAi Inc.. Crediting period runs 2026-07-01 to 2036-06-30.",
       "url": "https://registry.verra.org/app/projectDetail/VCS/6026",
       "publishedAt": "2026-05-06T00:00:00.000Z",
       "image": null,
@@ -3338,8 +3338,8 @@
       "meta": {
         "proponent": "CarbonAi Inc.",
         "region": "Africa",
-        "creditingPeriodStart": null,
-        "creditingPeriodEnd": null,
+        "creditingPeriodStart": "2026-07-01",
+        "creditingPeriodEnd": "2036-06-30",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
