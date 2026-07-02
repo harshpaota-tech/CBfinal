@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-02T15:13:02.662Z",
+  "fetchedAt": "2026-07-02T20:16:57.463Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,8 +45,8 @@
   ],
   "stats": {
     "total": 87,
-    "india": 23,
-    "world": 64,
+    "india": 21,
+    "world": 66,
     "withImages": 55,
     "avgExcerptLength": 429,
     "verra": 10,
@@ -300,31 +300,6 @@
         "region": "india"
       },
       {
-        "id": "verra-vcs-5990",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "ATMANIRBHAR KRISHAK PLANTATION PROJECT (KHANDWA, M.P.)",
-        "excerpt": "ATMANIRBHAR KRISHAK PLANTATION PROJECT (KHANDWA, M.P.) is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 3,54,025 tonnes CO₂ equivalent per year. Project proponent: Multiple Proponents. Crediting period runs 2025-06-16 to 2057-06-15.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/5990",
-        "publishedAt": "2026-04-15T00:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": "VM0047",
-        "registryId": "5990",
-        "status": "Under development",
-        "meta": {
-          "proponent": "Multiple Proponents",
-          "region": "Asia",
-          "creditingPeriodStart": "2025-06-16",
-          "creditingPeriodEnd": "2057-06-15",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -344,31 +319,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
-        },
-        "region": "india"
-      },
-      {
-        "id": "verra-vcs-5986",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Sillverton Methane Reduction & Biogas Project",
-        "excerpt": "Sillverton Methane Reduction & Biogas Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies AMS-I.C.; AMS-III.H.; AMS-III.AQ methodology. Estimated annual emission reductions are 60,000 tonnes CO₂ equivalent per year. Project proponent: SILLVERTON INDUSTRIES LIMITED. Crediting period runs 2026-01-01 to 2032-12-31.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/5986",
-        "publishedAt": "2026-04-13T00:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": "AMS-I.C.; AMS-III.H.; AMS-III.AQ",
-        "registryId": "5986",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "SILLVERTON INDUSTRIES LIMITED",
-          "region": "Asia",
-          "creditingPeriodStart": "2026-01-01",
-          "creditingPeriodEnd": "2032-12-31",
-          "program": "Verified Carbon Standard"
         },
         "region": "india"
       },
@@ -613,6 +563,94 @@
     ],
     "world": [
       {
+        "id": "esg-dive-google-s-emissions-continue-to-climb-due-2026-07-02",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Google’s emissions continue to climb due to AI buildout",
+        "excerpt": "Despite a 2030 net-zero target, the tech giant s latest environmental report found its 2025 carbon footprint increased 18% from the year prior and is 81% higher than its 2019 baseline.",
+        "url": "https://www.esgdive.com/news/googles-emissions-continue-to-climb-due-to-ai-buildout/824373/",
+        "publishedAt": "2026-07-02T16:50:00.000Z",
+        "image": "https://imgproxy.divecdn.com/tBDNsTtDf7c7FRU9p6nlh2u4h06eqi823Wf5goYcOjc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2MTYxMDExLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-kkr-to-buy-edf-power-solution-s-north-am-2026-07-02",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "KKR to buy EDF power solution’s North American operations for $4.2B",
+        "excerpt": "The investment firm said the deal with EDF will support the United States broader energy security and affordability goals at a time when electricity demand is rising.",
+        "url": "https://www.esgdive.com/news/kkr-to-buy-edf-power-solutions-north-american-operations-for-42b/824374/",
+        "publishedAt": "2026-07-02T16:33:16.000Z",
+        "image": "https://imgproxy.divecdn.com/QdOiXDfzsKO1TN0-4tUF0Z0wcCFHDjT2A9K1GqORIoI/g:nowe:5:260/c:5314:3002/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDY0ODg0NjAzLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-eeoc-rescinds-affirmative-action-guideli-2026-07-02",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EEOC rescinds affirmative action guidelines",
+        "excerpt": "Right in time for America s 250th birthday, the agency rescinded its interpretation of the law, saying the guidelines ran afoul of Title VII.",
+        "url": "https://www.esgdive.com/news/eeoc-rescinds-affirmative-action-guidance-2026/824350/",
+        "publishedAt": "2026-07-02T16:30:00.000Z",
+        "image": "https://imgproxy.divecdn.com/eYdJpwaf4q-bUn-Tx4NC-ArGgOezJY_K3a2F5twWfTM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjYwOTYwNzY4LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-eu-regulators-propose-eu-taxonomy-simpli-2026-07-02",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EU Regulators Propose EU Taxonomy Simplification Measures",
+        "excerpt": "Europe’s three primary financial regulatory agencies, the European Supervisory Authorities (ESAs) each announced the release of a series of proposals aimed at simplifying disclosure requirements and reducing the reporting burden for companies, asset managers, banks and insurers under the EU Taxonomy regulation. The ESAs include The European Securities and Markets Authority (ESMA), The European Banking Authority (EBA), and The European Insurance and Occupational Pensions Authority (EIOPA). The EU Taxonomy, part of the EU Sustainable Finance Framework,…",
+        "url": "https://www.esgtoday.com/eu-regulators-propose-eu-taxonomy-simplification-measures/?utm_source=rss utm_medium=rss utm_campaign=eu-regulators-propose-eu-taxonomy-simplification-measures",
+        "publishedAt": "2026-07-02T15:24:21.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-flags3.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-kkr-sk-launch-1-3-billion-renewable-ener-2026-07-02",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -686,7 +724,7 @@
         "tag": "ESG",
         "accent": "#60a5fa",
         "title": "Most Companies Still Struggle to Quantify Impact of Sustainability Risks and Opportunities: KPMG Survey",
-        "excerpt": "A significant majority of executives report that have a strong understanding of their companies’ sustainability strategies, yet fewer than one in five companies currently use robust methodologies to quantify the financial impact of sustainability on value creation and future performance, according to a new survey released by professional services firm KPMG. According to KPMG, the survey findings indicate a significant gap between companies’ understanding of sustainability and their ability to translate it into financial value, leaving companies at risk…",
+        "excerpt": "A significant majority of executives report that they have a strong understanding of their companies’ sustainability strategies, yet fewer than one in five companies currently use robust methodologies to quantify the financial impact of sustainability on value creation and future performance, according to a new survey released by professional services firm KPMG. According to KPMG, the survey findings indicate a significant gap between companies’ understanding of sustainability and their ability to translate it into financial value, leaving companies at…",
         "url": "https://www.esgtoday.com/majority-of-companies-still-struggle-to-quantify-impact-of-sustainability-risks-and-opportunities-kpmg-survey/?utm_source=rss utm_medium=rss utm_campaign=majority-of-companies-still-struggle-to-quantify-impact-of-sustainability-risks-and-opportunities-kpmg-survey",
         "publishedAt": "2026-07-02T10:46:56.000Z",
         "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/KPMG4.jpg",
@@ -944,28 +982,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-google-says-moonshot-climate-goals-getti-2026-07-01",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Google Says Moonshot Climate Goals “Getting Harder” to Achieve",
-        "excerpt": "Google revealed that it achieved a 2% reduction in Scope 1 and 2 greenhouse gas emissions in 2025, despite experiencing a 37% increase in electricity consumption, with the company crediting its massive clean energy purchase program as a key factor in decoupling its energy use from emissions. Despite the Scope 1 and 2 achievements, however, in its new 2026 Environmental Report, Google reported a significant increase in its Scope 3 emissions, driven in large part by the company’s accelerating AI infrastructure buildout, and acknowledged that “reaching our…",
-        "url": "https://www.esgtoday.com/google-cuts-operational-emissions-but-says-moonshot-climate-goals-getting-harder/?utm_source=rss utm_medium=rss utm_campaign=google-cuts-operational-emissions-but-says-moonshot-climate-goals-getting-harder",
-        "publishedAt": "2026-07-01T12:19:02.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Google6.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-world-bank-to-sunset-key-climate-financi-2026-06-30",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -1166,50 +1182,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-luxury-ev-maker-lucid-motors-laying-off--2026-06-26",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Luxury EV-maker Lucid Motors laying off 18% of US workforce, COO resigns",
-        "excerpt": "The layoffs follow a 12% reduction of the company s workforce in February following the launch of the Gravity SUV, its second model.",
-        "url": "https://www.esgdive.com/news/luxury-ev-maker-lucid-motors-laying-off-18-of-us-workforce-coo-resigns/823878/",
-        "publishedAt": "2026-06-26T16:14:00.000Z",
-        "image": "https://imgproxy.divecdn.com/OiU_PC2NgTDQDH4357HT4OPcqP4oC1-yTjRFlmhbJ64/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcnRpY2xlTWVkaWFfMTQwN18xNzcxMzM2NzY5MzE1LndlYnA=.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-chemours-agrees-to-450m-pfas-settlement--2026-06-26",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Chemours agrees to $450M PFAS settlement with US government",
-        "excerpt": "The EPA accused the chemical giant of releasing forever chemicals into rivers near the company s facilities in North Carolina, New Jersey and West Virginia. In some instances, without the required permits.",
-        "url": "https://www.esgdive.com/news/epa-chemours-settle-pfas-claims-tsca-west-virginia-north-carolina-new-jerse/823873/",
-        "publishedAt": "2026-06-26T16:08:00.000Z",
-        "image": "https://imgproxy.divecdn.com/yISvwmLAPsJFjcFhd2cqZmp2PSWm_JlygtGIvWQtsTM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk3MjI2OTgzLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-debriefed-26-june-2026-heat-records-brok-2026-06-26",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1322,24 +1294,27 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-green-economy-surpasses-10-trillion-in-m-2026-06-25",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "POLICY",
-        "accent": "#5eead4",
-        "title": "Green economy surpasses $10 trillion in market capitalization: LSEG",
-        "excerpt": "Green companies accounted for 9.9% of market capitalization in 2026, and green mergers represent 13.4% of M A activity in the past decade, according to the London Stock Exchange Group.",
-        "url": "https://www.esgdive.com/news/green-economy-surpasses-10-trillion-market-capitalization-lseg/823774/",
-        "publishedAt": "2026-06-25T15:58:00.000Z",
-        "image": "https://imgproxy.divecdn.com/FDfjNxktNxNIp7uGAdKnHdGq9dhJxc3m2tDV4pYxKEg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SMzNSNjcuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
+        "id": "verra-vcs-6082",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "XSD Biomass Waste Recovery and Utilisation Project",
+        "excerpt": "XSD Biomass Waste Recovery and Utilisation Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0006 methodology. Estimated annual emission reductions are 4,00,000 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2026-01-01 to 2035-12-31.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6082",
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+        "image": null,
+        "country": "Malaysia",
+        "methodology": "ACM0006",
+        "registryId": "6082",
+        "status": "Under development",
         "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
+          "proponent": "Climate Quest Sdn Bhd",
+          "region": "Asia",
+          "creditingPeriodStart": "2026-01-01",
+          "creditingPeriodEnd": "2035-12-31",
+          "program": "Verified Carbon Standard"
         },
         "region": "world"
       },
@@ -1454,6 +1429,31 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6067",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Noor 2E Al Ain Street Lighting Project",
+        "excerpt": "Noor 2E Al Ain Street Lighting Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United Arab Emirates. The project is currently listed as \"Under validation\". It applies AMS-I.D.; AMS-II.C. methodology. Estimated annual emission reductions are 27,191 tonnes CO₂ equivalent per year. Project proponent: Nojoom Project Company Streetlighting Installation Repair and Maintenance LLC. Crediting period runs 2026-02-26 to 2036-02-25.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6067",
+        "publishedAt": "2026-06-09T00:00:00.000Z",
+        "image": null,
+        "country": "United Arab Emirates",
+        "methodology": "AMS-I.D.; AMS-II.C.",
+        "registryId": "6067",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Nojoom Project Company Streetlighting Installation Repair and Maintenance LLC",
+          "region": "Middle East",
+          "creditingPeriodStart": "2026-02-26",
+          "creditingPeriodEnd": "2036-02-25",
+          "program": "Verified Carbon Standard"
         },
         "region": "world"
       },
@@ -1608,31 +1608,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6023",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Mindoro Arawatan Carbon Project",
-        "excerpt": "Mindoro Arawatan Carbon Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Philippines. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 69,574 tonnes CO₂ equivalent per year. Project proponent: Wovoka Philippines Inc.. Crediting period runs 2025-10-27 to 2055-10-26.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6023",
-        "publishedAt": "2026-05-06T00:00:00.000Z",
-        "image": null,
-        "country": "Philippines",
-        "methodology": "VM0047",
-        "registryId": "6023",
-        "status": "Under development",
-        "meta": {
-          "proponent": "Wovoka Philippines Inc.",
-          "region": "Asia",
-          "creditingPeriodStart": "2025-10-27",
-          "creditingPeriodEnd": "2055-10-26",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6025",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1653,6 +1628,31 @@
           "region": "Africa",
           "creditingPeriodStart": "2024-08-05",
           "creditingPeriodEnd": "2034-08-04",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6023",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Mindoro Arawatan Carbon Project",
+        "excerpt": "Mindoro Arawatan Carbon Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Philippines. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 69,574 tonnes CO₂ equivalent per year. Project proponent: Wovoka Philippines Inc.. Crediting period runs 2025-10-27 to 2055-10-26.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6023",
+        "publishedAt": "2026-05-06T00:00:00.000Z",
+        "image": null,
+        "country": "Philippines",
+        "methodology": "VM0047",
+        "registryId": "6023",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Wovoka Philippines Inc.",
+          "region": "Asia",
+          "creditingPeriodStart": "2025-10-27",
+          "creditingPeriodEnd": "2055-10-26",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -1703,6 +1703,31 @@
           "region": "Asia",
           "creditingPeriodStart": "2026-01-05",
           "creditingPeriodEnd": "2036-01-04",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6018",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Atlas Olive Oils Biochar Project",
+        "excerpt": "Atlas Olive Oils Biochar Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Morocco. The project is currently listed as \"Under development\". It applies VM0044 methodology. Estimated annual emission reductions are 19,582 tonnes CO₂ equivalent per year. Project proponent: Atlas Olive Oils. Crediting period runs 2026-06-01 to 2033-05-31.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6018",
+        "publishedAt": "2026-04-29T00:00:00.000Z",
+        "image": null,
+        "country": "Morocco",
+        "methodology": "VM0044",
+        "registryId": "6018",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Atlas Olive Oils",
+          "region": "Africa",
+          "creditingPeriodStart": "2026-06-01",
+          "creditingPeriodEnd": "2033-05-31",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -1907,31 +1932,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-5993",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Project Muçununga",
-        "excerpt": "Project Muçununga is a Verified Carbon Standard (VCS) project registered on the Verra registry in Brazil. The project is currently listed as \"Under validation\". It applies VM0047 methodology. Estimated annual emission reductions are 13,028 tonnes CO₂ equivalent per year. Project proponent: MUCUNUNGA SERVICOS AMBIENTAIS, RESTAURACAO E CARBONO S.A. Crediting period runs 2025-04-28 to 2065-04-27.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/5993",
-        "publishedAt": "2026-04-16T00:00:00.000Z",
-        "image": null,
-        "country": "Brazil",
-        "methodology": "VM0047",
-        "registryId": "5993",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "MUCUNUNGA SERVICOS AMBIENTAIS, RESTAURACAO E CARBONO S.A",
-          "region": "Latin America",
-          "creditingPeriodStart": "2025-04-28",
-          "creditingPeriodEnd": "2065-04-27",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2100,6 +2100,94 @@
   },
   "articles": [
     {
+      "id": "esg-dive-google-s-emissions-continue-to-climb-due-2026-07-02",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Google’s emissions continue to climb due to AI buildout",
+      "excerpt": "Despite a 2030 net-zero target, the tech giant s latest environmental report found its 2025 carbon footprint increased 18% from the year prior and is 81% higher than its 2019 baseline.",
+      "url": "https://www.esgdive.com/news/googles-emissions-continue-to-climb-due-to-ai-buildout/824373/",
+      "publishedAt": "2026-07-02T16:50:00.000Z",
+      "image": "https://imgproxy.divecdn.com/tBDNsTtDf7c7FRU9p6nlh2u4h06eqi823Wf5goYcOjc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2MTYxMDExLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-kkr-to-buy-edf-power-solution-s-north-am-2026-07-02",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "KKR to buy EDF power solution’s North American operations for $4.2B",
+      "excerpt": "The investment firm said the deal with EDF will support the United States broader energy security and affordability goals at a time when electricity demand is rising.",
+      "url": "https://www.esgdive.com/news/kkr-to-buy-edf-power-solutions-north-american-operations-for-42b/824374/",
+      "publishedAt": "2026-07-02T16:33:16.000Z",
+      "image": "https://imgproxy.divecdn.com/QdOiXDfzsKO1TN0-4tUF0Z0wcCFHDjT2A9K1GqORIoI/g:nowe:5:260/c:5314:3002/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDY0ODg0NjAzLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-eeoc-rescinds-affirmative-action-guideli-2026-07-02",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EEOC rescinds affirmative action guidelines",
+      "excerpt": "Right in time for America s 250th birthday, the agency rescinded its interpretation of the law, saying the guidelines ran afoul of Title VII.",
+      "url": "https://www.esgdive.com/news/eeoc-rescinds-affirmative-action-guidance-2026/824350/",
+      "publishedAt": "2026-07-02T16:30:00.000Z",
+      "image": "https://imgproxy.divecdn.com/eYdJpwaf4q-bUn-Tx4NC-ArGgOezJY_K3a2F5twWfTM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjYwOTYwNzY4LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-eu-regulators-propose-eu-taxonomy-simpli-2026-07-02",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EU Regulators Propose EU Taxonomy Simplification Measures",
+      "excerpt": "Europe’s three primary financial regulatory agencies, the European Supervisory Authorities (ESAs) each announced the release of a series of proposals aimed at simplifying disclosure requirements and reducing the reporting burden for companies, asset managers, banks and insurers under the EU Taxonomy regulation. The ESAs include The European Securities and Markets Authority (ESMA), The European Banking Authority (EBA), and The European Insurance and Occupational Pensions Authority (EIOPA). The EU Taxonomy, part of the EU Sustainable Finance Framework,…",
+      "url": "https://www.esgtoday.com/eu-regulators-propose-eu-taxonomy-simplification-measures/?utm_source=rss utm_medium=rss utm_campaign=eu-regulators-propose-eu-taxonomy-simplification-measures",
+      "publishedAt": "2026-07-02T15:24:21.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-flags3.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-today-kkr-sk-launch-1-3-billion-renewable-ener-2026-07-02",
       "source": "esg-today",
       "sourceName": "ESG Today",
@@ -2173,7 +2261,7 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "Most Companies Still Struggle to Quantify Impact of Sustainability Risks and Opportunities: KPMG Survey",
-      "excerpt": "A significant majority of executives report that have a strong understanding of their companies’ sustainability strategies, yet fewer than one in five companies currently use robust methodologies to quantify the financial impact of sustainability on value creation and future performance, according to a new survey released by professional services firm KPMG. According to KPMG, the survey findings indicate a significant gap between companies’ understanding of sustainability and their ability to translate it into financial value, leaving companies at risk…",
+      "excerpt": "A significant majority of executives report that they have a strong understanding of their companies’ sustainability strategies, yet fewer than one in five companies currently use robust methodologies to quantify the financial impact of sustainability on value creation and future performance, according to a new survey released by professional services firm KPMG. According to KPMG, the survey findings indicate a significant gap between companies’ understanding of sustainability and their ability to translate it into financial value, leaving companies at…",
       "url": "https://www.esgtoday.com/majority-of-companies-still-struggle-to-quantify-impact-of-sustainability-risks-and-opportunities-kpmg-survey/?utm_source=rss utm_medium=rss utm_campaign=majority-of-companies-still-struggle-to-quantify-impact-of-sustainability-risks-and-opportunities-kpmg-survey",
       "publishedAt": "2026-07-02T10:46:56.000Z",
       "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/KPMG4.jpg",
@@ -2431,28 +2519,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-google-says-moonshot-climate-goals-getti-2026-07-01",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Google Says Moonshot Climate Goals “Getting Harder” to Achieve",
-      "excerpt": "Google revealed that it achieved a 2% reduction in Scope 1 and 2 greenhouse gas emissions in 2025, despite experiencing a 37% increase in electricity consumption, with the company crediting its massive clean energy purchase program as a key factor in decoupling its energy use from emissions. Despite the Scope 1 and 2 achievements, however, in its new 2026 Environmental Report, Google reported a significant increase in its Scope 3 emissions, driven in large part by the company’s accelerating AI infrastructure buildout, and acknowledged that “reaching our…",
-      "url": "https://www.esgtoday.com/google-cuts-operational-emissions-but-says-moonshot-climate-goals-getting-harder/?utm_source=rss utm_medium=rss utm_campaign=google-cuts-operational-emissions-but-says-moonshot-climate-goals-getting-harder",
-      "publishedAt": "2026-07-01T12:19:02.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Google6.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-world-bank-to-sunset-key-climate-financi-2026-06-30",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2653,50 +2719,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-luxury-ev-maker-lucid-motors-laying-off--2026-06-26",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Luxury EV-maker Lucid Motors laying off 18% of US workforce, COO resigns",
-      "excerpt": "The layoffs follow a 12% reduction of the company s workforce in February following the launch of the Gravity SUV, its second model.",
-      "url": "https://www.esgdive.com/news/luxury-ev-maker-lucid-motors-laying-off-18-of-us-workforce-coo-resigns/823878/",
-      "publishedAt": "2026-06-26T16:14:00.000Z",
-      "image": "https://imgproxy.divecdn.com/OiU_PC2NgTDQDH4357HT4OPcqP4oC1-yTjRFlmhbJ64/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcnRpY2xlTWVkaWFfMTQwN18xNzcxMzM2NzY5MzE1LndlYnA=.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-chemours-agrees-to-450m-pfas-settlement--2026-06-26",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Chemours agrees to $450M PFAS settlement with US government",
-      "excerpt": "The EPA accused the chemical giant of releasing forever chemicals into rivers near the company s facilities in North Carolina, New Jersey and West Virginia. In some instances, without the required permits.",
-      "url": "https://www.esgdive.com/news/epa-chemours-settle-pfas-claims-tsca-west-virginia-north-carolina-new-jerse/823873/",
-      "publishedAt": "2026-06-26T16:08:00.000Z",
-      "image": "https://imgproxy.divecdn.com/yISvwmLAPsJFjcFhd2cqZmp2PSWm_JlygtGIvWQtsTM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk3MjI2OTgzLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-debriefed-26-june-2026-heat-records-brok-2026-06-26",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2809,24 +2831,27 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-green-economy-surpasses-10-trillion-in-m-2026-06-25",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "POLICY",
-      "accent": "#5eead4",
-      "title": "Green economy surpasses $10 trillion in market capitalization: LSEG",
-      "excerpt": "Green companies accounted for 9.9% of market capitalization in 2026, and green mergers represent 13.4% of M A activity in the past decade, according to the London Stock Exchange Group.",
-      "url": "https://www.esgdive.com/news/green-economy-surpasses-10-trillion-market-capitalization-lseg/823774/",
-      "publishedAt": "2026-06-25T15:58:00.000Z",
-      "image": "https://imgproxy.divecdn.com/FDfjNxktNxNIp7uGAdKnHdGq9dhJxc3m2tDV4pYxKEg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SMzNSNjcuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
+      "id": "verra-vcs-6082",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "XSD Biomass Waste Recovery and Utilisation Project",
+      "excerpt": "XSD Biomass Waste Recovery and Utilisation Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0006 methodology. Estimated annual emission reductions are 4,00,000 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2026-01-01 to 2035-12-31.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6082",
+      "publishedAt": "2026-06-24T00:00:00.000Z",
+      "image": null,
+      "country": "Malaysia",
+      "methodology": "ACM0006",
+      "registryId": "6082",
+      "status": "Under development",
       "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
+        "proponent": "Climate Quest Sdn Bhd",
+        "region": "Asia",
+        "creditingPeriodStart": "2026-01-01",
+        "creditingPeriodEnd": "2035-12-31",
+        "program": "Verified Carbon Standard"
       },
       "region": "world"
     },
@@ -2941,6 +2966,31 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6067",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Noor 2E Al Ain Street Lighting Project",
+      "excerpt": "Noor 2E Al Ain Street Lighting Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United Arab Emirates. The project is currently listed as \"Under validation\". It applies AMS-I.D.; AMS-II.C. methodology. Estimated annual emission reductions are 27,191 tonnes CO₂ equivalent per year. Project proponent: Nojoom Project Company Streetlighting Installation Repair and Maintenance LLC. Crediting period runs 2026-02-26 to 2036-02-25.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6067",
+      "publishedAt": "2026-06-09T00:00:00.000Z",
+      "image": null,
+      "country": "United Arab Emirates",
+      "methodology": "AMS-I.D.; AMS-II.C.",
+      "registryId": "6067",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "Nojoom Project Company Streetlighting Installation Repair and Maintenance LLC",
+        "region": "Middle East",
+        "creditingPeriodStart": "2026-02-26",
+        "creditingPeriodEnd": "2036-02-25",
+        "program": "Verified Carbon Standard"
       },
       "region": "world"
     },
@@ -3290,31 +3340,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6023",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Mindoro Arawatan Carbon Project",
-      "excerpt": "Mindoro Arawatan Carbon Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Philippines. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 69,574 tonnes CO₂ equivalent per year. Project proponent: Wovoka Philippines Inc.. Crediting period runs 2025-10-27 to 2055-10-26.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6023",
-      "publishedAt": "2026-05-06T00:00:00.000Z",
-      "image": null,
-      "country": "Philippines",
-      "methodology": "VM0047",
-      "registryId": "6023",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Wovoka Philippines Inc.",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-10-27",
-        "creditingPeriodEnd": "2055-10-26",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6025",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3335,6 +3360,31 @@
         "region": "Africa",
         "creditingPeriodStart": "2024-08-05",
         "creditingPeriodEnd": "2034-08-04",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6023",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Mindoro Arawatan Carbon Project",
+      "excerpt": "Mindoro Arawatan Carbon Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Philippines. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 69,574 tonnes CO₂ equivalent per year. Project proponent: Wovoka Philippines Inc.. Crediting period runs 2025-10-27 to 2055-10-26.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6023",
+      "publishedAt": "2026-05-06T00:00:00.000Z",
+      "image": null,
+      "country": "Philippines",
+      "methodology": "VM0047",
+      "registryId": "6023",
+      "status": "Under development",
+      "meta": {
+        "proponent": "Wovoka Philippines Inc.",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-10-27",
+        "creditingPeriodEnd": "2055-10-26",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
@@ -3385,6 +3435,31 @@
         "region": "Asia",
         "creditingPeriodStart": "2026-01-05",
         "creditingPeriodEnd": "2036-01-04",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6018",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Atlas Olive Oils Biochar Project",
+      "excerpt": "Atlas Olive Oils Biochar Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Morocco. The project is currently listed as \"Under development\". It applies VM0044 methodology. Estimated annual emission reductions are 19,582 tonnes CO₂ equivalent per year. Project proponent: Atlas Olive Oils. Crediting period runs 2026-06-01 to 2033-05-31.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6018",
+      "publishedAt": "2026-04-29T00:00:00.000Z",
+      "image": null,
+      "country": "Morocco",
+      "methodology": "VM0044",
+      "registryId": "6018",
+      "status": "Under development",
+      "meta": {
+        "proponent": "Atlas Olive Oils",
+        "region": "Africa",
+        "creditingPeriodStart": "2026-06-01",
+        "creditingPeriodEnd": "2033-05-31",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
@@ -3638,56 +3713,6 @@
       "region": "india"
     },
     {
-      "id": "verra-vcs-5993",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Project Muçununga",
-      "excerpt": "Project Muçununga is a Verified Carbon Standard (VCS) project registered on the Verra registry in Brazil. The project is currently listed as \"Under validation\". It applies VM0047 methodology. Estimated annual emission reductions are 13,028 tonnes CO₂ equivalent per year. Project proponent: MUCUNUNGA SERVICOS AMBIENTAIS, RESTAURACAO E CARBONO S.A. Crediting period runs 2025-04-28 to 2065-04-27.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/5993",
-      "publishedAt": "2026-04-16T00:00:00.000Z",
-      "image": null,
-      "country": "Brazil",
-      "methodology": "VM0047",
-      "registryId": "5993",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "MUCUNUNGA SERVICOS AMBIENTAIS, RESTAURACAO E CARBONO S.A",
-        "region": "Latin America",
-        "creditingPeriodStart": "2025-04-28",
-        "creditingPeriodEnd": "2065-04-27",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-vcs-5990",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "ATMANIRBHAR KRISHAK PLANTATION PROJECT (KHANDWA, M.P.)",
-      "excerpt": "ATMANIRBHAR KRISHAK PLANTATION PROJECT (KHANDWA, M.P.) is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 3,54,025 tonnes CO₂ equivalent per year. Project proponent: Multiple Proponents. Crediting period runs 2025-06-16 to 2057-06-15.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/5990",
-      "publishedAt": "2026-04-15T00:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": "VM0047",
-      "registryId": "5990",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Multiple Proponents",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-06-16",
-        "creditingPeriodEnd": "2057-06-15",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -3707,31 +3732,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
-      },
-      "region": "india"
-    },
-    {
-      "id": "verra-vcs-5986",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Sillverton Methane Reduction & Biogas Project",
-      "excerpt": "Sillverton Methane Reduction & Biogas Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies AMS-I.C.; AMS-III.H.; AMS-III.AQ methodology. Estimated annual emission reductions are 60,000 tonnes CO₂ equivalent per year. Project proponent: SILLVERTON INDUSTRIES LIMITED. Crediting period runs 2026-01-01 to 2032-12-31.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/5986",
-      "publishedAt": "2026-04-13T00:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": "AMS-I.C.; AMS-III.H.; AMS-III.AQ",
-      "registryId": "5986",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "SILLVERTON INDUSTRIES LIMITED",
-        "region": "Asia",
-        "creditingPeriodStart": "2026-01-01",
-        "creditingPeriodEnd": "2032-12-31",
-        "program": "Verified Carbon Standard"
       },
       "region": "india"
     },
