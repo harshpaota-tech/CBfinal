@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-02T20:16:57.463Z",
+  "fetchedAt": "2026-07-03T04:37:51.474Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -1608,31 +1608,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6025",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "M-KOPA Kenya Electric Vehicle Initiative",
-        "excerpt": "M-KOPA Kenya Electric Vehicle Initiative is a Verified Carbon Standard (VCS) project registered on the Verra registry in Kenya. The project is currently listed as \"Under validation\". It applies VMR0014 methodology. Estimated annual emission reductions are 1,07,108 tonnes CO₂ equivalent per year. Project proponent: M-KOPA Kenya Mobility Limited. Crediting period runs 2024-08-05 to 2034-08-04.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6025",
-        "publishedAt": "2026-05-06T00:00:00.000Z",
-        "image": null,
-        "country": "Kenya",
-        "methodology": "VMR0014",
-        "registryId": "6025",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "M-KOPA Kenya Mobility Limited",
-          "region": "Africa",
-          "creditingPeriodStart": "2024-08-05",
-          "creditingPeriodEnd": "2034-08-04",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6023",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1653,6 +1628,31 @@
           "region": "Asia",
           "creditingPeriodStart": "2025-10-27",
           "creditingPeriodEnd": "2055-10-26",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6025",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "M-KOPA Kenya Electric Vehicle Initiative",
+        "excerpt": "M-KOPA Kenya Electric Vehicle Initiative is a Verified Carbon Standard (VCS) project registered on the Verra registry in Kenya. The project is currently listed as \"Under validation\". It applies VMR0014 methodology. Estimated annual emission reductions are 1,07,108 tonnes CO₂ equivalent per year. Project proponent: M-KOPA Kenya Mobility Limited. Crediting period runs 2024-08-05 to 2034-08-04.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6025",
+        "publishedAt": "2026-05-06T00:00:00.000Z",
+        "image": null,
+        "country": "Kenya",
+        "methodology": "VMR0014",
+        "registryId": "6025",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "M-KOPA Kenya Mobility Limited",
+          "region": "Africa",
+          "creditingPeriodStart": "2024-08-05",
+          "creditingPeriodEnd": "2034-08-04",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -3340,31 +3340,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6025",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "M-KOPA Kenya Electric Vehicle Initiative",
-      "excerpt": "M-KOPA Kenya Electric Vehicle Initiative is a Verified Carbon Standard (VCS) project registered on the Verra registry in Kenya. The project is currently listed as \"Under validation\". It applies VMR0014 methodology. Estimated annual emission reductions are 1,07,108 tonnes CO₂ equivalent per year. Project proponent: M-KOPA Kenya Mobility Limited. Crediting period runs 2024-08-05 to 2034-08-04.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6025",
-      "publishedAt": "2026-05-06T00:00:00.000Z",
-      "image": null,
-      "country": "Kenya",
-      "methodology": "VMR0014",
-      "registryId": "6025",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "M-KOPA Kenya Mobility Limited",
-        "region": "Africa",
-        "creditingPeriodStart": "2024-08-05",
-        "creditingPeriodEnd": "2034-08-04",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6023",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3385,6 +3360,31 @@
         "region": "Asia",
         "creditingPeriodStart": "2025-10-27",
         "creditingPeriodEnd": "2055-10-26",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6025",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "M-KOPA Kenya Electric Vehicle Initiative",
+      "excerpt": "M-KOPA Kenya Electric Vehicle Initiative is a Verified Carbon Standard (VCS) project registered on the Verra registry in Kenya. The project is currently listed as \"Under validation\". It applies VMR0014 methodology. Estimated annual emission reductions are 1,07,108 tonnes CO₂ equivalent per year. Project proponent: M-KOPA Kenya Mobility Limited. Crediting period runs 2024-08-05 to 2034-08-04.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6025",
+      "publishedAt": "2026-05-06T00:00:00.000Z",
+      "image": null,
+      "country": "Kenya",
+      "methodology": "VMR0014",
+      "registryId": "6025",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "M-KOPA Kenya Mobility Limited",
+        "region": "Africa",
+        "creditingPeriodStart": "2024-08-05",
+        "creditingPeriodEnd": "2034-08-04",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
