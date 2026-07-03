@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-03T15:08:30.930Z",
+  "fetchedAt": "2026-07-03T20:12:32.175Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,8 +45,8 @@
   ],
   "stats": {
     "total": 87,
-    "india": 19,
-    "world": 68,
+    "india": 20,
+    "world": 67,
     "withImages": 54,
     "avgExcerptLength": 423,
     "verra": 10,
@@ -506,6 +506,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Hydrogen Horizons: Unlocking the Power of the Universe for Clean Mobility - TheCSRUniverse",
+        "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The global transition to clean energy has positioned hydrogen as a frontrunner in the race to decarbonize transportation. As…",
+        "url": "https://thecsruniverse.com/articles/hydrogen-horizons-unlocking-the-power-of-the-universe-for-clean-mobility",
+        "publishedAt": "2025-05-07T07:00:00.000Z",
+        "image": "https://thecsruniverse.com/adminxsafe/uploads/20260516055652",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWYweWJqMjBTSzcwc0kzSUlnVTJfQ1RDaHRLalB4dFlKb1VpVUZaa2NBM1pOYk1XRnFISUkwWF9jWHBfQ0pJUy00aVdmYmYtUFZXTkF3bWh0U3BuaXVzNFMzXzllcll5cDdCQUxNVmMxWDlkLVh4b3JnWVh2Qy01YmNZVkQwWGxQVXg3NkVtZk0xUWNqdEhSNmV3MFk0THh2ZDFDNEpBaEFhTGZV?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -1708,31 +1732,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6014",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
-        "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
-        "publishedAt": "2026-04-27T00:00:00.000Z",
-        "image": null,
-        "country": "Malaysia",
-        "methodology": "ACM0001",
-        "registryId": "6014",
-        "status": "Under development",
-        "meta": {
-          "proponent": "Climate Quest Sdn Bhd",
-          "region": "Asia",
-          "creditingPeriodStart": "2025-05-19",
-          "creditingPeriodEnd": "2035-05-18",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6016",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1753,6 +1752,31 @@
           "region": "North America",
           "creditingPeriodStart": "2023-11-08",
           "creditingPeriodEnd": "2068-11-07",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6014",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
+        "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
+        "publishedAt": "2026-04-27T00:00:00.000Z",
+        "image": null,
+        "country": "Malaysia",
+        "methodology": "ACM0001",
+        "registryId": "6014",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Climate Quest Sdn Bhd",
+          "region": "Asia",
+          "creditingPeriodStart": "2025-05-19",
+          "creditingPeriodEnd": "2035-05-18",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -1903,30 +1927,6 @@
           "creditingPeriodStart": "2025-12-01",
           "creditingPeriodEnd": "2065-11-30",
           "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-h2-green-hydrogen-market-forecasted-to-reac-2026-02-19",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Green Hydrogen Market Forecasted to Reach USD 231.32 - GlobeNewswire",
-        "excerpt": "Automobiles and Parts News Food & Beverage News Home Goods & Construction News Leisure Goods News Media & Entertainment News Personal Care News Retail News Travel and Leisure News Energy News Alternative Energy News Oil Gas and Coal News Chemicals News Banks & Financial Services News Banking News Closed-End Investments News Finance and Credit Services News Investment Banking and Brokerage Services News Insurance News Real Estate & REITs News Healthcare News Healthcare Providers News Medical Equipment News Medical Supplies and Services News Biotechnology…",
-        "url": "https://www.globenewswire.com/news-release/2026/02/19/3241001/0/en/green-hydrogen-market-forecasted-to-reach-usd-231-32-billion-by-2035-driven-by-renewable-energy-adoption-and-policy-support.html",
-        "publishedAt": "2026-02-19T08:00:00.000Z",
-        "image": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRXFrTW54UUtQZkRBZklaOHhnTnp2ZlZDLXY5bU56MG8ySU9JdlpUQXY0dVZlc1c4SmV6UUlwUVo3dk9BcGNzV1BHS3d1S0NqeERGZFVaQ0J3czBPclFwMjB5QjhaeGo0dVkyT2E1Z0ZmRjZENVl6QzlLSVdRdVVwXzlQamZHTjZuakVxSWhDanU5UDR0Z2VjcTdreFI1dm9mVVgzOGxnVDZVc00xUWRfQk1ySHk4RlFUc0h6WW1DRUhoeWp5dkF6UlVPaGFCbXpZYnFfMzc0Z2VaU0c1OTJIQk5USzFWUWlSNkhHeFJnTzVBZ3hHT3FEbk1xcWZhcDVObXNpc2ZzcXdQb1JxdmRpbHRlSGdSQ0NodlJ6bGhzUk0?oc=5",
-          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -3489,31 +3489,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6014",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
-      "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": null,
-      "country": "Malaysia",
-      "methodology": "ACM0001",
-      "registryId": "6014",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Climate Quest Sdn Bhd",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-05-19",
-        "creditingPeriodEnd": "2035-05-18",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6016",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3534,6 +3509,31 @@
         "region": "North America",
         "creditingPeriodStart": "2023-11-08",
         "creditingPeriodEnd": "2068-11-07",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6014",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
+      "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "image": null,
+      "country": "Malaysia",
+      "methodology": "ACM0001",
+      "registryId": "6014",
+      "status": "Under development",
+      "meta": {
+        "proponent": "Climate Quest Sdn Bhd",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-05-19",
+        "creditingPeriodEnd": "2035-05-18",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
@@ -3854,30 +3854,6 @@
       "region": "india"
     },
     {
-      "id": "google-h2-green-hydrogen-market-forecasted-to-reac-2026-02-19",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Green Hydrogen Market Forecasted to Reach USD 231.32 - GlobeNewswire",
-      "excerpt": "Automobiles and Parts News Food & Beverage News Home Goods & Construction News Leisure Goods News Media & Entertainment News Personal Care News Retail News Travel and Leisure News Energy News Alternative Energy News Oil Gas and Coal News Chemicals News Banks & Financial Services News Banking News Closed-End Investments News Finance and Credit Services News Investment Banking and Brokerage Services News Insurance News Real Estate & REITs News Healthcare News Healthcare Providers News Medical Equipment News Medical Supplies and Services News Biotechnology…",
-      "url": "https://www.globenewswire.com/news-release/2026/02/19/3241001/0/en/green-hydrogen-market-forecasted-to-reach-usd-231-32-billion-by-2035-driven-by-renewable-energy-adoption-and-policy-support.html",
-      "publishedAt": "2026-02-19T08:00:00.000Z",
-      "image": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRXFrTW54UUtQZkRBZklaOHhnTnp2ZlZDLXY5bU56MG8ySU9JdlpUQXY0dVZlc1c4SmV6UUlwUVo3dk9BcGNzV1BHS3d1S0NqeERGZFVaQ0J3czBPclFwMjB5QjhaeGo0dVkyT2E1Z0ZmRjZENVl6QzlLSVdRdVVwXzlQamZHTjZuakVxSWhDanU5UDR0Z2VjcTdreFI1dm9mVVgzOGxnVDZVc00xUWRfQk1ySHk4RlFUc0h6WW1DRUhoeWp5dkF6UlVPaGFCbXpZYnFfMzc0Z2VaU0c1OTJIQk5USzFWUWlSNkhHeFJnTzVBZ3hHT3FEbk1xcWZhcDVObXNpc2ZzcXdQb1JxdmRpbHRlSGdSQ0NodlJ6bGhzUk0?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -4108,6 +4084,30 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Hydrogen Horizons: Unlocking the Power of the Universe for Clean Mobility - TheCSRUniverse",
+      "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The global transition to clean energy has positioned hydrogen as a frontrunner in the race to decarbonize transportation. As…",
+      "url": "https://thecsruniverse.com/articles/hydrogen-horizons-unlocking-the-power-of-the-universe-for-clean-mobility",
+      "publishedAt": "2025-05-07T07:00:00.000Z",
+      "image": "https://thecsruniverse.com/adminxsafe/uploads/20260516055652",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWYweWJqMjBTSzcwc0kzSUlnVTJfQ1RDaHRLalB4dFlKb1VpVUZaa2NBM1pOYk1XRnFISUkwWF9jWHBfQ0pJUy00aVdmYmYtUFZXTkF3bWh0U3BuaXVzNFMzXzllcll5cDdCQUxNVmMxWDlkLVh4b3JnWVh2Qy01YmNZVkQwWGxQVXg3NkVtZk0xUWNqdEhSNmV3MFk0THh2ZDFDNEpBaEFhTGZV?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
