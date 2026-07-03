@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-03T04:37:51.474Z",
+  "fetchedAt": "2026-07-03T10:08:27.669Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,14 +47,38 @@
     "total": 87,
     "india": 21,
     "world": 66,
-    "withImages": 55,
-    "avgExcerptLength": 429,
+    "withImages": 56,
+    "avgExcerptLength": 434,
     "verra": 10,
     "registry": 25,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-06-25",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
+        "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+        "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
+        "publishedAt": "2026-06-25T16:35:15.000Z",
+        "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
       {
         "id": "verra-vcs-6066",
         "source": "verra-registry",
@@ -300,29 +324,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
-        "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
-        "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
-        "publishedAt": "2026-04-14T07:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -562,6 +563,28 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-actis-acquires-clean-energy-platform-kla-2026-07-03",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Actis Acquires Clean Energy Platform Klara Renewables from CVC DIF",
+        "excerpt": "Sustainable infrastructure investor Actis announced the acquisition of Klara Renewables, a 171 MW operating onshore wind portfolio in Poland, from private markets investment manager CVC’s infrastructure strategy CVC DIF. The transaction marks Actis’ entry into the Polish market and the launch of a new renewable energy platform targeting up to 1.5 GW of capacity across onshore wind, solar PV, and battery energy storage systems (BESS). According to Actis, the acquisition comes as Poland accelerates efforts to reduce its dependence on coal and expand…",
+        "url": "https://www.esgtoday.com/actis-acquires-clean-energy-platform-klara-renewables-from-cvc-dif/?utm_source=rss utm_medium=rss utm_campaign=actis-acquires-clean-energy-platform-klara-renewables-from-cvc-dif",
+        "publishedAt": "2026-07-03T08:34:42.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Wind-Actis3.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-google-s-emissions-continue-to-climb-due-2026-07-02",
         "source": "esg-dive",
@@ -933,28 +956,6 @@
         "meta": {
           "category": "Cropped",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-pwc-appoints-lynne-baber-as-global-susta-2026-07-01",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "PwC Appoints Lynne Baber as Global Sustainability Leader",
-        "excerpt": "Professional services firm PwC has appointed Lynne Baber as its new Global Sustainability Leader, leading the firm s global sustainability strategy and sustainability practice. Baber will succeed Colm Kelly in the top sustainability role, following Kelly’s retirement from PwC after serving as Global Sustainability Leader since 2020. Baber takes on her new role after more than 2 decades at PwC, joining the firm in 2003, and holding a series of senior ESG and sustainability-focused roles, including leading PwC’s UK Sustainability practice since 2022, and…",
-        "url": "https://www.esgtoday.com/pwc-appoints-lynne-baber-as-global-sustainability-leader/?utm_source=rss utm_medium=rss utm_campaign=pwc-appoints-lynne-baber-as-global-sustainability-leader",
-        "publishedAt": "2026-07-01T13:35:01.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/PwC-Baber.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -2100,6 +2101,28 @@
   },
   "articles": [
     {
+      "id": "esg-today-actis-acquires-clean-energy-platform-kla-2026-07-03",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Actis Acquires Clean Energy Platform Klara Renewables from CVC DIF",
+      "excerpt": "Sustainable infrastructure investor Actis announced the acquisition of Klara Renewables, a 171 MW operating onshore wind portfolio in Poland, from private markets investment manager CVC’s infrastructure strategy CVC DIF. The transaction marks Actis’ entry into the Polish market and the launch of a new renewable energy platform targeting up to 1.5 GW of capacity across onshore wind, solar PV, and battery energy storage systems (BESS). According to Actis, the acquisition comes as Poland accelerates efforts to reduce its dependence on coal and expand…",
+      "url": "https://www.esgtoday.com/actis-acquires-clean-energy-platform-klara-renewables-from-cvc-dif/?utm_source=rss utm_medium=rss utm_campaign=actis-acquires-clean-energy-platform-klara-renewables-from-cvc-dif",
+      "publishedAt": "2026-07-03T08:34:42.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Wind-Actis3.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-google-s-emissions-continue-to-climb-due-2026-07-02",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2474,28 +2497,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-pwc-appoints-lynne-baber-as-global-susta-2026-07-01",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "PwC Appoints Lynne Baber as Global Sustainability Leader",
-      "excerpt": "Professional services firm PwC has appointed Lynne Baber as its new Global Sustainability Leader, leading the firm s global sustainability strategy and sustainability practice. Baber will succeed Colm Kelly in the top sustainability role, following Kelly’s retirement from PwC after serving as Global Sustainability Leader since 2020. Baber takes on her new role after more than 2 decades at PwC, joining the firm in 2003, and holding a series of senior ESG and sustainability-focused roles, including leading PwC’s UK Sustainability practice since 2022, and…",
-      "url": "https://www.esgtoday.com/pwc-appoints-lynne-baber-as-global-sustainability-leader/?utm_source=rss utm_medium=rss utm_campaign=pwc-appoints-lynne-baber-as-global-sustainability-leader",
-      "publishedAt": "2026-07-01T13:35:01.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/PwC-Baber.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vote-for-verra-in-environmental-finance--2026-07-01",
       "source": "verra",
       "sourceName": "Verra",
@@ -2829,6 +2830,30 @@
         "imageSource": "publisher"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-06-25",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
+      "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+      "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
+      "publishedAt": "2026-06-25T16:35:15.000Z",
+      "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "verra-vcs-6082",
@@ -3709,29 +3734,6 @@
         "creditingPeriodStart": "2026-06-15",
         "creditingPeriodEnd": "2057-06-14",
         "program": "Verified Carbon Standard"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
-      "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
-      "publishedAt": "2026-04-14T07:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
       },
       "region": "india"
     },
