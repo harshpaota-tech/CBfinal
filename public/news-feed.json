@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-03T10:08:27.669Z",
+  "fetchedAt": "2026-07-03T15:08:30.930Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,40 +45,16 @@
   ],
   "stats": {
     "total": 87,
-    "india": 21,
-    "world": 66,
-    "withImages": 56,
-    "avgExcerptLength": 434,
+    "india": 19,
+    "world": 68,
+    "withImages": 54,
+    "avgExcerptLength": 423,
     "verra": 10,
     "registry": 25,
     "esg": 52
   },
   "sections": {
     "india": [
-      {
-        "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-06-25",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
-        "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
-        "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
-        "publishedAt": "2026-06-25T16:35:15.000Z",
-        "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
       {
         "id": "verra-vcs-6066",
         "source": "verra-registry",
@@ -299,27 +275,25 @@
         "region": "india"
       },
       {
-        "id": "verra-vcs-5992",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
+        "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "ATMANIRBHAR KRISHAK PLANTATION PROJECT (KHARGONE, M.P.)",
-        "excerpt": "ATMANIRBHAR KRISHAK PLANTATION PROJECT (KHARGONE, M.P.) is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 3,39,097 tonnes CO₂ equivalent per year. Project proponent: Multiple Proponents. Crediting period runs 2026-06-15 to 2057-06-14.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/5992",
-        "publishedAt": "2026-04-16T00:00:00.000Z",
+        "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
+        "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
+        "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
+        "publishedAt": "2026-04-14T07:00:00.000Z",
         "image": null,
         "country": "India",
-        "methodology": "VM0047",
-        "registryId": "5992",
-        "status": "Under development",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
         "meta": {
-          "proponent": "Multiple Proponents",
-          "region": "Asia",
-          "creditingPeriodStart": "2026-06-15",
-          "creditingPeriodEnd": "2057-06-14",
-          "program": "Verified Carbon Standard"
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
         },
         "region": "india"
       },
@@ -473,10 +447,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -484,8 +458,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
         },
         "region": "india"
       },
@@ -536,33 +509,53 @@
           "imageSource": "publisher"
         },
         "region": "india"
-      },
+      }
+    ],
+    "world": [
       {
-        "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
+        "id": "carbon-brief-debriefed-3-july-2026-us-faces-scorching-2026-07-03",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
         "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Hydrogen Horizons: Unlocking the Power of the Universe for Clean Mobility - TheCSRUniverse",
-        "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The global transition to clean energy has positioned hydrogen as a frontrunner in the race to decarbonize transportation. As…",
-        "url": "https://thecsruniverse.com/articles/hydrogen-horizons-unlocking-the-power-of-the-universe-for-clean-mobility",
-        "publishedAt": "2025-05-07T07:00:00.000Z",
-        "image": "https://thecsruniverse.com/adminxsafe/uploads/20260516055652",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "DeBriefed 3 July 2026: US faces scorching Independence Day Record ocean temperatures Vietnam’s EV surge",
+        "excerpt": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week s key developments relating to climate change. NOT FREE FROM HEAT: “Dangerous, record-breaking” heat altered plans for 4 July celebrations across the US this weekend, reported the Associated Press . New York and Boston hit 100F (37.8C) on Thursday, said the newswire. CNBC reported that temperatures of up to 105F (40.5C) are forecast in central and eastern parts of the country, with “daily, monthly and all-time records possible”. TEMPERATURES SOAR: Heat that hit western Europe last week…",
+        "url": "https://www.carbonbrief.org/debriefed-3-july-2026-us-faces-scorching-independence-day-record-ocean-temperatures-vietnams-ev-surge/",
+        "publishedAt": "2026-07-03T14:47:51.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/wind-solar-worlds-largest-source-new-energy-2025_DEBRIEFED.png",
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWYweWJqMjBTSzcwc0kzSUlnVTJfQ1RDaHRLalB4dFlKb1VpVUZaa2NBM1pOYk1XRnFISUkwWF9jWHBfQ0pJUy00aVdmYmYtUFZXTkF3bWh0U3BuaXVzNFMzXzllcll5cDdCQUxNVmMxWDlkLVh4b3JnWVh2Qy01YmNZVkQwWGxQVXg3NkVtZk0xUWNqdEhSNmV3MFk0THh2ZDFDNEpBaEFhTGZV?oc=5",
-          "imageSource": "publisher"
+          "category": "DeBriefed",
+          "feed": "https://www.carbonbrief.org/feed/"
         },
-        "region": "india"
-      }
-    ],
-    "world": [
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-q-a-how-will-the-world-bank-s-abandoned--2026-07-03",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Q A: How will the World Bank’s abandoned finance goal affect climate action?",
+        "excerpt": "The World Bank has abandoned a target for 45% of the funding it gives developing countries to be “ climate finance ”, following months of pressure from the Trump administration in the US. However, a concerted effort by developed- and developing-country shareholders has seen the bank hold onto its “ action plan ” for tackling climate change. The multilateral development bank (MDB) – which is headquartered in Washington DC – is the single largest provider of climate finance globally, distributing $39.2bn in 2025 alone, primarily as loans. Amid widespread…",
+        "url": "https://www.carbonbrief.org/qa-how-will-the-world-banks-abandoned-finance-goal-affect-climate-action/",
+        "publishedAt": "2026-07-03T14:22:28.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/Large2C_emerging_economies_receive_the_most_World_Bank_climate_finance.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "International policy",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-actis-acquires-clean-energy-platform-kla-2026-07-03",
         "source": "esg-today",
@@ -1205,50 +1198,6 @@
         "region": "world"
       },
       {
-        "id": "carbon-brief-q-a-what-change-of-power-in-colombia-cou-2026-06-26",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "POLICY",
-        "accent": "#5eead4",
-        "title": "Q A: What change of power in Colombia could mean for world’s fossil-fuel transition",
-        "excerpt": "Over the last four years, Colombia has emerged as one of the most vocal advocates for the world to transition away from fossil fuels. Under the leadership of leftist politician and economist Gustavo Petro, it became the first major oil-and-gas producer to commit to halting all new fossil-fuel expansion. In April, the nation hosted a first-of-its-kind meeting of countries on transitioning away from fossil fuels, alongside the Netherlands, in the Caribbean city of Santa Marta. The meeting concluded with a promise for a new “Santa Marta process”…",
-        "url": "https://www.carbonbrief.org/qa-what-change-of-power-in-colombia-could-mean-for-worlds-fossil-fuel-transition/",
-        "publishedAt": "2026-06-26T14:04:53.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-2.46.30-PM.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "International policy",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-media-reaction-how-climate-change-intens-2026-06-26",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Media reaction: How climate change intensified Europe’s record-breaking June heat",
-        "excerpt": "For the second time in two months, western and central Europe has been hit by a record-breaking heatwave. Temperature records have toppled in multiple countries, with France seeing its “hottest day ever” for two days running and the UK, Spain and Switzerland breaking records for June. A rapid-response attribution study has concluded that “climate change is unequivocally to blame”, noting that the scorching temperatures would have been “virtually impossible” 50 years ago. The research also found that the sweltering overnight temperatures seen this week…",
-        "url": "https://www.carbonbrief.org/media-reaction-how-climate-change-intensified-europes-record-breaking-june-heat/",
-        "publishedAt": "2026-06-26T12:44:22.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-13.01.21.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Extreme weather",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-per-aprueba-cuatro-metodolog-as-activas--2026-06-26",
         "source": "verra",
         "sourceName": "Verra",
@@ -1529,6 +1478,31 @@
           "region": "Latin America",
           "creditingPeriodStart": "2025-06-03",
           "creditingPeriodEnd": "2065-06-02",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6044",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Funga Southern Pine Grouped Project Managed for Enhanced Sequestration",
+        "excerpt": "Funga Southern Pine Grouped Project Managed for Enhanced Sequestration is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under development\". It applies Methodology Under Development methodology. Estimated annual emission reductions are 7,457 tonnes CO₂ equivalent per year. Project proponent: Funga PBC. Crediting period runs 2023-09-25 to 2048-09-24.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6044",
+        "publishedAt": "2026-05-27T00:00:00.000Z",
+        "image": null,
+        "country": "United States",
+        "methodology": "Methodology Under Development",
+        "registryId": "6044",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Funga PBC",
+          "region": "North America",
+          "creditingPeriodStart": "2023-09-25",
+          "creditingPeriodEnd": "2048-09-24",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -1933,6 +1907,30 @@
         "region": "world"
       },
       {
+        "id": "google-h2-green-hydrogen-market-forecasted-to-reac-2026-02-19",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Green Hydrogen Market Forecasted to Reach USD 231.32 - GlobeNewswire",
+        "excerpt": "Automobiles and Parts News Food & Beverage News Home Goods & Construction News Leisure Goods News Media & Entertainment News Personal Care News Retail News Travel and Leisure News Energy News Alternative Energy News Oil Gas and Coal News Chemicals News Banks & Financial Services News Banking News Closed-End Investments News Finance and Credit Services News Investment Banking and Brokerage Services News Insurance News Real Estate & REITs News Healthcare News Healthcare Providers News Medical Equipment News Medical Supplies and Services News Biotechnology…",
+        "url": "https://www.globenewswire.com/news-release/2026/02/19/3241001/0/en/green-hydrogen-market-forecasted-to-reach-usd-231-32-billion-by-2035-driven-by-renewable-energy-adoption-and-policy-support.html",
+        "publishedAt": "2026-02-19T08:00:00.000Z",
+        "image": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRXFrTW54UUtQZkRBZklaOHhnTnp2ZlZDLXY5bU56MG8ySU9JdlpUQXY0dVZlc1c4SmV6UUlwUVo3dk9BcGNzV1BHS3d1S0NqeERGZFVaQ0J3czBPclFwMjB5QjhaeGo0dVkyT2E1Z0ZmRjZENVl6QzlLSVdRdVVwXzlQamZHTjZuakVxSWhDanU5UDR0Z2VjcTdreFI1dm9mVVgzOGxnVDZVc00xUWRfQk1ySHk4RlFUc0h6WW1DRUhoeWp5dkF6UlVPaGFCbXpZYnFfMzc0Z2VaU0c1OTJIQk5USzFWUWlSNkhHeFJnTzVBZ3hHT3FEbk1xcWZhcDVObXNpc2ZzcXdQb1JxdmRpbHRlSGdSQ0NodlJ6bGhzUk0?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2100,6 +2098,50 @@
     ]
   },
   "articles": [
+    {
+      "id": "carbon-brief-debriefed-3-july-2026-us-faces-scorching-2026-07-03",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "DeBriefed 3 July 2026: US faces scorching Independence Day Record ocean temperatures Vietnam’s EV surge",
+      "excerpt": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week s key developments relating to climate change. NOT FREE FROM HEAT: “Dangerous, record-breaking” heat altered plans for 4 July celebrations across the US this weekend, reported the Associated Press . New York and Boston hit 100F (37.8C) on Thursday, said the newswire. CNBC reported that temperatures of up to 105F (40.5C) are forecast in central and eastern parts of the country, with “daily, monthly and all-time records possible”. TEMPERATURES SOAR: Heat that hit western Europe last week…",
+      "url": "https://www.carbonbrief.org/debriefed-3-july-2026-us-faces-scorching-independence-day-record-ocean-temperatures-vietnams-ev-surge/",
+      "publishedAt": "2026-07-03T14:47:51.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/wind-solar-worlds-largest-source-new-energy-2025_DEBRIEFED.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "DeBriefed",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-q-a-how-will-the-world-bank-s-abandoned--2026-07-03",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Q A: How will the World Bank’s abandoned finance goal affect climate action?",
+      "excerpt": "The World Bank has abandoned a target for 45% of the funding it gives developing countries to be “ climate finance ”, following months of pressure from the Trump administration in the US. However, a concerted effort by developed- and developing-country shareholders has seen the bank hold onto its “ action plan ” for tackling climate change. The multilateral development bank (MDB) – which is headquartered in Washington DC – is the single largest provider of climate finance globally, distributing $39.2bn in 2025 alone, primarily as loans. Amid widespread…",
+      "url": "https://www.carbonbrief.org/qa-how-will-the-world-banks-abandoned-finance-goal-affect-climate-action/",
+      "publishedAt": "2026-07-03T14:22:28.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/Large2C_emerging_economies_receive_the_most_World_Bank_climate_finance.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "International policy",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-actis-acquires-clean-energy-platform-kla-2026-07-03",
       "source": "esg-today",
@@ -2742,50 +2784,6 @@
       "region": "world"
     },
     {
-      "id": "carbon-brief-q-a-what-change-of-power-in-colombia-cou-2026-06-26",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "POLICY",
-      "accent": "#5eead4",
-      "title": "Q A: What change of power in Colombia could mean for world’s fossil-fuel transition",
-      "excerpt": "Over the last four years, Colombia has emerged as one of the most vocal advocates for the world to transition away from fossil fuels. Under the leadership of leftist politician and economist Gustavo Petro, it became the first major oil-and-gas producer to commit to halting all new fossil-fuel expansion. In April, the nation hosted a first-of-its-kind meeting of countries on transitioning away from fossil fuels, alongside the Netherlands, in the Caribbean city of Santa Marta. The meeting concluded with a promise for a new “Santa Marta process”…",
-      "url": "https://www.carbonbrief.org/qa-what-change-of-power-in-colombia-could-mean-for-worlds-fossil-fuel-transition/",
-      "publishedAt": "2026-06-26T14:04:53.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-2.46.30-PM.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "International policy",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-media-reaction-how-climate-change-intens-2026-06-26",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Media reaction: How climate change intensified Europe’s record-breaking June heat",
-      "excerpt": "For the second time in two months, western and central Europe has been hit by a record-breaking heatwave. Temperature records have toppled in multiple countries, with France seeing its “hottest day ever” for two days running and the UK, Spain and Switzerland breaking records for June. A rapid-response attribution study has concluded that “climate change is unequivocally to blame”, noting that the scorching temperatures would have been “virtually impossible” 50 years ago. The research also found that the sweltering overnight temperatures seen this week…",
-      "url": "https://www.carbonbrief.org/media-reaction-how-climate-change-intensified-europes-record-breaking-june-heat/",
-      "publishedAt": "2026-06-26T12:44:22.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-13.01.21.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Extreme weather",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-per-aprueba-cuatro-metodolog-as-activas--2026-06-26",
       "source": "verra",
       "sourceName": "Verra",
@@ -2830,30 +2828,6 @@
         "imageSource": "publisher"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-06-25",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
-      "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
-      "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
-      "publishedAt": "2026-06-25T16:35:15.000Z",
-      "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "verra-vcs-6082",
@@ -3213,6 +3187,31 @@
         "region": "Latin America",
         "creditingPeriodStart": "2025-06-03",
         "creditingPeriodEnd": "2065-06-02",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6044",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Funga Southern Pine Grouped Project Managed for Enhanced Sequestration",
+      "excerpt": "Funga Southern Pine Grouped Project Managed for Enhanced Sequestration is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under development\". It applies Methodology Under Development methodology. Estimated annual emission reductions are 7,457 tonnes CO₂ equivalent per year. Project proponent: Funga PBC. Crediting period runs 2023-09-25 to 2048-09-24.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6044",
+      "publishedAt": "2026-05-27T00:00:00.000Z",
+      "image": null,
+      "country": "United States",
+      "methodology": "Methodology Under Development",
+      "registryId": "6044",
+      "status": "Under development",
+      "meta": {
+        "proponent": "Funga PBC",
+        "region": "North America",
+        "creditingPeriodStart": "2023-09-25",
+        "creditingPeriodEnd": "2048-09-24",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
@@ -3713,27 +3712,25 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-5992",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
+      "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "ATMANIRBHAR KRISHAK PLANTATION PROJECT (KHARGONE, M.P.)",
-      "excerpt": "ATMANIRBHAR KRISHAK PLANTATION PROJECT (KHARGONE, M.P.) is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 3,39,097 tonnes CO₂ equivalent per year. Project proponent: Multiple Proponents. Crediting period runs 2026-06-15 to 2057-06-14.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/5992",
-      "publishedAt": "2026-04-16T00:00:00.000Z",
+      "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
+      "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
+      "publishedAt": "2026-04-14T07:00:00.000Z",
       "image": null,
       "country": "India",
-      "methodology": "VM0047",
-      "registryId": "5992",
-      "status": "Under development",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
       "meta": {
-        "proponent": "Multiple Proponents",
-        "region": "Asia",
-        "creditingPeriodStart": "2026-06-15",
-        "creditingPeriodEnd": "2057-06-14",
-        "program": "Verified Carbon Standard"
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
       },
       "region": "india"
     },
@@ -3857,6 +3854,30 @@
       "region": "india"
     },
     {
+      "id": "google-h2-green-hydrogen-market-forecasted-to-reac-2026-02-19",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Green Hydrogen Market Forecasted to Reach USD 231.32 - GlobeNewswire",
+      "excerpt": "Automobiles and Parts News Food & Beverage News Home Goods & Construction News Leisure Goods News Media & Entertainment News Personal Care News Retail News Travel and Leisure News Energy News Alternative Energy News Oil Gas and Coal News Chemicals News Banks & Financial Services News Banking News Closed-End Investments News Finance and Credit Services News Investment Banking and Brokerage Services News Insurance News Real Estate & REITs News Healthcare News Healthcare Providers News Medical Equipment News Medical Supplies and Services News Biotechnology…",
+      "url": "https://www.globenewswire.com/news-release/2026/02/19/3241001/0/en/green-hydrogen-market-forecasted-to-reach-usd-231-32-billion-by-2035-driven-by-renewable-energy-adoption-and-policy-support.html",
+      "publishedAt": "2026-02-19T08:00:00.000Z",
+      "image": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRXFrTW54UUtQZkRBZklaOHhnTnp2ZlZDLXY5bU56MG8ySU9JdlpUQXY0dVZlc1c4SmV6UUlwUVo3dk9BcGNzV1BHS3d1S0NqeERGZFVaQ0J3czBPclFwMjB5QjhaeGo0dVkyT2E1Z0ZmRjZENVl6QzlLSVdRdVVwXzlQamZHTjZuakVxSWhDanU5UDR0Z2VjcTdreFI1dm9mVVgzOGxnVDZVc00xUWRfQk1ySHk4RlFUc0h6WW1DRUhoeWp5dkF6UlVPaGFCbXpZYnFfMzc0Z2VaU0c1OTJIQk5USzFWUWlSNkhHeFJnTzVBZ3hHT3FEbk1xcWZhcDVObXNpc2ZzcXdQb1JxdmRpbHRlSGdSQ0NodlJ6bGhzUk0?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -3959,10 +3980,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3970,8 +3991,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
       },
       "region": "india"
     },
@@ -4088,30 +4108,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Hydrogen Horizons: Unlocking the Power of the Universe for Clean Mobility - TheCSRUniverse",
-      "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The global transition to clean energy has positioned hydrogen as a frontrunner in the race to decarbonize transportation. As…",
-      "url": "https://thecsruniverse.com/articles/hydrogen-horizons-unlocking-the-power-of-the-universe-for-clean-mobility",
-      "publishedAt": "2025-05-07T07:00:00.000Z",
-      "image": "https://thecsruniverse.com/adminxsafe/uploads/20260516055652",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWYweWJqMjBTSzcwc0kzSUlnVTJfQ1RDaHRLalB4dFlKb1VpVUZaa2NBM1pOYk1XRnFISUkwWF9jWHBfQ0pJUy00aVdmYmYtUFZXTkF3bWh0U3BuaXVzNFMzXzllcll5cDdCQUxNVmMxWDlkLVh4b3JnWVh2Qy01YmNZVkQwWGxQVXg3NkVtZk0xUWNqdEhSNmV3MFk0THh2ZDFDNEpBaEFhTGZV?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
