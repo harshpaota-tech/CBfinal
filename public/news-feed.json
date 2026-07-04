@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-03T20:12:32.175Z",
+  "fetchedAt": "2026-07-04T04:30:49.078Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,14 +47,38 @@
     "total": 87,
     "india": 20,
     "world": 67,
-    "withImages": 54,
-    "avgExcerptLength": 423,
+    "withImages": 55,
+    "avgExcerptLength": 427,
     "verra": 10,
     "registry": 25,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-06-25",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
+        "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+        "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
+        "publishedAt": "2026-06-25T16:35:15.000Z",
+        "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
       {
         "id": "verra-vcs-6066",
         "source": "verra-registry",
@@ -149,6 +173,31 @@
           "region": "Asia",
           "creditingPeriodStart": "2025-06-06",
           "creditingPeriodEnd": "2032-06-05",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "india"
+      },
+      {
+        "id": "verra-vcs-6049",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "CBG Production from Waste by Satish Sugars Limited",
+        "excerpt": "CBG Production from Waste by Satish Sugars Limited is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under development\". It applies ACM0022 methodology. Estimated annual emission reductions are 65,919 tonnes CO₂ equivalent per year. Project proponent: SATISH SUGARS LIMITED. Crediting period runs 2026-07-01 to 2033-06-30.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6049",
+        "publishedAt": "2026-05-29T00:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": "ACM0022",
+        "registryId": "6049",
+        "status": "Under development",
+        "meta": {
+          "proponent": "SATISH SUGARS LIMITED",
+          "region": "Asia",
+          "creditingPeriodStart": "2026-07-01",
+          "creditingPeriodEnd": "2033-06-30",
           "program": "Verified Carbon Standard"
         },
         "region": "india"
@@ -271,29 +320,6 @@
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlhkQURpdUd0Yk51RUEwNGEtc1NmWHMtV2dZY3hPREhXZGJUMWNlYXh3UHotaF9jZjlFZXp4RF95UEduSkg5VGlad3JWdmxBZU15T2tiZUE0TWtGZTFKOVRqT2lSRGE4d0VNYWNOdExNdTEzT0RwVVhOeEl2dTZob19pY283NFliVHk3b1ZXdDlkVVhKQUFvZG0xdE9la2htQUFmc3pJMDVFYWJxeVh4OGQ1NVhZSDJDZjR1bnlaek5rSzBTTGhlM9IBzwFBVV95cUxPemxKSjVSeW0zVXZsRG51eFhTVjk1S0R2VmcwRHppNVFPdU02NDRES2dhV1QwWFoybjdzQWNVbHg1dU1xbWJCdjlxemVrTXc3cUl0aFJPVXN6Sk9UeU5reEJhRFk5MFM5a2NzUFRiVzZVaDBxQmVxS0M4Ql9aSXpGc3lhNUFUaVhqMDZiYTNHUDBtTFNYTnJJdExuUEpMT0JkNDhvSmtyaGg3aTdvbktZcXpxUWFadDJrRHpCclJLX0h4S1I1NlNQUVpXWDFqR2M?oc=5",
           "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
-        "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
-        "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
-        "publishedAt": "2026-04-14T07:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
         },
         "region": "india"
       },
@@ -509,30 +535,6 @@
           "imageSource": "publisher"
         },
         "region": "india"
-      },
-      {
-        "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Hydrogen Horizons: Unlocking the Power of the Universe for Clean Mobility - TheCSRUniverse",
-        "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The global transition to clean energy has positioned hydrogen as a frontrunner in the race to decarbonize transportation. As…",
-        "url": "https://thecsruniverse.com/articles/hydrogen-horizons-unlocking-the-power-of-the-universe-for-clean-mobility",
-        "publishedAt": "2025-05-07T07:00:00.000Z",
-        "image": "https://thecsruniverse.com/adminxsafe/uploads/20260516055652",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWYweWJqMjBTSzcwc0kzSUlnVTJfQ1RDaHRLalB4dFlKb1VpVUZaa2NBM1pOYk1XRnFISUkwWF9jWHBfQ0pJUy00aVdmYmYtUFZXTkF3bWh0U3BuaXVzNFMzXzllcll5cDdCQUxNVmMxWDlkLVh4b3JnWVh2Qy01YmNZVkQwWGxQVXg3NkVtZk0xUWNqdEhSNmV3MFk0THh2ZDFDNEpBaEFhTGZV?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
       }
     ],
     "world": [
@@ -614,28 +616,6 @@
         "url": "https://www.esgdive.com/news/googles-emissions-continue-to-climb-due-to-ai-buildout/824373/",
         "publishedAt": "2026-07-02T16:50:00.000Z",
         "image": "https://imgproxy.divecdn.com/tBDNsTtDf7c7FRU9p6nlh2u4h06eqi823Wf5goYcOjc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2MTYxMDExLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-kkr-to-buy-edf-power-solution-s-north-am-2026-07-02",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "KKR to buy EDF power solution’s North American operations for $4.2B",
-        "excerpt": "The investment firm said the deal with EDF will support the United States broader energy security and affordability goals at a time when electricity demand is rising.",
-        "url": "https://www.esgdive.com/news/kkr-to-buy-edf-power-solutions-north-american-operations-for-42b/824374/",
-        "publishedAt": "2026-07-02T16:33:16.000Z",
-        "image": "https://imgproxy.divecdn.com/QdOiXDfzsKO1TN0-4tUF0Z0wcCFHDjT2A9K1GqORIoI/g:nowe:5:260/c:5314:3002/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDY0ODg0NjAzLmpwZw==.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1200,6 +1180,28 @@
         "region": "world"
       },
       {
+        "id": "esg-dive-luxury-ev-maker-lucid-motors-laying-off--2026-06-26",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Luxury EV-maker Lucid Motors laying off 18% of US workforce, COO resigns",
+        "excerpt": "The layoffs follow a 12% reduction of the company s workforce in February following the launch of the Gravity SUV, its second model.",
+        "url": "https://www.esgdive.com/news/luxury-ev-maker-lucid-motors-laying-off-18-of-us-workforce-coo-resigns/823878/",
+        "publishedAt": "2026-06-26T16:14:00.000Z",
+        "image": "https://imgproxy.divecdn.com/OiU_PC2NgTDQDH4357HT4OPcqP4oC1-yTjRFlmhbJ64/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcnRpY2xlTWVkaWFfMTQwN18xNzcxMzM2NzY5MzE1LndlYnA=.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
         "id": "carbon-brief-debriefed-26-june-2026-heat-records-brok-2026-06-26",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1732,31 +1734,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6016",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Barnett Zero Project",
-        "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
-        "publishedAt": "2026-04-27T00:00:00.000Z",
-        "image": null,
-        "country": "United States",
-        "methodology": "VM0049",
-        "registryId": "6016",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "BKV Marketing, LLC",
-          "region": "North America",
-          "creditingPeriodStart": "2023-11-08",
-          "creditingPeriodEnd": "2068-11-07",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6014",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1777,6 +1754,31 @@
           "region": "Asia",
           "creditingPeriodStart": "2025-05-19",
           "creditingPeriodEnd": "2035-05-18",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6016",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Barnett Zero Project",
+        "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
+        "publishedAt": "2026-04-27T00:00:00.000Z",
+        "image": null,
+        "country": "United States",
+        "methodology": "VM0049",
+        "registryId": "6016",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "BKV Marketing, LLC",
+          "region": "North America",
+          "creditingPeriodStart": "2023-11-08",
+          "creditingPeriodEnd": "2068-11-07",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -1902,31 +1904,6 @@
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wZk82WFJ2V1Z6UDd1aEM5YXhGdkpGTmhOc1dnMGhmV2lsTVJ4QTdRbU9GN0pkVlRsXzNZdjU4MVFhVDRxbEpZWEFjekY3QnM3XzBxWDhhRWlLMmZvcGFyYjZTWHBSWk1KMkttSUxCRmdfdi1IWnc?oc=5",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-vcs-6000",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Zambia Agroforestry Grouped Project",
-        "excerpt": "Zambia Agroforestry Grouped Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Zambia. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 1,77,525 tonnes CO₂ equivalent per year. Project proponent: ETG Climate Solutions SA. Crediting period runs 2025-12-01 to 2065-11-30.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6000",
-        "publishedAt": "2026-04-20T00:00:00.000Z",
-        "image": null,
-        "country": "Zambia",
-        "methodology": "VM0047",
-        "registryId": "6000",
-        "status": "Under development",
-        "meta": {
-          "proponent": "ETG Climate Solutions SA",
-          "region": "Africa",
-          "creditingPeriodStart": "2025-12-01",
-          "creditingPeriodEnd": "2065-11-30",
-          "program": "Verified Carbon Standard"
         },
         "region": "world"
       },
@@ -2072,6 +2049,30 @@
         "region": "world"
       },
       {
+        "id": "google-h2-house-republicans-move-to-eliminate-hydr-2025-05-13",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "House Republicans Move to Eliminate Hydrogen Tax Credit - Fuel Cells Works",
+        "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Energy Policy House Republicans Move to Eliminate Landmark U.S. Hydrogen Tax Credit in Bid to Roll Back Biden’s Climate Agenda",
+        "url": "https://fuelcellsworks.com/2025/05/13/clean-hydrogen/house-republicans-move-to-eliminate-landmark-u-s-hydrogen-tax-credit-in-bid-to-roll-back-biden-s-climate-agenda",
+        "publishedAt": "2025-05-13T07:00:00.000Z",
+        "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/house-republicans-move-to-eliminate-landmark-u-s-hydrogen-tax-credit-in-bid-to-roll-back-biden-s-climate-agenda-2025-05-13T09%3A07%3A42-05%3A00-image.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZE9GV2NWUUpaY0VWUUhuTWZuaEJIZEZzc3lEbDRGZkJlS0hqUzAtWHA0cUpiOGhVTktiQi1sMktGZTFuOEVaWmpSdGdZc29zQXhxeEJmdTRfS1l1VUtOLUYzeWhscGpWZVhXNllsTkoweDFHa0xoNVUwZXZBWm1IR0pjcF9HWjFFT0lTSzNiVnpvYmcyM05UcEcweWtoVWZKdWR1RXN5NHpTT1BSb3lWc2pKdkRvZmVwQ1BNYkFoT2ZtZF9ieEpIV3VRakc3WkJMck14ZWl3VWx1X2JzOThubnFMal9hMHZ2S0Z2SDRnMHNrWUVIdmhJ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2176,28 +2177,6 @@
       "url": "https://www.esgdive.com/news/googles-emissions-continue-to-climb-due-to-ai-buildout/824373/",
       "publishedAt": "2026-07-02T16:50:00.000Z",
       "image": "https://imgproxy.divecdn.com/tBDNsTtDf7c7FRU9p6nlh2u4h06eqi823Wf5goYcOjc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2MTYxMDExLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-kkr-to-buy-edf-power-solution-s-north-am-2026-07-02",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "KKR to buy EDF power solution’s North American operations for $4.2B",
-      "excerpt": "The investment firm said the deal with EDF will support the United States broader energy security and affordability goals at a time when electricity demand is rising.",
-      "url": "https://www.esgdive.com/news/kkr-to-buy-edf-power-solutions-north-american-operations-for-42b/824374/",
-      "publishedAt": "2026-07-02T16:33:16.000Z",
-      "image": "https://imgproxy.divecdn.com/QdOiXDfzsKO1TN0-4tUF0Z0wcCFHDjT2A9K1GqORIoI/g:nowe:5:260/c:5314:3002/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDY0ODg0NjAzLmpwZw==.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2762,6 +2741,28 @@
       "region": "world"
     },
     {
+      "id": "esg-dive-luxury-ev-maker-lucid-motors-laying-off--2026-06-26",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Luxury EV-maker Lucid Motors laying off 18% of US workforce, COO resigns",
+      "excerpt": "The layoffs follow a 12% reduction of the company s workforce in February following the launch of the Gravity SUV, its second model.",
+      "url": "https://www.esgdive.com/news/luxury-ev-maker-lucid-motors-laying-off-18-of-us-workforce-coo-resigns/823878/",
+      "publishedAt": "2026-06-26T16:14:00.000Z",
+      "image": "https://imgproxy.divecdn.com/OiU_PC2NgTDQDH4357HT4OPcqP4oC1-yTjRFlmhbJ64/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcnRpY2xlTWVkaWFfMTQwN18xNzcxMzM2NzY5MzE1LndlYnA=.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
       "id": "carbon-brief-debriefed-26-june-2026-heat-records-brok-2026-06-26",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2828,6 +2829,30 @@
         "imageSource": "publisher"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-06-25",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
+      "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+      "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
+      "publishedAt": "2026-06-25T16:35:15.000Z",
+      "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "verra-vcs-6082",
@@ -3137,6 +3162,31 @@
         "region": "Asia",
         "creditingPeriodStart": "2025-06-06",
         "creditingPeriodEnd": "2032-06-05",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "india"
+    },
+    {
+      "id": "verra-vcs-6049",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "CBG Production from Waste by Satish Sugars Limited",
+      "excerpt": "CBG Production from Waste by Satish Sugars Limited is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under development\". It applies ACM0022 methodology. Estimated annual emission reductions are 65,919 tonnes CO₂ equivalent per year. Project proponent: SATISH SUGARS LIMITED. Crediting period runs 2026-07-01 to 2033-06-30.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6049",
+      "publishedAt": "2026-05-29T00:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": "ACM0022",
+      "registryId": "6049",
+      "status": "Under development",
+      "meta": {
+        "proponent": "SATISH SUGARS LIMITED",
+        "region": "Asia",
+        "creditingPeriodStart": "2026-07-01",
+        "creditingPeriodEnd": "2033-06-30",
         "program": "Verified Carbon Standard"
       },
       "region": "india"
@@ -3489,31 +3539,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6016",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Barnett Zero Project",
-      "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": null,
-      "country": "United States",
-      "methodology": "VM0049",
-      "registryId": "6016",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "BKV Marketing, LLC",
-        "region": "North America",
-        "creditingPeriodStart": "2023-11-08",
-        "creditingPeriodEnd": "2068-11-07",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6014",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3534,6 +3559,31 @@
         "region": "Asia",
         "creditingPeriodStart": "2025-05-19",
         "creditingPeriodEnd": "2035-05-18",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6016",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Barnett Zero Project",
+      "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "image": null,
+      "country": "United States",
+      "methodology": "VM0049",
+      "registryId": "6016",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "BKV Marketing, LLC",
+        "region": "North America",
+        "creditingPeriodStart": "2023-11-08",
+        "creditingPeriodEnd": "2068-11-07",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
@@ -3685,54 +3735,6 @@
         "imageSource": "publisher"
       },
       "region": "world"
-    },
-    {
-      "id": "verra-vcs-6000",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Zambia Agroforestry Grouped Project",
-      "excerpt": "Zambia Agroforestry Grouped Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Zambia. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 1,77,525 tonnes CO₂ equivalent per year. Project proponent: ETG Climate Solutions SA. Crediting period runs 2025-12-01 to 2065-11-30.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6000",
-      "publishedAt": "2026-04-20T00:00:00.000Z",
-      "image": null,
-      "country": "Zambia",
-      "methodology": "VM0047",
-      "registryId": "6000",
-      "status": "Under development",
-      "meta": {
-        "proponent": "ETG Climate Solutions SA",
-        "region": "Africa",
-        "creditingPeriodStart": "2025-12-01",
-        "creditingPeriodEnd": "2065-11-30",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
-      "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
-      "publishedAt": "2026-04-14T07:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
-      },
-      "region": "india"
     },
     {
       "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
@@ -4089,17 +4091,17 @@
       "region": "india"
     },
     {
-      "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
+      "id": "google-h2-house-republicans-move-to-eliminate-hydr-2025-05-13",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "Hydrogen Horizons: Unlocking the Power of the Universe for Clean Mobility - TheCSRUniverse",
-      "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The global transition to clean energy has positioned hydrogen as a frontrunner in the race to decarbonize transportation. As…",
-      "url": "https://thecsruniverse.com/articles/hydrogen-horizons-unlocking-the-power-of-the-universe-for-clean-mobility",
-      "publishedAt": "2025-05-07T07:00:00.000Z",
-      "image": "https://thecsruniverse.com/adminxsafe/uploads/20260516055652",
+      "title": "House Republicans Move to Eliminate Hydrogen Tax Credit - Fuel Cells Works",
+      "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Energy Policy House Republicans Move to Eliminate Landmark U.S. Hydrogen Tax Credit in Bid to Roll Back Biden’s Climate Agenda",
+      "url": "https://fuelcellsworks.com/2025/05/13/clean-hydrogen/house-republicans-move-to-eliminate-landmark-u-s-hydrogen-tax-credit-in-bid-to-roll-back-biden-s-climate-agenda",
+      "publishedAt": "2025-05-13T07:00:00.000Z",
+      "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/house-republicans-move-to-eliminate-landmark-u-s-hydrogen-tax-credit-in-bid-to-roll-back-biden-s-climate-agenda-2025-05-13T09%3A07%3A42-05%3A00-image.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -4107,10 +4109,10 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWYweWJqMjBTSzcwc0kzSUlnVTJfQ1RDaHRLalB4dFlKb1VpVUZaa2NBM1pOYk1XRnFISUkwWF9jWHBfQ0pJUy00aVdmYmYtUFZXTkF3bWh0U3BuaXVzNFMzXzllcll5cDdCQUxNVmMxWDlkLVh4b3JnWVh2Qy01YmNZVkQwWGxQVXg3NkVtZk0xUWNqdEhSNmV3MFk0THh2ZDFDNEpBaEFhTGZV?oc=5",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZE9GV2NWUUpaY0VWUUhuTWZuaEJIZEZzc3lEbDRGZkJlS0hqUzAtWHA0cUpiOGhVTktiQi1sMktGZTFuOEVaWmpSdGdZc29zQXhxeEJmdTRfS1l1VUtOLUYzeWhscGpWZVhXNllsTkoweDFHa0xoNVUwZXZBWm1IR0pjcF9HWjFFT0lTSzNiVnpvYmcyM05UcEcweWtoVWZKdWR1RXN5NHpTT1BSb3lWc2pKdkRvZmVwQ1BNYkFoT2ZtZF9ieEpIV3VRakc3WkJMck14ZWl3VWx1X2JzOThubnFMal9hMHZ2S0Z2SDRnMHNrWUVIdmhJ?oc=5",
         "imageSource": "publisher"
       },
-      "region": "india"
+      "region": "world"
     },
     {
       "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
