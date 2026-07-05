@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-04T20:07:00.075Z",
+  "fetchedAt": "2026-07-05T04:52:49.577Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 20,
     "world": 67,
     "withImages": 54,
-    "avgExcerptLength": 423,
+    "avgExcerptLength": 424,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -354,10 +354,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market - carboncopy.info",
-        "excerpt": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market carboncopy.info",
+        "excerpt": "If a carbon market is a financial system for emissions, then data is its collateral. Credible data is the bedrock on which market legitimacy rests. India is laying the foundation stones of a national compliance carbon market. The market design features and regulatory systems are progressively under development, and industries are starting to prepare for the market. Much of the conversation so far has focused on targets, sectors, and trading rules. These are of course important — but the strongest foundation of an effective carbon market is something far…",
         "url": "https://carboncopy.info/data-is-the-new-collateral-building-a-high-fidelity-indian-carbon-market",
         "publishedAt": "2026-03-24T07:00:00.000Z",
-        "image": null,
+        "image": "https://cms.carboncopy.info/assets/780300ce-9cf3-4ddb-9e33-d8fc1dccee06",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -365,7 +365,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -471,10 +472,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -482,8 +483,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
         },
         "region": "india"
       },
@@ -615,6 +615,28 @@
         "url": "https://www.esgdive.com/news/googles-emissions-continue-to-climb-due-to-ai-buildout/824373/",
         "publishedAt": "2026-07-02T16:50:00.000Z",
         "image": "https://imgproxy.divecdn.com/tBDNsTtDf7c7FRU9p6nlh2u4h06eqi823Wf5goYcOjc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2MTYxMDExLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-kkr-to-buy-edf-power-solution-s-north-am-2026-07-02",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "KKR to buy EDF power solution’s North American operations for $4.2B",
+        "excerpt": "The investment firm said the deal with EDF will support the United States broader energy security and affordability goals at a time when electricity demand is rising.",
+        "url": "https://www.esgdive.com/news/kkr-to-buy-edf-power-solutions-north-american-operations-for-42b/824374/",
+        "publishedAt": "2026-07-02T16:33:16.000Z",
+        "image": "https://imgproxy.divecdn.com/QdOiXDfzsKO1TN0-4tUF0Z0wcCFHDjT2A9K1GqORIoI/g:nowe:5:260/c:5314:3002/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDY0ODg0NjAzLmpwZw==.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1168,28 +1190,6 @@
         "url": "https://www.esgdive.com/news/carb-delays-sb-253-ccda-emissions-reporting-deadline-by-3-months/823904/",
         "publishedAt": "2026-06-26T16:34:00.000Z",
         "image": "https://imgproxy.divecdn.com/Eqnd_quLKm6b-498FuZKQA749oR6TKLt94uV0Af5HJs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QOEFHUlcuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-luxury-ev-maker-lucid-motors-laying-off--2026-06-26",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Luxury EV-maker Lucid Motors laying off 18% of US workforce, COO resigns",
-        "excerpt": "The layoffs follow a 12% reduction of the company s workforce in February following the launch of the Gravity SUV, its second model.",
-        "url": "https://www.esgdive.com/news/luxury-ev-maker-lucid-motors-laying-off-18-of-us-workforce-coo-resigns/823878/",
-        "publishedAt": "2026-06-26T16:14:00.000Z",
-        "image": "https://imgproxy.divecdn.com/OiU_PC2NgTDQDH4357HT4OPcqP4oC1-yTjRFlmhbJ64/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcnRpY2xlTWVkaWFfMTQwN18xNzcxMzM2NzY5MzE1LndlYnA=.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -2187,6 +2187,28 @@
       "region": "world"
     },
     {
+      "id": "esg-dive-kkr-to-buy-edf-power-solution-s-north-am-2026-07-02",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "KKR to buy EDF power solution’s North American operations for $4.2B",
+      "excerpt": "The investment firm said the deal with EDF will support the United States broader energy security and affordability goals at a time when electricity demand is rising.",
+      "url": "https://www.esgdive.com/news/kkr-to-buy-edf-power-solutions-north-american-operations-for-42b/824374/",
+      "publishedAt": "2026-07-02T16:33:16.000Z",
+      "image": "https://imgproxy.divecdn.com/QdOiXDfzsKO1TN0-4tUF0Z0wcCFHDjT2A9K1GqORIoI/g:nowe:5:260/c:5314:3002/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDY0ODg0NjAzLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-eeoc-rescinds-affirmative-action-guideli-2026-07-02",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2729,28 +2751,6 @@
       "url": "https://www.esgdive.com/news/carb-delays-sb-253-ccda-emissions-reporting-deadline-by-3-months/823904/",
       "publishedAt": "2026-06-26T16:34:00.000Z",
       "image": "https://imgproxy.divecdn.com/Eqnd_quLKm6b-498FuZKQA749oR6TKLt94uV0Af5HJs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QOEFHUlcuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-luxury-ev-maker-lucid-motors-laying-off--2026-06-26",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Luxury EV-maker Lucid Motors laying off 18% of US workforce, COO resigns",
-      "excerpt": "The layoffs follow a 12% reduction of the company s workforce in February following the launch of the Gravity SUV, its second model.",
-      "url": "https://www.esgdive.com/news/luxury-ev-maker-lucid-motors-laying-off-18-of-us-workforce-coo-resigns/823878/",
-      "publishedAt": "2026-06-26T16:14:00.000Z",
-      "image": "https://imgproxy.divecdn.com/OiU_PC2NgTDQDH4357HT4OPcqP4oC1-yTjRFlmhbJ64/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcnRpY2xlTWVkaWFfMTQwN18xNzcxMzM2NzY5MzE1LndlYnA=.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3766,10 +3766,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market - carboncopy.info",
-      "excerpt": "Data is the New Collateral: Building a High-Fidelity Indian Carbon Market carboncopy.info",
+      "excerpt": "If a carbon market is a financial system for emissions, then data is its collateral. Credible data is the bedrock on which market legitimacy rests. India is laying the foundation stones of a national compliance carbon market. The market design features and regulatory systems are progressively under development, and industries are starting to prepare for the market. Much of the conversation so far has focused on targets, sectors, and trading rules. These are of course important — but the strongest foundation of an effective carbon market is something far…",
       "url": "https://carboncopy.info/data-is-the-new-collateral-building-a-high-fidelity-indian-carbon-market",
       "publishedAt": "2026-03-24T07:00:00.000Z",
-      "image": null,
+      "image": "https://cms.carboncopy.info/assets/780300ce-9cf3-4ddb-9e33-d8fc1dccee06",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3777,7 +3777,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm10VmxMNEVZc01XZmlIalpKVVF0MlpSNHdvM0lPOXBCZVU5NjZGZVVTXzcwVGpINl9yS2NmUEtIZ3NEYmdfSXdOaFkwU1lqU1V2eVlwSGVhWXpEd2ptb2tDMXJJTU9VZE5QcFZvWHpHNkh4Ym5IVExEbVdLb3J4XzJSaExWMkJZWEM0djVXQXBjYVRkTWk0ZmpHNGs?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -3979,10 +3980,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3990,8 +3991,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
       },
       "region": "india"
     },
