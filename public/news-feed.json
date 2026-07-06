@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-06T16:18:33.149Z",
+  "fetchedAt": "2026-07-06T20:50:33.579Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 87,
     "india": 19,
     "world": 68,
-    "withImages": 55,
-    "avgExcerptLength": 429,
+    "withImages": 56,
+    "avgExcerptLength": 436,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -228,29 +228,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
-        "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
-        "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
-        "publishedAt": "2026-05-25T07:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-india-among-biggest-new-carbon-markets-a-2026-05-21",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -319,30 +296,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlhkQURpdUd0Yk51RUEwNGEtc1NmWHMtV2dZY3hPREhXZGJUMWNlYXh3UHotaF9jZjlFZXp4RF95UEduSkg5VGlad3JWdmxBZU15T2tiZUE0TWtGZTFKOVRqT2lSRGE4d0VNYWNOdExNdTEzT0RwVVhOeEl2dTZob19pY283NFliVHk3b1ZXdDlkVVhKQUFvZG0xdE9la2htQUFmc3pJMDVFYWJxeVh4OGQ1NVhZSDJDZjR1bnlaek5rSzBTTGhlM9IBzwFBVV95cUxPemxKSjVSeW0zVXZsRG51eFhTVjk1S0R2VmcwRHppNVFPdU02NDRES2dhV1QwWFoybjdzQWNVbHg1dU1xbWJCdjlxemVrTXc3cUl0aFJPVXN6Sk9UeU5reEJhRFk5MFM5a2NzUFRiVzZVaDBxQmVxS0M4Ql9aSXpGc3lhNUFUaVhqMDZiYTNHUDBtTFNYTnJJdExuUEpMT0JkNDhvSmtyaGg3aTdvbktZcXpxUWFadDJrRHpCclJLX0h4S1I1NlNQUVpXWDFqR2M?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-        "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
-        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
-        "publishedAt": "2026-04-03T07:24:04.000Z",
-        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -443,6 +396,30 @@
         "region": "india"
       },
       {
+        "id": "google-india-everyone-want-carbon-credits-what-really-2026-02-05",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Everyone want carbon credits: What really is it and why is it needed? - India Today",
+        "excerpt": "Magazine Live TV Search SEARCH SIGN IN Edition IN IN US Home TV Live TV Primetime Magazine Latest Edition Insight Best Colleges India Today Hindi Jobs India Business All Business News Share Market IPO Personal Finance Companies Life+Style Puzzles South Global Sports All Sports IPL 2026 French Open IPL Schedule IPL Points Table Cricket Live Score Football Technology Showbuzz Entertainment Movies Bollywood Hollywood Television OTT Latest Reviews Newspresso Specials Podcasts Sunday Special History of It NewsMo DIU Opinion Videos Short Videos Fact Check…",
+        "url": "https://www.indiatoday.in/science/story/what-are-carbon-credits-how-can-they-benefit-india-in-climate-change-heatwaves-rain-winters-snow-disasters-2863365-2026-02-05",
+        "publishedAt": "2026-02-05T08:00:00.000Z",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/explained-what-are-carbon-credits-and-how-they-help-india-in-the-climate-fight-053439307-16x9_0.jpg?VersionId=MFLteJGVe1TPWZAjKYLlaRoX2KzGmp9.",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa1kyX0tMdzYyTWttXzYtRlFvUmtPU0pOd0tadVhPZG1sWWczNlhZS0NIWV9WQi1vMDlLSTM2Wi1yaDk0SWFBWjh0dG5EalBCTHpBWmtHekVVWDNvQ0llSERhd21OYWtuaGVyQW9GQ2pHeXliRGdIcWgtZXA4WXZ3Y1VsVWVzalZiaVNUYUVteldLZ0p2NEx5YjNuUldaVkhzQl9Jd2w1SWRidXpTME5OcERkLXNQV3RiUFpfYzg0cjhjQ1BXV3VCNmFnWTQtdDd0eUFQbEsyY2kzWlVsd2l4RnBCUllUQU54bkM1RnZxVGVqOFFaQmlNMNIB_gFBVV95cUxOelplYnVJMkdqeEZEb3JmT280d2NjYVNRTy1hSWI5UkZHWmVxODJHWkR4R05ackFaUFlQZnR6eUV5Ulp3czdlY0RUOGYyQUtjc25MOTUtR2diSkdQNFJpcTM0OE1Kamg4NHJVNUZ4TWVhLUtsS0hvVk9JOGItYTRzQW85MFB4OTIyTWxWMkxsbXp5WHZsM1IzdlBNRDk5bEh3U0JPZ2RFcVBSY29LR3lVY05PMzNqM3NsRG95NzlRR3V2MjV5Rl81SUhsTFI4azZFRGRXdmdGUmxyT1VyYnFIZHZvODRacEVJVXRtUEx1aHYzX1pMQ3FaQjgyYWdwUQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -462,6 +439,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-how-ccts-is-accelerating-india-inc-s-rac-2026-01-08",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "How CCTS is accelerating India Inc.’s race to decarbonize - EY",
+        "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
+        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize",
+        "publishedAt": "2026-01-08T08:00:00.000Z",
+        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-ccts-banner.png",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFpleHAtN1I5eHA0T1R1czlGa0NDVVIxSlNqbWpCUTFGd25MTEtmdGhqT0FBa2Q2X2tRZGFzNUdsSDBRMzdwSGFmNl9TSFd3dWI0ZHJENVRielZkYU4zaUVtSGpxWkZCZzQ3MDFwT2Y0TWhxNDNqSVgxOEE5VnBhcmhyV3h6cWRXTTJNMTJheFNjUkZWOWNkWDE4azdyZEhwTnliandnN3F4ZzAtQVU5TmpNYTM2T1VyeXNJM1ZEUzdnSTNjbFNScg?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -515,6 +516,50 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-deutsche-bank-lufthansa-invest-in-saf-to-2026-07-06",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Deutsche Bank, Lufthansa invest in SAF to cut business travel emissions",
+        "excerpt": "The deal between the German lender and the aviation company is estimated to enable up to 5,500 metric tons of carbon dioxide emissions reductions compared to conventional jet fuel.",
+        "url": "https://www.esgdive.com/news/deutsche-bank-lufthansa-invest-in-saf-to-cut-business-travel-emissions/824498/",
+        "publishedAt": "2026-07-06T17:00:20.000Z",
+        "image": "https://imgproxy.divecdn.com/-UM2IY4xkuFDyfZqS73De29zO4JBkatx-5Z_Z1KYoZ8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTMyMzYyNjYuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-amazon-invests-in-ecosystem-restoration--2026-07-06",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Amazon invests in ecosystem restoration for 1.95M metric tons of removal credits",
+        "excerpt": "The deal will run for over a decade and support the second phase of a nature-based carbon removal project in South Africa.",
+        "url": "https://www.esgdive.com/news/amazon-invests-in-ecosystem-restoration-for-195m-metric-tons-of-removal-cr/824490/",
+        "publishedAt": "2026-07-06T16:50:00.000Z",
+        "image": "https://imgproxy.divecdn.com/pUnCdMlLtQlBqDTfy2Ey4r0suyyGvjFkcd10d6zDNOY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI3MTUxNDIwLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-graphic-packaging-releases-sustainabilit-2026-07-06",
         "source": "esg-dive",
@@ -804,13 +849,13 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-kkr-to-buy-edf-power-solution-s-north-am-2026-07-02",
+        "id": "esg-dive-kkr-to-buy-edf-power-solutions-north-ame-2026-07-02",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
         "type": "esg",
         "tag": "ESG",
         "accent": "#60a5fa",
-        "title": "KKR to buy EDF power solution’s North American operations for $4.2B",
+        "title": "KKR to buy EDF power solutions’ North American operations for $4.2B",
         "excerpt": "The investment firm said the deal with EDF will support the United States broader energy security and affordability goals at a time when electricity demand is rising.",
         "url": "https://www.esgdive.com/news/kkr-to-buy-edf-power-solutions-north-american-operations-for-42b/824374/",
         "publishedAt": "2026-07-02T16:33:16.000Z",
@@ -1136,50 +1181,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-msci-acquires-first-street-to-expand-phy-2026-06-29",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "MSCI acquires First Street to expand physical climate risk modeling",
-        "excerpt": "The climate risk tech and data company s acquisition will help financial institutions embed climate risk calculations directly into how capital is priced and allocated, First Street founder Matthew Eby said.",
-        "url": "https://www.esgdive.com/news/msci-acquires-first-street-expand-physical-climate-risk-modeling/823989/",
-        "publishedAt": "2026-06-29T16:35:00.000Z",
-        "image": "https://imgproxy.divecdn.com/v8qrWnhIJafRWj-n2ZJ1vQs-xf35wPIVr9y646NkGWw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYwOTI4ODc5XzEuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-california-to-sue-trump-administration-o-2026-06-29",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "California to sue Trump administration over offshore wind buybacks",
-        "excerpt": "The lease cancellations are causing ongoing harm to California, which has invested more than $100 million to support the development of wind energy, the state s attorney general said.",
-        "url": "https://www.esgdive.com/news/california-file-suit-over-trump-administrations-offshore-wind-buybacks/823957/",
-        "publishedAt": "2026-06-29T16:02:00.000Z",
-        "image": "https://imgproxy.divecdn.com/Yka928KlhZI0-y_cB7ulPzyVWwntlfNwIRc9tBw-IDM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTA2MDgyMS5qcGc=.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-projects-open-for-public-comment-june-29-2026-06-29",
         "source": "verra",
         "sourceName": "Verra",
@@ -1199,6 +1200,31 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6088",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Methane Avoidance Project through the Solids Removal & Oil Recovery System (SRORS)",
+        "excerpt": "Methane Avoidance Project through the Solids Removal & Oil Recovery System (SRORS) is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies AMS-III.Y methodology. Estimated annual emission reductions are 72,000 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-07-01 to 2035-06-30.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6088",
+        "publishedAt": "2026-06-29T00:00:00.000Z",
+        "image": null,
+        "country": "Malaysia",
+        "methodology": "AMS-III.Y",
+        "registryId": "6088",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Climate Quest Sdn Bhd",
+          "region": "Asia",
+          "creditingPeriodStart": "2025-07-01",
+          "creditingPeriodEnd": "2035-06-30",
+          "program": "Verified Carbon Standard"
         },
         "region": "world"
       },
@@ -1486,6 +1512,31 @@
         "region": "world"
       },
       {
+        "id": "verra-vcs-6043",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "DST Electric Vehicle in Freight Transportation Project",
+        "excerpt": "DST Electric Vehicle in Freight Transportation Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in China. The project is currently listed as \"Under validation\". It applies VMR0014 methodology. Estimated annual emission reductions are 79,324 tonnes CO₂ equivalent per year. Project proponent: DST Sustainable Technology (Shenzhen) Co., Ltd.. Crediting period runs 2023-10-07 to 2033-10-06.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6043",
+        "publishedAt": "2026-05-27T00:00:00.000Z",
+        "image": null,
+        "country": "China",
+        "methodology": "VMR0014",
+        "registryId": "6043",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "DST Sustainable Technology (Shenzhen) Co., Ltd.",
+          "region": "Asia",
+          "creditingPeriodStart": "2023-10-07",
+          "creditingPeriodEnd": "2033-10-06",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
         "id": "verra-vcs-6044",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1556,6 +1607,31 @@
           "region": "Africa",
           "creditingPeriodStart": "2026-01-01",
           "creditingPeriodEnd": "2035-12-31",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6029",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "The Community Based Avoided Deforestation Project in DRC – REDD",
+        "excerpt": "The Community Based Avoided Deforestation Project in DRC – REDD is a Verified Carbon Standard (VCS) project registered on the Verra registry in Congo, The Democratic Republic of The. The project is currently listed as \"Under development\". It applies VM0048 methodology. Estimated annual emission reductions are 6,25,959 tonnes CO₂ equivalent per year. Project proponent: Multiple Proponents. Crediting period runs 2026-07-01 to 2066-06-30.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6029",
+        "publishedAt": "2026-05-12T00:00:00.000Z",
+        "image": null,
+        "country": "Congo, The Democratic Republic of The",
+        "methodology": "VM0048",
+        "registryId": "6029",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Multiple Proponents",
+          "region": "Africa",
+          "creditingPeriodStart": "2026-07-01",
+          "creditingPeriodEnd": "2066-06-30",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -1736,6 +1812,31 @@
         "region": "world"
       },
       {
+        "id": "verra-vcs-6014",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
+        "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under validation\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
+        "publishedAt": "2026-04-27T00:00:00.000Z",
+        "image": null,
+        "country": "Malaysia",
+        "methodology": "ACM0001",
+        "registryId": "6014",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Climate Quest Sdn Bhd",
+          "region": "Asia",
+          "creditingPeriodStart": "2025-05-19",
+          "creditingPeriodEnd": "2035-05-18",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
         "id": "verra-vcs-6008",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1761,81 +1862,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6004",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Ebuta Peatland Conservation Project, Democratic Republic of Congo",
-        "excerpt": "Ebuta Peatland Conservation Project, Democratic Republic of Congo is a Verified Carbon Standard (VCS) project registered on the Verra registry in Congo, The Democratic Republic of The. The project is currently listed as \"Under development\". It applies VM0007 methodology. Estimated annual emission reductions are 7,51,188 tonnes CO₂ equivalent per year. Project proponent: Congo Nature Tourbières (CNT).",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6004",
-        "publishedAt": "2026-04-22T00:00:00.000Z",
-        "image": null,
-        "country": "Congo, The Democratic Republic of The",
-        "methodology": "VM0007",
-        "registryId": "6004",
-        "status": "Under development",
-        "meta": {
-          "proponent": "Congo Nature Tourbières (CNT)",
-          "region": "Africa",
-          "creditingPeriodStart": null,
-          "creditingPeriodEnd": null,
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-vcs-6001",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Acorn - Rainforest Alliance Vietnam Smallholder Agroforestry",
-        "excerpt": "Acorn - Rainforest Alliance Vietnam Smallholder Agroforestry is a Verified Carbon Standard (VCS) project registered on the Verra registry in Viet Nam. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 1,99,000 tonnes CO₂ equivalent per year. Project proponent: Acorn B.V.. Crediting period runs 2023-06-30 to 2053-06-29.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6001",
-        "publishedAt": "2026-04-21T00:00:00.000Z",
-        "image": null,
-        "country": "Viet Nam",
-        "methodology": "VM0047",
-        "registryId": "6001",
-        "status": "Under development",
-        "meta": {
-          "proponent": "Acorn B.V.",
-          "region": "Asia",
-          "creditingPeriodStart": "2023-06-30",
-          "creditingPeriodEnd": "2053-06-29",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-vcs-6003",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Arona 1",
-        "excerpt": "Arona 1 is a Verified Carbon Standard (VCS) project registered on the Verra registry in Uruguay. The project is currently listed as \"Under validation\". It applies VM0047 methodology. Estimated annual emission reductions are 29,442 tonnes CO₂ equivalent per year. Project proponent: ARONA S.A.S.. Crediting period runs 2025-06-30 to 2045-06-29.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6003",
-        "publishedAt": "2026-04-21T00:00:00.000Z",
-        "image": null,
-        "country": "Uruguay",
-        "methodology": "VM0047",
-        "registryId": "6003",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "ARONA S.A.S.",
-          "region": "Latin America",
-          "creditingPeriodStart": "2025-06-30",
-          "creditingPeriodEnd": "2045-06-29",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1856,31 +1882,6 @@
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wZk82WFJ2V1Z6UDd1aEM5YXhGdkpGTmhOc1dnMGhmV2lsTVJ4QTdRbU9GN0pkVlRsXzNZdjU4MVFhVDRxbEpZWEFjekY3QnM3XzBxWDhhRWlLMmZvcGFyYjZTWHBSWk1KMkttSUxCRmdfdi1IWnc?oc=5",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-vcs-6000",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Zambia Agroforestry Grouped Project",
-        "excerpt": "Zambia Agroforestry Grouped Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Zambia. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 1,77,525 tonnes CO₂ equivalent per year. Project proponent: ETG Climate Solutions SA. Crediting period runs 2025-12-01 to 2065-11-30.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6000",
-        "publishedAt": "2026-04-20T00:00:00.000Z",
-        "image": null,
-        "country": "Zambia",
-        "methodology": "VM0047",
-        "registryId": "6000",
-        "status": "Under development",
-        "meta": {
-          "proponent": "ETG Climate Solutions SA",
-          "region": "Africa",
-          "creditingPeriodStart": "2025-12-01",
-          "creditingPeriodEnd": "2065-11-30",
-          "program": "Verified Carbon Standard"
         },
         "region": "world"
       },
@@ -2099,6 +2100,50 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-deutsche-bank-lufthansa-invest-in-saf-to-2026-07-06",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Deutsche Bank, Lufthansa invest in SAF to cut business travel emissions",
+      "excerpt": "The deal between the German lender and the aviation company is estimated to enable up to 5,500 metric tons of carbon dioxide emissions reductions compared to conventional jet fuel.",
+      "url": "https://www.esgdive.com/news/deutsche-bank-lufthansa-invest-in-saf-to-cut-business-travel-emissions/824498/",
+      "publishedAt": "2026-07-06T17:00:20.000Z",
+      "image": "https://imgproxy.divecdn.com/-UM2IY4xkuFDyfZqS73De29zO4JBkatx-5Z_Z1KYoZ8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTMyMzYyNjYuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-amazon-invests-in-ecosystem-restoration--2026-07-06",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Amazon invests in ecosystem restoration for 1.95M metric tons of removal credits",
+      "excerpt": "The deal will run for over a decade and support the second phase of a nature-based carbon removal project in South Africa.",
+      "url": "https://www.esgdive.com/news/amazon-invests-in-ecosystem-restoration-for-195m-metric-tons-of-removal-cr/824490/",
+      "publishedAt": "2026-07-06T16:50:00.000Z",
+      "image": "https://imgproxy.divecdn.com/pUnCdMlLtQlBqDTfy2Ey4r0suyyGvjFkcd10d6zDNOY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI3MTUxNDIwLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-dive-graphic-packaging-releases-sustainabilit-2026-07-06",
       "source": "esg-dive",
@@ -2412,13 +2457,13 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-kkr-to-buy-edf-power-solution-s-north-am-2026-07-02",
+      "id": "esg-dive-kkr-to-buy-edf-power-solutions-north-ame-2026-07-02",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
       "type": "esg",
       "tag": "ESG",
       "accent": "#60a5fa",
-      "title": "KKR to buy EDF power solution’s North American operations for $4.2B",
+      "title": "KKR to buy EDF power solutions’ North American operations for $4.2B",
       "excerpt": "The investment firm said the deal with EDF will support the United States broader energy security and affordability goals at a time when electricity demand is rising.",
       "url": "https://www.esgdive.com/news/kkr-to-buy-edf-power-solutions-north-american-operations-for-42b/824374/",
       "publishedAt": "2026-07-02T16:33:16.000Z",
@@ -2744,50 +2789,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-msci-acquires-first-street-to-expand-phy-2026-06-29",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "MSCI acquires First Street to expand physical climate risk modeling",
-      "excerpt": "The climate risk tech and data company s acquisition will help financial institutions embed climate risk calculations directly into how capital is priced and allocated, First Street founder Matthew Eby said.",
-      "url": "https://www.esgdive.com/news/msci-acquires-first-street-expand-physical-climate-risk-modeling/823989/",
-      "publishedAt": "2026-06-29T16:35:00.000Z",
-      "image": "https://imgproxy.divecdn.com/v8qrWnhIJafRWj-n2ZJ1vQs-xf35wPIVr9y646NkGWw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYwOTI4ODc5XzEuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-california-to-sue-trump-administration-o-2026-06-29",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "California to sue Trump administration over offshore wind buybacks",
-      "excerpt": "The lease cancellations are causing ongoing harm to California, which has invested more than $100 million to support the development of wind energy, the state s attorney general said.",
-      "url": "https://www.esgdive.com/news/california-file-suit-over-trump-administrations-offshore-wind-buybacks/823957/",
-      "publishedAt": "2026-06-29T16:02:00.000Z",
-      "image": "https://imgproxy.divecdn.com/Yka928KlhZI0-y_cB7ulPzyVWwntlfNwIRc9tBw-IDM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTA2MDgyMS5qcGc=.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-june-29-2026-06-29",
       "source": "verra",
       "sourceName": "Verra",
@@ -2807,6 +2808,31 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6088",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Methane Avoidance Project through the Solids Removal & Oil Recovery System (SRORS)",
+      "excerpt": "Methane Avoidance Project through the Solids Removal & Oil Recovery System (SRORS) is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies AMS-III.Y methodology. Estimated annual emission reductions are 72,000 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-07-01 to 2035-06-30.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6088",
+      "publishedAt": "2026-06-29T00:00:00.000Z",
+      "image": null,
+      "country": "Malaysia",
+      "methodology": "AMS-III.Y",
+      "registryId": "6088",
+      "status": "Under development",
+      "meta": {
+        "proponent": "Climate Quest Sdn Bhd",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-07-01",
+        "creditingPeriodEnd": "2035-06-30",
+        "program": "Verified Carbon Standard"
       },
       "region": "world"
     },
@@ -3242,6 +3268,31 @@
       "region": "world"
     },
     {
+      "id": "verra-vcs-6043",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "DST Electric Vehicle in Freight Transportation Project",
+      "excerpt": "DST Electric Vehicle in Freight Transportation Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in China. The project is currently listed as \"Under validation\". It applies VMR0014 methodology. Estimated annual emission reductions are 79,324 tonnes CO₂ equivalent per year. Project proponent: DST Sustainable Technology (Shenzhen) Co., Ltd.. Crediting period runs 2023-10-07 to 2033-10-06.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6043",
+      "publishedAt": "2026-05-27T00:00:00.000Z",
+      "image": null,
+      "country": "China",
+      "methodology": "VMR0014",
+      "registryId": "6043",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "DST Sustainable Technology (Shenzhen) Co., Ltd.",
+        "region": "Asia",
+        "creditingPeriodStart": "2023-10-07",
+        "creditingPeriodEnd": "2033-10-06",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
       "id": "verra-vcs-6044",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3290,29 +3341,6 @@
         "program": "Verified Carbon Standard"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
-      "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
-      "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
-      "publishedAt": "2026-05-25T07:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
-      },
-      "region": "india"
     },
     {
       "id": "google-india-india-among-biggest-new-carbon-markets-a-2026-05-21",
@@ -3384,6 +3412,31 @@
         "region": "Africa",
         "creditingPeriodStart": "2026-01-01",
         "creditingPeriodEnd": "2035-12-31",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6029",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "The Community Based Avoided Deforestation Project in DRC – REDD",
+      "excerpt": "The Community Based Avoided Deforestation Project in DRC – REDD is a Verified Carbon Standard (VCS) project registered on the Verra registry in Congo, The Democratic Republic of The. The project is currently listed as \"Under development\". It applies VM0048 methodology. Estimated annual emission reductions are 6,25,959 tonnes CO₂ equivalent per year. Project proponent: Multiple Proponents. Crediting period runs 2026-07-01 to 2066-06-30.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6029",
+      "publishedAt": "2026-05-12T00:00:00.000Z",
+      "image": null,
+      "country": "Congo, The Democratic Republic of The",
+      "methodology": "VM0048",
+      "registryId": "6029",
+      "status": "Under development",
+      "meta": {
+        "proponent": "Multiple Proponents",
+        "region": "Africa",
+        "creditingPeriodStart": "2026-07-01",
+        "creditingPeriodEnd": "2066-06-30",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
@@ -3564,6 +3617,31 @@
       "region": "world"
     },
     {
+      "id": "verra-vcs-6014",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
+      "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under validation\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "image": null,
+      "country": "Malaysia",
+      "methodology": "ACM0001",
+      "registryId": "6014",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "Climate Quest Sdn Bhd",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-05-19",
+        "creditingPeriodEnd": "2035-05-18",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -3613,81 +3691,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6004",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Ebuta Peatland Conservation Project, Democratic Republic of Congo",
-      "excerpt": "Ebuta Peatland Conservation Project, Democratic Republic of Congo is a Verified Carbon Standard (VCS) project registered on the Verra registry in Congo, The Democratic Republic of The. The project is currently listed as \"Under development\". It applies VM0007 methodology. Estimated annual emission reductions are 7,51,188 tonnes CO₂ equivalent per year. Project proponent: Congo Nature Tourbières (CNT).",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6004",
-      "publishedAt": "2026-04-22T00:00:00.000Z",
-      "image": null,
-      "country": "Congo, The Democratic Republic of The",
-      "methodology": "VM0007",
-      "registryId": "6004",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Congo Nature Tourbières (CNT)",
-        "region": "Africa",
-        "creditingPeriodStart": null,
-        "creditingPeriodEnd": null,
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-vcs-6001",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Acorn - Rainforest Alliance Vietnam Smallholder Agroforestry",
-      "excerpt": "Acorn - Rainforest Alliance Vietnam Smallholder Agroforestry is a Verified Carbon Standard (VCS) project registered on the Verra registry in Viet Nam. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 1,99,000 tonnes CO₂ equivalent per year. Project proponent: Acorn B.V.. Crediting period runs 2023-06-30 to 2053-06-29.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6001",
-      "publishedAt": "2026-04-21T00:00:00.000Z",
-      "image": null,
-      "country": "Viet Nam",
-      "methodology": "VM0047",
-      "registryId": "6001",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Acorn B.V.",
-        "region": "Asia",
-        "creditingPeriodStart": "2023-06-30",
-        "creditingPeriodEnd": "2053-06-29",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-vcs-6003",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Arona 1",
-      "excerpt": "Arona 1 is a Verified Carbon Standard (VCS) project registered on the Verra registry in Uruguay. The project is currently listed as \"Under validation\". It applies VM0047 methodology. Estimated annual emission reductions are 29,442 tonnes CO₂ equivalent per year. Project proponent: ARONA S.A.S.. Crediting period runs 2025-06-30 to 2045-06-29.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6003",
-      "publishedAt": "2026-04-21T00:00:00.000Z",
-      "image": null,
-      "country": "Uruguay",
-      "methodology": "VM0047",
-      "registryId": "6003",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "ARONA S.A.S.",
-        "region": "Latin America",
-        "creditingPeriodStart": "2025-06-30",
-        "creditingPeriodEnd": "2045-06-29",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -3710,55 +3713,6 @@
         "imageSource": "publisher"
       },
       "region": "world"
-    },
-    {
-      "id": "verra-vcs-6000",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Zambia Agroforestry Grouped Project",
-      "excerpt": "Zambia Agroforestry Grouped Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Zambia. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 1,77,525 tonnes CO₂ equivalent per year. Project proponent: ETG Climate Solutions SA. Crediting period runs 2025-12-01 to 2065-11-30.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6000",
-      "publishedAt": "2026-04-20T00:00:00.000Z",
-      "image": null,
-      "country": "Zambia",
-      "methodology": "VM0047",
-      "registryId": "6000",
-      "status": "Under development",
-      "meta": {
-        "proponent": "ETG Climate Solutions SA",
-        "region": "Africa",
-        "creditingPeriodStart": "2025-12-01",
-        "creditingPeriodEnd": "2065-11-30",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-      "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
-      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
-      "publishedAt": "2026-04-03T07:24:04.000Z",
-      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "google-india-data-is-the-new-collateral-building-a-hi-2026-03-24",
@@ -3903,6 +3857,30 @@
       "region": "world"
     },
     {
+      "id": "google-india-everyone-want-carbon-credits-what-really-2026-02-05",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Everyone want carbon credits: What really is it and why is it needed? - India Today",
+      "excerpt": "Magazine Live TV Search SEARCH SIGN IN Edition IN IN US Home TV Live TV Primetime Magazine Latest Edition Insight Best Colleges India Today Hindi Jobs India Business All Business News Share Market IPO Personal Finance Companies Life+Style Puzzles South Global Sports All Sports IPL 2026 French Open IPL Schedule IPL Points Table Cricket Live Score Football Technology Showbuzz Entertainment Movies Bollywood Hollywood Television OTT Latest Reviews Newspresso Specials Podcasts Sunday Special History of It NewsMo DIU Opinion Videos Short Videos Fact Check…",
+      "url": "https://www.indiatoday.in/science/story/what-are-carbon-credits-how-can-they-benefit-india-in-climate-change-heatwaves-rain-winters-snow-disasters-2863365-2026-02-05",
+      "publishedAt": "2026-02-05T08:00:00.000Z",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/explained-what-are-carbon-credits-and-how-they-help-india-in-the-climate-fight-053439307-16x9_0.jpg?VersionId=MFLteJGVe1TPWZAjKYLlaRoX2KzGmp9.",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa1kyX0tMdzYyTWttXzYtRlFvUmtPU0pOd0tadVhPZG1sWWczNlhZS0NIWV9WQi1vMDlLSTM2Wi1yaDk0SWFBWjh0dG5EalBCTHpBWmtHekVVWDNvQ0llSERhd21OYWtuaGVyQW9GQ2pHeXliRGdIcWgtZXA4WXZ3Y1VsVWVzalZiaVNUYUVteldLZ0p2NEx5YjNuUldaVkhzQl9Jd2w1SWRidXpTME5OcERkLXNQV3RiUFpfYzg0cjhjQ1BXV3VCNmFnWTQtdDd0eUFQbEsyY2kzWlVsd2l4RnBCUllUQU54bkM1RnZxVGVqOFFaQmlNMNIB_gFBVV95cUxOelplYnVJMkdqeEZEb3JmT280d2NjYVNRTy1hSWI5UkZHWmVxODJHWkR4R05ackFaUFlQZnR6eUV5Ulp3czdlY0RUOGYyQUtjc25MOTUtR2diSkdQNFJpcTM0OE1Kamg4NHJVNUZ4TWVhLUtsS0hvVk9JOGItYTRzQW85MFB4OTIyTWxWMkxsbXp5WHZsM1IzdlBNRDk5bEh3U0JPZ2RFcVBSY29LR3lVY05PMzNqM3NsRG95NzlRR3V2MjV5Rl81SUhsTFI4azZFRGRXdmdGUmxyT1VyYnFIZHZvODRacEVJVXRtUEx1aHYzX1pMQ3FaQjgyYWdwUQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -3996,6 +3974,30 @@
         "imageSource": "publisher"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-how-ccts-is-accelerating-india-inc-s-rac-2026-01-08",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "How CCTS is accelerating India Inc.’s race to decarbonize - EY",
+      "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
+      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize",
+      "publishedAt": "2026-01-08T08:00:00.000Z",
+      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-ccts-banner.png",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFpleHAtN1I5eHA0T1R1czlGa0NDVVIxSlNqbWpCUTFGd25MTEtmdGhqT0FBa2Q2X2tRZGFzNUdsSDBRMzdwSGFmNl9TSFd3dWI0ZHJENVRielZkYU4zaUVtSGpxWkZCZzQ3MDFwT2Y0TWhxNDNqSVgxOEE5VnBhcmhyV3h6cWRXTTJNMTJheFNjUkZWOWNkWDE4azdyZEhwTnliandnN3F4ZzAtQVU5TmpNYTM2T1VyeXNJM1ZEUzdnSTNjbFNScg?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
