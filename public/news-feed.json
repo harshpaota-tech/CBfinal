@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-06T11:40:32.880Z",
+  "fetchedAt": "2026-07-06T16:18:33.149Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 87,
     "india": 19,
     "world": 68,
-    "withImages": 56,
-    "avgExcerptLength": 434,
+    "withImages": 55,
+    "avgExcerptLength": 429,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -228,6 +228,29 @@
         "region": "india"
       },
       {
+        "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
+        "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
+        "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
+        "publishedAt": "2026-05-25T07:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-india-india-among-biggest-new-carbon-markets-a-2026-05-21",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -296,6 +319,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlhkQURpdUd0Yk51RUEwNGEtc1NmWHMtV2dZY3hPREhXZGJUMWNlYXh3UHotaF9jZjlFZXp4RF95UEduSkg5VGlad3JWdmxBZU15T2tiZUE0TWtGZTFKOVRqT2lSRGE4d0VNYWNOdExNdTEzT0RwVVhOeEl2dTZob19pY283NFliVHk3b1ZXdDlkVVhKQUFvZG0xdE9la2htQUFmc3pJMDVFYWJxeVh4OGQ1NVhZSDJDZjR1bnlaek5rSzBTTGhlM9IBzwFBVV95cUxPemxKSjVSeW0zVXZsRG51eFhTVjk1S0R2VmcwRHppNVFPdU02NDRES2dhV1QwWFoybjdzQWNVbHg1dU1xbWJCdjlxemVrTXc3cUl0aFJPVXN6Sk9UeU5reEJhRFk5MFM5a2NzUFRiVzZVaDBxQmVxS0M4Ql9aSXpGc3lhNUFUaVhqMDZiYTNHUDBtTFNYTnJJdExuUEpMT0JkNDhvSmtyaGg3aTdvbktZcXpxUWFadDJrRHpCclJLX0h4S1I1NlNQUVpXWDFqR2M?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
+        "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
+        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
+        "publishedAt": "2026-04-03T07:24:04.000Z",
+        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -396,30 +443,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-everyone-want-carbon-credits-what-really-2026-02-05",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Everyone want carbon credits: What really is it and why is it needed? - India Today",
-        "excerpt": "Magazine Live TV Search SEARCH SIGN IN Edition IN IN US Home TV Live TV Primetime Magazine Latest Edition Insight Best Colleges India Today Hindi Jobs India Business All Business News Share Market IPO Personal Finance Companies Life+Style Puzzles South Global Sports All Sports FIFA World Cup Women s T20 World Cup Cricket Live Score Football Technology Showbuzz Entertainment Movies Bollywood Hollywood Television OTT Latest Reviews Newspresso Specials Podcasts Sunday Special History of It NewsMo DIU Opinion Videos Short Videos Fact Check Influencer Hub…",
-        "url": "https://www.indiatoday.in/science/story/what-are-carbon-credits-how-can-they-benefit-india-in-climate-change-heatwaves-rain-winters-snow-disasters-2863365-2026-02-05",
-        "publishedAt": "2026-02-05T08:00:00.000Z",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/explained-what-are-carbon-credits-and-how-they-help-india-in-the-climate-fight-053439307-16x9_0.jpg?VersionId=MFLteJGVe1TPWZAjKYLlaRoX2KzGmp9.",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa1kyX0tMdzYyTWttXzYtRlFvUmtPU0pOd0tadVhPZG1sWWczNlhZS0NIWV9WQi1vMDlLSTM2Wi1yaDk0SWFBWjh0dG5EalBCTHpBWmtHekVVWDNvQ0llSERhd21OYWtuaGVyQW9GQ2pHeXliRGdIcWgtZXA4WXZ3Y1VsVWVzalZiaVNUYUVteldLZ0p2NEx5YjNuUldaVkhzQl9Jd2w1SWRidXpTME5OcERkLXNQV3RiUFpfYzg0cjhjQ1BXV3VCNmFnWTQtdDd0eUFQbEsyY2kzWlVsd2l4RnBCUllUQU54bkM1RnZxVGVqOFFaQmlNMNIB_gFBVV95cUxOelplYnVJMkdqeEZEb3JmT280d2NjYVNRTy1hSWI5UkZHWmVxODJHWkR4R05ackFaUFlQZnR6eUV5Ulp3czdlY0RUOGYyQUtjc25MOTUtR2diSkdQNFJpcTM0OE1Kamg4NHJVNUZ4TWVhLUtsS0hvVk9JOGItYTRzQW85MFB4OTIyTWxWMkxsbXp5WHZsM1IzdlBNRDk5bEh3U0JPZ2RFcVBSY29LR3lVY05PMzNqM3NsRG95NzlRR3V2MjV5Rl81SUhsTFI4azZFRGRXdmdGUmxyT1VyYnFIZHZvODRacEVJVXRtUEx1aHYzX1pMQ3FaQjgyYWdwUQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -439,30 +462,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-how-ccts-is-accelerating-india-inc-s-rac-2026-01-08",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "How CCTS is accelerating India Inc.’s race to decarbonize - EY",
-        "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
-        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize",
-        "publishedAt": "2026-01-08T08:00:00.000Z",
-        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-ccts-banner.png",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFpleHAtN1I5eHA0T1R1czlGa0NDVVIxSlNqbWpCUTFGd25MTEtmdGhqT0FBa2Q2X2tRZGFzNUdsSDBRMzdwSGFmNl9TSFd3dWI0ZHJENVRielZkYU4zaUVtSGpxWkZCZzQ3MDFwT2Y0TWhxNDNqSVgxOEE5VnBhcmhyV3h6cWRXTTJNMTJheFNjUkZWOWNkWDE4azdyZEhwTnliandnN3F4ZzAtQVU5TmpNYTM2T1VyeXNJM1ZEUzdnSTNjbFNScg?oc=5",
-          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -516,6 +515,118 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-graphic-packaging-releases-sustainabilit-2026-07-06",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Graphic Packaging releases sustainability report as CSO departs",
+        "excerpt": "Michelle Fitzpatrick was GPI s inaugural chief sustainability officer and exits after nearly five years in the role. Meanwhile, the company s sustainability report showed small regressions on emissions and product recyclability efforts.",
+        "url": "https://www.esgdive.com/news/graphic-packaging-international-sustainability-report-chief-sustainability-officer-departs/824458/",
+        "publishedAt": "2026-07-06T16:09:00.000Z",
+        "image": "https://imgproxy.divecdn.com/GtqXCpCwi-LuHDaWVMJ7R6ao4aqq8h7OwtCzO9tLgtQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNTU4OC5qcGc=.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-projects-open-for-public-comment-july-6--2026-07-06",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Projects Open for Public Comment: July 6, 2026",
+        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+        "url": "https://verra.org/projects-open-for-public-comment-july-6-2026/",
+        "publishedAt": "2026-07-06T15:29:46.000Z",
+        "image": "https://verra.org/wp-content/uploads/2025/12/agriculture-5455452_1920.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-starbucks-actively-reassessing-2030-clim-2026-07-06",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Starbucks “Actively Reassessing” 2030 Climate Goal",
+        "excerpt": "Coffee retailing giant Starbucks revealed in its 2025 Impact Report that it is “actively reassessing” its 2030 value chain emissions reduction target, as it evaluates the implications of emerging regulations, ongoing updates to relevant standards and the impact of headwinds posing challenges to the achievement of its goal. Starbucks initially unveiled its climate goal in 2020 , targeting a 50% reduction in Scope 1, 2 and 3 emissions by 2030, on a 2019 basis. While the company’s impact report indicates that it has succeeded in cutting operational…",
+        "url": "https://www.esgtoday.com/starbucks-actively-reassessing-value-chain-emissions-reduction-goal/?utm_source=rss utm_medium=rss utm_campaign=starbucks-actively-reassessing-value-chain-emissions-reduction-goal",
+        "publishedAt": "2026-07-06T14:53:28.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Starbucks-cup.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-to-issue-first-credits-under-indon-2026-07-06",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra to Issue First Credits Under Indonesia s New Carbon Market Regulations",
+        "excerpt": "WASHINGTON – Jul. 6, 2026 | Following the operationalization of Indonesia’s national carbon market, Verra is preparing to issue carbon credits to three Indonesian forestry projects that have fulfilled all regulatory requirements and received the necessary approvals under the country’s updated carbon market regulations. Collectively, Verra anticipates issuing at least 20 million tonnes of CO 2 equivalent in emission reductions over the respective verification periods to the Katingan Peatland Restoration and Conservation Project ( Verra Project 1477 ),…",
+        "url": "https://verra.org/verra-to-issue-first-credits-under-indonesias-new-carbon-market-regulations/",
+        "publishedAt": "2026-07-06T14:40:07.000Z",
+        "image": "https://verra.org/wp-content/uploads/2024/10/Katingan-Peatland-Restoration-and-Conservation-Project-1477-Katingan-Mentaya-Project-Central-Kalimantan-Indonesia-Working-in-field-with-equipment-scaled.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-deutsche-bank-invests-in-sustainable-avi-2026-07-06",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Deutsche Bank Invests in Sustainable Aviation Fuel with Lufthansa",
+        "excerpt": "Deutsche Bank announced a new agreement with Lufthansa group to invest in the deployment of sustainable aviation fuel, as part of its strategy to reduce the climate impact of business travel. Under the new agreement, Deutsche Bank will invest in approximately 1,600 metric tonnes (2 million liters) of SAF. The companies said that the transaction will enable Lufthansa to reduce fuel lifecycle carbon emissions by approximately 5,500 metric tons compared with conventional jet fuel, equivalent to the CO₂ emissions of approximately 520 flights between…",
+        "url": "https://www.esgtoday.com/deutsche-bank-invests-in-sustainable-aviation-fuel-with-lufthansa/?utm_source=rss utm_medium=rss utm_campaign=deutsche-bank-invests-in-sustainable-aviation-fuel-with-lufthansa",
+        "publishedAt": "2026-07-06T12:43:35.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Lufthansa5.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-climentum-launches-new-climate-tech-vent-2026-07-06",
         "source": "esg-today",
@@ -825,50 +936,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-most-companies-still-struggle-to-quantif-2026-07-02",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Most Companies Still Struggle to Quantify Impact of Sustainability Risks and Opportunities: KPMG Survey",
-        "excerpt": "A significant majority of executives report that they have a strong understanding of their companies’ sustainability strategies, yet fewer than one in five companies currently use robust methodologies to quantify the financial impact of sustainability on value creation and future performance, according to a new survey released by professional services firm KPMG. According to KPMG, the survey findings indicate a significant gap between companies’ understanding of sustainability and their ability to translate it into financial value, leaving companies at…",
-        "url": "https://www.esgtoday.com/majority-of-companies-still-struggle-to-quantify-impact-of-sustainability-risks-and-opportunities-kpmg-survey/?utm_source=rss utm_medium=rss utm_campaign=majority-of-companies-still-struggle-to-quantify-impact-of-sustainability-risks-and-opportunities-kpmg-survey",
-        "publishedAt": "2026-07-02T10:46:56.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/KPMG4.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-brookfield-backs-bloom-energy-with-25-bi-2026-07-02",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Brookfield Backs Bloom Energy with $25 Billion to Power AI Infrastructure with Fuel Cells",
-        "excerpt": "Brookfield Asset Management and fuel cell technology provider Bloom Energy announced a major expansion in their partnership, with Brookfield committing $25 billion to finance the deployment of Bloom’s fuel cell technology to support the power needs of AI infrastructure globally. The investment marks a fivefold increase from the companies’ initial agreement in October 2025 and forms part of Brookfield’s AI Infrastructure Fund, launched in November 2025 with a target to deploy $100 billion into AI-related infrastructure. The companies said that the…",
-        "url": "https://www.esgtoday.com/brookfield-backs-bloom-energy-with-25-billion-to-power-ai-infrastructure-with-fuel-cells/?utm_source=rss utm_medium=rss utm_campaign=brookfield-backs-bloom-energy-with-25-billion-to-power-ai-infrastructure-with-fuel-cells",
-        "publishedAt": "2026-07-02T09:55:53.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Brookfield-Bloom.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-iss-glass-lewis-score-wins-against-kansa-2026-07-01",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -1158,28 +1225,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-carb-delays-emissions-reporting-deadline-2026-06-26",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "CARB delays emissions reporting deadline by 3 months",
-        "excerpt": "The agency said it will delay the compliance deadline for California s SB 253 the Climate Corporate Data Accountability Act and propose limited changes.",
-        "url": "https://www.esgdive.com/news/carb-delays-sb-253-ccda-emissions-reporting-deadline-by-3-months/823904/",
-        "publishedAt": "2026-06-26T16:34:00.000Z",
-        "image": "https://imgproxy.divecdn.com/Eqnd_quLKm6b-498FuZKQA749oR6TKLt94uV0Af5HJs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QOEFHUlcuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-debriefed-26-june-2026-heat-records-brok-2026-06-26",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1337,52 +1382,6 @@
         "meta": {
           "category": "Announcements",
           "feed": "https://verra.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-verra-reinstates-northern-kenya-grasslan-2026-06-18",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra Reinstates Northern Kenya Grasslands Carbon Project Following Community Ratification Process",
-        "excerpt": "Verra has reinstated the Northern Kenya Grassland Carbon Project (Verra Project 1468) after the Chari Dedha Community affirmed its participation in the project through a process conducted in accordance with Kenya s Community Land Act. Verra had placed the project under a quality control review (QCR) following a January 2025 court ruling that found the Biliqo Bulesa Conservancy, which operates the project in an area managed by the Chari Dedha Community, along with another conservancy outside the project area, had been established without the required…",
-        "url": "https://verra.org/verra-reinstates-northern-kenya-grasslands-carbon-project-following-community-ratification-process/",
-        "publishedAt": "2026-06-18T16:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2026/06/thock1203-africa-192932_1920.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-verra-and-s-p-global-energy-to-launch-ne-2026-06-17",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra and S P Global Energy to Launch Next-Generation Registry on July 27",
-        "excerpt": "WASHINGTON, NEW YORK – Jun. 17, 2026 | Verra, the world’s leading standards setter for climate action and sustainable development, today announced that its next-generation registry in support of Verra’s standards programs and developed in collaboration with S&P Global Energy, will officially go live on Monday, July 27. S&P Global Energy is the leading independent provider of information, data, benchmark prices, and workflow solutions for the commodities, energy expansion and energy transition markets. Verra said the new registry delivers the most…",
-        "url": "https://verra.org/verra-and-sp-global-energy-to-launch-next-generation-registry-on-july-27/",
-        "publishedAt": "2026-06-17T14:30:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2026/06/cedric-vt-ua0SnGdN-m8-unsplash.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -2101,6 +2100,118 @@
   },
   "articles": [
     {
+      "id": "esg-dive-graphic-packaging-releases-sustainabilit-2026-07-06",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Graphic Packaging releases sustainability report as CSO departs",
+      "excerpt": "Michelle Fitzpatrick was GPI s inaugural chief sustainability officer and exits after nearly five years in the role. Meanwhile, the company s sustainability report showed small regressions on emissions and product recyclability efforts.",
+      "url": "https://www.esgdive.com/news/graphic-packaging-international-sustainability-report-chief-sustainability-officer-departs/824458/",
+      "publishedAt": "2026-07-06T16:09:00.000Z",
+      "image": "https://imgproxy.divecdn.com/GtqXCpCwi-LuHDaWVMJ7R6ao4aqq8h7OwtCzO9tLgtQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNTU4OC5qcGc=.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-projects-open-for-public-comment-july-6--2026-07-06",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Projects Open for Public Comment: July 6, 2026",
+      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+      "url": "https://verra.org/projects-open-for-public-comment-july-6-2026/",
+      "publishedAt": "2026-07-06T15:29:46.000Z",
+      "image": "https://verra.org/wp-content/uploads/2025/12/agriculture-5455452_1920.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-starbucks-actively-reassessing-2030-clim-2026-07-06",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Starbucks “Actively Reassessing” 2030 Climate Goal",
+      "excerpt": "Coffee retailing giant Starbucks revealed in its 2025 Impact Report that it is “actively reassessing” its 2030 value chain emissions reduction target, as it evaluates the implications of emerging regulations, ongoing updates to relevant standards and the impact of headwinds posing challenges to the achievement of its goal. Starbucks initially unveiled its climate goal in 2020 , targeting a 50% reduction in Scope 1, 2 and 3 emissions by 2030, on a 2019 basis. While the company’s impact report indicates that it has succeeded in cutting operational…",
+      "url": "https://www.esgtoday.com/starbucks-actively-reassessing-value-chain-emissions-reduction-goal/?utm_source=rss utm_medium=rss utm_campaign=starbucks-actively-reassessing-value-chain-emissions-reduction-goal",
+      "publishedAt": "2026-07-06T14:53:28.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Starbucks-cup.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-verra-to-issue-first-credits-under-indon-2026-07-06",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra to Issue First Credits Under Indonesia s New Carbon Market Regulations",
+      "excerpt": "WASHINGTON – Jul. 6, 2026 | Following the operationalization of Indonesia’s national carbon market, Verra is preparing to issue carbon credits to three Indonesian forestry projects that have fulfilled all regulatory requirements and received the necessary approvals under the country’s updated carbon market regulations. Collectively, Verra anticipates issuing at least 20 million tonnes of CO 2 equivalent in emission reductions over the respective verification periods to the Katingan Peatland Restoration and Conservation Project ( Verra Project 1477 ),…",
+      "url": "https://verra.org/verra-to-issue-first-credits-under-indonesias-new-carbon-market-regulations/",
+      "publishedAt": "2026-07-06T14:40:07.000Z",
+      "image": "https://verra.org/wp-content/uploads/2024/10/Katingan-Peatland-Restoration-and-Conservation-Project-1477-Katingan-Mentaya-Project-Central-Kalimantan-Indonesia-Working-in-field-with-equipment-scaled.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-deutsche-bank-invests-in-sustainable-avi-2026-07-06",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Deutsche Bank Invests in Sustainable Aviation Fuel with Lufthansa",
+      "excerpt": "Deutsche Bank announced a new agreement with Lufthansa group to invest in the deployment of sustainable aviation fuel, as part of its strategy to reduce the climate impact of business travel. Under the new agreement, Deutsche Bank will invest in approximately 1,600 metric tonnes (2 million liters) of SAF. The companies said that the transaction will enable Lufthansa to reduce fuel lifecycle carbon emissions by approximately 5,500 metric tons compared with conventional jet fuel, equivalent to the CO₂ emissions of approximately 520 flights between…",
+      "url": "https://www.esgtoday.com/deutsche-bank-invests-in-sustainable-aviation-fuel-with-lufthansa/?utm_source=rss utm_medium=rss utm_campaign=deutsche-bank-invests-in-sustainable-aviation-fuel-with-lufthansa",
+      "publishedAt": "2026-07-06T12:43:35.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Lufthansa5.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-today-climentum-launches-new-climate-tech-vent-2026-07-06",
       "source": "esg-today",
       "sourceName": "ESG Today",
@@ -2433,50 +2544,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-most-companies-still-struggle-to-quantif-2026-07-02",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Most Companies Still Struggle to Quantify Impact of Sustainability Risks and Opportunities: KPMG Survey",
-      "excerpt": "A significant majority of executives report that they have a strong understanding of their companies’ sustainability strategies, yet fewer than one in five companies currently use robust methodologies to quantify the financial impact of sustainability on value creation and future performance, according to a new survey released by professional services firm KPMG. According to KPMG, the survey findings indicate a significant gap between companies’ understanding of sustainability and their ability to translate it into financial value, leaving companies at…",
-      "url": "https://www.esgtoday.com/majority-of-companies-still-struggle-to-quantify-impact-of-sustainability-risks-and-opportunities-kpmg-survey/?utm_source=rss utm_medium=rss utm_campaign=majority-of-companies-still-struggle-to-quantify-impact-of-sustainability-risks-and-opportunities-kpmg-survey",
-      "publishedAt": "2026-07-02T10:46:56.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/KPMG4.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-brookfield-backs-bloom-energy-with-25-bi-2026-07-02",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Brookfield Backs Bloom Energy with $25 Billion to Power AI Infrastructure with Fuel Cells",
-      "excerpt": "Brookfield Asset Management and fuel cell technology provider Bloom Energy announced a major expansion in their partnership, with Brookfield committing $25 billion to finance the deployment of Bloom’s fuel cell technology to support the power needs of AI infrastructure globally. The investment marks a fivefold increase from the companies’ initial agreement in October 2025 and forms part of Brookfield’s AI Infrastructure Fund, launched in November 2025 with a target to deploy $100 billion into AI-related infrastructure. The companies said that the…",
-      "url": "https://www.esgtoday.com/brookfield-backs-bloom-energy-with-25-billion-to-power-ai-infrastructure-with-fuel-cells/?utm_source=rss utm_medium=rss utm_campaign=brookfield-backs-bloom-energy-with-25-billion-to-power-ai-infrastructure-with-fuel-cells",
-      "publishedAt": "2026-07-02T09:55:53.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Brookfield-Bloom.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-iss-glass-lewis-score-wins-against-kansa-2026-07-01",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2766,28 +2833,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-carb-delays-emissions-reporting-deadline-2026-06-26",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "CARB delays emissions reporting deadline by 3 months",
-      "excerpt": "The agency said it will delay the compliance deadline for California s SB 253 the Climate Corporate Data Accountability Act and propose limited changes.",
-      "url": "https://www.esgdive.com/news/carb-delays-sb-253-ccda-emissions-reporting-deadline-by-3-months/823904/",
-      "publishedAt": "2026-06-26T16:34:00.000Z",
-      "image": "https://imgproxy.divecdn.com/Eqnd_quLKm6b-498FuZKQA749oR6TKLt94uV0Af5HJs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QOEFHUlcuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-debriefed-26-june-2026-heat-records-brok-2026-06-26",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2945,52 +2990,6 @@
       "meta": {
         "category": "Announcements",
         "feed": "https://verra.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-verra-reinstates-northern-kenya-grasslan-2026-06-18",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Reinstates Northern Kenya Grasslands Carbon Project Following Community Ratification Process",
-      "excerpt": "Verra has reinstated the Northern Kenya Grassland Carbon Project (Verra Project 1468) after the Chari Dedha Community affirmed its participation in the project through a process conducted in accordance with Kenya s Community Land Act. Verra had placed the project under a quality control review (QCR) following a January 2025 court ruling that found the Biliqo Bulesa Conservancy, which operates the project in an area managed by the Chari Dedha Community, along with another conservancy outside the project area, had been established without the required…",
-      "url": "https://verra.org/verra-reinstates-northern-kenya-grasslands-carbon-project-following-community-ratification-process/",
-      "publishedAt": "2026-06-18T16:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2026/06/thock1203-africa-192932_1920.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-verra-and-s-p-global-energy-to-launch-ne-2026-06-17",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra and S P Global Energy to Launch Next-Generation Registry on July 27",
-      "excerpt": "WASHINGTON, NEW YORK – Jun. 17, 2026 | Verra, the world’s leading standards setter for climate action and sustainable development, today announced that its next-generation registry in support of Verra’s standards programs and developed in collaboration with S&P Global Energy, will officially go live on Monday, July 27. S&P Global Energy is the leading independent provider of information, data, benchmark prices, and workflow solutions for the commodities, energy expansion and energy transition markets. Verra said the new registry delivers the most…",
-      "url": "https://verra.org/verra-and-sp-global-energy-to-launch-next-generation-registry-on-july-27/",
-      "publishedAt": "2026-06-17T14:30:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2026/06/cedric-vt-ua0SnGdN-m8-unsplash.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -3291,6 +3290,29 @@
         "program": "Verified Carbon Standard"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
+      "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
+      "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
+      "publishedAt": "2026-05-25T07:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
+      },
+      "region": "india"
     },
     {
       "id": "google-india-india-among-biggest-new-carbon-markets-a-2026-05-21",
@@ -3715,6 +3737,30 @@
       "region": "world"
     },
     {
+      "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
+      "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
+      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
+      "publishedAt": "2026-04-03T07:24:04.000Z",
+      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-india-data-is-the-new-collateral-building-a-hi-2026-03-24",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -3857,30 +3903,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-everyone-want-carbon-credits-what-really-2026-02-05",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Everyone want carbon credits: What really is it and why is it needed? - India Today",
-      "excerpt": "Magazine Live TV Search SEARCH SIGN IN Edition IN IN US Home TV Live TV Primetime Magazine Latest Edition Insight Best Colleges India Today Hindi Jobs India Business All Business News Share Market IPO Personal Finance Companies Life+Style Puzzles South Global Sports All Sports FIFA World Cup Women s T20 World Cup Cricket Live Score Football Technology Showbuzz Entertainment Movies Bollywood Hollywood Television OTT Latest Reviews Newspresso Specials Podcasts Sunday Special History of It NewsMo DIU Opinion Videos Short Videos Fact Check Influencer Hub…",
-      "url": "https://www.indiatoday.in/science/story/what-are-carbon-credits-how-can-they-benefit-india-in-climate-change-heatwaves-rain-winters-snow-disasters-2863365-2026-02-05",
-      "publishedAt": "2026-02-05T08:00:00.000Z",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/explained-what-are-carbon-credits-and-how-they-help-india-in-the-climate-fight-053439307-16x9_0.jpg?VersionId=MFLteJGVe1TPWZAjKYLlaRoX2KzGmp9.",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa1kyX0tMdzYyTWttXzYtRlFvUmtPU0pOd0tadVhPZG1sWWczNlhZS0NIWV9WQi1vMDlLSTM2Wi1yaDk0SWFBWjh0dG5EalBCTHpBWmtHekVVWDNvQ0llSERhd21OYWtuaGVyQW9GQ2pHeXliRGdIcWgtZXA4WXZ3Y1VsVWVzalZiaVNUYUVteldLZ0p2NEx5YjNuUldaVkhzQl9Jd2w1SWRidXpTME5OcERkLXNQV3RiUFpfYzg0cjhjQ1BXV3VCNmFnWTQtdDd0eUFQbEsyY2kzWlVsd2l4RnBCUllUQU54bkM1RnZxVGVqOFFaQmlNMNIB_gFBVV95cUxOelplYnVJMkdqeEZEb3JmT280d2NjYVNRTy1hSWI5UkZHWmVxODJHWkR4R05ackFaUFlQZnR6eUV5Ulp3czdlY0RUOGYyQUtjc25MOTUtR2diSkdQNFJpcTM0OE1Kamg4NHJVNUZ4TWVhLUtsS0hvVk9JOGItYTRzQW85MFB4OTIyTWxWMkxsbXp5WHZsM1IzdlBNRDk5bEh3U0JPZ2RFcVBSY29LR3lVY05PMzNqM3NsRG95NzlRR3V2MjV5Rl81SUhsTFI4azZFRGRXdmdGUmxyT1VyYnFIZHZvODRacEVJVXRtUEx1aHYzX1pMQ3FaQjgyYWdwUQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -3974,30 +3996,6 @@
         "imageSource": "publisher"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-how-ccts-is-accelerating-india-inc-s-rac-2026-01-08",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "How CCTS is accelerating India Inc.’s race to decarbonize - EY",
-      "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
-      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize",
-      "publishedAt": "2026-01-08T08:00:00.000Z",
-      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-ccts-banner.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFpleHAtN1I5eHA0T1R1czlGa0NDVVIxSlNqbWpCUTFGd25MTEtmdGhqT0FBa2Q2X2tRZGFzNUdsSDBRMzdwSGFmNl9TSFd3dWI0ZHJENVRielZkYU4zaUVtSGpxWkZCZzQ3MDFwT2Y0TWhxNDNqSVgxOEE5VnBhcmhyV3h6cWRXTTJNMTJheFNjUkZWOWNkWDE4azdyZEhwTnliandnN3F4ZzAtQVU5TmpNYTM2T1VyeXNJM1ZEUzdnSTNjbFNScg?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
