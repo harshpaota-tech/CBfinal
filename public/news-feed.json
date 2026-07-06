@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-05T20:10:55.893Z",
+  "fetchedAt": "2026-07-06T05:06:10.633Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,16 +45,40 @@
   ],
   "stats": {
     "total": 87,
-    "india": 20,
-    "world": 67,
+    "india": 19,
+    "world": 68,
     "withImages": 55,
-    "avgExcerptLength": 429,
+    "avgExcerptLength": 433,
     "verra": 10,
     "registry": 25,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "google-india-centre-issues-fresh-draft-emission-cut-t-2026-07-04",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Centre issues fresh draft emission cut targets for iron and steel sector - The Indian Express",
+        "excerpt": "Weather ePaper Today’s Paper Journalism of Courage Home ePaper Politics Explained Opinion India FIFA Business Premium Legal Cities UPSC Cinema Sports US @ 250 Lifestyle Tech Subscribe Sign In Trending Mumbai News Delhi News Chandigarh News Bangalore News Lucknow News Advertisement News India Centre issues fresh draft emission cut targets for iron and steel sector Centre issues fresh draft emission cut targets for iron and steel sector The Centre has issued a revised draft setting greenhouse gas emission intensity targets for 255 iron and steel units…",
+        "url": "https://indianexpress.com/article/india/emission-reduction-centre-issues-fresh-draft-targets-for-iron-and-steel-sector-10771486/",
+        "publishedAt": "2026-07-04T12:48:22.000Z",
+        "image": "https://images.indianexpress.com/2020/12/B_Id_474492.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNjREeWFtTS1GWUhUaU02ai0xcjQ4OXZPM0lZZlF3UEpWQzV1b21kSHFZNC1ka3EzNXc4YU1ibDZmS1EzMmVtWHAzeVFjbE9GZ2E3QUlGTkxPR21GRThNWVpsMkQ1OG9zdmNEcnMxYUdRcURFVHEzd0MxeHZFV3g3TExsem81a09YdGtBdlF0Z2tpcVFoOHc1a2ZPTVN2STRSS3o4RjBNa0lwU3M0TG5hRzJkYVlKZGZlRHk1V1QtaXFqaXoySTNz0gHOAUFVX3lxTE5fZ1BpZkxINzdJd29QS21USGlyaTFta0R2MEdraHY2bkZDNVNvYkV2WDExbmNLa1dOc3RCLUUzS20tR1dRMGhIX01Mc01OQk9YTmYyTTlFOXpVb0VtVTBxRThCYmw1cjFmLTk4VlE0MDFGSHIxS3ZTd1NKdktZeGtXa0RleU5wT0RXYmt2RDZwQlVhalZSclg0cWJRN05GRXdkYTBXM1FxcUpRb3pWMTdLTHJ2T19PUWU3UU95b1FyS1ZQVDBEaVl3UE52VUNB?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
       {
         "id": "verra-vcs-6066",
         "source": "verra-registry",
@@ -200,29 +224,6 @@
           "creditingPeriodStart": "2025-10-15",
           "creditingPeriodEnd": "2032-10-14",
           "program": "Verified Carbon Standard"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
-        "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
-        "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
-        "publishedAt": "2026-05-25T07:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
         },
         "region": "india"
       },
@@ -508,30 +509,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-knowledge-nugget-what-you-must-know-abou-2025-08-20",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam - The Indian Express",
-        "excerpt": "Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Here’s your UPSC Current Affairs knowledge nugget for today on India’s Green hydrogen plants. Claiming that “a big step has been taken today”, Uttar Pradesh Chief Minister Yogi Adityanath on Sunday inaugurated the state’s first green hydrogen plant in Gorakhpur, with the project aiming to produce 72,000 tonnes of green fuel in a year. In this context, let’s learn about India’s green hydrogen plants and the significance of hydrogen as a fuel.…",
-        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-indias-green-hydrogen-plants-upsc-exam-10198700/",
-        "publishedAt": "2025-08-20T07:00:00.000Z",
-        "image": "https://images.indianexpress.com/2025/08/Knowledge-Nugget-Indias-Green-hydrogen-plants.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -1187,7 +1164,7 @@
         "tag": "ESG",
         "accent": "#60a5fa",
         "title": "CARB delays emissions reporting deadline by 3 months",
-        "excerpt": "The agency said it will delay the compliance deadline for California s SB 253 the Climate Corporate Data Accountability Act and propose limited changes.",
+        "excerpt": "The agency said it will delay the compliance deadline for California’s SB 253 — the Climate Corporate Data Accountability Act — and propose “limited changes.” California’s corporate climate disclosure laws were signed in 2023 , with later amendments officially greenlighting the laws. SB 253, the Climate Corporate Data Accountability Act, requires companies that do business in the Golden State with over $1 billion in revenue to report their greenhouse gas emissions, beginning with their scope 1 and scope 2 emissions. CARB — responsible for implementing…",
         "url": "https://www.esgdive.com/news/carb-delays-sb-253-ccda-emissions-reporting-deadline-by-3-months/823904/",
         "publishedAt": "2026-06-26T16:34:00.000Z",
         "image": "https://imgproxy.divecdn.com/Eqnd_quLKm6b-498FuZKQA749oR6TKLt94uV0Af5HJs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QOEFHUlcuanBn.webp",
@@ -1759,31 +1736,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6014",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
-        "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
-        "publishedAt": "2026-04-27T00:00:00.000Z",
-        "image": null,
-        "country": "Malaysia",
-        "methodology": "ACM0001",
-        "registryId": "6014",
-        "status": "Under development",
-        "meta": {
-          "proponent": "Climate Quest Sdn Bhd",
-          "region": "Asia",
-          "creditingPeriodStart": "2025-05-19",
-          "creditingPeriodEnd": "2035-05-18",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6008",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1904,6 +1856,54 @@
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wZk82WFJ2V1Z6UDd1aEM5YXhGdkpGTmhOc1dnMGhmV2lsTVJ4QTdRbU9GN0pkVlRsXzNZdjU4MVFhVDRxbEpZWEFjekY3QnM3XzBxWDhhRWlLMmZvcGFyYjZTWHBSWk1KMkttSUxCRmdfdi1IWnc?oc=5",
           "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6000",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Zambia Agroforestry Grouped Project",
+        "excerpt": "Zambia Agroforestry Grouped Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Zambia. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 1,77,525 tonnes CO₂ equivalent per year. Project proponent: ETG Climate Solutions SA. Crediting period runs 2025-12-01 to 2065-11-30.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6000",
+        "publishedAt": "2026-04-20T00:00:00.000Z",
+        "image": null,
+        "country": "Zambia",
+        "methodology": "VM0047",
+        "registryId": "6000",
+        "status": "Under development",
+        "meta": {
+          "proponent": "ETG Climate Solutions SA",
+          "region": "Africa",
+          "creditingPeriodStart": "2025-12-01",
+          "creditingPeriodEnd": "2065-11-30",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "The Evolving Spectrum of Energy Sources - PIB",
+        "excerpt": "The Evolving Spectrum of Energy Sources PIB",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
+        "publishedAt": "2026-02-28T08:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
         },
         "region": "world"
       },
@@ -2120,6 +2120,30 @@
         "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-centre-issues-fresh-draft-emission-cut-t-2026-07-04",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Centre issues fresh draft emission cut targets for iron and steel sector - The Indian Express",
+      "excerpt": "Weather ePaper Today’s Paper Journalism of Courage Home ePaper Politics Explained Opinion India FIFA Business Premium Legal Cities UPSC Cinema Sports US @ 250 Lifestyle Tech Subscribe Sign In Trending Mumbai News Delhi News Chandigarh News Bangalore News Lucknow News Advertisement News India Centre issues fresh draft emission cut targets for iron and steel sector Centre issues fresh draft emission cut targets for iron and steel sector The Centre has issued a revised draft setting greenhouse gas emission intensity targets for 255 iron and steel units…",
+      "url": "https://indianexpress.com/article/india/emission-reduction-centre-issues-fresh-draft-targets-for-iron-and-steel-sector-10771486/",
+      "publishedAt": "2026-07-04T12:48:22.000Z",
+      "image": "https://images.indianexpress.com/2020/12/B_Id_474492.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNjREeWFtTS1GWUhUaU02ai0xcjQ4OXZPM0lZZlF3UEpWQzV1b21kSHFZNC1ka3EzNXc4YU1ibDZmS1EzMmVtWHAzeVFjbE9GZ2E3QUlGTkxPR21GRThNWVpsMkQ1OG9zdmNEcnMxYUdRcURFVHEzd0MxeHZFV3g3TExsem81a09YdGtBdlF0Z2tpcVFoOHc1a2ZPTVN2STRSS3o4RjBNa0lwU3M0TG5hRzJkYVlKZGZlRHk1V1QtaXFqaXoySTNz0gHOAUFVX3lxTE5fZ1BpZkxINzdJd29QS21USGlyaTFta0R2MEdraHY2bkZDNVNvYkV2WDExbmNLa1dOc3RCLUUzS20tR1dRMGhIX01Mc01OQk9YTmYyTTlFOXpVb0VtVTBxRThCYmw1cjFmLTk4VlE0MDFGSHIxS3ZTd1NKdktZeGtXa0RleU5wT0RXYmt2RDZwQlVhalZSclg0cWJRN05GRXdkYTBXM1FxcUpRb3pWMTdLTHJ2T19PUWU3UU95b1FyS1ZQVDBEaVl3UE52VUNB?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "carbon-brief-debriefed-3-july-2026-us-faces-scorching-2026-07-03",
@@ -2748,7 +2772,7 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "CARB delays emissions reporting deadline by 3 months",
-      "excerpt": "The agency said it will delay the compliance deadline for California s SB 253 the Climate Corporate Data Accountability Act and propose limited changes.",
+      "excerpt": "The agency said it will delay the compliance deadline for California’s SB 253 — the Climate Corporate Data Accountability Act — and propose “limited changes.” California’s corporate climate disclosure laws were signed in 2023 , with later amendments officially greenlighting the laws. SB 253, the Climate Corporate Data Accountability Act, requires companies that do business in the Golden State with over $1 billion in revenue to report their greenhouse gas emissions, beginning with their scope 1 and scope 2 emissions. CARB — responsible for implementing…",
       "url": "https://www.esgdive.com/news/carb-delays-sb-253-ccda-emissions-reporting-deadline-by-3-months/823904/",
       "publishedAt": "2026-06-26T16:34:00.000Z",
       "image": "https://imgproxy.divecdn.com/Eqnd_quLKm6b-498FuZKQA749oR6TKLt94uV0Af5HJs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QOEFHUlcuanBn.webp",
@@ -3268,29 +3292,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
-      "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
-      "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
-      "publishedAt": "2026-05-25T07:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-india-among-biggest-new-carbon-markets-a-2026-05-21",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -3540,31 +3541,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6014",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
-      "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under development\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": null,
-      "country": "Malaysia",
-      "methodology": "ACM0001",
-      "registryId": "6014",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Climate Quest Sdn Bhd",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-05-19",
-        "creditingPeriodEnd": "2035-05-18",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -3713,6 +3689,31 @@
       "region": "world"
     },
     {
+      "id": "verra-vcs-6000",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Zambia Agroforestry Grouped Project",
+      "excerpt": "Zambia Agroforestry Grouped Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Zambia. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 1,77,525 tonnes CO₂ equivalent per year. Project proponent: ETG Climate Solutions SA. Crediting period runs 2025-12-01 to 2065-11-30.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6000",
+      "publishedAt": "2026-04-20T00:00:00.000Z",
+      "image": null,
+      "country": "Zambia",
+      "methodology": "VM0047",
+      "registryId": "6000",
+      "status": "Under development",
+      "meta": {
+        "proponent": "ETG Climate Solutions SA",
+        "region": "Africa",
+        "creditingPeriodStart": "2025-12-01",
+        "creditingPeriodEnd": "2065-11-30",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -3829,6 +3830,29 @@
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
       },
       "region": "india"
+    },
+    {
+      "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "The Evolving Spectrum of Energy Sources - PIB",
+      "excerpt": "The Evolving Spectrum of Energy Sources PIB",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
+      "publishedAt": "2026-02-28T08:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
+      },
+      "region": "world"
     },
     {
       "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
@@ -4086,30 +4110,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-h2-knowledge-nugget-what-you-must-know-abou-2025-08-20",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam - The Indian Express",
-      "excerpt": "Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Here’s your UPSC Current Affairs knowledge nugget for today on India’s Green hydrogen plants. Claiming that “a big step has been taken today”, Uttar Pradesh Chief Minister Yogi Adityanath on Sunday inaugurated the state’s first green hydrogen plant in Gorakhpur, with the project aiming to produce 72,000 tonnes of green fuel in a year. In this context, let’s learn about India’s green hydrogen plants and the significance of hydrogen as a fuel.…",
-      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-indias-green-hydrogen-plants-upsc-exam-10198700/",
-      "publishedAt": "2025-08-20T07:00:00.000Z",
-      "image": "https://images.indianexpress.com/2025/08/Knowledge-Nugget-Indias-Green-hydrogen-plants.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
