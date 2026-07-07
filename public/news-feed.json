@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-07T10:28:34.320Z",
+  "fetchedAt": "2026-07-07T15:42:12.990Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 87,
     "india": 19,
     "world": 68,
-    "withImages": 55,
-    "avgExcerptLength": 431,
+    "withImages": 56,
+    "avgExcerptLength": 435,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -80,6 +80,30 @@
         "region": "india"
       },
       {
+        "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Agriculture, Carbon Accounting and Climate Justice Debate - Frontline Magazine",
+        "excerpt": "Published : Jun 18, 2026 13:01 IST - 10 MINS READ If farmers are compensated for the climate services they already provide, they gain both the resources and the incentive to do more. In this file picture, a farmer examines his wheat crop in a field on the outskirts of Amritsar. | Photo Credit: NARINDER NANU/AFP The Intergovernmental Panel on Climate Change Sixth Assessment Report (IPCC-AR6) stresses the need for climate policies to prioritise carbon dioxide (CO₂) removal (CDR) processes. International agencies have, in parallel, increasingly recognised…",
+        "url": "https://frontline.thehindu.com/environment/climate-accounting-agriculture-carbon-sink/article71116675.ece",
+        "publishedAt": "2026-06-18T07:00:00.000Z",
+        "image": "https://fl-i.thgim.com/public/incoming/y7mxy6/article71116853.ece/alternates/LANDSCAPE_1200/indian%20farmers%20green%20house%20gas%20emission.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "verra-vcs-6066",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -101,30 +125,6 @@
           "creditingPeriodStart": "2026-06-01",
           "creditingPeriodEnd": "2066-05-31",
           "program": "Verified Carbon Standard"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-        "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
-        "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
-        "publishedAt": "2026-06-05T07:00:00.000Z",
-        "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -277,77 +277,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India’s Grasslands Need Climate Policy, Not Carbon Rush - Frontline Magazine",
-        "excerpt": "Published : Apr 25, 2026 18:48 IST - 12 MINS READ Grassland in Gujarat, India. Grassland restoration can increase soil organic carbon through improved grazing management, native grass recovery, and invasive species control. | Photo Credit: Getty Images/iStockPhoto India’s grasslands and rangelands deserve a central place in climate policy . But any carbon-finance pathway must rest on secure rights, pastoral participation, sound methodology, and strong public safeguards. India’s climate imagination has long been shaped by a forest-first instinct. When…",
-        "url": "https://frontline.thehindu.com/environment/india-grasslands-carbon-finance-rights-pastoralists-climate-policy/article70905160.ece",
-        "publishedAt": "2026-04-25T07:00:00.000Z",
-        "image": "https://fl-i.thgim.com/public/incoming/h4b5gr/article70905395.ece/alternates/LANDSCAPE_1200/Grasslands.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlhkQURpdUd0Yk51RUEwNGEtc1NmWHMtV2dZY3hPREhXZGJUMWNlYXh3UHotaF9jZjlFZXp4RF95UEduSkg5VGlad3JWdmxBZU15T2tiZUE0TWtGZTFKOVRqT2lSRGE4d0VNYWNOdExNdTEzT0RwVVhOeEl2dTZob19pY283NFliVHk3b1ZXdDlkVVhKQUFvZG0xdE9la2htQUFmc3pJMDVFYWJxeVh4OGQ1NVhZSDJDZjR1bnlaek5rSzBTTGhlM9IBzwFBVV95cUxPemxKSjVSeW0zVXZsRG51eFhTVjk1S0R2VmcwRHppNVFPdU02NDRES2dhV1QwWFoybjdzQWNVbHg1dU1xbWJCdjlxemVrTXc3cUl0aFJPVXN6Sk9UeU5reEJhRFk5MFM5a2NzUFRiVzZVaDBxQmVxS0M4Ql9aSXpGc3lhNUFUaVhqMDZiYTNHUDBtTFNYTnJJdExuUEpMT0JkNDhvSmtyaGg3aTdvbktZcXpxUWFadDJrRHpCclJLX0h4S1I1NlNQUVpXWDFqR2M?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
-        "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
-        "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
-        "publishedAt": "2026-04-14T07:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-        "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
-        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
-        "publishedAt": "2026-04-03T07:24:04.000Z",
-        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-data-is-the-new-collateral-building-a-hi-2026-03-24",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -419,6 +348,30 @@
         "region": "india"
       },
       {
+        "id": "google-india-carbon-credits-climate-policy-and-the-fu-2026-03-10",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon Credits, Climate Policy and the Future of Textile Manufacturing with SED’s MVR Based LTE® Technology - The Textile Magazine",
+        "excerpt": "The textile industry is entering a decisive decade where competitiveness will be defined not by scale or cost alone, but by carbon intensity. This transition is structural, not ideological. At successive climate summits under the United Nations Framework Convention on Climate Change (UNFCCC), particularly COP28, governments reinforced commitments to accelerated decarbonization. Simultaneously, mechanisms like the European Union’s Carbon Border Adjustment Mechanism (CBAM) make carbon intensity a determinant of market access. For export-driven textile…",
+        "url": "https://www.indiantextilemagazine.in/carbon-credits-climate-policy-and-the-future-of-textile-manufacturing-with-seds-mvr-based-lte-technology/",
+        "publishedAt": "2026-03-10T07:00:00.000Z",
+        "image": "https://www.indiantextilemagazine.in/wp-content/uploads/2026/03/LTE-Product.jpg.jpeg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS284NGtBNXZ5bGZEeTBoVlRmUWVDZFNrS1BTV0xsWEdlWnd4QjY4S3FCWkl5VFdPVjUtYnRPZzJ1VEZhM3U5bk1idE16ZTBmMnFUNFdKWlYzYW5uTkQxY0cteUJsZ1A1UUtDN3BmemNGVzdGbnhYbVhfd1Mtd2ZhNVRlN3BaT2gxRVZwQ1lpWk5iQ3dfbl9JdkxDTHNSUEhLVVR4RUdURWNPdFlTTjVNQWlRbVVoZ2h3VUIyRW1pR2JlZWZ1WmNodUlrYkRNbWl4VXBSWlJhN2wxdw?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -443,6 +396,30 @@
         "region": "india"
       },
       {
+        "id": "google-india-everyone-want-carbon-credits-what-really-2026-02-05",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Everyone want carbon credits: What really is it and why is it needed? - India Today",
+        "excerpt": "Magazine Live TV Search SEARCH SIGN IN Edition IN IN US Home TV Live TV Primetime Magazine Latest Edition Insight Best Colleges India Today Hindi Jobs India Business All Business News Share Market IPO Personal Finance Companies Life+Style Puzzles South Global Sports All Sports FIFA World Cup Women s T20 World Cup Cricket Live Score Football Technology Showbuzz Entertainment Movies Bollywood Hollywood Television OTT Latest Reviews Newspresso Specials Podcasts Sunday Special History of It NewsMo DIU Opinion Videos Short Videos Fact Check Influencer Hub…",
+        "url": "https://www.indiatoday.in/science/story/what-are-carbon-credits-how-can-they-benefit-india-in-climate-change-heatwaves-rain-winters-snow-disasters-2863365-2026-02-05",
+        "publishedAt": "2026-02-05T08:00:00.000Z",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/explained-what-are-carbon-credits-and-how-they-help-india-in-the-climate-fight-053439307-16x9_0.jpg?VersionId=MFLteJGVe1TPWZAjKYLlaRoX2KzGmp9.",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa1kyX0tMdzYyTWttXzYtRlFvUmtPU0pOd0tadVhPZG1sWWczNlhZS0NIWV9WQi1vMDlLSTM2Wi1yaDk0SWFBWjh0dG5EalBCTHpBWmtHekVVWDNvQ0llSERhd21OYWtuaGVyQW9GQ2pHeXliRGdIcWgtZXA4WXZ3Y1VsVWVzalZiaVNUYUVteldLZ0p2NEx5YjNuUldaVkhzQl9Jd2w1SWRidXpTME5OcERkLXNQV3RiUFpfYzg0cjhjQ1BXV3VCNmFnWTQtdDd0eUFQbEsyY2kzWlVsd2l4RnBCUllUQU54bkM1RnZxVGVqOFFaQmlNMNIB_gFBVV95cUxOelplYnVJMkdqeEZEb3JmT280d2NjYVNRTy1hSWI5UkZHWmVxODJHWkR4R05ackFaUFlQZnR6eUV5Ulp3czdlY0RUOGYyQUtjc25MOTUtR2diSkdQNFJpcTM0OE1Kamg4NHJVNUZ4TWVhLUtsS0hvVk9JOGItYTRzQW85MFB4OTIyTWxWMkxsbXp5WHZsM1IzdlBNRDk5bEh3U0JPZ2RFcVBSY29LR3lVY05PMzNqM3NsRG95NzlRR3V2MjV5Rl81SUhsTFI4azZFRGRXdmdGUmxyT1VyYnFIZHZvODRacEVJVXRtUEx1aHYzX1pMQ3FaQjgyYWdwUQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -462,6 +439,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-how-ccts-is-accelerating-india-inc-s-rac-2026-01-08",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "How CCTS is accelerating India Inc.’s race to decarbonize - EY",
+        "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
+        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize",
+        "publishedAt": "2026-01-08T08:00:00.000Z",
+        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-ccts-banner.png",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFpleHAtN1I5eHA0T1R1czlGa0NDVVIxSlNqbWpCUTFGd25MTEtmdGhqT0FBa2Q2X2tRZGFzNUdsSDBRMzdwSGFmNl9TSFd3dWI0ZHJENVRielZkYU4zaUVtSGpxWkZCZzQ3MDFwT2Y0TWhxNDNqSVgxOEE5VnBhcmhyV3h6cWRXTTJNMTJheFNjUkZWOWNkWDE4azdyZEhwTnliandnN3F4ZzAtQVU5TmpNYTM2T1VyeXNJM1ZEUzdnSTNjbFNScg?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -515,6 +516,205 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-analysts-expect-rising-ppa-prices-as-cle-2026-07-07",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Analysts expect rising PPA prices as clean energy tax credits phase out",
+        "excerpt": "That missing money has to come from somewhere to make the project pencil, and that will likely be through PPA prices, said Josh Price, director of intelligence and research at Crux.",
+        "url": "https://www.esgdive.com/news/rising-ppa-prices-anticipated-as-clean-energy-tax-credits-phase-out/824566/",
+        "publishedAt": "2026-07-07T15:30:00.000Z",
+        "image": "https://imgproxy.divecdn.com/xFQ2o-DK7Q3Aij5XGfLAvVKYAG6K8a8R6jkKfhaSmAo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjIzODMzMTk2LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-permira-invests-in-energy-transition-and-2026-07-07",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Permira Invests in Energy Transition and Infrastructure-Focused Consulting Firm Quadrante",
+        "excerpt": "Global private equity and credit investment firm Permira announced a strategic investment through its Energy Transition strategy in engineering, architecture, environment and sustainability-focused consulting firm Quadrante. Founded in 1998, Lisbon-based Quadrante provides asset-light engineering services across three core segments, including Energy, including renewables development, transmission and distribution; Sustainable Cities, spanning data centers, water utilities and waste infrastructure; and Mobility, covering railways, subways, airports and…",
+        "url": "https://www.esgtoday.com/permira-invests-in-energy-transition-and-infrastructure-focused-consulting-firm-quadrante/?utm_source=rss utm_medium=rss utm_campaign=permira-invests-in-energy-transition-and-infrastructure-focused-consulting-firm-quadrante",
+        "publishedAt": "2026-07-07T15:20:12.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Permira-Quadrante.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-cited-7-july-2026-impossible-heat-global-2026-07-07",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Cited 7 July 2026: ‘Impossible’ heat Global ocean record Climate change and the ozone hole",
+        "excerpt": "Welcome to Cited, your essential guide to new climate research. ‘HEAT ALERT’: At least 25 people died as a “heat dome” smothered the eastern half of the US, reported the Guardian , with more than 20 states under “stifling temperatures more than 100F (38C)”. More than 140 million people were under heat alerts, the outlet said, with dead bodies found in “homes with no air conditioning, outside their residences, on the street and in parked cars”. Analysis by World Weather Attribution (WWA) found that the combined heat and humidity would have been…",
+        "url": "https://www.carbonbrief.org/cited-7-july-2026-impossible-heat-global-ocean-record-climate-change-and-the-ozone-hole/",
+        "publishedAt": "2026-07-07T14:58:43.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/3ET8HG6_1-300x200.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Science",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-3m-appoints-amanda-yates-as-chief-sustai-2026-07-07",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "3M Appoints Amanda Yates as Chief Sustainability Officer",
+        "excerpt": "Industrial technology company 3M has appointed Amanda Yates as its new Chief Sustainability Officer, succeeding outgoing CSO Gayle Schueller, who has announced her retirement from the company. Yates takes on her new role at 3M after more than 13 years at the company, serving in a series of senior positions, including most recently as Senior Director of Global Sustainability, with responsibilities including supporting the development of 3M’s sustainability strategy, the validation of the company’s SBTi near-term emissions targets, its roadmap to meet its…",
+        "url": "https://www.esgtoday.com/3m-appoints-amanda-yates-as-chief-sustainability-officer/?utm_source=rss utm_medium=rss utm_campaign=3m-appoints-amanda-yates-as-chief-sustainability-officer",
+        "publishedAt": "2026-07-07T14:42:18.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/3M-Yates.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-eu-lawmakers-vote-to-expand-list-of-prod-2026-07-07",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EU Lawmakers Vote to Expand List of Products Under CBAM Carbon Import Tax",
+        "excerpt": "Lawmakers in the European Parliament’s Environment Committee (ENVI) adopted a position supporting a European Commission proposal to help avoid a shift in production away from EU manufacturers to those in countries with weaker climate policies by expanding the Carbon Border Adjustment Mechanism (CBAM), the EU’s carbon tax on imported goods, to a series of downstream products. While largely supporting the Commission s proposal, the Committee’s position adds a series of anti-circumvention measures as well, aimed at closing loopholes and strengthening the…",
+        "url": "https://www.esgtoday.com/eu-lawmakers-vote-to-expand-list-of-products-under-cbam-carbon-import-tax/?utm_source=rss utm_medium=rss utm_campaign=eu-lawmakers-vote-to-expand-list-of-products-under-cbam-carbon-import-tax",
+        "publishedAt": "2026-07-07T13:46:02.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-Parliament2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Government",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-government-of-misiones-authorizes-new-mo-2026-07-07",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Government of Misiones Authorizes New MOU with Verra to Support Carbon Markets in the Province",
+        "excerpt": "The Government of Misiones in Argentina has issued a provincial resolution to officially adopt a Memorandum of Understanding (MOU) with Verra. The MOU will support the province s ability to engage in the carbon markets, benefiting local communities and biodiversity while advancing climate action globally. Under the MOU, Verra commits to offering capacity-building, knowledge-sharing, and other training activities related to carbon markets, the Verified Carbon Standard (VCS) Program, the Jurisdictional and Nested REDD+ (JNR) Framework, the Verra Registry,…",
+        "url": "https://verra.org/government-of-misiones-authorizes-new-mou-with-verra-to-support-carbon-markets-in-the-province/",
+        "publishedAt": "2026-07-07T13:45:18.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/07/melest-landscape-5092339_1280.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-guest-post-france-s-june-heatwave-caused-2026-07-07",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Guest post: France’s June heatwave caused more than 2,700 heat-related deaths",
+        "excerpt": "In June 2026, a record-breaking heatwave swept across Europe, with France among the first and hardest hit countries. In a new analysis, we estimate that the extreme conditions caused more than 2,700 heat-related deaths in France. We also show how France’s extreme temperatures in June exceeded projections from climate models. Our findings illustrate the human toll of extreme weather as the world warms. We also highlight the challenges in projecting the magnitude of future heatwaves and their impacts on people. For most of this century, Europe has seen…",
+        "url": "https://www.carbonbrief.org/guest-post-frances-june-heatwave-caused-more-than-2700-heat-related-deaths/",
+        "publishedAt": "2026-07-07T12:25:48.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/france_tmax_timeseries.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Extreme weather",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-avantium-spinout-carbeau-raises-40-milli-2026-07-07",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Avantium Spinout Carbeau Raises $40 Million to Convert CO2 into Sustainable Materials",
+        "excerpt": "Renewable and circular polymer materials provider Avantium announced the spin-out of its electrochemical platform, Volta Technology, focused on converting CO2 into raw materials, into a new, independent company named Carbeau. At launch, Carbeau has raised €35.2 million (USD$40.1 million) in total funding, including €23.7 (USD$27 million) in cash from external investors and an €11.5 million (USD$13.1 million) in-kind contribution (non-cash) from Avantium. Amsterdam-based Carbeau’s electrochemical platform converts CO2 using electricity into valuable…",
+        "url": "https://www.esgtoday.com/avantium-spinout-carbeau-raises-40-million-to-convert-co2-into-sustainable-materials/?utm_source=rss utm_medium=rss utm_campaign=avantium-spinout-carbeau-raises-40-million-to-convert-co2-into-sustainable-materials",
+        "publishedAt": "2026-07-07T11:26:01.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Carbeau-Cheung.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-google-backs-proxima-s-record-468-millio-2026-07-07",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Google Backs Proxima’s Record $468 Million Raise in Race to First Fusion Power Plant",
+        "excerpt": "German fusion technology startup Proxima Fusion announced that it has raised €411 million (USD$468 million) in a new funding round, marking the largest-ever private investment in European fusion, with strategic investors including Google and RWE. According to Proxima CEO Francesco Sciortino, the funding round comes as Europe is competing with the U.S. and China to be the first to achieve commercial fusion, with the financing establishing Proxima as the best-funded fusion company in Europe, and valuing the company at nearly €2.5 billion. “Europe is…",
+        "url": "https://www.esgtoday.com/google-backs-proximas-record-468-million-raise-in-race-to-first-fusion-power-plant/?utm_source=rss utm_medium=rss utm_campaign=google-backs-proximas-record-468-million-raise-in-race-to-first-fusion-power-plant",
+        "publishedAt": "2026-07-07T10:50:53.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Proxima-Sciortino.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-british-solar-renewables-signs-174-milli-2026-07-07",
         "source": "esg-today",
@@ -738,50 +938,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-lloyds-wildfarmed-launch-fund-to-help-fa-2026-07-06",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Lloyds, Wildfarmed Launch Fund to Help Farmers Adopt Sustainable Farming Practices",
-        "excerpt": "UK bank Lloyds Banking Group and regenerative agriculture company Wildfarmed announced the launch of the new Food & Nature Resilience Fund, designed to accelerate the transition farmland in the UK to regenerative agriculture by supporting the adoption by farmers of practices that improve biodiversity, soil health, water quality and reduce carbon. Regenerative agriculture practices are aimed at addressing the environmental impact of farming and agriculture, and include techniques to improve and restore ecosystems, build soil health and fertility, reduce…",
-        "url": "https://www.esgtoday.com/lloyds-wildfarmed-launch-fund-to-help-farmers-adopt-sustainable-farming-practices/?utm_source=rss utm_medium=rss utm_campaign=lloyds-wildfarmed-launch-fund-to-help-farmers-adopt-sustainable-farming-practices",
-        "publishedAt": "2026-07-06T08:18:41.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Lloyds2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Sustainable Finance",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-esg-today-week-in-review-2026-07-05",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "ESG Today: Week in Review",
-        "excerpt": "This week in ESG news: Google acknowledges moonshot climate goals “getting harder” to reach; Amazon signs 2 million ton nature-based carbon removal deal; EU regulators propose Taxonomy simplification measures; Companies still struggling to quantify impact of sustainability risks and opportunities; ISSB to allow TNFD metrics for nature-based reporting; World Bank drops key climate finance target under U.S. pressure; PwC’s new Global Sustainability Leader; New Zealand proposes adoption of IFRS S2 climate reporting standard; airlines facing $48 billion…",
-        "url": "https://www.esgtoday.com/esg-today-week-in-review-268/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-268",
-        "publishedAt": "2026-07-05T07:47:24.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Wind-Austria-1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG News",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-debriefed-3-july-2026-us-faces-scorching-2026-07-03",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -822,28 +978,6 @@
         "meta": {
           "category": "International policy",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-actis-acquires-clean-energy-platform-kla-2026-07-03",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Actis Acquires Clean Energy Platform Klara Renewables from CVC DIF",
-        "excerpt": "Sustainable infrastructure investor Actis announced the acquisition of Klara Renewables, a 171 MW operating onshore wind portfolio in Poland, from private markets investment manager CVC’s infrastructure strategy CVC DIF. The transaction marks Actis’ entry into the Polish market and the launch of a new renewable energy platform targeting up to 1.5 GW of capacity across onshore wind, solar PV, and battery energy storage systems (BESS). According to Actis, the acquisition comes as Poland accelerates efforts to reduce its dependence on coal and expand…",
-        "url": "https://www.esgtoday.com/actis-acquires-clean-energy-platform-klara-renewables-from-cvc-dif/?utm_source=rss utm_medium=rss utm_campaign=actis-acquires-clean-energy-platform-klara-renewables-from-cvc-dif",
-        "publishedAt": "2026-07-03T08:34:42.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Wind-Actis3.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -910,50 +1044,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-eu-regulators-propose-eu-taxonomy-simpli-2026-07-02",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EU Regulators Propose EU Taxonomy Simplification Measures",
-        "excerpt": "Europe’s three primary financial regulatory agencies, the European Supervisory Authorities (ESAs) each announced the release of a series of proposals aimed at simplifying disclosure requirements and reducing the reporting burden for companies, asset managers, banks and insurers under the EU Taxonomy regulation. The ESAs include The European Securities and Markets Authority (ESMA), The European Banking Authority (EBA), and The European Insurance and Occupational Pensions Authority (EIOPA). The EU Taxonomy, part of the EU Sustainable Finance Framework,…",
-        "url": "https://www.esgtoday.com/eu-regulators-propose-eu-taxonomy-simplification-measures/?utm_source=rss utm_medium=rss utm_campaign=eu-regulators-propose-eu-taxonomy-simplification-measures",
-        "publishedAt": "2026-07-02T15:24:21.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-flags3.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-kkr-sk-launch-1-3-billion-renewable-ener-2026-07-02",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "KKR, SK Launch $1.3 Billion Renewable Energy Platform in South Korea",
-        "excerpt": "Alternative asset manager KKR and South Korean industrial conglomerate SK Group announced the launch of a new renewable energy platform valued at KRW 2 trillion (USD$1.3 billion), creating Korea’s largest renewable energy business, and aimed at addressing Korea s surging clean-power demand from AI data centers and semiconductor manufacturing. The companies said that the new platform will consolidate renewable energy assets previously held across SK affiliates, spanning solar, onshore and offshore wind, and fuel cells into a single, integrated platform,…",
-        "url": "https://www.esgtoday.com/kkr-sk-launch-1-3-billion-renewable-energy-platform-in-south-korea/?utm_source=rss utm_medium=rss utm_campaign=kkr-sk-launch-1-3-billion-renewable-energy-platform-in-south-korea",
-        "publishedAt": "2026-07-02T12:54:44.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/KKR.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1113,28 +1203,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-zillow-faces-class-action-lawsuit-over-r-2026-06-30",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Zillow faces class-action lawsuit over Redfin deal",
-        "excerpt": "An investor filed a class-action lawsuit in June, claiming he was misled about the nature of the apartment listing giants partnership. Zillow has also been sued by the FTC and several states over the deal.",
-        "url": "https://www.esgdive.com/news/zillow-investor-lawsuit-redfin-partnership/824094/",
-        "publishedAt": "2026-06-30T15:18:00.000Z",
-        "image": "https://imgproxy.divecdn.com/iTRcmL7Nk6ZWXwWc9TDhjiDa-JDh_N-OOCqFlZgQ6JI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg2MjAzMjY4LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-verra-releases-results-from-second-part--2026-06-30",
         "source": "verra",
         "sourceName": "Verra",
@@ -1224,50 +1292,6 @@
           "creditingPeriodStart": "2025-07-01",
           "creditingPeriodEnd": "2035-06-30",
           "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-guest-post-climate-change-has-caused-one-2026-06-28",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Guest post: Climate change has caused one-fifth of Pine Island glacier retreat",
-        "excerpt": "The Pine Island glacier in West Antarctica is one of the fastest-changing glaciers in the world. Alongside its neighbour, the Thwaites glacier , it is responsible for almost half the sea level rise caused by melting ice sheets in Antarctica. Scientists know the West Antarctic ice sheet – which includes Thwaites and Pine Island – is retreating because of warm water eroding the ice sheet from below. But the extent to which this process has been driven by human-caused greenhouse gas emissions, as opposed to natural variations to the Earth’s climate,…",
-        "url": "https://www.carbonbrief.org/guest-post-climate-change-has-caused-one-fifth-of-pine-island-glacier-retreat/",
-        "publishedAt": "2026-06-28T23:01:00.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/anarctica1-01-scaled.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Guest posts",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-debriefed-26-june-2026-heat-records-brok-2026-06-26",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "DeBriefed 26 June 2026: Heat records broken across Europe London climate action week Introducing ‘Project Cosmos’",
-        "excerpt": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week s key developments relating to climate change. HOTTEST EVER: The UK broke its temperature record for June twice this week, while France recorded its hottest day ever two days in a row, reported the Guardian . The Times reported that temperatures reached 36.7C in Somerset on Thursday, as the “London Ambulance Service had its busiest-ever day for life-threatening emergencies”. FRANCE FRYING: French newspaper Libération said that temperatures reached as high as 44.3C in the south-western…",
-        "url": "https://www.carbonbrief.org/debriefed-26-june-2026-heat-records-broken-across-europe-london-climate-action-week-introducing-project-cosmos/",
-        "publishedAt": "2026-06-26T14:27:07.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Electrification1__is_the_key_theme_of_this_year_s_CCC_report-scaled.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "DeBriefed",
-          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -1389,28 +1413,6 @@
         "region": "world"
       },
       {
-        "id": "verra-june-2026-newsletter-2026-06-19",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "June 2026 Newsletter",
-        "excerpt": "Welcome to Verra s June Newsletter! We are excited to share that the new Verra Registry will go live on Monday, July 27! This is a much-awaited development, as the new registry will reshape the experience of every user interacting with Verra. Built to scale a growing global carbon market, the platform combines a modern interface, integration with the Verra Project Hub, and powerful new technology that improves transparency, traceability, and efficiency across the carbon credit lifecycle. In other big news, we also recently certified the first…",
-        "url": "https://verra.org/june-2026-newsletter/",
-        "publishedAt": "2026-06-19T13:42:25.000Z",
-        "image": "https://verra.org/wp-content/uploads/2026/06/Family-Forest-Carbon-Program-Central-Appalachia-Verra-Project-3996_1-scaled-1-1152x768.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6067",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1456,6 +1458,31 @@
           "region": "Asia",
           "creditingPeriodStart": "2026-05-01",
           "creditingPeriodEnd": "2036-04-30",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6055",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Brazil Cerrado 2",
+        "excerpt": "Brazil Cerrado 2 is a Verified Carbon Standard (VCS) project registered on the Verra registry in Brazil. The project is currently listed as \"Under validation\". It applies VM0047 methodology. Estimated annual emission reductions are 74,071 tonnes CO₂ equivalent per year. Project proponent: STANS 02 S.A.. Crediting period runs 2025-01-31 to 2045-01-30.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6055",
+        "publishedAt": "2026-06-03T00:00:00.000Z",
+        "image": null,
+        "country": "Brazil",
+        "methodology": "VM0047",
+        "registryId": "6055",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "STANS 02 S.A.",
+          "region": "Latin America",
+          "creditingPeriodStart": "2025-01-31",
+          "creditingPeriodEnd": "2045-01-30",
           "program": "Verified Carbon Standard"
         },
         "region": "world"
@@ -1836,31 +1863,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6008",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Makanza Peatland Conservation Project, Democratic Republic of Congo",
-        "excerpt": "Makanza Peatland Conservation Project, Democratic Republic of Congo is a Verified Carbon Standard (VCS) project registered on the Verra registry in Congo, The Democratic Republic of The. The project is currently listed as \"Under development\". It applies VM0007 methodology. Estimated annual emission reductions are 5,95,349 tonnes CO₂ equivalent per year. Project proponent: Congo Nature Tourbières (CNT).",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6008",
-        "publishedAt": "2026-04-24T00:00:00.000Z",
-        "image": null,
-        "country": "Congo, The Democratic Republic of The",
-        "methodology": "VM0007",
-        "registryId": "6008",
-        "status": "Under development",
-        "meta": {
-          "proponent": "Congo Nature Tourbières (CNT)",
-          "region": "Africa",
-          "creditingPeriodStart": null,
-          "creditingPeriodEnd": null,
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2100,6 +2102,205 @@
   },
   "articles": [
     {
+      "id": "esg-dive-analysts-expect-rising-ppa-prices-as-cle-2026-07-07",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Analysts expect rising PPA prices as clean energy tax credits phase out",
+      "excerpt": "That missing money has to come from somewhere to make the project pencil, and that will likely be through PPA prices, said Josh Price, director of intelligence and research at Crux.",
+      "url": "https://www.esgdive.com/news/rising-ppa-prices-anticipated-as-clean-energy-tax-credits-phase-out/824566/",
+      "publishedAt": "2026-07-07T15:30:00.000Z",
+      "image": "https://imgproxy.divecdn.com/xFQ2o-DK7Q3Aij5XGfLAvVKYAG6K8a8R6jkKfhaSmAo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjIzODMzMTk2LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-permira-invests-in-energy-transition-and-2026-07-07",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Permira Invests in Energy Transition and Infrastructure-Focused Consulting Firm Quadrante",
+      "excerpt": "Global private equity and credit investment firm Permira announced a strategic investment through its Energy Transition strategy in engineering, architecture, environment and sustainability-focused consulting firm Quadrante. Founded in 1998, Lisbon-based Quadrante provides asset-light engineering services across three core segments, including Energy, including renewables development, transmission and distribution; Sustainable Cities, spanning data centers, water utilities and waste infrastructure; and Mobility, covering railways, subways, airports and…",
+      "url": "https://www.esgtoday.com/permira-invests-in-energy-transition-and-infrastructure-focused-consulting-firm-quadrante/?utm_source=rss utm_medium=rss utm_campaign=permira-invests-in-energy-transition-and-infrastructure-focused-consulting-firm-quadrante",
+      "publishedAt": "2026-07-07T15:20:12.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Permira-Quadrante.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-cited-7-july-2026-impossible-heat-global-2026-07-07",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Cited 7 July 2026: ‘Impossible’ heat Global ocean record Climate change and the ozone hole",
+      "excerpt": "Welcome to Cited, your essential guide to new climate research. ‘HEAT ALERT’: At least 25 people died as a “heat dome” smothered the eastern half of the US, reported the Guardian , with more than 20 states under “stifling temperatures more than 100F (38C)”. More than 140 million people were under heat alerts, the outlet said, with dead bodies found in “homes with no air conditioning, outside their residences, on the street and in parked cars”. Analysis by World Weather Attribution (WWA) found that the combined heat and humidity would have been…",
+      "url": "https://www.carbonbrief.org/cited-7-july-2026-impossible-heat-global-ocean-record-climate-change-and-the-ozone-hole/",
+      "publishedAt": "2026-07-07T14:58:43.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/3ET8HG6_1-300x200.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Science",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-3m-appoints-amanda-yates-as-chief-sustai-2026-07-07",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "3M Appoints Amanda Yates as Chief Sustainability Officer",
+      "excerpt": "Industrial technology company 3M has appointed Amanda Yates as its new Chief Sustainability Officer, succeeding outgoing CSO Gayle Schueller, who has announced her retirement from the company. Yates takes on her new role at 3M after more than 13 years at the company, serving in a series of senior positions, including most recently as Senior Director of Global Sustainability, with responsibilities including supporting the development of 3M’s sustainability strategy, the validation of the company’s SBTi near-term emissions targets, its roadmap to meet its…",
+      "url": "https://www.esgtoday.com/3m-appoints-amanda-yates-as-chief-sustainability-officer/?utm_source=rss utm_medium=rss utm_campaign=3m-appoints-amanda-yates-as-chief-sustainability-officer",
+      "publishedAt": "2026-07-07T14:42:18.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/3M-Yates.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-eu-lawmakers-vote-to-expand-list-of-prod-2026-07-07",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EU Lawmakers Vote to Expand List of Products Under CBAM Carbon Import Tax",
+      "excerpt": "Lawmakers in the European Parliament’s Environment Committee (ENVI) adopted a position supporting a European Commission proposal to help avoid a shift in production away from EU manufacturers to those in countries with weaker climate policies by expanding the Carbon Border Adjustment Mechanism (CBAM), the EU’s carbon tax on imported goods, to a series of downstream products. While largely supporting the Commission s proposal, the Committee’s position adds a series of anti-circumvention measures as well, aimed at closing loopholes and strengthening the…",
+      "url": "https://www.esgtoday.com/eu-lawmakers-vote-to-expand-list-of-products-under-cbam-carbon-import-tax/?utm_source=rss utm_medium=rss utm_campaign=eu-lawmakers-vote-to-expand-list-of-products-under-cbam-carbon-import-tax",
+      "publishedAt": "2026-07-07T13:46:02.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-Parliament2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Government",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-government-of-misiones-authorizes-new-mo-2026-07-07",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Government of Misiones Authorizes New MOU with Verra to Support Carbon Markets in the Province",
+      "excerpt": "The Government of Misiones in Argentina has issued a provincial resolution to officially adopt a Memorandum of Understanding (MOU) with Verra. The MOU will support the province s ability to engage in the carbon markets, benefiting local communities and biodiversity while advancing climate action globally. Under the MOU, Verra commits to offering capacity-building, knowledge-sharing, and other training activities related to carbon markets, the Verified Carbon Standard (VCS) Program, the Jurisdictional and Nested REDD+ (JNR) Framework, the Verra Registry,…",
+      "url": "https://verra.org/government-of-misiones-authorizes-new-mou-with-verra-to-support-carbon-markets-in-the-province/",
+      "publishedAt": "2026-07-07T13:45:18.000Z",
+      "image": "https://verra.org/wp-content/uploads/2026/07/melest-landscape-5092339_1280.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-guest-post-france-s-june-heatwave-caused-2026-07-07",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Guest post: France’s June heatwave caused more than 2,700 heat-related deaths",
+      "excerpt": "In June 2026, a record-breaking heatwave swept across Europe, with France among the first and hardest hit countries. In a new analysis, we estimate that the extreme conditions caused more than 2,700 heat-related deaths in France. We also show how France’s extreme temperatures in June exceeded projections from climate models. Our findings illustrate the human toll of extreme weather as the world warms. We also highlight the challenges in projecting the magnitude of future heatwaves and their impacts on people. For most of this century, Europe has seen…",
+      "url": "https://www.carbonbrief.org/guest-post-frances-june-heatwave-caused-more-than-2700-heat-related-deaths/",
+      "publishedAt": "2026-07-07T12:25:48.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/france_tmax_timeseries.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Extreme weather",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-avantium-spinout-carbeau-raises-40-milli-2026-07-07",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Avantium Spinout Carbeau Raises $40 Million to Convert CO2 into Sustainable Materials",
+      "excerpt": "Renewable and circular polymer materials provider Avantium announced the spin-out of its electrochemical platform, Volta Technology, focused on converting CO2 into raw materials, into a new, independent company named Carbeau. At launch, Carbeau has raised €35.2 million (USD$40.1 million) in total funding, including €23.7 (USD$27 million) in cash from external investors and an €11.5 million (USD$13.1 million) in-kind contribution (non-cash) from Avantium. Amsterdam-based Carbeau’s electrochemical platform converts CO2 using electricity into valuable…",
+      "url": "https://www.esgtoday.com/avantium-spinout-carbeau-raises-40-million-to-convert-co2-into-sustainable-materials/?utm_source=rss utm_medium=rss utm_campaign=avantium-spinout-carbeau-raises-40-million-to-convert-co2-into-sustainable-materials",
+      "publishedAt": "2026-07-07T11:26:01.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Carbeau-Cheung.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-google-backs-proxima-s-record-468-millio-2026-07-07",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Google Backs Proxima’s Record $468 Million Raise in Race to First Fusion Power Plant",
+      "excerpt": "German fusion technology startup Proxima Fusion announced that it has raised €411 million (USD$468 million) in a new funding round, marking the largest-ever private investment in European fusion, with strategic investors including Google and RWE. According to Proxima CEO Francesco Sciortino, the funding round comes as Europe is competing with the U.S. and China to be the first to achieve commercial fusion, with the financing establishing Proxima as the best-funded fusion company in Europe, and valuing the company at nearly €2.5 billion. “Europe is…",
+      "url": "https://www.esgtoday.com/google-backs-proximas-record-468-million-raise-in-race-to-first-fusion-power-plant/?utm_source=rss utm_medium=rss utm_campaign=google-backs-proximas-record-468-million-raise-in-race-to-first-fusion-power-plant",
+      "publishedAt": "2026-07-07T10:50:53.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Proxima-Sciortino.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-today-british-solar-renewables-signs-174-milli-2026-07-07",
       "source": "esg-today",
       "sourceName": "ESG Today",
@@ -2322,50 +2523,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-lloyds-wildfarmed-launch-fund-to-help-fa-2026-07-06",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Lloyds, Wildfarmed Launch Fund to Help Farmers Adopt Sustainable Farming Practices",
-      "excerpt": "UK bank Lloyds Banking Group and regenerative agriculture company Wildfarmed announced the launch of the new Food & Nature Resilience Fund, designed to accelerate the transition farmland in the UK to regenerative agriculture by supporting the adoption by farmers of practices that improve biodiversity, soil health, water quality and reduce carbon. Regenerative agriculture practices are aimed at addressing the environmental impact of farming and agriculture, and include techniques to improve and restore ecosystems, build soil health and fertility, reduce…",
-      "url": "https://www.esgtoday.com/lloyds-wildfarmed-launch-fund-to-help-farmers-adopt-sustainable-farming-practices/?utm_source=rss utm_medium=rss utm_campaign=lloyds-wildfarmed-launch-fund-to-help-farmers-adopt-sustainable-farming-practices",
-      "publishedAt": "2026-07-06T08:18:41.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Lloyds2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Sustainable Finance",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-esg-today-week-in-review-2026-07-05",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "ESG Today: Week in Review",
-      "excerpt": "This week in ESG news: Google acknowledges moonshot climate goals “getting harder” to reach; Amazon signs 2 million ton nature-based carbon removal deal; EU regulators propose Taxonomy simplification measures; Companies still struggling to quantify impact of sustainability risks and opportunities; ISSB to allow TNFD metrics for nature-based reporting; World Bank drops key climate finance target under U.S. pressure; PwC’s new Global Sustainability Leader; New Zealand proposes adoption of IFRS S2 climate reporting standard; airlines facing $48 billion…",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-268/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-268",
-      "publishedAt": "2026-07-05T07:47:24.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/06/Wind-Austria-1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG News",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-centre-issues-fresh-draft-emission-cut-t-2026-07-04",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2434,28 +2591,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-actis-acquires-clean-energy-platform-kla-2026-07-03",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Actis Acquires Clean Energy Platform Klara Renewables from CVC DIF",
-      "excerpt": "Sustainable infrastructure investor Actis announced the acquisition of Klara Renewables, a 171 MW operating onshore wind portfolio in Poland, from private markets investment manager CVC’s infrastructure strategy CVC DIF. The transaction marks Actis’ entry into the Polish market and the launch of a new renewable energy platform targeting up to 1.5 GW of capacity across onshore wind, solar PV, and battery energy storage systems (BESS). According to Actis, the acquisition comes as Poland accelerates efforts to reduce its dependence on coal and expand…",
-      "url": "https://www.esgtoday.com/actis-acquires-clean-energy-platform-klara-renewables-from-cvc-dif/?utm_source=rss utm_medium=rss utm_campaign=actis-acquires-clean-energy-platform-klara-renewables-from-cvc-dif",
-      "publishedAt": "2026-07-03T08:34:42.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Wind-Actis3.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-google-s-emissions-continue-to-climb-due-2026-07-02",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2518,50 +2653,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-eu-regulators-propose-eu-taxonomy-simpli-2026-07-02",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EU Regulators Propose EU Taxonomy Simplification Measures",
-      "excerpt": "Europe’s three primary financial regulatory agencies, the European Supervisory Authorities (ESAs) each announced the release of a series of proposals aimed at simplifying disclosure requirements and reducing the reporting burden for companies, asset managers, banks and insurers under the EU Taxonomy regulation. The ESAs include The European Securities and Markets Authority (ESMA), The European Banking Authority (EBA), and The European Insurance and Occupational Pensions Authority (EIOPA). The EU Taxonomy, part of the EU Sustainable Finance Framework,…",
-      "url": "https://www.esgtoday.com/eu-regulators-propose-eu-taxonomy-simplification-measures/?utm_source=rss utm_medium=rss utm_campaign=eu-regulators-propose-eu-taxonomy-simplification-measures",
-      "publishedAt": "2026-07-02T15:24:21.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-flags3.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-kkr-sk-launch-1-3-billion-renewable-ener-2026-07-02",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "KKR, SK Launch $1.3 Billion Renewable Energy Platform in South Korea",
-      "excerpt": "Alternative asset manager KKR and South Korean industrial conglomerate SK Group announced the launch of a new renewable energy platform valued at KRW 2 trillion (USD$1.3 billion), creating Korea’s largest renewable energy business, and aimed at addressing Korea s surging clean-power demand from AI data centers and semiconductor manufacturing. The companies said that the new platform will consolidate renewable energy assets previously held across SK affiliates, spanning solar, onshore and offshore wind, and fuel cells into a single, integrated platform,…",
-      "url": "https://www.esgtoday.com/kkr-sk-launch-1-3-billion-renewable-energy-platform-in-south-korea/?utm_source=rss utm_medium=rss utm_campaign=kkr-sk-launch-1-3-billion-renewable-energy-platform-in-south-korea",
-      "publishedAt": "2026-07-02T12:54:44.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/KKR.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2721,28 +2812,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-zillow-faces-class-action-lawsuit-over-r-2026-06-30",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Zillow faces class-action lawsuit over Redfin deal",
-      "excerpt": "An investor filed a class-action lawsuit in June, claiming he was misled about the nature of the apartment listing giants partnership. Zillow has also been sued by the FTC and several states over the deal.",
-      "url": "https://www.esgdive.com/news/zillow-investor-lawsuit-redfin-partnership/824094/",
-      "publishedAt": "2026-06-30T15:18:00.000Z",
-      "image": "https://imgproxy.divecdn.com/iTRcmL7Nk6ZWXwWc9TDhjiDa-JDh_N-OOCqFlZgQ6JI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg2MjAzMjY4LmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-releases-results-from-second-part--2026-06-30",
       "source": "verra",
       "sourceName": "Verra",
@@ -2832,50 +2901,6 @@
         "creditingPeriodStart": "2025-07-01",
         "creditingPeriodEnd": "2035-06-30",
         "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-guest-post-climate-change-has-caused-one-2026-06-28",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Guest post: Climate change has caused one-fifth of Pine Island glacier retreat",
-      "excerpt": "The Pine Island glacier in West Antarctica is one of the fastest-changing glaciers in the world. Alongside its neighbour, the Thwaites glacier , it is responsible for almost half the sea level rise caused by melting ice sheets in Antarctica. Scientists know the West Antarctic ice sheet – which includes Thwaites and Pine Island – is retreating because of warm water eroding the ice sheet from below. But the extent to which this process has been driven by human-caused greenhouse gas emissions, as opposed to natural variations to the Earth’s climate,…",
-      "url": "https://www.carbonbrief.org/guest-post-climate-change-has-caused-one-fifth-of-pine-island-glacier-retreat/",
-      "publishedAt": "2026-06-28T23:01:00.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/anarctica1-01-scaled.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Guest posts",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-debriefed-26-june-2026-heat-records-brok-2026-06-26",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "DeBriefed 26 June 2026: Heat records broken across Europe London climate action week Introducing ‘Project Cosmos’",
-      "excerpt": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week s key developments relating to climate change. HOTTEST EVER: The UK broke its temperature record for June twice this week, while France recorded its hottest day ever two days in a row, reported the Guardian . The Times reported that temperatures reached 36.7C in Somerset on Thursday, as the “London Ambulance Service had its busiest-ever day for life-threatening emergencies”. FRANCE FRYING: French newspaper Libération said that temperatures reached as high as 44.3C in the south-western…",
-      "url": "https://www.carbonbrief.org/debriefed-26-june-2026-heat-records-broken-across-europe-london-climate-action-week-introducing-project-cosmos/",
-      "publishedAt": "2026-06-26T14:27:07.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/Electrification1__is_the_key_theme_of_this_year_s_CCC_report-scaled.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "DeBriefed",
-        "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
     },
@@ -2997,26 +3022,28 @@
       "region": "world"
     },
     {
-      "id": "verra-june-2026-newsletter-2026-06-19",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "June 2026 Newsletter",
-      "excerpt": "Welcome to Verra s June Newsletter! We are excited to share that the new Verra Registry will go live on Monday, July 27! This is a much-awaited development, as the new registry will reshape the experience of every user interacting with Verra. Built to scale a growing global carbon market, the platform combines a modern interface, integration with the Verra Project Hub, and powerful new technology that improves transparency, traceability, and efficiency across the carbon credit lifecycle. In other big news, we also recently certified the first…",
-      "url": "https://verra.org/june-2026-newsletter/",
-      "publishedAt": "2026-06-19T13:42:25.000Z",
-      "image": "https://verra.org/wp-content/uploads/2026/06/Family-Forest-Carbon-Program-Central-Appalachia-Verra-Project-3996_1-scaled-1-1152x768.jpg",
+      "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Agriculture, Carbon Accounting and Climate Justice Debate - Frontline Magazine",
+      "excerpt": "Published : Jun 18, 2026 13:01 IST - 10 MINS READ If farmers are compensated for the climate services they already provide, they gain both the resources and the incentive to do more. In this file picture, a farmer examines his wheat crop in a field on the outskirts of Amritsar. | Photo Credit: NARINDER NANU/AFP The Intergovernmental Panel on Climate Change Sixth Assessment Report (IPCC-AR6) stresses the need for climate policies to prioritise carbon dioxide (CO₂) removal (CDR) processes. International agencies have, in parallel, increasingly recognised…",
+      "url": "https://frontline.thehindu.com/environment/climate-accounting-agriculture-carbon-sink/article71116675.ece",
+      "publishedAt": "2026-06-18T07:00:00.000Z",
+      "image": "https://fl-i.thgim.com/public/incoming/y7mxy6/article71116853.ece/alternates/LANDSCAPE_1200/indian%20farmers%20green%20house%20gas%20emission.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/"
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
+        "imageSource": "publisher"
       },
-      "region": "world"
+      "region": "india"
     },
     {
       "id": "verra-vcs-6067",
@@ -3069,30 +3096,6 @@
       "region": "india"
     },
     {
-      "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-      "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
-      "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
-      "publishedAt": "2026-06-05T07:00:00.000Z",
-      "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "verra-vcs-6065",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3113,6 +3116,31 @@
         "region": "Asia",
         "creditingPeriodStart": "2026-05-01",
         "creditingPeriodEnd": "2036-04-30",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6055",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Brazil Cerrado 2",
+      "excerpt": "Brazil Cerrado 2 is a Verified Carbon Standard (VCS) project registered on the Verra registry in Brazil. The project is currently listed as \"Under validation\". It applies VM0047 methodology. Estimated annual emission reductions are 74,071 tonnes CO₂ equivalent per year. Project proponent: STANS 02 S.A.. Crediting period runs 2025-01-31 to 2045-01-30.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6055",
+      "publishedAt": "2026-06-03T00:00:00.000Z",
+      "image": null,
+      "country": "Brazil",
+      "methodology": "VM0047",
+      "registryId": "6055",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "STANS 02 S.A.",
+        "region": "Latin America",
+        "creditingPeriodStart": "2025-01-31",
+        "creditingPeriodEnd": "2045-01-30",
         "program": "Verified Carbon Standard"
       },
       "region": "world"
@@ -3641,55 +3669,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India’s Grasslands Need Climate Policy, Not Carbon Rush - Frontline Magazine",
-      "excerpt": "Published : Apr 25, 2026 18:48 IST - 12 MINS READ Grassland in Gujarat, India. Grassland restoration can increase soil organic carbon through improved grazing management, native grass recovery, and invasive species control. | Photo Credit: Getty Images/iStockPhoto India’s grasslands and rangelands deserve a central place in climate policy . But any carbon-finance pathway must rest on secure rights, pastoral participation, sound methodology, and strong public safeguards. India’s climate imagination has long been shaped by a forest-first instinct. When…",
-      "url": "https://frontline.thehindu.com/environment/india-grasslands-carbon-finance-rights-pastoralists-climate-policy/article70905160.ece",
-      "publishedAt": "2026-04-25T07:00:00.000Z",
-      "image": "https://fl-i.thgim.com/public/incoming/h4b5gr/article70905395.ece/alternates/LANDSCAPE_1200/Grasslands.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlhkQURpdUd0Yk51RUEwNGEtc1NmWHMtV2dZY3hPREhXZGJUMWNlYXh3UHotaF9jZjlFZXp4RF95UEduSkg5VGlad3JWdmxBZU15T2tiZUE0TWtGZTFKOVRqT2lSRGE4d0VNYWNOdExNdTEzT0RwVVhOeEl2dTZob19pY283NFliVHk3b1ZXdDlkVVhKQUFvZG0xdE9la2htQUFmc3pJMDVFYWJxeVh4OGQ1NVhZSDJDZjR1bnlaek5rSzBTTGhlM9IBzwFBVV95cUxPemxKSjVSeW0zVXZsRG51eFhTVjk1S0R2VmcwRHppNVFPdU02NDRES2dhV1QwWFoybjdzQWNVbHg1dU1xbWJCdjlxemVrTXc3cUl0aFJPVXN6Sk9UeU5reEJhRFk5MFM5a2NzUFRiVzZVaDBxQmVxS0M4Ql9aSXpGc3lhNUFUaVhqMDZiYTNHUDBtTFNYTnJJdExuUEpMT0JkNDhvSmtyaGg3aTdvbktZcXpxUWFadDJrRHpCclJLX0h4S1I1NlNQUVpXWDFqR2M?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "verra-vcs-6008",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Makanza Peatland Conservation Project, Democratic Republic of Congo",
-      "excerpt": "Makanza Peatland Conservation Project, Democratic Republic of Congo is a Verified Carbon Standard (VCS) project registered on the Verra registry in Congo, The Democratic Republic of The. The project is currently listed as \"Under development\". It applies VM0007 methodology. Estimated annual emission reductions are 5,95,349 tonnes CO₂ equivalent per year. Project proponent: Congo Nature Tourbières (CNT).",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6008",
-      "publishedAt": "2026-04-24T00:00:00.000Z",
-      "image": null,
-      "country": "Congo, The Democratic Republic of The",
-      "methodology": "VM0007",
-      "registryId": "6008",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Congo Nature Tourbières (CNT)",
-        "region": "Africa",
-        "creditingPeriodStart": null,
-        "creditingPeriodEnd": null,
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -3712,53 +3691,6 @@
         "imageSource": "publisher"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
-      "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
-      "publishedAt": "2026-04-14T07:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-      "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
-      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
-      "publishedAt": "2026-04-03T07:24:04.000Z",
-      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "google-india-data-is-the-new-collateral-building-a-hi-2026-03-24",
@@ -3832,6 +3764,30 @@
       "region": "india"
     },
     {
+      "id": "google-india-carbon-credits-climate-policy-and-the-fu-2026-03-10",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon Credits, Climate Policy and the Future of Textile Manufacturing with SED’s MVR Based LTE® Technology - The Textile Magazine",
+      "excerpt": "The textile industry is entering a decisive decade where competitiveness will be defined not by scale or cost alone, but by carbon intensity. This transition is structural, not ideological. At successive climate summits under the United Nations Framework Convention on Climate Change (UNFCCC), particularly COP28, governments reinforced commitments to accelerated decarbonization. Simultaneously, mechanisms like the European Union’s Carbon Border Adjustment Mechanism (CBAM) make carbon intensity a determinant of market access. For export-driven textile…",
+      "url": "https://www.indiantextilemagazine.in/carbon-credits-climate-policy-and-the-future-of-textile-manufacturing-with-seds-mvr-based-lte-technology/",
+      "publishedAt": "2026-03-10T07:00:00.000Z",
+      "image": "https://www.indiantextilemagazine.in/wp-content/uploads/2026/03/LTE-Product.jpg.jpeg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS284NGtBNXZ5bGZEeTBoVlRmUWVDZFNrS1BTV0xsWEdlWnd4QjY4S3FCWkl5VFdPVjUtYnRPZzJ1VEZhM3U5bk1idE16ZTBmMnFUNFdKWlYzYW5uTkQxY0cteUJsZ1A1UUtDN3BmemNGVzdGbnhYbVhfd1Mtd2ZhNVRlN3BaT2gxRVZwQ1lpWk5iQ3dfbl9JdkxDTHNSUEhLVVR4RUdURWNPdFlTTjVNQWlRbVVoZ2h3VUIyRW1pR2JlZWZ1WmNodUlrYkRNbWl4VXBSWlJhN2wxdw?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -3901,6 +3857,30 @@
         "imageSource": "publisher"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-everyone-want-carbon-credits-what-really-2026-02-05",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Everyone want carbon credits: What really is it and why is it needed? - India Today",
+      "excerpt": "Magazine Live TV Search SEARCH SIGN IN Edition IN IN US Home TV Live TV Primetime Magazine Latest Edition Insight Best Colleges India Today Hindi Jobs India Business All Business News Share Market IPO Personal Finance Companies Life+Style Puzzles South Global Sports All Sports FIFA World Cup Women s T20 World Cup Cricket Live Score Football Technology Showbuzz Entertainment Movies Bollywood Hollywood Television OTT Latest Reviews Newspresso Specials Podcasts Sunday Special History of It NewsMo DIU Opinion Videos Short Videos Fact Check Influencer Hub…",
+      "url": "https://www.indiatoday.in/science/story/what-are-carbon-credits-how-can-they-benefit-india-in-climate-change-heatwaves-rain-winters-snow-disasters-2863365-2026-02-05",
+      "publishedAt": "2026-02-05T08:00:00.000Z",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/explained-what-are-carbon-credits-and-how-they-help-india-in-the-climate-fight-053439307-16x9_0.jpg?VersionId=MFLteJGVe1TPWZAjKYLlaRoX2KzGmp9.",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa1kyX0tMdzYyTWttXzYtRlFvUmtPU0pOd0tadVhPZG1sWWczNlhZS0NIWV9WQi1vMDlLSTM2Wi1yaDk0SWFBWjh0dG5EalBCTHpBWmtHekVVWDNvQ0llSERhd21OYWtuaGVyQW9GQ2pHeXliRGdIcWgtZXA4WXZ3Y1VsVWVzalZiaVNUYUVteldLZ0p2NEx5YjNuUldaVkhzQl9Jd2w1SWRidXpTME5OcERkLXNQV3RiUFpfYzg0cjhjQ1BXV3VCNmFnWTQtdDd0eUFQbEsyY2kzWlVsd2l4RnBCUllUQU54bkM1RnZxVGVqOFFaQmlNMNIB_gFBVV95cUxOelplYnVJMkdqeEZEb3JmT280d2NjYVNRTy1hSWI5UkZHWmVxODJHWkR4R05ackFaUFlQZnR6eUV5Ulp3czdlY0RUOGYyQUtjc25MOTUtR2diSkdQNFJpcTM0OE1Kamg4NHJVNUZ4TWVhLUtsS0hvVk9JOGItYTRzQW85MFB4OTIyTWxWMkxsbXp5WHZsM1IzdlBNRDk5bEh3U0JPZ2RFcVBSY29LR3lVY05PMzNqM3NsRG95NzlRR3V2MjV5Rl81SUhsTFI4azZFRGRXdmdGUmxyT1VyYnFIZHZvODRacEVJVXRtUEx1aHYzX1pMQ3FaQjgyYWdwUQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
@@ -3996,6 +3976,30 @@
         "imageSource": "publisher"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-how-ccts-is-accelerating-india-inc-s-rac-2026-01-08",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "How CCTS is accelerating India Inc.’s race to decarbonize - EY",
+      "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
+      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize",
+      "publishedAt": "2026-01-08T08:00:00.000Z",
+      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-ccts-banner.png",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFpleHAtN1I5eHA0T1R1czlGa0NDVVIxSlNqbWpCUTFGd25MTEtmdGhqT0FBa2Q2X2tRZGFzNUdsSDBRMzdwSGFmNl9TSFd3dWI0ZHJENVRielZkYU4zaUVtSGpxWkZCZzQ3MDFwT2Y0TWhxNDNqSVgxOEE5VnBhcmhyV3h6cWRXTTJNMTJheFNjUkZWOWNkWDE4azdyZEhwTnliandnN3F4ZzAtQVU5TmpNYTM2T1VyeXNJM1ZEUzdnSTNjbFNScg?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
