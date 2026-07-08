@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-08T15:18:24.701Z",
+  "fetchedAt": "2026-07-08T20:17:52.350Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,9 +45,9 @@
   ],
   "stats": {
     "total": 87,
-    "india": 19,
-    "world": 68,
-    "withImages": 56,
+    "india": 20,
+    "world": 67,
+    "withImages": 55,
     "avgExcerptLength": 430,
     "verra": 10,
     "registry": 25,
@@ -125,30 +125,6 @@
           "creditingPeriodStart": "2026-06-01",
           "creditingPeriodEnd": "2066-05-31",
           "program": "Verified Carbon Standard"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-        "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
-        "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
-        "publishedAt": "2026-06-05T07:00:00.000Z",
-        "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -350,6 +326,29 @@
         "region": "india"
       },
       {
+        "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
+        "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
+        "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
+        "publishedAt": "2026-04-14T07:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -514,9 +513,77 @@
           "imageSource": "publisher"
         },
         "region": "india"
+      },
+      {
+        "id": "google-h2-knowledge-nugget-what-you-must-know-abou-2025-08-20",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam - The Indian Express",
+        "excerpt": "Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Here’s your UPSC Current Affairs knowledge nugget for today on India’s Green hydrogen plants. Claiming that “a big step has been taken today”, Uttar Pradesh Chief Minister Yogi Adityanath on Sunday inaugurated the state’s first green hydrogen plant in Gorakhpur, with the project aiming to produce 72,000 tonnes of green fuel in a year. In this context, let’s learn about India’s green hydrogen plants and the significance of hydrogen as a fuel.…",
+        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-indias-green-hydrogen-plants-upsc-exam-10198700/",
+        "publishedAt": "2025-08-20T07:00:00.000Z",
+        "image": "https://images.indianexpress.com/2025/08/Knowledge-Nugget-Indias-Green-hydrogen-plants.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-3m-elevates-company-veteran-to-chief-sus-2026-07-08",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "3M elevates company veteran to chief sustainability officer",
+        "excerpt": "Amanda Yates, who has been with the company for more than 13 years, will step in as CSO starting this month. She most recently served as 3M s senior director of global sustainability.",
+        "url": "https://www.esgdive.com/news/3m-elevates-company-veteran-to-cso-amanda-yates/824725/",
+        "publishedAt": "2026-07-08T16:45:31.000Z",
+        "image": "https://imgproxy.divecdn.com/z4-PlkJ2xgfpddkMMu99uT6b10jhMk8CB3BSKG4gw3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDIzMDUxNl8xMzU2NTIuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-environmental-groups-sue-epa-over-us-ste-2026-07-08",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Environmental groups sue EPA over US Steel air permit",
+        "excerpt": "They are seeking a court order requiring the agency to grant or deny a clean air petition filed 10 months ago related to one of the largest steel mills in North America.",
+        "url": "https://www.esgdive.com/news/environmental-groups-sue-epa-over-us-steel-gary-works-air-permit-indiana/824700/",
+        "publishedAt": "2026-07-08T15:51:00.000Z",
+        "image": "https://imgproxy.divecdn.com/ZvNuvduqQeH2RYEfVQi0mcULvFs-nC-mn66pn7K2gRc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QbGFudF9FbXBsb3llZXMuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-quaise-energy-raises-134-million-to-buil-2026-07-08",
         "source": "esg-today",
@@ -1116,74 +1183,6 @@
         "region": "world"
       },
       {
-        "id": "google-h2-green-hydrogen-invested-steel-firms-hit--2026-07-02",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Green hydrogen-invested steel firms hit back at calls to weaken Europe’s carbon trading system - Hydrogen Insight",
-        "excerpt": "Green hydrogen-invested steel firms hit back at calls to weaken Europe’s carbon trading system Hydrogen Insight",
-        "url": "https://www.hydrogeninsight.com/policy/green-hydrogen-invested-steel-firms-hit-back-at-calls-to-weaken-europe-s-carbon-trading-system/2-1-2012580",
-        "publishedAt": "2026-07-02T11:33:10.000Z",
-        "image": "https://image.dngroup.com/global/nhst/binary/bae54e1459eacf1f6a3b057b78ad8d71?crop=1920%2C960%2Cx0%2Cy238%2Csafe&width=1200&format=webp&quality=80",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLXVpWlY2ei1IdDJsTWJVTzE5YnpNZkx4TGF0SFlHR3oxRklfWFZpMkhoTUZzRTlGbng3aTFmbFFzS3RzM0ZPUUk5STdFSDZKOW5qS0xCTjRadU1LODQzZklCY2VsLUdCNExyY2dnMW9KZTJJNE10bURDVGtfazlPek5INko0QlNGX1NiVS0ydXMtaUIzMDhDbGhBVW9lWEhqdmgyT3ZfYUpjZlZXa1ZuNFFqRGl0OWpLMzBVd1dLSDdQak5fa2RkR2pMa1djZ0xQcVloYzRYOEwwT3BUY3c?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-iss-glass-lewis-score-wins-against-kansa-2026-07-01",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "ISS, Glass Lewis score wins against Kansas, Indiana anti-ESG laws",
-        "excerpt": "Federal judges issued preliminary injunctions to stop the implementation of laws targeting the proxy advisers in the two states.",
-        "url": "https://www.esgdive.com/news/iss-glass-lewis-score-wins-against-kansas-indiana-anti-esg-laws/824244/",
-        "publishedAt": "2026-07-01T16:46:00.000Z",
-        "image": "https://imgproxy.divecdn.com/fsE6uDu8zgEUeWA5duwyeZuBf3HxdSVz4qexTVY8BNg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkyOTQ4NTg3X1RLdUMwNG8uanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-ceos-cios-clash-over-ai-s-value-2026-07-01",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "CEOs, CIOs clash over AI’s value",
-        "excerpt": "C-suite executives see the technology from different vantage points, but maturity and alignment of objectives could bring them closer together, a Protiviti survey found.",
-        "url": "https://www.esgdive.com/news/ceos-cios-clash-ai-value/824097/",
-        "publishedAt": "2026-07-01T16:27:00.000Z",
-        "image": "https://imgproxy.divecdn.com/NuTysRLskh2oJzNmjyQAQwkwqd_2SHMSUNbLjskKejw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkyOTQ4NTg3XzEuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-analysis-uk-newspapers-have-already-prin-2026-07-01",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1315,6 +1314,56 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6088",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Methane Avoidance Project through the Solids Removal & Oil Recovery System (SRORS)",
+        "excerpt": "Methane Avoidance Project through the Solids Removal & Oil Recovery System (SRORS) is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under validation\". It applies AMS-III.Y methodology. Estimated annual emission reductions are 72,000 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-07-01 to 2035-06-30.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6088",
+        "publishedAt": "2026-06-29T00:00:00.000Z",
+        "image": null,
+        "country": "Malaysia",
+        "methodology": "AMS-III.Y",
+        "registryId": "6088",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Climate Quest Sdn Bhd",
+          "region": "Asia",
+          "creditingPeriodStart": "2025-07-01",
+          "creditingPeriodEnd": "2035-06-30",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6086",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Electric Mobility Program Panama",
+        "excerpt": "Electric Mobility Program Panama is a Verified Carbon Standard (VCS) project registered on the Verra registry in Panama. The project is currently listed as \"Under validation\". It applies VMR0014; VM0038 methodology. Estimated annual emission reductions are 3,00,000 tonnes CO₂ equivalent per year. Project proponent: Grutter Consulting AG.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6086",
+        "publishedAt": "2026-06-28T00:00:00.000Z",
+        "image": null,
+        "country": "Panama",
+        "methodology": "VMR0014; VM0038",
+        "registryId": "6086",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Grutter Consulting AG",
+          "region": "Latin America",
+          "creditingPeriodStart": null,
+          "creditingPeriodEnd": null,
+          "program": "Verified Carbon Standard"
         },
         "region": "world"
       },
@@ -1813,56 +1862,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6014",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
-        "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under validation\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
-        "publishedAt": "2026-04-27T00:00:00.000Z",
-        "image": null,
-        "country": "Malaysia",
-        "methodology": "ACM0001",
-        "registryId": "6014",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "Climate Quest Sdn Bhd",
-          "region": "Asia",
-          "creditingPeriodStart": "2025-05-19",
-          "creditingPeriodEnd": "2035-05-18",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-vcs-6016",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Barnett Zero Project",
-        "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
-        "publishedAt": "2026-04-27T00:00:00.000Z",
-        "image": null,
-        "country": "United States",
-        "methodology": "VM0049",
-        "registryId": "6016",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "BKV Marketing, LLC",
-          "region": "North America",
-          "creditingPeriodStart": "2023-11-08",
-          "creditingPeriodEnd": "2068-11-07",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2101,6 +2100,50 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-3m-elevates-company-veteran-to-chief-sus-2026-07-08",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "3M elevates company veteran to chief sustainability officer",
+      "excerpt": "Amanda Yates, who has been with the company for more than 13 years, will step in as CSO starting this month. She most recently served as 3M s senior director of global sustainability.",
+      "url": "https://www.esgdive.com/news/3m-elevates-company-veteran-to-cso-amanda-yates/824725/",
+      "publishedAt": "2026-07-08T16:45:31.000Z",
+      "image": "https://imgproxy.divecdn.com/z4-PlkJ2xgfpddkMMu99uT6b10jhMk8CB3BSKG4gw3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDIzMDUxNl8xMzU2NTIuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-environmental-groups-sue-epa-over-us-ste-2026-07-08",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Environmental groups sue EPA over US Steel air permit",
+      "excerpt": "They are seeking a court order requiring the agency to grant or deny a clean air petition filed 10 months ago related to one of the largest steel mills in North America.",
+      "url": "https://www.esgdive.com/news/environmental-groups-sue-epa-over-us-steel-gary-works-air-permit-indiana/824700/",
+      "publishedAt": "2026-07-08T15:51:00.000Z",
+      "image": "https://imgproxy.divecdn.com/ZvNuvduqQeH2RYEfVQi0mcULvFs-nC-mn66pn7K2gRc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QbGFudF9FbXBsb3llZXMuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-quaise-energy-raises-134-million-to-buil-2026-07-08",
       "source": "esg-today",
@@ -2748,74 +2791,6 @@
       "region": "world"
     },
     {
-      "id": "google-h2-green-hydrogen-invested-steel-firms-hit--2026-07-02",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Green hydrogen-invested steel firms hit back at calls to weaken Europe’s carbon trading system - Hydrogen Insight",
-      "excerpt": "Green hydrogen-invested steel firms hit back at calls to weaken Europe’s carbon trading system Hydrogen Insight",
-      "url": "https://www.hydrogeninsight.com/policy/green-hydrogen-invested-steel-firms-hit-back-at-calls-to-weaken-europe-s-carbon-trading-system/2-1-2012580",
-      "publishedAt": "2026-07-02T11:33:10.000Z",
-      "image": "https://image.dngroup.com/global/nhst/binary/bae54e1459eacf1f6a3b057b78ad8d71?crop=1920%2C960%2Cx0%2Cy238%2Csafe&width=1200&format=webp&quality=80",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLXVpWlY2ei1IdDJsTWJVTzE5YnpNZkx4TGF0SFlHR3oxRklfWFZpMkhoTUZzRTlGbng3aTFmbFFzS3RzM0ZPUUk5STdFSDZKOW5qS0xCTjRadU1LODQzZklCY2VsLUdCNExyY2dnMW9KZTJJNE10bURDVGtfazlPek5INko0QlNGX1NiVS0ydXMtaUIzMDhDbGhBVW9lWEhqdmgyT3ZfYUpjZlZXa1ZuNFFqRGl0OWpLMzBVd1dLSDdQak5fa2RkR2pMa1djZ0xQcVloYzRYOEwwT3BUY3c?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-iss-glass-lewis-score-wins-against-kansa-2026-07-01",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "ISS, Glass Lewis score wins against Kansas, Indiana anti-ESG laws",
-      "excerpt": "Federal judges issued preliminary injunctions to stop the implementation of laws targeting the proxy advisers in the two states.",
-      "url": "https://www.esgdive.com/news/iss-glass-lewis-score-wins-against-kansas-indiana-anti-esg-laws/824244/",
-      "publishedAt": "2026-07-01T16:46:00.000Z",
-      "image": "https://imgproxy.divecdn.com/fsE6uDu8zgEUeWA5duwyeZuBf3HxdSVz4qexTVY8BNg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkyOTQ4NTg3X1RLdUMwNG8uanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-ceos-cios-clash-over-ai-s-value-2026-07-01",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "CEOs, CIOs clash over AI’s value",
-      "excerpt": "C-suite executives see the technology from different vantage points, but maturity and alignment of objectives could bring them closer together, a Protiviti survey found.",
-      "url": "https://www.esgdive.com/news/ceos-cios-clash-ai-value/824097/",
-      "publishedAt": "2026-07-01T16:27:00.000Z",
-      "image": "https://imgproxy.divecdn.com/NuTysRLskh2oJzNmjyQAQwkwqd_2SHMSUNbLjskKejw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkyOTQ4NTg3XzEuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-analysis-uk-newspapers-have-already-prin-2026-07-01",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2947,6 +2922,56 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6088",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Methane Avoidance Project through the Solids Removal & Oil Recovery System (SRORS)",
+      "excerpt": "Methane Avoidance Project through the Solids Removal & Oil Recovery System (SRORS) is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under validation\". It applies AMS-III.Y methodology. Estimated annual emission reductions are 72,000 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-07-01 to 2035-06-30.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6088",
+      "publishedAt": "2026-06-29T00:00:00.000Z",
+      "image": null,
+      "country": "Malaysia",
+      "methodology": "AMS-III.Y",
+      "registryId": "6088",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "Climate Quest Sdn Bhd",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-07-01",
+        "creditingPeriodEnd": "2035-06-30",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6086",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Electric Mobility Program Panama",
+      "excerpt": "Electric Mobility Program Panama is a Verified Carbon Standard (VCS) project registered on the Verra registry in Panama. The project is currently listed as \"Under validation\". It applies VMR0014; VM0038 methodology. Estimated annual emission reductions are 3,00,000 tonnes CO₂ equivalent per year. Project proponent: Grutter Consulting AG.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6086",
+      "publishedAt": "2026-06-28T00:00:00.000Z",
+      "image": null,
+      "country": "Panama",
+      "methodology": "VMR0014; VM0038",
+      "registryId": "6086",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "Grutter Consulting AG",
+        "region": "Latin America",
+        "creditingPeriodStart": null,
+        "creditingPeriodEnd": null,
+        "program": "Verified Carbon Standard"
       },
       "region": "world"
     },
@@ -3091,30 +3116,6 @@
         "creditingPeriodStart": "2026-06-01",
         "creditingPeriodEnd": "2066-05-31",
         "program": "Verified Carbon Standard"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-      "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
-      "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
-      "publishedAt": "2026-06-05T07:00:00.000Z",
-      "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -3293,31 +3294,6 @@
       "region": "india"
     },
     {
-      "id": "verra-vcs-6045",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd.",
-      "excerpt": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd. is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies AMS-I.F.; AMS-III.D. methodology. Estimated annual emission reductions are 12,284 tonnes CO₂ equivalent per year. Project proponent: Asvata Climate Solutions Private Limited. Crediting period runs 2025-10-15 to 2032-10-14.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6045",
-      "publishedAt": "2026-05-28T00:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": "AMS-I.F.; AMS-III.D.",
-      "registryId": "6045",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "Asvata Climate Solutions Private Limited",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-10-15",
-        "creditingPeriodEnd": "2032-10-14",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "india"
-    },
-    {
       "id": "verra-vcs-6046",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3341,6 +3317,31 @@
         "program": "Verified Carbon Standard"
       },
       "region": "world"
+    },
+    {
+      "id": "verra-vcs-6045",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd.",
+      "excerpt": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd. is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies AMS-I.F.; AMS-III.D. methodology. Estimated annual emission reductions are 12,284 tonnes CO₂ equivalent per year. Project proponent: Asvata Climate Solutions Private Limited. Crediting period runs 2025-10-15 to 2032-10-14.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6045",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": "AMS-I.F.; AMS-III.D.",
+      "registryId": "6045",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "Asvata Climate Solutions Private Limited",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-10-15",
+        "creditingPeriodEnd": "2032-10-14",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "india"
     },
     {
       "id": "verra-vcs-6043",
@@ -3667,56 +3668,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6014",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu",
-      "excerpt": "Malaysia Grouped Landfill Methane Gas Recovery to Energy by Selekta Spektra and Teraju Sepadu is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under validation\". It applies ACM0001 methodology. Estimated annual emission reductions are 92,766 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2025-05-19 to 2035-05-18.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6014",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": null,
-      "country": "Malaysia",
-      "methodology": "ACM0001",
-      "registryId": "6014",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "Climate Quest Sdn Bhd",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-05-19",
-        "creditingPeriodEnd": "2035-05-18",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-vcs-6016",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Barnett Zero Project",
-      "excerpt": "Barnett Zero Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under validation\". It applies VM0049 methodology. Estimated annual emission reductions are 1,09,088 tonnes CO₂ equivalent per year. Project proponent: BKV Marketing, LLC. Crediting period runs 2023-11-08 to 2068-11-07.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6016",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "image": null,
-      "country": "United States",
-      "methodology": "VM0049",
-      "registryId": "6016",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "BKV Marketing, LLC",
-        "region": "North America",
-        "creditingPeriodStart": "2023-11-08",
-        "creditingPeriodEnd": "2068-11-07",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -3763,6 +3714,29 @@
         "imageSource": "publisher"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
+      "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
+      "publishedAt": "2026-04-14T07:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
+      },
+      "region": "india"
     },
     {
       "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
@@ -4114,6 +4088,30 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-h2-knowledge-nugget-what-you-must-know-abou-2025-08-20",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam - The Indian Express",
+      "excerpt": "Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Here’s your UPSC Current Affairs knowledge nugget for today on India’s Green hydrogen plants. Claiming that “a big step has been taken today”, Uttar Pradesh Chief Minister Yogi Adityanath on Sunday inaugurated the state’s first green hydrogen plant in Gorakhpur, with the project aiming to produce 72,000 tonnes of green fuel in a year. In this context, let’s learn about India’s green hydrogen plants and the significance of hydrogen as a fuel.…",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-indias-green-hydrogen-plants-upsc-exam-10198700/",
+      "publishedAt": "2025-08-20T07:00:00.000Z",
+      "image": "https://images.indianexpress.com/2025/08/Knowledge-Nugget-Indias-Green-hydrogen-plants.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
