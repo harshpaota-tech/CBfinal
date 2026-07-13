@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-13T10:31:36.109Z",
+  "fetchedAt": "2026-07-13T15:40:58.268Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 87,
-    "india": 22,
-    "world": 65,
-    "withImages": 55,
-    "avgExcerptLength": 429,
+    "india": 21,
+    "world": 66,
+    "withImages": 54,
+    "avgExcerptLength": 424,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -136,10 +136,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-        "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
+        "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week DD India",
         "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
         "publishedAt": "2026-06-05T07:00:00.000Z",
-        "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -147,8 +147,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5"
         },
         "region": "india"
       },
@@ -562,33 +561,120 @@
           "imageSource": "publisher"
         },
         "region": "india"
-      },
+      }
+    ],
+    "world": [
       {
-        "id": "google-h2-steel-decarbonisation-in-india-institute-2023-09-14",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
+        "id": "esg-today-omv-secures-450-million-eib-backing-to-b-2026-07-13",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
         "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Steel decarbonisation in India - Institute for Energy Economics and Financial Analysis (IEEFA)",
-        "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  Executive Summary  About the…",
-        "url": "https://ieefa.org/resources/steel-decarbonisation-india",
-        "publishedAt": "2023-09-14T07:00:00.000Z",
-        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2023-09/hero-graphic-jmksteel2%20%283%29.jpg?itok=lTXPD-tj",
-        "country": "India",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "OMV Secures €450 Million EIB Backing to Build One of Europe’s Largest Green Hydrogen Projects",
+        "excerpt": "Vienna-based integrated chemicals, fuels and energy company OMV announced today a new €450 million (USD$514 million) loan agreement with the European Investment Bank (EIB), to help fund the construction of one of the largest green hydrogen production plants in Europe. The new 140 MW plant, located in Bruck an der Leitha, is currently under construction and scheduled to commence operations by the end of 2027. The facility is expected to produce up to 23,000 tons of green hydrogen annually, significantly contributing to the decarbonization of the OMV…",
+        "url": "https://www.esgtoday.com/omv-secures-e450-million-eib-backing-to-build-one-of-europes-largest-green-hydrogen-projects/?utm_source=rss utm_medium=rss utm_campaign=omv-secures-e450-million-eib-backing-to-build-one-of-europes-largest-green-hydrogen-projects",
+        "publishedAt": "2026-07-13T15:17:35.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/OMV3.jpg",
+        "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tTUtPWEs1YmtXZ21IaGVPZnR1ZmliVVdoLVFUUndZbDlQblFxMEItT0w0ZWhyb2c5b1JwcXppOC1DNUszRXNsSUUwOUl1TlBnUWI0Qk5Vem1IRWNWMk5CY2dfV0RkZw?oc=5",
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-hephae-raises-17-8-million-for-technolog-2026-07-13",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Hephae Raises $17.8 Million for Technology Enabling Access to Deeper, Hotter Geothermal Energy",
+        "excerpt": "Geothermal technology startup Hephae Energy Technology announced that it has raised $17.8 million in a Series A funding round, with proceeds aimed at accelerating the commercial deployment of its ultra-high temperature robotics-based drilling technology aimed at enabling developers to access deeper and hotter rock. Founded in 2020, Houston-based Hephae develops ultra-high-temperature drilling and measurement systems designed to support enhanced geothermal and superhot rock projects. The company’s downhole sensing, measurement, communications, and…",
+        "url": "https://www.esgtoday.com/hephae-raises-17-8-million-for-technology-enabling-access-to-deeper-hotter-geothermal-energy/?utm_source=rss utm_medium=rss utm_campaign=hephae-raises-17-8-million-for-technology-enabling-access-to-deeper-hotter-geothermal-energy",
+        "publishedAt": "2026-07-13T14:46:11.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Hephae.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-alpiq-acquires-battery-storage-developer-2026-07-13",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Alpiq Acquires Battery Storage Developer Harmony Energy",
+        "excerpt": "Swiss electricity producer and energy services provider Alpiq announced that it is has acquired a 90% stake in renewable energy and battery storage developer Harmony Energy, with the company noting that the acquisition will establish it as one of the leading battery energy storage systems (BESS) players in Europe. Founded in 2010 by Peter Kavanagh, UK-based Harmony specializes in utility-scale battery energy storage systems, with BESS projects in the UK Germany, France and Poland. The company develops, builds, owns and operates projects aimed at…",
+        "url": "https://www.esgtoday.com/alpiq-acquires-battery-storage-developer-harmony-energy/?utm_source=rss utm_medium=rss utm_campaign=alpiq-acquires-battery-storage-developer-harmony-energy",
+        "publishedAt": "2026-07-13T14:15:25.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Harmony-energy.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-microsoft-s-carbon-footprint-jumps-25-as-2026-07-13",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Microsoft s Carbon Footprint Jumps 25% as AI Buildout Challenges Climate Goals",
+        "excerpt": "Microsoft released its 2026 Environmental Sustainability Report, revealing a significant jump in the tech giant’s GHG footprint, with emissions rising 25% over the prior year, driven by an accelerating AI infrastructure buildout, as well as a shift in the company’s clean energy strategy away from the use of non-additional renewable energy certificates and towards the development of new carbon-free energy sources. While acknowledging the “increasing demand for energy, water, land, and materials” of the rise of AI, Microsoft’s Chief Sustainability Officer…",
+        "url": "https://www.esgtoday.com/microsofts-carbon-footprint-jumps-25-as-ai-buildout-challenges-climate-goals/?utm_source=rss utm_medium=rss utm_campaign=microsofts-carbon-footprint-jumps-25-as-ai-buildout-challenges-climate-goals",
+        "publishedAt": "2026-07-13T13:54:33.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Microsoft1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-projects-open-for-public-comment-july-13-2026-07-13",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Projects Open for Public Comment: July 13, 2026",
+        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+        "url": "https://verra.org/projects-open-for-public-comment-july-13-2026/",
+        "publishedAt": "2026-07-13T13:09:08.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/07/ries-bosch-wH_rvXttJo-unsplash.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
         },
-        "region": "india"
-      }
-    ],
-    "world": [
+        "region": "world"
+      },
       {
         "id": "esg-today-masdar-secures-over-5-billion-for-massiv-2026-07-13",
         "source": "esg-today",
@@ -597,7 +683,7 @@
         "tag": "ESG",
         "accent": "#60a5fa",
         "title": "Masdar Secures Over $5 Billion for Massive 24/7 Clean Energy Project in UAE",
-        "excerpt": "UAE-based clean energy-focused developer Masdar announced that it has secured a $5.1 billion financing package, reaching financial close to build one of the largest solar and battery storage projects in the world, capable of delivering 1GW of continuous clean power. Described by Masdar as the world s first gigascale 24/7 renewable energy project, the new Abu Dhabi-based RTC project will include a 5.2GW solar photovoltaic (PV) plant with a 19 gigawatt-hour (GWh) battery energy storage system (BESS), enabling the delivery of 1 GW f continuous baseload…",
+        "excerpt": "UAE-based clean energy-focused developer Masdar announced that it has secured a $5.1 billion financing package, reaching financial close to build one of the largest solar and battery storage projects in the world, capable of delivering 1GW of continuous clean power. Described by Masdar as the world s first gigascale 24/7 renewable energy project, the new Abu Dhabi-based RTC project will include a 5.2GW solar photovoltaic (PV) plant with a 19 gigawatt-hour (GWh) battery energy storage system (BESS), enabling the delivery of 1 GW of continuous baseload…",
         "url": "https://www.esgtoday.com/masdar-secures-over-5-billion-for-massive-24-7-clean-energy-project-in-uae/?utm_source=rss utm_medium=rss utm_campaign=masdar-secures-over-5-billion-for-massive-24-7-clean-energy-project-in-uae",
         "publishedAt": "2026-07-13T08:42:33.000Z",
         "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Masdar.jpg",
@@ -967,50 +1053,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-canada-proposes-new-oil-and-gas-producti-2026-07-09",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Canada Proposes New Oil and Gas Production Decarbonization Category for Sustainable Finance Taxonomy",
-        "excerpt": "Canadian climate-focused investor initiative Business Future Pathways (BFP) announced the release of a new draft of the methodology underlying the development of Canada’s Sustainable Finance Taxonomy, its upcoming categorization system aimed at helping investors to identify sustainable investments, and to drive capital into business and projects that reduce emissions in line with Canada’s net zero goals. While including the “green” and “transition” investment categories common to several other countries’ taxonomies, which nearly always exclude…",
-        "url": "https://www.esgtoday.com/canada-proposes-new-oil-and-gas-production-decarbonization-category-for-sustainable-finance-taxonomy/?utm_source=rss utm_medium=rss utm_campaign=canada-proposes-new-oil-and-gas-production-decarbonization-category-for-sustainable-finance-taxonomy",
-        "publishedAt": "2026-07-09T14:26:48.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Canada-flag.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Sustainable Finance",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-ethifinance-esg-book-merge-to-form-europ-2026-07-09",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EthiFinance, ESG Book Merge to Form European Sustainability and Credit Rating “Champion”",
-        "excerpt": "Sustainable finance-focused ratings and research provider EthiFinance and sustainability data and technology company ESG Book announced a merger transaction aimed at creating one of Europe’s largest, independent credit and sustainability rating agencies. The companies said that the new entity will provide a European rating “champion,” offering an alternative to U.S.-based incumbents, and fill a sustainable data gap in private markets, strengthening the link between financial and nonfinancial value drivers. ESG Book CEO Justin Fitzpatrick said: “As the…",
-        "url": "https://www.esgtoday.com/ethifinance-esg-book-merge-to-form-european-sustainability-and-credit-rating-champion/?utm_source=rss utm_medium=rss utm_campaign=ethifinance-esg-book-merge-to-form-european-sustainability-and-credit-rating-champion",
-        "publishedAt": "2026-07-09T12:17:04.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EthiFinance-Sirou.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-interview-dr-sun-yixian-on-his-new-datab-2026-07-09",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1029,50 +1071,6 @@
         "meta": {
           "category": "China Policy",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-airbus-partners-with-mtu-to-develop-hydr-2026-07-09",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Airbus Partners with MTU to Develop Hydrogen-Powered Aircraft Engine",
-        "excerpt": "Aerospace giant Airbus and aircraft engine manufacturer MTU Aero Engines announced the launch of a new joint venture focused on the development and commercialization of the first hydrogen-based fuel cell propulsion system for commercial aircraft. The aviation industry accounts for approximately 2-3% of global greenhouse gas (GHG) emissions, with that figure potentially rising dramatically over the coming decades if no action is taken. Several initiatives are being pursued in order to address the climate impact of the industry, typically involving…",
-        "url": "https://www.esgtoday.com/airbus-partners-with-mtu-to-develop-hydrogen-powered-aircraft-engine/?utm_source=rss utm_medium=rss utm_campaign=airbus-partners-with-mtu-to-develop-hydrogen-powered-aircraft-engine",
-        "publishedAt": "2026-07-09T10:10:24.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Airbus-Hydrogen.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-totalenergies-divests-its-distributed-so-2026-07-09",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "TotalEnergies Divests its Distributed Solar Business in Europe to Focus on Utility-Scale Renewables",
-        "excerpt": "French energy giant TotalEnergies announced today that it has divested its distributed solar generation activities in Europe, selling all of its distributed solar assets in 7 countries to renewable energy companies Amarenco and AMPYR Distributed Energy. In a statement announcing the sale, TotalEnergies said that the transactions will enable it to refocus its renewable development on large utility-scale solar and wind farms in order to benefit from economies of scale. “Distributed generation involves the development of projects generally below 3 MW, for…",
-        "url": "https://www.esgtoday.com/totalenergies-divests-its-distributed-solar-business-in-europe-to-focus-on-utility-scale-renewables/?utm_source=rss utm_medium=rss utm_campaign=totalenergies-divests-its-distributed-solar-business-in-europe-to-focus-on-utility-scale-renewables",
-        "publishedAt": "2026-07-09T09:33:30.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/TotalEnergies.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1243,7 +1241,7 @@
         "excerpt": "Welcome to Cited, your essential guide to new climate research. ‘HEAT ALERT’: At least 25 people died as a “heat dome” smothered the eastern half of the US, reported the Guardian , with more than 20 states under “stifling temperatures more than 100F (38C)”. More than 140 million people were under heat alerts, the outlet said, with dead bodies found in “homes with no air conditioning, outside their residences, on the street and in parked cars”. Analysis by World Weather Attribution (WWA) found that the combined heat and humidity would have been…",
         "url": "https://www.carbonbrief.org/cited-7-july-2026-impossible-heat-global-ocean-record-climate-change-and-the-ozone-hole/",
         "publishedAt": "2026-07-07T14:58:43.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/3ET8HG6_1-300x200.jpg",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/cited1_1.png",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1401,29 +1399,6 @@
         "url": "https://verra.org/vote-for-verra-in-environmental-finances-2026-vcm-rankings/",
         "publishedAt": "2026-07-01T13:23:02.000Z",
         "image": "https://verra.org/wp-content/uploads/2026/06/kristaps-ungurs-owcJsiIK7UU-unsplash-scaled.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-verra-releases-results-from-second-part--2026-06-30",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra Releases Results from Second Part of Quality Control Review of Kariba Project",
-        "excerpt": "Verra today released the results from the second component of its quality control review (QCR) of the Kariba REDD+ Project. This component was a safeguards-focused review that was conducted following the earlier carbon accounting review . Verra had asked the project’s validation/verification bodies (VVBs) to reassess whether the project met Verra’s safeguards-related rules and requirements at the time of the VVBs’ original assessments, considering the serious allegations raised through media reporting. The VVBs revisited their original audit work, which…",
-        "url": "https://verra.org/verra-releases-results-from-second-part-of-quality-control-review-of-kariba-project/",
-        "publishedAt": "2026-06-30T13:16:32.000Z",
-        "image": "https://verra.org/wp-content/uploads/2026/06/ivko-landscape-5053713_1920.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1933,6 +1908,30 @@
         "region": "world"
       },
       {
+        "id": "google-h2-green-hydrogen-market-forecasted-to-reac-2026-02-19",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Green Hydrogen Market Forecasted to Reach USD 231.32 - GlobeNewswire",
+        "excerpt": "Automobiles and Parts News Food & Beverage News Home Goods & Construction News Leisure Goods News Media & Entertainment News Personal Care News Retail News Travel and Leisure News Energy News Alternative Energy News Oil Gas and Coal News Chemicals News Banks & Financial Services News Banking News Closed-End Investments News Finance and Credit Services News Investment Banking and Brokerage Services News Insurance News Real Estate & REITs News Healthcare News Healthcare Providers News Medical Equipment News Medical Supplies and Services News Biotechnology…",
+        "url": "https://www.globenewswire.com/news-release/2026/02/19/3241001/0/en/green-hydrogen-market-forecasted-to-reach-usd-231-32-billion-by-2035-driven-by-renewable-energy-adoption-and-policy-support.html",
+        "publishedAt": "2026-02-19T08:00:00.000Z",
+        "image": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRXFrTW54UUtQZkRBZklaOHhnTnp2ZlZDLXY5bU56MG8ySU9JdlpUQXY0dVZlc1c4SmV6UUlwUVo3dk9BcGNzV1BHS3d1S0NqeERGZFVaQ0J3czBPclFwMjB5QjhaeGo0dVkyT2E1Z0ZmRjZENVl6QzlLSVdRdVVwXzlQamZHTjZuakVxSWhDanU5UDR0Z2VjcTdreFI1dm9mVVgzOGxnVDZVc00xUWRfQk1ySHk4RlFUc0h6WW1DRUhoeWp5dkF6UlVPaGFCbXpZYnFfMzc0Z2VaU0c1OTJIQk5USzFWUWlSNkhHeFJnTzVBZ3hHT3FEbk1xcWZhcDVObXNpc2ZzcXdQb1JxdmRpbHRlSGdSQ0NodlJ6bGhzUk0?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2004,30 +2003,6 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-carbon-credit-project-developers-baulk-a-2026-01-20",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Carbon credit project developers baulk at new Gold Standard rules - edie.net",
-        "excerpt": "Dozens of companies developing carbon credit projects have asked industry standards body Gold Standard to be more lenient in its alignment with the global Paris Agreement on climate change. Join our growing army of changemakers and get access to our free content Image: Carolina Pino for Verra. Trees classed as part of a deforestation avoidance project that generates carbon credits. Gold Standard first committed to aligning its requirements with those set out under the Paris Agreement in 2021. International negotiators subsequently agreed on the…",
-        "url": "https://www.edie.net/carbon-credit-project-developers-baulk-at-new-gold-standard-rules/",
-        "publishedAt": "2026-01-20T08:00:00.000Z",
-        "image": "https://edienetlive.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/2/TreesVerraCarbon.gif",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hYOXV2Q0hBbG1uRXVLQWFNYlFTbHRvUVpuTGd0OFI0Qm43bVg3WkU3V2lEWERzQU9ZbzV2N3VHX2M5VnpnRlpOdXNmNC1FZzQwZ3czd00wU1VQbWhQVmhsdjRiRVdXaHpiMnN1N1UxcmM1eWgtMGt6WkFoVWpLLXAtUlZfczYzT3haNE1BSEbSAZwBQVVfeXFMT1ZUREJlS1YxdzBMN3N2TjVyV3RzdWo0RDNrZ0E1bENjMXVJRTlVeVRZNXl5UFI0eEZjdWlpcEYxU2ZiaDBIMzlZUTRDTWlBVGg4SHBiMkJyVDRkSGRhd1NUWWc2cHZOR0J5UWVsYXNIMUFJMnVGLTNRLXQ1Tnk3ZHNneHN2Tk1UMHZOZmJRQks4RGlsVHRRUlFzTmF5?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2047,6 +2022,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-carbon-market-updates-indonesia-verra-ag-2025-10-16",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
+        "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
+        "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
+        "publishedAt": "2025-10-16T07:00:00.000Z",
+        "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -2101,6 +2100,117 @@
   },
   "articles": [
     {
+      "id": "esg-today-omv-secures-450-million-eib-backing-to-b-2026-07-13",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "OMV Secures €450 Million EIB Backing to Build One of Europe’s Largest Green Hydrogen Projects",
+      "excerpt": "Vienna-based integrated chemicals, fuels and energy company OMV announced today a new €450 million (USD$514 million) loan agreement with the European Investment Bank (EIB), to help fund the construction of one of the largest green hydrogen production plants in Europe. The new 140 MW plant, located in Bruck an der Leitha, is currently under construction and scheduled to commence operations by the end of 2027. The facility is expected to produce up to 23,000 tons of green hydrogen annually, significantly contributing to the decarbonization of the OMV…",
+      "url": "https://www.esgtoday.com/omv-secures-e450-million-eib-backing-to-build-one-of-europes-largest-green-hydrogen-projects/?utm_source=rss utm_medium=rss utm_campaign=omv-secures-e450-million-eib-backing-to-build-one-of-europes-largest-green-hydrogen-projects",
+      "publishedAt": "2026-07-13T15:17:35.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/OMV3.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-hephae-raises-17-8-million-for-technolog-2026-07-13",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Hephae Raises $17.8 Million for Technology Enabling Access to Deeper, Hotter Geothermal Energy",
+      "excerpt": "Geothermal technology startup Hephae Energy Technology announced that it has raised $17.8 million in a Series A funding round, with proceeds aimed at accelerating the commercial deployment of its ultra-high temperature robotics-based drilling technology aimed at enabling developers to access deeper and hotter rock. Founded in 2020, Houston-based Hephae develops ultra-high-temperature drilling and measurement systems designed to support enhanced geothermal and superhot rock projects. The company’s downhole sensing, measurement, communications, and…",
+      "url": "https://www.esgtoday.com/hephae-raises-17-8-million-for-technology-enabling-access-to-deeper-hotter-geothermal-energy/?utm_source=rss utm_medium=rss utm_campaign=hephae-raises-17-8-million-for-technology-enabling-access-to-deeper-hotter-geothermal-energy",
+      "publishedAt": "2026-07-13T14:46:11.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Hephae.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-alpiq-acquires-battery-storage-developer-2026-07-13",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Alpiq Acquires Battery Storage Developer Harmony Energy",
+      "excerpt": "Swiss electricity producer and energy services provider Alpiq announced that it is has acquired a 90% stake in renewable energy and battery storage developer Harmony Energy, with the company noting that the acquisition will establish it as one of the leading battery energy storage systems (BESS) players in Europe. Founded in 2010 by Peter Kavanagh, UK-based Harmony specializes in utility-scale battery energy storage systems, with BESS projects in the UK Germany, France and Poland. The company develops, builds, owns and operates projects aimed at…",
+      "url": "https://www.esgtoday.com/alpiq-acquires-battery-storage-developer-harmony-energy/?utm_source=rss utm_medium=rss utm_campaign=alpiq-acquires-battery-storage-developer-harmony-energy",
+      "publishedAt": "2026-07-13T14:15:25.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Harmony-energy.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-microsoft-s-carbon-footprint-jumps-25-as-2026-07-13",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Microsoft s Carbon Footprint Jumps 25% as AI Buildout Challenges Climate Goals",
+      "excerpt": "Microsoft released its 2026 Environmental Sustainability Report, revealing a significant jump in the tech giant’s GHG footprint, with emissions rising 25% over the prior year, driven by an accelerating AI infrastructure buildout, as well as a shift in the company’s clean energy strategy away from the use of non-additional renewable energy certificates and towards the development of new carbon-free energy sources. While acknowledging the “increasing demand for energy, water, land, and materials” of the rise of AI, Microsoft’s Chief Sustainability Officer…",
+      "url": "https://www.esgtoday.com/microsofts-carbon-footprint-jumps-25-as-ai-buildout-challenges-climate-goals/?utm_source=rss utm_medium=rss utm_campaign=microsofts-carbon-footprint-jumps-25-as-ai-buildout-challenges-climate-goals",
+      "publishedAt": "2026-07-13T13:54:33.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Microsoft1.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-projects-open-for-public-comment-july-13-2026-07-13",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Projects Open for Public Comment: July 13, 2026",
+      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+      "url": "https://verra.org/projects-open-for-public-comment-july-13-2026/",
+      "publishedAt": "2026-07-13T13:09:08.000Z",
+      "image": "https://verra.org/wp-content/uploads/2026/07/ries-bosch-wH_rvXttJo-unsplash.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-today-masdar-secures-over-5-billion-for-massiv-2026-07-13",
       "source": "esg-today",
       "sourceName": "ESG Today",
@@ -2108,7 +2218,7 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "Masdar Secures Over $5 Billion for Massive 24/7 Clean Energy Project in UAE",
-      "excerpt": "UAE-based clean energy-focused developer Masdar announced that it has secured a $5.1 billion financing package, reaching financial close to build one of the largest solar and battery storage projects in the world, capable of delivering 1GW of continuous clean power. Described by Masdar as the world s first gigascale 24/7 renewable energy project, the new Abu Dhabi-based RTC project will include a 5.2GW solar photovoltaic (PV) plant with a 19 gigawatt-hour (GWh) battery energy storage system (BESS), enabling the delivery of 1 GW f continuous baseload…",
+      "excerpt": "UAE-based clean energy-focused developer Masdar announced that it has secured a $5.1 billion financing package, reaching financial close to build one of the largest solar and battery storage projects in the world, capable of delivering 1GW of continuous clean power. Described by Masdar as the world s first gigascale 24/7 renewable energy project, the new Abu Dhabi-based RTC project will include a 5.2GW solar photovoltaic (PV) plant with a 19 gigawatt-hour (GWh) battery energy storage system (BESS), enabling the delivery of 1 GW of continuous baseload…",
       "url": "https://www.esgtoday.com/masdar-secures-over-5-billion-for-massive-24-7-clean-energy-project-in-uae/?utm_source=rss utm_medium=rss utm_campaign=masdar-secures-over-5-billion-for-massive-24-7-clean-energy-project-in-uae",
       "publishedAt": "2026-07-13T08:42:33.000Z",
       "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Masdar.jpg",
@@ -2478,50 +2588,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-canada-proposes-new-oil-and-gas-producti-2026-07-09",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Canada Proposes New Oil and Gas Production Decarbonization Category for Sustainable Finance Taxonomy",
-      "excerpt": "Canadian climate-focused investor initiative Business Future Pathways (BFP) announced the release of a new draft of the methodology underlying the development of Canada’s Sustainable Finance Taxonomy, its upcoming categorization system aimed at helping investors to identify sustainable investments, and to drive capital into business and projects that reduce emissions in line with Canada’s net zero goals. While including the “green” and “transition” investment categories common to several other countries’ taxonomies, which nearly always exclude…",
-      "url": "https://www.esgtoday.com/canada-proposes-new-oil-and-gas-production-decarbonization-category-for-sustainable-finance-taxonomy/?utm_source=rss utm_medium=rss utm_campaign=canada-proposes-new-oil-and-gas-production-decarbonization-category-for-sustainable-finance-taxonomy",
-      "publishedAt": "2026-07-09T14:26:48.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Canada-flag.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Sustainable Finance",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-ethifinance-esg-book-merge-to-form-europ-2026-07-09",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EthiFinance, ESG Book Merge to Form European Sustainability and Credit Rating “Champion”",
-      "excerpt": "Sustainable finance-focused ratings and research provider EthiFinance and sustainability data and technology company ESG Book announced a merger transaction aimed at creating one of Europe’s largest, independent credit and sustainability rating agencies. The companies said that the new entity will provide a European rating “champion,” offering an alternative to U.S.-based incumbents, and fill a sustainable data gap in private markets, strengthening the link between financial and nonfinancial value drivers. ESG Book CEO Justin Fitzpatrick said: “As the…",
-      "url": "https://www.esgtoday.com/ethifinance-esg-book-merge-to-form-european-sustainability-and-credit-rating-champion/?utm_source=rss utm_medium=rss utm_campaign=ethifinance-esg-book-merge-to-form-european-sustainability-and-credit-rating-champion",
-      "publishedAt": "2026-07-09T12:17:04.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EthiFinance-Sirou.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-interview-dr-sun-yixian-on-his-new-datab-2026-07-09",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2540,50 +2606,6 @@
       "meta": {
         "category": "China Policy",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-airbus-partners-with-mtu-to-develop-hydr-2026-07-09",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Airbus Partners with MTU to Develop Hydrogen-Powered Aircraft Engine",
-      "excerpt": "Aerospace giant Airbus and aircraft engine manufacturer MTU Aero Engines announced the launch of a new joint venture focused on the development and commercialization of the first hydrogen-based fuel cell propulsion system for commercial aircraft. The aviation industry accounts for approximately 2-3% of global greenhouse gas (GHG) emissions, with that figure potentially rising dramatically over the coming decades if no action is taken. Several initiatives are being pursued in order to address the climate impact of the industry, typically involving…",
-      "url": "https://www.esgtoday.com/airbus-partners-with-mtu-to-develop-hydrogen-powered-aircraft-engine/?utm_source=rss utm_medium=rss utm_campaign=airbus-partners-with-mtu-to-develop-hydrogen-powered-aircraft-engine",
-      "publishedAt": "2026-07-09T10:10:24.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Airbus-Hydrogen.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-totalenergies-divests-its-distributed-so-2026-07-09",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "TotalEnergies Divests its Distributed Solar Business in Europe to Focus on Utility-Scale Renewables",
-      "excerpt": "French energy giant TotalEnergies announced today that it has divested its distributed solar generation activities in Europe, selling all of its distributed solar assets in 7 countries to renewable energy companies Amarenco and AMPYR Distributed Energy. In a statement announcing the sale, TotalEnergies said that the transactions will enable it to refocus its renewable development on large utility-scale solar and wind farms in order to benefit from economies of scale. “Distributed generation involves the development of projects generally below 3 MW, for…",
-      "url": "https://www.esgtoday.com/totalenergies-divests-its-distributed-solar-business-in-europe-to-focus-on-utility-scale-renewables/?utm_source=rss utm_medium=rss utm_campaign=totalenergies-divests-its-distributed-solar-business-in-europe-to-focus-on-utility-scale-renewables",
-      "publishedAt": "2026-07-09T09:33:30.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/TotalEnergies.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2754,7 +2776,7 @@
       "excerpt": "Welcome to Cited, your essential guide to new climate research. ‘HEAT ALERT’: At least 25 people died as a “heat dome” smothered the eastern half of the US, reported the Guardian , with more than 20 states under “stifling temperatures more than 100F (38C)”. More than 140 million people were under heat alerts, the outlet said, with dead bodies found in “homes with no air conditioning, outside their residences, on the street and in parked cars”. Analysis by World Weather Attribution (WWA) found that the combined heat and humidity would have been…",
       "url": "https://www.carbonbrief.org/cited-7-july-2026-impossible-heat-global-ocean-record-climate-change-and-the-ozone-hole/",
       "publishedAt": "2026-07-07T14:58:43.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/3ET8HG6_1-300x200.jpg",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/cited1_1.png",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2912,29 +2934,6 @@
       "url": "https://verra.org/vote-for-verra-in-environmental-finances-2026-vcm-rankings/",
       "publishedAt": "2026-07-01T13:23:02.000Z",
       "image": "https://verra.org/wp-content/uploads/2026/06/kristaps-ungurs-owcJsiIK7UU-unsplash-scaled.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-verra-releases-results-from-second-part--2026-06-30",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Releases Results from Second Part of Quality Control Review of Kariba Project",
-      "excerpt": "Verra today released the results from the second component of its quality control review (QCR) of the Kariba REDD+ Project. This component was a safeguards-focused review that was conducted following the earlier carbon accounting review . Verra had asked the project’s validation/verification bodies (VVBs) to reassess whether the project met Verra’s safeguards-related rules and requirements at the time of the VVBs’ original assessments, considering the serious allegations raised through media reporting. The VVBs revisited their original audit work, which…",
-      "url": "https://verra.org/verra-releases-results-from-second-part-of-quality-control-review-of-kariba-project/",
-      "publishedAt": "2026-06-30T13:16:32.000Z",
-      "image": "https://verra.org/wp-content/uploads/2026/06/ivko-landscape-5053713_1920.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3177,10 +3176,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-      "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
+      "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week DD India",
       "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
       "publishedAt": "2026-06-05T07:00:00.000Z",
-      "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3188,8 +3187,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5"
       },
       "region": "india"
     },
@@ -3418,31 +3416,6 @@
       "region": "india"
     },
     {
-      "id": "verra-vcs-6046",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Toucan Forestal Panama",
-      "excerpt": "Toucan Forestal Panama is a Verified Carbon Standard (VCS) project registered on the Verra registry in Panama. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 2,523 tonnes CO₂ equivalent per year. Project proponent: Toucan Forestal Panama S.A.. Crediting period runs 2025-06-03 to 2065-06-02.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6046",
-      "publishedAt": "2026-05-28T00:00:00.000Z",
-      "image": null,
-      "country": "Panama",
-      "methodology": "VM0047",
-      "registryId": "6046",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Toucan Forestal Panama S.A.",
-        "region": "Latin America",
-        "creditingPeriodStart": "2025-06-03",
-        "creditingPeriodEnd": "2065-06-02",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6045",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3466,6 +3439,31 @@
         "program": "Verified Carbon Standard"
       },
       "region": "india"
+    },
+    {
+      "id": "verra-vcs-6046",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Toucan Forestal Panama",
+      "excerpt": "Toucan Forestal Panama is a Verified Carbon Standard (VCS) project registered on the Verra registry in Panama. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 2,523 tonnes CO₂ equivalent per year. Project proponent: Toucan Forestal Panama S.A.. Crediting period runs 2025-06-03 to 2065-06-02.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6046",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "image": null,
+      "country": "Panama",
+      "methodology": "VM0047",
+      "registryId": "6046",
+      "status": "Under development",
+      "meta": {
+        "proponent": "Toucan Forestal Panama S.A.",
+        "region": "Latin America",
+        "creditingPeriodStart": "2025-06-03",
+        "creditingPeriodEnd": "2065-06-02",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-6043",
@@ -3881,6 +3879,30 @@
       "region": "india"
     },
     {
+      "id": "google-h2-green-hydrogen-market-forecasted-to-reac-2026-02-19",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Green Hydrogen Market Forecasted to Reach USD 231.32 - GlobeNewswire",
+      "excerpt": "Automobiles and Parts News Food & Beverage News Home Goods & Construction News Leisure Goods News Media & Entertainment News Personal Care News Retail News Travel and Leisure News Energy News Alternative Energy News Oil Gas and Coal News Chemicals News Banks & Financial Services News Banking News Closed-End Investments News Finance and Credit Services News Investment Banking and Brokerage Services News Insurance News Real Estate & REITs News Healthcare News Healthcare Providers News Medical Equipment News Medical Supplies and Services News Biotechnology…",
+      "url": "https://www.globenewswire.com/news-release/2026/02/19/3241001/0/en/green-hydrogen-market-forecasted-to-reach-usd-231-32-billion-by-2035-driven-by-renewable-energy-adoption-and-policy-support.html",
+      "publishedAt": "2026-02-19T08:00:00.000Z",
+      "image": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRXFrTW54UUtQZkRBZklaOHhnTnp2ZlZDLXY5bU56MG8ySU9JdlpUQXY0dVZlc1c4SmV6UUlwUVo3dk9BcGNzV1BHS3d1S0NqeERGZFVaQ0J3czBPclFwMjB5QjhaeGo0dVkyT2E1Z0ZmRjZENVl6QzlLSVdRdVVwXzlQamZHTjZuakVxSWhDanU5UDR0Z2VjcTdreFI1dm9mVVgzOGxnVDZVc00xUWRfQk1ySHk4RlFUc0h6WW1DRUhoeWp5dkF6UlVPaGFCbXpZYnFfMzc0Z2VaU0c1OTJIQk5USzFWUWlSNkhHeFJnTzVBZ3hHT3FEbk1xcWZhcDVObXNpc2ZzcXdQb1JxdmRpbHRlSGdSQ0NodlJ6bGhzUk0?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -3975,30 +3997,6 @@
       "region": "india"
     },
     {
-      "id": "google-carbon-carbon-credit-project-developers-baulk-a-2026-01-20",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Carbon credit project developers baulk at new Gold Standard rules - edie.net",
-      "excerpt": "Dozens of companies developing carbon credit projects have asked industry standards body Gold Standard to be more lenient in its alignment with the global Paris Agreement on climate change. Join our growing army of changemakers and get access to our free content Image: Carolina Pino for Verra. Trees classed as part of a deforestation avoidance project that generates carbon credits. Gold Standard first committed to aligning its requirements with those set out under the Paris Agreement in 2021. International negotiators subsequently agreed on the…",
-      "url": "https://www.edie.net/carbon-credit-project-developers-baulk-at-new-gold-standard-rules/",
-      "publishedAt": "2026-01-20T08:00:00.000Z",
-      "image": "https://edienetlive.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/2/TreesVerraCarbon.gif",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hYOXV2Q0hBbG1uRXVLQWFNYlFTbHRvUVpuTGd0OFI0Qm43bVg3WkU3V2lEWERzQU9ZbzV2N3VHX2M5VnpnRlpOdXNmNC1FZzQwZ3czd00wU1VQbWhQVmhsdjRiRVdXaHpiMnN1N1UxcmM1eWgtMGt6WkFoVWpLLXAtUlZfczYzT3haNE1BSEbSAZwBQVVfeXFMT1ZUREJlS1YxdzBMN3N2TjVyV3RzdWo0RDNrZ0E1bENjMXVJRTlVeVRZNXl5UFI0eEZjdWlpcEYxU2ZiaDBIMzlZUTRDTWlBVGg4SHBiMkJyVDRkSGRhd1NUWWc2cHZOR0J5UWVsYXNIMUFJMnVGLTNRLXQ1Tnk3ZHNneHN2Tk1UMHZOZmJRQks4RGlsVHRRUlFzTmF5?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -4018,6 +4016,30 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-carbon-carbon-market-updates-indonesia-verra-ag-2025-10-16",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
+      "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
+      "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
+      "publishedAt": "2025-10-16T07:00:00.000Z",
+      "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -4115,30 +4137,6 @@
         "imageSource": "publisher"
       },
       "region": "world"
-    },
-    {
-      "id": "google-h2-steel-decarbonisation-in-india-institute-2023-09-14",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Steel decarbonisation in India - Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  Executive Summary  About the…",
-      "url": "https://ieefa.org/resources/steel-decarbonisation-india",
-      "publishedAt": "2023-09-14T07:00:00.000Z",
-      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2023-09/hero-graphic-jmksteel2%20%283%29.jpg?itok=lTXPD-tj",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tTUtPWEs1YmtXZ21IaGVPZnR1ZmliVVdoLVFUUndZbDlQblFxMEItT0w0ZWhyb2c5b1JwcXppOC1DNUszRXNsSUUwOUl1TlBnUWI0Qk5Vem1IRWNWMk5CY2dfV0RkZw?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     }
   ]
 }
