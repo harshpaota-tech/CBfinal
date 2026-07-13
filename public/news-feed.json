@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-13T15:40:58.268Z",
+  "fetchedAt": "2026-07-13T20:11:12.118Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 21,
     "world": 66,
     "withImages": 54,
-    "avgExcerptLength": 424,
+    "avgExcerptLength": 420,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -565,6 +565,28 @@
     ],
     "world": [
       {
+        "id": "esg-dive-microsoft-s-data-center-expansion-drove--2026-07-13",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Microsoft’s data center expansion drove 25% emissions spike in 2025: report",
+        "excerpt": "The tech giant also saw its scope 2 emissions rise sharply, after it sunsetted its use of unbundled renewable energy certificates last year.",
+        "url": "https://www.esgdive.com/news/microsofts-data-center-expansion-drove-25-emissions-spike-2025-environmental-sustainability-report/825082/",
+        "publishedAt": "2026-07-13T16:51:00.000Z",
+        "image": "https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-omv-secures-450-million-eib-backing-to-b-2026-07-13",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -627,6 +649,28 @@
         "meta": {
           "category": "Energy Transition",
           "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-ira-clean-energy-gains-mostly-on-track-d-2026-07-13",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "IRA clean energy gains mostly on track despite OBBBA, says MIT study",
+        "excerpt": "The report estimates 74% of all new clean electricity capacity that would have been added under the Inflation Reduction Act will be preserved despite Trump administration policy changes, including 82% of utility-scale solar generation.",
+        "url": "https://www.esgdive.com/news/ira-clean-energy-gains-mostly-on-track-despite-obbba-mit-report/825055/",
+        "publishedAt": "2026-07-13T14:08:01.000Z",
+        "image": "https://imgproxy.divecdn.com/paI64iC-Zbt4UtEAR_5C4UcuFn5qoxFlO1qjyQ6hvN4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9taXN0X2FuZF93aW5kLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -1209,28 +1253,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-analysts-expect-rising-ppa-prices-as-cle-2026-07-07",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Analysts expect rising PPA prices as clean energy tax credits phase out",
-        "excerpt": "That missing money has to come from somewhere to make the project pencil, and that will likely be through PPA prices, said Josh Price, director of intelligence and research at Crux.",
-        "url": "https://www.esgdive.com/news/rising-ppa-prices-anticipated-as-clean-energy-tax-credits-phase-out/824566/",
-        "publishedAt": "2026-07-07T15:30:00.000Z",
-        "image": "https://imgproxy.divecdn.com/xFQ2o-DK7Q3Aij5XGfLAvVKYAG6K8a8R6jkKfhaSmAo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjIzODMzMTk2LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-cited-7-july-2026-impossible-heat-global-2026-07-07",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1294,28 +1316,6 @@
         "meta": {
           "category": "Extreme weather",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-deutsche-bank-lufthansa-invest-in-saf-to-2026-07-06",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Deutsche Bank, Lufthansa invest in SAF to cut business travel emissions",
-        "excerpt": "The deal between the German lender and the aviation company is estimated to enable up to 5,500 metric tons of carbon dioxide emissions reductions compared to conventional jet fuel.",
-        "url": "https://www.esgdive.com/news/deutsche-bank-lufthansa-invest-in-saf-to-cut-business-travel-emissions/824498/",
-        "publishedAt": "2026-07-06T17:00:20.000Z",
-        "image": "https://imgproxy.divecdn.com/-UM2IY4xkuFDyfZqS73De29zO4JBkatx-5Z_Z1KYoZ8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTMyMzYyNjYuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -1407,6 +1407,31 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6094",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Climate Quest Wastewater Methane Avoidance and Renewable Electricity Grouped Project (Indonesia)",
+        "excerpt": "Climate Quest Wastewater Methane Avoidance and Renewable Electricity Grouped Project (Indonesia) is a Verified Carbon Standard (VCS) project registered on the Verra registry in Indonesia. The project is currently listed as \"Under development\". It applies ACM0022 methodology. Estimated annual emission reductions are 38,646 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6094",
+        "publishedAt": "2026-06-30T00:00:00.000Z",
+        "image": null,
+        "country": "Indonesia",
+        "methodology": "ACM0022",
+        "registryId": "6094",
+        "status": "Under development",
+        "meta": {
+          "proponent": "Climate Quest Sdn Bhd",
+          "region": "Asia",
+          "creditingPeriodStart": null,
+          "creditingPeriodEnd": null,
+          "program": "Verified Carbon Standard"
         },
         "region": "world"
       },
@@ -1836,31 +1861,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6023",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Mindoro Arawatan Carbon Project",
-        "excerpt": "Mindoro Arawatan Carbon Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Philippines. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 69,574 tonnes CO₂ equivalent per year. Project proponent: Wovoka Philippines Inc.. Crediting period runs 2025-10-27 to 2055-10-26.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6023",
-        "publishedAt": "2026-05-06T00:00:00.000Z",
-        "image": null,
-        "country": "Philippines",
-        "methodology": "VM0047",
-        "registryId": "6023",
-        "status": "Under development",
-        "meta": {
-          "proponent": "Wovoka Philippines Inc.",
-          "region": "Asia",
-          "creditingPeriodStart": "2025-10-27",
-          "creditingPeriodEnd": "2055-10-26",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1904,30 +1904,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-h2-green-hydrogen-market-forecasted-to-reac-2026-02-19",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Green Hydrogen Market Forecasted to Reach USD 231.32 - GlobeNewswire",
-        "excerpt": "Automobiles and Parts News Food & Beverage News Home Goods & Construction News Leisure Goods News Media & Entertainment News Personal Care News Retail News Travel and Leisure News Energy News Alternative Energy News Oil Gas and Coal News Chemicals News Banks & Financial Services News Banking News Closed-End Investments News Finance and Credit Services News Investment Banking and Brokerage Services News Insurance News Real Estate & REITs News Healthcare News Healthcare Providers News Medical Equipment News Medical Supplies and Services News Biotechnology…",
-        "url": "https://www.globenewswire.com/news-release/2026/02/19/3241001/0/en/green-hydrogen-market-forecasted-to-reach-usd-231-32-billion-by-2035-driven-by-renewable-energy-adoption-and-policy-support.html",
-        "publishedAt": "2026-02-19T08:00:00.000Z",
-        "image": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRXFrTW54UUtQZkRBZklaOHhnTnp2ZlZDLXY5bU56MG8ySU9JdlpUQXY0dVZlc1c4SmV6UUlwUVo3dk9BcGNzV1BHS3d1S0NqeERGZFVaQ0J3czBPclFwMjB5QjhaeGo0dVkyT2E1Z0ZmRjZENVl6QzlLSVdRdVVwXzlQamZHTjZuakVxSWhDanU5UDR0Z2VjcTdreFI1dm9mVVgzOGxnVDZVc00xUWRfQk1ySHk4RlFUc0h6WW1DRUhoeWp5dkF6UlVPaGFCbXpZYnFfMzc0Z2VaU0c1OTJIQk5USzFWUWlSNkhHeFJnTzVBZ3hHT3FEbk1xcWZhcDVObXNpc2ZzcXdQb1JxdmRpbHRlSGdSQ0NodlJ6bGhzUk0?oc=5",
-          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -1980,16 +1956,16 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-verra-applies-first-corsia-labels-to-vol-2026-02-02",
+        "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa - Carbon Herald",
-        "excerpt": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa Carbon Herald",
-        "url": "https://carbonherald.com/verra-applies-first-corsia-labels-to-voluntary-carbon-credits-from-africa/",
-        "publishedAt": "2026-02-02T08:00:00.000Z",
+        "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
+        "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
+        "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
+        "publishedAt": "2025-12-10T08:00:00.000Z",
         "image": null,
         "country": null,
         "methodology": null,
@@ -1998,7 +1974,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNGdzd3Q2FlTGZuMU5Wbm9iT1F3NnkwRzRGeE5Ic0x0U2lxdWMxV19ESUkzUVN2R21oZnVCZEx0TXdHcGFObUNackdvV0hYd3JVck9HbnB2Mk1kM2lXM3hoaURJVURydVlaYW1rTG9TaEdmdE9ZVUxrS0Nwa1hfX1BfYXVmTExGSFNaQkQtMU5KRTE4Rnh1TVNtbkV0SHV4?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
         },
         "region": "world"
       },
@@ -2073,6 +2049,30 @@
         "region": "world"
       },
       {
+        "id": "google-h2-opinion-is-liebreich-s-hydrogen-ladder-s-2024-12-11",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "OPINION | Is Liebreich's Hydrogen Ladder still relevant if near-unavoidable uses of H2 can be replaced by carbon offsets? - Hydrogen Insight",
+        "excerpt": "If we follow the influential analyst’s logic that CO2 offsetting is a better solution to aviation emissions than e-SAF, isn’t the same true for other use cases of clean H2? asks Keynumbers’ John Poljak",
+        "url": "https://www.hydrogeninsight.com/analysis/opinion-is-liebreichs-hydrogen-ladder-still-relevant-if-near-unavoidable-uses-of-h2-can-be-replaced-by-carbon-offsets-/2-1-1751616",
+        "publishedAt": "2024-12-11T08:00:00.000Z",
+        "image": "https://image.dngroup.com/global/nhst/binary/9b5afd6c7a3137bb194e768e9451c86e?crop=1600%2C801%2Cx0%2Cy406%2Csafe&width=1200&format=webp&quality=80",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObTJ3dFViMDlMRDJnREhRYmlIaUlUdWJqbGhtZ05DQUE5ci1iNTVTdXB1NW9KaDJNSVBZaHd2R0d1UE43SXJuLThhRjZJRDVwRWNtR29qcWl0SmxPZ3VmMVhZTnZ0OEtpMXE0VUdlS2s3cF9sV292OThXY2xvSktFSUZzVHo0ek04YVNsM2dlQjVyenBqM1JBdW0zZ0FTNkpKa2dIZHAtU3hBTmhCWkhWZlYtdjJjeUp2Z1VIa2VCcGdvREJUVWpDbUQ5NjVydmNuNVlzLVMwUHFBTnpIcHZPVThwUkJhWXlOeHR5ZW1WUVFmTEtRT2dCX1htYlB3MEZY?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2099,6 +2099,28 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-microsoft-s-data-center-expansion-drove--2026-07-13",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Microsoft’s data center expansion drove 25% emissions spike in 2025: report",
+      "excerpt": "The tech giant also saw its scope 2 emissions rise sharply, after it sunsetted its use of unbundled renewable energy certificates last year.",
+      "url": "https://www.esgdive.com/news/microsofts-data-center-expansion-drove-25-emissions-spike-2025-environmental-sustainability-report/825082/",
+      "publishedAt": "2026-07-13T16:51:00.000Z",
+      "image": "https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-omv-secures-450-million-eib-backing-to-b-2026-07-13",
       "source": "esg-today",
@@ -2162,6 +2184,28 @@
       "meta": {
         "category": "Energy Transition",
         "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-ira-clean-energy-gains-mostly-on-track-d-2026-07-13",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "POLICY",
+      "accent": "#5eead4",
+      "title": "IRA clean energy gains mostly on track despite OBBBA, says MIT study",
+      "excerpt": "The report estimates 74% of all new clean electricity capacity that would have been added under the Inflation Reduction Act will be preserved despite Trump administration policy changes, including 82% of utility-scale solar generation.",
+      "url": "https://www.esgdive.com/news/ira-clean-energy-gains-mostly-on-track-despite-obbba-mit-report/825055/",
+      "publishedAt": "2026-07-13T14:08:01.000Z",
+      "image": "https://imgproxy.divecdn.com/paI64iC-Zbt4UtEAR_5C4UcuFn5qoxFlO1qjyQ6hvN4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9taXN0X2FuZF93aW5kLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -2744,28 +2788,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-analysts-expect-rising-ppa-prices-as-cle-2026-07-07",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Analysts expect rising PPA prices as clean energy tax credits phase out",
-      "excerpt": "That missing money has to come from somewhere to make the project pencil, and that will likely be through PPA prices, said Josh Price, director of intelligence and research at Crux.",
-      "url": "https://www.esgdive.com/news/rising-ppa-prices-anticipated-as-clean-energy-tax-credits-phase-out/824566/",
-      "publishedAt": "2026-07-07T15:30:00.000Z",
-      "image": "https://imgproxy.divecdn.com/xFQ2o-DK7Q3Aij5XGfLAvVKYAG6K8a8R6jkKfhaSmAo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjIzODMzMTk2LmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-cited-7-july-2026-impossible-heat-global-2026-07-07",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2829,28 +2851,6 @@
       "meta": {
         "category": "Extreme weather",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-deutsche-bank-lufthansa-invest-in-saf-to-2026-07-06",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Deutsche Bank, Lufthansa invest in SAF to cut business travel emissions",
-      "excerpt": "The deal between the German lender and the aviation company is estimated to enable up to 5,500 metric tons of carbon dioxide emissions reductions compared to conventional jet fuel.",
-      "url": "https://www.esgdive.com/news/deutsche-bank-lufthansa-invest-in-saf-to-cut-business-travel-emissions/824498/",
-      "publishedAt": "2026-07-06T17:00:20.000Z",
-      "image": "https://imgproxy.divecdn.com/-UM2IY4xkuFDyfZqS73De29zO4JBkatx-5Z_Z1KYoZ8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTMyMzYyNjYuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -2942,6 +2942,31 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6094",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Climate Quest Wastewater Methane Avoidance and Renewable Electricity Grouped Project (Indonesia)",
+      "excerpt": "Climate Quest Wastewater Methane Avoidance and Renewable Electricity Grouped Project (Indonesia) is a Verified Carbon Standard (VCS) project registered on the Verra registry in Indonesia. The project is currently listed as \"Under development\". It applies ACM0022 methodology. Estimated annual emission reductions are 38,646 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6094",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "image": null,
+      "country": "Indonesia",
+      "methodology": "ACM0022",
+      "registryId": "6094",
+      "status": "Under development",
+      "meta": {
+        "proponent": "Climate Quest Sdn Bhd",
+        "region": "Asia",
+        "creditingPeriodStart": null,
+        "creditingPeriodEnd": null,
+        "program": "Verified Carbon Standard"
       },
       "region": "world"
     },
@@ -3416,31 +3441,6 @@
       "region": "india"
     },
     {
-      "id": "verra-vcs-6045",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd.",
-      "excerpt": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd. is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies AMS-I.F.; AMS-III.D. methodology. Estimated annual emission reductions are 12,284 tonnes CO₂ equivalent per year. Project proponent: Asvata Climate Solutions Private Limited. Crediting period runs 2025-10-15 to 2032-10-14.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6045",
-      "publishedAt": "2026-05-28T00:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": "AMS-I.F.; AMS-III.D.",
-      "registryId": "6045",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "Asvata Climate Solutions Private Limited",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-10-15",
-        "creditingPeriodEnd": "2032-10-14",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "india"
-    },
-    {
       "id": "verra-vcs-6046",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3464,6 +3464,31 @@
         "program": "Verified Carbon Standard"
       },
       "region": "world"
+    },
+    {
+      "id": "verra-vcs-6045",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd.",
+      "excerpt": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd. is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies AMS-I.F.; AMS-III.D. methodology. Estimated annual emission reductions are 12,284 tonnes CO₂ equivalent per year. Project proponent: Asvata Climate Solutions Private Limited. Crediting period runs 2025-10-15 to 2032-10-14.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6045",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": "AMS-I.F.; AMS-III.D.",
+      "registryId": "6045",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "Asvata Climate Solutions Private Limited",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-10-15",
+        "creditingPeriodEnd": "2032-10-14",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "india"
     },
     {
       "id": "verra-vcs-6043",
@@ -3688,31 +3713,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6023",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Mindoro Arawatan Carbon Project",
-      "excerpt": "Mindoro Arawatan Carbon Project is a Verified Carbon Standard (VCS) project registered on the Verra registry in Philippines. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 69,574 tonnes CO₂ equivalent per year. Project proponent: Wovoka Philippines Inc.. Crediting period runs 2025-10-27 to 2055-10-26.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6023",
-      "publishedAt": "2026-05-06T00:00:00.000Z",
-      "image": null,
-      "country": "Philippines",
-      "methodology": "VM0047",
-      "registryId": "6023",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Wovoka Philippines Inc.",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-10-27",
-        "creditingPeriodEnd": "2055-10-26",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -3879,30 +3879,6 @@
       "region": "india"
     },
     {
-      "id": "google-h2-green-hydrogen-market-forecasted-to-reac-2026-02-19",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Green Hydrogen Market Forecasted to Reach USD 231.32 - GlobeNewswire",
-      "excerpt": "Automobiles and Parts News Food & Beverage News Home Goods & Construction News Leisure Goods News Media & Entertainment News Personal Care News Retail News Travel and Leisure News Energy News Alternative Energy News Oil Gas and Coal News Chemicals News Banks & Financial Services News Banking News Closed-End Investments News Finance and Credit Services News Investment Banking and Brokerage Services News Insurance News Real Estate & REITs News Healthcare News Healthcare Providers News Medical Equipment News Medical Supplies and Services News Biotechnology…",
-      "url": "https://www.globenewswire.com/news-release/2026/02/19/3241001/0/en/green-hydrogen-market-forecasted-to-reach-usd-231-32-billion-by-2035-driven-by-renewable-energy-adoption-and-policy-support.html",
-      "publishedAt": "2026-02-19T08:00:00.000Z",
-      "image": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRXFrTW54UUtQZkRBZklaOHhnTnp2ZlZDLXY5bU56MG8ySU9JdlpUQXY0dVZlc1c4SmV6UUlwUVo3dk9BcGNzV1BHS3d1S0NqeERGZFVaQ0J3czBPclFwMjB5QjhaeGo0dVkyT2E1Z0ZmRjZENVl6QzlLSVdRdVVwXzlQamZHTjZuakVxSWhDanU5UDR0Z2VjcTdreFI1dm9mVVgzOGxnVDZVc00xUWRfQk1ySHk4RlFUc0h6WW1DRUhoeWp5dkF6UlVPaGFCbXpZYnFfMzc0Z2VaU0c1OTJIQk5USzFWUWlSNkhHeFJnTzVBZ3hHT3FEbk1xcWZhcDVObXNpc2ZzcXdQb1JxdmRpbHRlSGdSQ0NodlJ6bGhzUk0?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -3951,29 +3927,6 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-verra-applies-first-corsia-labels-to-vol-2026-02-02",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa - Carbon Herald",
-      "excerpt": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa Carbon Herald",
-      "url": "https://carbonherald.com/verra-applies-first-corsia-labels-to-voluntary-carbon-credits-from-africa/",
-      "publishedAt": "2026-02-02T08:00:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNGdzd3Q2FlTGZuMU5Wbm9iT1F3NnkwRzRGeE5Ic0x0U2lxdWMxV19ESUkzUVN2R21oZnVCZEx0TXdHcGFObUNackdvV0hYd3JVck9HbnB2Mk1kM2lXM3hoaURJVURydVlaYW1rTG9TaEdmdE9ZVUxrS0Nwa1hfX1BfYXVmTExGSFNaQkQtMU5KRTE4Rnh1TVNtbkV0SHV4?oc=5"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -3995,6 +3948,29 @@
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5"
       },
       "region": "india"
+    },
+    {
+      "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
+      "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
+      "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
+      "publishedAt": "2025-12-10T08:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
@@ -4113,6 +4089,30 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-h2-opinion-is-liebreich-s-hydrogen-ladder-s-2024-12-11",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "OPINION | Is Liebreich's Hydrogen Ladder still relevant if near-unavoidable uses of H2 can be replaced by carbon offsets? - Hydrogen Insight",
+      "excerpt": "If we follow the influential analyst’s logic that CO2 offsetting is a better solution to aviation emissions than e-SAF, isn’t the same true for other use cases of clean H2? asks Keynumbers’ John Poljak",
+      "url": "https://www.hydrogeninsight.com/analysis/opinion-is-liebreichs-hydrogen-ladder-still-relevant-if-near-unavoidable-uses-of-h2-can-be-replaced-by-carbon-offsets-/2-1-1751616",
+      "publishedAt": "2024-12-11T08:00:00.000Z",
+      "image": "https://image.dngroup.com/global/nhst/binary/9b5afd6c7a3137bb194e768e9451c86e?crop=1600%2C801%2Cx0%2Cy406%2Csafe&width=1200&format=webp&quality=80",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObTJ3dFViMDlMRDJnREhRYmlIaUlUdWJqbGhtZ05DQUE5ci1iNTVTdXB1NW9KaDJNSVBZaHd2R0d1UE43SXJuLThhRjZJRDVwRWNtR29qcWl0SmxPZ3VmMVhZTnZ0OEtpMXE0VUdlS2s3cF9sV292OThXY2xvSktFSUZzVHo0ek04YVNsM2dlQjVyenBqM1JBdW0zZ0FTNkpKa2dIZHAtU3hBTmhCWkhWZlYtdjJjeUp2Z1VIa2VCcGdvREJUVWpDbUQ5NjVydmNuNVlzLVMwUHFBTnpIcHZPVThwUkJhWXlOeHR5ZW1WUVFmTEtRT2dCX1htYlB3MEZY?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
