@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-13T04:26:34.707Z",
+  "fetchedAt": "2026-07-13T10:31:36.109Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 87,
-    "india": 21,
-    "world": 66,
+    "india": 22,
+    "world": 65,
     "withImages": 55,
-    "avgExcerptLength": 424,
+    "avgExcerptLength": 429,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -562,9 +562,55 @@
           "imageSource": "publisher"
         },
         "region": "india"
+      },
+      {
+        "id": "google-h2-steel-decarbonisation-in-india-institute-2023-09-14",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Steel decarbonisation in India - Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  Executive Summary  About the…",
+        "url": "https://ieefa.org/resources/steel-decarbonisation-india",
+        "publishedAt": "2023-09-14T07:00:00.000Z",
+        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2023-09/hero-graphic-jmksteel2%20%283%29.jpg?itok=lTXPD-tj",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tTUtPWEs1YmtXZ21IaGVPZnR1ZmliVVdoLVFUUndZbDlQblFxMEItT0w0ZWhyb2c5b1JwcXppOC1DNUszRXNsSUUwOUl1TlBnUWI0Qk5Vem1IRWNWMk5CY2dfV0RkZw?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
       }
     ],
     "world": [
+      {
+        "id": "esg-today-masdar-secures-over-5-billion-for-massiv-2026-07-13",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Masdar Secures Over $5 Billion for Massive 24/7 Clean Energy Project in UAE",
+        "excerpt": "UAE-based clean energy-focused developer Masdar announced that it has secured a $5.1 billion financing package, reaching financial close to build one of the largest solar and battery storage projects in the world, capable of delivering 1GW of continuous clean power. Described by Masdar as the world s first gigascale 24/7 renewable energy project, the new Abu Dhabi-based RTC project will include a 5.2GW solar photovoltaic (PV) plant with a 19 gigawatt-hour (GWh) battery energy storage system (BESS), enabling the delivery of 1 GW f continuous baseload…",
+        "url": "https://www.esgtoday.com/masdar-secures-over-5-billion-for-massive-24-7-clean-energy-project-in-uae/?utm_source=rss utm_medium=rss utm_campaign=masdar-secures-over-5-billion-for-massive-24-7-clean-energy-project-in-uae",
+        "publishedAt": "2026-07-13T08:42:33.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Masdar.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-esg-today-week-in-review-2026-07-12",
         "source": "esg-today",
@@ -1020,28 +1066,6 @@
         "url": "https://www.esgtoday.com/totalenergies-divests-its-distributed-solar-business-in-europe-to-focus-on-utility-scale-renewables/?utm_source=rss utm_medium=rss utm_campaign=totalenergies-divests-its-distributed-solar-business-in-europe-to-focus-on-utility-scale-renewables",
         "publishedAt": "2026-07-09T09:33:30.000Z",
         "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/TotalEnergies.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-what-manufacturers-and-suppliers-need-to-2026-07-09",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "What Manufacturers and Suppliers Need to Know About SBTi’s V2.0 Updates",
-        "excerpt": "Although the SBTi s V2.0 standard is more complicated than its predecessor, it is this complexity, the guardrails of integrity criteria which allow for a more practical and flexible approach. And, as many companies struggled to meet goals under the V.1 standard despite best efforts, it was critical for the SBTi to introduce more options to achieve the same outcomes and avoid becoming irrelevant. The new standard also aligns with the draft ISO 14060 standard, providing a consistent definition for credible net-zero goals, which is important. The 100-page…",
-        "url": "https://www.esgtoday.com/what-manufacturers-and-suppliers-need-to-know-about-sbtis-v2-0-updates/?utm_source=rss utm_medium=rss utm_campaign=what-manufacturers-and-suppliers-need-to-know-about-sbtis-v2-0-updates",
-        "publishedAt": "2026-07-09T08:40:42.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Secaro-Wise.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1957,6 +1981,29 @@
         "region": "world"
       },
       {
+        "id": "google-carbon-verra-applies-first-corsia-labels-to-vol-2026-02-02",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa - Carbon Herald",
+        "excerpt": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa Carbon Herald",
+        "url": "https://carbonherald.com/verra-applies-first-corsia-labels-to-voluntary-carbon-credits-from-africa/",
+        "publishedAt": "2026-02-02T08:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNGdzd3Q2FlTGZuMU5Wbm9iT1F3NnkwRzRGeE5Ic0x0U2lxdWMxV19ESUkzUVN2R21oZnVCZEx0TXdHcGFObUNackdvV0hYd3JVck9HbnB2Mk1kM2lXM3hoaURJVURydVlaYW1rTG9TaEdmdE9ZVUxrS0Nwa1hfX1BfYXVmTExGSFNaQkQtMU5KRTE4Rnh1TVNtbkV0SHV4?oc=5"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-carbon-credit-project-developers-baulk-a-2026-01-20",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1977,29 +2024,6 @@
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hYOXV2Q0hBbG1uRXVLQWFNYlFTbHRvUVpuTGd0OFI0Qm43bVg3WkU3V2lEWERzQU9ZbzV2N3VHX2M5VnpnRlpOdXNmNC1FZzQwZ3czd00wU1VQbWhQVmhsdjRiRVdXaHpiMnN1N1UxcmM1eWgtMGt6WkFoVWpLLXAtUlZfczYzT3haNE1BSEbSAZwBQVVfeXFMT1ZUREJlS1YxdzBMN3N2TjVyV3RzdWo0RDNrZ0E1bENjMXVJRTlVeVRZNXl5UFI0eEZjdWlpcEYxU2ZiaDBIMzlZUTRDTWlBVGg4SHBiMkJyVDRkSGRhd1NUWWc2cHZOR0J5UWVsYXNIMUFJMnVGLTNRLXQ1Tnk3ZHNneHN2Tk1UMHZOZmJRQks4RGlsVHRRUlFzTmF5?oc=5",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
-        "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
-        "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
-        "publishedAt": "2025-12-10T08:00:00.000Z",
-        "image": null,
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
         },
         "region": "world"
       },
@@ -2050,30 +2074,6 @@
         "region": "world"
       },
       {
-        "id": "google-h2-more-than-500-clean-hydrogen-projects-ha-2025-09-09",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "More than 500 clean hydrogen projects have passed a final investment decision: Hydrogen Council - Hydrogen Insight",
-        "excerpt": "More than 500 clean hydrogen projects have passed a final investment decision: Hydrogen Council Hydrogen Insight",
-        "url": "https://www.hydrogeninsight.com/production/more-than-500-clean-hydrogen-projects-have-passed-a-final-investment-decision-hydrogen-council/2-1-1869351",
-        "publishedAt": "2025-09-09T07:00:00.000Z",
-        "image": "https://image.dngroup.com/global/nhst/binary/e98f58bee37f7ba91c55ed3d21e40388?crop=1380%2C690%2Cx0%2Cy86%2Csafe&width=1200&format=webp&quality=80",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVnU0U1BVeXFlRl9IZXRuOHVSLWRpUDk3Y0ZQS0QxdkJfdVM4YTBGTVpZTkttMHZCc2h0VER2VFFtazNCdE5sVEU3RWJObm45TWMweXFlMTFtVjFOQXNqbkxLRm50S056TllpTkx4RGlEUXpIaWlTc1kwU214eHFON3h3Zkd5RU9PTGFVMkwwVlhSa3UwbFVOOHIzVlVxSElhUDY3X1B3OTVmQmhvdjV0dmFqTENEVHZrd0lERFRQbDJObmJFMXNoMHdWWFVyMENlTDAzQWNJRGVyc1FpWmdDUlJNbw?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2100,6 +2100,28 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-masdar-secures-over-5-billion-for-massiv-2026-07-13",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Masdar Secures Over $5 Billion for Massive 24/7 Clean Energy Project in UAE",
+      "excerpt": "UAE-based clean energy-focused developer Masdar announced that it has secured a $5.1 billion financing package, reaching financial close to build one of the largest solar and battery storage projects in the world, capable of delivering 1GW of continuous clean power. Described by Masdar as the world s first gigascale 24/7 renewable energy project, the new Abu Dhabi-based RTC project will include a 5.2GW solar photovoltaic (PV) plant with a 19 gigawatt-hour (GWh) battery energy storage system (BESS), enabling the delivery of 1 GW f continuous baseload…",
+      "url": "https://www.esgtoday.com/masdar-secures-over-5-billion-for-massive-24-7-clean-energy-project-in-uae/?utm_source=rss utm_medium=rss utm_campaign=masdar-secures-over-5-billion-for-massive-24-7-clean-energy-project-in-uae",
+      "publishedAt": "2026-07-13T08:42:33.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Masdar.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-esg-today-week-in-review-2026-07-12",
       "source": "esg-today",
@@ -2555,28 +2577,6 @@
       "url": "https://www.esgtoday.com/totalenergies-divests-its-distributed-solar-business-in-europe-to-focus-on-utility-scale-renewables/?utm_source=rss utm_medium=rss utm_campaign=totalenergies-divests-its-distributed-solar-business-in-europe-to-focus-on-utility-scale-renewables",
       "publishedAt": "2026-07-09T09:33:30.000Z",
       "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/TotalEnergies.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-what-manufacturers-and-suppliers-need-to-2026-07-09",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "What Manufacturers and Suppliers Need to Know About SBTi’s V2.0 Updates",
-      "excerpt": "Although the SBTi s V2.0 standard is more complicated than its predecessor, it is this complexity, the guardrails of integrity criteria which allow for a more practical and flexible approach. And, as many companies struggled to meet goals under the V.1 standard despite best efforts, it was critical for the SBTi to introduce more options to achieve the same outcomes and avoid becoming irrelevant. The new standard also aligns with the draft ISO 14060 standard, providing a consistent definition for credible net-zero goals, which is important. The 100-page…",
-      "url": "https://www.esgtoday.com/what-manufacturers-and-suppliers-need-to-know-about-sbtis-v2-0-updates/?utm_source=rss utm_medium=rss utm_campaign=what-manufacturers-and-suppliers-need-to-know-about-sbtis-v2-0-updates",
-      "publishedAt": "2026-07-09T08:40:42.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Secaro-Wise.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3418,31 +3418,6 @@
       "region": "india"
     },
     {
-      "id": "verra-vcs-6045",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd.",
-      "excerpt": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd. is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies AMS-I.F.; AMS-III.D. methodology. Estimated annual emission reductions are 12,284 tonnes CO₂ equivalent per year. Project proponent: Asvata Climate Solutions Private Limited. Crediting period runs 2025-10-15 to 2032-10-14.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6045",
-      "publishedAt": "2026-05-28T00:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": "AMS-I.F.; AMS-III.D.",
-      "registryId": "6045",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "Asvata Climate Solutions Private Limited",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-10-15",
-        "creditingPeriodEnd": "2032-10-14",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "india"
-    },
-    {
       "id": "verra-vcs-6046",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3466,6 +3441,31 @@
         "program": "Verified Carbon Standard"
       },
       "region": "world"
+    },
+    {
+      "id": "verra-vcs-6045",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd.",
+      "excerpt": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd. is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies AMS-I.F.; AMS-III.D. methodology. Estimated annual emission reductions are 12,284 tonnes CO₂ equivalent per year. Project proponent: Asvata Climate Solutions Private Limited. Crediting period runs 2025-10-15 to 2032-10-14.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6045",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": "AMS-I.F.; AMS-III.D.",
+      "registryId": "6045",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "Asvata Climate Solutions Private Limited",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-10-15",
+        "creditingPeriodEnd": "2032-10-14",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "india"
     },
     {
       "id": "verra-vcs-6043",
@@ -3929,6 +3929,29 @@
       "region": "world"
     },
     {
+      "id": "google-carbon-verra-applies-first-corsia-labels-to-vol-2026-02-02",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa - Carbon Herald",
+      "excerpt": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa Carbon Herald",
+      "url": "https://carbonherald.com/verra-applies-first-corsia-labels-to-voluntary-carbon-credits-from-africa/",
+      "publishedAt": "2026-02-02T08:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNGdzd3Q2FlTGZuMU5Wbm9iT1F3NnkwRzRGeE5Ic0x0U2lxdWMxV19ESUkzUVN2R21oZnVCZEx0TXdHcGFObUNackdvV0hYd3JVck9HbnB2Mk1kM2lXM3hoaURJVURydVlaYW1rTG9TaEdmdE9ZVUxrS0Nwa1hfX1BfYXVmTExGSFNaQkQtMU5KRTE4Rnh1TVNtbkV0SHV4?oc=5"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -3976,29 +3999,6 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-verra-rolls-out-first-high-integrity-for-2025-12-10",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology - Carbon Herald",
-      "excerpt": "Verra Rolls Out First High-Integrity Forest Carbon Credits Under New Methodology Carbon Herald",
-      "url": "https://carbonherald.com/verra-high-integrity-forest-carbon-credits-methodology/",
-      "publishedAt": "2025-12-10T08:00:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORF9lbTBzUTR3ZHpSNHo5aDJ3UWxDNmM5THNIUXZIb294TUVOYlduZnhRY1VVQl9NTnR3RWhWT1JZdHNjUE1ZWV9JSk1QbmpnTWpKMFB6YlhxbkhfcmFZNW1uZFB0d0s2ODRGNnFFaV9kcGJwNnowLXdrbkZDMzFRUTZlWDk3OG8?oc=5"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -4041,30 +4041,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-h2-more-than-500-clean-hydrogen-projects-ha-2025-09-09",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "More than 500 clean hydrogen projects have passed a final investment decision: Hydrogen Council - Hydrogen Insight",
-      "excerpt": "More than 500 clean hydrogen projects have passed a final investment decision: Hydrogen Council Hydrogen Insight",
-      "url": "https://www.hydrogeninsight.com/production/more-than-500-clean-hydrogen-projects-have-passed-a-final-investment-decision-hydrogen-council/2-1-1869351",
-      "publishedAt": "2025-09-09T07:00:00.000Z",
-      "image": "https://image.dngroup.com/global/nhst/binary/e98f58bee37f7ba91c55ed3d21e40388?crop=1380%2C690%2Cx0%2Cy86%2Csafe&width=1200&format=webp&quality=80",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVnU0U1BVeXFlRl9IZXRuOHVSLWRpUDk3Y0ZQS0QxdkJfdVM4YTBGTVpZTkttMHZCc2h0VER2VFFtazNCdE5sVEU3RWJObm45TWMweXFlMTFtVjFOQXNqbkxLRm50S056TllpTkx4RGlEUXpIaWlTc1kwU214eHFON3h3Zkd5RU9PTGFVMkwwVlhSa3UwbFVOOHIzVlVxSElhUDY3X1B3OTVmQmhvdjV0dmFqTENEVHZrd0lERFRQbDJObmJFMXNoMHdWWFVyMENlTDAzQWNJRGVyc1FpWmdDUlJNbw?oc=5",
-        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -4139,6 +4115,30 @@
         "imageSource": "publisher"
       },
       "region": "world"
+    },
+    {
+      "id": "google-h2-steel-decarbonisation-in-india-institute-2023-09-14",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Steel decarbonisation in India - Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  Executive Summary  About the…",
+      "url": "https://ieefa.org/resources/steel-decarbonisation-india",
+      "publishedAt": "2023-09-14T07:00:00.000Z",
+      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2023-09/hero-graphic-jmksteel2%20%283%29.jpg?itok=lTXPD-tj",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tTUtPWEs1YmtXZ21IaGVPZnR1ZmliVVdoLVFUUndZbDlQblFxMEItT0w0ZWhyb2c5b1JwcXppOC1DNUszRXNsSUUwOUl1TlBnUWI0Qk5Vem1IRWNWMk5CY2dfV0RkZw?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     }
   ]
 }
