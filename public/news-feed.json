@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-12T20:04:40.639Z",
+  "fetchedAt": "2026-07-13T04:26:34.707Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 21,
     "world": 66,
     "withImages": 55,
-    "avgExcerptLength": 429,
+    "avgExcerptLength": 424,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -1909,30 +1909,6 @@
         "region": "world"
       },
       {
-        "id": "google-h2-green-hydrogen-market-forecasted-to-reac-2026-02-19",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Green Hydrogen Market Forecasted to Reach USD 231.32 - GlobeNewswire",
-        "excerpt": "Automobiles and Parts News Food & Beverage News Home Goods & Construction News Leisure Goods News Media & Entertainment News Personal Care News Retail News Travel and Leisure News Energy News Alternative Energy News Oil Gas and Coal News Chemicals News Banks & Financial Services News Banking News Closed-End Investments News Finance and Credit Services News Investment Banking and Brokerage Services News Insurance News Real Estate & REITs News Healthcare News Healthcare Providers News Medical Equipment News Medical Supplies and Services News Biotechnology…",
-        "url": "https://www.globenewswire.com/news-release/2026/02/19/3241001/0/en/green-hydrogen-market-forecasted-to-reach-usd-231-32-billion-by-2035-driven-by-renewable-energy-adoption-and-policy-support.html",
-        "publishedAt": "2026-02-19T08:00:00.000Z",
-        "image": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRXFrTW54UUtQZkRBZklaOHhnTnp2ZlZDLXY5bU56MG8ySU9JdlpUQXY0dVZlc1c4SmV6UUlwUVo3dk9BcGNzV1BHS3d1S0NqeERGZFVaQ0J3czBPclFwMjB5QjhaeGo0dVkyT2E1Z0ZmRjZENVl6QzlLSVdRdVVwXzlQamZHTjZuakVxSWhDanU5UDR0Z2VjcTdreFI1dm9mVVgzOGxnVDZVc00xUWRfQk1ySHk4RlFUc0h6WW1DRUhoeWp5dkF6UlVPaGFCbXpZYnFfMzc0Z2VaU0c1OTJIQk5USzFWUWlSNkhHeFJnTzVBZ3hHT3FEbk1xcWZhcDVObXNpc2ZzcXdQb1JxdmRpbHRlSGdSQ0NodlJ6bGhzUk0?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2070,6 +2046,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-h2-more-than-500-clean-hydrogen-projects-ha-2025-09-09",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "More than 500 clean hydrogen projects have passed a final investment decision: Hydrogen Council - Hydrogen Insight",
+        "excerpt": "More than 500 clean hydrogen projects have passed a final investment decision: Hydrogen Council Hydrogen Insight",
+        "url": "https://www.hydrogeninsight.com/production/more-than-500-clean-hydrogen-projects-have-passed-a-final-investment-decision-hydrogen-council/2-1-1869351",
+        "publishedAt": "2025-09-09T07:00:00.000Z",
+        "image": "https://image.dngroup.com/global/nhst/binary/e98f58bee37f7ba91c55ed3d21e40388?crop=1380%2C690%2Cx0%2Cy86%2Csafe&width=1200&format=webp&quality=80",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVnU0U1BVeXFlRl9IZXRuOHVSLWRpUDk3Y0ZQS0QxdkJfdVM4YTBGTVpZTkttMHZCc2h0VER2VFFtazNCdE5sVEU3RWJObm45TWMweXFlMTFtVjFOQXNqbkxLRm50S056TllpTkx4RGlEUXpIaWlTc1kwU214eHFON3h3Zkd5RU9PTGFVMkwwVlhSa3UwbFVOOHIzVlVxSElhUDY3X1B3OTVmQmhvdjV0dmFqTENEVHZrd0lERFRQbDJObmJFMXNoMHdWWFVyMENlTDAzQWNJRGVyc1FpWmdDUlJNbw?oc=5",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -3881,30 +3881,6 @@
       "region": "india"
     },
     {
-      "id": "google-h2-green-hydrogen-market-forecasted-to-reac-2026-02-19",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Green Hydrogen Market Forecasted to Reach USD 231.32 - GlobeNewswire",
-      "excerpt": "Automobiles and Parts News Food & Beverage News Home Goods & Construction News Leisure Goods News Media & Entertainment News Personal Care News Retail News Travel and Leisure News Energy News Alternative Energy News Oil Gas and Coal News Chemicals News Banks & Financial Services News Banking News Closed-End Investments News Finance and Credit Services News Investment Banking and Brokerage Services News Insurance News Real Estate & REITs News Healthcare News Healthcare Providers News Medical Equipment News Medical Supplies and Services News Biotechnology…",
-      "url": "https://www.globenewswire.com/news-release/2026/02/19/3241001/0/en/green-hydrogen-market-forecasted-to-reach-usd-231-32-billion-by-2035-driven-by-renewable-energy-adoption-and-policy-support.html",
-      "publishedAt": "2026-02-19T08:00:00.000Z",
-      "image": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRXFrTW54UUtQZkRBZklaOHhnTnp2ZlZDLXY5bU56MG8ySU9JdlpUQXY0dVZlc1c4SmV6UUlwUVo3dk9BcGNzV1BHS3d1S0NqeERGZFVaQ0J3czBPclFwMjB5QjhaeGo0dVkyT2E1Z0ZmRjZENVl6QzlLSVdRdVVwXzlQamZHTjZuakVxSWhDanU5UDR0Z2VjcTdreFI1dm9mVVgzOGxnVDZVc00xUWRfQk1ySHk4RlFUc0h6WW1DRUhoeWp5dkF6UlVPaGFCbXpZYnFfMzc0Z2VaU0c1OTJIQk5USzFWUWlSNkhHeFJnTzVBZ3hHT3FEbk1xcWZhcDVObXNpc2ZzcXdQb1JxdmRpbHRlSGdSQ0NodlJ6bGhzUk0?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -4065,6 +4041,30 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-h2-more-than-500-clean-hydrogen-projects-ha-2025-09-09",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "More than 500 clean hydrogen projects have passed a final investment decision: Hydrogen Council - Hydrogen Insight",
+      "excerpt": "More than 500 clean hydrogen projects have passed a final investment decision: Hydrogen Council Hydrogen Insight",
+      "url": "https://www.hydrogeninsight.com/production/more-than-500-clean-hydrogen-projects-have-passed-a-final-investment-decision-hydrogen-council/2-1-1869351",
+      "publishedAt": "2025-09-09T07:00:00.000Z",
+      "image": "https://image.dngroup.com/global/nhst/binary/e98f58bee37f7ba91c55ed3d21e40388?crop=1380%2C690%2Cx0%2Cy86%2Csafe&width=1200&format=webp&quality=80",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVnU0U1BVeXFlRl9IZXRuOHVSLWRpUDk3Y0ZQS0QxdkJfdVM4YTBGTVpZTkttMHZCc2h0VER2VFFtazNCdE5sVEU3RWJObm45TWMweXFlMTFtVjFOQXNqbkxLRm50S056TllpTkx4RGlEUXpIaWlTc1kwU214eHFON3h3Zkd5RU9PTGFVMkwwVlhSa3UwbFVOOHIzVlVxSElhUDY3X1B3OTVmQmhvdjV0dmFqTENEVHZrd0lERFRQbDJObmJFMXNoMHdWWFVyMENlTDAzQWNJRGVyc1FpWmdDUlJNbw?oc=5",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
