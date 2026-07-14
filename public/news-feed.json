@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-14T14:46:23.312Z",
+  "fetchedAt": "2026-07-14T20:07:25.472Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,8 +45,8 @@
   ],
   "stats": {
     "total": 87,
-    "india": 21,
-    "world": 66,
+    "india": 23,
+    "world": 64,
     "withImages": 56,
     "avgExcerptLength": 430,
     "verra": 10,
@@ -55,6 +55,28 @@
   },
   "sections": {
     "india": [
+      {
+        "id": "esg-dive-shell-sells-india-based-renewables-busin-2026-07-14",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Shell sells India-based renewables business for $1.8B",
+        "excerpt": "The energy giant will sell its stake in Sprng Energy to Aditya Birla Renewables, which counts the BlackRock-owned Global Infrastructure Partners as a minority owner.",
+        "url": "https://www.esgdive.com/news/shell-sells-india-based-renewables-business-for-18b/825198/",
+        "publishedAt": "2026-07-14T16:39:00.000Z",
+        "image": "https://imgproxy.divecdn.com/-HGKRweE9i1Y-oZi3HbF5NSXUnyPBpWxeN5Le0GTs0I/g:nowe:0:27/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTQ2MTY0LmpwZw==.webp",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "india"
+      },
       {
         "id": "esg-today-shell-sells-80-of-its-renewable-energy-p-2026-07-14",
         "source": "esg-today",
@@ -102,25 +124,25 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-s-carbon-credit-trading-scheme-a-s-2026-07-03",
+        "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India's Carbon Credit Trading Scheme: A strong start, critical design choices ahead - Institute for Energy Economics and Financial Analysis (IEEFA)",
-        "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language Decarbonization Energy Transition &…",
-        "url": "https://ieefa.org/articles/indias-carbon-credit-trading-scheme-strong-start-critical-design-choices-ahead",
-        "publishedAt": "2026-07-03T07:00:00.000Z",
-        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
-        "country": "India",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - The Quint",
+        "excerpt": "Become a Member Dark Mode Become a Member Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take My Report Opinion Members Only Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy Policy ADVERTISEMENT REMOVE AD…",
+        "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
+        "publishedAt": "2026-06-25T07:14:47.000Z",
+        "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
+        "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTlicVN3VGw3eTQ1V2xzOS0zWnc2QlhQU1lpM3ppUDVYeHB0UGxFWDB3ZDNCRDh1SHlxSHh4cjZ0bk1ZU0RzUDdSN0dELVlxWHhVRU9nSzdaeWRraDYycFF2UzRjLUFIcmlGblNYODFDU010U2tGQzdKRUZlX1BMZ2VRbXpYeEpzNy1oNjVrNmZjV3ZZQkpnWWZpTUZ0ZHVYWDUyMXpDUU0?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -561,9 +583,143 @@
           "imageSource": "publisher"
         },
         "region": "india"
+      },
+      {
+        "id": "google-h2-knowledge-nugget-what-you-must-know-abou-2025-08-20",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam - The Indian Express",
+        "excerpt": "Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Here’s your UPSC Current Affairs knowledge nugget for today on India’s Green hydrogen plants. Claiming that “a big step has been taken today”, Uttar Pradesh Chief Minister Yogi Adityanath on Sunday inaugurated the state’s first green hydrogen plant in Gorakhpur, with the project aiming to produce 72,000 tonnes of green fuel in a year. In this context, let’s learn about India’s green hydrogen plants and the significance of hydrogen as a fuel.…",
+        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-indias-green-hydrogen-plants-upsc-exam-10198700/",
+        "publishedAt": "2025-08-20T07:00:00.000Z",
+        "image": "https://images.indianexpress.com/2025/08/Knowledge-Nugget-Indias-Green-hydrogen-plants.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-new-york-becomes-first-state-to-impose-m-2026-07-14",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "New York becomes first state to impose moratorium on data center development",
+        "excerpt": "During this one-year pause, the state seeks to create a regulatory framework that will evaluate and address how data centers impact the environment, energy use and more.",
+        "url": "https://www.esgdive.com/news/new-york-becomes-first-state-to-impose-moratorium-on-data-center-development/825202/",
+        "publishedAt": "2026-07-14T16:38:11.000Z",
+        "image": "https://imgproxy.divecdn.com/vyLSqOVgzAH-SsbuECo3CFZRUNmWJ3Q5IeNtqRWqgNs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzM2MTIxMzMzLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-pepsico-improves-sustainable-sourcing-de-2026-07-14",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "PepsiCo improves sustainable sourcing, delays emissions reporting",
+        "excerpt": "The company reported a four percentage point increase in sustainably sourced ingredients in 2025 but will release Scope 3 emissions metrics later this summer.",
+        "url": "https://www.esgdive.com/news/pepsico-improves-sustainable-sourcing-delays-emissions-reporting/825155/",
+        "publishedAt": "2026-07-14T16:20:00.000Z",
+        "image": "https://imgproxy.divecdn.com/0lcIMvaQDIK9K2IcQgwLaLyGZU0q3PVlDNtBUVLHOk0/g:nowe:0:251/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQwMTYyMTEyLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-dac-carbon-removal-provider-airhive-acqu-2026-07-14",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "DAC Carbon Removal Provider Airhive Acquires Competitor Carbyon",
+        "excerpt": "UK-based direct air capture (DAC) technology company Airhive announced that it has acquired Dutch DAC developer Carbyon, in an agreement aimed at creating a European DAC leader with enhanced technology capabilities and a stronger position to deploy low-cost carbon removal solutions at scale. The companies said that the agreement comes amidst favorable regulatory environment, with DAC recently certified under the EU’s Carbon Removal and Carbon Farming (CRCF) framework and the UK government planning to integrate DAC-based credits into its Emissions…",
+        "url": "https://www.esgtoday.com/dac-carbon-removal-provider-airhive-acquires-competitor-carbyon/?utm_source=rss utm_medium=rss utm_campaign=dac-carbon-removal-provider-airhive-acquires-competitor-carbyon",
+        "publishedAt": "2026-07-14T15:11:28.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Airhive2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-28-quotes-from-next-uk-leader-andy-burnh-2026-07-14",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "28 quotes from next UK leader Andy Burnham on climate, net-zero and fossil fuels",
+        "excerpt": "The UK’s incoming prime minister Andy Burnham has remained tight-lipped on his views on climate change during his leadership campaign. When asked his views on reversing Labour’s manifesto pledge to stop new North Sea drilling in June – a move that the oil-and-gas industry and right-wing media have pushed for in recent months – he said he had “something of an open mind” on the issue. But a trawl of Burnham’s past comments about climate change, net-zero and fossil fuels reveals a different picture. Just a year ago in June 2025, Burnham, while mayor of…",
+        "url": "https://www.carbonbrief.org/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels/",
+        "publishedAt": "2026-07-14T14:43:57.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/unnamed-1024x682.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "UK policy",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-deloitte-launches-new-framework-to-measu-2026-07-14",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Deloitte Launches New Framework to Measure Value of Sustainability Investments",
+        "excerpt": "Global professional services firm Deloitte announced the launch of Sustainability Fusion, a new framework and toolset aimed at enabling companies to measure and communicate the financial value of sustainability investments. According to Deloitte, the new solution comes as many organizations face a challenge in fully aligning their sustainability goals with financial performance, and often need a clearer way to translate environmental impact into traditional financial metrics, as they face increased expectations to quantify how sustainability initiatives…",
+        "url": "https://www.esgtoday.com/deloitte-launches-new-solution-to-enable-companies-to-measure-value-of-sustainability-investments/?utm_source=rss utm_medium=rss utm_campaign=deloitte-launches-new-solution-to-enable-companies-to-measure-value-of-sustainability-investments",
+        "publishedAt": "2026-07-14T14:37:43.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Deloitte-2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "verra-verra-publishes-minor-revision-to-rice-m-2026-07-14",
         "source": "verra",
@@ -572,7 +728,7 @@
         "tag": "VERRA",
         "accent": "#86efac",
         "title": "Verra Publishes Minor Revision to Rice Methodology (VM0051)",
-        "excerpt": "Verra has released a revised version (v1.1) of VM0051 Improved Management for in Rice Production Systems in the Verified Carbon Standard (VCS) Program . This constitutes a minor revision to VM0051, v1.0 . VM0051 applies to projects implementing improved water and crop management practices in flooded rice systems to reduce greenhouse gas emissions. The revisions are intended to clarify methodology requirements, align the methodology with current VCS Program rules and requirements following the launch of version 5 , and refine guidance for project area…",
+        "excerpt": "Verra has released a revised version (v1.1) of VM0051 Improved Management in Rice Production Systems in the Verified Carbon Standard (VCS) Program . This constitutes a minor revision to VM0051, v1.0 . VM0051 applies to projects implementing improved water and crop management practices in flooded rice systems to reduce greenhouse gas emissions. The revisions are intended to clarify methodology requirements, align the methodology with current VCS Program rules and requirements following the launch of version 5 , and refine guidance for project area…",
         "url": "https://verra.org/verra-publishes-minor-revision-to-rice-methodology-vm0051/",
         "publishedAt": "2026-07-14T14:34:17.000Z",
         "image": "https://verra.org/wp-content/uploads/2026/07/pexels-aphy-9856-scaled-e1784038535100.jpg",
@@ -610,13 +766,13 @@
         "region": "world"
       },
       {
-        "id": "esg-today-korea-significantly-expands-number-of-co-2026-07-14",
+        "id": "esg-today-korea-expands-mandatory-sustainability-r-2026-07-14",
         "source": "esg-today",
         "sourceName": "ESG Today",
         "type": "esg",
         "tag": "ESG",
         "accent": "#60a5fa",
-        "title": "Korea Significantly Expands Number of Companies Under Mandatory Sustainability Reporting Rules",
+        "title": "Korea Expands Mandatory Sustainability Reporting to More Companies",
         "excerpt": "Korea’s Financial Services Commission (FSC) announced the release of its finalized roadmap for sustainability (ESG) disclosure, significantly expanding the number of companies that will be required to provide ISSB-aligned sustainability reporting compared to its initial plan . According to the FSC, the decision to increase the number of companies under its mandatory sustainability reporting regime followed requests from institutional investors to expand the scope of the requirements, “considering the usefulness of sustainability disclosure data for…",
         "url": "https://www.esgtoday.com/korea-significantly-expands-mandatory-sustainability-reporting-requirements/?utm_source=rss utm_medium=rss utm_campaign=korea-significantly-expands-mandatory-sustainability-reporting-requirements",
         "publishedAt": "2026-07-14T12:56:17.000Z",
@@ -805,50 +961,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-masdar-secures-over-5-billion-for-massiv-2026-07-13",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Masdar Secures Over $5 Billion for Massive 24/7 Clean Energy Project in UAE",
-        "excerpt": "UAE-based clean energy-focused developer Masdar announced that it has secured a $5.1 billion financing package, reaching financial close to build one of the largest solar and battery storage projects in the world, capable of delivering 1GW of continuous clean power. Described by Masdar as the world s first gigascale 24/7 renewable energy project, the new Abu Dhabi-based RTC project will include a 5.2GW solar photovoltaic (PV) plant with a 19 gigawatt-hour (GWh) battery energy storage system (BESS), enabling the delivery of 1 GW of continuous baseload…",
-        "url": "https://www.esgtoday.com/masdar-secures-over-5-billion-for-massive-24-7-clean-energy-project-in-uae/?utm_source=rss utm_medium=rss utm_campaign=masdar-secures-over-5-billion-for-massive-24-7-clean-energy-project-in-uae",
-        "publishedAt": "2026-07-13T08:42:33.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Masdar.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-esg-today-week-in-review-2026-07-12",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "ESG Today: Week in Review",
-        "excerpt": "This week in ESG news: EU Commission adopts finalized CSRD and voluntary sustainability reporting standards; Google, McKinsey, Tencent sign large-scale nature-based carbon removal deals; 3M’s new Chief Sustainability Officer; EU lawmakers vote to expand CBAM carbon import tax; Canada looks to include oil and gas-related investment in sustainable finance taxonomy; Starbucks says it is “reassessing” its 2030 climate target; ECB integrates climate risk into collateral framework; EthiFinance, ESG Book merge to form ESG & credit ratings “champion”; Deutsche…",
-        "url": "https://www.esgtoday.com/esg-today-week-in-review-269/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-269",
-        "publishedAt": "2026-07-12T08:28:20.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Wind-Austria.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG News",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1165,28 +1277,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-environmental-groups-sue-epa-over-us-ste-2026-07-08",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Environmental groups sue EPA over US Steel air permit",
-        "excerpt": "They are seeking a court order requiring the agency to grant or deny a clean air petition filed 10 months ago related to one of the largest steel mills in North America.",
-        "url": "https://www.esgdive.com/news/environmental-groups-sue-epa-over-us-steel-gary-works-air-permit-indiana/824700/",
-        "publishedAt": "2026-07-08T15:51:00.000Z",
-        "image": "https://imgproxy.divecdn.com/ZvNuvduqQeH2RYEfVQi0mcULvFs-nC-mn66pn7K2gRc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QbGFudF9FbXBsb3llZXMuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-verra-launches-resource-for-cookstove-me-2026-07-07",
         "source": "verra",
         "sourceName": "Verra",
@@ -1206,50 +1296,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-ev-transition-challenges-auto-supply-cha-2026-07-07",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EV transition challenges auto supply chain resilience, Moody’s says",
-        "excerpt": "Legacy automakers have the added complexity of having to run different supply chains, for ICE, hybrid and EV powertrains.",
-        "url": "https://www.esgdive.com/news/ev-transition-challenges-auto-supply-chain-resilience-moodys-says/824948/",
-        "publishedAt": "2026-07-07T16:28:00.000Z",
-        "image": "https://imgproxy.divecdn.com/--2mNr43uurbxoELE6Som48pydUz6N0f74OHW13q-V8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Ub3lvdGFBdXJpc0h5YnJpZEJ1cm5hc3RvblVLLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-walmart-signs-nuclear-ppa-with-constella-2026-07-07",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Walmart signs nuclear PPA with Constellation to support Illinois operations",
-        "excerpt": "The companies said the deal marks Walmart s first nuclear power purchase agreement and is among the first of its kind between a large retailer and a nuclear energy facility in the United States.",
-        "url": "https://www.esgdive.com/news/walmart-signs-176-mw-nuclear-ppa-with-constellation-to-support-illinois-operations/824600/",
-        "publishedAt": "2026-07-07T15:59:00.000Z",
-        "image": "https://imgproxy.divecdn.com/dpiVgKtlIMKJFC4tCdas8ADiOeoCJE5WEtYsN5tMbSw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU5Nzg0MzIwLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -1363,28 +1409,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-debriefed-3-july-2026-us-faces-scorching-2026-07-03",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "DeBriefed 3 July 2026: US faces scorching Independence Day Record ocean temperatures Vietnam’s EV surge",
-        "excerpt": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week s key developments relating to climate change. NOT FREE FROM HEAT: “Dangerous, record-breaking” heat altered plans for 4 July celebrations across the US this weekend, reported the Associated Press . New York and Boston hit 100F (37.8C) on Thursday, said the newswire. CNBC reported that temperatures of up to 105F (40.5C) are forecast in central and eastern parts of the country, with “daily, monthly and all-time records possible”. TEMPERATURES SOAR: Heat that hit western Europe last week…",
-        "url": "https://www.carbonbrief.org/debriefed-3-july-2026-us-faces-scorching-independence-day-record-ocean-temperatures-vietnams-ev-surge/",
-        "publishedAt": "2026-07-03T14:47:51.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/wind-solar-worlds-largest-source-new-energy-2025_DEBRIEFED.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "DeBriefed",
-          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -1862,30 +1886,6 @@
         "region": "world"
       },
       {
-        "id": "google-h2-green-hydrogen-market-forecasted-to-reac-2026-02-19",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Green Hydrogen Market Forecasted to Reach USD 231.32 - GlobeNewswire",
-        "excerpt": "Automobiles and Parts News Food & Beverage News Home Goods & Construction News Leisure Goods News Media & Entertainment News Personal Care News Retail News Travel and Leisure News Energy News Alternative Energy News Oil Gas and Coal News Chemicals News Banks & Financial Services News Banking News Closed-End Investments News Finance and Credit Services News Investment Banking and Brokerage Services News Insurance News Real Estate & REITs News Healthcare News Healthcare Providers News Medical Equipment News Medical Supplies and Services News Biotechnology…",
-        "url": "https://www.globenewswire.com/news-release/2026/02/19/3241001/0/en/green-hydrogen-market-forecasted-to-reach-usd-231-32-billion-by-2035-driven-by-renewable-energy-adoption-and-policy-support.html",
-        "publishedAt": "2026-02-19T08:00:00.000Z",
-        "image": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRXFrTW54UUtQZkRBZklaOHhnTnp2ZlZDLXY5bU56MG8ySU9JdlpUQXY0dVZlc1c4SmV6UUlwUVo3dk9BcGNzV1BHS3d1S0NqeERGZFVaQ0J3czBPclFwMjB5QjhaeGo0dVkyT2E1Z0ZmRjZENVl6QzlLSVdRdVVwXzlQamZHTjZuakVxSWhDanU5UDR0Z2VjcTdreFI1dm9mVVgzOGxnVDZVc00xUWRfQk1ySHk4RlFUc0h6WW1DRUhoeWp5dkF6UlVPaGFCbXpZYnFfMzc0Z2VaU0c1OTJIQk5USzFWUWlSNkhHeFJnTzVBZ3hHT3FEbk1xcWZhcDVObXNpc2ZzcXdQb1JxdmRpbHRlSGdSQ0NodlJ6bGhzUk0?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2051,6 +2051,30 @@
         "region": "world"
       },
       {
+        "id": "google-carbon-systematic-assessment-of-the-achieved-em-2024-11-14",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Systematic assessment of the achieved emission reductions of carbon crediting projects - Nature",
+        "excerpt": "Nature Communications volume 15 , Article number: 9562 ( 2024 ) Cite this article Carbon markets play an important role in firms’ and governments’ climate strategies. Carbon crediting mechanisms allow project developers to earn carbon credits through mitigation projects. Several studies have raised concerns about environmental integrity, though a systematic evaluation is missing. We synthesized studies relying on experimental or rigorous observational methods, covering 14 studies on 2346 carbon mitigation projects and 51 studies investigating similar…",
+        "url": "https://www.nature.com/articles/s41467-024-53645-z",
+        "publishedAt": "2024-11-14T08:00:00.000Z",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-024-53645-z/MediaObjects/41467_2024_53645_Fig1_HTML.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SdXhNNGk2MzVfSHB6THp4akR1cUdLSUhJbjJoQkJYSmJCNzg5U1NqMjJMSFFPWi1nU1NKOFUyZWc3VzdvaGJkOEpGbGx3eVI5OVVCcER0OGFaRl95Vms4?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2073,34 +2097,142 @@
           "imageSource": "publisher"
         },
         "region": "world"
-      },
-      {
-        "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - The Guardian",
-        "excerpt": "The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images View image in fullscreen The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images The age of extinction Carbon offsetting This article is more than 3 years old Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless,…",
-        "url": "https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe",
-        "publishedAt": "2023-01-18T08:00:00.000Z",
-        "image": "https://i.guim.co.uk/img/media/9f470b957b3b181b4107c89493f7a8eddb356834/0_12_2089_1254/master/2089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=c383f5d710fa80450e09a82767c12d10",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEFTZ3U2bGJHM25xeVVQZFJ4eGZDNWo5TXdUQ2JxeWxGZ3NZWjZhQ0RMRzBTZjB4SUd3LXFRZGlOWUpuUkkwXzNITVhUYkthNDQ4dkY5YTV5RGI2OTRNdTBkUWE3OEZsbUs0RGViR0RKaUVLS0ZTMk13ZU44UlBTRm8zUzY0NkllUXRfcFpxT3dOcmlpSE5iUHphcnVWam1Ec2dMSW1ROW9SM0UyMUo5NWNNbFRBSzhiR2VJ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
       }
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-shell-sells-india-based-renewables-busin-2026-07-14",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Shell sells India-based renewables business for $1.8B",
+      "excerpt": "The energy giant will sell its stake in Sprng Energy to Aditya Birla Renewables, which counts the BlackRock-owned Global Infrastructure Partners as a minority owner.",
+      "url": "https://www.esgdive.com/news/shell-sells-india-based-renewables-business-for-18b/825198/",
+      "publishedAt": "2026-07-14T16:39:00.000Z",
+      "image": "https://imgproxy.divecdn.com/-HGKRweE9i1Y-oZi3HbF5NSXUnyPBpWxeN5Le0GTs0I/g:nowe:0:27/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTQ2MTY0LmpwZw==.webp",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "india"
+    },
+    {
+      "id": "esg-dive-new-york-becomes-first-state-to-impose-m-2026-07-14",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "New York becomes first state to impose moratorium on data center development",
+      "excerpt": "During this one-year pause, the state seeks to create a regulatory framework that will evaluate and address how data centers impact the environment, energy use and more.",
+      "url": "https://www.esgdive.com/news/new-york-becomes-first-state-to-impose-moratorium-on-data-center-development/825202/",
+      "publishedAt": "2026-07-14T16:38:11.000Z",
+      "image": "https://imgproxy.divecdn.com/vyLSqOVgzAH-SsbuECo3CFZRUNmWJ3Q5IeNtqRWqgNs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzM2MTIxMzMzLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-pepsico-improves-sustainable-sourcing-de-2026-07-14",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "PepsiCo improves sustainable sourcing, delays emissions reporting",
+      "excerpt": "The company reported a four percentage point increase in sustainably sourced ingredients in 2025 but will release Scope 3 emissions metrics later this summer.",
+      "url": "https://www.esgdive.com/news/pepsico-improves-sustainable-sourcing-delays-emissions-reporting/825155/",
+      "publishedAt": "2026-07-14T16:20:00.000Z",
+      "image": "https://imgproxy.divecdn.com/0lcIMvaQDIK9K2IcQgwLaLyGZU0q3PVlDNtBUVLHOk0/g:nowe:0:251/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQwMTYyMTEyLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-dac-carbon-removal-provider-airhive-acqu-2026-07-14",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "DAC Carbon Removal Provider Airhive Acquires Competitor Carbyon",
+      "excerpt": "UK-based direct air capture (DAC) technology company Airhive announced that it has acquired Dutch DAC developer Carbyon, in an agreement aimed at creating a European DAC leader with enhanced technology capabilities and a stronger position to deploy low-cost carbon removal solutions at scale. The companies said that the agreement comes amidst favorable regulatory environment, with DAC recently certified under the EU’s Carbon Removal and Carbon Farming (CRCF) framework and the UK government planning to integrate DAC-based credits into its Emissions…",
+      "url": "https://www.esgtoday.com/dac-carbon-removal-provider-airhive-acquires-competitor-carbyon/?utm_source=rss utm_medium=rss utm_campaign=dac-carbon-removal-provider-airhive-acquires-competitor-carbyon",
+      "publishedAt": "2026-07-14T15:11:28.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Airhive2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-28-quotes-from-next-uk-leader-andy-burnh-2026-07-14",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "28 quotes from next UK leader Andy Burnham on climate, net-zero and fossil fuels",
+      "excerpt": "The UK’s incoming prime minister Andy Burnham has remained tight-lipped on his views on climate change during his leadership campaign. When asked his views on reversing Labour’s manifesto pledge to stop new North Sea drilling in June – a move that the oil-and-gas industry and right-wing media have pushed for in recent months – he said he had “something of an open mind” on the issue. But a trawl of Burnham’s past comments about climate change, net-zero and fossil fuels reveals a different picture. Just a year ago in June 2025, Burnham, while mayor of…",
+      "url": "https://www.carbonbrief.org/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels/",
+      "publishedAt": "2026-07-14T14:43:57.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/unnamed-1024x682.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "UK policy",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-deloitte-launches-new-framework-to-measu-2026-07-14",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Deloitte Launches New Framework to Measure Value of Sustainability Investments",
+      "excerpt": "Global professional services firm Deloitte announced the launch of Sustainability Fusion, a new framework and toolset aimed at enabling companies to measure and communicate the financial value of sustainability investments. According to Deloitte, the new solution comes as many organizations face a challenge in fully aligning their sustainability goals with financial performance, and often need a clearer way to translate environmental impact into traditional financial metrics, as they face increased expectations to quantify how sustainability initiatives…",
+      "url": "https://www.esgtoday.com/deloitte-launches-new-solution-to-enable-companies-to-measure-value-of-sustainability-investments/?utm_source=rss utm_medium=rss utm_campaign=deloitte-launches-new-solution-to-enable-companies-to-measure-value-of-sustainability-investments",
+      "publishedAt": "2026-07-14T14:37:43.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Deloitte-2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "verra-verra-publishes-minor-revision-to-rice-m-2026-07-14",
       "source": "verra",
@@ -2109,7 +2241,7 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "Verra Publishes Minor Revision to Rice Methodology (VM0051)",
-      "excerpt": "Verra has released a revised version (v1.1) of VM0051 Improved Management for in Rice Production Systems in the Verified Carbon Standard (VCS) Program . This constitutes a minor revision to VM0051, v1.0 . VM0051 applies to projects implementing improved water and crop management practices in flooded rice systems to reduce greenhouse gas emissions. The revisions are intended to clarify methodology requirements, align the methodology with current VCS Program rules and requirements following the launch of version 5 , and refine guidance for project area…",
+      "excerpt": "Verra has released a revised version (v1.1) of VM0051 Improved Management in Rice Production Systems in the Verified Carbon Standard (VCS) Program . This constitutes a minor revision to VM0051, v1.0 . VM0051 applies to projects implementing improved water and crop management practices in flooded rice systems to reduce greenhouse gas emissions. The revisions are intended to clarify methodology requirements, align the methodology with current VCS Program rules and requirements following the launch of version 5 , and refine guidance for project area…",
       "url": "https://verra.org/verra-publishes-minor-revision-to-rice-methodology-vm0051/",
       "publishedAt": "2026-07-14T14:34:17.000Z",
       "image": "https://verra.org/wp-content/uploads/2026/07/pexels-aphy-9856-scaled-e1784038535100.jpg",
@@ -2147,13 +2279,13 @@
       "region": "world"
     },
     {
-      "id": "esg-today-korea-significantly-expands-number-of-co-2026-07-14",
+      "id": "esg-today-korea-expands-mandatory-sustainability-r-2026-07-14",
       "source": "esg-today",
       "sourceName": "ESG Today",
       "type": "esg",
       "tag": "ESG",
       "accent": "#60a5fa",
-      "title": "Korea Significantly Expands Number of Companies Under Mandatory Sustainability Reporting Rules",
+      "title": "Korea Expands Mandatory Sustainability Reporting to More Companies",
       "excerpt": "Korea’s Financial Services Commission (FSC) announced the release of its finalized roadmap for sustainability (ESG) disclosure, significantly expanding the number of companies that will be required to provide ISSB-aligned sustainability reporting compared to its initial plan . According to the FSC, the decision to increase the number of companies under its mandatory sustainability reporting regime followed requests from institutional investors to expand the scope of the requirements, “considering the usefulness of sustainability disclosure data for…",
       "url": "https://www.esgtoday.com/korea-significantly-expands-mandatory-sustainability-reporting-requirements/?utm_source=rss utm_medium=rss utm_campaign=korea-significantly-expands-mandatory-sustainability-reporting-requirements",
       "publishedAt": "2026-07-14T12:56:17.000Z",
@@ -2388,50 +2520,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-masdar-secures-over-5-billion-for-massiv-2026-07-13",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Masdar Secures Over $5 Billion for Massive 24/7 Clean Energy Project in UAE",
-      "excerpt": "UAE-based clean energy-focused developer Masdar announced that it has secured a $5.1 billion financing package, reaching financial close to build one of the largest solar and battery storage projects in the world, capable of delivering 1GW of continuous clean power. Described by Masdar as the world s first gigascale 24/7 renewable energy project, the new Abu Dhabi-based RTC project will include a 5.2GW solar photovoltaic (PV) plant with a 19 gigawatt-hour (GWh) battery energy storage system (BESS), enabling the delivery of 1 GW of continuous baseload…",
-      "url": "https://www.esgtoday.com/masdar-secures-over-5-billion-for-massive-24-7-clean-energy-project-in-uae/?utm_source=rss utm_medium=rss utm_campaign=masdar-secures-over-5-billion-for-massive-24-7-clean-energy-project-in-uae",
-      "publishedAt": "2026-07-13T08:42:33.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Masdar.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-esg-today-week-in-review-2026-07-12",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "ESG Today: Week in Review",
-      "excerpt": "This week in ESG news: EU Commission adopts finalized CSRD and voluntary sustainability reporting standards; Google, McKinsey, Tencent sign large-scale nature-based carbon removal deals; 3M’s new Chief Sustainability Officer; EU lawmakers vote to expand CBAM carbon import tax; Canada looks to include oil and gas-related investment in sustainable finance taxonomy; Starbucks says it is “reassessing” its 2030 climate target; ECB integrates climate risk into collateral framework; EthiFinance, ESG Book merge to form ESG & credit ratings “champion”; Deutsche…",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-269/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-269",
-      "publishedAt": "2026-07-12T08:28:20.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Wind-Austria.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG News",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2748,28 +2836,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-environmental-groups-sue-epa-over-us-ste-2026-07-08",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Environmental groups sue EPA over US Steel air permit",
-      "excerpt": "They are seeking a court order requiring the agency to grant or deny a clean air petition filed 10 months ago related to one of the largest steel mills in North America.",
-      "url": "https://www.esgdive.com/news/environmental-groups-sue-epa-over-us-steel-gary-works-air-permit-indiana/824700/",
-      "publishedAt": "2026-07-08T15:51:00.000Z",
-      "image": "https://imgproxy.divecdn.com/ZvNuvduqQeH2RYEfVQi0mcULvFs-nC-mn66pn7K2gRc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QbGFudF9FbXBsb3llZXMuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-launches-resource-for-cookstove-me-2026-07-07",
       "source": "verra",
       "sourceName": "Verra",
@@ -2789,50 +2855,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-ev-transition-challenges-auto-supply-cha-2026-07-07",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EV transition challenges auto supply chain resilience, Moody’s says",
-      "excerpt": "Legacy automakers have the added complexity of having to run different supply chains, for ICE, hybrid and EV powertrains.",
-      "url": "https://www.esgdive.com/news/ev-transition-challenges-auto-supply-chain-resilience-moodys-says/824948/",
-      "publishedAt": "2026-07-07T16:28:00.000Z",
-      "image": "https://imgproxy.divecdn.com/--2mNr43uurbxoELE6Som48pydUz6N0f74OHW13q-V8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Ub3lvdGFBdXJpc0h5YnJpZEJ1cm5hc3RvblVLLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-walmart-signs-nuclear-ppa-with-constella-2026-07-07",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Walmart signs nuclear PPA with Constellation to support Illinois operations",
-      "excerpt": "The companies said the deal marks Walmart s first nuclear power purchase agreement and is among the first of its kind between a large retailer and a nuclear energy facility in the United States.",
-      "url": "https://www.esgdive.com/news/walmart-signs-176-mw-nuclear-ppa-with-constellation-to-support-illinois-operations/824600/",
-      "publishedAt": "2026-07-07T15:59:00.000Z",
-      "image": "https://imgproxy.divecdn.com/dpiVgKtlIMKJFC4tCdas8ADiOeoCJE5WEtYsN5tMbSw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU5Nzg0MzIwLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -2948,52 +2970,6 @@
         "imageSource": "publisher"
       },
       "region": "world"
-    },
-    {
-      "id": "carbon-brief-debriefed-3-july-2026-us-faces-scorching-2026-07-03",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "DeBriefed 3 July 2026: US faces scorching Independence Day Record ocean temperatures Vietnam’s EV surge",
-      "excerpt": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week s key developments relating to climate change. NOT FREE FROM HEAT: “Dangerous, record-breaking” heat altered plans for 4 July celebrations across the US this weekend, reported the Associated Press . New York and Boston hit 100F (37.8C) on Thursday, said the newswire. CNBC reported that temperatures of up to 105F (40.5C) are forecast in central and eastern parts of the country, with “daily, monthly and all-time records possible”. TEMPERATURES SOAR: Heat that hit western Europe last week…",
-      "url": "https://www.carbonbrief.org/debriefed-3-july-2026-us-faces-scorching-independence-day-record-ocean-temperatures-vietnams-ev-surge/",
-      "publishedAt": "2026-07-03T14:47:51.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/wind-solar-worlds-largest-source-new-energy-2025_DEBRIEFED.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "DeBriefed",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-india-india-s-carbon-credit-trading-scheme-a-s-2026-07-03",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India's Carbon Credit Trading Scheme: A strong start, critical design choices ahead - Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language Decarbonization Energy Transition &…",
-      "url": "https://ieefa.org/articles/indias-carbon-credit-trading-scheme-strong-start-critical-design-choices-ahead",
-      "publishedAt": "2026-07-03T07:00:00.000Z",
-      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTlicVN3VGw3eTQ1V2xzOS0zWnc2QlhQU1lpM3ppUDVYeHB0UGxFWDB3ZDNCRDh1SHlxSHh4cjZ0bk1ZU0RzUDdSN0dELVlxWHhVRU9nSzdaeWRraDYycFF2UzRjLUFIcmlGblNYODFDU010U2tGQzdKRUZlX1BMZ2VRbXpYeEpzNy1oNjVrNmZjV3ZZQkpnWWZpTUZ0ZHVYWDUyMXpDUU0?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "verra-vcs-6094",
@@ -3119,6 +3095,30 @@
         "program": "Verified Carbon Standard"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - The Quint",
+      "excerpt": "Become a Member Dark Mode Become a Member Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take My Report Opinion Members Only Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy Policy ADVERTISEMENT REMOVE AD…",
+      "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
+      "publishedAt": "2026-06-25T07:14:47.000Z",
+      "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "verra-vcs-6082",
@@ -3420,31 +3420,6 @@
       "region": "india"
     },
     {
-      "id": "verra-vcs-6045",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd.",
-      "excerpt": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd. is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies AMS-I.F.; AMS-III.D. methodology. Estimated annual emission reductions are 12,284 tonnes CO₂ equivalent per year. Project proponent: Asvata Climate Solutions Private Limited. Crediting period runs 2025-10-15 to 2032-10-14.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6045",
-      "publishedAt": "2026-05-28T00:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": "AMS-I.F.; AMS-III.D.",
-      "registryId": "6045",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "Asvata Climate Solutions Private Limited",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-10-15",
-        "creditingPeriodEnd": "2032-10-14",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "india"
-    },
-    {
       "id": "verra-vcs-6046",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3468,6 +3443,31 @@
         "program": "Verified Carbon Standard"
       },
       "region": "world"
+    },
+    {
+      "id": "verra-vcs-6045",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd.",
+      "excerpt": "Biogas to power generation project by SKM Animal Feeds and Foods (India) Pvt. Ltd. is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies AMS-I.F.; AMS-III.D. methodology. Estimated annual emission reductions are 12,284 tonnes CO₂ equivalent per year. Project proponent: Asvata Climate Solutions Private Limited. Crediting period runs 2025-10-15 to 2032-10-14.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6045",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": "AMS-I.F.; AMS-III.D.",
+      "registryId": "6045",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "Asvata Climate Solutions Private Limited",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-10-15",
+        "creditingPeriodEnd": "2032-10-14",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "india"
     },
     {
       "id": "verra-vcs-6043",
@@ -3836,30 +3836,6 @@
       "region": "india"
     },
     {
-      "id": "google-h2-green-hydrogen-market-forecasted-to-reac-2026-02-19",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Green Hydrogen Market Forecasted to Reach USD 231.32 - GlobeNewswire",
-      "excerpt": "Automobiles and Parts News Food & Beverage News Home Goods & Construction News Leisure Goods News Media & Entertainment News Personal Care News Retail News Travel and Leisure News Energy News Alternative Energy News Oil Gas and Coal News Chemicals News Banks & Financial Services News Banking News Closed-End Investments News Finance and Credit Services News Investment Banking and Brokerage Services News Insurance News Real Estate & REITs News Healthcare News Healthcare Providers News Medical Equipment News Medical Supplies and Services News Biotechnology…",
-      "url": "https://www.globenewswire.com/news-release/2026/02/19/3241001/0/en/green-hydrogen-market-forecasted-to-reach-usd-231-32-billion-by-2035-driven-by-renewable-energy-adoption-and-policy-support.html",
-      "publishedAt": "2026-02-19T08:00:00.000Z",
-      "image": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRXFrTW54UUtQZkRBZklaOHhnTnp2ZlZDLXY5bU56MG8ySU9JdlpUQXY0dVZlc1c4SmV6UUlwUVo3dk9BcGNzV1BHS3d1S0NqeERGZFVaQ0J3czBPclFwMjB5QjhaeGo0dVkyT2E1Z0ZmRjZENVl6QzlLSVdRdVVwXzlQamZHTjZuakVxSWhDanU5UDR0Z2VjcTdreFI1dm9mVVgzOGxnVDZVc00xUWRfQk1ySHk4RlFUc0h6WW1DRUhoeWp5dkF6UlVPaGFCbXpZYnFfMzc0Z2VaU0c1OTJIQk5USzFWUWlSNkhHeFJnTzVBZ3hHT3FEbk1xcWZhcDVObXNpc2ZzcXdQb1JxdmRpbHRlSGdSQ0NodlJ6bGhzUk0?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -4095,6 +4071,54 @@
       "region": "india"
     },
     {
+      "id": "google-h2-knowledge-nugget-what-you-must-know-abou-2025-08-20",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam - The Indian Express",
+      "excerpt": "Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Here’s your UPSC Current Affairs knowledge nugget for today on India’s Green hydrogen plants. Claiming that “a big step has been taken today”, Uttar Pradesh Chief Minister Yogi Adityanath on Sunday inaugurated the state’s first green hydrogen plant in Gorakhpur, with the project aiming to produce 72,000 tonnes of green fuel in a year. In this context, let’s learn about India’s green hydrogen plants and the significance of hydrogen as a fuel.…",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-indias-green-hydrogen-plants-upsc-exam-10198700/",
+      "publishedAt": "2025-08-20T07:00:00.000Z",
+      "image": "https://images.indianexpress.com/2025/08/Knowledge-Nugget-Indias-Green-hydrogen-plants.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-carbon-systematic-assessment-of-the-achieved-em-2024-11-14",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Systematic assessment of the achieved emission reductions of carbon crediting projects - Nature",
+      "excerpt": "Nature Communications volume 15 , Article number: 9562 ( 2024 ) Cite this article Carbon markets play an important role in firms’ and governments’ climate strategies. Carbon crediting mechanisms allow project developers to earn carbon credits through mitigation projects. Several studies have raised concerns about environmental integrity, though a systematic evaluation is missing. We synthesized studies relying on experimental or rigorous observational methods, covering 14 studies on 2346 carbon mitigation projects and 51 studies investigating similar…",
+      "url": "https://www.nature.com/articles/s41467-024-53645-z",
+      "publishedAt": "2024-11-14T08:00:00.000Z",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-024-53645-z/MediaObjects/41467_2024_53645_Fig1_HTML.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SdXhNNGk2MzVfSHB6THp4akR1cUdLSUhJbjJoQkJYSmJCNzg5U1NqMjJMSFFPWi1nU1NKOFUyZWc3VzdvaGJkOEpGbGx3eVI5OVVCcER0OGFaRl95Vms4?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -4114,30 +4138,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - The Guardian",
-      "excerpt": "The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images View image in fullscreen The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images The age of extinction Carbon offsetting This article is more than 3 years old Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless,…",
-      "url": "https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe",
-      "publishedAt": "2023-01-18T08:00:00.000Z",
-      "image": "https://i.guim.co.uk/img/media/9f470b957b3b181b4107c89493f7a8eddb356834/0_12_2089_1254/master/2089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=c383f5d710fa80450e09a82767c12d10",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEFTZ3U2bGJHM25xeVVQZFJ4eGZDNWo5TXdUQ2JxeWxGZ3NZWjZhQ0RMRzBTZjB4SUd3LXFRZGlOWUpuUkkwXzNITVhUYkthNDQ4dkY5YTV5RGI2OTRNdTBkUWE3OEZsbUs0RGViR0RKaUVLS0ZTMk13ZU44UlBTRm8zUzY0NkllUXRfcFpxT3dOcmlpSE5iUHphcnVWam1Ec2dMSW1ROW9SM0UyMUo5NWNNbFRBSzhiR2VJ?oc=5",
         "imageSource": "publisher"
       },
       "region": "world"
