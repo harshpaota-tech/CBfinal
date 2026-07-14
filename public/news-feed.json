@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-14T03:53:10.179Z",
+  "fetchedAt": "2026-07-14T09:08:17.544Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,14 +47,38 @@
     "total": 87,
     "india": 20,
     "world": 67,
-    "withImages": 54,
-    "avgExcerptLength": 419,
+    "withImages": 56,
+    "avgExcerptLength": 430,
     "verra": 10,
     "registry": 25,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-03",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
+        "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
+        "publishedAt": "2026-07-03T07:00:00.000Z",
+        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vd210Z0lYcEl0RUVyU2FzZVM5WE9QVFJUNTgxMVFaTDNocFRmVmdLbnpUeFJfSWhVMEZDSUxpaG9SNjFyZ2xpNWFIVjEyT3FieHdzUjdoZmg4SEo4WnhjRlVpV2Q0c3J2UEk4Qmw4QzB3UW5pMThTNjJsQkpFNWM?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
       {
         "id": "google-india-the-eu-cbam-seen-from-new-delhi-and-seen-2026-06-20",
         "source": "google-india",
@@ -136,10 +160,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-        "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week DD India",
+        "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
         "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
         "publishedAt": "2026-06-05T07:00:00.000Z",
-        "image": null,
+        "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -147,7 +171,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -297,29 +322,6 @@
           "creditingPeriodStart": "2025-10-15",
           "creditingPeriodEnd": "2032-10-14",
           "program": "Verified Carbon Standard"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
-        "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
-        "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
-        "publishedAt": "2026-05-25T07:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
         },
         "region": "india"
       },
@@ -2923,6 +2925,30 @@
       "region": "world"
     },
     {
+      "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-03",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
+      "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
+      "publishedAt": "2026-07-03T07:00:00.000Z",
+      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vd210Z0lYcEl0RUVyU2FzZVM5WE9QVFJUNTgxMVFaTDNocFRmVmdLbnpUeFJfSWhVMEZDSUxpaG9SNjFyZ2xpNWFIVjEyT3FieHdzUjdoZmg4SEo4WnhjRlVpV2Q0c3J2UEk4Qmw4QzB3UW5pMThTNjJsQkpFNWM?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "verra-vote-for-verra-in-environmental-finance--2026-07-01",
       "source": "verra",
       "sourceName": "Verra",
@@ -3201,10 +3227,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-      "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week DD India",
+      "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
       "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
       "publishedAt": "2026-06-05T07:00:00.000Z",
-      "image": null,
+      "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3212,7 +3238,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -3564,29 +3591,6 @@
         "program": "Verified Carbon Standard"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-credit-certs-are-missing-piece-of-india--2026-05-25",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Credit certs are missing piece of India's carbon market: Navin Mathur - Business Standard",
-      "excerpt": "Credit certs are missing piece of India's carbon market: Navin Mathur Business Standard",
-      "url": "https://www.business-standard.com/economy/news/credit-certs-are-missing-piece-of-india-s-carbon-market-navin-mathur-126052500930_1.html",
-      "publishedAt": "2026-05-25T07:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1k4Z3JqMVN1Mk11X2lWcmdNNjhSZEFCcHU1ajNrQjJ0aTVjdmhkSHN1ajhSNktmbGIzdDNCaEZodi1NTTYwNC1oTGNPV3JpWjB1Q3Y5WUtmaHV6UlF0YVRwbGVVNFhSdFh6MU1fRVdNZXN2azNaMGFRemtTbldEUjZjS3F3dC1IQk5kcUoyY0lPMTl6OWxLWGw0M1VWN3MtbkhkYXhMX1BFazlfdjlrUzc2TU5nbHo0V0pQby00MWFQTmFGcnc0YkViVEt6M1FD0gHWAUFVX3lxTFBaUlcwVlpaMzFtM1dvTHdURV9HY0dZaHJDLXRTQ2hVQjd0YUU5am03M1NvWWs0RXBLWnMyX2lDYnlTb3h2RkIwOWJCVjBmZXNfZ1Y3SUkzSF9ieGctcjdicy04T0dTamJsU3Q2UG9SY25hZW44azhuNEFYalBaaGRob3dCQkhmOXg3eC1UT3BQeVFqdkpDaUFzM0FmZ3FmNl9HMlREN3VwSmFiNmVnemh1aFJMUEZQYnlDSEVFd3MxT2gtUUVCRHlVcUFQM19uYVFKemFaYkE?oc=5"
-      },
-      "region": "india"
     },
     {
       "id": "google-india-india-among-biggest-new-carbon-markets-a-2026-05-21",
