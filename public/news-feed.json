@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-14T09:08:17.544Z",
+  "fetchedAt": "2026-07-14T14:46:23.312Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,8 +45,8 @@
   ],
   "stats": {
     "total": 87,
-    "india": 20,
-    "world": 67,
+    "india": 21,
+    "world": 66,
     "withImages": 56,
     "avgExcerptLength": 430,
     "verra": 10,
@@ -56,7 +56,29 @@
   "sections": {
     "india": [
       {
-        "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-03",
+        "id": "esg-today-shell-sells-80-of-its-renewable-energy-p-2026-07-14",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Shell Sells 80% of its Renewable Energy Portfolio to BlackRock-Backed Aditya Birla Renewables",
+        "excerpt": "Shell and India-based industrial conglomerate Aditya Birla Group’s clean energy solutions subsidiary Aditya Birla Renewables (ABREN) announced an agreement for ABREN to acquire renewable energy platform Sprng Energy, marking one of the largest acquisitions in India’s clean energy sector by both value and scale. The deal values Sprng at $1.8 billion, and includes a portfolio of 5 GW of capacity, representing approximately four-fifths of Shell’s renewable energy capacity, which stood at 6.1 GW at the end of 2025. Sprng was launched in 2017 by sustainable…",
+        "url": "https://www.esgtoday.com/shell-sells-80-of-its-renewable-energy-portfolio-to-blackrock-backed-aditya-birla-renewables/?utm_source=rss utm_medium=rss utm_campaign=shell-sells-80-of-its-renewable-energy-portfolio-to-blackrock-backed-aditya-birla-renewables",
+        "publishedAt": "2026-07-14T10:02:52.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Shell-Canada.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-14",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
@@ -65,7 +87,7 @@
         "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
         "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
         "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
-        "publishedAt": "2026-07-03T07:00:00.000Z",
+        "publishedAt": "2026-07-14T06:30:10.000Z",
         "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
         "country": "India",
         "methodology": null,
@@ -80,17 +102,17 @@
         "region": "india"
       },
       {
-        "id": "google-india-the-eu-cbam-seen-from-new-delhi-and-seen-2026-06-20",
+        "id": "google-india-india-s-carbon-credit-trading-scheme-a-s-2026-07-03",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "The EU CBAM Seen from New Delhi and Seen from Brussels - orfonline.org",
-        "excerpt": "The EU sees CBAM as a success because it has triggered intensifying carbon measurement worldwide. India sees CBAM as an error because it has been designed on a one-size-fits-all basis that does not recognise the challenges faced by developing economies. Bridging that divide will shape the future of the EU-India partnership. The Carbon Border Adjustment Mechanism (CBAM) has become one of the defining fault lines in the EU-India relationship. What Brussels frames as a legitimate climate policy tool, New Delhi experiences as a costly, unilateral imposition…",
-        "url": "https://www.orfonline.org/expert-speak/the-eu-cbam-seen-from-new-delhi-and-seen-from-brussels",
-        "publishedAt": "2026-06-20T07:00:00.000Z",
-        "image": "https://www.orfonline.org/public/uploads/posts/image/thumbnail/1781970620_img-eu.jpg",
+        "title": "India's Carbon Credit Trading Scheme: A strong start, critical design choices ahead - Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language Decarbonization Energy Transition &…",
+        "url": "https://ieefa.org/articles/indias-carbon-credit-trading-scheme-strong-start-critical-design-choices-ahead",
+        "publishedAt": "2026-07-03T07:00:00.000Z",
+        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -98,31 +120,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX2djMkg2QmxvQVVBeXZlS0N0X01DcVVOV2FCTW1aMnpKZUpZMFZmb0ViaUtpU3RDMFBxZUpucG9jeWdHUzh3QWtMVW9NMGV3QlUzQmE3M2pJMFp4N0Z4U2pLMnhweWdHVDBLX25RNEZiem9zNVJrdFVXZ0YxZGhhTUY0UWdQWVRDZlNOTGYtU3pjaVFYZTJOcQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Agriculture, Carbon Accounting and Climate Justice Debate - Frontline Magazine",
-        "excerpt": "Published : Jun 18, 2026 13:01 IST - 10 MINS READ If farmers are compensated for the climate services they already provide, they gain both the resources and the incentive to do more. In this file picture, a farmer examines his wheat crop in a field on the outskirts of Amritsar. | Photo Credit: NARINDER NANU/AFP The Intergovernmental Panel on Climate Change Sixth Assessment Report (IPCC-AR6) stresses the need for climate policies to prioritise carbon dioxide (CO₂) removal (CDR) processes. International agencies have, in parallel, increasingly recognised…",
-        "url": "https://frontline.thehindu.com/environment/climate-accounting-agriculture-carbon-sink/article71116675.ece",
-        "publishedAt": "2026-06-18T07:00:00.000Z",
-        "image": "https://fl-i.thgim.com/public/incoming/y7mxy6/article71116853.ece/alternates/LANDSCAPE_1200/indian%20farmers%20green%20house%20gas%20emission.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTlicVN3VGw3eTQ1V2xzOS0zWnc2QlhQU1lpM3ppUDVYeHB0UGxFWDB3ZDNCRDh1SHlxSHh4cjZ0bk1ZU0RzUDdSN0dELVlxWHhVRU9nSzdaeWRraDYycFF2UzRjLUFIcmlGblNYODFDU010U2tGQzdKRUZlX1BMZ2VRbXpYeEpzNy1oNjVrNmZjV3ZZQkpnWWZpTUZ0ZHVYWDUyMXpDUU0?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -149,30 +147,6 @@
           "creditingPeriodStart": "2026-06-01",
           "creditingPeriodEnd": "2066-05-31",
           "program": "Verified Carbon Standard"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-        "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
-        "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
-        "publishedAt": "2026-06-05T07:00:00.000Z",
-        "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -375,17 +349,17 @@
         "region": "india"
       },
       {
-        "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
+        "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
-        "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
-        "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
-        "publishedAt": "2026-04-14T07:00:00.000Z",
-        "image": null,
+        "title": "India’s Grasslands Need Climate Policy, Not Carbon Rush - Frontline Magazine",
+        "excerpt": "Published : Apr 25, 2026 18:48 IST - 12 MINS READ Grassland in Gujarat, India. Grassland restoration can increase soil organic carbon through improved grazing management, native grass recovery, and invasive species control. | Photo Credit: Getty Images/iStockPhoto India’s grasslands and rangelands deserve a central place in climate policy . But any carbon-finance pathway must rest on secure rights, pastoral participation, sound methodology, and strong public safeguards. India’s climate imagination has long been shaped by a forest-first instinct. When…",
+        "url": "https://frontline.thehindu.com/environment/india-grasslands-carbon-finance-rights-pastoralists-climate-policy/article70905160.ece",
+        "publishedAt": "2026-04-25T07:00:00.000Z",
+        "image": "https://fl-i.thgim.com/public/incoming/h4b5gr/article70905395.ece/alternates/LANDSCAPE_1200/Grasslands.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -393,7 +367,32 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlhkQURpdUd0Yk51RUEwNGEtc1NmWHMtV2dZY3hPREhXZGJUMWNlYXh3UHotaF9jZjlFZXp4RF95UEduSkg5VGlad3JWdmxBZU15T2tiZUE0TWtGZTFKOVRqT2lSRGE4d0VNYWNOdExNdTEzT0RwVVhOeEl2dTZob19pY283NFliVHk3b1ZXdDlkVVhKQUFvZG0xdE9la2htQUFmc3pJMDVFYWJxeVh4OGQ1NVhZSDJDZjR1bnlaek5rSzBTTGhlM9IBzwFBVV95cUxPemxKSjVSeW0zVXZsRG51eFhTVjk1S0R2VmcwRHppNVFPdU02NDRES2dhV1QwWFoybjdzQWNVbHg1dU1xbWJCdjlxemVrTXc3cUl0aFJPVXN6Sk9UeU5reEJhRFk5MFM5a2NzUFRiVzZVaDBxQmVxS0M4Ql9aSXpGc3lhNUFUaVhqMDZiYTNHUDBtTFNYTnJJdExuUEpMT0JkNDhvSmtyaGg3aTdvbktZcXpxUWFadDJrRHpCclJLX0h4S1I1NlNQUVpXWDFqR2M?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-a-better-blueprint-uncertain-outcomes-as-2026-04-22",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "A Better Blueprint, Uncertain Outcomes: Assessing India’s Carbon Trading Scheme - orfonline.org",
+        "excerpt": "India’s Carbon Credit Trading Scheme addresses design flaws in PAT, but without credible enforcement, verification, and demand, it risks reproducing the same market failures In the Perform, Achieve and Trade (PAT) scheme Cycle I, the non-compliance rate was 9 percent ; by PAT Cycle II, this rate had increased to about 56 percent; the Designated Consumers (DCs) obligated to purchase 86 percent of the mandated ESCerts were found to be unregistered; and the ESCerts that were purchased were sold at the floor price mandated by the Bureau of Energy Efficiency…",
+        "url": "https://www.orfonline.org/expert-speak/a-better-blueprint-uncertain-outcomes-assessing-india-s-carbon-trading-scheme",
+        "publishedAt": "2026-04-22T07:00:00.000Z",
+        "image": "https://www.orfonline.org/public/uploads/posts/image/thumbnail/1776845085_img-carban.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmk5MHVRUWxDX3ptS2NBTXEtZWVlXzFQVUVjaERmUHRFMENRbEdGNExUbzdjLWVVNnZqV0Q3RklfUzdMM0o4cTh5QjlFVWNpVVBxSW55a0VzbTQxUEhwY1picWhlV2lwbHJvWXlWNXhFakYyNncwZ1plNS1nVWR1V2hJQm5pQ1ZWa19waWFKYVBFUDBYWTZESmh2S2diRzBfMlJrN18yTFJKNmRvdFZaM3g4WDJGXzQ?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -405,7 +404,7 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-        "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
+        "excerpt": "Services Consulting Cybersecurity People and workforce Supply Chain Management and Operations Technology transformation consulting services Risk consulting services and solutions Tax Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax compliance GST compliance with EY DigiGST EY GTA: Global trade compliance and supply chain platform AI Tax Hub: Tax transformation AI…",
         "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
         "publishedAt": "2026-04-03T07:24:04.000Z",
         "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
@@ -517,6 +516,29 @@
         "region": "india"
       },
       {
+        "id": "google-india-why-india-s-carbon-market-needs-a-price--2025-11-10",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Why India’s carbon market needs a price stability mechanism for its new Carbon Credit Trading Scheme - The World Economic Forum",
+        "excerpt": "Why India’s carbon market needs a price stability mechanism for its new Carbon Credit Trading Scheme The World Economic Forum",
+        "url": "https://www.weforum.org/stories/energy-transition/why-india-s-carbon-market-needs-a-price-stability-mechanism/",
+        "publishedAt": "2025-11-10T08:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHRMSmJYRndlckpPcmN1dElOV3B0N2hORXZ1YnFuQjZ4Ul85YWFIaEl4TzUyWWpSazdITTBlZC1tTnBmUlVhNHhINFNGQkhLNzJXR2JtZ2UzZGsxcGNONFYtd21JbDFCak5qWkhiOFVfZGhKclFQYjhfeW02b2l6RV9PWHlZYktlN3cwNE5HRVBIOVd3Vk1kSmZfVnc2alptbUtod2FkLXJlaXRyc3pv?oc=5"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -542,6 +564,95 @@
       }
     ],
     "world": [
+      {
+        "id": "verra-verra-publishes-minor-revision-to-rice-m-2026-07-14",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Publishes Minor Revision to Rice Methodology (VM0051)",
+        "excerpt": "Verra has released a revised version (v1.1) of VM0051 Improved Management for in Rice Production Systems in the Verified Carbon Standard (VCS) Program . This constitutes a minor revision to VM0051, v1.0 . VM0051 applies to projects implementing improved water and crop management practices in flooded rice systems to reduce greenhouse gas emissions. The revisions are intended to clarify methodology requirements, align the methodology with current VCS Program rules and requirements following the launch of version 5 , and refine guidance for project area…",
+        "url": "https://verra.org/verra-publishes-minor-revision-to-rice-methodology-vm0051/",
+        "publishedAt": "2026-07-14T14:34:17.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/07/pexels-aphy-9856-scaled-e1784038535100.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-energy-system-modelling-startup-gridcog--2026-07-14",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Energy System Modelling Startup Gridcog Raises $10 Million",
+        "excerpt": "Simulation software provider Gridcog announced today that is has raised $10 million in a Series A funding round, with proceeds from the financing aimed at scaling its energy flexibility monitoring platform, enabling a more complex set of energy sources to be integrated into the grid. According to the company, the funding comes as energy projects have become significantly more complicated over the past several years, driving a need for flexibility, as more capital flows into renewables and storage, while there is a shortage of grid connections. As these…",
+        "url": "https://www.esgtoday.com/energy-system-modelling-startup-gridcog-raises-10-million/?utm_source=rss utm_medium=rss utm_campaign=energy-system-modelling-startup-gridcog-raises-10-million",
+        "publishedAt": "2026-07-14T13:41:17.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Gridcog.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-korea-significantly-expands-number-of-co-2026-07-14",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Korea Significantly Expands Number of Companies Under Mandatory Sustainability Reporting Rules",
+        "excerpt": "Korea’s Financial Services Commission (FSC) announced the release of its finalized roadmap for sustainability (ESG) disclosure, significantly expanding the number of companies that will be required to provide ISSB-aligned sustainability reporting compared to its initial plan . According to the FSC, the decision to increase the number of companies under its mandatory sustainability reporting regime followed requests from institutional investors to expand the scope of the requirements, “considering the usefulness of sustainability disclosure data for…",
+        "url": "https://www.esgtoday.com/korea-significantly-expands-mandatory-sustainability-reporting-requirements/?utm_source=rss utm_medium=rss utm_campaign=korea-significantly-expands-mandatory-sustainability-reporting-requirements",
+        "publishedAt": "2026-07-14T12:56:17.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Korea-FSC.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-eu-approves-france-s-63-billion-offshore-2026-07-14",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EU Approves France’s €63 Billion Offshore Wind Plan",
+        "excerpt": "The European Commission announced that it has approved a €63 billion state aid program by France to support the construction of offshore wind projects over 25 years, aimed at contributing towards the transition towards a net zero economy and aligning with the objectives of the EU’s Clean Industrial Deal . The French program will support the construction and operation of eleven offshore wind farms, in the North Sea, the Atlantic and the Mediterranean. The windfarms are expected to have a combined capacity of up to 11.1 GW and to generate up to 47.8 TW of…",
+        "url": "https://www.esgtoday.com/eu-approves-frances-e63-billion-offshore-wind-plan/?utm_source=rss utm_medium=rss utm_campaign=eu-approves-frances-e63-billion-offshore-wind-plan",
+        "publishedAt": "2026-07-14T10:38:11.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Wind-offshore-EU1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-microsoft-s-data-center-expansion-drove--2026-07-13",
         "source": "esg-dive",
@@ -898,72 +1009,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-eqt-acquires-u-s-energy-and-ai-infrastru-2026-07-10",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EQT Acquires U.S. Energy and AI Infrastructure Platform Copia Power from Carlyle",
-        "excerpt": "Private equity and venture capital investor EQT Group announced the acquisition of U.S. power and AI infrastructure development platform Copia Power from private capital investment firm The Carlyle Group. Carlyle launched Copia in 2021 , with the acquisition of a 6 GW U.S. solar and storage development pipeline from energy developer and operator Tenaska, with a focus on using the platform to develop, construct and operate large-scale energy infrastructure assets across the U.S. To date, the platform has brought 2.6 GW of energy generation and storage…",
-        "url": "https://www.esgtoday.com/eqt-acquires-u-s-energy-and-ai-infrastructure-platform-copia-power-from-carlyle/?utm_source=rss utm_medium=rss utm_campaign=eqt-acquires-u-s-energy-and-ai-infrastructure-platform-copia-power-from-carlyle",
-        "publishedAt": "2026-07-10T12:07:41.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EQT3.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-esg-playbook-launches-new-sustainability-2026-07-10",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "ESG Playbook Launches New Sustainability Reporting Solutions for Small, Mid-Sized Businesses",
-        "excerpt": "Sustainability and business risk software company ESG Playbook announced the launch of Essential Worksheets and Premium Modules, two new sustainability reporting product tiers targeted at small and mid-sized businesses. According to ESG Playbook, the new solutions come as smaller businesses are looking for practical ways to begin reporting, with stakeholders ranging from investors and lenders to insurers, and customers increasingly request sustainability data. The company said that the new solutions, share the same underlying data architecture as ESG…",
-        "url": "https://www.esgtoday.com/esg-playbook-launches-new-sustainability-reporting-solutions-for-small-mid-sized-businesses/?utm_source=rss utm_medium=rss utm_campaign=esg-playbook-launches-new-sustainability-reporting-solutions-for-small-mid-sized-businesses",
-        "publishedAt": "2026-07-10T10:59:12.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/ESG-Playbook-reporting.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-world-s-largest-beef-producer-jbs-drops--2026-07-10",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "World’s Largest Beef Producer JBS Drops Supply Chain Net Zero Goal",
-        "excerpt": "Brazil-based meat giant JBS Foods, the largest global producer of beef and poultry, revealed that it has retired its goal to achieve net zero emissions across its value chain by 2040, and replaced it with goals that no longer include Scope 3 emissions, which account for the vast majority of its greenhouse gas (GHG) footprint. In a post accompanying the release of the company’s 2025 Sustainability Report, JBS’ Global Chief Sustainability Officer Jason Weller highlighted key challenges the company has encountered in implementing its supply chain climate…",
-        "url": "https://www.esgtoday.com/worlds-largest-beef-producer-jbs-drops-supply-chain-net-zero-goal/?utm_source=rss utm_medium=rss utm_campaign=worlds-largest-beef-producer-jbs-drops-supply-chain-net-zero-goal",
-        "publishedAt": "2026-07-10T10:06:18.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/JBS2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-consultation-major-revision-to-cookstove-2026-07-09",
         "source": "verra",
         "sourceName": "Verra",
@@ -1027,28 +1072,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-fleek-raises-25-million-to-scale-second--2026-07-09",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Fleek Raises $25 Million to Scale Second-Hand Fashion Market with AI",
-        "excerpt": "Circular fashion marketplace startup Fleek announced that it has raised $25 million in a Series B funding round, with proceeds to be used to develop AI-powered technology enabling the second-hand fashion industry scale to meet growing demand. Founded in 2021 by Abhi Arora and Sanket Agarwal, London-based Fleek operates a B2B secondhand fashion marketplace and develops AI tools designed to digitize the sourcing, grading and trading of used apparel. According to the company, the funding comes as demand for secondhand fashion is growing three times faster…",
-        "url": "https://www.esgtoday.com/fleek-raises-25-million-to-help-scale-the-second-hand-fashion-market-with-ai/?utm_source=rss utm_medium=rss utm_campaign=fleek-raises-25-million-to-help-scale-the-second-hand-fashion-market-with-ai",
-        "publishedAt": "2026-07-09T15:08:43.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Fleek.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Private Equity & Venture Capital",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1362,29 +1385,6 @@
         "meta": {
           "category": "DeBriefed",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-vote-for-verra-in-environmental-finance--2026-07-01",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Vote for Verra in Environmental Finance’s 2026 VCM Rankings",
-        "excerpt": "Each year, Environmental Finance holds a vote to identify leaders in the voluntary carbon market (VCM) and related markets, including project developers, traders, and service providers. Verra’s Verified Carbon Standard (VCS) Program , the world’s leading voluntary greenhouse gas (GHG) crediting program, has won the award for “ Best GHG Crediting Programme ” (formerly “Best Voluntary Carbon Standard”) eleven times since 2012. Additionally, the Verra Registry has been voted “ Best Registry Provider ” four times since 2021. The survey is open until Friday,…",
-        "url": "https://verra.org/vote-for-verra-in-environmental-finances-2026-vcm-rankings/",
-        "publishedAt": "2026-07-01T13:23:02.000Z",
-        "image": "https://verra.org/wp-content/uploads/2026/06/kristaps-ungurs-owcJsiIK7UU-unsplash-scaled.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -2102,6 +2102,141 @@
   },
   "articles": [
     {
+      "id": "verra-verra-publishes-minor-revision-to-rice-m-2026-07-14",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Publishes Minor Revision to Rice Methodology (VM0051)",
+      "excerpt": "Verra has released a revised version (v1.1) of VM0051 Improved Management for in Rice Production Systems in the Verified Carbon Standard (VCS) Program . This constitutes a minor revision to VM0051, v1.0 . VM0051 applies to projects implementing improved water and crop management practices in flooded rice systems to reduce greenhouse gas emissions. The revisions are intended to clarify methodology requirements, align the methodology with current VCS Program rules and requirements following the launch of version 5 , and refine guidance for project area…",
+      "url": "https://verra.org/verra-publishes-minor-revision-to-rice-methodology-vm0051/",
+      "publishedAt": "2026-07-14T14:34:17.000Z",
+      "image": "https://verra.org/wp-content/uploads/2026/07/pexels-aphy-9856-scaled-e1784038535100.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-energy-system-modelling-startup-gridcog--2026-07-14",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Energy System Modelling Startup Gridcog Raises $10 Million",
+      "excerpt": "Simulation software provider Gridcog announced today that is has raised $10 million in a Series A funding round, with proceeds from the financing aimed at scaling its energy flexibility monitoring platform, enabling a more complex set of energy sources to be integrated into the grid. According to the company, the funding comes as energy projects have become significantly more complicated over the past several years, driving a need for flexibility, as more capital flows into renewables and storage, while there is a shortage of grid connections. As these…",
+      "url": "https://www.esgtoday.com/energy-system-modelling-startup-gridcog-raises-10-million/?utm_source=rss utm_medium=rss utm_campaign=energy-system-modelling-startup-gridcog-raises-10-million",
+      "publishedAt": "2026-07-14T13:41:17.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Gridcog.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-korea-significantly-expands-number-of-co-2026-07-14",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Korea Significantly Expands Number of Companies Under Mandatory Sustainability Reporting Rules",
+      "excerpt": "Korea’s Financial Services Commission (FSC) announced the release of its finalized roadmap for sustainability (ESG) disclosure, significantly expanding the number of companies that will be required to provide ISSB-aligned sustainability reporting compared to its initial plan . According to the FSC, the decision to increase the number of companies under its mandatory sustainability reporting regime followed requests from institutional investors to expand the scope of the requirements, “considering the usefulness of sustainability disclosure data for…",
+      "url": "https://www.esgtoday.com/korea-significantly-expands-mandatory-sustainability-reporting-requirements/?utm_source=rss utm_medium=rss utm_campaign=korea-significantly-expands-mandatory-sustainability-reporting-requirements",
+      "publishedAt": "2026-07-14T12:56:17.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Korea-FSC.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-eu-approves-france-s-63-billion-offshore-2026-07-14",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EU Approves France’s €63 Billion Offshore Wind Plan",
+      "excerpt": "The European Commission announced that it has approved a €63 billion state aid program by France to support the construction of offshore wind projects over 25 years, aimed at contributing towards the transition towards a net zero economy and aligning with the objectives of the EU’s Clean Industrial Deal . The French program will support the construction and operation of eleven offshore wind farms, in the North Sea, the Atlantic and the Mediterranean. The windfarms are expected to have a combined capacity of up to 11.1 GW and to generate up to 47.8 TW of…",
+      "url": "https://www.esgtoday.com/eu-approves-frances-e63-billion-offshore-wind-plan/?utm_source=rss utm_medium=rss utm_campaign=eu-approves-frances-e63-billion-offshore-wind-plan",
+      "publishedAt": "2026-07-14T10:38:11.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Wind-offshore-EU1.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-shell-sells-80-of-its-renewable-energy-p-2026-07-14",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Shell Sells 80% of its Renewable Energy Portfolio to BlackRock-Backed Aditya Birla Renewables",
+      "excerpt": "Shell and India-based industrial conglomerate Aditya Birla Group’s clean energy solutions subsidiary Aditya Birla Renewables (ABREN) announced an agreement for ABREN to acquire renewable energy platform Sprng Energy, marking one of the largest acquisitions in India’s clean energy sector by both value and scale. The deal values Sprng at $1.8 billion, and includes a portfolio of 5 GW of capacity, representing approximately four-fifths of Shell’s renewable energy capacity, which stood at 6.1 GW at the end of 2025. Sprng was launched in 2017 by sustainable…",
+      "url": "https://www.esgtoday.com/shell-sells-80-of-its-renewable-energy-portfolio-to-blackrock-backed-aditya-birla-renewables/?utm_source=rss utm_medium=rss utm_campaign=shell-sells-80-of-its-renewable-energy-portfolio-to-blackrock-backed-aditya-birla-renewables",
+      "publishedAt": "2026-07-14T10:02:52.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Shell-Canada.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-14",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
+      "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
+      "publishedAt": "2026-07-14T06:30:10.000Z",
+      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vd210Z0lYcEl0RUVyU2FzZVM5WE9QVFJUNTgxMVFaTDNocFRmVmdLbnpUeFJfSWhVMEZDSUxpaG9SNjFyZ2xpNWFIVjEyT3FieHdzUjdoZmg4SEo4WnhjRlVpV2Q0c3J2UEk4Qmw4QzB3UW5pMThTNjJsQkpFNWM?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "esg-dive-microsoft-s-data-center-expansion-drove--2026-07-13",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2457,72 +2592,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-eqt-acquires-u-s-energy-and-ai-infrastru-2026-07-10",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EQT Acquires U.S. Energy and AI Infrastructure Platform Copia Power from Carlyle",
-      "excerpt": "Private equity and venture capital investor EQT Group announced the acquisition of U.S. power and AI infrastructure development platform Copia Power from private capital investment firm The Carlyle Group. Carlyle launched Copia in 2021 , with the acquisition of a 6 GW U.S. solar and storage development pipeline from energy developer and operator Tenaska, with a focus on using the platform to develop, construct and operate large-scale energy infrastructure assets across the U.S. To date, the platform has brought 2.6 GW of energy generation and storage…",
-      "url": "https://www.esgtoday.com/eqt-acquires-u-s-energy-and-ai-infrastructure-platform-copia-power-from-carlyle/?utm_source=rss utm_medium=rss utm_campaign=eqt-acquires-u-s-energy-and-ai-infrastructure-platform-copia-power-from-carlyle",
-      "publishedAt": "2026-07-10T12:07:41.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EQT3.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-esg-playbook-launches-new-sustainability-2026-07-10",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "ESG Playbook Launches New Sustainability Reporting Solutions for Small, Mid-Sized Businesses",
-      "excerpt": "Sustainability and business risk software company ESG Playbook announced the launch of Essential Worksheets and Premium Modules, two new sustainability reporting product tiers targeted at small and mid-sized businesses. According to ESG Playbook, the new solutions come as smaller businesses are looking for practical ways to begin reporting, with stakeholders ranging from investors and lenders to insurers, and customers increasingly request sustainability data. The company said that the new solutions, share the same underlying data architecture as ESG…",
-      "url": "https://www.esgtoday.com/esg-playbook-launches-new-sustainability-reporting-solutions-for-small-mid-sized-businesses/?utm_source=rss utm_medium=rss utm_campaign=esg-playbook-launches-new-sustainability-reporting-solutions-for-small-mid-sized-businesses",
-      "publishedAt": "2026-07-10T10:59:12.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/ESG-Playbook-reporting.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-world-s-largest-beef-producer-jbs-drops--2026-07-10",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "World’s Largest Beef Producer JBS Drops Supply Chain Net Zero Goal",
-      "excerpt": "Brazil-based meat giant JBS Foods, the largest global producer of beef and poultry, revealed that it has retired its goal to achieve net zero emissions across its value chain by 2040, and replaced it with goals that no longer include Scope 3 emissions, which account for the vast majority of its greenhouse gas (GHG) footprint. In a post accompanying the release of the company’s 2025 Sustainability Report, JBS’ Global Chief Sustainability Officer Jason Weller highlighted key challenges the company has encountered in implementing its supply chain climate…",
-      "url": "https://www.esgtoday.com/worlds-largest-beef-producer-jbs-drops-supply-chain-net-zero-goal/?utm_source=rss utm_medium=rss utm_campaign=worlds-largest-beef-producer-jbs-drops-supply-chain-net-zero-goal",
-      "publishedAt": "2026-07-10T10:06:18.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/JBS2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-consultation-major-revision-to-cookstove-2026-07-09",
       "source": "verra",
       "sourceName": "Verra",
@@ -2586,28 +2655,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-fleek-raises-25-million-to-scale-second--2026-07-09",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Fleek Raises $25 Million to Scale Second-Hand Fashion Market with AI",
-      "excerpt": "Circular fashion marketplace startup Fleek announced that it has raised $25 million in a Series B funding round, with proceeds to be used to develop AI-powered technology enabling the second-hand fashion industry scale to meet growing demand. Founded in 2021 by Abhi Arora and Sanket Agarwal, London-based Fleek operates a B2B secondhand fashion marketplace and develops AI tools designed to digitize the sourcing, grading and trading of used apparel. According to the company, the funding comes as demand for secondhand fashion is growing three times faster…",
-      "url": "https://www.esgtoday.com/fleek-raises-25-million-to-help-scale-the-second-hand-fashion-market-with-ai/?utm_source=rss utm_medium=rss utm_campaign=fleek-raises-25-million-to-help-scale-the-second-hand-fashion-market-with-ai",
-      "publishedAt": "2026-07-09T15:08:43.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Fleek.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Private Equity & Venture Capital",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2925,15 +2972,15 @@
       "region": "world"
     },
     {
-      "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-03",
+      "id": "google-india-india-s-carbon-credit-trading-scheme-a-s-2026-07-03",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
-      "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
+      "title": "India's Carbon Credit Trading Scheme: A strong start, critical design choices ahead - Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language Decarbonization Energy Transition &…",
+      "url": "https://ieefa.org/articles/indias-carbon-credit-trading-scheme-strong-start-critical-design-choices-ahead",
       "publishedAt": "2026-07-03T07:00:00.000Z",
       "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
       "country": "India",
@@ -2943,33 +2990,10 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vd210Z0lYcEl0RUVyU2FzZVM5WE9QVFJUNTgxMVFaTDNocFRmVmdLbnpUeFJfSWhVMEZDSUxpaG9SNjFyZ2xpNWFIVjEyT3FieHdzUjdoZmg4SEo4WnhjRlVpV2Q0c3J2UEk4Qmw4QzB3UW5pMThTNjJsQkpFNWM?oc=5",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTlicVN3VGw3eTQ1V2xzOS0zWnc2QlhQU1lpM3ppUDVYeHB0UGxFWDB3ZDNCRDh1SHlxSHh4cjZ0bk1ZU0RzUDdSN0dELVlxWHhVRU9nSzdaeWRraDYycFF2UzRjLUFIcmlGblNYODFDU010U2tGQzdKRUZlX1BMZ2VRbXpYeEpzNy1oNjVrNmZjV3ZZQkpnWWZpTUZ0ZHVYWDUyMXpDUU0?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "verra-vote-for-verra-in-environmental-finance--2026-07-01",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Vote for Verra in Environmental Finance’s 2026 VCM Rankings",
-      "excerpt": "Each year, Environmental Finance holds a vote to identify leaders in the voluntary carbon market (VCM) and related markets, including project developers, traders, and service providers. Verra’s Verified Carbon Standard (VCS) Program , the world’s leading voluntary greenhouse gas (GHG) crediting program, has won the award for “ Best GHG Crediting Programme ” (formerly “Best Voluntary Carbon Standard”) eleven times since 2012. Additionally, the Verra Registry has been voted “ Best Registry Provider ” four times since 2021. The survey is open until Friday,…",
-      "url": "https://verra.org/vote-for-verra-in-environmental-finances-2026-vcm-rankings/",
-      "publishedAt": "2026-07-01T13:23:02.000Z",
-      "image": "https://verra.org/wp-content/uploads/2026/06/kristaps-ungurs-owcJsiIK7UU-unsplash-scaled.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
     },
     {
       "id": "verra-vcs-6094",
@@ -3122,54 +3146,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-the-eu-cbam-seen-from-new-delhi-and-seen-2026-06-20",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "The EU CBAM Seen from New Delhi and Seen from Brussels - orfonline.org",
-      "excerpt": "The EU sees CBAM as a success because it has triggered intensifying carbon measurement worldwide. India sees CBAM as an error because it has been designed on a one-size-fits-all basis that does not recognise the challenges faced by developing economies. Bridging that divide will shape the future of the EU-India partnership. The Carbon Border Adjustment Mechanism (CBAM) has become one of the defining fault lines in the EU-India relationship. What Brussels frames as a legitimate climate policy tool, New Delhi experiences as a costly, unilateral imposition…",
-      "url": "https://www.orfonline.org/expert-speak/the-eu-cbam-seen-from-new-delhi-and-seen-from-brussels",
-      "publishedAt": "2026-06-20T07:00:00.000Z",
-      "image": "https://www.orfonline.org/public/uploads/posts/image/thumbnail/1781970620_img-eu.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX2djMkg2QmxvQVVBeXZlS0N0X01DcVVOV2FCTW1aMnpKZUpZMFZmb0ViaUtpU3RDMFBxZUpucG9jeWdHUzh3QWtMVW9NMGV3QlUzQmE3M2pJMFp4N0Z4U2pLMnhweWdHVDBLX25RNEZiem9zNVJrdFVXZ0YxZGhhTUY0UWdQWVRDZlNOTGYtU3pjaVFYZTJOcQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Agriculture, Carbon Accounting and Climate Justice Debate - Frontline Magazine",
-      "excerpt": "Published : Jun 18, 2026 13:01 IST - 10 MINS READ If farmers are compensated for the climate services they already provide, they gain both the resources and the incentive to do more. In this file picture, a farmer examines his wheat crop in a field on the outskirts of Amritsar. | Photo Credit: NARINDER NANU/AFP The Intergovernmental Panel on Climate Change Sixth Assessment Report (IPCC-AR6) stresses the need for climate policies to prioritise carbon dioxide (CO₂) removal (CDR) processes. International agencies have, in parallel, increasingly recognised…",
-      "url": "https://frontline.thehindu.com/environment/climate-accounting-agriculture-carbon-sink/article71116675.ece",
-      "publishedAt": "2026-06-18T07:00:00.000Z",
-      "image": "https://fl-i.thgim.com/public/incoming/y7mxy6/article71116853.ece/alternates/LANDSCAPE_1200/indian%20farmers%20green%20house%20gas%20emission.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "verra-vcs-6067",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3216,30 +3192,6 @@
         "creditingPeriodStart": "2026-06-01",
         "creditingPeriodEnd": "2066-05-31",
         "program": "Verified Carbon Standard"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-      "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
-      "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
-      "publishedAt": "2026-06-05T07:00:00.000Z",
-      "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -3717,17 +3669,17 @@
       "region": "world"
     },
     {
-      "id": "google-india-opinion-three-structural-bottlenecks-hol-2026-04-14",
+      "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "OPINION | Three structural bottlenecks holding back India’s carbon trading market - Moneycontrol.com",
-      "excerpt": "OPINION | Three structural bottlenecks holding back India’s carbon trading market Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/opinion/three-structural-bottlenecks-holding-back-india-s-carbon-trading-market-13888200.html",
-      "publishedAt": "2026-04-14T07:00:00.000Z",
-      "image": null,
+      "title": "India’s Grasslands Need Climate Policy, Not Carbon Rush - Frontline Magazine",
+      "excerpt": "Published : Apr 25, 2026 18:48 IST - 12 MINS READ Grassland in Gujarat, India. Grassland restoration can increase soil organic carbon through improved grazing management, native grass recovery, and invasive species control. | Photo Credit: Getty Images/iStockPhoto India’s grasslands and rangelands deserve a central place in climate policy . But any carbon-finance pathway must rest on secure rights, pastoral participation, sound methodology, and strong public safeguards. India’s climate imagination has long been shaped by a forest-first instinct. When…",
+      "url": "https://frontline.thehindu.com/environment/india-grasslands-carbon-finance-rights-pastoralists-climate-policy/article70905160.ece",
+      "publishedAt": "2026-04-25T07:00:00.000Z",
+      "image": "https://fl-i.thgim.com/public/incoming/h4b5gr/article70905395.ece/alternates/LANDSCAPE_1200/Grasslands.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3735,7 +3687,32 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUxFSGx1N2xZS3oxMEJtREdwY2FEYW9RQTV1UGxsTEd5QzZtVUR1aGlZUHplZjZMRlpmNFBueTFjQzlPMmRLMXVJNmFFMzZLV2NoaHhFdll4VnBBQXpxckVOWGtLWXREVk9XYlFWOEpranhRTGNlYXJWU0lFVzhrWEJLbnZOdXlfTVJWR2lVYkhOZElkZnNSVFlsM1dabklpUXhvSWRXOXl1VWFjbmo0eVdUQ3lwRzlEbDRJTi1DTERzQzBDaHfSAcsBQVVfeXFMT0pyWF9sY0VxaHFiUzB4ZTQ3ejN2ckpNYkV0aHRLaTEyX0Zrak9DdGtlaVhWUWYxcThXVWhSenoxX21vZ0NfV0FMUUZtZDh4dlBncVVtcUtpaDloSWgtdFJnVUJxcWNDbTR3LXZVc3FDYjZ6VEpTWGJlSFNwUE5LRURTZ3E2aXNiM2tsdEljQWhkSVRSVjcxZXg2dDJVaWdfUC1WWUg3NFJadzdjUFQ1eFFaLTFMYjFKSWdrYmhkRXFHSkpaWkc0dHJMZEk?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlhkQURpdUd0Yk51RUEwNGEtc1NmWHMtV2dZY3hPREhXZGJUMWNlYXh3UHotaF9jZjlFZXp4RF95UEduSkg5VGlad3JWdmxBZU15T2tiZUE0TWtGZTFKOVRqT2lSRGE4d0VNYWNOdExNdTEzT0RwVVhOeEl2dTZob19pY283NFliVHk3b1ZXdDlkVVhKQUFvZG0xdE9la2htQUFmc3pJMDVFYWJxeVh4OGQ1NVhZSDJDZjR1bnlaek5rSzBTTGhlM9IBzwFBVV95cUxPemxKSjVSeW0zVXZsRG51eFhTVjk1S0R2VmcwRHppNVFPdU02NDRES2dhV1QwWFoybjdzQWNVbHg1dU1xbWJCdjlxemVrTXc3cUl0aFJPVXN6Sk9UeU5reEJhRFk5MFM5a2NzUFRiVzZVaDBxQmVxS0M4Ql9aSXpGc3lhNUFUaVhqMDZiYTNHUDBtTFNYTnJJdExuUEpMT0JkNDhvSmtyaGg3aTdvbktZcXpxUWFadDJrRHpCclJLX0h4S1I1NlNQUVpXWDFqR2M?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-a-better-blueprint-uncertain-outcomes-as-2026-04-22",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "A Better Blueprint, Uncertain Outcomes: Assessing India’s Carbon Trading Scheme - orfonline.org",
+      "excerpt": "India’s Carbon Credit Trading Scheme addresses design flaws in PAT, but without credible enforcement, verification, and demand, it risks reproducing the same market failures In the Perform, Achieve and Trade (PAT) scheme Cycle I, the non-compliance rate was 9 percent ; by PAT Cycle II, this rate had increased to about 56 percent; the Designated Consumers (DCs) obligated to purchase 86 percent of the mandated ESCerts were found to be unregistered; and the ESCerts that were purchased were sold at the floor price mandated by the Bureau of Energy Efficiency…",
+      "url": "https://www.orfonline.org/expert-speak/a-better-blueprint-uncertain-outcomes-assessing-india-s-carbon-trading-scheme",
+      "publishedAt": "2026-04-22T07:00:00.000Z",
+      "image": "https://www.orfonline.org/public/uploads/posts/image/thumbnail/1776845085_img-carban.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmk5MHVRUWxDX3ptS2NBTXEtZWVlXzFQVUVjaERmUHRFMENRbEdGNExUbzdjLWVVNnZqV0Q3RklfUzdMM0o4cTh5QjlFVWNpVVBxSW55a0VzbTQxUEhwY1picWhlV2lwbHJvWXlWNXhFakYyNncwZ1plNS1nVWR1V2hJQm5pQ1ZWa19waWFKYVBFUDBYWTZESmh2S2diRzBfMlJrN18yTFJKNmRvdFZaM3g4WDJGXzQ?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -3747,7 +3724,7 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-      "excerpt": "Insights AI Insights People and workforce: Services and latest insights Latest insights: Risk services, compliance and trends Latest insights: Sustainability and ESG trends Technology consulting services and solutions Transformation Realized series: CEO-led business transformation Services Tax services and solutions Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax…",
+      "excerpt": "Services Consulting Cybersecurity People and workforce Supply Chain Management and Operations Technology transformation consulting services Risk consulting services and solutions Tax Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax compliance GST compliance with EY DigiGST EY GTA: Global trade compliance and supply chain platform AI Tax Hub: Tax transformation AI…",
       "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
       "publishedAt": "2026-04-03T07:24:04.000Z",
       "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
@@ -4022,6 +3999,29 @@
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-why-india-s-carbon-market-needs-a-price--2025-11-10",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Why India’s carbon market needs a price stability mechanism for its new Carbon Credit Trading Scheme - The World Economic Forum",
+      "excerpt": "Why India’s carbon market needs a price stability mechanism for its new Carbon Credit Trading Scheme The World Economic Forum",
+      "url": "https://www.weforum.org/stories/energy-transition/why-india-s-carbon-market-needs-a-price-stability-mechanism/",
+      "publishedAt": "2025-11-10T08:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHRMSmJYRndlckpPcmN1dElOV3B0N2hORXZ1YnFuQjZ4Ul85YWFIaEl4TzUyWWpSazdITTBlZC1tTnBmUlVhNHhINFNGQkhLNzJXR2JtZ2UzZGsxcGNONFYtd21JbDFCak5qWkhiOFVfZGhKclFQYjhfeW02b2l6RV9PWHlZYktlN3cwNE5HRVBIOVd3Vk1kSmZfVnc2alptbUtod2FkLXJlaXRyc3pv?oc=5"
+      },
+      "region": "india"
     },
     {
       "id": "google-carbon-carbon-market-updates-indonesia-verra-ag-2025-10-16",
