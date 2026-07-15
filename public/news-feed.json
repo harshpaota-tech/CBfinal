@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-15T14:46:25.641Z",
+  "fetchedAt": "2026-07-15T20:05:04.761Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 87,
     "india": 22,
     "world": 65,
-    "withImages": 57,
-    "avgExcerptLength": 435,
+    "withImages": 56,
+    "avgExcerptLength": 431,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -230,10 +230,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-        "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
+        "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week DD India",
         "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
         "publishedAt": "2026-06-05T07:00:00.000Z",
-        "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -241,8 +241,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5"
         },
         "region": "india"
       },
@@ -590,6 +589,161 @@
     ],
     "world": [
       {
+        "id": "verra-consultation-major-revision-to-biochar-m-2026-07-15",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Consultation: Major Revision to Biochar Methodology (VM0044)",
+        "excerpt": "Verra has opened a public consultation on a major revision (methodology development ID #M0226) to VM0044 Biochar Use in Soil and Non-Soil Applications in the Verified Carbon Standard (VCS) Program . The revised methodology would be published as version 2.0 of VM0044 . The consultation will run from July 15 through August 17, 2026 . VM0044 quantifies the carbon dioxide removals resulting from the conversion of waste biomass into biochar at new biochar production facilities. Eligible soil and non-soil applications include crop and grasslands, and emerging…",
+        "url": "https://verra.org/consultation-major-revision-to-biochar-methodology-vm0044/",
+        "publishedAt": "2026-07-15T18:45:59.000Z",
+        "image": "https://verra.org/wp-content/uploads/2024/10/project-reignite-biochar.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-exclusive-corporate-social-responsibilit-2026-07-15",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Exclusive: Corporate social responsibility teams facing increased pressure, burnout in 2026",
+        "excerpt": "Professionals in charge of executing companies social strategy are increasingly being asked to make the business case for their work and measure impacts, according to a new survey from the Association of Corporate Citizenship Professionals.",
+        "url": "https://www.esgdive.com/news/corporate-social-responsibility-teams-facing-increased-pressure-accp/825319/",
+        "publishedAt": "2026-07-15T16:44:00.000Z",
+        "image": "https://imgproxy.divecdn.com/NuTysRLskh2oJzNmjyQAQwkwqd_2SHMSUNbLjskKejw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkyOTQ4NTg3XzEuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-google-inks-investment-offtake-deal-for--2026-07-15",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "Google inks investment, offtake deal for largest US solar project",
+        "excerpt": "The tech and search engine conglomerate said the Arkansas project also represents the largest solar and storage project across its portfolio to date.",
+        "url": "https://www.esgdive.com/news/google-inks-investment-offtake-deal-for-largest-us-solar-project-cypress-creek-arkansas/825318/",
+        "publishedAt": "2026-07-15T16:34:00.000Z",
+        "image": "https://imgproxy.divecdn.com/Ek8wRRaX505GV5jhe5YU0cq9FdA0zbb7hhP80pgWq3k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Mjc5NDA1X0lwS2tNaUkuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-new-york-sues-chemical-titans-over-alleg-2026-07-15",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "New York sues chemical titans over alleged PFAS exposure",
+        "excerpt": "The state accused 3M, DuPont, Chemours, Corteva and Corteva subsidiary EIDP, of deliberately manufacturing, marketing and selling consumer products laced with per- and polyfluoroalkyl substances.",
+        "url": "https://www.esgdive.com/news/new-york-pfas-exposure-lawsuit-3m-dupont-eidp-chemours-corteva/825272/",
+        "publishedAt": "2026-07-15T16:10:00.000Z",
+        "image": "https://imgproxy.divecdn.com/iBUqK77aM_4wixOMNpxtO-mJ3qnZU76ocJHAr43k1SA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjY3OTcyNzY0LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-uk-withdraws-millions-in-funding-from-wo-2026-07-15",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "UK withdraws millions in funding from world’s second-largest rainforest in Congo",
+        "excerpt": "The UK has abandoned projects worth tens of millions of pounds that were meant to help protect Congo rainforests and support local people. Together, these initiatives would have made up around half of the £200m that the UK pledged to support conservation in the Congo basin – the world’s second-largest rainforest. When it hosted COP26 in Glasgow, the UK led a new initiative to end forest loss, which included a collective pledge by 12 donors of “at least” $1.5bn (£1.1bn) for Congo rainforest nations by 2025. Development minister Jenny Chapman revealed…",
+        "url": "https://www.carbonbrief.org/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo/",
+        "publishedAt": "2026-07-15T16:04:22.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/2B52FWE-300x200.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Nature policy",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-calstrs-invests-2-billion-to-anchor-nuve-2026-07-15",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "CalSTRS Invests $2 Billion to Anchor Nuveen Sustainable Infrastructure Fund",
+        "excerpt": "Global investment manager Nuveen announced a strategic partnership with the California State Teachers Retirement System (CalSTRS), under which CalSTRS will commit up to $2 billion to sustainable infrastructure investments, serving as a anchor investor for Nuveen s Energy & Power Infrastructure Credit Fund II (EPIC II). In addition to the EPIC II fund, the new partnership also positions CalSTRS to anchor future complementary investment strategies to support critical infrastructure for the clean energy economy, the firms added. The new partnership will…",
+        "url": "https://www.esgtoday.com/calstrs-invests-2-billion-to-anchor-nuveen-sustainable-infrastructure-fund/?utm_source=rss utm_medium=rss utm_campaign=calstrs-invests-2-billion-to-anchor-nuveen-sustainable-infrastructure-fund",
+        "publishedAt": "2026-07-15T15:12:08.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/CalSTRS3.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-cropped-15-july-2026-uganda-starves-trum-2026-07-15",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Cropped 15 July 2026: Uganda starves Trump opens endangered habitats UK cuts rainforest aid",
+        "excerpt": "We handpick and explain the most important stories at the intersection of climate, land, food and nature over the past fortnight. This is an online version of Carbon Brief’s fortnightly Cropped email newsletter. Subscribe for free here. DRY THEN WET: A recent heatwave and months of low rainfall has led to a prolonged drought for Uganda, resulting in at least 16 deaths from hunger and significant crop losses, reported BBC News . Bastille Post Global suggested that “a developing El Niño later this year could bring heavier rainfall to parts of the region,…",
+        "url": "https://www.carbonbrief.org/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid/",
+        "publishedAt": "2026-07-15T14:49:04.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/2H0AR1F-1024x684.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Cropped",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-eu-commission-launches-legal-action-agai-2026-07-15",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -663,7 +817,7 @@
         "tag": "ESG",
         "accent": "#60a5fa",
         "title": "Google Signs Massive Clean Energy Deal with Largest Solar Project in U.S.",
-        "excerpt": "Google announced that a new partnership with renewables developer Cypress Creek Energy, with the tech giant signing on to become the anchor investor and offtaker for the Steel River Energy Center project in Arkansas – the largest-ever solar facility in the U.S. – including a power purchase agreement (PPA) to buy 100% of the energy from the project’s initial phases. The deal marks the largest solar and storage agreement to date for Google, one of the largest corporate purchasers of clean energy globally. Google has significantly accelerated its renewable…",
+        "excerpt": "Google announced a new partnership with renewables developer Cypress Creek Energy, with the tech giant signing on to become the anchor investor and offtaker for the Steel River Energy Center project in Arkansas – the largest-ever solar facility in the U.S. – including a power purchase agreement (PPA) to buy 100% of the energy from the project’s initial phases. The deal marks the largest solar and storage agreement to date for Google, one of the largest corporate purchasers of clean energy globally. Google has significantly accelerated its renewable…",
         "url": "https://www.esgtoday.com/google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s/?utm_source=rss utm_medium=rss utm_campaign=google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s",
         "publishedAt": "2026-07-15T10:35:50.000Z",
         "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Google6-1.jpg",
@@ -729,7 +883,7 @@
         "tag": "ESG",
         "accent": "#60a5fa",
         "title": "PepsiCo improves sustainable sourcing, delays emissions reporting",
-        "excerpt": "The company reported a four percentage point increase in sustainably sourced ingredients in 2025 but has yet to document scope 3 emissions metrics.",
+        "excerpt": "The company reported a four percentage point increase in sustainably sourced ingredients in 2025 but will release Scope 3 emissions metrics later this summer.",
         "url": "https://www.esgdive.com/news/pepsico-improves-sustainable-sourcing-delays-emissions-reporting/825155/",
         "publishedAt": "2026-07-14T16:20:00.000Z",
         "image": "https://imgproxy.divecdn.com/0lcIMvaQDIK9K2IcQgwLaLyGZU0q3PVlDNtBUVLHOk0/g:nowe:0:251/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQwMTYyMTEyLmpwZw==.webp",
@@ -872,28 +1026,6 @@
         "status": null,
         "meta": {
           "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-eu-approves-france-s-63-billion-offshore-2026-07-14",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EU Approves France’s €63 Billion Offshore Wind Plan",
-        "excerpt": "The European Commission announced that it has approved a €63 billion state aid program by France to support the construction of offshore wind projects over 25 years, aimed at contributing towards the transition towards a net zero economy and aligning with the objectives of the EU’s Clean Industrial Deal . The French program will support the construction and operation of eleven offshore wind farms, in the North Sea, the Atlantic and the Mediterranean. The windfarms are expected to have a combined capacity of up to 11.1 GW and to generate up to 47.8 TW of…",
-        "url": "https://www.esgtoday.com/eu-approves-frances-e63-billion-offshore-wind-plan/?utm_source=rss utm_medium=rss utm_campaign=eu-approves-frances-e63-billion-offshore-wind-plan",
-        "publishedAt": "2026-07-14T10:38:11.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Wind-offshore-EU1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
           "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
@@ -1145,50 +1277,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-google-mckinsey-tencent-invest-in-indone-2026-07-09",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Google, McKinsey, Tencent invest in Indonesia carbon removal",
-        "excerpt": "Google and McKinsey will purchase 335,000 metric tons of nature-based removals through the Symbiosis Coalition, while Tencent will purchase 300,000 metric tons as its first offtake outside of China.",
-        "url": "https://www.esgdive.com/news/google-mckinsey-tencent-invest-in-indonesia-carbon-removal/824850/",
-        "publishedAt": "2026-07-09T16:43:00.000Z",
-        "image": "https://imgproxy.divecdn.com/tI2gKkP4pBQu61NalMpf8JilY_1lb4sE4Y_ARGIhPS0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00NTIxNjc1NzhfcFBPeWxIVi5qcGc=.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-resilience-projects-need-funding-green-b-2026-07-09",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Resilience projects need funding. Green banks could help them reach new investors, one researcher says.",
-        "excerpt": "A hybrid institutional capital model could package small infrastructure resilience projects to make them attractive to institutional investors, a new research paper proposes.",
-        "url": "https://www.esgdive.com/news/climate-resilience-projects-funding-institutions-long-term-investments/824701/",
-        "publishedAt": "2026-07-09T15:54:00.000Z",
-        "image": "https://imgproxy.divecdn.com/opHt8zQQNLW3-UU0B-zkccVDeGkf3aUUIvd-vcfgJlg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyNDY2NDg4LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-china-briefing-9-july-2026-guangxi-flood-2026-07-09",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1256,28 +1344,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-3m-elevates-company-veteran-to-chief-sus-2026-07-08",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "3M elevates company veteran to chief sustainability officer",
-        "excerpt": "Amanda Yates, who has been with the company for more than 13 years, will step in as CSO starting this month. She most recently served as 3M s senior director of global sustainability.",
-        "url": "https://www.esgdive.com/news/3m-elevates-company-veteran-to-cso-amanda-yates/824725/",
-        "publishedAt": "2026-07-08T16:45:31.000Z",
-        "image": "https://imgproxy.divecdn.com/z4-PlkJ2xgfpddkMMu99uT6b10jhMk8CB3BSKG4gw3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDIzMDUxNl8xMzU2NTIuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-verra-launches-resource-for-cookstove-me-2026-07-07",
         "source": "verra",
         "sourceName": "Verra",
@@ -1297,28 +1363,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-cited-7-july-2026-impossible-heat-global-2026-07-07",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Cited 7 July 2026: ‘Impossible’ heat Global ocean record Climate change and the ozone hole",
-        "excerpt": "Welcome to Cited, your essential guide to new climate research. ‘HEAT ALERT’: At least 25 people died as a “heat dome” smothered the eastern half of the US, reported the Guardian , with more than 20 states under “stifling temperatures more than 100F (38C)”. More than 140 million people were under heat alerts, the outlet said, with dead bodies found in “homes with no air conditioning, outside their residences, on the street and in parked cars”. Analysis by World Weather Attribution (WWA) found that the combined heat and humidity would have been…",
-        "url": "https://www.carbonbrief.org/cited-7-july-2026-impossible-heat-global-ocean-record-climate-change-and-the-ozone-hole/",
-        "publishedAt": "2026-07-07T14:58:43.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/cited1_1.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Science",
-          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -1346,28 +1390,6 @@
         "region": "world"
       },
       {
-        "id": "carbon-brief-guest-post-france-s-june-heatwave-caused-2026-07-07",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Guest post: France’s June heatwave caused more than 2,700 heat-related deaths",
-        "excerpt": "In June 2026, a record-breaking heatwave swept across Europe, with France among the first and hardest hit countries. In a new analysis, we estimate that the extreme conditions caused more than 2,700 heat-related deaths in France. We also show how France’s extreme temperatures in June exceeded projections from climate models. Our findings illustrate the human toll of extreme weather as the world warms. We also highlight the challenges in projecting the magnitude of future heatwaves and their impacts on people. For most of this century, Europe has seen…",
-        "url": "https://www.carbonbrief.org/guest-post-frances-june-heatwave-caused-more-than-2700-heat-related-deaths/",
-        "publishedAt": "2026-07-07T12:25:48.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/france_tmax_timeseries.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Extreme weather",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-projects-open-for-public-comment-july-6--2026-07-06",
         "source": "verra",
         "sourceName": "Verra",
@@ -1379,29 +1401,6 @@
         "url": "https://verra.org/projects-open-for-public-comment-july-6-2026/",
         "publishedAt": "2026-07-06T15:29:46.000Z",
         "image": "https://verra.org/wp-content/uploads/2025/12/agriculture-5455452_1920.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-verra-to-issue-first-credits-under-indon-2026-07-06",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra to Issue First Credits Under Indonesia s New Carbon Market Regulations",
-        "excerpt": "WASHINGTON – Jul. 6, 2026 | Following the operationalization of Indonesia’s national carbon market, Verra is preparing to issue carbon credits to three Indonesian forestry projects that have fulfilled all regulatory requirements and received the necessary approvals under the country’s updated carbon market regulations. Collectively, Verra anticipates issuing at least 20 million tonnes of CO 2 equivalent in emission reductions over the respective verification periods to the Katingan Peatland Restoration and Conservation Project ( Verra Project 1477 ),…",
-        "url": "https://verra.org/verra-to-issue-first-credits-under-indonesias-new-carbon-market-regulations/",
-        "publishedAt": "2026-07-06T14:40:07.000Z",
-        "image": "https://verra.org/wp-content/uploads/2024/10/Katingan-Peatland-Restoration-and-Conservation-Project-1477-Katingan-Mentaya-Project-Central-Kalimantan-Indonesia-Working-in-field-with-equipment-scaled.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -2028,17 +2027,17 @@
         "region": "world"
       },
       {
-        "id": "google-h2-thyssenkrupp-s-trading-arm-pledges-to-bu-2025-09-17",
+        "id": "google-h2-opinion-is-liebreich-s-hydrogen-ladder-s-2024-12-11",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "Thyssenkrupp’s trading arm pledges to buy all the green iron produced by 1.4GW Australian project - Hydrogen Insight",
-        "excerpt": "Thyssenkrupp’s trading arm pledges to buy all the green iron produced by 1.4GW Australian project Hydrogen Insight",
-        "url": "https://www.hydrogeninsight.com/industrial/thyssenkrupp-s-trading-arm-pledges-to-buy-all-the-green-iron-produced-by-1-4gw-australian-project/2-1-1873375",
-        "publishedAt": "2025-09-17T07:00:00.000Z",
-        "image": "https://image.dngroup.com/global/nhst/binary/9d4c9bc5c3f24af08dd92fd3dab6b0dd?crop=1024%2C512%2Cx0%2Cy123%2Csafe&width=1200&format=webp&quality=80",
+        "title": "OPINION | Is Liebreich's Hydrogen Ladder still relevant if near-unavoidable uses of H2 can be replaced by carbon offsets? - Hydrogen Insight",
+        "excerpt": "If we follow the influential analyst’s logic that CO2 offsetting is a better solution to aviation emissions than e-SAF, isn’t the same true for other use cases of clean H2? asks Keynumbers’ John Poljak",
+        "url": "https://www.hydrogeninsight.com/analysis/opinion-is-liebreichs-hydrogen-ladder-still-relevant-if-near-unavoidable-uses-of-h2-can-be-replaced-by-carbon-offsets-/2-1-1751616",
+        "publishedAt": "2024-12-11T08:00:00.000Z",
+        "image": "https://image.dngroup.com/global/nhst/binary/9b5afd6c7a3137bb194e768e9451c86e?crop=1600%2C801%2Cx0%2Cy406%2Csafe&width=1200&format=webp&quality=80",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -2046,7 +2045,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc3plQVRfNWttLTdyRHAwN2FOWlpnRVdxZFpzZ1ZqcmtWb2FKOV9xckpzZUs1akhpOTcyS0ZxVjdjWmUtOE5rSmJGN2dWLXhMaTBSU3JwbHpvZml4NU5NcTZWbG1MeGRQMGd1SjVPSlFDQl9NUC1IYlZpekhrYmZRV01jb3VmZjlyUTdkd1BmY3QtTW9JZEVrU3hPRVZnUlUyY0p3Y2J4bFZ1SlluNnBkMnBwUmdXazRSWGNTc0pDUmdreENWTWsxZUVEVm5DSEhsQ0Vzb3BfX0RHQ0ZpcEp2S216RFpxMEE?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObTJ3dFViMDlMRDJnREhRYmlIaUlUdWJqbGhtZ05DQUE5ci1iNTVTdXB1NW9KaDJNSVBZaHd2R0d1UE43SXJuLThhRjZJRDVwRWNtR29qcWl0SmxPZ3VmMVhZTnZ0OEtpMXE0VUdlS2s3cF9sV292OThXY2xvSktFSUZzVHo0ek04YVNsM2dlQjVyenBqM1JBdW0zZ0FTNkpKa2dIZHAtU3hBTmhCWkhWZlYtdjJjeUp2Z1VIa2VCcGdvREJUVWpDbUQ5NjVydmNuNVlzLVMwUHFBTnpIcHZPVThwUkJhWXlOeHR5ZW1WUVFmTEtRT2dCX1htYlB3MEZY?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -2102,6 +2101,161 @@
     ]
   },
   "articles": [
+    {
+      "id": "verra-consultation-major-revision-to-biochar-m-2026-07-15",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Consultation: Major Revision to Biochar Methodology (VM0044)",
+      "excerpt": "Verra has opened a public consultation on a major revision (methodology development ID #M0226) to VM0044 Biochar Use in Soil and Non-Soil Applications in the Verified Carbon Standard (VCS) Program . The revised methodology would be published as version 2.0 of VM0044 . The consultation will run from July 15 through August 17, 2026 . VM0044 quantifies the carbon dioxide removals resulting from the conversion of waste biomass into biochar at new biochar production facilities. Eligible soil and non-soil applications include crop and grasslands, and emerging…",
+      "url": "https://verra.org/consultation-major-revision-to-biochar-methodology-vm0044/",
+      "publishedAt": "2026-07-15T18:45:59.000Z",
+      "image": "https://verra.org/wp-content/uploads/2024/10/project-reignite-biochar.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-exclusive-corporate-social-responsibilit-2026-07-15",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Exclusive: Corporate social responsibility teams facing increased pressure, burnout in 2026",
+      "excerpt": "Professionals in charge of executing companies social strategy are increasingly being asked to make the business case for their work and measure impacts, according to a new survey from the Association of Corporate Citizenship Professionals.",
+      "url": "https://www.esgdive.com/news/corporate-social-responsibility-teams-facing-increased-pressure-accp/825319/",
+      "publishedAt": "2026-07-15T16:44:00.000Z",
+      "image": "https://imgproxy.divecdn.com/NuTysRLskh2oJzNmjyQAQwkwqd_2SHMSUNbLjskKejw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkyOTQ4NTg3XzEuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-google-inks-investment-offtake-deal-for--2026-07-15",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "POLICY",
+      "accent": "#5eead4",
+      "title": "Google inks investment, offtake deal for largest US solar project",
+      "excerpt": "The tech and search engine conglomerate said the Arkansas project also represents the largest solar and storage project across its portfolio to date.",
+      "url": "https://www.esgdive.com/news/google-inks-investment-offtake-deal-for-largest-us-solar-project-cypress-creek-arkansas/825318/",
+      "publishedAt": "2026-07-15T16:34:00.000Z",
+      "image": "https://imgproxy.divecdn.com/Ek8wRRaX505GV5jhe5YU0cq9FdA0zbb7hhP80pgWq3k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Mjc5NDA1X0lwS2tNaUkuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-new-york-sues-chemical-titans-over-alleg-2026-07-15",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "New York sues chemical titans over alleged PFAS exposure",
+      "excerpt": "The state accused 3M, DuPont, Chemours, Corteva and Corteva subsidiary EIDP, of deliberately manufacturing, marketing and selling consumer products laced with per- and polyfluoroalkyl substances.",
+      "url": "https://www.esgdive.com/news/new-york-pfas-exposure-lawsuit-3m-dupont-eidp-chemours-corteva/825272/",
+      "publishedAt": "2026-07-15T16:10:00.000Z",
+      "image": "https://imgproxy.divecdn.com/iBUqK77aM_4wixOMNpxtO-mJ3qnZU76ocJHAr43k1SA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjY3OTcyNzY0LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-uk-withdraws-millions-in-funding-from-wo-2026-07-15",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "POLICY",
+      "accent": "#5eead4",
+      "title": "UK withdraws millions in funding from world’s second-largest rainforest in Congo",
+      "excerpt": "The UK has abandoned projects worth tens of millions of pounds that were meant to help protect Congo rainforests and support local people. Together, these initiatives would have made up around half of the £200m that the UK pledged to support conservation in the Congo basin – the world’s second-largest rainforest. When it hosted COP26 in Glasgow, the UK led a new initiative to end forest loss, which included a collective pledge by 12 donors of “at least” $1.5bn (£1.1bn) for Congo rainforest nations by 2025. Development minister Jenny Chapman revealed…",
+      "url": "https://www.carbonbrief.org/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo/",
+      "publishedAt": "2026-07-15T16:04:22.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/2B52FWE-300x200.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Nature policy",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-calstrs-invests-2-billion-to-anchor-nuve-2026-07-15",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "CalSTRS Invests $2 Billion to Anchor Nuveen Sustainable Infrastructure Fund",
+      "excerpt": "Global investment manager Nuveen announced a strategic partnership with the California State Teachers Retirement System (CalSTRS), under which CalSTRS will commit up to $2 billion to sustainable infrastructure investments, serving as a anchor investor for Nuveen s Energy & Power Infrastructure Credit Fund II (EPIC II). In addition to the EPIC II fund, the new partnership also positions CalSTRS to anchor future complementary investment strategies to support critical infrastructure for the clean energy economy, the firms added. The new partnership will…",
+      "url": "https://www.esgtoday.com/calstrs-invests-2-billion-to-anchor-nuveen-sustainable-infrastructure-fund/?utm_source=rss utm_medium=rss utm_campaign=calstrs-invests-2-billion-to-anchor-nuveen-sustainable-infrastructure-fund",
+      "publishedAt": "2026-07-15T15:12:08.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/CalSTRS3.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-cropped-15-july-2026-uganda-starves-trum-2026-07-15",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Cropped 15 July 2026: Uganda starves Trump opens endangered habitats UK cuts rainforest aid",
+      "excerpt": "We handpick and explain the most important stories at the intersection of climate, land, food and nature over the past fortnight. This is an online version of Carbon Brief’s fortnightly Cropped email newsletter. Subscribe for free here. DRY THEN WET: A recent heatwave and months of low rainfall has led to a prolonged drought for Uganda, resulting in at least 16 deaths from hunger and significant crop losses, reported BBC News . Bastille Post Global suggested that “a developing El Niño later this year could bring heavier rainfall to parts of the region,…",
+      "url": "https://www.carbonbrief.org/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid/",
+      "publishedAt": "2026-07-15T14:49:04.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/2H0AR1F-1024x684.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Cropped",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-eu-commission-launches-legal-action-agai-2026-07-15",
       "source": "esg-today",
@@ -2176,7 +2330,7 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "Google Signs Massive Clean Energy Deal with Largest Solar Project in U.S.",
-      "excerpt": "Google announced that a new partnership with renewables developer Cypress Creek Energy, with the tech giant signing on to become the anchor investor and offtaker for the Steel River Energy Center project in Arkansas – the largest-ever solar facility in the U.S. – including a power purchase agreement (PPA) to buy 100% of the energy from the project’s initial phases. The deal marks the largest solar and storage agreement to date for Google, one of the largest corporate purchasers of clean energy globally. Google has significantly accelerated its renewable…",
+      "excerpt": "Google announced a new partnership with renewables developer Cypress Creek Energy, with the tech giant signing on to become the anchor investor and offtaker for the Steel River Energy Center project in Arkansas – the largest-ever solar facility in the U.S. – including a power purchase agreement (PPA) to buy 100% of the energy from the project’s initial phases. The deal marks the largest solar and storage agreement to date for Google, one of the largest corporate purchasers of clean energy globally. Google has significantly accelerated its renewable…",
       "url": "https://www.esgtoday.com/google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s/?utm_source=rss utm_medium=rss utm_campaign=google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s",
       "publishedAt": "2026-07-15T10:35:50.000Z",
       "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Google6-1.jpg",
@@ -2264,7 +2418,7 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "PepsiCo improves sustainable sourcing, delays emissions reporting",
-      "excerpt": "The company reported a four percentage point increase in sustainably sourced ingredients in 2025 but has yet to document scope 3 emissions metrics.",
+      "excerpt": "The company reported a four percentage point increase in sustainably sourced ingredients in 2025 but will release Scope 3 emissions metrics later this summer.",
       "url": "https://www.esgdive.com/news/pepsico-improves-sustainable-sourcing-delays-emissions-reporting/825155/",
       "publishedAt": "2026-07-14T16:20:00.000Z",
       "image": "https://imgproxy.divecdn.com/0lcIMvaQDIK9K2IcQgwLaLyGZU0q3PVlDNtBUVLHOk0/g:nowe:0:251/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQwMTYyMTEyLmpwZw==.webp",
@@ -2407,28 +2561,6 @@
       "status": null,
       "meta": {
         "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-eu-approves-france-s-63-billion-offshore-2026-07-14",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EU Approves France’s €63 Billion Offshore Wind Plan",
-      "excerpt": "The European Commission announced that it has approved a €63 billion state aid program by France to support the construction of offshore wind projects over 25 years, aimed at contributing towards the transition towards a net zero economy and aligning with the objectives of the EU’s Clean Industrial Deal . The French program will support the construction and operation of eleven offshore wind farms, in the North Sea, the Atlantic and the Mediterranean. The windfarms are expected to have a combined capacity of up to 11.1 GW and to generate up to 47.8 TW of…",
-      "url": "https://www.esgtoday.com/eu-approves-frances-e63-billion-offshore-wind-plan/?utm_source=rss utm_medium=rss utm_campaign=eu-approves-frances-e63-billion-offshore-wind-plan",
-      "publishedAt": "2026-07-14T10:38:11.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Wind-offshore-EU1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
         "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
@@ -2704,50 +2836,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-google-mckinsey-tencent-invest-in-indone-2026-07-09",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Google, McKinsey, Tencent invest in Indonesia carbon removal",
-      "excerpt": "Google and McKinsey will purchase 335,000 metric tons of nature-based removals through the Symbiosis Coalition, while Tencent will purchase 300,000 metric tons as its first offtake outside of China.",
-      "url": "https://www.esgdive.com/news/google-mckinsey-tencent-invest-in-indonesia-carbon-removal/824850/",
-      "publishedAt": "2026-07-09T16:43:00.000Z",
-      "image": "https://imgproxy.divecdn.com/tI2gKkP4pBQu61NalMpf8JilY_1lb4sE4Y_ARGIhPS0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00NTIxNjc1NzhfcFBPeWxIVi5qcGc=.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-resilience-projects-need-funding-green-b-2026-07-09",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Resilience projects need funding. Green banks could help them reach new investors, one researcher says.",
-      "excerpt": "A hybrid institutional capital model could package small infrastructure resilience projects to make them attractive to institutional investors, a new research paper proposes.",
-      "url": "https://www.esgdive.com/news/climate-resilience-projects-funding-institutions-long-term-investments/824701/",
-      "publishedAt": "2026-07-09T15:54:00.000Z",
-      "image": "https://imgproxy.divecdn.com/opHt8zQQNLW3-UU0B-zkccVDeGkf3aUUIvd-vcfgJlg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyNDY2NDg4LmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-china-briefing-9-july-2026-guangxi-flood-2026-07-09",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2815,28 +2903,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-3m-elevates-company-veteran-to-chief-sus-2026-07-08",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "3M elevates company veteran to chief sustainability officer",
-      "excerpt": "Amanda Yates, who has been with the company for more than 13 years, will step in as CSO starting this month. She most recently served as 3M s senior director of global sustainability.",
-      "url": "https://www.esgdive.com/news/3m-elevates-company-veteran-to-cso-amanda-yates/824725/",
-      "publishedAt": "2026-07-08T16:45:31.000Z",
-      "image": "https://imgproxy.divecdn.com/z4-PlkJ2xgfpddkMMu99uT6b10jhMk8CB3BSKG4gw3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDIzMDUxNl8xMzU2NTIuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-launches-resource-for-cookstove-me-2026-07-07",
       "source": "verra",
       "sourceName": "Verra",
@@ -2856,28 +2922,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-cited-7-july-2026-impossible-heat-global-2026-07-07",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Cited 7 July 2026: ‘Impossible’ heat Global ocean record Climate change and the ozone hole",
-      "excerpt": "Welcome to Cited, your essential guide to new climate research. ‘HEAT ALERT’: At least 25 people died as a “heat dome” smothered the eastern half of the US, reported the Guardian , with more than 20 states under “stifling temperatures more than 100F (38C)”. More than 140 million people were under heat alerts, the outlet said, with dead bodies found in “homes with no air conditioning, outside their residences, on the street and in parked cars”. Analysis by World Weather Attribution (WWA) found that the combined heat and humidity would have been…",
-      "url": "https://www.carbonbrief.org/cited-7-july-2026-impossible-heat-global-ocean-record-climate-change-and-the-ozone-hole/",
-      "publishedAt": "2026-07-07T14:58:43.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/cited1_1.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Science",
-        "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
     },
@@ -2905,28 +2949,6 @@
       "region": "world"
     },
     {
-      "id": "carbon-brief-guest-post-france-s-june-heatwave-caused-2026-07-07",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Guest post: France’s June heatwave caused more than 2,700 heat-related deaths",
-      "excerpt": "In June 2026, a record-breaking heatwave swept across Europe, with France among the first and hardest hit countries. In a new analysis, we estimate that the extreme conditions caused more than 2,700 heat-related deaths in France. We also show how France’s extreme temperatures in June exceeded projections from climate models. Our findings illustrate the human toll of extreme weather as the world warms. We also highlight the challenges in projecting the magnitude of future heatwaves and their impacts on people. For most of this century, Europe has seen…",
-      "url": "https://www.carbonbrief.org/guest-post-frances-june-heatwave-caused-more-than-2700-heat-related-deaths/",
-      "publishedAt": "2026-07-07T12:25:48.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/france_tmax_timeseries.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Extreme weather",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-july-6--2026-07-06",
       "source": "verra",
       "sourceName": "Verra",
@@ -2938,29 +2960,6 @@
       "url": "https://verra.org/projects-open-for-public-comment-july-6-2026/",
       "publishedAt": "2026-07-06T15:29:46.000Z",
       "image": "https://verra.org/wp-content/uploads/2025/12/agriculture-5455452_1920.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-verra-to-issue-first-credits-under-indon-2026-07-06",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra to Issue First Credits Under Indonesia s New Carbon Market Regulations",
-      "excerpt": "WASHINGTON – Jul. 6, 2026 | Following the operationalization of Indonesia’s national carbon market, Verra is preparing to issue carbon credits to three Indonesian forestry projects that have fulfilled all regulatory requirements and received the necessary approvals under the country’s updated carbon market regulations. Collectively, Verra anticipates issuing at least 20 million tonnes of CO 2 equivalent in emission reductions over the respective verification periods to the Katingan Peatland Restoration and Conservation Project ( Verra Project 1477 ),…",
-      "url": "https://verra.org/verra-to-issue-first-credits-under-indonesias-new-carbon-market-regulations/",
-      "publishedAt": "2026-07-06T14:40:07.000Z",
-      "image": "https://verra.org/wp-content/uploads/2024/10/Katingan-Peatland-Restoration-and-Conservation-Project-1477-Katingan-Mentaya-Project-Central-Kalimantan-Indonesia-Working-in-field-with-equipment-scaled.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3301,10 +3300,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-      "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
+      "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week DD India",
       "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
       "publishedAt": "2026-06-05T07:00:00.000Z",
-      "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3312,8 +3311,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5"
       },
       "region": "india"
     },
@@ -4025,30 +4023,6 @@
       "region": "world"
     },
     {
-      "id": "google-h2-thyssenkrupp-s-trading-arm-pledges-to-bu-2025-09-17",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Thyssenkrupp’s trading arm pledges to buy all the green iron produced by 1.4GW Australian project - Hydrogen Insight",
-      "excerpt": "Thyssenkrupp’s trading arm pledges to buy all the green iron produced by 1.4GW Australian project Hydrogen Insight",
-      "url": "https://www.hydrogeninsight.com/industrial/thyssenkrupp-s-trading-arm-pledges-to-buy-all-the-green-iron-produced-by-1-4gw-australian-project/2-1-1873375",
-      "publishedAt": "2025-09-17T07:00:00.000Z",
-      "image": "https://image.dngroup.com/global/nhst/binary/9d4c9bc5c3f24af08dd92fd3dab6b0dd?crop=1024%2C512%2Cx0%2Cy123%2Csafe&width=1200&format=webp&quality=80",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc3plQVRfNWttLTdyRHAwN2FOWlpnRVdxZFpzZ1ZqcmtWb2FKOV9xckpzZUs1akhpOTcyS0ZxVjdjWmUtOE5rSmJGN2dWLXhMaTBSU3JwbHpvZml4NU5NcTZWbG1MeGRQMGd1SjVPSlFDQl9NUC1IYlZpekhrYmZRV01jb3VmZjlyUTdkd1BmY3QtTW9JZEVrU3hPRVZnUlUyY0p3Y2J4bFZ1SlluNnBkMnBwUmdXazRSWGNTc0pDUmdreENWTWsxZUVEVm5DSEhsQ0Vzb3BfX0RHQ0ZpcEp2S216RFpxMEE?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -4095,6 +4069,30 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-h2-opinion-is-liebreich-s-hydrogen-ladder-s-2024-12-11",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "OPINION | Is Liebreich's Hydrogen Ladder still relevant if near-unavoidable uses of H2 can be replaced by carbon offsets? - Hydrogen Insight",
+      "excerpt": "If we follow the influential analyst’s logic that CO2 offsetting is a better solution to aviation emissions than e-SAF, isn’t the same true for other use cases of clean H2? asks Keynumbers’ John Poljak",
+      "url": "https://www.hydrogeninsight.com/analysis/opinion-is-liebreichs-hydrogen-ladder-still-relevant-if-near-unavoidable-uses-of-h2-can-be-replaced-by-carbon-offsets-/2-1-1751616",
+      "publishedAt": "2024-12-11T08:00:00.000Z",
+      "image": "https://image.dngroup.com/global/nhst/binary/9b5afd6c7a3137bb194e768e9451c86e?crop=1600%2C801%2Cx0%2Cy406%2Csafe&width=1200&format=webp&quality=80",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObTJ3dFViMDlMRDJnREhRYmlIaUlUdWJqbGhtZ05DQUE5ci1iNTVTdXB1NW9KaDJNSVBZaHd2R0d1UE43SXJuLThhRjZJRDVwRWNtR29qcWl0SmxPZ3VmMVhZTnZ0OEtpMXE0VUdlS2s3cF9sV292OThXY2xvSktFSUZzVHo0ek04YVNsM2dlQjVyenBqM1JBdW0zZ0FTNkpKa2dIZHAtU3hBTmhCWkhWZlYtdjJjeUp2Z1VIa2VCcGdvREJUVWpDbUQ5NjVydmNuNVlzLVMwUHFBTnpIcHZPVThwUkJhWXlOeHR5ZW1WUVFmTEtRT2dCX1htYlB3MEZY?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-systematic-assessment-of-the-achieved-em-2024-11-14",
