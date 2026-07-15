@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-15T09:12:13.506Z",
+  "fetchedAt": "2026-07-15T14:46:25.641Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,8 +45,8 @@
   ],
   "stats": {
     "total": 87,
-    "india": 23,
-    "world": 64,
+    "india": 22,
+    "world": 65,
     "withImages": 57,
     "avgExcerptLength": 435,
     "verra": 10,
@@ -74,28 +74,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "india"
-      },
-      {
-        "id": "esg-today-shell-sells-80-of-its-renewable-energy-p-2026-07-14",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Shell Sells 80% of its Renewable Energy Portfolio to BlackRock-Backed Aditya Birla Renewables",
-        "excerpt": "Shell and India-based industrial conglomerate Aditya Birla Group’s clean energy solutions subsidiary Aditya Birla Renewables (ABREN) announced an agreement for ABREN to acquire renewable energy platform Sprng Energy, marking one of the largest acquisitions in India’s clean energy sector by both value and scale. The deal values Sprng at $1.8 billion, and includes a portfolio of 5 GW of capacity, representing approximately four-fifths of Shell’s renewable energy capacity, which stood at 6.1 GW at the end of 2025. Sprng was launched in 2017 by sustainable…",
-        "url": "https://www.esgtoday.com/shell-sells-80-of-its-renewable-energy-portfolio-to-blackrock-backed-aditya-birla-renewables/?utm_source=rss utm_medium=rss utm_campaign=shell-sells-80-of-its-renewable-energy-portfolio-to-blackrock-backed-aditya-birla-renewables",
-        "publishedAt": "2026-07-14T10:02:52.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Shell-Canada.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "india"
       },
@@ -474,7 +452,7 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-        "excerpt": "Services Consulting Cybersecurity People and Workforce Supply Chain Management and Operations Technology Transformation Risk Consulting Services Tax Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax compliance GST compliance with EY DigiGST EY GTA: Global trade compliance and supply chain platform AI Tax Hub: Tax transformation AI solution EY Accounts payable…",
+        "excerpt": "Insights AI CFO CEO EY Transformation Services Assurance Services Climate Change and Sustainability Services Financial Accounting and Advisory Services Forensic and Integrity Services Consulting Cybersecurity People and Workforce Risk Consulting Services Supply Chain Management and Operations Technology Transformation Strategy and Transactions Corporate Finance Advisory Services Debt and Special Situations EY Merchant Banking Services Mergers and Acquisitions M&A Due Diligence Consulting Services Private Equity Advisory Services Strategy by EY-Parthenon…",
         "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
         "publishedAt": "2026-04-03T07:24:04.000Z",
         "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
@@ -611,6 +589,138 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-eu-commission-launches-legal-action-agai-2026-07-15",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EU Commission Launches Legal Action Against All 27 Member States for Failing to Implement Zero Emission Building Law",
+        "excerpt": "The European Commission announced that it has sent letters to all 27 EU member states, opening infringement procedures over the states’ failure to fully transpose new rules aimed at achieving a zero emissions building stock across the EU by 2050 into their national laws. Adopted by European lawmakers in 2024, the updated Energy Performance of Buildings Directive (EPBD) introduced a series of rules aimed at reducing energy use and emissions from buildings across the EU, including targets for all new buildings to be zero emissions by 2030, and to phase…",
+        "url": "https://www.esgtoday.com/eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law/?utm_source=rss utm_medium=rss utm_campaign=eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law",
+        "publishedAt": "2026-07-15T13:48:46.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-flags3-1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-green-project-technologies-acquires-carb-2026-07-15",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Green Project Technologies Acquires Carbon Accounting Platform Optera",
+        "excerpt": "Supply chain decarbonization software company Green Project Technologies announced the acquisition of enterprise carbon accounting and reporting solutions provider Optera, with the transaction aimed at forming an end-to-end AI-powered climate management platform for companies. Founded in 2006 initially as a boutique corporate sustainability consulting firm, and later shifting focus to software, Boulder, Colorado-based Optera provides sustainability management solutions designed to help companies reduce their climate impact across the value chain. The…",
+        "url": "https://www.esgtoday.com/green-project-technologies-acquires-carbon-accounting-platform-optera/?utm_source=rss utm_medium=rss utm_campaign=green-project-technologies-acquires-carbon-accounting-platform-optera",
+        "publishedAt": "2026-07-15T12:54:21.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Optera2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-blackrock-s-gip-acquires-commercial-sola-2026-07-15",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "BlackRock’s GIP Acquires Commercial Solar Platform Summit Ridge",
+        "excerpt": "BlackRock’s infrastructure investment unit Global Infrastructure Partners (GIP) announced the acquisition of a majority and controlling interest in Summit Ridge Energy, one of the largest commercial solar power companies in the U.S. Launched in 2017, Summit Ridge develops, owns, and operates distributed energy and battery energy storage systems that deliver locally generated power to businesses and homes across the Midwest, Mid-Atlantic, and New England markets. To date, the company has raised over $7 billion in project capital to finance more than 250…",
+        "url": "https://www.esgtoday.com/blackrocks-gip-acquires-commercial-solar-platform-summit-ridge/?utm_source=rss utm_medium=rss utm_campaign=blackrocks-gip-acquires-commercial-solar-platform-summit-ridge",
+        "publishedAt": "2026-07-15T11:15:59.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/BlackRock4.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-google-signs-massive-clean-energy-deal-w-2026-07-15",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Google Signs Massive Clean Energy Deal with Largest Solar Project in U.S.",
+        "excerpt": "Google announced that a new partnership with renewables developer Cypress Creek Energy, with the tech giant signing on to become the anchor investor and offtaker for the Steel River Energy Center project in Arkansas – the largest-ever solar facility in the U.S. – including a power purchase agreement (PPA) to buy 100% of the energy from the project’s initial phases. The deal marks the largest solar and storage agreement to date for Google, one of the largest corporate purchasers of clean energy globally. Google has significantly accelerated its renewable…",
+        "url": "https://www.esgtoday.com/google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s/?utm_source=rss utm_medium=rss utm_campaign=google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s",
+        "publishedAt": "2026-07-15T10:35:50.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Google6-1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-the-rise-of-the-climate-consumer-2026-07-15",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "The Rise of the Climate Consumer",
+        "excerpt": "As the Trump administration dismantles key pillars of the federal climate framework and major companies quietly abandon their sustainability commitments, something unexpected is happening in the American economy: consumers are filling the vacuum. Millions of Americans are doing something the political system cannot easily undo — voting with their wallets. They are buying electric vehicles, installing solar panels, shifting retirement savings, and asking harder questions about where their money goes. In a $20 trillion consumer economy, that kind of…",
+        "url": "https://www.esgtoday.com/the-rise-of-the-climate-consumer/?utm_source=rss utm_medium=rss utm_campaign=the-rise-of-the-climate-consumer",
+        "publishedAt": "2026-07-15T09:39:10.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/GreenFi-Newell.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-new-york-becomes-first-state-to-impose-m-2026-07-14",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "New York becomes first state to impose moratorium on data center development",
+        "excerpt": "During this one-year pause, the state seeks to create a regulatory framework that will evaluate and address how data centers impact the environment, energy use and more.",
+        "url": "https://www.esgdive.com/news/new-york-becomes-first-state-to-impose-moratorium-on-data-center-development/825202/",
+        "publishedAt": "2026-07-14T16:38:11.000Z",
+        "image": "https://imgproxy.divecdn.com/vyLSqOVgzAH-SsbuECo3CFZRUNmWJ3Q5IeNtqRWqgNs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzM2MTIxMzMzLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-pepsico-improves-sustainable-sourcing-de-2026-07-14",
         "source": "esg-dive",
@@ -811,72 +921,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-omv-secures-450-million-eib-backing-to-b-2026-07-13",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "OMV Secures €450 Million EIB Backing to Build One of Europe’s Largest Green Hydrogen Projects",
-        "excerpt": "Vienna-based integrated chemicals, fuels and energy company OMV announced today a new €450 million (USD$514 million) loan agreement with the European Investment Bank (EIB), to help fund the construction of one of the largest green hydrogen production plants in Europe. The new 140 MW plant, located in Bruck an der Leitha, is currently under construction and scheduled to commence operations by the end of 2027. The facility is expected to produce up to 23,000 tons of green hydrogen annually, significantly contributing to the decarbonization of the OMV…",
-        "url": "https://www.esgtoday.com/omv-secures-e450-million-eib-backing-to-build-one-of-europes-largest-green-hydrogen-projects/?utm_source=rss utm_medium=rss utm_campaign=omv-secures-e450-million-eib-backing-to-build-one-of-europes-largest-green-hydrogen-projects",
-        "publishedAt": "2026-07-13T15:17:35.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/OMV3.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-hephae-raises-17-8-million-for-technolog-2026-07-13",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Hephae Raises $17.8 Million for Technology Enabling Access to Deeper, Hotter Geothermal Energy",
-        "excerpt": "Geothermal technology startup Hephae Energy Technology announced that it has raised $17.8 million in a Series A funding round, with proceeds aimed at accelerating the commercial deployment of its ultra-high temperature robotics-based drilling technology aimed at enabling developers to access deeper and hotter rock. Founded in 2020, Houston-based Hephae develops ultra-high-temperature drilling and measurement systems designed to support enhanced geothermal and superhot rock projects. The company’s downhole sensing, measurement, communications, and…",
-        "url": "https://www.esgtoday.com/hephae-raises-17-8-million-for-technology-enabling-access-to-deeper-hotter-geothermal-energy/?utm_source=rss utm_medium=rss utm_campaign=hephae-raises-17-8-million-for-technology-enabling-access-to-deeper-hotter-geothermal-energy",
-        "publishedAt": "2026-07-13T14:46:11.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Hephae.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-alpiq-acquires-battery-storage-developer-2026-07-13",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Alpiq Acquires Battery Storage Developer Harmony Energy",
-        "excerpt": "Swiss electricity producer and energy services provider Alpiq announced that it is has acquired a 90% stake in renewable energy and battery storage developer Harmony Energy, with the company noting that the acquisition will establish it as one of the leading battery energy storage systems (BESS) players in Europe. Founded in 2010 by Peter Kavanagh, UK-based Harmony specializes in utility-scale battery energy storage systems, with BESS projects in the UK Germany, France and Poland. The company develops, builds, owns and operates projects aimed at…",
-        "url": "https://www.esgtoday.com/alpiq-acquires-battery-storage-developer-harmony-energy/?utm_source=rss utm_medium=rss utm_campaign=alpiq-acquires-battery-storage-developer-harmony-energy",
-        "publishedAt": "2026-07-13T14:15:25.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Harmony-energy.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-ira-clean-energy-gains-mostly-on-track-d-2026-07-13",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -895,28 +939,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-microsoft-s-carbon-footprint-jumps-25-as-2026-07-13",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Microsoft s Carbon Footprint Jumps 25% as AI Buildout Challenges Climate Goals",
-        "excerpt": "Microsoft released its 2026 Environmental Sustainability Report, revealing a significant jump in the tech giant’s GHG footprint, with emissions rising 25% over the prior year, driven by an accelerating AI infrastructure buildout, as well as a shift in the company’s clean energy strategy away from the use of non-additional renewable energy certificates and towards the development of new carbon-free energy sources. While acknowledging the “increasing demand for energy, water, land, and materials” of the rise of AI, Microsoft’s Chief Sustainability Officer…",
-        "url": "https://www.esgtoday.com/microsofts-carbon-footprint-jumps-25-as-ai-buildout-challenges-climate-goals/?utm_source=rss utm_medium=rss utm_campaign=microsofts-carbon-footprint-jumps-25-as-ai-buildout-challenges-climate-goals",
-        "publishedAt": "2026-07-13T13:54:33.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Microsoft1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1245,28 +1267,6 @@
         "url": "https://www.esgdive.com/news/3m-elevates-company-veteran-to-cso-amanda-yates/824725/",
         "publishedAt": "2026-07-08T16:45:31.000Z",
         "image": "https://imgproxy.divecdn.com/z4-PlkJ2xgfpddkMMu99uT6b10jhMk8CB3BSKG4gw3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDIzMDUxNl8xMzU2NTIuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-environmental-groups-sue-epa-over-us-ste-2026-07-08",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Environmental groups sue EPA over US Steel air permit",
-        "excerpt": "They are seeking a court order requiring the agency to grant or deny a clean air petition filed 10 months ago related to one of the largest steel mills in North America.",
-        "url": "https://www.esgdive.com/news/environmental-groups-sue-epa-over-us-steel-gary-works-air-permit-indiana/824700/",
-        "publishedAt": "2026-07-08T15:51:00.000Z",
-        "image": "https://imgproxy.divecdn.com/ZvNuvduqQeH2RYEfVQi0mcULvFs-nC-mn66pn7K2gRc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QbGFudF9FbXBsb3llZXMuanBn.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -2103,6 +2103,116 @@
   },
   "articles": [
     {
+      "id": "esg-today-eu-commission-launches-legal-action-agai-2026-07-15",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EU Commission Launches Legal Action Against All 27 Member States for Failing to Implement Zero Emission Building Law",
+      "excerpt": "The European Commission announced that it has sent letters to all 27 EU member states, opening infringement procedures over the states’ failure to fully transpose new rules aimed at achieving a zero emissions building stock across the EU by 2050 into their national laws. Adopted by European lawmakers in 2024, the updated Energy Performance of Buildings Directive (EPBD) introduced a series of rules aimed at reducing energy use and emissions from buildings across the EU, including targets for all new buildings to be zero emissions by 2030, and to phase…",
+      "url": "https://www.esgtoday.com/eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law/?utm_source=rss utm_medium=rss utm_campaign=eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law",
+      "publishedAt": "2026-07-15T13:48:46.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-flags3-1.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-green-project-technologies-acquires-carb-2026-07-15",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Green Project Technologies Acquires Carbon Accounting Platform Optera",
+      "excerpt": "Supply chain decarbonization software company Green Project Technologies announced the acquisition of enterprise carbon accounting and reporting solutions provider Optera, with the transaction aimed at forming an end-to-end AI-powered climate management platform for companies. Founded in 2006 initially as a boutique corporate sustainability consulting firm, and later shifting focus to software, Boulder, Colorado-based Optera provides sustainability management solutions designed to help companies reduce their climate impact across the value chain. The…",
+      "url": "https://www.esgtoday.com/green-project-technologies-acquires-carbon-accounting-platform-optera/?utm_source=rss utm_medium=rss utm_campaign=green-project-technologies-acquires-carbon-accounting-platform-optera",
+      "publishedAt": "2026-07-15T12:54:21.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Optera2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-blackrock-s-gip-acquires-commercial-sola-2026-07-15",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "BlackRock’s GIP Acquires Commercial Solar Platform Summit Ridge",
+      "excerpt": "BlackRock’s infrastructure investment unit Global Infrastructure Partners (GIP) announced the acquisition of a majority and controlling interest in Summit Ridge Energy, one of the largest commercial solar power companies in the U.S. Launched in 2017, Summit Ridge develops, owns, and operates distributed energy and battery energy storage systems that deliver locally generated power to businesses and homes across the Midwest, Mid-Atlantic, and New England markets. To date, the company has raised over $7 billion in project capital to finance more than 250…",
+      "url": "https://www.esgtoday.com/blackrocks-gip-acquires-commercial-solar-platform-summit-ridge/?utm_source=rss utm_medium=rss utm_campaign=blackrocks-gip-acquires-commercial-solar-platform-summit-ridge",
+      "publishedAt": "2026-07-15T11:15:59.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/BlackRock4.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-google-signs-massive-clean-energy-deal-w-2026-07-15",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Google Signs Massive Clean Energy Deal with Largest Solar Project in U.S.",
+      "excerpt": "Google announced that a new partnership with renewables developer Cypress Creek Energy, with the tech giant signing on to become the anchor investor and offtaker for the Steel River Energy Center project in Arkansas – the largest-ever solar facility in the U.S. – including a power purchase agreement (PPA) to buy 100% of the energy from the project’s initial phases. The deal marks the largest solar and storage agreement to date for Google, one of the largest corporate purchasers of clean energy globally. Google has significantly accelerated its renewable…",
+      "url": "https://www.esgtoday.com/google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s/?utm_source=rss utm_medium=rss utm_campaign=google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s",
+      "publishedAt": "2026-07-15T10:35:50.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Google6-1.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-the-rise-of-the-climate-consumer-2026-07-15",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "The Rise of the Climate Consumer",
+      "excerpt": "As the Trump administration dismantles key pillars of the federal climate framework and major companies quietly abandon their sustainability commitments, something unexpected is happening in the American economy: consumers are filling the vacuum. Millions of Americans are doing something the political system cannot easily undo — voting with their wallets. They are buying electric vehicles, installing solar panels, shifting retirement savings, and asking harder questions about where their money goes. In a $20 trillion consumer economy, that kind of…",
+      "url": "https://www.esgtoday.com/the-rise-of-the-climate-consumer/?utm_source=rss utm_medium=rss utm_campaign=the-rise-of-the-climate-consumer",
+      "publishedAt": "2026-07-15T09:39:10.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/GreenFi-Newell.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-shell-sells-india-based-renewables-busin-2026-07-14",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2123,6 +2233,28 @@
         "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "india"
+    },
+    {
+      "id": "esg-dive-new-york-becomes-first-state-to-impose-m-2026-07-14",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "New York becomes first state to impose moratorium on data center development",
+      "excerpt": "During this one-year pause, the state seeks to create a regulatory framework that will evaluate and address how data centers impact the environment, energy use and more.",
+      "url": "https://www.esgdive.com/news/new-york-becomes-first-state-to-impose-moratorium-on-data-center-development/825202/",
+      "publishedAt": "2026-07-14T16:38:11.000Z",
+      "image": "https://imgproxy.divecdn.com/vyLSqOVgzAH-SsbuECo3CFZRUNmWJ3Q5IeNtqRWqgNs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzM2MTIxMzMzLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
     },
     {
       "id": "esg-dive-pepsico-improves-sustainable-sourcing-de-2026-07-14",
@@ -2302,28 +2434,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-shell-sells-80-of-its-renewable-energy-p-2026-07-14",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Shell Sells 80% of its Renewable Energy Portfolio to BlackRock-Backed Aditya Birla Renewables",
-      "excerpt": "Shell and India-based industrial conglomerate Aditya Birla Group’s clean energy solutions subsidiary Aditya Birla Renewables (ABREN) announced an agreement for ABREN to acquire renewable energy platform Sprng Energy, marking one of the largest acquisitions in India’s clean energy sector by both value and scale. The deal values Sprng at $1.8 billion, and includes a portfolio of 5 GW of capacity, representing approximately four-fifths of Shell’s renewable energy capacity, which stood at 6.1 GW at the end of 2025. Sprng was launched in 2017 by sustainable…",
-      "url": "https://www.esgtoday.com/shell-sells-80-of-its-renewable-energy-portfolio-to-blackrock-backed-aditya-birla-renewables/?utm_source=rss utm_medium=rss utm_campaign=shell-sells-80-of-its-renewable-energy-portfolio-to-blackrock-backed-aditya-birla-renewables",
-      "publishedAt": "2026-07-14T10:02:52.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Shell-Canada.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-14",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2370,72 +2480,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-omv-secures-450-million-eib-backing-to-b-2026-07-13",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "OMV Secures €450 Million EIB Backing to Build One of Europe’s Largest Green Hydrogen Projects",
-      "excerpt": "Vienna-based integrated chemicals, fuels and energy company OMV announced today a new €450 million (USD$514 million) loan agreement with the European Investment Bank (EIB), to help fund the construction of one of the largest green hydrogen production plants in Europe. The new 140 MW plant, located in Bruck an der Leitha, is currently under construction and scheduled to commence operations by the end of 2027. The facility is expected to produce up to 23,000 tons of green hydrogen annually, significantly contributing to the decarbonization of the OMV…",
-      "url": "https://www.esgtoday.com/omv-secures-e450-million-eib-backing-to-build-one-of-europes-largest-green-hydrogen-projects/?utm_source=rss utm_medium=rss utm_campaign=omv-secures-e450-million-eib-backing-to-build-one-of-europes-largest-green-hydrogen-projects",
-      "publishedAt": "2026-07-13T15:17:35.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/OMV3.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-hephae-raises-17-8-million-for-technolog-2026-07-13",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Hephae Raises $17.8 Million for Technology Enabling Access to Deeper, Hotter Geothermal Energy",
-      "excerpt": "Geothermal technology startup Hephae Energy Technology announced that it has raised $17.8 million in a Series A funding round, with proceeds aimed at accelerating the commercial deployment of its ultra-high temperature robotics-based drilling technology aimed at enabling developers to access deeper and hotter rock. Founded in 2020, Houston-based Hephae develops ultra-high-temperature drilling and measurement systems designed to support enhanced geothermal and superhot rock projects. The company’s downhole sensing, measurement, communications, and…",
-      "url": "https://www.esgtoday.com/hephae-raises-17-8-million-for-technology-enabling-access-to-deeper-hotter-geothermal-energy/?utm_source=rss utm_medium=rss utm_campaign=hephae-raises-17-8-million-for-technology-enabling-access-to-deeper-hotter-geothermal-energy",
-      "publishedAt": "2026-07-13T14:46:11.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Hephae.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-alpiq-acquires-battery-storage-developer-2026-07-13",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Alpiq Acquires Battery Storage Developer Harmony Energy",
-      "excerpt": "Swiss electricity producer and energy services provider Alpiq announced that it is has acquired a 90% stake in renewable energy and battery storage developer Harmony Energy, with the company noting that the acquisition will establish it as one of the leading battery energy storage systems (BESS) players in Europe. Founded in 2010 by Peter Kavanagh, UK-based Harmony specializes in utility-scale battery energy storage systems, with BESS projects in the UK Germany, France and Poland. The company develops, builds, owns and operates projects aimed at…",
-      "url": "https://www.esgtoday.com/alpiq-acquires-battery-storage-developer-harmony-energy/?utm_source=rss utm_medium=rss utm_campaign=alpiq-acquires-battery-storage-developer-harmony-energy",
-      "publishedAt": "2026-07-13T14:15:25.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Harmony-energy.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-ira-clean-energy-gains-mostly-on-track-d-2026-07-13",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2454,28 +2498,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-microsoft-s-carbon-footprint-jumps-25-as-2026-07-13",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Microsoft s Carbon Footprint Jumps 25% as AI Buildout Challenges Climate Goals",
-      "excerpt": "Microsoft released its 2026 Environmental Sustainability Report, revealing a significant jump in the tech giant’s GHG footprint, with emissions rising 25% over the prior year, driven by an accelerating AI infrastructure buildout, as well as a shift in the company’s clean energy strategy away from the use of non-additional renewable energy certificates and towards the development of new carbon-free energy sources. While acknowledging the “increasing demand for energy, water, land, and materials” of the rise of AI, Microsoft’s Chief Sustainability Officer…",
-      "url": "https://www.esgtoday.com/microsofts-carbon-footprint-jumps-25-as-ai-buildout-challenges-climate-goals/?utm_source=rss utm_medium=rss utm_campaign=microsofts-carbon-footprint-jumps-25-as-ai-buildout-challenges-climate-goals",
-      "publishedAt": "2026-07-13T13:54:33.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Microsoft1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2804,28 +2826,6 @@
       "url": "https://www.esgdive.com/news/3m-elevates-company-veteran-to-cso-amanda-yates/824725/",
       "publishedAt": "2026-07-08T16:45:31.000Z",
       "image": "https://imgproxy.divecdn.com/z4-PlkJ2xgfpddkMMu99uT6b10jhMk8CB3BSKG4gw3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDIzMDUxNl8xMzU2NTIuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-environmental-groups-sue-epa-over-us-ste-2026-07-08",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Environmental groups sue EPA over US Steel air permit",
-      "excerpt": "They are seeking a court order requiring the agency to grant or deny a clean air petition filed 10 months ago related to one of the largest steel mills in North America.",
-      "url": "https://www.esgdive.com/news/environmental-groups-sue-epa-over-us-steel-gary-works-air-permit-indiana/824700/",
-      "publishedAt": "2026-07-08T15:51:00.000Z",
-      "image": "https://imgproxy.divecdn.com/ZvNuvduqQeH2RYEfVQi0mcULvFs-nC-mn66pn7K2gRc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QbGFudF9FbXBsb3llZXMuanBn.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3542,31 +3542,6 @@
       "region": "india"
     },
     {
-      "id": "verra-vcs-6046",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Toucan Forestal Panama",
-      "excerpt": "Toucan Forestal Panama is a Verified Carbon Standard (VCS) project registered on the Verra registry in Panama. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 2,523 tonnes CO₂ equivalent per year. Project proponent: Toucan Forestal Panama S.A.. Crediting period runs 2025-06-03 to 2065-06-02.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6046",
-      "publishedAt": "2026-05-28T00:00:00.000Z",
-      "image": null,
-      "country": "Panama",
-      "methodology": "VM0047",
-      "registryId": "6046",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Toucan Forestal Panama S.A.",
-        "region": "Latin America",
-        "creditingPeriodStart": "2025-06-03",
-        "creditingPeriodEnd": "2065-06-02",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6045",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3590,6 +3565,31 @@
         "program": "Verified Carbon Standard"
       },
       "region": "india"
+    },
+    {
+      "id": "verra-vcs-6046",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Toucan Forestal Panama",
+      "excerpt": "Toucan Forestal Panama is a Verified Carbon Standard (VCS) project registered on the Verra registry in Panama. The project is currently listed as \"Under development\". It applies VM0047 methodology. Estimated annual emission reductions are 2,523 tonnes CO₂ equivalent per year. Project proponent: Toucan Forestal Panama S.A.. Crediting period runs 2025-06-03 to 2065-06-02.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6046",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "image": null,
+      "country": "Panama",
+      "methodology": "VM0047",
+      "registryId": "6046",
+      "status": "Under development",
+      "meta": {
+        "proponent": "Toucan Forestal Panama S.A.",
+        "region": "Latin America",
+        "creditingPeriodStart": "2025-06-03",
+        "creditingPeriodEnd": "2065-06-02",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-6043",
@@ -3773,7 +3773,7 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-      "excerpt": "Services Consulting Cybersecurity People and Workforce Supply Chain Management and Operations Technology Transformation Risk Consulting Services Tax Global trade insights: Tax perspectives Tax compliance services and solutions Tax planning services and solutions - Direct and indirect tax India tax platform: Digital tax solutions and real-time insights Digicorporatetax for corporate tax compliance GST compliance with EY DigiGST EY GTA: Global trade compliance and supply chain platform AI Tax Hub: Tax transformation AI solution EY Accounts payable…",
+      "excerpt": "Insights AI CFO CEO EY Transformation Services Assurance Services Climate Change and Sustainability Services Financial Accounting and Advisory Services Forensic and Integrity Services Consulting Cybersecurity People and Workforce Risk Consulting Services Supply Chain Management and Operations Technology Transformation Strategy and Transactions Corporate Finance Advisory Services Debt and Special Situations EY Merchant Banking Services Mergers and Acquisitions M&A Due Diligence Consulting Services Private Equity Advisory Services Strategy by EY-Parthenon…",
       "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
       "publishedAt": "2026-04-03T07:24:04.000Z",
       "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
