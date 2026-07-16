@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-16T14:58:30.207Z",
+  "fetchedAt": "2026-07-16T20:00:00.344Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -590,6 +590,95 @@
     ],
     "world": [
       {
+        "id": "verra-verra-publishes-corsia-insurance-criteri-2026-07-16",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Publishes CORSIA Insurance Criteria Checklist",
+        "excerpt": "Verra has released a CORSIA insurance criteria checklist (PDF) to enable the efficient processing of requests for CORSIA-eligible labels. Use of this checklist ensures that insurance policies selected by project proponents comply with the Verra CORSIA Eligible Label Insurance Criteria (PDF) and the Verra CORSIA Accounting Representation Deeds . Project proponents are required to include a completed copy of the checklist with any CORSIA-eligible label request that uses the insurance route. Proponents must demonstrate that Verified Carbon Units (VCUs) are…",
+        "url": "https://verra.org/verra-publishes-corsia-insurance-criteria-checklist/",
+        "publishedAt": "2026-07-16T17:09:48.000Z",
+        "image": "https://verra.org/wp-content/uploads/2025/11/airplane-7429725_1280.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-best-buy-brings-rooftop-solar-to-retail-2026-07-16",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Best Buy brings rooftop solar to retail",
+        "excerpt": "The new solar sites include the retailer s first store with a rooftop community solar garden as it looks to a 2040 net-zero target.",
+        "url": "https://www.esgdive.com/news/best-buy-brings-rooftop-solar-to-retail-ny-california/825431/",
+        "publishedAt": "2026-07-16T16:45:00.000Z",
+        "image": "https://imgproxy.divecdn.com/43ZtubM5CT0CcgBU0dZP0qfH4x_X-aIhN9YzgWxWd6Q/g:nowe:84:244/c:1178:665/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjQzNC5qcGVn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-california-blocked-from-enforcing-upcomi-2026-07-16",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "California blocked from enforcing upcoming law on recycling labels",
+        "excerpt": "Ahead of an October start date, a federal court has granted a preliminary injunction. The Flexible Packaging Association and American Forest Paper Association reacted to the news.",
+        "url": "https://www.esgdive.com/news/california-sb343-preliminary-injunction-granted/825410/",
+        "publishedAt": "2026-07-16T16:25:00.000Z",
+        "image": "https://imgproxy.divecdn.com/OzLQEB10pFdykmdYlhzvvjmvGXxgKZX6h8F_sfmS2RQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzUzNDY0MDcyLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-lululemon-backs-textile-recycling-tech-s-2026-07-16",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Lululemon Backs Textile Recycling Tech Startup Syntetica",
+        "excerpt": "Circular textile technology startup Syntetica announced that it has raised $30 million in a Series A funding round, aimed at supporting the commercialization of its nylon recycling technology, with investors in the round including athletic apparel company lululemon and apparel manufacturer MAS Holdings. Founded in 2023 by Bertone and Louis Monsigny, Paris-based Syntetica develops chemical recycling technology that converts nylon-containing textile waste into recycled feedstocks for the production of new nylon materials. Syntetica said that it has…",
+        "url": "https://www.esgtoday.com/lululemon-backs-textile-recycling-tech-startup-syntetica/?utm_source=rss utm_medium=rss utm_campaign=lululemon-backs-textile-recycling-tech-startup-syntetica",
+        "publishedAt": "2026-07-16T15:11:21.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Syntetica.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-walmart-general-mills-partner-with-adm-t-2026-07-16",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -921,28 +1010,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-google-signs-massive-clean-energy-deal-w-2026-07-15",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Google Signs Massive Clean Energy Deal with Largest Solar Project in U.S.",
-        "excerpt": "Google announced a new partnership with renewables developer Cypress Creek Energy, with the tech giant signing on to become the anchor investor and offtaker for the Steel River Energy Center project in Arkansas – the largest-ever solar facility in the U.S. – including a power purchase agreement (PPA) to buy 100% of the energy from the project’s initial phases. The deal marks the largest solar and storage agreement to date for Google, one of the largest corporate purchasers of clean energy globally. Google has significantly accelerated its renewable…",
-        "url": "https://www.esgtoday.com/google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s/?utm_source=rss utm_medium=rss utm_campaign=google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s",
-        "publishedAt": "2026-07-15T10:35:50.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Google6-1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-new-york-becomes-first-state-to-impose-m-2026-07-14",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -1122,28 +1189,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-eu-commission-adopts-revised-sustainabil-2026-07-10",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EU Commission adopts revised sustainability reporting standards",
-        "excerpt": "The changes are expected to remove over 70% of data points from the European Sustainability Reporting Standards and cut compliance costs by 30% per company.",
-        "url": "https://www.esgdive.com/news/eu-commission-adopts-revised-sustainability-reporting-standards/824974/",
-        "publishedAt": "2026-07-10T17:00:00.000Z",
-        "image": "https://imgproxy.divecdn.com/QKpRxTHLIOFtGwnpxEdgE86UVBXWvw9E_XUcDefarkA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUyNjg4NTIxLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-advancing-digital-solutions-durability-a-2026-07-10",
         "source": "verra",
         "sourceName": "Verra",
@@ -1163,28 +1208,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-jbs-axes-2040-net-zero-goal-citing-immen-2026-07-10",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "JBS axes 2040 net-zero goal, citing ‘immense’ execution challenges",
-        "excerpt": "The meat giant will no longer aim to achieve net-zero greenhouse emissions across its supply chain by 2040 and has also dropped scope 3 reduction targets.",
-        "url": "https://www.esgdive.com/news/jbs-axes-2040-net-zero-goal-citing-immense-execution-challenges/824975/",
-        "publishedAt": "2026-07-10T16:43:05.000Z",
-        "image": "https://imgproxy.divecdn.com/wTxa7C6uoEobm3I9x0ekgE5IFjqeRka4JOfulFkgVYs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY2NDU1OTcwLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -1391,29 +1414,6 @@
         "region": "world"
       },
       {
-        "id": "verra-projects-open-for-public-comment-july-6--2026-07-06",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Projects Open for Public Comment: July 6, 2026",
-        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-        "url": "https://verra.org/projects-open-for-public-comment-july-6-2026/",
-        "publishedAt": "2026-07-06T15:29:46.000Z",
-        "image": "https://verra.org/wp-content/uploads/2025/12/agriculture-5455452_1920.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6094",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1464,31 +1464,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6087",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Electric Mobility Program Philippines",
-        "excerpt": "Electric Mobility Program Philippines is a Verified Carbon Standard (VCS) project registered on the Verra registry in Philippines. The project is currently listed as \"Under validation\". It applies VMR0014; VM0038 methodology. Estimated annual emission reductions are 4,50,000 tonnes CO₂ equivalent per year. Project proponent: Zeroca B.V..",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6087",
-        "publishedAt": "2026-06-28T00:00:00.000Z",
-        "image": null,
-        "country": "Philippines",
-        "methodology": "VMR0014; VM0038",
-        "registryId": "6087",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "Zeroca B.V.",
-          "region": "Asia",
-          "creditingPeriodStart": null,
-          "creditingPeriodEnd": null,
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-vcs-6086",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -1507,6 +1482,31 @@
         "meta": {
           "proponent": "Grutter Consulting AG",
           "region": "Latin America",
+          "creditingPeriodStart": null,
+          "creditingPeriodEnd": null,
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-vcs-6087",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "Electric Mobility Program Philippines",
+        "excerpt": "Electric Mobility Program Philippines is a Verified Carbon Standard (VCS) project registered on the Verra registry in Philippines. The project is currently listed as \"Under validation\". It applies VMR0014; VM0038 methodology. Estimated annual emission reductions are 4,50,000 tonnes CO₂ equivalent per year. Project proponent: Zeroca B.V..",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6087",
+        "publishedAt": "2026-06-28T00:00:00.000Z",
+        "image": null,
+        "country": "Philippines",
+        "methodology": "VMR0014; VM0038",
+        "registryId": "6087",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Zeroca B.V.",
+          "region": "Asia",
           "creditingPeriodStart": null,
           "creditingPeriodEnd": null,
           "program": "Verified Carbon Standard"
@@ -2103,6 +2103,95 @@
   },
   "articles": [
     {
+      "id": "verra-verra-publishes-corsia-insurance-criteri-2026-07-16",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Publishes CORSIA Insurance Criteria Checklist",
+      "excerpt": "Verra has released a CORSIA insurance criteria checklist (PDF) to enable the efficient processing of requests for CORSIA-eligible labels. Use of this checklist ensures that insurance policies selected by project proponents comply with the Verra CORSIA Eligible Label Insurance Criteria (PDF) and the Verra CORSIA Accounting Representation Deeds . Project proponents are required to include a completed copy of the checklist with any CORSIA-eligible label request that uses the insurance route. Proponents must demonstrate that Verified Carbon Units (VCUs) are…",
+      "url": "https://verra.org/verra-publishes-corsia-insurance-criteria-checklist/",
+      "publishedAt": "2026-07-16T17:09:48.000Z",
+      "image": "https://verra.org/wp-content/uploads/2025/11/airplane-7429725_1280.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-best-buy-brings-rooftop-solar-to-retail-2026-07-16",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Best Buy brings rooftop solar to retail",
+      "excerpt": "The new solar sites include the retailer s first store with a rooftop community solar garden as it looks to a 2040 net-zero target.",
+      "url": "https://www.esgdive.com/news/best-buy-brings-rooftop-solar-to-retail-ny-california/825431/",
+      "publishedAt": "2026-07-16T16:45:00.000Z",
+      "image": "https://imgproxy.divecdn.com/43ZtubM5CT0CcgBU0dZP0qfH4x_X-aIhN9YzgWxWd6Q/g:nowe:84:244/c:1178:665/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjQzNC5qcGVn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-california-blocked-from-enforcing-upcomi-2026-07-16",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "California blocked from enforcing upcoming law on recycling labels",
+      "excerpt": "Ahead of an October start date, a federal court has granted a preliminary injunction. The Flexible Packaging Association and American Forest Paper Association reacted to the news.",
+      "url": "https://www.esgdive.com/news/california-sb343-preliminary-injunction-granted/825410/",
+      "publishedAt": "2026-07-16T16:25:00.000Z",
+      "image": "https://imgproxy.divecdn.com/OzLQEB10pFdykmdYlhzvvjmvGXxgKZX6h8F_sfmS2RQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzUzNDY0MDcyLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-lululemon-backs-textile-recycling-tech-s-2026-07-16",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Lululemon Backs Textile Recycling Tech Startup Syntetica",
+      "excerpt": "Circular textile technology startup Syntetica announced that it has raised $30 million in a Series A funding round, aimed at supporting the commercialization of its nylon recycling technology, with investors in the round including athletic apparel company lululemon and apparel manufacturer MAS Holdings. Founded in 2023 by Bertone and Louis Monsigny, Paris-based Syntetica develops chemical recycling technology that converts nylon-containing textile waste into recycled feedstocks for the production of new nylon materials. Syntetica said that it has…",
+      "url": "https://www.esgtoday.com/lululemon-backs-textile-recycling-tech-startup-syntetica/?utm_source=rss utm_medium=rss utm_campaign=lululemon-backs-textile-recycling-tech-startup-syntetica",
+      "publishedAt": "2026-07-16T15:11:21.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Syntetica.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-today-walmart-general-mills-partner-with-adm-t-2026-07-16",
       "source": "esg-today",
       "sourceName": "ESG Today",
@@ -2434,28 +2523,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-google-signs-massive-clean-energy-deal-w-2026-07-15",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Google Signs Massive Clean Energy Deal with Largest Solar Project in U.S.",
-      "excerpt": "Google announced a new partnership with renewables developer Cypress Creek Energy, with the tech giant signing on to become the anchor investor and offtaker for the Steel River Energy Center project in Arkansas – the largest-ever solar facility in the U.S. – including a power purchase agreement (PPA) to buy 100% of the energy from the project’s initial phases. The deal marks the largest solar and storage agreement to date for Google, one of the largest corporate purchasers of clean energy globally. Google has significantly accelerated its renewable…",
-      "url": "https://www.esgtoday.com/google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s/?utm_source=rss utm_medium=rss utm_campaign=google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s",
-      "publishedAt": "2026-07-15T10:35:50.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Google6-1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-shell-sells-india-based-renewables-busin-2026-07-14",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2681,28 +2748,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-eu-commission-adopts-revised-sustainabil-2026-07-10",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EU Commission adopts revised sustainability reporting standards",
-      "excerpt": "The changes are expected to remove over 70% of data points from the European Sustainability Reporting Standards and cut compliance costs by 30% per company.",
-      "url": "https://www.esgdive.com/news/eu-commission-adopts-revised-sustainability-reporting-standards/824974/",
-      "publishedAt": "2026-07-10T17:00:00.000Z",
-      "image": "https://imgproxy.divecdn.com/QKpRxTHLIOFtGwnpxEdgE86UVBXWvw9E_XUcDefarkA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUyNjg4NTIxLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-advancing-digital-solutions-durability-a-2026-07-10",
       "source": "verra",
       "sourceName": "Verra",
@@ -2722,28 +2767,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-jbs-axes-2040-net-zero-goal-citing-immen-2026-07-10",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "JBS axes 2040 net-zero goal, citing ‘immense’ execution challenges",
-      "excerpt": "The meat giant will no longer aim to achieve net-zero greenhouse emissions across its supply chain by 2040 and has also dropped scope 3 reduction targets.",
-      "url": "https://www.esgdive.com/news/jbs-axes-2040-net-zero-goal-citing-immense-execution-challenges/824975/",
-      "publishedAt": "2026-07-10T16:43:05.000Z",
-      "image": "https://imgproxy.divecdn.com/wTxa7C6uoEobm3I9x0ekgE5IFjqeRka4JOfulFkgVYs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY2NDU1OTcwLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -2950,29 +2973,6 @@
       "region": "world"
     },
     {
-      "id": "verra-projects-open-for-public-comment-july-6--2026-07-06",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Projects Open for Public Comment: July 6, 2026",
-      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-      "url": "https://verra.org/projects-open-for-public-comment-july-6-2026/",
-      "publishedAt": "2026-07-06T15:29:46.000Z",
-      "image": "https://verra.org/wp-content/uploads/2025/12/agriculture-5455452_1920.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-india-s-carbon-credit-trading-scheme-a-s-2026-07-03",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -3047,31 +3047,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6087",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Electric Mobility Program Philippines",
-      "excerpt": "Electric Mobility Program Philippines is a Verified Carbon Standard (VCS) project registered on the Verra registry in Philippines. The project is currently listed as \"Under validation\". It applies VMR0014; VM0038 methodology. Estimated annual emission reductions are 4,50,000 tonnes CO₂ equivalent per year. Project proponent: Zeroca B.V..",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6087",
-      "publishedAt": "2026-06-28T00:00:00.000Z",
-      "image": null,
-      "country": "Philippines",
-      "methodology": "VMR0014; VM0038",
-      "registryId": "6087",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "Zeroca B.V.",
-        "region": "Asia",
-        "creditingPeriodStart": null,
-        "creditingPeriodEnd": null,
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-vcs-6086",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3090,6 +3065,31 @@
       "meta": {
         "proponent": "Grutter Consulting AG",
         "region": "Latin America",
+        "creditingPeriodStart": null,
+        "creditingPeriodEnd": null,
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-vcs-6087",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "Electric Mobility Program Philippines",
+      "excerpt": "Electric Mobility Program Philippines is a Verified Carbon Standard (VCS) project registered on the Verra registry in Philippines. The project is currently listed as \"Under validation\". It applies VMR0014; VM0038 methodology. Estimated annual emission reductions are 4,50,000 tonnes CO₂ equivalent per year. Project proponent: Zeroca B.V..",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6087",
+      "publishedAt": "2026-06-28T00:00:00.000Z",
+      "image": null,
+      "country": "Philippines",
+      "methodology": "VMR0014; VM0038",
+      "registryId": "6087",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "Zeroca B.V.",
+        "region": "Asia",
         "creditingPeriodStart": null,
         "creditingPeriodEnd": null,
         "program": "Verified Carbon Standard"
