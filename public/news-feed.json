@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-17T03:56:44.493Z",
+  "fetchedAt": "2026-07-17T09:13:04.386Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 22,
     "world": 65,
     "withImages": 57,
-    "avgExcerptLength": 431,
+    "avgExcerptLength": 432,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -183,7 +183,7 @@
         "title": "India - CGEP",
         "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
         "url": "https://www.energypolicy.columbia.edu/publications/india/",
-        "publishedAt": "2026-06-17T13:50:12.000Z",
+        "publishedAt": "2026-06-17T07:00:00.000Z",
         "image": "https://www.energypolicy.columbia.edu/wp-content/uploads/2026/06/India.jpg",
         "country": "India",
         "methodology": null,
@@ -589,6 +589,28 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-deutsche-bank-world-bank-launch-1-billio-2026-07-17",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Deutsche Bank, World Bank Launch $1 Billion Platform to Expand Access to Trade Finance in Emerging Markets",
+        "excerpt": "Deutsche Bank and the World Bank Group’s Multilateral Investment Guarantee Agency (MIGA) announced the launch of a new partnership to create a $1 billion platform aimed at increasing access to trade finance in frontier and emerging markets. MIGA promotes investment in developing countries to support economic growth, reduce poverty, and improve people’s lives, by reducing risk and fostering confidence among investors and lenders through tools including political risk insurance, credit enhancement, and trade finance guarantees. The organization’s trade…",
+        "url": "https://www.esgtoday.com/deutsche-bank-world-bank-launch-1-billion-platform-to-expand-access-to-trade-finance-in-emerging-markets/?utm_source=rss utm_medium=rss utm_campaign=deutsche-bank-world-bank-launch-1-billion-platform-to-expand-access-to-trade-finance-in-emerging-markets",
+        "publishedAt": "2026-07-17T09:09:53.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Deutsche-Bank4.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Social",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-gap-taps-levi-s-cso-to-lead-sustainabili-2026-07-16",
         "source": "esg-dive",
@@ -1005,28 +1027,6 @@
         "status": null,
         "meta": {
           "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-blackrock-s-gip-acquires-commercial-sola-2026-07-15",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "BlackRock’s GIP Acquires Commercial Solar Platform Summit Ridge",
-        "excerpt": "BlackRock’s infrastructure investment unit Global Infrastructure Partners (GIP) announced the acquisition of a majority and controlling interest in Summit Ridge Energy, one of the largest commercial solar power companies in the U.S. Launched in 2017, Summit Ridge develops, owns, and operates distributed energy and battery energy storage systems that deliver locally generated power to businesses and homes across the Midwest, Mid-Atlantic, and New England markets. To date, the company has raised over $7 billion in project capital to finance more than 250…",
-        "url": "https://www.esgtoday.com/blackrocks-gip-acquires-commercial-solar-platform-summit-ridge/?utm_source=rss utm_medium=rss utm_campaign=blackrocks-gip-acquires-commercial-solar-platform-summit-ridge",
-        "publishedAt": "2026-07-15T11:15:59.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/BlackRock4.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
           "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
@@ -1982,30 +1982,6 @@
         "region": "world"
       },
       {
-        "id": "google-h2-first-stretch-of-dutch-national-h2-pipel-2026-01-30",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "First stretch of Dutch national H2 pipeline network filled with green hydrogen - Hydrogen Insight",
-        "excerpt": "First stretch of Dutch national H2 pipeline network filled with green hydrogen Hydrogen Insight",
-        "url": "https://www.hydrogeninsight.com/production/first-stretch-of-dutch-national-h2-pipeline-network-filled-with-green-hydrogen/2-1-1936824",
-        "publishedAt": "2026-01-30T08:00:00.000Z",
-        "image": "https://image.dngroup.com/global/nhst/binary/f182c6f99ae884cf5e969e9798961941?crop=1920%2C960%2Cx0%2Cy160%2Csafe&width=1200&format=webp&quality=80",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTl9kVGJhWkZRRi0tc1V4MmhJaTBxUDBSV05FZ0xFRXVMdmpod2NZdXhZNkdOSjlyYWxRRTJhem5fYzJPckpSaVVUNU9sdE5ZWlpZbUFJWFNMbnVTQVhyaTFRcG4wa2pfdzRwb1E4NkxTWGtsYVBRUG9TaURtdEpscUdmTVpZMXZ5RElodzRFRFdjXzRySGlJSU9fTk9tRFpSMkFvU0VWczVFalBQSFp5VDVOa3BRUl9YcjdSWmEwVnlaanZqYWhGR01LZnFmUQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2076,6 +2052,30 @@
         "region": "world"
       },
       {
+        "id": "google-h2-opinion-is-liebreich-s-hydrogen-ladder-s-2024-12-11",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "OPINION | Is Liebreich's Hydrogen Ladder still relevant if near-unavoidable uses of H2 can be replaced by carbon offsets? - Hydrogen Insight",
+        "excerpt": "If we follow the influential analyst’s logic that CO2 offsetting is a better solution to aviation emissions than e-SAF, isn’t the same true for other use cases of clean H2? asks Keynumbers’ John Poljak",
+        "url": "https://www.hydrogeninsight.com/analysis/opinion-is-liebreichs-hydrogen-ladder-still-relevant-if-near-unavoidable-uses-of-h2-can-be-replaced-by-carbon-offsets-/2-1-1751616",
+        "publishedAt": "2024-12-11T08:00:00.000Z",
+        "image": "https://image.dngroup.com/global/nhst/binary/9b5afd6c7a3137bb194e768e9451c86e?crop=1600%2C801%2Cx0%2Cy406%2Csafe&width=1200&format=webp&quality=80",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObTJ3dFViMDlMRDJnREhRYmlIaUlUdWJqbGhtZ05DQUE5ci1iNTVTdXB1NW9KaDJNSVBZaHd2R0d1UE43SXJuLThhRjZJRDVwRWNtR29qcWl0SmxPZ3VmMVhZTnZ0OEtpMXE0VUdlS2s3cF9sV292OThXY2xvSktFSUZzVHo0ek04YVNsM2dlQjVyenBqM1JBdW0zZ0FTNkpKa2dIZHAtU3hBTmhCWkhWZlYtdjJjeUp2Z1VIa2VCcGdvREJUVWpDbUQ5NjVydmNuNVlzLVMwUHFBTnpIcHZPVThwUkJhWXlOeHR5ZW1WUVFmTEtRT2dCX1htYlB3MEZY?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-renewable-energy-carbon-credits-losing-s-2024-08-07",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2102,6 +2102,28 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-deutsche-bank-world-bank-launch-1-billio-2026-07-17",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Deutsche Bank, World Bank Launch $1 Billion Platform to Expand Access to Trade Finance in Emerging Markets",
+      "excerpt": "Deutsche Bank and the World Bank Group’s Multilateral Investment Guarantee Agency (MIGA) announced the launch of a new partnership to create a $1 billion platform aimed at increasing access to trade finance in frontier and emerging markets. MIGA promotes investment in developing countries to support economic growth, reduce poverty, and improve people’s lives, by reducing risk and fostering confidence among investors and lenders through tools including political risk insurance, credit enhancement, and trade finance guarantees. The organization’s trade…",
+      "url": "https://www.esgtoday.com/deutsche-bank-world-bank-launch-1-billion-platform-to-expand-access-to-trade-finance-in-emerging-markets/?utm_source=rss utm_medium=rss utm_campaign=deutsche-bank-world-bank-launch-1-billion-platform-to-expand-access-to-trade-finance-in-emerging-markets",
+      "publishedAt": "2026-07-17T09:09:53.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Deutsche-Bank4.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Social",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-dive-gap-taps-levi-s-cso-to-lead-sustainabili-2026-07-16",
       "source": "esg-dive",
@@ -2518,28 +2540,6 @@
       "status": null,
       "meta": {
         "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-blackrock-s-gip-acquires-commercial-sola-2026-07-15",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "BlackRock’s GIP Acquires Commercial Solar Platform Summit Ridge",
-      "excerpt": "BlackRock’s infrastructure investment unit Global Infrastructure Partners (GIP) announced the acquisition of a majority and controlling interest in Summit Ridge Energy, one of the largest commercial solar power companies in the U.S. Launched in 2017, Summit Ridge develops, owns, and operates distributed energy and battery energy storage systems that deliver locally generated power to businesses and homes across the Midwest, Mid-Atlantic, and New England markets. To date, the company has raised over $7 billion in project capital to finance more than 250…",
-      "url": "https://www.esgtoday.com/blackrocks-gip-acquires-commercial-solar-platform-summit-ridge/?utm_source=rss utm_medium=rss utm_campaign=blackrocks-gip-acquires-commercial-solar-platform-summit-ridge",
-      "publishedAt": "2026-07-15T11:15:59.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/BlackRock4.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
         "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
@@ -3204,7 +3204,7 @@
       "title": "India - CGEP",
       "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
       "url": "https://www.energypolicy.columbia.edu/publications/india/",
-      "publishedAt": "2026-06-17T13:50:12.000Z",
+      "publishedAt": "2026-06-17T07:00:00.000Z",
       "image": "https://www.energypolicy.columbia.edu/wp-content/uploads/2026/06/India.jpg",
       "country": "India",
       "methodology": null,
@@ -3956,30 +3956,6 @@
       "region": "world"
     },
     {
-      "id": "google-h2-first-stretch-of-dutch-national-h2-pipel-2026-01-30",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "First stretch of Dutch national H2 pipeline network filled with green hydrogen - Hydrogen Insight",
-      "excerpt": "First stretch of Dutch national H2 pipeline network filled with green hydrogen Hydrogen Insight",
-      "url": "https://www.hydrogeninsight.com/production/first-stretch-of-dutch-national-h2-pipeline-network-filled-with-green-hydrogen/2-1-1936824",
-      "publishedAt": "2026-01-30T08:00:00.000Z",
-      "image": "https://image.dngroup.com/global/nhst/binary/f182c6f99ae884cf5e969e9798961941?crop=1920%2C960%2Cx0%2Cy160%2Csafe&width=1200&format=webp&quality=80",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTl9kVGJhWkZRRi0tc1V4MmhJaTBxUDBSV05FZ0xFRXVMdmpod2NZdXhZNkdOSjlyYWxRRTJhem5fYzJPckpSaVVUNU9sdE5ZWlpZbUFJWFNMbnVTQVhyaTFRcG4wa2pfdzRwb1E4NkxTWGtsYVBRUG9TaURtdEpscUdmTVpZMXZ5RElodzRFRFdjXzRySGlJSU9fTk9tRFpSMkFvU0VWczVFalBQSFp5VDVOa3BRUl9YcjdSWmEwVnlaanZqYWhGR01LZnFmUQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -4119,6 +4095,30 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-h2-opinion-is-liebreich-s-hydrogen-ladder-s-2024-12-11",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "OPINION | Is Liebreich's Hydrogen Ladder still relevant if near-unavoidable uses of H2 can be replaced by carbon offsets? - Hydrogen Insight",
+      "excerpt": "If we follow the influential analyst’s logic that CO2 offsetting is a better solution to aviation emissions than e-SAF, isn’t the same true for other use cases of clean H2? asks Keynumbers’ John Poljak",
+      "url": "https://www.hydrogeninsight.com/analysis/opinion-is-liebreichs-hydrogen-ladder-still-relevant-if-near-unavoidable-uses-of-h2-can-be-replaced-by-carbon-offsets-/2-1-1751616",
+      "publishedAt": "2024-12-11T08:00:00.000Z",
+      "image": "https://image.dngroup.com/global/nhst/binary/9b5afd6c7a3137bb194e768e9451c86e?crop=1600%2C801%2Cx0%2Cy406%2Csafe&width=1200&format=webp&quality=80",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObTJ3dFViMDlMRDJnREhRYmlIaUlUdWJqbGhtZ05DQUE5ci1iNTVTdXB1NW9KaDJNSVBZaHd2R0d1UE43SXJuLThhRjZJRDVwRWNtR29qcWl0SmxPZ3VmMVhZTnZ0OEtpMXE0VUdlS2s3cF9sV292OThXY2xvSktFSUZzVHo0ek04YVNsM2dlQjVyenBqM1JBdW0zZ0FTNkpKa2dIZHAtU3hBTmhCWkhWZlYtdjJjeUp2Z1VIa2VCcGdvREJUVWpDbUQ5NjVydmNuNVlzLVMwUHFBTnpIcHZPVThwUkJhWXlOeHR5ZW1WUVFmTEtRT2dCX1htYlB3MEZY?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-renewable-energy-carbon-credits-losing-s-2024-08-07",
