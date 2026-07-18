@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-18T08:51:26.201Z",
+  "fetchedAt": "2026-07-18T14:18:52.133Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 87,
-    "india": 23,
-    "world": 64,
-    "withImages": 56,
-    "avgExcerptLength": 432,
+    "india": 22,
+    "world": 65,
+    "withImages": 57,
+    "avgExcerptLength": 433,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -296,6 +296,30 @@
         "region": "india"
       },
       {
+        "id": "google-india-what-is-a-carbon-credit-a-one-tonne-co2e-2026-06-02",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "What Is a Carbon Credit? A One-Tonne CO2e Building Block - TheCSRUniverse",
+        "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. A carbon credit is a tradable unit representing one metric tonne of carbon dioxide equivalent reduced, avoided, or removed,…",
+        "url": "https://thecsruniverse.com/articles/what-is-a-carbon-credit-a-one-tonne-co2e-building-block",
+        "publishedAt": "2026-06-02T07:00:00.000Z",
+        "image": "https://thecsruniverse.com/adminxsafe/uploads/1000163795.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkNqWWlhMDJLM1l2Tm50Z2U4UjNDUDhTeGtVY3F2cUEzWDBfXzFMRnV5QUZtUUp1UHJRSXN3YVAwYzI4eUU5ZTdRMzJyUlFtYW1IRm1fM1FyX1dKcUFUOXhSS0pNWURCSnNJdmEwazZ4SEVMUDBMQ3dYanNoOTFoMkRMQmNpaElJS0ZIdjhOMzNHMkZGUVE?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "verra-vcs-6048",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -469,29 +493,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
-        "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
-        "publishedAt": "2026-03-21T07:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -582,30 +583,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-knowledge-nugget-what-you-must-know-abou-2025-08-20",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam - The Indian Express",
-        "excerpt": "Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Here’s your UPSC Current Affairs knowledge nugget for today on India’s Green hydrogen plants. Claiming that “a big step has been taken today”, Uttar Pradesh Chief Minister Yogi Adityanath on Sunday inaugurated the state’s first green hydrogen plant in Gorakhpur, with the project aiming to produce 72,000 tonnes of green fuel in a year. In this context, let’s learn about India’s green hydrogen plants and the significance of hydrogen as a fuel.…",
-        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-indias-green-hydrogen-plants-upsc-exam-10198700/",
-        "publishedAt": "2025-08-20T07:00:00.000Z",
-        "image": "https://images.indianexpress.com/2025/08/Knowledge-Nugget-Indias-Green-hydrogen-plants.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -1982,16 +1959,16 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-verra-launches-priority-queue-pilot-to-s-2025-11-27",
+        "id": "google-carbon-verra-applies-first-corsia-labels-to-vol-2026-02-02",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews - Carbon Herald",
-        "excerpt": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews Carbon Herald",
-        "url": "https://carbonherald.com/verra-launches-priority-queue-pilot-to-speed-up-carbon-project-reviews/",
-        "publishedAt": "2025-11-27T08:00:00.000Z",
+        "title": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa - Carbon Herald",
+        "excerpt": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa Carbon Herald",
+        "url": "https://carbonherald.com/verra-applies-first-corsia-labels-to-voluntary-carbon-credits-from-africa/",
+        "publishedAt": "2026-02-02T08:00:00.000Z",
         "image": null,
         "country": null,
         "methodology": null,
@@ -2000,7 +1977,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1dKVkwyRVFzdVd6Z0FXWll6WGd4U2k1RUhNb2hVaWRZdTdfMTFXNjFoZkJsdUNZMllGZjRXTURIMW5VYW5OOWZiSEJydWNKSWlraWVpYkdJTS0xbDI2eWUySEwyWlZaR0NmSEtGYktSZjA4VGxIdEtTRVBuaVNtMnVWV1hMcmhIUTFHbk85a1dIRVBWTU85ejZXMm4?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNGdzd3Q2FlTGZuMU5Wbm9iT1F3NnkwRzRGeE5Ic0x0U2lxdWMxV19ESUkzUVN2R21oZnVCZEx0TXdHcGFObUNackdvV0hYd3JVck9HbnB2Mk1kM2lXM3hoaURJVURydVlaYW1rTG9TaEdmdE9ZVUxrS0Nwa1hfX1BfYXVmTExGSFNaQkQtMU5KRTE4Rnh1TVNtbkV0SHV4?oc=5"
         },
         "region": "world"
       },
@@ -2071,6 +2048,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-h2-opinion-is-liebreich-s-hydrogen-ladder-s-2024-12-11",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "OPINION | Is Liebreich's Hydrogen Ladder still relevant if near-unavoidable uses of H2 can be replaced by carbon offsets? - Hydrogen Insight",
+        "excerpt": "If we follow the influential analyst’s logic that CO2 offsetting is a better solution to aviation emissions than e-SAF, isn’t the same true for other use cases of clean H2? asks Keynumbers’ John Poljak",
+        "url": "https://www.hydrogeninsight.com/analysis/opinion-is-liebreichs-hydrogen-ladder-still-relevant-if-near-unavoidable-uses-of-h2-can-be-replaced-by-carbon-offsets-/2-1-1751616",
+        "publishedAt": "2024-12-11T08:00:00.000Z",
+        "image": "https://image.dngroup.com/global/nhst/binary/9b5afd6c7a3137bb194e768e9451c86e?crop=1600%2C801%2Cx0%2Cy406%2Csafe&width=1200&format=webp&quality=80",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObTJ3dFViMDlMRDJnREhRYmlIaUlUdWJqbGhtZ05DQUE5ci1iNTVTdXB1NW9KaDJNSVBZaHd2R0d1UE43SXJuLThhRjZJRDVwRWNtR29qcWl0SmxPZ3VmMVhZTnZ0OEtpMXE0VUdlS2s3cF9sV292OThXY2xvSktFSUZzVHo0ek04YVNsM2dlQjVyenBqM1JBdW0zZ0FTNkpKa2dIZHAtU3hBTmhCWkhWZlYtdjJjeUp2Z1VIa2VCcGdvREJUVWpDbUQ5NjVydmNuNVlzLVMwUHFBTnpIcHZPVThwUkJhWXlOeHR5ZW1WUVFmTEtRT2dCX1htYlB3MEZY?oc=5",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -3391,6 +3392,30 @@
       "region": "world"
     },
     {
+      "id": "google-india-what-is-a-carbon-credit-a-one-tonne-co2e-2026-06-02",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "What Is a Carbon Credit? A One-Tonne CO2e Building Block - TheCSRUniverse",
+      "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. A carbon credit is a tradable unit representing one metric tonne of carbon dioxide equivalent reduced, avoided, or removed,…",
+      "url": "https://thecsruniverse.com/articles/what-is-a-carbon-credit-a-one-tonne-co2e-building-block",
+      "publishedAt": "2026-06-02T07:00:00.000Z",
+      "image": "https://thecsruniverse.com/adminxsafe/uploads/1000163795.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkNqWWlhMDJLM1l2Tm50Z2U4UjNDUDhTeGtVY3F2cUEzWDBfXzFMRnV5QUZtUUp1UHJRSXN3YVAwYzI4eUU5ZTdRMzJyUlFtYW1IRm1fM1FyX1dKcUFUOXhSS0pNWURCSnNJdmEwazZ4SEVMUDBMQ3dYanNoOTFoMkRMQmNpaElJS0ZIdjhOMzNHMkZGUVE?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "verra-vcs-6053",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3813,29 +3838,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
-      "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
-      "publishedAt": "2026-03-21T07:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -3931,6 +3933,29 @@
       "region": "world"
     },
     {
+      "id": "google-carbon-verra-applies-first-corsia-labels-to-vol-2026-02-02",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa - Carbon Herald",
+      "excerpt": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa Carbon Herald",
+      "url": "https://carbonherald.com/verra-applies-first-corsia-labels-to-voluntary-carbon-credits-from-africa/",
+      "publishedAt": "2026-02-02T08:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNGdzd3Q2FlTGZuMU5Wbm9iT1F3NnkwRzRGeE5Ic0x0U2lxdWMxV19ESUkzUVN2R21oZnVCZEx0TXdHcGFObUNackdvV0hYd3JVck9HbnB2Mk1kM2lXM3hoaURJVURydVlaYW1rTG9TaEdmdE9ZVUxrS0Nwa1hfX1BfYXVmTExGSFNaQkQtMU5KRTE4Rnh1TVNtbkV0SHV4?oc=5"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -3976,29 +4001,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "google-carbon-verra-launches-priority-queue-pilot-to-s-2025-11-27",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews - Carbon Herald",
-      "excerpt": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews Carbon Herald",
-      "url": "https://carbonherald.com/verra-launches-priority-queue-pilot-to-speed-up-carbon-project-reviews/",
-      "publishedAt": "2025-11-27T08:00:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1dKVkwyRVFzdVd6Z0FXWll6WGd4U2k1RUhNb2hVaWRZdTdfMTFXNjFoZkJsdUNZMllGZjRXTURIMW5VYW5OOWZiSEJydWNKSWlraWVpYkdJTS0xbDI2eWUySEwyWlZaR0NmSEtGYktSZjA4VGxIdEtTRVBuaVNtMnVWV1hMcmhIUTFHbk85a1dIRVBWTU85ejZXMm4?oc=5"
-      },
-      "region": "world"
     },
     {
       "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
@@ -4095,28 +4097,28 @@
       "region": "india"
     },
     {
-      "id": "google-h2-knowledge-nugget-what-you-must-know-abou-2025-08-20",
+      "id": "google-h2-opinion-is-liebreich-s-hydrogen-ladder-s-2024-12-11",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "Knowledge Nugget: What you must know about India’s green hydrogen plants for the UPSC exam - The Indian Express",
-      "excerpt": "Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Here’s your UPSC Current Affairs knowledge nugget for today on India’s Green hydrogen plants. Claiming that “a big step has been taken today”, Uttar Pradesh Chief Minister Yogi Adityanath on Sunday inaugurated the state’s first green hydrogen plant in Gorakhpur, with the project aiming to produce 72,000 tonnes of green fuel in a year. In this context, let’s learn about India’s green hydrogen plants and the significance of hydrogen as a fuel.…",
-      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-indias-green-hydrogen-plants-upsc-exam-10198700/",
-      "publishedAt": "2025-08-20T07:00:00.000Z",
-      "image": "https://images.indianexpress.com/2025/08/Knowledge-Nugget-Indias-Green-hydrogen-plants.jpg",
-      "country": "India",
+      "title": "OPINION | Is Liebreich's Hydrogen Ladder still relevant if near-unavoidable uses of H2 can be replaced by carbon offsets? - Hydrogen Insight",
+      "excerpt": "If we follow the influential analyst’s logic that CO2 offsetting is a better solution to aviation emissions than e-SAF, isn’t the same true for other use cases of clean H2? asks Keynumbers’ John Poljak",
+      "url": "https://www.hydrogeninsight.com/analysis/opinion-is-liebreichs-hydrogen-ladder-still-relevant-if-near-unavoidable-uses-of-h2-can-be-replaced-by-carbon-offsets-/2-1-1751616",
+      "publishedAt": "2024-12-11T08:00:00.000Z",
+      "image": "https://image.dngroup.com/global/nhst/binary/9b5afd6c7a3137bb194e768e9451c86e?crop=1600%2C801%2Cx0%2Cy406%2Csafe&width=1200&format=webp&quality=80",
+      "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh0Z2xCdkcxSkpaTmFaUTZneE43TkRqMmJUc2NzYW5jVGNwckZQeE9UZHZ0N2VhdDV6VmNmV2VrbDNoT3N3MzZHY1NkbEw2M3JNb3IwdHg4VUVRSmJtWnl4RVNmUlBYWnZGaTJ1X2YwczZIY0s0U09rR2lHSmxRLUtxNDJEcGtGbmdsOVNvRVB3NmxldzY4ZE81bzQwb3NrZjZBSkFTb2daMHJKTEl0U0VJZk1LYU1ZaThZXzlwMGNzMHFUb3JYLUl4b0poZEJMWFHSAdgBQVVfeXFMUGg2amZZc054WG1mZzg0QUZ3UDdfNm1abWpEMmc4cGl4eFo1Uy1OVUNCYXNzTXRUcDFqaEc1MVRvYlNUMmZNbnk4TEVTQjZxVUFxMl85Yk1MXzZ6MjhnbUNob3NYQmhWeFFCbzdFMTQxUGstc1EwWmRzVDJZNFFLSzIwSldZNUJiT1pxcDFVTlNMNnNkQklwYjBmdVRnZFhMdDN2OGZjczJLMFVnOFF6c05FaUZkcnhaRml0QkpHZXlnUjB1a25pZl9SUEl6djJSR3lwZUdSLU5U?oc=5",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObTJ3dFViMDlMRDJnREhRYmlIaUlUdWJqbGhtZ05DQUE5ci1iNTVTdXB1NW9KaDJNSVBZaHd2R0d1UE43SXJuLThhRjZJRDVwRWNtR29qcWl0SmxPZ3VmMVhZTnZ0OEtpMXE0VUdlS2s3cF9sV292OThXY2xvSktFSUZzVHo0ek04YVNsM2dlQjVyenBqM1JBdW0zZ0FTNkpKa2dIZHAtU3hBTmhCWkhWZlYtdjJjeUp2Z1VIa2VCcGdvREJUVWpDbUQ5NjVydmNuNVlzLVMwUHFBTnpIcHZPVThwUkJhWXlOeHR5ZW1WUVFmTEtRT2dCX1htYlB3MEZY?oc=5",
         "imageSource": "publisher"
       },
-      "region": "india"
+      "region": "world"
     },
     {
       "id": "google-carbon-renewable-energy-carbon-credits-losing-s-2024-08-07",
