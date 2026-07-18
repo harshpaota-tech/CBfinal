@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-17T20:02:52.862Z",
+  "fetchedAt": "2026-07-18T03:50:55.610Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,16 +45,40 @@
   ],
   "stats": {
     "total": 87,
-    "india": 23,
-    "world": 64,
+    "india": 22,
+    "world": 65,
     "withImages": 57,
-    "avgExcerptLength": 438,
+    "avgExcerptLength": 434,
     "verra": 10,
     "registry": 25,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "google-india-most-zombie-credits-locked-out-of-new-un-2026-07-17",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - Climate Home News",
+        "excerpt": "Matteo Civillini Reporter Editing: Joe Lo X (Twitter) Facebook LinkedIn WhatsApp Email Print China and India have declined to back any of their old United Nations carbon credit projects seeking to sell offsets under the new UN market, driving a cull of nearly three-quarters of applicants, analysis of official data shows. Only 415 out of more than 1,500 projects and programmes hoping to move from the Clean Development Mechanism (CDM) to the new carbon market set up under Article 6.4 of the Paris Agreement won the approval of their host governments by the…",
+        "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
+        "publishedAt": "2026-07-17T16:39:36.000Z",
+        "image": "https://www.climatechangenews.com/wp-content/files/2026/07/GettyImages-991792894-1440x954.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUlVUGJ4V2U0aFhFRmw1QjdOTXBobGJDSGlLb2podFdaVnZBcTlKMVBsQmJVX0lKcmhnY253OUJMbEstcml4OXRfN1EtQWxUVi1KSkY0bktfLWx3SzRXVnZfYklyOUZlaVR5QmRfZUJUUllwVHpzX2w0cFRWeWV0bUVlUlNINlF3VlF4NlJWQjcwbExPbnRtazZ1VW5Yb0pSRHZ0SFlJNkltZzk2RVJTN09SRng4ZXd5eVhWRVdVbzJpRndfS2c?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
       {
         "id": "esg-dive-shell-sells-india-based-renewables-busin-2026-07-14",
         "source": "esg-dive",
@@ -174,13 +198,13 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-columbia-university-2026-06-17",
+        "id": "google-india-india-cgep-2026-06-17",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India - Columbia University",
+        "title": "India - CGEP",
         "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
         "url": "https://www.energypolicy.columbia.edu/publications/india/",
         "publishedAt": "2026-06-17T07:00:00.000Z",
@@ -219,30 +243,6 @@
           "creditingPeriodStart": "2026-06-01",
           "creditingPeriodEnd": "2066-05-31",
           "program": "Verified Carbon Standard"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-        "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
-        "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
-        "publishedAt": "2026-06-05T07:00:00.000Z",
-        "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -536,30 +536,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
-        "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
-        "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -2076,6 +2052,30 @@
         "region": "world"
       },
       {
+        "id": "google-h2-opinion-is-liebreich-s-hydrogen-ladder-s-2024-12-11",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "OPINION | Is Liebreich's Hydrogen Ladder still relevant if near-unavoidable uses of H2 can be replaced by carbon offsets? - Hydrogen Insight",
+        "excerpt": "If we follow the influential analyst’s logic that CO2 offsetting is a better solution to aviation emissions than e-SAF, isn’t the same true for other use cases of clean H2? asks Keynumbers’ John Poljak",
+        "url": "https://www.hydrogeninsight.com/analysis/opinion-is-liebreichs-hydrogen-ladder-still-relevant-if-near-unavoidable-uses-of-h2-can-be-replaced-by-carbon-offsets-/2-1-1751616",
+        "publishedAt": "2024-12-11T08:00:00.000Z",
+        "image": "https://image.dngroup.com/global/nhst/binary/9b5afd6c7a3137bb194e768e9451c86e?crop=1600%2C801%2Cx0%2Cy406%2Csafe&width=1200&format=webp&quality=80",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObTJ3dFViMDlMRDJnREhRYmlIaUlUdWJqbGhtZ05DQUE5ci1iNTVTdXB1NW9KaDJNSVBZaHd2R0d1UE43SXJuLThhRjZJRDVwRWNtR29qcWl0SmxPZ3VmMVhZTnZ0OEtpMXE0VUdlS2s3cF9sV292OThXY2xvSktFSUZzVHo0ek04YVNsM2dlQjVyenBqM1JBdW0zZ0FTNkpKa2dIZHAtU3hBTmhCWkhWZlYtdjJjeUp2Z1VIa2VCcGdvREJUVWpDbUQ5NjVydmNuNVlzLVMwUHFBTnpIcHZPVThwUkJhWXlOeHR5ZW1WUVFmTEtRT2dCX1htYlB3MEZY?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-renewable-energy-carbon-credits-losing-s-2024-08-07",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2102,6 +2102,30 @@
     ]
   },
   "articles": [
+    {
+      "id": "google-india-most-zombie-credits-locked-out-of-new-un-2026-07-17",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - Climate Home News",
+      "excerpt": "Matteo Civillini Reporter Editing: Joe Lo X (Twitter) Facebook LinkedIn WhatsApp Email Print China and India have declined to back any of their old United Nations carbon credit projects seeking to sell offsets under the new UN market, driving a cull of nearly three-quarters of applicants, analysis of official data shows. Only 415 out of more than 1,500 projects and programmes hoping to move from the Clean Development Mechanism (CDM) to the new carbon market set up under Article 6.4 of the Paris Agreement won the approval of their host governments by the…",
+      "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
+      "publishedAt": "2026-07-17T16:39:36.000Z",
+      "image": "https://www.climatechangenews.com/wp-content/files/2026/07/GettyImages-991792894-1440x954.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUlVUGJ4V2U0aFhFRmw1QjdOTXBobGJDSGlLb2podFdaVnZBcTlKMVBsQmJVX0lKcmhnY253OUJMbEstcml4OXRfN1EtQWxUVi1KSkY0bktfLWx3SzRXVnZfYklyOUZlaVR5QmRfZUJUUllwVHpzX2w0cFRWeWV0bUVlUlNINlF3VlF4NlJWQjcwbExPbnRtazZ1VW5Yb0pSRHZ0SFlJNkltZzk2RVJTN09SRng4ZXd5eVhWRVdVbzJpRndfS2c?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
     {
       "id": "esg-dive-pennsylvania-data-centers-face-increased-2026-07-17",
       "source": "esg-dive",
@@ -3195,13 +3219,13 @@
       "region": "india"
     },
     {
-      "id": "google-india-india-columbia-university-2026-06-17",
+      "id": "google-india-india-cgep-2026-06-17",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India - Columbia University",
+      "title": "India - CGEP",
       "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
       "url": "https://www.energypolicy.columbia.edu/publications/india/",
       "publishedAt": "2026-06-17T07:00:00.000Z",
@@ -3290,30 +3314,6 @@
         "creditingPeriodStart": "2026-06-01",
         "creditingPeriodEnd": "2066-05-31",
         "program": "Verified Carbon Standard"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-      "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
-      "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
-      "publishedAt": "2026-06-05T07:00:00.000Z",
-      "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -3979,30 +3979,6 @@
       "region": "india"
     },
     {
-      "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
-      "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
-      "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -4119,6 +4095,30 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-h2-opinion-is-liebreich-s-hydrogen-ladder-s-2024-12-11",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "OPINION | Is Liebreich's Hydrogen Ladder still relevant if near-unavoidable uses of H2 can be replaced by carbon offsets? - Hydrogen Insight",
+      "excerpt": "If we follow the influential analyst’s logic that CO2 offsetting is a better solution to aviation emissions than e-SAF, isn’t the same true for other use cases of clean H2? asks Keynumbers’ John Poljak",
+      "url": "https://www.hydrogeninsight.com/analysis/opinion-is-liebreichs-hydrogen-ladder-still-relevant-if-near-unavoidable-uses-of-h2-can-be-replaced-by-carbon-offsets-/2-1-1751616",
+      "publishedAt": "2024-12-11T08:00:00.000Z",
+      "image": "https://image.dngroup.com/global/nhst/binary/9b5afd6c7a3137bb194e768e9451c86e?crop=1600%2C801%2Cx0%2Cy406%2Csafe&width=1200&format=webp&quality=80",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObTJ3dFViMDlMRDJnREhRYmlIaUlUdWJqbGhtZ05DQUE5ci1iNTVTdXB1NW9KaDJNSVBZaHd2R0d1UE43SXJuLThhRjZJRDVwRWNtR29qcWl0SmxPZ3VmMVhZTnZ0OEtpMXE0VUdlS2s3cF9sV292OThXY2xvSktFSUZzVHo0ek04YVNsM2dlQjVyenBqM1JBdW0zZ0FTNkpKa2dIZHAtU3hBTmhCWkhWZlYtdjJjeUp2Z1VIa2VCcGdvREJUVWpDbUQ5NjVydmNuNVlzLVMwUHFBTnpIcHZPVThwUkJhWXlOeHR5ZW1WUVFmTEtRT2dCX1htYlB3MEZY?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-renewable-energy-carbon-credits-losing-s-2024-08-07",
