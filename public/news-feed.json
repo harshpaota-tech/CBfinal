@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-19T09:07:55.957Z",
+  "fetchedAt": "2026-07-19T14:22:36.642Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 23,
     "world": 64,
     "withImages": 57,
-    "avgExcerptLength": 438,
+    "avgExcerptLength": 437,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -614,6 +614,50 @@
     ],
     "world": [
       {
+        "id": "esg-today-esg-today-week-in-review-2026-07-19",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "ESG Today: Week in Review",
+        "excerpt": "This week in ESG news: EU moves to relieve pressure of ETS carbon pricing system on industry; Deloitte launches new framework to measure value of sustainability investments; Google signs massive U.S. clean energy deal; Korea extends mandatory sustainability reporting to more companies; Microsoft reports 25% jump in emissions as AI buildout challenges climate goals; EU Commission warns all 27 member states over failure to implement green building law; Masdar secures over $5 billion for record 24/7 clean energy project; Nuveen secures $2 billion anchor…",
+        "url": "https://www.esgtoday.com/esg-today-week-in-review-270/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-270",
+        "publishedAt": "2026-07-19T11:10:37.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Wind-Austria.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG News",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-eu-taps-the-brakes-on-ets-carbon-pricing-2026-07-19",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EU Taps the Brakes on ETS Carbon Pricing System",
+        "excerpt": "The European Commission announced the release of its highly-anticipated EU Emissions Trading System (ETS) review, proposing a series of changes to its main decarbonization policy, including measures to provide relief to industry by slowing the pace of emissions reduction mandated under the carbon pricing system and extending the allocation of allowances for several years, while also introducing measures to drive significantly more capital from the ETS system into industrial decarbonization. The Commission s initiatives would also significantly impact…",
+        "url": "https://www.esgtoday.com/eu-taps-the-brakes-on-ets-carbon-pricing-system/?utm_source=rss utm_medium=rss utm_campaign=eu-taps-the-brakes-on-ets-carbon-pricing-system",
+        "publishedAt": "2026-07-19T10:55:53.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-flags-1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-dive-pennsylvania-data-centers-face-increased-2026-07-17",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -625,28 +669,6 @@
         "url": "https://www.esgdive.com/news/pennsylvania-passes-budget-increasing-data-center-oversight/825521/",
         "publishedAt": "2026-07-17T14:36:00.000Z",
         "image": "https://imgproxy.divecdn.com/29fWuybhGAoS93hLXv-4dCN9TVb0CSquJn5V7ryN_HU/g:nowe:540:851/c:4851:2740/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzIzMTA2MDQzLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-disclosing-corporate-sustainability-prog-2026-07-17",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Disclosing corporate sustainability progress in a divided regulatory landscape",
-        "excerpt": "As companies continue to grapple with what they are required to disclose, those who establish stakeholder-relevant reporting practices will be best prepared for what comes next, according to Smurfit Westrock s sustainability head.",
-        "url": "https://www.esgdive.com/news/disclosing-corporate-sustainability-progress-in-divided-regulatory-landscape-smurfit-westrock/825447/",
-        "publishedAt": "2026-07-17T14:00:00.000Z",
-        "image": "https://imgproxy.divecdn.com/fZN8DZsJ3vr_FqhfOea6ec7oDIAmQQYaXf874wGKI8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkwOTQzMDUzLmpwZw==.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1078,28 +1100,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-calstrs-invests-2-billion-to-anchor-nuve-2026-07-15",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "CalSTRS Invests $2 Billion to Anchor Nuveen Sustainable Infrastructure Fund",
-        "excerpt": "Global investment manager Nuveen announced a strategic partnership with the California State Teachers Retirement System (CalSTRS), under which CalSTRS will commit up to $2 billion to sustainable infrastructure investments, serving as a anchor investor for Nuveen s Energy & Power Infrastructure Credit Fund II (EPIC II). In addition to the EPIC II fund, the new partnership also positions CalSTRS to anchor future complementary investment strategies to support critical infrastructure for the clean energy economy, the firms added. The new partnership will…",
-        "url": "https://www.esgtoday.com/calstrs-invests-2-billion-to-anchor-nuveen-sustainable-infrastructure-fund/?utm_source=rss utm_medium=rss utm_campaign=calstrs-invests-2-billion-to-anchor-nuveen-sustainable-infrastructure-fund",
-        "publishedAt": "2026-07-15T15:12:08.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/CalSTRS3.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-cropped-15-july-2026-uganda-starves-trum-2026-07-15",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1122,28 +1122,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-eu-commission-launches-legal-action-agai-2026-07-15",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EU Commission Launches Legal Action Against All 27 Member States for Failing to Implement Zero Emission Building Law",
-        "excerpt": "The European Commission announced that it has sent letters to all 27 EU member states, opening infringement procedures over the states’ failure to fully transpose new rules aimed at achieving a zero emissions building stock across the EU by 2050 into their national laws. Adopted by European lawmakers in 2024, the updated Energy Performance of Buildings Directive (EPBD) introduced a series of rules aimed at reducing energy use and emissions from buildings across the EU, including targets for all new buildings to be zero emissions by 2030, and to phase…",
-        "url": "https://www.esgtoday.com/eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law/?utm_source=rss utm_medium=rss utm_campaign=eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law",
-        "publishedAt": "2026-07-15T13:48:46.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-flags3-1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-new-york-becomes-first-state-to-impose-m-2026-07-14",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -1155,6 +1133,28 @@
         "url": "https://www.esgdive.com/news/new-york-becomes-first-state-to-impose-moratorium-on-data-center-development/825202/",
         "publishedAt": "2026-07-14T16:38:11.000Z",
         "image": "https://imgproxy.divecdn.com/vyLSqOVgzAH-SsbuECo3CFZRUNmWJ3Q5IeNtqRWqgNs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzM2MTIxMzMzLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-pepsico-improves-sustainable-sourcing-de-2026-07-14",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "PepsiCo improves sustainable sourcing, delays emissions reporting",
+        "excerpt": "The company reported a four percentage point increase in sustainably sourced ingredients in 2025 but will release Scope 3 emissions metrics later this summer.",
+        "url": "https://www.esgdive.com/news/pepsico-improves-sustainable-sourcing-delays-emissions-reporting/825155/",
+        "publishedAt": "2026-07-14T16:20:00.000Z",
+        "image": "https://imgproxy.divecdn.com/0lcIMvaQDIK9K2IcQgwLaLyGZU0q3PVlDNtBUVLHOk0/g:nowe:0:251/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQwMTYyMTEyLmpwZw==.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -2103,6 +2103,50 @@
   },
   "articles": [
     {
+      "id": "esg-today-esg-today-week-in-review-2026-07-19",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "ESG Today: Week in Review",
+      "excerpt": "This week in ESG news: EU moves to relieve pressure of ETS carbon pricing system on industry; Deloitte launches new framework to measure value of sustainability investments; Google signs massive U.S. clean energy deal; Korea extends mandatory sustainability reporting to more companies; Microsoft reports 25% jump in emissions as AI buildout challenges climate goals; EU Commission warns all 27 member states over failure to implement green building law; Masdar secures over $5 billion for record 24/7 clean energy project; Nuveen secures $2 billion anchor…",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-270/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-270",
+      "publishedAt": "2026-07-19T11:10:37.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Wind-Austria.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG News",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-eu-taps-the-brakes-on-ets-carbon-pricing-2026-07-19",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EU Taps the Brakes on ETS Carbon Pricing System",
+      "excerpt": "The European Commission announced the release of its highly-anticipated EU Emissions Trading System (ETS) review, proposing a series of changes to its main decarbonization policy, including measures to provide relief to industry by slowing the pace of emissions reduction mandated under the carbon pricing system and extending the allocation of allowances for several years, while also introducing measures to drive significantly more capital from the ETS system into industrial decarbonization. The Commission s initiatives would also significantly impact…",
+      "url": "https://www.esgtoday.com/eu-taps-the-brakes-on-ets-carbon-pricing-system/?utm_source=rss utm_medium=rss utm_campaign=eu-taps-the-brakes-on-ets-carbon-pricing-system",
+      "publishedAt": "2026-07-19T10:55:53.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-flags-1.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-pennsylvania-data-centers-face-increased-2026-07-17",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2114,28 +2158,6 @@
       "url": "https://www.esgdive.com/news/pennsylvania-passes-budget-increasing-data-center-oversight/825521/",
       "publishedAt": "2026-07-17T14:36:00.000Z",
       "image": "https://imgproxy.divecdn.com/29fWuybhGAoS93hLXv-4dCN9TVb0CSquJn5V7ryN_HU/g:nowe:540:851/c:4851:2740/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzIzMTA2MDQzLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-disclosing-corporate-sustainability-prog-2026-07-17",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Disclosing corporate sustainability progress in a divided regulatory landscape",
-      "excerpt": "As companies continue to grapple with what they are required to disclose, those who establish stakeholder-relevant reporting practices will be best prepared for what comes next, according to Smurfit Westrock s sustainability head.",
-      "url": "https://www.esgdive.com/news/disclosing-corporate-sustainability-progress-in-divided-regulatory-landscape-smurfit-westrock/825447/",
-      "publishedAt": "2026-07-17T14:00:00.000Z",
-      "image": "https://imgproxy.divecdn.com/fZN8DZsJ3vr_FqhfOea6ec7oDIAmQQYaXf874wGKI8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkwOTQzMDUzLmpwZw==.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2567,28 +2589,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-calstrs-invests-2-billion-to-anchor-nuve-2026-07-15",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "CalSTRS Invests $2 Billion to Anchor Nuveen Sustainable Infrastructure Fund",
-      "excerpt": "Global investment manager Nuveen announced a strategic partnership with the California State Teachers Retirement System (CalSTRS), under which CalSTRS will commit up to $2 billion to sustainable infrastructure investments, serving as a anchor investor for Nuveen s Energy & Power Infrastructure Credit Fund II (EPIC II). In addition to the EPIC II fund, the new partnership also positions CalSTRS to anchor future complementary investment strategies to support critical infrastructure for the clean energy economy, the firms added. The new partnership will…",
-      "url": "https://www.esgtoday.com/calstrs-invests-2-billion-to-anchor-nuveen-sustainable-infrastructure-fund/?utm_source=rss utm_medium=rss utm_campaign=calstrs-invests-2-billion-to-anchor-nuveen-sustainable-infrastructure-fund",
-      "publishedAt": "2026-07-15T15:12:08.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/CalSTRS3.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-cropped-15-july-2026-uganda-starves-trum-2026-07-15",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2607,28 +2607,6 @@
       "meta": {
         "category": "Cropped",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-eu-commission-launches-legal-action-agai-2026-07-15",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EU Commission Launches Legal Action Against All 27 Member States for Failing to Implement Zero Emission Building Law",
-      "excerpt": "The European Commission announced that it has sent letters to all 27 EU member states, opening infringement procedures over the states’ failure to fully transpose new rules aimed at achieving a zero emissions building stock across the EU by 2050 into their national laws. Adopted by European lawmakers in 2024, the updated Energy Performance of Buildings Directive (EPBD) introduced a series of rules aimed at reducing energy use and emissions from buildings across the EU, including targets for all new buildings to be zero emissions by 2030, and to phase…",
-      "url": "https://www.esgtoday.com/eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law/?utm_source=rss utm_medium=rss utm_campaign=eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law",
-      "publishedAt": "2026-07-15T13:48:46.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-flags3-1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2666,6 +2644,28 @@
       "url": "https://www.esgdive.com/news/new-york-becomes-first-state-to-impose-moratorium-on-data-center-development/825202/",
       "publishedAt": "2026-07-14T16:38:11.000Z",
       "image": "https://imgproxy.divecdn.com/vyLSqOVgzAH-SsbuECo3CFZRUNmWJ3Q5IeNtqRWqgNs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzM2MTIxMzMzLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-pepsico-improves-sustainable-sourcing-de-2026-07-14",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "PepsiCo improves sustainable sourcing, delays emissions reporting",
+      "excerpt": "The company reported a four percentage point increase in sustainably sourced ingredients in 2025 but will release Scope 3 emissions metrics later this summer.",
+      "url": "https://www.esgdive.com/news/pepsico-improves-sustainable-sourcing-delays-emissions-reporting/825155/",
+      "publishedAt": "2026-07-14T16:20:00.000Z",
+      "image": "https://imgproxy.divecdn.com/0lcIMvaQDIK9K2IcQgwLaLyGZU0q3PVlDNtBUVLHOk0/g:nowe:0:251/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQwMTYyMTEyLmpwZw==.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
