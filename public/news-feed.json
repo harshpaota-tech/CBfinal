@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-20T04:32:48.571Z",
+  "fetchedAt": "2026-07-20T10:16:35.722Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,14 +47,38 @@
     "total": 87,
     "india": 23,
     "world": 64,
-    "withImages": 56,
-    "avgExcerptLength": 433,
+    "withImages": 55,
+    "avgExcerptLength": 426,
     "verra": 10,
     "registry": 25,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "google-india-most-zombie-credits-locked-out-of-new-un-2026-07-17",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - Climate Home News",
+        "excerpt": "Matteo Civillini Reporter Editing: Joe Lo X (Twitter) Facebook LinkedIn WhatsApp Email Print China and India have declined to back any of their old United Nations carbon credit projects seeking to sell offsets under the new UN market, driving a cull of nearly three-quarters of applicants, analysis of official data shows. Only 415 out of more than 1,500 projects and programmes hoping to move from the Clean Development Mechanism (CDM) to the new carbon market set up under Article 6.4 of the Paris Agreement won the approval of their host governments by the…",
+        "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
+        "publishedAt": "2026-07-17T16:39:36.000Z",
+        "image": "https://www.climatechangenews.com/wp-content/files/2026/07/GettyImages-991792894-1440x954.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUlVUGJ4V2U0aFhFRmw1QjdOTXBobGJDSGlLb2podFdaVnZBcTlKMVBsQmJVX0lKcmhnY253OUJMbEstcml4OXRfN1EtQWxUVi1KSkY0bktfLWx3SzRXVnZfYklyOUZlaVR5QmRfZUJUUllwVHpzX2w0cFRWeWV0bUVlUlNINlF3VlF4NlJWQjcwbExPbnRtazZ1VW5Yb0pSRHZ0SFlJNkltZzk2RVJTN09SRng4ZXd5eVhWRVdVbzJpRndfS2c?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
       {
         "id": "esg-dive-shell-sells-india-based-renewables-busin-2026-07-14",
         "source": "esg-dive",
@@ -296,30 +320,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-what-is-a-carbon-credit-a-one-tonne-co2e-2026-06-02",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "What Is a Carbon Credit? A One-Tonne CO2e Building Block - TheCSRUniverse",
-        "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. A carbon credit is a tradable unit representing one metric tonne of carbon dioxide equivalent reduced, avoided, or removed,…",
-        "url": "https://thecsruniverse.com/articles/what-is-a-carbon-credit-a-one-tonne-co2e-building-block",
-        "publishedAt": "2026-06-02T07:00:00.000Z",
-        "image": "https://thecsruniverse.com/adminxsafe/uploads/1000163795.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkNqWWlhMDJLM1l2Tm50Z2U4UjNDUDhTeGtVY3F2cUEzWDBfXzFMRnV5QUZtUUp1UHJRSXN3YVAwYzI4eUU5ZTdRMzJyUlFtYW1IRm1fM1FyX1dKcUFUOXhSS0pNWURCSnNJdmEwazZ4SEVMUDBMQ3dYanNoOTFoMkRMQmNpaElJS0ZIdjhOMzNHMkZGUVE?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "verra-vcs-6048",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -546,10 +546,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -557,8 +557,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
         },
         "region": "india"
       },
@@ -613,6 +612,50 @@
     ],
     "world": [
       {
+        "id": "esg-today-australia-to-crack-down-on-modern-slaver-2026-07-20",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Australia to Crack Down on Modern Slavery in Company Supply Chains",
+        "excerpt": "The government of Australia announced that it will strengthen its laws aimed at preventing modern slavery, including plans to make large companies criminally liable for failing to prevent modern slavery in their supply chains, unless they can prove they have taken reasonable steps to prevent it. The plans to update the modern slavery laws follows the publication of a report by the U.S. government’s United States Trade Representative (USTR) listing Australia as one of 54 economies that “have failed to impose and effectively enforce a prohibition on the…",
+        "url": "https://www.esgtoday.com/australia-to-crack-down-on-modern-slavery-in-company-supply-chains/?utm_source=rss utm_medium=rss utm_campaign=australia-to-crack-down-on-modern-slavery-in-company-supply-chains",
+        "publishedAt": "2026-07-20T09:26:56.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Australia-parliament.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Governance",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-how-gps-are-quantifying-esg-driven-roi-2026-07-20",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "How GPs are Quantifying ESG-Driven ROI",
+        "excerpt": "Ask a general partner how ESG creates value, and the answer usually comes easily. Ask them to put a number on it, and the confidence tends to thin out fast. Regulatory pressure and demand for transparency have pushed private equity firms to invest in ESG policies, portfolio data, and governance structures. The harder question now is different: can firms show, in financial terms, where that work creates value? General partners ( GPs ) are under growing pressure to prove that sustainability work translates into stronger earnings, lower operational risk,…",
+        "url": "https://www.esgtoday.com/how-gps-are-quantifying-esg-driven-roi/?utm_source=rss utm_medium=rss utm_campaign=how-gps-are-quantifying-esg-driven-roi",
+        "publishedAt": "2026-07-20T08:43:38.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Holtara-Machiels.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-esg-today-week-in-review-2026-07-19",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -641,11 +684,11 @@
         "type": "esg",
         "tag": "ESG",
         "accent": "#60a5fa",
-        "title": "EU Taps the Brakes on ETS Carbon Pricing System",
+        "title": "EU Taps the Brakes on ETS Carbon Pricing",
         "excerpt": "The European Commission announced the release of its highly-anticipated EU Emissions Trading System (ETS) review, proposing a series of changes to its main decarbonization policy, including measures to provide relief to industry by slowing the pace of emissions reduction mandated under the carbon pricing system and extending the allocation of allowances for several years, while also introducing measures to drive significantly more capital from the ETS system into industrial decarbonization. The Commission s initiatives would also significantly impact…",
         "url": "https://www.esgtoday.com/eu-taps-the-brakes-on-ets-carbon-pricing-system/?utm_source=rss utm_medium=rss utm_campaign=eu-taps-the-brakes-on-ets-carbon-pricing-system",
         "publishedAt": "2026-07-19T10:55:53.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-flags-1.jpg",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-ETS-review.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -668,28 +711,6 @@
         "url": "https://www.esgdive.com/news/pennsylvania-passes-budget-increasing-data-center-oversight/825521/",
         "publishedAt": "2026-07-17T14:36:00.000Z",
         "image": "https://imgproxy.divecdn.com/29fWuybhGAoS93hLXv-4dCN9TVb0CSquJn5V7ryN_HU/g:nowe:540:851/c:4851:2740/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzIzMTA2MDQzLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-disclosing-corporate-sustainability-prog-2026-07-17",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Disclosing corporate sustainability progress in a divided regulatory landscape",
-        "excerpt": "As companies continue to grapple with what they are required to disclose, those who establish stakeholder-relevant reporting practices will be best prepared for what comes next, according to Smurfit Westrock s sustainability head.",
-        "url": "https://www.esgdive.com/news/disclosing-corporate-sustainability-progress-in-divided-regulatory-landscape-smurfit-westrock/825447/",
-        "publishedAt": "2026-07-17T14:00:00.000Z",
-        "image": "https://imgproxy.divecdn.com/fZN8DZsJ3vr_FqhfOea6ec7oDIAmQQYaXf874wGKI8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkwOTQzMDUzLmpwZw==.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -966,50 +987,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-rize-raises-31-million-to-tackle-climate-2026-07-16",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Rize Raises $31 Million to Tackle Climate Impact of Rice Farming",
-        "excerpt": "Agri-tech startup Rize announced today that it has raised $31 million in a Series B funding round, with proceeds aimed at scaling its platform to reduce emissions from the cultivation of rice, the most-consumed and most carbon-intensive crop globally. Rice is the largest crop market in the world, with an annual market size of more than $300 billion, but it also accounts for approximately 12% of global methane emissions, a climate footprint comparable to that of the entire aviation industry. Founded in 2023 through a joint venture between Temasek,…",
-        "url": "https://www.esgtoday.com/rize-raises-31-million-to-tackle-the-climate-impact-of-rice-farming/?utm_source=rss utm_medium=rss utm_campaign=rize-raises-31-million-to-tackle-the-climate-impact-of-rice-farming",
-        "publishedAt": "2026-07-16T11:19:44.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Rize-rice.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-climate-tech-funding-surges-on-data-cent-2026-07-16",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Climate Tech Funding Surges on Data Center Demand for Power: Report",
-        "excerpt": "Venture capital investment in climate technology grew significantly in the first half of 2026, rising by more than 50% over the same period in the prior year to levels not seen in several years, driven largely by an increasing focus on technologies that can address the rapidly growing demand for energy by data centers, according to a new report by market intelligence company Currence (formerly Sightline Climate). The report also indicated a record quarter for cleantech IPOs and acquisitions, with large-scale deals for companies developing low-carbon…",
-        "url": "https://www.esgtoday.com/climate-tech-funding-surges-in-h1-2026-on-growing-data-center-demand-for-low-carbon-power-report/?utm_source=rss utm_medium=rss utm_campaign=climate-tech-funding-surges-in-h1-2026-on-growing-data-center-demand-for-low-carbon-power-report",
-        "publishedAt": "2026-07-16T10:44:49.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Fervo-NYSE.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-consultation-major-revision-to-biochar-m-2026-07-15",
         "source": "verra",
         "sourceName": "Verra",
@@ -1154,6 +1131,28 @@
         "url": "https://www.esgdive.com/news/new-york-becomes-first-state-to-impose-moratorium-on-data-center-development/825202/",
         "publishedAt": "2026-07-14T16:38:11.000Z",
         "image": "https://imgproxy.divecdn.com/vyLSqOVgzAH-SsbuECo3CFZRUNmWJ3Q5IeNtqRWqgNs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzM2MTIxMzMzLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-pepsico-improves-sustainable-sourcing-de-2026-07-14",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "PepsiCo improves sustainable sourcing, delays emissions reporting",
+        "excerpt": "The company reported a four percentage point increase in sustainably sourced ingredients in 2025 but will release Scope 3 emissions metrics later this summer.",
+        "url": "https://www.esgdive.com/news/pepsico-improves-sustainable-sourcing-delays-emissions-reporting/825155/",
+        "publishedAt": "2026-07-14T16:20:00.000Z",
+        "image": "https://imgproxy.divecdn.com/0lcIMvaQDIK9K2IcQgwLaLyGZU0q3PVlDNtBUVLHOk0/g:nowe:0:251/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQwMTYyMTEyLmpwZw==.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1558,6 +1557,30 @@
           "creditingPeriodStart": null,
           "creditingPeriodEnd": null,
           "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-06-25",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
+        "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
+        "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
+        "publishedAt": "2026-06-25T17:05:08.000Z",
+        "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdElNb1VIWGJmUlRQdS1vVUNqUlJHc0tMRWtTdW9ULU0tOG1BUmlyeThVSXNRYkVIZnpyUXBVWXdYTmJic2V0R3hMVXNvN3lNTFA5b3JRNUltMXlKcGladFlFNnZmUHk2?oc=5",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -2073,34 +2096,54 @@
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
         },
         "region": "world"
-      },
-      {
-        "id": "google-carbon-renewable-energy-carbon-credits-losing-s-2024-08-07",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Renewable-Energy Carbon Credits Losing Steam - MSCI",
-        "excerpt": "Looking for a custom solution? Get in touch Stay current with our award-winning research. Seamlessly explore MSCI indexes through conversational AI. Nowcasting delivers decision-grade signals between reporting periods. How firms are adapting and where opportunities may lie. Search Search Contact Sales Research & Insights / Blog posts Research & Insights Renewable-Energy Carbon Credits Losing Steam Blog post 8 min read Tristan Loffler , Guy Turner , Jamie Saunders , Lucien Georgeson August 7, 2024 Key findings Renewable-energy projects’ future appears…",
-        "url": "https://www.msci.com/research-and-insights/blog-post/renewable-energy-carbon-credits-losing-steam",
-        "publishedAt": "2024-08-07T07:00:00.000Z",
-        "image": "https://www.msci.com/_next/static/media/apple-touch-icon.c2c8d0a3.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWI5djJSVFhjMkpFN3FQcTkxWFh3WVAwNm5UN1d1eFFkVmFGN2ZJWUNsZ3FwYkFRUFNQQXpEazg3OG54OWZUQndYdVlPUDJDaDRhUTZfTnNRODA2aWV6bzZ6dW9vWW1BRm04ei02RnlzcVk2d21HQ3NjZWxXczZTN1ZKRS1KT1ZDTmZ1T1NpVUd5X2lwcFhBb3pkOXNvUQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
       }
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-australia-to-crack-down-on-modern-slaver-2026-07-20",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Australia to Crack Down on Modern Slavery in Company Supply Chains",
+      "excerpt": "The government of Australia announced that it will strengthen its laws aimed at preventing modern slavery, including plans to make large companies criminally liable for failing to prevent modern slavery in their supply chains, unless they can prove they have taken reasonable steps to prevent it. The plans to update the modern slavery laws follows the publication of a report by the U.S. government’s United States Trade Representative (USTR) listing Australia as one of 54 economies that “have failed to impose and effectively enforce a prohibition on the…",
+      "url": "https://www.esgtoday.com/australia-to-crack-down-on-modern-slavery-in-company-supply-chains/?utm_source=rss utm_medium=rss utm_campaign=australia-to-crack-down-on-modern-slavery-in-company-supply-chains",
+      "publishedAt": "2026-07-20T09:26:56.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Australia-parliament.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Governance",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-how-gps-are-quantifying-esg-driven-roi-2026-07-20",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "How GPs are Quantifying ESG-Driven ROI",
+      "excerpt": "Ask a general partner how ESG creates value, and the answer usually comes easily. Ask them to put a number on it, and the confidence tends to thin out fast. Regulatory pressure and demand for transparency have pushed private equity firms to invest in ESG policies, portfolio data, and governance structures. The harder question now is different: can firms show, in financial terms, where that work creates value? General partners ( GPs ) are under growing pressure to prove that sustainability work translates into stronger earnings, lower operational risk,…",
+      "url": "https://www.esgtoday.com/how-gps-are-quantifying-esg-driven-roi/?utm_source=rss utm_medium=rss utm_campaign=how-gps-are-quantifying-esg-driven-roi",
+      "publishedAt": "2026-07-20T08:43:38.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Holtara-Machiels.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-esg-today-week-in-review-2026-07-19",
       "source": "esg-today",
@@ -2130,11 +2173,11 @@
       "type": "esg",
       "tag": "ESG",
       "accent": "#60a5fa",
-      "title": "EU Taps the Brakes on ETS Carbon Pricing System",
+      "title": "EU Taps the Brakes on ETS Carbon Pricing",
       "excerpt": "The European Commission announced the release of its highly-anticipated EU Emissions Trading System (ETS) review, proposing a series of changes to its main decarbonization policy, including measures to provide relief to industry by slowing the pace of emissions reduction mandated under the carbon pricing system and extending the allocation of allowances for several years, while also introducing measures to drive significantly more capital from the ETS system into industrial decarbonization. The Commission s initiatives would also significantly impact…",
       "url": "https://www.esgtoday.com/eu-taps-the-brakes-on-ets-carbon-pricing-system/?utm_source=rss utm_medium=rss utm_campaign=eu-taps-the-brakes-on-ets-carbon-pricing-system",
       "publishedAt": "2026-07-19T10:55:53.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-flags-1.jpg",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/EU-ETS-review.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2144,6 +2187,30 @@
         "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-most-zombie-credits-locked-out-of-new-un-2026-07-17",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - Climate Home News",
+      "excerpt": "Matteo Civillini Reporter Editing: Joe Lo X (Twitter) Facebook LinkedIn WhatsApp Email Print China and India have declined to back any of their old United Nations carbon credit projects seeking to sell offsets under the new UN market, driving a cull of nearly three-quarters of applicants, analysis of official data shows. Only 415 out of more than 1,500 projects and programmes hoping to move from the Clean Development Mechanism (CDM) to the new carbon market set up under Article 6.4 of the Paris Agreement won the approval of their host governments by the…",
+      "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
+      "publishedAt": "2026-07-17T16:39:36.000Z",
+      "image": "https://www.climatechangenews.com/wp-content/files/2026/07/GettyImages-991792894-1440x954.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUlVUGJ4V2U0aFhFRmw1QjdOTXBobGJDSGlLb2podFdaVnZBcTlKMVBsQmJVX0lKcmhnY253OUJMbEstcml4OXRfN1EtQWxUVi1KSkY0bktfLWx3SzRXVnZfYklyOUZlaVR5QmRfZUJUUllwVHpzX2w0cFRWeWV0bUVlUlNINlF3VlF4NlJWQjcwbExPbnRtazZ1VW5Yb0pSRHZ0SFlJNkltZzk2RVJTN09SRng4ZXd5eVhWRVdVbzJpRndfS2c?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "esg-dive-pennsylvania-data-centers-face-increased-2026-07-17",
@@ -2157,28 +2224,6 @@
       "url": "https://www.esgdive.com/news/pennsylvania-passes-budget-increasing-data-center-oversight/825521/",
       "publishedAt": "2026-07-17T14:36:00.000Z",
       "image": "https://imgproxy.divecdn.com/29fWuybhGAoS93hLXv-4dCN9TVb0CSquJn5V7ryN_HU/g:nowe:540:851/c:4851:2740/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzIzMTA2MDQzLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-disclosing-corporate-sustainability-prog-2026-07-17",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Disclosing corporate sustainability progress in a divided regulatory landscape",
-      "excerpt": "As companies continue to grapple with what they are required to disclose, those who establish stakeholder-relevant reporting practices will be best prepared for what comes next, according to Smurfit Westrock s sustainability head.",
-      "url": "https://www.esgdive.com/news/disclosing-corporate-sustainability-progress-in-divided-regulatory-landscape-smurfit-westrock/825447/",
-      "publishedAt": "2026-07-17T14:00:00.000Z",
-      "image": "https://imgproxy.divecdn.com/fZN8DZsJ3vr_FqhfOea6ec7oDIAmQQYaXf874wGKI8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkwOTQzMDUzLmpwZw==.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2455,50 +2500,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-rize-raises-31-million-to-tackle-climate-2026-07-16",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Rize Raises $31 Million to Tackle Climate Impact of Rice Farming",
-      "excerpt": "Agri-tech startup Rize announced today that it has raised $31 million in a Series B funding round, with proceeds aimed at scaling its platform to reduce emissions from the cultivation of rice, the most-consumed and most carbon-intensive crop globally. Rice is the largest crop market in the world, with an annual market size of more than $300 billion, but it also accounts for approximately 12% of global methane emissions, a climate footprint comparable to that of the entire aviation industry. Founded in 2023 through a joint venture between Temasek,…",
-      "url": "https://www.esgtoday.com/rize-raises-31-million-to-tackle-the-climate-impact-of-rice-farming/?utm_source=rss utm_medium=rss utm_campaign=rize-raises-31-million-to-tackle-the-climate-impact-of-rice-farming",
-      "publishedAt": "2026-07-16T11:19:44.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Rize-rice.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-climate-tech-funding-surges-on-data-cent-2026-07-16",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Climate Tech Funding Surges on Data Center Demand for Power: Report",
-      "excerpt": "Venture capital investment in climate technology grew significantly in the first half of 2026, rising by more than 50% over the same period in the prior year to levels not seen in several years, driven largely by an increasing focus on technologies that can address the rapidly growing demand for energy by data centers, according to a new report by market intelligence company Currence (formerly Sightline Climate). The report also indicated a record quarter for cleantech IPOs and acquisitions, with large-scale deals for companies developing low-carbon…",
-      "url": "https://www.esgtoday.com/climate-tech-funding-surges-in-h1-2026-on-growing-data-center-demand-for-low-carbon-power-report/?utm_source=rss utm_medium=rss utm_campaign=climate-tech-funding-surges-in-h1-2026-on-growing-data-center-demand-for-low-carbon-power-report",
-      "publishedAt": "2026-07-16T10:44:49.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Fervo-NYSE.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-consultation-major-revision-to-biochar-m-2026-07-15",
       "source": "verra",
       "sourceName": "Verra",
@@ -2665,6 +2666,28 @@
       "url": "https://www.esgdive.com/news/new-york-becomes-first-state-to-impose-moratorium-on-data-center-development/825202/",
       "publishedAt": "2026-07-14T16:38:11.000Z",
       "image": "https://imgproxy.divecdn.com/vyLSqOVgzAH-SsbuECo3CFZRUNmWJ3Q5IeNtqRWqgNs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzM2MTIxMzMzLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-pepsico-improves-sustainable-sourcing-de-2026-07-14",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "PepsiCo improves sustainable sourcing, delays emissions reporting",
+      "excerpt": "The company reported a four percentage point increase in sustainably sourced ingredients in 2025 but will release Scope 3 emissions metrics later this summer.",
+      "url": "https://www.esgdive.com/news/pepsico-improves-sustainable-sourcing-delays-emissions-reporting/825155/",
+      "publishedAt": "2026-07-14T16:20:00.000Z",
+      "image": "https://imgproxy.divecdn.com/0lcIMvaQDIK9K2IcQgwLaLyGZU0q3PVlDNtBUVLHOk0/g:nowe:0:251/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQwMTYyMTEyLmpwZw==.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -3169,6 +3192,30 @@
       "region": "world"
     },
     {
+      "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-06-25",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
+      "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
+      "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
+      "publishedAt": "2026-06-25T17:05:08.000Z",
+      "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdElNb1VIWGJmUlRQdS1vVUNqUlJHc0tMRWtTdW9ULU0tOG1BUmlyeThVSXNRYkVIZnpyUXBVWXdYTmJic2V0R3hMVXNvN3lNTFA5b3JRNUltMXlKcGladFlFNnZmUHk2?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -3389,30 +3436,6 @@
         "program": "Verified Carbon Standard"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-what-is-a-carbon-credit-a-one-tonne-co2e-2026-06-02",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "What Is a Carbon Credit? A One-Tonne CO2e Building Block - TheCSRUniverse",
-      "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. A carbon credit is a tradable unit representing one metric tonne of carbon dioxide equivalent reduced, avoided, or removed,…",
-      "url": "https://thecsruniverse.com/articles/what-is-a-carbon-credit-a-one-tonne-co2e-building-block",
-      "publishedAt": "2026-06-02T07:00:00.000Z",
-      "image": "https://thecsruniverse.com/adminxsafe/uploads/1000163795.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkNqWWlhMDJLM1l2Tm50Z2U4UjNDUDhTeGtVY3F2cUEzWDBfXzFMRnV5QUZtUUp1UHJRSXN3YVAwYzI4eUU5ZTdRMzJyUlFtYW1IRm1fM1FyX1dKcUFUOXhSS0pNWURCSnNJdmEwazZ4SEVMUDBMQ3dYanNoOTFoMkRMQmNpaElJS0ZIdjhOMzNHMkZGUVE?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "verra-vcs-6053",
@@ -3961,10 +3984,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3972,8 +3995,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
       },
       "region": "india"
     },
@@ -4093,30 +4115,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "google-carbon-renewable-energy-carbon-credits-losing-s-2024-08-07",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Renewable-Energy Carbon Credits Losing Steam - MSCI",
-      "excerpt": "Looking for a custom solution? Get in touch Stay current with our award-winning research. Seamlessly explore MSCI indexes through conversational AI. Nowcasting delivers decision-grade signals between reporting periods. How firms are adapting and where opportunities may lie. Search Search Contact Sales Research & Insights / Blog posts Research & Insights Renewable-Energy Carbon Credits Losing Steam Blog post 8 min read Tristan Loffler , Guy Turner , Jamie Saunders , Lucien Georgeson August 7, 2024 Key findings Renewable-energy projects’ future appears…",
-      "url": "https://www.msci.com/research-and-insights/blog-post/renewable-energy-carbon-credits-losing-steam",
-      "publishedAt": "2024-08-07T07:00:00.000Z",
-      "image": "https://www.msci.com/_next/static/media/apple-touch-icon.c2c8d0a3.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWI5djJSVFhjMkpFN3FQcTkxWFh3WVAwNm5UN1d1eFFkVmFGN2ZJWUNsZ3FwYkFRUFNQQXpEazg3OG54OWZUQndYdVlPUDJDaDRhUTZfTnNRODA2aWV6bzZ6dW9vWW1BRm04ei02RnlzcVk2d21HQ3NjZWxXczZTN1ZKRS1KT1ZDTmZ1T1NpVUd5X2lwcFhBb3pkOXNvUQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
     },
     {
       "id": "google-h2-steel-decarbonisation-in-india-institute-2023-09-14",
