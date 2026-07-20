@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-19T20:05:45.963Z",
+  "fetchedAt": "2026-07-20T04:32:48.571Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 23,
     "world": 64,
     "withImages": 56,
-    "avgExcerptLength": 431,
+    "avgExcerptLength": 433,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -121,6 +121,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTlicVN3VGw3eTQ1V2xzOS0zWnc2QlhQU1lpM3ppUDVYeHB0UGxFWDB3ZDNCRDh1SHlxSHh4cjZ0bk1ZU0RzUDdSN0dELVlxWHhVRU9nSzdaeWRraDYycFF2UzRjLUFIcmlGblNYODFDU010U2tGQzdKRUZlX1BMZ2VRbXpYeEpzNy1oNjVrNmZjV3ZZQkpnWWZpTUZ0ZHVYWDUyMXpDUU0?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-design-without-discipline-the-role-of-in-2026-07-13",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Design Without Discipline: The Role of Incentives and Enforcement in India’s Carbon Market - orfonline.org",
+        "excerpt": "Carbon markets, including India’s own Carbon Credit Trading Scheme (CCTS), are increasingly becoming relevant emission control policy tools for governments to meet their domestic climate goals. The relevance, purpose, and integrity of these markets, however, are limited to the economic principles of incentives that govern a market and the subsequent enforcement mechanisms that are necessary for a carbon market to function as such. These elements must be designed within the structure of the market for it to operate towards its goal. This paper discusses…",
+        "url": "https://www.orfonline.org/research/design-without-discipline-the-role-of-incentives-and-enforcement-in-india-s-carbon-market",
+        "publishedAt": "2026-07-13T04:24:43.000Z",
+        "image": "https://www.orfonline.org/public/uploads/posts/image/thumbnail/1783911170_img-India",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLXRrblpRS2dCRnN1bW1IWGNaS2RyZWttRWJLelIwSXhjOFBRRlBNY1hmaVZ6dUZEUWI1U0NWTDIxd3p0OURjal93STktbUF0X3BRWmxwZ1l6VUpldllzYWh6bmFsZWtPaVozUU1vbjFnMkM1d2VkUVNWMHN2b1IwNnQ5NjFPZVNGaXVBREF4Vk9fOVVRYzNyTU03OUFtNll5XzVJLWpjRXdKNVNlbW40amlWaWdnaTk4WlVyTktNaUQ0UQ?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -445,17 +469,17 @@
         "region": "india"
       },
       {
-        "id": "google-india-a-better-blueprint-uncertain-outcomes-as-2026-04-22",
+        "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "A Better Blueprint, Uncertain Outcomes: Assessing India’s Carbon Trading Scheme - orfonline.org",
-        "excerpt": "India’s Carbon Credit Trading Scheme addresses design flaws in PAT, but without credible enforcement, verification, and demand, it risks reproducing the same market failures In the Perform, Achieve and Trade (PAT) scheme Cycle I, the non-compliance rate was 9 percent ; by PAT Cycle II, this rate had increased to about 56 percent; the Designated Consumers (DCs) obligated to purchase 86 percent of the mandated ESCerts were found to be unregistered; and the ESCerts that were purchased were sold at the floor price mandated by the Bureau of Energy Efficiency…",
-        "url": "https://www.orfonline.org/expert-speak/a-better-blueprint-uncertain-outcomes-assessing-india-s-carbon-trading-scheme",
-        "publishedAt": "2026-04-22T07:00:00.000Z",
-        "image": "https://www.orfonline.org/public/uploads/posts/image/thumbnail/1776845085_img-carban.jpg",
+        "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
+        "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
+        "publishedAt": "2026-03-21T07:00:00.000Z",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -463,32 +487,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmk5MHVRUWxDX3ptS2NBTXEtZWVlXzFQVUVjaERmUHRFMENRbEdGNExUbzdjLWVVNnZqV0Q3RklfUzdMM0o4cTh5QjlFVWNpVVBxSW55a0VzbTQxUEhwY1picWhlV2lwbHJvWXlWNXhFakYyNncwZ1plNS1nVWR1V2hJQm5pQ1ZWa19waWFKYVBFUDBYWTZESmh2S2diRzBfMlJrN18yTFJKNmRvdFZaM3g4WDJGXzQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-        "excerpt": "Insights AI CFO CEO EY Transformation Services AI Agentic AI AI Ready Data ey.ai The Reimagination Engine Physical AI Responsible AI Assurance Services Climate Change and Sustainability Services Financial Accounting and Advisory Services Forensic and Integrity Services Consulting Cybersecurity Digital Transformation People and Workforce Risk Consulting Services Supply Chain Management and Operations Technology Transformation Global Capability Centers Capability Center-as-a-Service (CaaS) EY GCC Exchange: Video Series EY GCC Leadership Dialogues The FS…",
-        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
-        "publishedAt": "2026-04-03T07:24:04.000Z",
-        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
         },
         "region": "india"
       },
@@ -547,10 +546,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": null,
+        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -558,7 +557,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -668,6 +668,28 @@
         "url": "https://www.esgdive.com/news/pennsylvania-passes-budget-increasing-data-center-oversight/825521/",
         "publishedAt": "2026-07-17T14:36:00.000Z",
         "image": "https://imgproxy.divecdn.com/29fWuybhGAoS93hLXv-4dCN9TVb0CSquJn5V7ryN_HU/g:nowe:540:851/c:4851:2740/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzIzMTA2MDQzLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-disclosing-corporate-sustainability-prog-2026-07-17",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Disclosing corporate sustainability progress in a divided regulatory landscape",
+        "excerpt": "As companies continue to grapple with what they are required to disclose, those who establish stakeholder-relevant reporting practices will be best prepared for what comes next, according to Smurfit Westrock s sustainability head.",
+        "url": "https://www.esgdive.com/news/disclosing-corporate-sustainability-progress-in-divided-regulatory-landscape-smurfit-westrock/825447/",
+        "publishedAt": "2026-07-17T14:00:00.000Z",
+        "image": "https://imgproxy.divecdn.com/fZN8DZsJ3vr_FqhfOea6ec7oDIAmQQYaXf874wGKI8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkwOTQzMDUzLmpwZw==.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1132,28 +1154,6 @@
         "url": "https://www.esgdive.com/news/new-york-becomes-first-state-to-impose-moratorium-on-data-center-development/825202/",
         "publishedAt": "2026-07-14T16:38:11.000Z",
         "image": "https://imgproxy.divecdn.com/vyLSqOVgzAH-SsbuECo3CFZRUNmWJ3Q5IeNtqRWqgNs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzM2MTIxMzMzLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-pepsico-improves-sustainable-sourcing-de-2026-07-14",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "PepsiCo improves sustainable sourcing, delays emissions reporting",
-        "excerpt": "The company reported a four percentage point increase in sustainably sourced ingredients in 2025 but will release Scope 3 emissions metrics later this summer.",
-        "url": "https://www.esgdive.com/news/pepsico-improves-sustainable-sourcing-delays-emissions-reporting/825155/",
-        "publishedAt": "2026-07-14T16:20:00.000Z",
-        "image": "https://imgproxy.divecdn.com/0lcIMvaQDIK9K2IcQgwLaLyGZU0q3PVlDNtBUVLHOk0/g:nowe:0:251/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQwMTYyMTEyLmpwZw==.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -2168,6 +2168,28 @@
       "region": "world"
     },
     {
+      "id": "esg-dive-disclosing-corporate-sustainability-prog-2026-07-17",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Disclosing corporate sustainability progress in a divided regulatory landscape",
+      "excerpt": "As companies continue to grapple with what they are required to disclose, those who establish stakeholder-relevant reporting practices will be best prepared for what comes next, according to Smurfit Westrock s sustainability head.",
+      "url": "https://www.esgdive.com/news/disclosing-corporate-sustainability-progress-in-divided-regulatory-landscape-smurfit-westrock/825447/",
+      "publishedAt": "2026-07-17T14:00:00.000Z",
+      "image": "https://imgproxy.divecdn.com/fZN8DZsJ3vr_FqhfOea6ec7oDIAmQQYaXf874wGKI8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkwOTQzMDUzLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
       "id": "carbon-brief-debriefed-17-july-2026-uk-firewave-fossi-2026-07-17",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2654,28 +2676,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-pepsico-improves-sustainable-sourcing-de-2026-07-14",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "PepsiCo improves sustainable sourcing, delays emissions reporting",
-      "excerpt": "The company reported a four percentage point increase in sustainably sourced ingredients in 2025 but will release Scope 3 emissions metrics later this summer.",
-      "url": "https://www.esgdive.com/news/pepsico-improves-sustainable-sourcing-delays-emissions-reporting/825155/",
-      "publishedAt": "2026-07-14T16:20:00.000Z",
-      "image": "https://imgproxy.divecdn.com/0lcIMvaQDIK9K2IcQgwLaLyGZU0q3PVlDNtBUVLHOk0/g:nowe:0:251/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQwMTYyMTEyLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-28-quotes-from-next-uk-leader-andy-burnh-2026-07-14",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2790,6 +2790,30 @@
         "imageSource": "publisher"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-design-without-discipline-the-role-of-in-2026-07-13",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Design Without Discipline: The Role of Incentives and Enforcement in India’s Carbon Market - orfonline.org",
+      "excerpt": "Carbon markets, including India’s own Carbon Credit Trading Scheme (CCTS), are increasingly becoming relevant emission control policy tools for governments to meet their domestic climate goals. The relevance, purpose, and integrity of these markets, however, are limited to the economic principles of incentives that govern a market and the subsequent enforcement mechanisms that are necessary for a carbon market to function as such. These elements must be designed within the structure of the market for it to operate towards its goal. This paper discusses…",
+      "url": "https://www.orfonline.org/research/design-without-discipline-the-role-of-incentives-and-enforcement-in-india-s-carbon-market",
+      "publishedAt": "2026-07-13T04:24:43.000Z",
+      "image": "https://www.orfonline.org/public/uploads/posts/image/thumbnail/1783911170_img-India",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLXRrblpRS2dCRnN1bW1IWGNaS2RyZWttRWJLelIwSXhjOFBRRlBNY1hmaVZ6dUZEUWI1U0NWTDIxd3p0OURjal93STktbUF0X3BRWmxwZ1l6VUpldllzYWh6bmFsZWtPaVozUU1vbjFnMkM1d2VkUVNWMHN2b1IwNnQ5NjFPZVNGaXVBREF4Vk9fOVVRYzNyTU03OUFtNll5XzVJLWpjRXdKNVNlbW40amlWaWdnaTk4WlVyTktNaUQ0UQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "verra-consultation-revision-to-concrete-produc-2026-07-10",
@@ -3765,30 +3789,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-a-better-blueprint-uncertain-outcomes-as-2026-04-22",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "A Better Blueprint, Uncertain Outcomes: Assessing India’s Carbon Trading Scheme - orfonline.org",
-      "excerpt": "India’s Carbon Credit Trading Scheme addresses design flaws in PAT, but without credible enforcement, verification, and demand, it risks reproducing the same market failures In the Perform, Achieve and Trade (PAT) scheme Cycle I, the non-compliance rate was 9 percent ; by PAT Cycle II, this rate had increased to about 56 percent; the Designated Consumers (DCs) obligated to purchase 86 percent of the mandated ESCerts were found to be unregistered; and the ESCerts that were purchased were sold at the floor price mandated by the Bureau of Energy Efficiency…",
-      "url": "https://www.orfonline.org/expert-speak/a-better-blueprint-uncertain-outcomes-assessing-india-s-carbon-trading-scheme",
-      "publishedAt": "2026-04-22T07:00:00.000Z",
-      "image": "https://www.orfonline.org/public/uploads/posts/image/thumbnail/1776845085_img-carban.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmk5MHVRUWxDX3ptS2NBTXEtZWVlXzFQVUVjaERmUHRFMENRbEdGNExUbzdjLWVVNnZqV0Q3RklfUzdMM0o4cTh5QjlFVWNpVVBxSW55a0VzbTQxUEhwY1picWhlV2lwbHJvWXlWNXhFakYyNncwZ1plNS1nVWR1V2hJQm5pQ1ZWa19waWFKYVBFUDBYWTZESmh2S2diRzBfMlJrN18yTFJKNmRvdFZaM3g4WDJGXzQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -3813,17 +3813,17 @@
       "region": "world"
     },
     {
-      "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
+      "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-      "excerpt": "Insights AI CFO CEO EY Transformation Services AI Agentic AI AI Ready Data ey.ai The Reimagination Engine Physical AI Responsible AI Assurance Services Climate Change and Sustainability Services Financial Accounting and Advisory Services Forensic and Integrity Services Consulting Cybersecurity Digital Transformation People and Workforce Risk Consulting Services Supply Chain Management and Operations Technology Transformation Global Capability Centers Capability Center-as-a-Service (CaaS) EY GCC Exchange: Video Series EY GCC Leadership Dialogues The FS…",
-      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
-      "publishedAt": "2026-04-03T07:24:04.000Z",
-      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
+      "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
+      "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
+      "publishedAt": "2026-03-21T07:00:00.000Z",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3831,8 +3831,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
       },
       "region": "india"
     },
@@ -3962,10 +3961,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": null,
+      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -3973,7 +3972,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
