@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-21T15:01:15.519Z",
+  "fetchedAt": "2026-07-21T20:17:17.608Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 87,
     "india": 23,
     "world": 64,
-    "withImages": 57,
-    "avgExcerptLength": 442,
+    "withImages": 54,
+    "avgExcerptLength": 431,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -243,6 +243,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-india-cgep-2026-06-17",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India - CGEP",
+        "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
+        "url": "https://www.energypolicy.columbia.edu/publications/india/",
+        "publishedAt": "2026-06-17T07:00:00.000Z",
+        "image": "https://www.energypolicy.columbia.edu/wp-content/uploads/2026/06/India.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -472,29 +496,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
-        "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
-        "publishedAt": "2026-03-21T07:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -549,10 +550,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -560,8 +561,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
         },
         "region": "india"
       },
@@ -615,6 +615,72 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-delta-shell-expand-saf-partnership-with--2026-07-21",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Delta, Shell expand SAF partnership with new five-year deal",
+        "excerpt": "The agreement will expand sustainable aviation fuel capacity and infrastructure at five international airport hubs.",
+        "url": "https://www.esgdive.com/news/delta-shell-expand-saf-partnership-with-new-five-year-deal/825808/",
+        "publishedAt": "2026-07-21T16:46:00.000Z",
+        "image": "https://imgproxy.divecdn.com/Xejqt8mbYHYi1z6CCCbBhDePLC4Lv41-qi296Qo_SPE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EZWx0YS5qcGc=.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-citizens-bank-to-exit-agreements-with-ic-2026-07-21",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Citizens Bank to exit agreements with ICE contractors",
+        "excerpt": "Citizens called the end of its relationships with CoreCivic and GEO a business decision that does not reflect any change in our view regarding these companies business models or operations.",
+        "url": "https://www.esgdive.com/news/citizens-exit-agreements-corecivic-geo-ice-contractors/825671/",
+        "publishedAt": "2026-07-21T15:50:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-hyperion-robotics-raises-7-4-million-to--2026-07-21",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Hyperion Robotics Raises $7.4 Million to Enable Faster, Lower Carbon Infrastructure Production",
+        "excerpt": "Automation, robotics, and sustainable materials startup Hyperion Robotics announced that it has raised $7.4 million in a growth funding round, with proceeds from the financing aimed at supporting the expansion of its platform to produce infrastructure components faster, at lower cost, and with a substantially lower carbon footprint. Founded in 2020 by Fernando De los Rios, Ashish Mohite, and Henry Unterreiner, Finland-based Hyperion provides solutions enabling Hyperion Robotics enables the construction industry to build smarter, faster, and greener,…",
+        "url": "https://www.esgtoday.com/hyperion-robotics-raises-7-4-million-to-enable-faster-lower-carbon-infrastructure-production/?utm_source=rss utm_medium=rss utm_campaign=hyperion-robotics-raises-7-4-million-to-enable-faster-lower-carbon-infrastructure-production",
+        "publishedAt": "2026-07-21T15:18:14.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Hyperion-Robotics.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Private Equity & Venture Capital",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-19-state-coalition-joins-suit-against-u--2026-07-21",
         "source": "esg-today",
@@ -689,7 +755,7 @@
         "tag": "ESG",
         "accent": "#60a5fa",
         "title": "Climate Transition Plan Disclosure Jumps to 69% of CSRD Companies: EFRAG",
-        "excerpt": "Seven out of ten companies reporting under the EU’s Corporate Sustainability Reporting Directive (CSRD) that have disclosed climate transition plans, increasing significantly over the past year, while the share, according to a new report released by the European Financial Reporting Advisory Group (EFRAG) examining the implementation practices of the European Sustainability Reporting Standards (ESRS). The report also included new indicators assessing companies’ linkages of materiality and action, indicating that companies on average only have targets in…",
+        "excerpt": "Seven out of ten companies reporting under the EU’s Corporate Sustainability Reporting Directive (CSRD) have disclosed climate transition plans, increasing significantly over the past year, and more than half have set decarbonization targets compatible with a 1.5°C warming pathway, according to a new report released by the European Financial Reporting Advisory Group (EFRAG) examining the implementation practices of the European Sustainability Reporting Standards (ESRS). The report also included new indicators assessing companies’ linkages of materiality…",
         "url": "https://www.esgtoday.com/climate-transition-plan-disclosure-jumps-to-69-of-csrd-companies-efrag/?utm_source=rss utm_medium=rss utm_campaign=climate-transition-plan-disclosure-jumps-to-69-of-csrd-companies-efrag",
         "publishedAt": "2026-07-21T11:07:51.000Z",
         "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Writing2.jpg",
@@ -770,6 +836,28 @@
         "region": "world"
       },
       {
+        "id": "carbon-brief-q-a-what-the-eu-s-carbon-market-review-m-2026-07-20",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Q A: What the EU’s carbon market review means for climate action",
+        "excerpt": "Share The European Commission has put forward new plans to cut emissions under the EU carbon market more slowly, from 2031 onwards. On 17 July, the commission presented its long-awaited proposal for reform of the EU’s Emissions Trading System (ETS). It recommended a number of changes, including giving companies free allowances to cover their emissions for longer than previously planned, conditional on climate investment plans. The proposal offers a more business-friendly and “savvy” approach, argued EU climate commissioner Wopke Hoekstra in a press…",
+        "url": "https://www.carbonbrief.org/qa-what-the-eus-carbon-market-review-means-for-climate-action",
+        "publishedAt": "2026-07-20T16:22:59.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/EU_carbon_prices_increased_tenfold_between_2017_and_2021-1024x570.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-dive-meta-s-ai-based-layoffs-allegedly-target-2026-07-20",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -788,28 +876,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-q-a-what-the-eu-s-carbon-market-review-m-2026-07-20",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Q A: What the EU’s carbon market review means for climate action",
-        "excerpt": "The European Commission has put forward new plans to cut emissions under the EU carbon market more slowly, from 2031 onwards. On 17 July, the commission presented its long-awaited proposal for reform of the EU’s Emissions Trading System (ETS). It recommended a number of changes, including giving companies free allowances to cover their emissions for longer than previously planned, conditional on climate investment plans. The proposal offers a more business-friendly and “savvy” approach, argued EU climate commissioner Wopke Hoekstra in a press conference.",
-        "url": "https://www.carbonbrief.org/qa-what-the-eus-carbon-market-review-means-for-climate-action/",
-        "publishedAt": "2026-07-20T16:11:23.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-4.56.29-PM-942x1024.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "EU policy",
-          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -925,28 +991,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-telefonica-sets-goal-to-cut-value-chain--2026-07-20",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Telefonica Sets Goal to Cut Value Chain Emissions by More than Half by 2030",
-        "excerpt": "Spanish telecommunications company Telefónica announced the launch of its new “Global Sustainability Plan 2026–2030,” setting out a series of environmental, social and governance targets aimed at supporting growth, improving operational efficiency and strengthening risk management, including a new interim climate target to cut value chain emissions by more than half by 2030. Telefónica said that the plan is structured around four impact pillars and incorporates business-related targets and KPIs intended to create long-term value while embedding…",
-        "url": "https://www.esgtoday.com/telefonica-sets-goal-to-cut-value-chain-emissions-by-more-than-half-by-2030/?utm_source=rss utm_medium=rss utm_campaign=telefonica-sets-goal-to-cut-value-chain-emissions-by-more-than-half-by-2030",
-        "publishedAt": "2026-07-20T10:33:59.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Telefonica.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-pennsylvania-data-centers-face-increased-2026-07-17",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -991,28 +1035,6 @@
         "region": "world"
       },
       {
-        "id": "carbon-brief-debriefed-17-july-2026-uk-firewave-fossi-2026-07-17",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Debriefed 17 July 2026: UK ‘firewave’ Fossil-fuelled heat deaths London’s Natural History Museum spotlights climate",
-        "excerpt": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week s key developments relating to climate change. ‘FIREWAVE’: Wildfires ravaged Europe and North America this week. France utilised water-dumping planes collecting from the Seine to contain a fire in the Fontainebleau forest near Paris, according to the Associated Press . The Financial Times reported that the UK has had “25 non-consecutive days with temperatures of 30C or more, including nine days above 34C”, creating a “firewave” and putting pressure on emergency services. Meanwhile, an…",
-        "url": "https://www.carbonbrief.org/debriefed-17-july-2026-uk-firewave-fossil-fuelled-heat-deaths-londons-natural-history-museum-spotlights-climate/",
-        "publishedAt": "2026-07-17T12:38:43.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/Climate-change-drove.-social-amended-scaled.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "DeBriefed",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-q-a-europe-s-may-and-june-heatwave-death-2026-07-17",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1020,8 +1042,8 @@
         "tag": "CLIMATE",
         "accent": "#34d399",
         "title": "Q A: Europe’s May and June heatwave deaths – and how they were counted",
-        "excerpt": "Recent weeks have seen a flurry of reports from public health authorities and scientists that estimate the deaths caused by Europe’s record-breaking summer heatwaves . In France , the national public health agency reported 2,025 excess deaths over the week where the heatwave peaked in June. Authorities in Germany and Netherlands put the excess death toll during the same seven-day period at 5,753 and 533, respectively. An analysis from climate scientists in Carbon Brief found that France saw more than 2,700 heat-related deaths over 17 days in June.…",
-        "url": "https://www.carbonbrief.org/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted/",
+        "excerpt": "Recent weeks have seen a flurry of reports from public health authorities and scientists that estimate the deaths caused by Europe’s record-breaking summer heatwaves . In France , the national public health agency reported 2,025 excess deaths over the week where the heatwave peaked in June. Authorities in Germany and Netherlands put the excess death toll during the same seven-day period at 5,753 and 533, respectively. An analysis from climate scientists in Carbon Brief found that France saw more than 2,700 heat-redeaths over 17 days in June. Separate…",
+        "url": "https://www.carbonbrief.org/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted",
         "publishedAt": "2026-07-17T11:17:09.000Z",
         "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/heat-deaths-1024x629.webp",
         "country": null,
@@ -1029,7 +1051,7 @@
         "registryId": null,
         "status": null,
         "meta": {
-          "category": "Health and Security",
+          "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
@@ -1147,103 +1169,37 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-exclusive-corporate-social-responsibilit-2026-07-15",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Exclusive: Corporate social responsibility teams facing increased pressure, burnout in 2026",
-        "excerpt": "Professionals in charge of executing companies social strategy are increasingly being asked to make the business case for their work and measure impacts, according to a new survey from the Association of Corporate Citizenship Professionals.",
-        "url": "https://www.esgdive.com/news/corporate-social-responsibility-teams-facing-increased-pressure-accp/825319/",
-        "publishedAt": "2026-07-15T16:44:00.000Z",
-        "image": "https://imgproxy.divecdn.com/NuTysRLskh2oJzNmjyQAQwkwqd_2SHMSUNbLjskKejw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkyOTQ4NTg3XzEuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-google-inks-investment-offtake-deal-for--2026-07-15",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "POLICY",
-        "accent": "#5eead4",
-        "title": "Google inks investment, offtake deal for largest US solar project",
-        "excerpt": "The tech and search engine conglomerate said the Arkansas project also represents the largest solar and storage project across its portfolio to date.",
-        "url": "https://www.esgdive.com/news/google-inks-investment-offtake-deal-for-largest-us-solar-project-cypress-creek-arkansas/825318/",
-        "publishedAt": "2026-07-15T16:34:00.000Z",
-        "image": "https://imgproxy.divecdn.com/Ek8wRRaX505GV5jhe5YU0cq9FdA0zbb7hhP80pgWq3k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Mjc5NDA1X0lwS2tNaUkuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-uk-withdraws-millions-in-funding-from-wo-2026-07-15",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "POLICY",
-        "accent": "#5eead4",
-        "title": "UK withdraws millions in funding from world’s second-largest rainforest in Congo",
-        "excerpt": "The UK has abandoned projects worth tens of millions of pounds that were meant to help protect Congo rainforests and support local people. Together, these initiatives would have made up around half of the £200m that the UK pledged to support conservation in the Congo basin – the world’s second-largest rainforest. When it hosted COP26 in Glasgow, the UK led a new initiative to end forest loss, which included a collective pledge by 12 donors of “at least” $1.5bn (£1.1bn) for Congo rainforest nations by 2025. Development minister Jenny Chapman revealed…",
-        "url": "https://www.carbonbrief.org/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo/",
-        "publishedAt": "2026-07-15T16:04:22.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/2B52FWE-300x200.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Nature policy",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-cropped-15-july-2026-uganda-starves-trum-2026-07-15",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
         "type": "esg",
         "tag": "CLIMATE",
         "accent": "#34d399",
-        "title": "Cropped 15 July 2026: Uganda starves Trump opens endangered habitats UK cuts rainforest aid",
-        "excerpt": "We handpick and explain the most important stories at the intersection of climate, land, food and nature over the past fortnight. This is an online version of Carbon Brief’s fortnightly Cropped email newsletter. Subscribe for free here. DRY THEN WET: A recent heatwave and months of low rainfall has led to a prolonged drought for Uganda, resulting in at least 16 deaths from hunger and significant crop losses, reported BBC News . Bastille Post Global suggested that “a developing El Niño later this year could bring heavier rainfall to parts of the region,…",
-        "url": "https://www.carbonbrief.org/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid/",
-        "publishedAt": "2026-07-15T14:49:04.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/2H0AR1F-1024x684.jpg",
+        "title": "UK withdraws millions in funding from world’s second-largest rainforest in Congo",
+        "excerpt": "The UK has abandoned projects worth tens of millions of pounds that were meant to help protect Congo rainforests and support local people. Together, these initiatives would have made up around half of the £200m that the UK pledged to support conservation in the Congo basin – the world’s second-largest rainforest. When it hosted COP26 in Glasgow, the UK led a new initiative to end forest loss, which included a collective pledge by 12 donors of “at least” $1.5bn (£1.1bn) for Congo rainforest nations by 2025. Development minister Jenny Chapman revealed…",
+        "url": "https://www.carbonbrief.org/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo",
+        "publishedAt": "2026-07-15T16:04:22.000Z",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
-          "category": "Cropped",
+          "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
       {
-        "id": "carbon-brief-28-quotes-from-new-uk-leader-andy-burnha-2026-07-14",
+        "id": "carbon-brief-28-quotes-from-next-uk-leader-andy-burnh-2026-07-14",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
         "type": "esg",
         "tag": "ESG",
         "accent": "#60a5fa",
-        "title": "28 quotes from new UK leader Andy Burnham on climate, net-zero and fossil fuels",
-        "excerpt": "The UK’s new prime minister Andy Burnham remained tight-lipped on his views on climate change during his leadership campaign. When asked his views on allowing new North Sea drilling in June – a move that the oil-and-gas industry and right-wing media have pushed for in recent months – he said he had “something of an open mind” on the issue. But a trawl of Burnham’s past comments about climate change, net-zero and fossil fuels reveals a different picture. Just a year ago in June 2025, Burnham, while mayor of Greater Manchester, gave his support to the…",
-        "url": "https://www.carbonbrief.org/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels/",
+        "title": "28 quotes from next UK leader Andy Burnham on climate, net-zero and fossil fuels",
+        "excerpt": "The UK’s incoming prime minister Andy Burnham has remained tight-lipped on his views on climate change during his leadership campaign. When asked his views on reversing Labour’s manifesto pledge to stop new North Sea drilling in June – a move that the oil-and-gas industry and right-wing media have pushed for in recent months – he said he had “something of an open mind” on the issue. But a trawl of Burnham’s past comments about climate change, net-zero and fossil fuels reveals a different picture. Just a year ago in June 2025, Burnham, while mayor of…",
+        "url": "https://www.carbonbrief.org/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels",
         "publishedAt": "2026-07-14T14:43:57.000Z",
         "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/unnamed-1024x682.jpg",
         "country": null,
@@ -1251,7 +1207,7 @@
         "registryId": null,
         "status": null,
         "meta": {
-          "category": "UK policy",
+          "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
@@ -1357,37 +1313,38 @@
         "accent": "#34d399",
         "title": "Interview: COP31 president says electrification is ‘surest way to protect citizens’",
         "excerpt": "Last month, COP31 president-designate Murat Kurum launched a target for 35% of the world’s final energy to come from electricity by 2035. In an interview with Carbon Brief, Kurum says that the target was not a political choice, but instead reflects the latest evidence on “what is needed to keep 1.5C within reach”. The ongoing Hormuz crisis means there is an “urgent” need for renewables and electrification, which are the “surest and cleanest way to protect citizens” from high energy prices. Kurum says that the Brazilian and Ethiopian presidencies of…",
-        "url": "https://www.carbonbrief.org/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens/",
+        "url": "https://www.carbonbrief.org/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens",
         "publishedAt": "2026-07-10T15:40:00.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/E56CWK-300x200.jpg",
+        "image": "https://cbtempdev.wpenginepowered.com/wp-content/uploads/2026/07/Murat-K-hero-2-scaled-1.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
-          "category": "Energy",
-          "feed": "https://www.carbonbrief.org/feed/"
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
       {
-        "id": "carbon-brief-debriefed-10-july-2026-deadly-europe-hea-2026-07-10",
+        "id": "carbon-brief-eight-facts-about-air-conditioning-amid--2026-07-10",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
         "type": "esg",
         "tag": "CLIMATE",
         "accent": "#34d399",
-        "title": "DeBriefed 10 July 2026: Deadly Europe heat EU electrification leak COP31 president interview",
-        "excerpt": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week s key developments relating to climate change. RECORD HEAT: Western Europe experienced its hottest June on record – some 3C above average – according to analysis covered by the Guardian . It said the finding came “as the UK enters its third heatwave of the year and wildfires ravage France and Spain”. Le Monde said 10,000 people had been evacuated due to wildfires in southern France. ‘EXCESS DEATHS’ : The June heatwave killed more than 2,700 people in France, according to a guest post…",
-        "url": "https://www.carbonbrief.org/debriefed-10-july-2026-deadly-europe-heat-eu-electrification-leak-cop31-president-interview/",
-        "publishedAt": "2026-07-10T15:30:00.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/image-2.png",
+        "title": "Eight facts about air conditioning amid an overheated global debate",
+        "excerpt": "As successive heatwaves hit Europe, air-conditioning (AC) has emerged as a new front in the international “ culture war ” over climate action. France, Germany and the UK have experienced record-breaking heat and thousands of heat-related deaths this summer, with June temperatures in many regions passing 40C. This has drawn attention to the relatively low rates of AC use in these countries – and in Europe as a whole – especially when compared to its widespread adoption in the US. Legacy newspapers , bloggers and even Elon Musk have all weighed in on “…",
+        "url": "https://www.carbonbrief.org/eight-facts-about-air-conditioning-amid-an-overheated-global-debate",
+        "publishedAt": "2026-07-10T14:21:15.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/Many_cities_in_Europe_have_only_started_regularly_experiencing_temperatures_over_30C_in_recent_years.png",
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
-          "category": "DeBriefed",
+          "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
@@ -1412,6 +1369,28 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-interview-dr-sun-yixian-on-his-new-datab-2026-07-09",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Interview: Dr Sun Yixian on his new database tracking Chinese climate ‘leadership’",
+        "excerpt": "The number of global climate initiatives launched or run by China has been growing since 2009, a new study shows. But whether this will translate into China taking up the mantle of climate leadership remains an “open question”, says Dr Sun Yixian , study co-author and professor of sustainability governance at the University of Bath . Sun’s team has compiled a database tracking all global environmental initiatives established from the 1980s onwards that were launched or run by China. These initiatives are either created by China or co-created with other…",
+        "url": "https://www.carbonbrief.org/interview-dr-sun-yixian-on-his-new-database-tracking-chinese-climate-leadership",
+        "publishedAt": "2026-07-09T12:13:49.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/The_majority_of_China-led_climate_initiatives_focus_on_information_sharing_and_dialogue_2.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -1458,6 +1437,28 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-guest-post-france-s-june-heatwave-caused-2026-07-07",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Guest post: France’s June heatwave caused more than 2,700 heat-related deaths",
+        "excerpt": "In June 2026, a record-breaking heatwave swept across Europe, with France among the first and hardest hit countries. In a new analysis, we estimate that the extreme conditions caused more than 2,700 heat-related deaths in France. We also show how France’s extreme temperatures in June exceeded projections from climate models. Our findings illustrate the human toll of extreme weather as the world warms. We also highlight the challenges in projecting the magnitude of future heatwaves and their impacts on people. For most of this century, Europe has seen…",
+        "url": "https://www.carbonbrief.org/guest-post-frances-june-heatwave-caused-more-than-2700-heat-related-deaths",
+        "publishedAt": "2026-07-07T12:25:48.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/france_tmax_timeseries.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -2083,10 +2084,10 @@
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
         "title": "Carbon markets are incomplete without nuclear - Utility Dive",
-        "excerpt": "Major carbon standards do not allow nuclear projects to generate credits, distorting the market, writes Guido Núñez-Mujica, director of data science at the Anthropocene Institute. Guido Núñez-Mujica is director of data science at the Anthropocene Institute. As the world doubles down on net-zero targets, carbon markets have become a cornerstone of our global climate response. But their credibility hinges on one critical question: Are we truly valuing all forms of low-carbon energy? Right now, the answer is an emphatic no. And one glaring omission proves…",
+        "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
         "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
         "publishedAt": "2025-09-23T07:00:00.000Z",
-        "image": "https://imgproxy.divecdn.com/b7mQYEewvUNHnQ-ypzZHJD2TlrW3ZcHXrGP0RBrBPak/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02NTg1OTkwNzIuanBn.webp",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -2094,14 +2095,79 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
         },
         "region": "world"
       }
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-delta-shell-expand-saf-partnership-with--2026-07-21",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Delta, Shell expand SAF partnership with new five-year deal",
+      "excerpt": "The agreement will expand sustainable aviation fuel capacity and infrastructure at five international airport hubs.",
+      "url": "https://www.esgdive.com/news/delta-shell-expand-saf-partnership-with-new-five-year-deal/825808/",
+      "publishedAt": "2026-07-21T16:46:00.000Z",
+      "image": "https://imgproxy.divecdn.com/Xejqt8mbYHYi1z6CCCbBhDePLC4Lv41-qi296Qo_SPE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EZWx0YS5qcGc=.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-citizens-bank-to-exit-agreements-with-ic-2026-07-21",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Citizens Bank to exit agreements with ICE contractors",
+      "excerpt": "Citizens called the end of its relationships with CoreCivic and GEO a business decision that does not reflect any change in our view regarding these companies business models or operations.",
+      "url": "https://www.esgdive.com/news/citizens-exit-agreements-corecivic-geo-ice-contractors/825671/",
+      "publishedAt": "2026-07-21T15:50:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-hyperion-robotics-raises-7-4-million-to--2026-07-21",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Hyperion Robotics Raises $7.4 Million to Enable Faster, Lower Carbon Infrastructure Production",
+      "excerpt": "Automation, robotics, and sustainable materials startup Hyperion Robotics announced that it has raised $7.4 million in a growth funding round, with proceeds from the financing aimed at supporting the expansion of its platform to produce infrastructure components faster, at lower cost, and with a substantially lower carbon footprint. Founded in 2020 by Fernando De los Rios, Ashish Mohite, and Henry Unterreiner, Finland-based Hyperion provides solutions enabling Hyperion Robotics enables the construction industry to build smarter, faster, and greener,…",
+      "url": "https://www.esgtoday.com/hyperion-robotics-raises-7-4-million-to-enable-faster-lower-carbon-infrastructure-production/?utm_source=rss utm_medium=rss utm_campaign=hyperion-robotics-raises-7-4-million-to-enable-faster-lower-carbon-infrastructure-production",
+      "publishedAt": "2026-07-21T15:18:14.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Hyperion-Robotics.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Private Equity & Venture Capital",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-19-state-coalition-joins-suit-against-u--2026-07-21",
       "source": "esg-today",
@@ -2176,7 +2242,7 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "Climate Transition Plan Disclosure Jumps to 69% of CSRD Companies: EFRAG",
-      "excerpt": "Seven out of ten companies reporting under the EU’s Corporate Sustainability Reporting Directive (CSRD) that have disclosed climate transition plans, increasing significantly over the past year, while the share, according to a new report released by the European Financial Reporting Advisory Group (EFRAG) examining the implementation practices of the European Sustainability Reporting Standards (ESRS). The report also included new indicators assessing companies’ linkages of materiality and action, indicating that companies on average only have targets in…",
+      "excerpt": "Seven out of ten companies reporting under the EU’s Corporate Sustainability Reporting Directive (CSRD) have disclosed climate transition plans, increasing significantly over the past year, and more than half have set decarbonization targets compatible with a 1.5°C warming pathway, according to a new report released by the European Financial Reporting Advisory Group (EFRAG) examining the implementation practices of the European Sustainability Reporting Standards (ESRS). The report also included new indicators assessing companies’ linkages of materiality…",
       "url": "https://www.esgtoday.com/climate-transition-plan-disclosure-jumps-to-69-of-csrd-companies-efrag/?utm_source=rss utm_medium=rss utm_campaign=climate-transition-plan-disclosure-jumps-to-69-of-csrd-companies-efrag",
       "publishedAt": "2026-07-21T11:07:51.000Z",
       "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Writing2.jpg",
@@ -2257,6 +2323,28 @@
       "region": "world"
     },
     {
+      "id": "carbon-brief-q-a-what-the-eu-s-carbon-market-review-m-2026-07-20",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Q A: What the EU’s carbon market review means for climate action",
+      "excerpt": "Share The European Commission has put forward new plans to cut emissions under the EU carbon market more slowly, from 2031 onwards. On 17 July, the commission presented its long-awaited proposal for reform of the EU’s Emissions Trading System (ETS). It recommended a number of changes, including giving companies free allowances to cover their emissions for longer than previously planned, conditional on climate investment plans. The proposal offers a more business-friendly and “savvy” approach, argued EU climate commissioner Wopke Hoekstra in a press…",
+      "url": "https://www.carbonbrief.org/qa-what-the-eus-carbon-market-review-means-for-climate-action",
+      "publishedAt": "2026-07-20T16:22:59.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/EU_carbon_prices_increased_tenfold_between_2017_and_2021-1024x570.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-meta-s-ai-based-layoffs-allegedly-target-2026-07-20",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2275,28 +2363,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-q-a-what-the-eu-s-carbon-market-review-m-2026-07-20",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Q A: What the EU’s carbon market review means for climate action",
-      "excerpt": "The European Commission has put forward new plans to cut emissions under the EU carbon market more slowly, from 2031 onwards. On 17 July, the commission presented its long-awaited proposal for reform of the EU’s Emissions Trading System (ETS). It recommended a number of changes, including giving companies free allowances to cover their emissions for longer than previously planned, conditional on climate investment plans. The proposal offers a more business-friendly and “savvy” approach, argued EU climate commissioner Wopke Hoekstra in a press conference.",
-      "url": "https://www.carbonbrief.org/qa-what-the-eus-carbon-market-review-means-for-climate-action/",
-      "publishedAt": "2026-07-20T16:11:23.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-4.56.29-PM-942x1024.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "EU policy",
-        "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
     },
@@ -2436,28 +2502,6 @@
       "region": "india"
     },
     {
-      "id": "esg-today-telefonica-sets-goal-to-cut-value-chain--2026-07-20",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Telefonica Sets Goal to Cut Value Chain Emissions by More than Half by 2030",
-      "excerpt": "Spanish telecommunications company Telefónica announced the launch of its new “Global Sustainability Plan 2026–2030,” setting out a series of environmental, social and governance targets aimed at supporting growth, improving operational efficiency and strengthening risk management, including a new interim climate target to cut value chain emissions by more than half by 2030. Telefónica said that the plan is structured around four impact pillars and incorporates business-related targets and KPIs intended to create long-term value while embedding…",
-      "url": "https://www.esgtoday.com/telefonica-sets-goal-to-cut-value-chain-emissions-by-more-than-half-by-2030/?utm_source=rss utm_medium=rss utm_campaign=telefonica-sets-goal-to-cut-value-chain-emissions-by-more-than-half-by-2030",
-      "publishedAt": "2026-07-20T10:33:59.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Telefonica.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-most-zombie-credits-locked-out-of-new-un-2026-07-17",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2526,28 +2570,6 @@
       "region": "world"
     },
     {
-      "id": "carbon-brief-debriefed-17-july-2026-uk-firewave-fossi-2026-07-17",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Debriefed 17 July 2026: UK ‘firewave’ Fossil-fuelled heat deaths London’s Natural History Museum spotlights climate",
-      "excerpt": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week s key developments relating to climate change. ‘FIREWAVE’: Wildfires ravaged Europe and North America this week. France utilised water-dumping planes collecting from the Seine to contain a fire in the Fontainebleau forest near Paris, according to the Associated Press . The Financial Times reported that the UK has had “25 non-consecutive days with temperatures of 30C or more, including nine days above 34C”, creating a “firewave” and putting pressure on emergency services. Meanwhile, an…",
-      "url": "https://www.carbonbrief.org/debriefed-17-july-2026-uk-firewave-fossil-fuelled-heat-deaths-londons-natural-history-museum-spotlights-climate/",
-      "publishedAt": "2026-07-17T12:38:43.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/Climate-change-drove.-social-amended-scaled.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "DeBriefed",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-q-a-europe-s-may-and-june-heatwave-death-2026-07-17",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2555,8 +2577,8 @@
       "tag": "CLIMATE",
       "accent": "#34d399",
       "title": "Q A: Europe’s May and June heatwave deaths – and how they were counted",
-      "excerpt": "Recent weeks have seen a flurry of reports from public health authorities and scientists that estimate the deaths caused by Europe’s record-breaking summer heatwaves . In France , the national public health agency reported 2,025 excess deaths over the week where the heatwave peaked in June. Authorities in Germany and Netherlands put the excess death toll during the same seven-day period at 5,753 and 533, respectively. An analysis from climate scientists in Carbon Brief found that France saw more than 2,700 heat-related deaths over 17 days in June.…",
-      "url": "https://www.carbonbrief.org/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted/",
+      "excerpt": "Recent weeks have seen a flurry of reports from public health authorities and scientists that estimate the deaths caused by Europe’s record-breaking summer heatwaves . In France , the national public health agency reported 2,025 excess deaths over the week where the heatwave peaked in June. Authorities in Germany and Netherlands put the excess death toll during the same seven-day period at 5,753 and 533, respectively. An analysis from climate scientists in Carbon Brief found that France saw more than 2,700 heat-redeaths over 17 days in June. Separate…",
+      "url": "https://www.carbonbrief.org/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted",
       "publishedAt": "2026-07-17T11:17:09.000Z",
       "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/heat-deaths-1024x629.webp",
       "country": null,
@@ -2564,7 +2586,7 @@
       "registryId": null,
       "status": null,
       "meta": {
-        "category": "Health and Security",
+        "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
@@ -2682,103 +2704,37 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-exclusive-corporate-social-responsibilit-2026-07-15",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Exclusive: Corporate social responsibility teams facing increased pressure, burnout in 2026",
-      "excerpt": "Professionals in charge of executing companies social strategy are increasingly being asked to make the business case for their work and measure impacts, according to a new survey from the Association of Corporate Citizenship Professionals.",
-      "url": "https://www.esgdive.com/news/corporate-social-responsibility-teams-facing-increased-pressure-accp/825319/",
-      "publishedAt": "2026-07-15T16:44:00.000Z",
-      "image": "https://imgproxy.divecdn.com/NuTysRLskh2oJzNmjyQAQwkwqd_2SHMSUNbLjskKejw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkyOTQ4NTg3XzEuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-google-inks-investment-offtake-deal-for--2026-07-15",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "POLICY",
-      "accent": "#5eead4",
-      "title": "Google inks investment, offtake deal for largest US solar project",
-      "excerpt": "The tech and search engine conglomerate said the Arkansas project also represents the largest solar and storage project across its portfolio to date.",
-      "url": "https://www.esgdive.com/news/google-inks-investment-offtake-deal-for-largest-us-solar-project-cypress-creek-arkansas/825318/",
-      "publishedAt": "2026-07-15T16:34:00.000Z",
-      "image": "https://imgproxy.divecdn.com/Ek8wRRaX505GV5jhe5YU0cq9FdA0zbb7hhP80pgWq3k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Mjc5NDA1X0lwS2tNaUkuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-uk-withdraws-millions-in-funding-from-wo-2026-07-15",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "POLICY",
-      "accent": "#5eead4",
-      "title": "UK withdraws millions in funding from world’s second-largest rainforest in Congo",
-      "excerpt": "The UK has abandoned projects worth tens of millions of pounds that were meant to help protect Congo rainforests and support local people. Together, these initiatives would have made up around half of the £200m that the UK pledged to support conservation in the Congo basin – the world’s second-largest rainforest. When it hosted COP26 in Glasgow, the UK led a new initiative to end forest loss, which included a collective pledge by 12 donors of “at least” $1.5bn (£1.1bn) for Congo rainforest nations by 2025. Development minister Jenny Chapman revealed…",
-      "url": "https://www.carbonbrief.org/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo/",
-      "publishedAt": "2026-07-15T16:04:22.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/06/2B52FWE-300x200.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Nature policy",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-cropped-15-july-2026-uganda-starves-trum-2026-07-15",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
       "type": "esg",
       "tag": "CLIMATE",
       "accent": "#34d399",
-      "title": "Cropped 15 July 2026: Uganda starves Trump opens endangered habitats UK cuts rainforest aid",
-      "excerpt": "We handpick and explain the most important stories at the intersection of climate, land, food and nature over the past fortnight. This is an online version of Carbon Brief’s fortnightly Cropped email newsletter. Subscribe for free here. DRY THEN WET: A recent heatwave and months of low rainfall has led to a prolonged drought for Uganda, resulting in at least 16 deaths from hunger and significant crop losses, reported BBC News . Bastille Post Global suggested that “a developing El Niño later this year could bring heavier rainfall to parts of the region,…",
-      "url": "https://www.carbonbrief.org/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid/",
-      "publishedAt": "2026-07-15T14:49:04.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/2H0AR1F-1024x684.jpg",
+      "title": "UK withdraws millions in funding from world’s second-largest rainforest in Congo",
+      "excerpt": "The UK has abandoned projects worth tens of millions of pounds that were meant to help protect Congo rainforests and support local people. Together, these initiatives would have made up around half of the £200m that the UK pledged to support conservation in the Congo basin – the world’s second-largest rainforest. When it hosted COP26 in Glasgow, the UK led a new initiative to end forest loss, which included a collective pledge by 12 donors of “at least” $1.5bn (£1.1bn) for Congo rainforest nations by 2025. Development minister Jenny Chapman revealed…",
+      "url": "https://www.carbonbrief.org/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo",
+      "publishedAt": "2026-07-15T16:04:22.000Z",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
-        "category": "Cropped",
+        "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
     },
     {
-      "id": "carbon-brief-28-quotes-from-new-uk-leader-andy-burnha-2026-07-14",
+      "id": "carbon-brief-28-quotes-from-next-uk-leader-andy-burnh-2026-07-14",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
       "type": "esg",
       "tag": "ESG",
       "accent": "#60a5fa",
-      "title": "28 quotes from new UK leader Andy Burnham on climate, net-zero and fossil fuels",
-      "excerpt": "The UK’s new prime minister Andy Burnham remained tight-lipped on his views on climate change during his leadership campaign. When asked his views on allowing new North Sea drilling in June – a move that the oil-and-gas industry and right-wing media have pushed for in recent months – he said he had “something of an open mind” on the issue. But a trawl of Burnham’s past comments about climate change, net-zero and fossil fuels reveals a different picture. Just a year ago in June 2025, Burnham, while mayor of Greater Manchester, gave his support to the…",
-      "url": "https://www.carbonbrief.org/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels/",
+      "title": "28 quotes from next UK leader Andy Burnham on climate, net-zero and fossil fuels",
+      "excerpt": "The UK’s incoming prime minister Andy Burnham has remained tight-lipped on his views on climate change during his leadership campaign. When asked his views on reversing Labour’s manifesto pledge to stop new North Sea drilling in June – a move that the oil-and-gas industry and right-wing media have pushed for in recent months – he said he had “something of an open mind” on the issue. But a trawl of Burnham’s past comments about climate change, net-zero and fossil fuels reveals a different picture. Just a year ago in June 2025, Burnham, while mayor of…",
+      "url": "https://www.carbonbrief.org/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels",
       "publishedAt": "2026-07-14T14:43:57.000Z",
       "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/unnamed-1024x682.jpg",
       "country": null,
@@ -2786,7 +2742,7 @@
       "registryId": null,
       "status": null,
       "meta": {
-        "category": "UK policy",
+        "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
@@ -2964,37 +2920,38 @@
       "accent": "#34d399",
       "title": "Interview: COP31 president says electrification is ‘surest way to protect citizens’",
       "excerpt": "Last month, COP31 president-designate Murat Kurum launched a target for 35% of the world’s final energy to come from electricity by 2035. In an interview with Carbon Brief, Kurum says that the target was not a political choice, but instead reflects the latest evidence on “what is needed to keep 1.5C within reach”. The ongoing Hormuz crisis means there is an “urgent” need for renewables and electrification, which are the “surest and cleanest way to protect citizens” from high energy prices. Kurum says that the Brazilian and Ethiopian presidencies of…",
-      "url": "https://www.carbonbrief.org/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens/",
+      "url": "https://www.carbonbrief.org/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens",
       "publishedAt": "2026-07-10T15:40:00.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/E56CWK-300x200.jpg",
+      "image": "https://cbtempdev.wpenginepowered.com/wp-content/uploads/2026/07/Murat-K-hero-2-scaled-1.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
-        "category": "Energy",
-        "feed": "https://www.carbonbrief.org/feed/"
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
     {
-      "id": "carbon-brief-debriefed-10-july-2026-deadly-europe-hea-2026-07-10",
+      "id": "carbon-brief-eight-facts-about-air-conditioning-amid--2026-07-10",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
       "type": "esg",
       "tag": "CLIMATE",
       "accent": "#34d399",
-      "title": "DeBriefed 10 July 2026: Deadly Europe heat EU electrification leak COP31 president interview",
-      "excerpt": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week s key developments relating to climate change. RECORD HEAT: Western Europe experienced its hottest June on record – some 3C above average – according to analysis covered by the Guardian . It said the finding came “as the UK enters its third heatwave of the year and wildfires ravage France and Spain”. Le Monde said 10,000 people had been evacuated due to wildfires in southern France. ‘EXCESS DEATHS’ : The June heatwave killed more than 2,700 people in France, according to a guest post…",
-      "url": "https://www.carbonbrief.org/debriefed-10-july-2026-deadly-europe-heat-eu-electrification-leak-cop31-president-interview/",
-      "publishedAt": "2026-07-10T15:30:00.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/image-2.png",
+      "title": "Eight facts about air conditioning amid an overheated global debate",
+      "excerpt": "As successive heatwaves hit Europe, air-conditioning (AC) has emerged as a new front in the international “ culture war ” over climate action. France, Germany and the UK have experienced record-breaking heat and thousands of heat-related deaths this summer, with June temperatures in many regions passing 40C. This has drawn attention to the relatively low rates of AC use in these countries – and in Europe as a whole – especially when compared to its widespread adoption in the US. Legacy newspapers , bloggers and even Elon Musk have all weighed in on “…",
+      "url": "https://www.carbonbrief.org/eight-facts-about-air-conditioning-amid-an-overheated-global-debate",
+      "publishedAt": "2026-07-10T14:21:15.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/Many_cities_in_Europe_have_only_started_regularly_experiencing_temperatures_over_30C_in_recent_years.png",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
-        "category": "DeBriefed",
+        "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
@@ -3019,6 +2976,28 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-interview-dr-sun-yixian-on-his-new-datab-2026-07-09",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Interview: Dr Sun Yixian on his new database tracking Chinese climate ‘leadership’",
+      "excerpt": "The number of global climate initiatives launched or run by China has been growing since 2009, a new study shows. But whether this will translate into China taking up the mantle of climate leadership remains an “open question”, says Dr Sun Yixian , study co-author and professor of sustainability governance at the University of Bath . Sun’s team has compiled a database tracking all global environmental initiatives established from the 1980s onwards that were launched or run by China. These initiatives are either created by China or co-created with other…",
+      "url": "https://www.carbonbrief.org/interview-dr-sun-yixian-on-his-new-database-tracking-chinese-climate-leadership",
+      "publishedAt": "2026-07-09T12:13:49.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/The_majority_of_China-led_climate_initiatives_focus_on_information_sharing_and_dialogue_2.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
     },
@@ -3065,6 +3044,28 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-guest-post-france-s-june-heatwave-caused-2026-07-07",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Guest post: France’s June heatwave caused more than 2,700 heat-related deaths",
+      "excerpt": "In June 2026, a record-breaking heatwave swept across Europe, with France among the first and hardest hit countries. In a new analysis, we estimate that the extreme conditions caused more than 2,700 heat-related deaths in France. We also show how France’s extreme temperatures in June exceeded projections from climate models. Our findings illustrate the human toll of extreme weather as the world warms. We also highlight the challenges in projecting the magnitude of future heatwaves and their impacts on people. For most of this century, Europe has seen…",
+      "url": "https://www.carbonbrief.org/guest-post-frances-june-heatwave-caused-more-than-2700-heat-related-deaths",
+      "publishedAt": "2026-07-07T12:25:48.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/france_tmax_timeseries.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
     },
@@ -3335,6 +3336,30 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-india-cgep-2026-06-17",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India - CGEP",
+      "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
+      "url": "https://www.energypolicy.columbia.edu/publications/india/",
+      "publishedAt": "2026-06-17T07:00:00.000Z",
+      "image": "https://www.energypolicy.columbia.edu/wp-content/uploads/2026/06/India.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -3838,29 +3863,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
-      "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
-      "publishedAt": "2026-03-21T07:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -4009,10 +4011,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -4020,8 +4022,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
       },
       "region": "india"
     },
@@ -4080,10 +4081,10 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "Carbon markets are incomplete without nuclear - Utility Dive",
-      "excerpt": "Major carbon standards do not allow nuclear projects to generate credits, distorting the market, writes Guido Núñez-Mujica, director of data science at the Anthropocene Institute. Guido Núñez-Mujica is director of data science at the Anthropocene Institute. As the world doubles down on net-zero targets, carbon markets have become a cornerstone of our global climate response. But their credibility hinges on one critical question: Are we truly valuing all forms of low-carbon energy? Right now, the answer is an emphatic no. And one glaring omission proves…",
+      "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
       "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
       "publishedAt": "2025-09-23T07:00:00.000Z",
-      "image": "https://imgproxy.divecdn.com/b7mQYEewvUNHnQ-ypzZHJD2TlrW3ZcHXrGP0RBrBPak/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02NTg1OTkwNzIuanBn.webp",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -4091,8 +4092,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
       },
       "region": "world"
     },
