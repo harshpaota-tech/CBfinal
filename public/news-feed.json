@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-22T04:13:33.373Z",
+  "fetchedAt": "2026-07-22T09:30:10.052Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 23,
     "world": 64,
     "withImages": 55,
-    "avgExcerptLength": 437,
+    "avgExcerptLength": 435,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -243,30 +243,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-india-cgep-2026-06-17",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India - CGEP",
-        "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
-        "url": "https://www.energypolicy.columbia.edu/publications/india/",
-        "publishedAt": "2026-06-17T07:00:00.000Z",
-        "image": "https://www.energypolicy.columbia.edu/wp-content/uploads/2026/06/India.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -496,6 +472,29 @@
         "region": "india"
       },
       {
+        "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
+        "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
+        "publishedAt": "2026-03-21T07:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -616,6 +615,28 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-from-carbon-to-constraints-why-sustainab-2026-07-22",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "From Carbon to Constraints: Why Sustainability Is Becoming a Growth Strategy",
+        "excerpt": "In a recent episode of the Dwarkesh Podcast, Elon Musk made a provocative prediction: within three years, the most economically compelling place to build AI data centers will be space. Whether or not that prediction proves correct is almost beside the point. What is revealing is why he believes it. Musk argues that the challenge isn’t the cost of electricity, which accounts for only a fraction of a data center’s total cost of ownership, but its availability. As AI drives unprecedented demand for computing power, access to energy will become the limiting…",
+        "url": "https://www.esgtoday.com/from-carbon-to-constraints-why-sustainability-is-becoming-a-growth-strategy/?utm_source=rss utm_medium=rss utm_campaign=from-carbon-to-constraints-why-sustainability-is-becoming-a-growth-strategy",
+        "publishedAt": "2026-07-22T08:17:31.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Emerald-Azevedo.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Guest Posts",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-delta-shell-expand-saf-partnership-with--2026-07-21",
         "source": "esg-dive",
@@ -970,28 +991,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-amundi-bnpp-am-geode-ntam-and-state-stre-2026-07-20",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Amundi, BNPP AM, Geode, NTAM and State Street Awarded $3 Billion Climate Transition Infrastructure Investment Mandate by Taiwan Pension Funds",
-        "excerpt": "Taiwan’s Bureau of Labor Funds (BLF) announced that it has selected a group of asset managers for the award of USD$3 billion of mandates for passive overseas investment in global climate transition infrastructure. The five asset managers selected by BLF include Amundi, BNP Paribas Asset Management, Geode Capital Management, Northern Trust Asset Management Australia, and State Street Global Advisors Singapore. Each of the managers will be entrusted with $600 million 5-year mandates, including $ 400 million from the Labor Pension Fund, $100 million from…",
-        "url": "https://www.esgtoday.com/amundi-bnpp-am-geode-ntam-and-state-street-awarded-3-billion-climate-transition-infrastructure-investment-mandate-by-taiwan-pension-funds/?utm_source=rss utm_medium=rss utm_campaign=amundi-bnpp-am-geode-ntam-and-state-street-awarded-3-billion-climate-transition-infrastructure-investment-mandate-by-taiwan-pension-funds",
-        "publishedAt": "2026-07-20T11:12:17.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Taiwan.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Investors",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-pennsylvania-data-centers-face-increased-2026-07-17",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -1043,7 +1042,7 @@
         "tag": "CLIMATE",
         "accent": "#34d399",
         "title": "Q A: Europe’s May and June heatwave deaths – and how they were counted",
-        "excerpt": "Recent weeks have seen a flurry of reports from public health authorities and scientists that estimate the deaths caused by Europe’s record-breaking summer heatwaves . In France , the national public health agency reported 2,025 excess deaths over the week where the heatwave peaked in June. Authorities in Germany and Netherlands put the excess death toll during the same seven-day period at 5,753 and 533, respectively. An analysis from climate scientists in Carbon Brief found that France saw more than 2,700 heat-redeaths over 17 days in June. Separate…",
+        "excerpt": "Share Recent weeks have seen a flurry of reports from public health authorities and scientists that estimate the deaths caused by Europe’s record-breaking summer heatwaves . In France , the national public health agency reported 2,025 excess deaths over the week where the heatwave peaked in June. Authorities in Germany and Netherlands put the excess death toll during the same seven-day period at 5,753 and 533, respectively. An analysis from climate scientists in Carbon Brief found that France saw more than 2,700 heat-redeaths over 17 days in June.…",
         "url": "https://www.carbonbrief.org/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted",
         "publishedAt": "2026-07-17T11:17:09.000Z",
         "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/heat-deaths-1024x629.webp",
@@ -1177,10 +1176,10 @@
         "tag": "CLIMATE",
         "accent": "#34d399",
         "title": "UK withdraws millions in funding from world’s second-largest rainforest in Congo",
-        "excerpt": "The UK has abandoned projects worth tens of millions of pounds that were meant to help protect Congo rainforests and support local people. Together, these initiatives would have made up around half of the £200m that the UK pledged to support conservation in the Congo basin – the world’s second-largest rainforest. When it hosted COP26 in Glasgow, the UK led a new initiative to end forest loss, which included a collective pledge by 12 donors of “at least” $1.5bn (£1.1bn) for Congo rainforest nations by 2025. Development minister Jenny Chapman revealed…",
+        "excerpt": "Share The UK has abandoned projects worth tens of millions of pounds that were meant to help protect Congo rainforests and support local people. Together, these initiatives would have made up around half of the £200m that the UK pledged to support conservation in the Congo basin – the world’s second-largest rainforest. When it hosted COP26 in Glasgow, the UK led a new initiative to end forest loss, which included a collective pledge by 12 donors of “at least” $1.5bn (£1.1bn) for Congo rainforest nations by 2025. Development minister Jenny Chapman…",
         "url": "https://www.carbonbrief.org/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo",
         "publishedAt": "2026-07-15T16:04:22.000Z",
-        "image": null,
+        "image": "https://cbtempdev.wpenginepowered.com/wp-content/uploads/2026/07/cropped_WEBSITE-INLINE.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1199,7 +1198,7 @@
         "tag": "ESG",
         "accent": "#60a5fa",
         "title": "28 quotes from next UK leader Andy Burnham on climate, net-zero and fossil fuels",
-        "excerpt": "The UK’s incoming prime minister Andy Burnham has remained tight-lipped on his views on climate change during his leadership campaign. When asked his views on reversing Labour’s manifesto pledge to stop new North Sea drilling in June – a move that the oil-and-gas industry and right-wing media have pushed for in recent months – he said he had “something of an open mind” on the issue. But a trawl of Burnham’s past comments about climate change, net-zero and fossil fuels reveals a different picture. Just a year ago in June 2025, Burnham, while mayor of…",
+        "excerpt": "Share The UK’s incoming prime minister Andy Burnham has remained tight-lipped on his views on climate change during his leadership campaign. When asked his views on reversing Labour’s manifesto pledge to stop new North Sea drilling in June – a move that the oil-and-gas industry and right-wing media have pushed for in recent months – he said he had “something of an open mind” on the issue. But a trawl of Burnham’s past comments about climate change, net-zero and fossil fuels reveals a different picture. Just a year ago in June 2025, Burnham, while mayor…",
         "url": "https://www.carbonbrief.org/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels",
         "publishedAt": "2026-07-14T14:43:57.000Z",
         "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/unnamed-1024x682.jpg",
@@ -1316,15 +1315,14 @@
         "excerpt": "Last month, COP31 president-designate Murat Kurum launched a target for 35% of the world’s final energy to come from electricity by 2035. In an interview with Carbon Brief, Kurum says that the target was not a political choice, but instead reflects the latest evidence on “what is needed to keep 1.5C within reach”. The ongoing Hormuz crisis means there is an “urgent” need for renewables and electrification, which are the “surest and cleanest way to protect citizens” from high energy prices. Kurum says that the Brazilian and Ethiopian presidencies of…",
         "url": "https://www.carbonbrief.org/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens",
         "publishedAt": "2026-07-10T15:40:00.000Z",
-        "image": "https://cbtempdev.wpenginepowered.com/wp-content/uploads/2026/07/Murat-K-hero-2-scaled-1.jpg",
+        "image": "https://cbtempdev.wpenginepowered.com/wp-content/uploads/2026/07/debriefed_MAILERLITE-copy_MAILERLITE-copy.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/",
-          "imageSource": "publisher"
+          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -2104,6 +2102,28 @@
   },
   "articles": [
     {
+      "id": "esg-today-from-carbon-to-constraints-why-sustainab-2026-07-22",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "From Carbon to Constraints: Why Sustainability Is Becoming a Growth Strategy",
+      "excerpt": "In a recent episode of the Dwarkesh Podcast, Elon Musk made a provocative prediction: within three years, the most economically compelling place to build AI data centers will be space. Whether or not that prediction proves correct is almost beside the point. What is revealing is why he believes it. Musk argues that the challenge isn’t the cost of electricity, which accounts for only a fraction of a data center’s total cost of ownership, but its availability. As AI drives unprecedented demand for computing power, access to energy will become the limiting…",
+      "url": "https://www.esgtoday.com/from-carbon-to-constraints-why-sustainability-is-becoming-a-growth-strategy/?utm_source=rss utm_medium=rss utm_campaign=from-carbon-to-constraints-why-sustainability-is-becoming-a-growth-strategy",
+      "publishedAt": "2026-07-22T08:17:31.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Emerald-Azevedo.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Guest Posts",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-delta-shell-expand-saf-partnership-with--2026-07-21",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2457,28 +2477,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-amundi-bnpp-am-geode-ntam-and-state-stre-2026-07-20",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Amundi, BNPP AM, Geode, NTAM and State Street Awarded $3 Billion Climate Transition Infrastructure Investment Mandate by Taiwan Pension Funds",
-      "excerpt": "Taiwan’s Bureau of Labor Funds (BLF) announced that it has selected a group of asset managers for the award of USD$3 billion of mandates for passive overseas investment in global climate transition infrastructure. The five asset managers selected by BLF include Amundi, BNP Paribas Asset Management, Geode Capital Management, Northern Trust Asset Management Australia, and State Street Global Advisors Singapore. Each of the managers will be entrusted with $600 million 5-year mandates, including $ 400 million from the Labor Pension Fund, $100 million from…",
-      "url": "https://www.esgtoday.com/amundi-bnpp-am-geode-ntam-and-state-street-awarded-3-billion-climate-transition-infrastructure-investment-mandate-by-taiwan-pension-funds/?utm_source=rss utm_medium=rss utm_campaign=amundi-bnpp-am-geode-ntam-and-state-street-awarded-3-billion-climate-transition-infrastructure-investment-mandate-by-taiwan-pension-funds",
-      "publishedAt": "2026-07-20T11:12:17.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Taiwan.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Investors",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-article-6-of-the-paris-agreement-climate-2026-07-20",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2578,7 +2576,7 @@
       "tag": "CLIMATE",
       "accent": "#34d399",
       "title": "Q A: Europe’s May and June heatwave deaths – and how they were counted",
-      "excerpt": "Recent weeks have seen a flurry of reports from public health authorities and scientists that estimate the deaths caused by Europe’s record-breaking summer heatwaves . In France , the national public health agency reported 2,025 excess deaths over the week where the heatwave peaked in June. Authorities in Germany and Netherlands put the excess death toll during the same seven-day period at 5,753 and 533, respectively. An analysis from climate scientists in Carbon Brief found that France saw more than 2,700 heat-redeaths over 17 days in June. Separate…",
+      "excerpt": "Share Recent weeks have seen a flurry of reports from public health authorities and scientists that estimate the deaths caused by Europe’s record-breaking summer heatwaves . In France , the national public health agency reported 2,025 excess deaths over the week where the heatwave peaked in June. Authorities in Germany and Netherlands put the excess death toll during the same seven-day period at 5,753 and 533, respectively. An analysis from climate scientists in Carbon Brief found that France saw more than 2,700 heat-redeaths over 17 days in June.…",
       "url": "https://www.carbonbrief.org/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted",
       "publishedAt": "2026-07-17T11:17:09.000Z",
       "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/heat-deaths-1024x629.webp",
@@ -2712,10 +2710,10 @@
       "tag": "CLIMATE",
       "accent": "#34d399",
       "title": "UK withdraws millions in funding from world’s second-largest rainforest in Congo",
-      "excerpt": "The UK has abandoned projects worth tens of millions of pounds that were meant to help protect Congo rainforests and support local people. Together, these initiatives would have made up around half of the £200m that the UK pledged to support conservation in the Congo basin – the world’s second-largest rainforest. When it hosted COP26 in Glasgow, the UK led a new initiative to end forest loss, which included a collective pledge by 12 donors of “at least” $1.5bn (£1.1bn) for Congo rainforest nations by 2025. Development minister Jenny Chapman revealed…",
+      "excerpt": "Share The UK has abandoned projects worth tens of millions of pounds that were meant to help protect Congo rainforests and support local people. Together, these initiatives would have made up around half of the £200m that the UK pledged to support conservation in the Congo basin – the world’s second-largest rainforest. When it hosted COP26 in Glasgow, the UK led a new initiative to end forest loss, which included a collective pledge by 12 donors of “at least” $1.5bn (£1.1bn) for Congo rainforest nations by 2025. Development minister Jenny Chapman…",
       "url": "https://www.carbonbrief.org/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo",
       "publishedAt": "2026-07-15T16:04:22.000Z",
-      "image": null,
+      "image": "https://cbtempdev.wpenginepowered.com/wp-content/uploads/2026/07/cropped_WEBSITE-INLINE.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2734,7 +2732,7 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "28 quotes from next UK leader Andy Burnham on climate, net-zero and fossil fuels",
-      "excerpt": "The UK’s incoming prime minister Andy Burnham has remained tight-lipped on his views on climate change during his leadership campaign. When asked his views on reversing Labour’s manifesto pledge to stop new North Sea drilling in June – a move that the oil-and-gas industry and right-wing media have pushed for in recent months – he said he had “something of an open mind” on the issue. But a trawl of Burnham’s past comments about climate change, net-zero and fossil fuels reveals a different picture. Just a year ago in June 2025, Burnham, while mayor of…",
+      "excerpt": "Share The UK’s incoming prime minister Andy Burnham has remained tight-lipped on his views on climate change during his leadership campaign. When asked his views on reversing Labour’s manifesto pledge to stop new North Sea drilling in June – a move that the oil-and-gas industry and right-wing media have pushed for in recent months – he said he had “something of an open mind” on the issue. But a trawl of Burnham’s past comments about climate change, net-zero and fossil fuels reveals a different picture. Just a year ago in June 2025, Burnham, while mayor…",
       "url": "https://www.carbonbrief.org/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels",
       "publishedAt": "2026-07-14T14:43:57.000Z",
       "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/unnamed-1024x682.jpg",
@@ -2923,15 +2921,14 @@
       "excerpt": "Last month, COP31 president-designate Murat Kurum launched a target for 35% of the world’s final energy to come from electricity by 2035. In an interview with Carbon Brief, Kurum says that the target was not a political choice, but instead reflects the latest evidence on “what is needed to keep 1.5C within reach”. The ongoing Hormuz crisis means there is an “urgent” need for renewables and electrification, which are the “surest and cleanest way to protect citizens” from high energy prices. Kurum says that the Brazilian and Ethiopian presidencies of…",
       "url": "https://www.carbonbrief.org/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens",
       "publishedAt": "2026-07-10T15:40:00.000Z",
-      "image": "https://cbtempdev.wpenginepowered.com/wp-content/uploads/2026/07/Murat-K-hero-2-scaled-1.jpg",
+      "image": "https://cbtempdev.wpenginepowered.com/wp-content/uploads/2026/07/debriefed_MAILERLITE-copy_MAILERLITE-copy.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/",
-        "imageSource": "publisher"
+        "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
     },
@@ -3337,30 +3334,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-india-cgep-2026-06-17",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India - CGEP",
-      "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
-      "url": "https://www.energypolicy.columbia.edu/publications/india/",
-      "publishedAt": "2026-06-17T07:00:00.000Z",
-      "image": "https://www.energypolicy.columbia.edu/wp-content/uploads/2026/06/India.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -3862,6 +3835,29 @@
         "imageSource": "publisher"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
+      "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
+      "publishedAt": "2026-03-21T07:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
+      },
+      "region": "india"
     },
     {
       "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
