@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-22T15:02:06.354Z",
+  "fetchedAt": "2026-07-22T20:09:27.362Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 87,
-    "india": 24,
-    "world": 63,
+    "india": 23,
+    "world": 64,
     "withImages": 55,
-    "avgExcerptLength": 435,
+    "avgExcerptLength": 432,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -97,30 +97,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzAyMk9nMlh4QjdIS1hDczM4S1NPY2JrQU54dFFsZENLZTNtUUdCQzF0QmVsNXVZck5WYi1ZaWdLaDJOWU80QkdocERNZHpWWlVXRFBzMzFfWXhoU2ZVOHNxUlRGZWpXeFRPU2NvN2F0WG1CVWI3cmc1YnNQZml3RDVn?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-most-zombie-credits-locked-out-of-new-un-2026-07-17",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - Climate Home News",
-        "excerpt": "Matteo Civillini Reporter Editing: Joe Lo X (Twitter) Facebook LinkedIn WhatsApp Email Print China and India have declined to back any of their old United Nations carbon credit projects seeking to sell offsets under the new UN market, driving a cull of nearly three-quarters of applicants, analysis of official data shows. Only 415 out of more than 1,500 projects and programmes hoping to move from the Clean Development Mechanism (CDM) to the new carbon market set up under Article 6.4 of the Paris Agreement won the approval of their host governments by the…",
-        "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
-        "publishedAt": "2026-07-17T16:39:36.000Z",
-        "image": "https://www.climatechangenews.com/wp-content/files/2026/07/GettyImages-991792894-1440x954.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUlVUGJ4V2U0aFhFRmw1QjdOTXBobGJDSGlLb2podFdaVnZBcTlKMVBsQmJVX0lKcmhnY253OUJMbEstcml4OXRfN1EtQWxUVi1KSkY0bktfLWx3SzRXVnZfYklyOUZlaVR5QmRfZUJUUllwVHpzX2w0cFRWeWV0bUVlUlNINlF3VlF4NlJWQjcwbExPbnRtazZ1VW5Yb0pSRHZ0SFlJNkltZzk2RVJTN09SRng4ZXd5eVhWRVdVbzJpRndfS2c?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -265,6 +241,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-india-cgep-2026-06-17",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India - CGEP",
+        "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
+        "url": "https://www.energypolicy.columbia.edu/publications/india/",
+        "publishedAt": "2026-06-17T07:00:00.000Z",
+        "image": "https://www.energypolicy.columbia.edu/wp-content/uploads/2026/06/India.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -469,31 +469,6 @@
         "region": "india"
       },
       {
-        "id": "verra-vcs-6032",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Solar PV Power Project by Juniper Green Ray Two Private Limited",
-        "excerpt": "Solar PV Power Project by Juniper Green Ray Two Private Limited is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies Methodology Under Development methodology. Estimated annual emission reductions are 2,80,000 tonnes CO₂ equivalent per year. Project proponent: Juniper Green Ray Two Private Limited. Crediting period runs 2025-05-22 to 2032-05-21.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6032",
-        "publishedAt": "2026-05-14T00:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": "Methodology Under Development",
-        "registryId": "6032",
-        "status": "Under validation",
-        "meta": {
-          "proponent": "Juniper Green Ray Two Private Limited",
-          "region": "Asia",
-          "creditingPeriodStart": "2025-05-22",
-          "creditingPeriodEnd": "2032-05-21",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -638,6 +613,72 @@
     ],
     "world": [
       {
+        "id": "esg-dive-blackrock-s-gip-microsoft-backed-ai-grou-2026-07-22",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "BlackRock’s GIP, Microsoft-backed AI group buy Aligned Data Centers for $40B",
+        "excerpt": "The deal represents the Artificial Intelligence Infrastructure Partnership s first investment, as it joins Global Infrastructure Partners and UAE tech investment firm MGX in acquiring the data center developer.",
+        "url": "https://www.esgdive.com/news/blackrocks-gip-microsoft-backed-ai-group-buy-aligned-data-centers-for-40/825920/",
+        "publishedAt": "2026-07-22T16:51:00.000Z",
+        "image": "https://imgproxy.divecdn.com/iHXEL0tnUci8EhbpEIPovdKeW1ngQyMC07CpQbqtLfI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYWNrcy5qcGc=.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-co2-emissions-from-us-power-sector-rose--2026-07-22",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "CO2 emissions from US power sector rose 4% last year",
+        "excerpt": "The rise in emissions was linked to increased electricity generation and coal use, the U.S. Energy Information Administration said.",
+        "url": "https://www.esgdive.com/news/carbon-dioxide-emissions-electric-power-eia/825906/",
+        "publishedAt": "2026-07-22T16:12:00.000Z",
+        "image": "https://imgproxy.divecdn.com/xJaMKWDWn2ivaZ2vYOShBDdK8TUAaOZEsrQpfWi53vc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LZW50dWNreV9jb2FsX3BsYW50LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-mn8-acquires-greenbacker-to-create-one-o-2026-07-22",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "MN8 Acquires Greenbacker to Create One of the Largest Clean Energy Platforms in the U.S.",
+        "excerpt": "Renewable energy-focused independent power producer (IPP) MN8 announced today an agreement to acquire IPP Greenbacker Renewable Energy, in a transaction that would create a combined entity ranked as one of the largest clean power platforms in the U.S., with more than 6 GW of operating and under construction capacity across 33 states. Under the terms of the agreement, MN8 will acquire Greenbacker in a cash-and-equity transaction valued at up to approximately $375 million. Founded in 2017, New-York based MN8 specializes in decarbonization projects, energy…",
+        "url": "https://www.esgtoday.com/mn8-acquires-greenbacker-to-create-one-of-the-largest-clean-energy-platforms-in-the-u-s/?utm_source=rss utm_medium=rss utm_campaign=mn8-acquires-greenbacker-to-create-one-of-the-largest-clean-energy-platforms-in-the-u-s",
+        "publishedAt": "2026-07-22T15:04:10.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/MN8.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-eurodia-raises-20-million-to-scale-up-in-2026-07-22",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -711,7 +752,7 @@
         "tag": "ESG",
         "accent": "#60a5fa",
         "title": "California to Limit Initial Scope 3 Reporting to Key Categories After Cost, Data Concerns",
-        "excerpt": "The California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s new corporate climate reporting regulations, unveiled its proposed Scope 3 approach for its upcoming emissions reporting regulations for large companies, limiting mandatory initial disclosures to 5 key value chain categories, following feedback from companies expressing concerns about cost and data availability. The regulator also provided updates on other proposed aspects of the upcoming obligations, including requiring limited assurance on Scope…",
+        "excerpt": "The California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s new corporate climate reporting regulations, unveiled its proposed approach for the regulation s Scope 3 disclosure requirements, limiting mandatory initial disclosures to 5 key value chain categories, following feedback from companies expressing concerns about cost and data availability. The regulator also provided updates on other proposed aspects of the upcoming obligations, including requiring limited assurance on Scope 1 and 2 reporting…",
         "url": "https://www.esgtoday.com/california-to-limit-initial-scope-3-reporting-to-key-categories-after-cost-data-concerns/?utm_source=rss utm_medium=rss utm_campaign=california-to-limit-initial-scope-3-reporting-to-key-categories-after-cost-data-concerns",
         "publishedAt": "2026-07-22T10:21:54.000Z",
         "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/California-CARB.jpg",
@@ -853,28 +894,6 @@
         "status": null,
         "meta": {
           "category": "Investors",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-airbus-air-canada-launch-sustainable-avi-2026-07-21",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Airbus, Air Canada Launch Sustainable Aviation Fuel Investment Platform",
-        "excerpt": "Air Canada and Airbus announced a series of initiatives aimed at scaling the sustainable aviation fuel industry in Canada, including plans to establish a jointly funded Sustainability Co-Investment Platform, aimed at supporting a commercial-scale Sustainable Aviation Fuel (SAF) industry in Canada. Under the initiative, the companies said that they will invest up to approximately CAD$13.7 million (US$10 million), through the platform, which they added “can serve as a catalyst for the broader Canadian SAF ecosystem.” Fuel accounts for the vast majority of…",
-        "url": "https://www.esgtoday.com/airbus-air-canada-launch-sustainable-aviation-fuel-investment-platform/?utm_source=rss utm_medium=rss utm_campaign=airbus-air-canada-launch-sustainable-aviation-fuel-investment-platform",
-        "publishedAt": "2026-07-21T11:55:36.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Air-Canada-airbus.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
           "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
@@ -1098,50 +1117,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-best-buy-brings-rooftop-solar-to-retail-2026-07-16",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Best Buy brings rooftop solar to retail",
-        "excerpt": "The new solar sites include the retailer s first store with a rooftop community solar garden as it looks to a 2040 net-zero target.",
-        "url": "https://www.esgdive.com/news/best-buy-brings-rooftop-solar-to-retail-ny-california/825431/",
-        "publishedAt": "2026-07-16T16:45:00.000Z",
-        "image": "https://imgproxy.divecdn.com/43ZtubM5CT0CcgBU0dZP0qfH4x_X-aIhN9YzgWxWd6Q/g:nowe:84:244/c:1178:665/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjQzNC5qcGVn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-california-blocked-from-enforcing-upcomi-2026-07-16",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "California blocked from enforcing upcoming law on recycling labels",
-        "excerpt": "Ahead of an October start date, a federal court has granted a preliminary injunction. The Flexible Packaging Association and American Forest Paper Association reacted to the news.",
-        "url": "https://www.esgdive.com/news/california-sb343-preliminary-injunction-granted/825410/",
-        "publishedAt": "2026-07-16T16:25:00.000Z",
-        "image": "https://imgproxy.divecdn.com/OzLQEB10pFdykmdYlhzvvjmvGXxgKZX6h8F_sfmS2RQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzUzNDY0MDcyLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -1711,6 +1686,31 @@
         "region": "world"
       },
       {
+        "id": "verra-vcs-6065",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "VCS PROJECT",
+        "accent": "#86efac",
+        "title": "BE GREEN BIOMASS WASTE-TO-FUEL PRODUCTION GROUP PROJECT (MALAYSIA)",
+        "excerpt": "BE GREEN BIOMASS WASTE-TO-FUEL PRODUCTION GROUP PROJECT (MALAYSIA) is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under validation\". It applies ACM0022 methodology. Estimated annual emission reductions are 97,973 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2026-05-01 to 2036-04-30.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6065",
+        "publishedAt": "2026-06-05T00:00:00.000Z",
+        "image": null,
+        "country": "Malaysia",
+        "methodology": "ACM0022",
+        "registryId": "6065",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Climate Quest Sdn Bhd",
+          "region": "Asia",
+          "creditingPeriodStart": "2026-05-01",
+          "creditingPeriodEnd": "2036-04-30",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "world"
+      },
+      {
         "id": "verra-vcs-6055",
         "source": "verra-registry",
         "sourceName": "Verra VCS Registry",
@@ -2102,6 +2102,72 @@
   },
   "articles": [
     {
+      "id": "esg-dive-blackrock-s-gip-microsoft-backed-ai-grou-2026-07-22",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "POLICY",
+      "accent": "#5eead4",
+      "title": "BlackRock’s GIP, Microsoft-backed AI group buy Aligned Data Centers for $40B",
+      "excerpt": "The deal represents the Artificial Intelligence Infrastructure Partnership s first investment, as it joins Global Infrastructure Partners and UAE tech investment firm MGX in acquiring the data center developer.",
+      "url": "https://www.esgdive.com/news/blackrocks-gip-microsoft-backed-ai-group-buy-aligned-data-centers-for-40/825920/",
+      "publishedAt": "2026-07-22T16:51:00.000Z",
+      "image": "https://imgproxy.divecdn.com/iHXEL0tnUci8EhbpEIPovdKeW1ngQyMC07CpQbqtLfI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYWNrcy5qcGc=.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-co2-emissions-from-us-power-sector-rose--2026-07-22",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "CO2 emissions from US power sector rose 4% last year",
+      "excerpt": "The rise in emissions was linked to increased electricity generation and coal use, the U.S. Energy Information Administration said.",
+      "url": "https://www.esgdive.com/news/carbon-dioxide-emissions-electric-power-eia/825906/",
+      "publishedAt": "2026-07-22T16:12:00.000Z",
+      "image": "https://imgproxy.divecdn.com/xJaMKWDWn2ivaZ2vYOShBDdK8TUAaOZEsrQpfWi53vc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LZW50dWNreV9jb2FsX3BsYW50LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-mn8-acquires-greenbacker-to-create-one-o-2026-07-22",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "MN8 Acquires Greenbacker to Create One of the Largest Clean Energy Platforms in the U.S.",
+      "excerpt": "Renewable energy-focused independent power producer (IPP) MN8 announced today an agreement to acquire IPP Greenbacker Renewable Energy, in a transaction that would create a combined entity ranked as one of the largest clean power platforms in the U.S., with more than 6 GW of operating and under construction capacity across 33 states. Under the terms of the agreement, MN8 will acquire Greenbacker in a cash-and-equity transaction valued at up to approximately $375 million. Founded in 2017, New-York based MN8 specializes in decarbonization projects, energy…",
+      "url": "https://www.esgtoday.com/mn8-acquires-greenbacker-to-create-one-of-the-largest-clean-energy-platforms-in-the-u-s/?utm_source=rss utm_medium=rss utm_campaign=mn8-acquires-greenbacker-to-create-one-of-the-largest-clean-energy-platforms-in-the-u-s",
+      "publishedAt": "2026-07-22T15:04:10.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/MN8.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-today-eurodia-raises-20-million-to-scale-up-in-2026-07-22",
       "source": "esg-today",
       "sourceName": "ESG Today",
@@ -2197,7 +2263,7 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "California to Limit Initial Scope 3 Reporting to Key Categories After Cost, Data Concerns",
-      "excerpt": "The California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s new corporate climate reporting regulations, unveiled its proposed Scope 3 approach for its upcoming emissions reporting regulations for large companies, limiting mandatory initial disclosures to 5 key value chain categories, following feedback from companies expressing concerns about cost and data availability. The regulator also provided updates on other proposed aspects of the upcoming obligations, including requiring limited assurance on Scope…",
+      "excerpt": "The California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s new corporate climate reporting regulations, unveiled its proposed approach for the regulation s Scope 3 disclosure requirements, limiting mandatory initial disclosures to 5 key value chain categories, following feedback from companies expressing concerns about cost and data availability. The regulator also provided updates on other proposed aspects of the upcoming obligations, including requiring limited assurance on Scope 1 and 2 reporting…",
       "url": "https://www.esgtoday.com/california-to-limit-initial-scope-3-reporting-to-key-categories-after-cost-data-concerns/?utm_source=rss utm_medium=rss utm_campaign=california-to-limit-initial-scope-3-reporting-to-key-categories-after-cost-data-concerns",
       "publishedAt": "2026-07-22T10:21:54.000Z",
       "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/California-CARB.jpg",
@@ -2344,28 +2410,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-airbus-air-canada-launch-sustainable-avi-2026-07-21",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Airbus, Air Canada Launch Sustainable Aviation Fuel Investment Platform",
-      "excerpt": "Air Canada and Airbus announced a series of initiatives aimed at scaling the sustainable aviation fuel industry in Canada, including plans to establish a jointly funded Sustainability Co-Investment Platform, aimed at supporting a commercial-scale Sustainable Aviation Fuel (SAF) industry in Canada. Under the initiative, the companies said that they will invest up to approximately CAD$13.7 million (US$10 million), through the platform, which they added “can serve as a catalyst for the broader Canadian SAF ecosystem.” Fuel accounts for the vast majority of…",
-      "url": "https://www.esgtoday.com/airbus-air-canada-launch-sustainable-aviation-fuel-investment-platform/?utm_source=rss utm_medium=rss utm_campaign=airbus-air-canada-launch-sustainable-aviation-fuel-investment-platform",
-      "publishedAt": "2026-07-21T11:55:36.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Air-Canada-airbus.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-citi-commits-25m-to-drive-innovation-in--2026-07-20",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2501,30 +2545,6 @@
       "region": "india"
     },
     {
-      "id": "google-india-most-zombie-credits-locked-out-of-new-un-2026-07-17",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - Climate Home News",
-      "excerpt": "Matteo Civillini Reporter Editing: Joe Lo X (Twitter) Facebook LinkedIn WhatsApp Email Print China and India have declined to back any of their old United Nations carbon credit projects seeking to sell offsets under the new UN market, driving a cull of nearly three-quarters of applicants, analysis of official data shows. Only 415 out of more than 1,500 projects and programmes hoping to move from the Clean Development Mechanism (CDM) to the new carbon market set up under Article 6.4 of the Paris Agreement won the approval of their host governments by the…",
-      "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
-      "publishedAt": "2026-07-17T16:39:36.000Z",
-      "image": "https://www.climatechangenews.com/wp-content/files/2026/07/GettyImages-991792894-1440x954.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUlVUGJ4V2U0aFhFRmw1QjdOTXBobGJDSGlLb2podFdaVnZBcTlKMVBsQmJVX0lKcmhnY253OUJMbEstcml4OXRfN1EtQWxUVi1KSkY0bktfLWx3SzRXVnZfYklyOUZlaVR5QmRfZUJUUllwVHpzX2w0cFRWeWV0bUVlUlNINlF3VlF4NlJWQjcwbExPbnRtazZ1VW5Yb0pSRHZ0SFlJNkltZzk2RVJTN09SRng4ZXd5eVhWRVdVbzJpRndfS2c?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "esg-dive-pennsylvania-data-centers-face-increased-2026-07-17",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2632,50 +2652,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-best-buy-brings-rooftop-solar-to-retail-2026-07-16",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Best Buy brings rooftop solar to retail",
-      "excerpt": "The new solar sites include the retailer s first store with a rooftop community solar garden as it looks to a 2040 net-zero target.",
-      "url": "https://www.esgdive.com/news/best-buy-brings-rooftop-solar-to-retail-ny-california/825431/",
-      "publishedAt": "2026-07-16T16:45:00.000Z",
-      "image": "https://imgproxy.divecdn.com/43ZtubM5CT0CcgBU0dZP0qfH4x_X-aIhN9YzgWxWd6Q/g:nowe:84:244/c:1178:665/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjQzNC5qcGVn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-california-blocked-from-enforcing-upcomi-2026-07-16",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "California blocked from enforcing upcoming law on recycling labels",
-      "excerpt": "Ahead of an October start date, a federal court has granted a preliminary injunction. The Flexible Packaging Association and American Forest Paper Association reacted to the news.",
-      "url": "https://www.esgdive.com/news/california-sb343-preliminary-injunction-granted/825410/",
-      "publishedAt": "2026-07-16T16:25:00.000Z",
-      "image": "https://imgproxy.divecdn.com/OzLQEB10pFdykmdYlhzvvjmvGXxgKZX6h8F_sfmS2RQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzUzNDY0MDcyLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -3339,6 +3315,30 @@
       "region": "india"
     },
     {
+      "id": "google-india-india-cgep-2026-06-17",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India - CGEP",
+      "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
+      "url": "https://www.energypolicy.columbia.edu/publications/india/",
+      "publishedAt": "2026-06-17T07:00:00.000Z",
+      "image": "https://www.energypolicy.columbia.edu/wp-content/uploads/2026/06/India.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "verra-vcs-6071",
       "source": "verra-registry",
       "sourceName": "Verra VCS Registry",
@@ -3437,6 +3437,31 @@
         "program": "Verified Carbon Standard"
       },
       "region": "india"
+    },
+    {
+      "id": "verra-vcs-6065",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "VCS PROJECT",
+      "accent": "#86efac",
+      "title": "BE GREEN BIOMASS WASTE-TO-FUEL PRODUCTION GROUP PROJECT (MALAYSIA)",
+      "excerpt": "BE GREEN BIOMASS WASTE-TO-FUEL PRODUCTION GROUP PROJECT (MALAYSIA) is a Verified Carbon Standard (VCS) project registered on the Verra registry in Malaysia. The project is currently listed as \"Under validation\". It applies ACM0022 methodology. Estimated annual emission reductions are 97,973 tonnes CO₂ equivalent per year. Project proponent: Climate Quest Sdn Bhd. Crediting period runs 2026-05-01 to 2036-04-30.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6065",
+      "publishedAt": "2026-06-05T00:00:00.000Z",
+      "image": null,
+      "country": "Malaysia",
+      "methodology": "ACM0022",
+      "registryId": "6065",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "Climate Quest Sdn Bhd",
+        "region": "Asia",
+        "creditingPeriodStart": "2026-05-01",
+        "creditingPeriodEnd": "2036-04-30",
+        "program": "Verified Carbon Standard"
+      },
+      "region": "world"
     },
     {
       "id": "verra-vcs-6063",
@@ -3784,31 +3809,6 @@
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaV9LeHJRbDJwR3JaMzlENTN6VnFjVkxnODZxTjF6dDNqckhWbkszaGZoTjFjZGdvNENTUGM5R200LUhja1Nxb3NBU0MyRGU2R29kTU1hdXVDbGs5VEV2S2NnU0Z2ZUlJSFU1RmEweS1Wd3F0M2dwcnpzc1hHTkdLNm9yTUJSd1NFRWtiS0FFb0RhYUJYRkJWVlBxVUVGVGhSRUxQblVFdldmMnVVeW0wNDZyU2xLRFhIVnZzc2NZSE85cHEwSmtLOTE4M255OFdjYmg0STZIelbSAeYBQVVfeXFMTXEzTVRuRVVyTFljbXJxMnV4a2RuSE5qamF1UFpIRkFTOTJESmcxQ3dBWmlKbUhhUlBuM1JKLV9EMnhWSlJITTB3ZDlQeWFUNV9IbzBvajVCZDZFQ3hfOW9pUDJnY3NqdlExaHJjYWt1V1N3MThBMUtYSGFsZjJweDl2WlFxNjYzZmtSZzdpRnpqYnNSYWpoUEIwZlg0YVczcXNTZGpoNm0wYmhIR1RNVDM3Qk1kMzZMSFJnQ3hlZGZWeTdub2Zzem0wLUQ2S29Bb3NJaVNNeXc3RDdoa2JURGROTmt6aVE?oc=5",
         "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "verra-vcs-6032",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Solar PV Power Project by Juniper Green Ray Two Private Limited",
-      "excerpt": "Solar PV Power Project by Juniper Green Ray Two Private Limited is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies Methodology Under Development methodology. Estimated annual emission reductions are 2,80,000 tonnes CO₂ equivalent per year. Project proponent: Juniper Green Ray Two Private Limited. Crediting period runs 2025-05-22 to 2032-05-21.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6032",
-      "publishedAt": "2026-05-14T00:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": "Methodology Under Development",
-      "registryId": "6032",
-      "status": "Under validation",
-      "meta": {
-        "proponent": "Juniper Green Ray Two Private Limited",
-        "region": "Asia",
-        "creditingPeriodStart": "2025-05-22",
-        "creditingPeriodEnd": "2032-05-21",
-        "program": "Verified Carbon Standard"
       },
       "region": "india"
     },
