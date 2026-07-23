@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-23T15:06:11.129Z",
+  "fetchedAt": "2026-07-23T20:10:07.132Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 87,
     "india": 24,
     "world": 63,
-    "withImages": 55,
-    "avgExcerptLength": 431,
+    "withImages": 56,
+    "avgExcerptLength": 436,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -572,10 +572,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": null,
+        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -583,7 +583,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -637,6 +638,50 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-investor-coalition-urges-sec-to-largely--2026-07-23",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Investor coalition urges SEC to ‘largely retain’ shareholder proposal rule",
+        "excerpt": "The Securities and Exchange Commission has indicated plans to alter Rule 14a-8, which governs the shareholder proposal process, with Chair Paul Atkins hinting at wholesale changes.",
+        "url": "https://www.esgdive.com/news/investor-coalition-urges-sec-to-largely-retain-shareholder-proposal-rule/826048/",
+        "publishedAt": "2026-07-23T16:54:00.000Z",
+        "image": "https://imgproxy.divecdn.com/L8855Y2BXPvAqNwFru0_s3noFPvBDpjnwEgZ6h09m8c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEyMDAyMTg4LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-92-of-cfos-top-finance-staff-feel-pressu-2026-07-23",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "92% of CFOs, top finance staff feel pressure to show ROI from AI: survey",
+        "excerpt": "Half of survey respondents said their AI agents have yielded only limited measurable ROI, according to Avalara.",
+        "url": "https://www.esgdive.com/news/92-cfos-top-finance-staff-pressure-show-roi-ai-avalara/826030/",
+        "publishedAt": "2026-07-23T16:19:00.000Z",
+        "image": "https://imgproxy.divecdn.com/AvPK35X329TgbyrlMwWigfvo0dB5lBl9OB7ZyUDUFOg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQ1MDExMDExX0NoQU9paVEuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-rio-tinto-signs-deal-to-replace-coal-in--2026-07-23",
         "source": "esg-today",
@@ -1057,28 +1102,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-disclosing-corporate-sustainability-prog-2026-07-17",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Disclosing corporate sustainability progress in a divided regulatory landscape",
-        "excerpt": "As companies continue to grapple with what they are required to disclose, those who establish stakeholder-relevant reporting practices will be best prepared for what comes next, according to Smurfit Westrock s sustainability head.",
-        "url": "https://www.esgdive.com/news/disclosing-corporate-sustainability-progress-in-divided-regulatory-landscape-smurfit-westrock/825447/",
-        "publishedAt": "2026-07-17T14:00:00.000Z",
-        "image": "https://imgproxy.divecdn.com/fZN8DZsJ3vr_FqhfOea6ec7oDIAmQQYaXf874wGKI8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkwOTQzMDUzLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-q-a-europe-s-may-and-june-heatwave-death-2026-07-17",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1086,7 +1109,7 @@
         "tag": "CLIMATE",
         "accent": "#34d399",
         "title": "Q A: Europe’s May and June heatwave deaths – and how they were counted",
-        "excerpt": "Share Recent weeks have seen a flurry of reports from public health authorities and scientists that estimate the deaths caused by Europe’s record-breaking summer heatwaves . In France , the national public health agency reported 2,025 excess deaths over the week where the heatwave peaked in June. Authorities in Germany and Netherlands put the excess death toll during the same seven-day period at 5,753 and 533, respectively. An analysis from climate scientists in Carbon Brief found that France saw more than 2,700 heat-redeaths over 17 days in June.…",
+        "excerpt": "Share Recent weeks have seen a flurry of reports from public health authorities and scientists that estimate the deaths caused by Europe’s record-breaking summer heatwaves . In France , the national public health agency reported 2,025 excess deaths over the week where the heatwave peaked in June. Authorities in Germany and Netherlands put the excess death toll during the same seven-day period at 5,753 and 533, respectively. An analysis from climate scientists in Carbon Brief found that France saw more than 2,700 heat-related deaths over 17 days in June.…",
         "url": "https://www.carbonbrief.org/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted",
         "publishedAt": "2026-07-17T11:17:09.000Z",
         "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/heat-deaths-1024x629.webp",
@@ -1097,28 +1120,6 @@
         "meta": {
           "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-gap-taps-levi-s-cso-to-lead-sustainabili-2026-07-16",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Gap taps Levi’s CSO to lead sustainability strategy",
-        "excerpt": "Jeffrey Hogue has stepped away from his role as Levi s chief sustainability officer to steer Gap s ESG strategy and initiatives, which includes a 2050 carbon neutrality goal.",
-        "url": "https://www.esgdive.com/news/gap-taps-levis-cso-lead-sustainability-strategy-jeffrey-hogue/825467/",
-        "publishedAt": "2026-07-16T19:32:10.000Z",
-        "image": "https://imgproxy.divecdn.com/Uey3YkXp9lltacIVhifK5n62ruMZlSosq7ibpUW-9bU/g:nowe:0:88/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0OTc1ODk0LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -2102,6 +2103,50 @@
   },
   "articles": [
     {
+      "id": "esg-dive-investor-coalition-urges-sec-to-largely--2026-07-23",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Investor coalition urges SEC to ‘largely retain’ shareholder proposal rule",
+      "excerpt": "The Securities and Exchange Commission has indicated plans to alter Rule 14a-8, which governs the shareholder proposal process, with Chair Paul Atkins hinting at wholesale changes.",
+      "url": "https://www.esgdive.com/news/investor-coalition-urges-sec-to-largely-retain-shareholder-proposal-rule/826048/",
+      "publishedAt": "2026-07-23T16:54:00.000Z",
+      "image": "https://imgproxy.divecdn.com/L8855Y2BXPvAqNwFru0_s3noFPvBDpjnwEgZ6h09m8c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEyMDAyMTg4LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-92-of-cfos-top-finance-staff-feel-pressu-2026-07-23",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "92% of CFOs, top finance staff feel pressure to show ROI from AI: survey",
+      "excerpt": "Half of survey respondents said their AI agents have yielded only limited measurable ROI, according to Avalara.",
+      "url": "https://www.esgdive.com/news/92-cfos-top-finance-staff-pressure-show-roi-ai-avalara/826030/",
+      "publishedAt": "2026-07-23T16:19:00.000Z",
+      "image": "https://imgproxy.divecdn.com/AvPK35X329TgbyrlMwWigfvo0dB5lBl9OB7ZyUDUFOg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQ1MDExMDExX0NoQU9paVEuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-today-rio-tinto-signs-deal-to-replace-coal-in--2026-07-23",
       "source": "esg-today",
       "sourceName": "ESG Today",
@@ -2567,28 +2612,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-disclosing-corporate-sustainability-prog-2026-07-17",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Disclosing corporate sustainability progress in a divided regulatory landscape",
-      "excerpt": "As companies continue to grapple with what they are required to disclose, those who establish stakeholder-relevant reporting practices will be best prepared for what comes next, according to Smurfit Westrock s sustainability head.",
-      "url": "https://www.esgdive.com/news/disclosing-corporate-sustainability-progress-in-divided-regulatory-landscape-smurfit-westrock/825447/",
-      "publishedAt": "2026-07-17T14:00:00.000Z",
-      "image": "https://imgproxy.divecdn.com/fZN8DZsJ3vr_FqhfOea6ec7oDIAmQQYaXf874wGKI8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkwOTQzMDUzLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-q-a-europe-s-may-and-june-heatwave-death-2026-07-17",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2596,7 +2619,7 @@
       "tag": "CLIMATE",
       "accent": "#34d399",
       "title": "Q A: Europe’s May and June heatwave deaths – and how they were counted",
-      "excerpt": "Share Recent weeks have seen a flurry of reports from public health authorities and scientists that estimate the deaths caused by Europe’s record-breaking summer heatwaves . In France , the national public health agency reported 2,025 excess deaths over the week where the heatwave peaked in June. Authorities in Germany and Netherlands put the excess death toll during the same seven-day period at 5,753 and 533, respectively. An analysis from climate scientists in Carbon Brief found that France saw more than 2,700 heat-redeaths over 17 days in June.…",
+      "excerpt": "Share Recent weeks have seen a flurry of reports from public health authorities and scientists that estimate the deaths caused by Europe’s record-breaking summer heatwaves . In France , the national public health agency reported 2,025 excess deaths over the week where the heatwave peaked in June. Authorities in Germany and Netherlands put the excess death toll during the same seven-day period at 5,753 and 533, respectively. An analysis from climate scientists in Carbon Brief found that France saw more than 2,700 heat-related deaths over 17 days in June.…",
       "url": "https://www.carbonbrief.org/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted",
       "publishedAt": "2026-07-17T11:17:09.000Z",
       "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/heat-deaths-1024x629.webp",
@@ -2607,28 +2630,6 @@
       "meta": {
         "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-gap-taps-levi-s-cso-to-lead-sustainabili-2026-07-16",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Gap taps Levi’s CSO to lead sustainability strategy",
-      "excerpt": "Jeffrey Hogue has stepped away from his role as Levi s chief sustainability officer to steer Gap s ESG strategy and initiatives, which includes a 2050 carbon neutrality goal.",
-      "url": "https://www.esgdive.com/news/gap-taps-levis-cso-lead-sustainability-strategy-jeffrey-hogue/825467/",
-      "publishedAt": "2026-07-16T19:32:10.000Z",
-      "image": "https://imgproxy.divecdn.com/Uey3YkXp9lltacIVhifK5n62ruMZlSosq7ibpUW-9bU/g:nowe:0:88/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0OTc1ODk0LmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -4009,10 +4010,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": null,
+      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -4020,7 +4021,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
