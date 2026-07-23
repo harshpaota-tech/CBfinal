@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-23T09:27:31.284Z",
+  "fetchedAt": "2026-07-23T15:06:11.129Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 87,
-    "india": 23,
-    "world": 64,
-    "withImages": 56,
-    "avgExcerptLength": 437,
+    "india": 24,
+    "world": 63,
+    "withImages": 55,
+    "avgExcerptLength": 431,
     "verra": 10,
     "registry": 25,
     "esg": 52
@@ -126,6 +126,55 @@
         "region": "india"
       },
       {
+        "id": "google-india-india-s-carbon-credit-trading-scheme-a-s-2026-07-14",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India's Carbon Credit Trading Scheme: A strong start, critical design choices ahead - Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language Decarbonization Energy Transition &…",
+        "url": "https://ieefa.org/articles/indias-carbon-credit-trading-scheme-strong-start-critical-design-choices-ahead",
+        "publishedAt": "2026-07-14T05:40:13.000Z",
+        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTlicVN3VGw3eTQ1V2xzOS0zWnc2QlhQU1lpM3ppUDVYeHB0UGxFWDB3ZDNCRDh1SHlxSHh4cjZ0bk1ZU0RzUDdSN0dELVlxWHhVRU9nSzdaeWRraDYycFF2UzRjLUFIcmlGblNYODFDU010U2tGQzdKRUZlX1BMZ2VRbXpYeEpzNy1oNjVrNmZjV3ZZQkpnWWZpTUZ0ZHVYWDUyMXpDUU0?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "verra-vcs-6107",
+        "source": "verra-registry",
+        "sourceName": "Verra VCS Registry",
+        "type": "registry",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Wind power project by Juniper Green Beam Private Limited",
+        "excerpt": "Wind power project by Juniper Green Beam Private Limited is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies VMR0017 methodology. Estimated annual emission reductions are 1,18,127 tonnes CO₂ equivalent per year. Project proponent: Juniper Green Beam Private Limited. Crediting period runs 2025-07-25 to 2032-07-24.",
+        "url": "https://registry.verra.org/app/projectDetail/VCS/6107",
+        "publishedAt": "2026-07-14T00:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": "VMR0017",
+        "registryId": "6107",
+        "status": "Under validation",
+        "meta": {
+          "proponent": "Juniper Green Beam Private Limited",
+          "region": "Asia",
+          "creditingPeriodStart": "2025-07-25",
+          "creditingPeriodEnd": "2032-07-24",
+          "program": "Verified Carbon Standard"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-india-design-without-discipline-the-role-of-in-2026-07-13",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -145,6 +194,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLXRrblpRS2dCRnN1bW1IWGNaS2RyZWttRWJLelIwSXhjOFBRRlBNY1hmaVZ6dUZEUWI1U0NWTDIxd3p0OURjal93STktbUF0X3BRWmxwZ1l6VUpldllzYWh6bmFsZWtPaVozUU1vbjFnMkM1d2VkUVNWMHN2b1IwNnQ5NjFPZVNGaXVBREF4Vk9fOVVRYzNyTU03OUFtNll5XzVJLWpjRXdKNVNlbW40amlWaWdnaTk4WlVyTktNaUQ0UQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-centre-issues-fresh-draft-emission-cut-t-2026-07-04",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Centre issues fresh draft emission cut targets for iron and steel sector - The Indian Express",
+        "excerpt": "The Centre has once again issued a draft notification to set greenhouse gas emission intensity (GEI) targets for the intensive iron and steel sector and to align them under India’s carbon credit trading system (CCTS). The Ministry of Environment, Forest and Climate Change (MoEFCC) issued the draft on June 26 and made it public on July 2. It has set emission reduction targets for 255 industrial units, including the sector’s giants such as JSW Steel, Tata, SAIL (Steel Authority of India), and ArcelorMittal Nippon Steel, among others. Draft targets for the…",
+        "url": "https://indianexpress.com/article/india/emission-reduction-centre-issues-fresh-draft-targets-for-iron-and-steel-sector-10771486/",
+        "publishedAt": "2026-07-04T07:00:00.000Z",
+        "image": "https://images.indianexpress.com/2020/12/B_Id_474492.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNjREeWFtTS1GWUhUaU02ai0xcjQ4OXZPM0lZZlF3UEpWQzV1b21kSHFZNC1ka3EzNXc4YU1ibDZmS1EzMmVtWHAzeVFjbE9GZ2E3QUlGTkxPR21GRThNWVpsMkQ1OG9zdmNEcnMxYUdRcURFVHEzd0MxeHZFV3g3TExsem81a09YdGtBdlF0Z2tpcVFoOHc1a2ZPTVN2STRSS3o4RjBNa0lwU3M0TG5hRzJkYVlKZGZlRHk1V1QtaXFqaXoySTNz0gHOAUFVX3lxTE5fZ1BpZkxINzdJd29QS21USGlyaTFta0R2MEdraHY2bkZDNVNvYkV2WDExbmNLa1dOc3RCLUUzS20tR1dRMGhIX01Mc01OQk9YTmYyTTlFOXpVb0VtVTBxRThCYmw1cjFmLTk4VlE0MDFGSHIxS3ZTd1NKdktZeGtXa0RleU5wT0RXYmt2RDZwQlVhalZSclg0cWJRN05GRXdkYTBXM1FxcUpRb3pWMTdLTHJ2T19PUWU3UU95b1FyS1ZQVDBEaVl3UE52VUNB?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -445,54 +518,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-        "excerpt": "Insights AI CFO CEO EY Transformation Services AI Agentic AI AI Ready Data ey.ai The Reimagination Engine Physical AI Responsible AI Assurance Services Climate Change and Sustainability Services Financial Accounting and Advisory Services Forensic and Integrity Services Consulting Cybersecurity Digital Transformation People and Workforce Risk Consulting Services Supply Chain Management and Operations Technology Transformation Global Capability Centers Capability Center-as-a-Service (CaaS) EY GCC Exchange: Video Series EY GCC Leadership Dialogues The FS…",
-        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
-        "publishedAt": "2026-04-03T07:24:04.000Z",
-        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-india-launches-centralized-carbon-market-2026-03-23",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
-        "excerpt": "• India launches a national carbon market portal to operationalize its Carbon Credit Trading Scheme across sectors • Nearly 490 entities across seven energy intensive industries now face compliance targets under the framework • Government positions carbon markets as a major channel to unlock capital, drive innovation, and support NDC delivery New Delhi hosted a decisive step in India’s climate and financial architecture as the government inaugurated Prakriti 2026 and launched the Indian Carbon Market Portal, a centralized platform designed to…",
-        "url": "https://esgnews.com/india-launches-carbon-market-portal-to-scale-national-climate-finance/",
-        "publishedAt": "2026-03-23T07:00:00.000Z",
-        "image": "https://esgnews.com/wp-content/uploads/2026/03/India-Launches-Carbon-Market-Portal-to-Scale-National-Climate-Finance.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -547,10 +572,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -558,8 +583,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
         },
         "region": "india"
       },
@@ -613,6 +637,94 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-rio-tinto-signs-deal-to-replace-coal-in--2026-07-23",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Rio Tinto Signs Deal to Replace Coal in Refineries with “Bio Pellets”",
+        "excerpt": "Global mining and metals company Rio Tinto announced today that it has signed a five-year offtake agreement with renewable biomass charcoal company SuperChar for the supply of locally produced bio pellets to assess its use as a replacement for coal at its alumina refineries in Gladstone, Australia, with deliveries targeted to commence in 2028. Rio Tinto is one of the world’s biggest producers and processors of iron ore, copper, aluminum and a range of other minerals and materials. The company has committed to reduce its operational Scope 1 and 2…",
+        "url": "https://www.esgtoday.com/rio-tinto-signs-deal-to-replace-coal-in-refineries-with-bio-pellets/?utm_source=rss utm_medium=rss utm_campaign=rio-tinto-signs-deal-to-replace-coal-in-refineries-with-bio-pellets",
+        "publishedAt": "2026-07-23T12:53:50.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Rio-Tinto.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-asuene-acquires-supply-chain-carbon-mana-2026-07-23",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Asuene Acquires Supply Chain Carbon Management Platform Secaro",
+        "excerpt": "Tokyo-based sustainability solutions provider Asuene announced today the acquisition of supply chain carbon management platform Secaro for approximately $37 million, in a deal described by Asuene as aimed at expanding its presence in the UK, European and US markets as global pressure mounts on manufacturers to measure and disclose emissions in their supply chains. Launched in 2018 as Manufacture 2030, and rebranded last year, Secaro provides supply chain sustainability data collection, analytics and supplier decarbonization programs for global…",
+        "url": "https://www.esgtoday.com/asuene-acquires-supply-chain-carbon-management-platform-secaro/?utm_source=rss utm_medium=rss utm_campaign=asuene-acquires-supply-chain-carbon-management-platform-secaro",
+        "publishedAt": "2026-07-23T12:29:19.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Secaro.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-blackrock-temasek-s-decarbonization-part-2026-07-23",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "BlackRock, Temasek s Decarbonization Partners Leads $87 Million Round in Sustainability Solutions Provider Asuene",
+        "excerpt": "Tokyo-based sustainability solutions platform Asuene announced that it has raised $87 million in a Series D funding round led by BlackRock and Temasek’ joint venture, Decarbonization Partners, with proceeds from the financing aimed at supporting the company’s position as a “serial acquirer” as it expands across the U.S., UK and EU sustainability disclosure markets. Founded in 2019, Asuene provides companies with a series of sustainability solutions ranging from CO2 emission calculation, reduction, and reporting, to supply chain management, third-party…",
+        "url": "https://www.esgtoday.com/blackrock-temaseks-decarbonization-partners-leads-87-million-round-in-sustainability-solutions-provider-asuene/?utm_source=rss utm_medium=rss utm_campaign=blackrock-temaseks-decarbonization-partners-leads-87-million-round-in-sustainability-solutions-provider-asuene",
+        "publishedAt": "2026-07-23T11:08:38.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Asuene.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-brookfield-acquires-battery-storage-gian-2026-07-23",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Brookfield Acquires Battery Storage Giant Aypa from BlackStone",
+        "excerpt": "Brookfield Asset Management announced today an agreement to acquire Aypa Power, the largest standalone battery storage developer in North America, from Blackstone, in a deal valuing the company at an enterprise valuation of $7 billion. Founded in 2017, Aypa Power develops, owns, and operates utility-scale energy storage and hybrid renewable energy projects that assist in the decarbonization of the grid. The company’s portfolio consists of 33 projects in operation or under construction across the U.S. and Canada, and more than 70 utility-scale projects…",
+        "url": "https://www.esgtoday.com/brookfield-acquires-battery-storage-giant-aypa-from-blackstone-at-7-billion-valuation/?utm_source=rss utm_medium=rss utm_campaign=brookfield-acquires-battery-storage-giant-aypa-from-blackstone-at-7-billion-valuation",
+        "publishedAt": "2026-07-23T09:34:14.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Aypa.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-blackrock-s-gip-microsoft-backed-ai-grou-2026-07-22",
         "source": "esg-dive",
@@ -768,28 +880,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-from-carbon-to-constraints-why-sustainab-2026-07-22",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "From Carbon to Constraints: Why Sustainability Is Becoming a Growth Strategy",
-        "excerpt": "In a recent episode of the Dwarkesh Podcast, Elon Musk made a provocative prediction: within three years, the most economically compelling place to build AI data centers will be space. Whether or not that prediction proves correct is almost beside the point. What is revealing is why he believes it. Musk argues that the challenge isn’t the cost of electricity, which accounts for only a fraction of a data center’s total cost of ownership, but its availability. As AI drives unprecedented demand for computing power, access to energy will become the limiting…",
-        "url": "https://www.esgtoday.com/from-carbon-to-constraints-why-sustainability-is-becoming-a-growth-strategy/?utm_source=rss utm_medium=rss utm_campaign=from-carbon-to-constraints-why-sustainability-is-becoming-a-growth-strategy",
-        "publishedAt": "2026-07-22T08:17:31.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Emerald-Azevedo.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Guest Posts",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-delta-shell-expand-saf-partnership-with--2026-07-21",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -830,72 +920,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-hyperion-robotics-raises-7-4-million-to--2026-07-21",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Hyperion Robotics Raises $7.4 Million to Enable Faster, Lower Carbon Infrastructure Production",
-        "excerpt": "Automation, robotics, and sustainable materials startup Hyperion Robotics announced that it has raised $7.4 million in a growth funding round, with proceeds from the financing aimed at supporting the expansion of its platform to produce infrastructure components faster, at lower cost, and with a substantially lower carbon footprint. Founded in 2020 by Fernando De los Rios, Ashish Mohite, and Henry Unterreiner, Finland-based Hyperion provides solutions enabling Hyperion Robotics enables the construction industry to build smarter, faster, and greener,…",
-        "url": "https://www.esgtoday.com/hyperion-robotics-raises-7-4-million-to-enable-faster-lower-carbon-infrastructure-production/?utm_source=rss utm_medium=rss utm_campaign=hyperion-robotics-raises-7-4-million-to-enable-faster-lower-carbon-infrastructure-production",
-        "publishedAt": "2026-07-21T15:18:14.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Hyperion-Robotics.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Private Equity & Venture Capital",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-19-state-coalition-joins-suit-against-u--2026-07-21",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "19-State Coalition Joins Suit Against U.S. Department of Defense, Hegseth for Blocking Wind Projects",
-        "excerpt": "A coalition of 19 state Attorneys General* announced that they have moved to join a lawsuit against the U.S. Department of Defense (DoD) and Secretary Pete Hegseth, alongside other senior DoD officials for blocking the advancement of more than 100 wind projects across the U.S. by refusing to carry out routine national security reviews of the projects. While federal law requires the DoD to review proposed wind projects for potential national security concerns, the suit notes that the agency stopped moving projects through this process, effectively…",
-        "url": "https://www.esgtoday.com/19-state-coalition-joins-suit-against-u-s-department-of-defense-hegseth-for-blocking-wind-projects/?utm_source=rss utm_medium=rss utm_campaign=19-state-coalition-joins-suit-against-u-s-department-of-defense-hegseth-for-blocking-wind-projects",
-        "publishedAt": "2026-07-21T14:47:27.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/US-DoD.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-mirova-invests-150-million-in-clean-ener-2026-07-21",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Mirova Invests €150 Million in Clean Energy Developer Yanara",
-        "excerpt": "Sustainability-focused investment manager Mirova announced an investment of €150 million (USD$171 million) in renewable energy developer Yanara, aimed at accelerating the development of Yanara’s utility-scale renewable energy portfolio in Australia. Founded in 2019, and spun off from BrightNight in 2025, Yanara develops, builds, owns and operates utility-scale hybrid renewable energy projects integrating solar, wind and battery energy storage systems (BESS) across the Asia-Pacific region. Yanara is currently developing a portfolio of more than 5.1 GW of…",
-        "url": "https://www.esgtoday.com/mirova-invests-e150-million-in-clean-energy-developer-yanara/?utm_source=rss utm_medium=rss utm_campaign=mirova-invests-e150-million-in-clean-energy-developer-yanara",
-        "publishedAt": "2026-07-21T13:08:04.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Solar-Yanara.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Investors",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1167,14 +1191,14 @@
         "region": "world"
       },
       {
-        "id": "carbon-brief-28-quotes-from-next-uk-leader-andy-burnh-2026-07-14",
+        "id": "carbon-brief-28-quotes-from-new-uk-leader-andy-burnha-2026-07-14",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
         "type": "esg",
         "tag": "ESG",
         "accent": "#60a5fa",
-        "title": "28 quotes from next UK leader Andy Burnham on climate, net-zero and fossil fuels",
-        "excerpt": "Share The UK’s incoming prime minister Andy Burnham has remained tight-lipped on his views on climate change during his leadership campaign. When asked his views on reversing Labour’s manifesto pledge to stop new North Sea drilling in June – a move that the oil-and-gas industry and right-wing media have pushed for in recent months – he said he had “something of an open mind” on the issue. But a trawl of Burnham’s past comments about climate change, net-zero and fossil fuels reveals a different picture. Just a year ago in June 2025, Burnham, while mayor…",
+        "title": "28 quotes from new UK leader Andy Burnham on climate, net-zero and fossil fuels",
+        "excerpt": "Share The UK’s new prime minister Andy Burnham remained tight-lipped on his views on climate change during his leadership campaign. When asked his views on allowing new North Sea drilling in June – a move that the oil-and-gas industry and right-wing media have pushed for in recent months – he said he had “something of an open mind” on the issue. But a trawl of Burnham’s past comments about climate change, net-zero and fossil fuels reveals a different picture. Just a year ago in June 2025, Burnham, while mayor of Greater Manchester, gave his support to…",
         "url": "https://www.carbonbrief.org/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels",
         "publishedAt": "2026-07-14T14:43:57.000Z",
         "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/unnamed-1024x682.jpg",
@@ -1887,31 +1911,6 @@
         "region": "world"
       },
       {
-        "id": "verra-vcs-6041",
-        "source": "verra-registry",
-        "sourceName": "Verra VCS Registry",
-        "type": "registry",
-        "tag": "VCS PROJECT",
-        "accent": "#86efac",
-        "title": "Therm Mid- Atlantic Grocery RLD 01",
-        "excerpt": "Therm Mid- Atlantic Grocery RLD 01 is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under development\". It applies VM0001 methodology. Estimated annual emission reductions are 8,000 tonnes CO₂ equivalent per year. Project proponent: Therm Solutions Inc.. Crediting period runs 2023-02-28 to 2030-02-27.",
-        "url": "https://registry.verra.org/app/projectDetail/VCS/6041",
-        "publishedAt": "2026-05-26T00:00:00.000Z",
-        "image": null,
-        "country": "United States",
-        "methodology": "VM0001",
-        "registryId": "6041",
-        "status": "Under development",
-        "meta": {
-          "proponent": "Therm Solutions Inc.",
-          "region": "North America",
-          "creditingPeriodStart": "2023-02-28",
-          "creditingPeriodEnd": "2030-02-27",
-          "program": "Verified Carbon Standard"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -2103,6 +2102,94 @@
   },
   "articles": [
     {
+      "id": "esg-today-rio-tinto-signs-deal-to-replace-coal-in--2026-07-23",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Rio Tinto Signs Deal to Replace Coal in Refineries with “Bio Pellets”",
+      "excerpt": "Global mining and metals company Rio Tinto announced today that it has signed a five-year offtake agreement with renewable biomass charcoal company SuperChar for the supply of locally produced bio pellets to assess its use as a replacement for coal at its alumina refineries in Gladstone, Australia, with deliveries targeted to commence in 2028. Rio Tinto is one of the world’s biggest producers and processors of iron ore, copper, aluminum and a range of other minerals and materials. The company has committed to reduce its operational Scope 1 and 2…",
+      "url": "https://www.esgtoday.com/rio-tinto-signs-deal-to-replace-coal-in-refineries-with-bio-pellets/?utm_source=rss utm_medium=rss utm_campaign=rio-tinto-signs-deal-to-replace-coal-in-refineries-with-bio-pellets",
+      "publishedAt": "2026-07-23T12:53:50.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Rio-Tinto.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-asuene-acquires-supply-chain-carbon-mana-2026-07-23",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Asuene Acquires Supply Chain Carbon Management Platform Secaro",
+      "excerpt": "Tokyo-based sustainability solutions provider Asuene announced today the acquisition of supply chain carbon management platform Secaro for approximately $37 million, in a deal described by Asuene as aimed at expanding its presence in the UK, European and US markets as global pressure mounts on manufacturers to measure and disclose emissions in their supply chains. Launched in 2018 as Manufacture 2030, and rebranded last year, Secaro provides supply chain sustainability data collection, analytics and supplier decarbonization programs for global…",
+      "url": "https://www.esgtoday.com/asuene-acquires-supply-chain-carbon-management-platform-secaro/?utm_source=rss utm_medium=rss utm_campaign=asuene-acquires-supply-chain-carbon-management-platform-secaro",
+      "publishedAt": "2026-07-23T12:29:19.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Secaro.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-blackrock-temasek-s-decarbonization-part-2026-07-23",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "BlackRock, Temasek s Decarbonization Partners Leads $87 Million Round in Sustainability Solutions Provider Asuene",
+      "excerpt": "Tokyo-based sustainability solutions platform Asuene announced that it has raised $87 million in a Series D funding round led by BlackRock and Temasek’ joint venture, Decarbonization Partners, with proceeds from the financing aimed at supporting the company’s position as a “serial acquirer” as it expands across the U.S., UK and EU sustainability disclosure markets. Founded in 2019, Asuene provides companies with a series of sustainability solutions ranging from CO2 emission calculation, reduction, and reporting, to supply chain management, third-party…",
+      "url": "https://www.esgtoday.com/blackrock-temaseks-decarbonization-partners-leads-87-million-round-in-sustainability-solutions-provider-asuene/?utm_source=rss utm_medium=rss utm_campaign=blackrock-temaseks-decarbonization-partners-leads-87-million-round-in-sustainability-solutions-provider-asuene",
+      "publishedAt": "2026-07-23T11:08:38.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Asuene.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-brookfield-acquires-battery-storage-gian-2026-07-23",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Brookfield Acquires Battery Storage Giant Aypa from BlackStone",
+      "excerpt": "Brookfield Asset Management announced today an agreement to acquire Aypa Power, the largest standalone battery storage developer in North America, from Blackstone, in a deal valuing the company at an enterprise valuation of $7 billion. Founded in 2017, Aypa Power develops, owns, and operates utility-scale energy storage and hybrid renewable energy projects that assist in the decarbonization of the grid. The company’s portfolio consists of 33 projects in operation or under construction across the U.S. and Canada, and more than 70 utility-scale projects…",
+      "url": "https://www.esgtoday.com/brookfield-acquires-battery-storage-giant-aypa-from-blackstone-at-7-billion-valuation/?utm_source=rss utm_medium=rss utm_campaign=brookfield-acquires-battery-storage-giant-aypa-from-blackstone-at-7-billion-valuation",
+      "publishedAt": "2026-07-23T09:34:14.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Aypa.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-blackrock-s-gip-microsoft-backed-ai-grou-2026-07-22",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2279,28 +2366,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-from-carbon-to-constraints-why-sustainab-2026-07-22",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "From Carbon to Constraints: Why Sustainability Is Becoming a Growth Strategy",
-      "excerpt": "In a recent episode of the Dwarkesh Podcast, Elon Musk made a provocative prediction: within three years, the most economically compelling place to build AI data centers will be space. Whether or not that prediction proves correct is almost beside the point. What is revealing is why he believes it. Musk argues that the challenge isn’t the cost of electricity, which accounts for only a fraction of a data center’s total cost of ownership, but its availability. As AI drives unprecedented demand for computing power, access to energy will become the limiting…",
-      "url": "https://www.esgtoday.com/from-carbon-to-constraints-why-sustainability-is-becoming-a-growth-strategy/?utm_source=rss utm_medium=rss utm_campaign=from-carbon-to-constraints-why-sustainability-is-becoming-a-growth-strategy",
-      "publishedAt": "2026-07-22T08:17:31.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Emerald-Azevedo.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Guest Posts",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-delta-shell-expand-saf-partnership-with--2026-07-21",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2341,72 +2406,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-hyperion-robotics-raises-7-4-million-to--2026-07-21",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Hyperion Robotics Raises $7.4 Million to Enable Faster, Lower Carbon Infrastructure Production",
-      "excerpt": "Automation, robotics, and sustainable materials startup Hyperion Robotics announced that it has raised $7.4 million in a growth funding round, with proceeds from the financing aimed at supporting the expansion of its platform to produce infrastructure components faster, at lower cost, and with a substantially lower carbon footprint. Founded in 2020 by Fernando De los Rios, Ashish Mohite, and Henry Unterreiner, Finland-based Hyperion provides solutions enabling Hyperion Robotics enables the construction industry to build smarter, faster, and greener,…",
-      "url": "https://www.esgtoday.com/hyperion-robotics-raises-7-4-million-to-enable-faster-lower-carbon-infrastructure-production/?utm_source=rss utm_medium=rss utm_campaign=hyperion-robotics-raises-7-4-million-to-enable-faster-lower-carbon-infrastructure-production",
-      "publishedAt": "2026-07-21T15:18:14.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Hyperion-Robotics.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Private Equity & Venture Capital",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-19-state-coalition-joins-suit-against-u--2026-07-21",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "19-State Coalition Joins Suit Against U.S. Department of Defense, Hegseth for Blocking Wind Projects",
-      "excerpt": "A coalition of 19 state Attorneys General* announced that they have moved to join a lawsuit against the U.S. Department of Defense (DoD) and Secretary Pete Hegseth, alongside other senior DoD officials for blocking the advancement of more than 100 wind projects across the U.S. by refusing to carry out routine national security reviews of the projects. While federal law requires the DoD to review proposed wind projects for potential national security concerns, the suit notes that the agency stopped moving projects through this process, effectively…",
-      "url": "https://www.esgtoday.com/19-state-coalition-joins-suit-against-u-s-department-of-defense-hegseth-for-blocking-wind-projects/?utm_source=rss utm_medium=rss utm_campaign=19-state-coalition-joins-suit-against-u-s-department-of-defense-hegseth-for-blocking-wind-projects",
-      "publishedAt": "2026-07-21T14:47:27.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/US-DoD.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-mirova-invests-150-million-in-clean-ener-2026-07-21",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Mirova Invests €150 Million in Clean Energy Developer Yanara",
-      "excerpt": "Sustainability-focused investment manager Mirova announced an investment of €150 million (USD$171 million) in renewable energy developer Yanara, aimed at accelerating the development of Yanara’s utility-scale renewable energy portfolio in Australia. Founded in 2019, and spun off from BrightNight in 2025, Yanara develops, builds, owns and operates utility-scale hybrid renewable energy projects integrating solar, wind and battery energy storage systems (BESS) across the Asia-Pacific region. Yanara is currently developing a portfolio of more than 5.1 GW of…",
-      "url": "https://www.esgtoday.com/mirova-invests-e150-million-in-clean-energy-developer-yanara/?utm_source=rss utm_medium=rss utm_campaign=mirova-invests-e150-million-in-clean-energy-developer-yanara",
-      "publishedAt": "2026-07-21T13:08:04.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Solar-Yanara.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Investors",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2702,14 +2701,14 @@
       "region": "world"
     },
     {
-      "id": "carbon-brief-28-quotes-from-next-uk-leader-andy-burnh-2026-07-14",
+      "id": "carbon-brief-28-quotes-from-new-uk-leader-andy-burnha-2026-07-14",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
       "type": "esg",
       "tag": "ESG",
       "accent": "#60a5fa",
-      "title": "28 quotes from next UK leader Andy Burnham on climate, net-zero and fossil fuels",
-      "excerpt": "Share The UK’s incoming prime minister Andy Burnham has remained tight-lipped on his views on climate change during his leadership campaign. When asked his views on reversing Labour’s manifesto pledge to stop new North Sea drilling in June – a move that the oil-and-gas industry and right-wing media have pushed for in recent months – he said he had “something of an open mind” on the issue. But a trawl of Burnham’s past comments about climate change, net-zero and fossil fuels reveals a different picture. Just a year ago in June 2025, Burnham, while mayor…",
+      "title": "28 quotes from new UK leader Andy Burnham on climate, net-zero and fossil fuels",
+      "excerpt": "Share The UK’s new prime minister Andy Burnham remained tight-lipped on his views on climate change during his leadership campaign. When asked his views on allowing new North Sea drilling in June – a move that the oil-and-gas industry and right-wing media have pushed for in recent months – he said he had “something of an open mind” on the issue. But a trawl of Burnham’s past comments about climate change, net-zero and fossil fuels reveals a different picture. Just a year ago in June 2025, Burnham, while mayor of Greater Manchester, gave his support to…",
       "url": "https://www.carbonbrief.org/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels",
       "publishedAt": "2026-07-14T14:43:57.000Z",
       "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/unnamed-1024x682.jpg",
@@ -2767,6 +2766,55 @@
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vd210Z0lYcEl0RUVyU2FzZVM5WE9QVFJUNTgxMVFaTDNocFRmVmdLbnpUeFJfSWhVMEZDSUxpaG9SNjFyZ2xpNWFIVjEyT3FieHdzUjdoZmg4SEo4WnhjRlVpV2Q0c3J2UEk4Qmw4QzB3UW5pMThTNjJsQkpFNWM?oc=5",
         "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-india-s-carbon-credit-trading-scheme-a-s-2026-07-14",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India's Carbon Credit Trading Scheme: A strong start, critical design choices ahead - Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language Decarbonization Energy Transition &…",
+      "url": "https://ieefa.org/articles/indias-carbon-credit-trading-scheme-strong-start-critical-design-choices-ahead",
+      "publishedAt": "2026-07-14T05:40:13.000Z",
+      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTlicVN3VGw3eTQ1V2xzOS0zWnc2QlhQU1lpM3ppUDVYeHB0UGxFWDB3ZDNCRDh1SHlxSHh4cjZ0bk1ZU0RzUDdSN0dELVlxWHhVRU9nSzdaeWRraDYycFF2UzRjLUFIcmlGblNYODFDU010U2tGQzdKRUZlX1BMZ2VRbXpYeEpzNy1oNjVrNmZjV3ZZQkpnWWZpTUZ0ZHVYWDUyMXpDUU0?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "verra-vcs-6107",
+      "source": "verra-registry",
+      "sourceName": "Verra VCS Registry",
+      "type": "registry",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Wind power project by Juniper Green Beam Private Limited",
+      "excerpt": "Wind power project by Juniper Green Beam Private Limited is a Verified Carbon Standard (VCS) project registered on the Verra registry in India. The project is currently listed as \"Under validation\". It applies VMR0017 methodology. Estimated annual emission reductions are 1,18,127 tonnes CO₂ equivalent per year. Project proponent: Juniper Green Beam Private Limited. Crediting period runs 2025-07-25 to 2032-07-24.",
+      "url": "https://registry.verra.org/app/projectDetail/VCS/6107",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": "VMR0017",
+      "registryId": "6107",
+      "status": "Under validation",
+      "meta": {
+        "proponent": "Juniper Green Beam Private Limited",
+        "region": "Asia",
+        "creditingPeriodStart": "2025-07-25",
+        "creditingPeriodEnd": "2032-07-24",
+        "program": "Verified Carbon Standard"
       },
       "region": "india"
     },
@@ -3019,6 +3067,30 @@
         "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-centre-issues-fresh-draft-emission-cut-t-2026-07-04",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Centre issues fresh draft emission cut targets for iron and steel sector - The Indian Express",
+      "excerpt": "The Centre has once again issued a draft notification to set greenhouse gas emission intensity (GEI) targets for the intensive iron and steel sector and to align them under India’s carbon credit trading system (CCTS). The Ministry of Environment, Forest and Climate Change (MoEFCC) issued the draft on June 26 and made it public on July 2. It has set emission reduction targets for 255 industrial units, including the sector’s giants such as JSW Steel, Tata, SAIL (Steel Authority of India), and ArcelorMittal Nippon Steel, among others. Draft targets for the…",
+      "url": "https://indianexpress.com/article/india/emission-reduction-centre-issues-fresh-draft-targets-for-iron-and-steel-sector-10771486/",
+      "publishedAt": "2026-07-04T07:00:00.000Z",
+      "image": "https://images.indianexpress.com/2020/12/B_Id_474492.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNjREeWFtTS1GWUhUaU02ai0xcjQ4OXZPM0lZZlF3UEpWQzV1b21kSHFZNC1ka3EzNXc4YU1ibDZmS1EzMmVtWHAzeVFjbE9GZ2E3QUlGTkxPR21GRThNWVpsMkQ1OG9zdmNEcnMxYUdRcURFVHEzd0MxeHZFV3g3TExsem81a09YdGtBdlF0Z2tpcVFoOHc1a2ZPTVN2STRSS3o4RjBNa0lwU3M0TG5hRzJkYVlKZGZlRHk1V1QtaXFqaXoySTNz0gHOAUFVX3lxTE5fZ1BpZkxINzdJd29QS21USGlyaTFta0R2MEdraHY2bkZDNVNvYkV2WDExbmNLa1dOc3RCLUUzS20tR1dRMGhIX01Mc01OQk9YTmYyTTlFOXpVb0VtVTBxRThCYmw1cjFmLTk4VlE0MDFGSHIxS3ZTd1NKdktZeGtXa0RleU5wT0RXYmt2RDZwQlVhalZSclg0cWJRN05GRXdkYTBXM1FxcUpRb3pWMTdLTHJ2T19PUWU3UU95b1FyS1ZQVDBEaVl3UE52VUNB?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "verra-vcs-6094",
@@ -3741,31 +3813,6 @@
       "region": "world"
     },
     {
-      "id": "verra-vcs-6041",
-      "source": "verra-registry",
-      "sourceName": "Verra VCS Registry",
-      "type": "registry",
-      "tag": "VCS PROJECT",
-      "accent": "#86efac",
-      "title": "Therm Mid- Atlantic Grocery RLD 01",
-      "excerpt": "Therm Mid- Atlantic Grocery RLD 01 is a Verified Carbon Standard (VCS) project registered on the Verra registry in United States. The project is currently listed as \"Under development\". It applies VM0001 methodology. Estimated annual emission reductions are 8,000 tonnes CO₂ equivalent per year. Project proponent: Therm Solutions Inc.. Crediting period runs 2023-02-28 to 2030-02-27.",
-      "url": "https://registry.verra.org/app/projectDetail/VCS/6041",
-      "publishedAt": "2026-05-26T00:00:00.000Z",
-      "image": null,
-      "country": "United States",
-      "methodology": "VM0001",
-      "registryId": "6041",
-      "status": "Under development",
-      "meta": {
-        "proponent": "Therm Solutions Inc.",
-        "region": "North America",
-        "creditingPeriodStart": "2023-02-28",
-        "creditingPeriodEnd": "2030-02-27",
-        "program": "Verified Carbon Standard"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-india-among-biggest-new-carbon-markets-a-2026-05-21",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -3812,54 +3859,6 @@
         "imageSource": "publisher"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-      "excerpt": "Insights AI CFO CEO EY Transformation Services AI Agentic AI AI Ready Data ey.ai The Reimagination Engine Physical AI Responsible AI Assurance Services Climate Change and Sustainability Services Financial Accounting and Advisory Services Forensic and Integrity Services Consulting Cybersecurity Digital Transformation People and Workforce Risk Consulting Services Supply Chain Management and Operations Technology Transformation Global Capability Centers Capability Center-as-a-Service (CaaS) EY GCC Exchange: Video Series EY GCC Leadership Dialogues The FS…",
-      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
-      "publishedAt": "2026-04-03T07:24:04.000Z",
-      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-india-launches-centralized-carbon-market-2026-03-23",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
-      "excerpt": "• India launches a national carbon market portal to operationalize its Carbon Credit Trading Scheme across sectors • Nearly 490 entities across seven energy intensive industries now face compliance targets under the framework • Government positions carbon markets as a major channel to unlock capital, drive innovation, and support NDC delivery New Delhi hosted a decisive step in India’s climate and financial architecture as the government inaugurated Prakriti 2026 and launched the Indian Carbon Market Portal, a centralized platform designed to…",
-      "url": "https://esgnews.com/india-launches-carbon-market-portal-to-scale-national-climate-finance/",
-      "publishedAt": "2026-03-23T07:00:00.000Z",
-      "image": "https://esgnews.com/wp-content/uploads/2026/03/India-Launches-Carbon-Market-Portal-to-Scale-National-Climate-Finance.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
@@ -4010,10 +4009,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -4021,8 +4020,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
       },
       "region": "india"
     },
