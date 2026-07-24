@@ -322,6 +322,8 @@ function Register({ setPage, setUser }) {
     language: "en",
   });
   const [verifiedUser, setVerifiedUser] = useState(null);
+  const [googleError, setGoogleError] = useState("");
+  const [googleLoading, setGoogleLoading] = useState(false);
 
   useEffect(() => {
     let mounted = true;
@@ -339,9 +341,31 @@ function Register({ setPage, setUser }) {
   const goNext = () => setStep((s) => Math.min(5, s + 1));
   const goBack = () => setStep((s) => Math.max(1, s - 1));
 
+  const handleGoogle = async () => {
+    setGoogleError("");
+    setGoogleLoading(true);
+    try {
+      // Google verifies the email itself, so the redirect back skips
+      // straight past the password + email-OTP steps (see the
+      // getSession effect above, which lands verified users on step 4).
+      await signInWithGoogle(typeof window !== "undefined" ? window.location.origin + "/register" : undefined);
+    } catch (err) {
+      setGoogleError(authErrorMessage(err));
+      setGoogleLoading(false);
+    }
+  };
+
   return (
     <AuthShell title={t("auth.createAccount")} subtitle={t("home.subhero")} wide>
       {!isSupabaseConfigured && <ConfigWarning />}
+
+      {step === 1 && (
+        <>
+          <GoogleButton onClick={handleGoogle} loading={googleLoading} disabled={false} />
+          {googleError && <ErrorBox>{googleError}</ErrorBox>}
+          <Divider />
+        </>
+      )}
 
       <Stepper step={step} />
 
