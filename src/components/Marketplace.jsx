@@ -158,7 +158,7 @@ export default function Marketplace({ setPage, onBuy }) {
     <div className="fade">
       <PageBanner
         tag="Marketplace"
-        title="Browse demo environmental credits"
+        title="Buy Carbon Credits in India — Demo Marketplace"
         subtitle={`${INDIA_DEMO_COUNT} demo India listings across ${INDIA_STATE_COUNT} states · ${INTERNATIONAL_DEMO_COUNT} international showcase projects · No real projects listed yet`}
         photo={PAGE_BANNERS.marketplace}
         height={300}

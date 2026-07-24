@@ -19,8 +19,8 @@ const translations = {
       signOut: "Sign Out",
     },
     home: {
-      hero: "India's First Environmental Credit Marketplace",
-      subhero: "Earn verified income from your farm, CBG plant, or recycling business",
+      hero: "Buy & Sell Verified Carbon Credits in India",
+      subhero: "India's first environmental credit marketplace — Carbon, CBG, Plastic, Soil & Green Hydrogen credits. Earn verified income from your farm, CBG plant, or recycling business.",
       buyCredits: "Buy Credits",
       sellCredits: "Register Your Project",
       stats: {

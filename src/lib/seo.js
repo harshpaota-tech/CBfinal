@@ -12,15 +12,15 @@ const BRAND = "Carbon Bridge";
 export const PAGE_SEO = {
   home: {
     path: "/",
-    title: "Carbon Bridge — India's First Environmental Credit Marketplace",
+    title: "Carbon Credits India — Buy & Sell Verified Carbon Credits | Carbon Bridge",
     description:
-      "Buy, sell and retire verified Carbon, Soil, Plastic, CBG, Biogas and Green Hydrogen credits. India's first environmental credit marketplace for CBG operators, FPOs and farmers.",
+      "Buy and sell verified carbon credits in India. Carbon Bridge is India's first environmental credit marketplace — Carbon, Soil, Plastic, CBG, Biogas and Green Hydrogen credits for CBG operators, FPOs and farmers.",
   },
   marketplace: {
     path: "/marketplace",
-    title: "Buy Carbon, CBG, Plastic & Soil Credits — Marketplace | Carbon Bridge",
+    title: "Buy Carbon Credits Online in India — Marketplace | Carbon Bridge",
     description:
-      "Browse and buy verified environmental credits in India — Carbon, CBG/Biogas, Ocean Plastic, EPR, Soil Carbon, Blue Carbon and Green Hydrogen. Prices in ₹ and USD, filter by state and type.",
+      "Buy verified carbon credits in India — plus CBG/Biogas, Ocean Plastic, EPR, Soil Carbon, Blue Carbon and Green Hydrogen credits. Prices in ₹ and USD, filter by state and type.",
   },
   methodologies: {
     path: "/methodologies",
