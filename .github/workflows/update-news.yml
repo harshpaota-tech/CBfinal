@@ -53,10 +53,8 @@ jobs:
           else
             git commit -m "chore: auto-update live news feed"
           fi
-          # Push to main AND the Render deploy branch so the live site always updates
-          git push origin HEAD:main || echo "main push skipped"
-          git push origin HEAD:cursor/publish-carbonbridge-site-5747 || echo "deploy-branch push skipped"
-          echo "Pushed updated news-feed.json to main + deploy branch."
+          git push origin HEAD:main
+          echo "Pushed updated news-feed.json to main."
 
       - name: Trigger Render redeploy
         env:
