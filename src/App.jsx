@@ -375,6 +375,7 @@ function Footer({ setPage }) {
             <ContactRow icon="👤" value={CONTACT.founder} sub="Founder" />
             <ContactRow icon="✉️" value={CONTACT.email} href={`mailto:${CONTACT.email}`} />
             <ContactRow icon="📞" value={CONTACT.phone} href={`tel:${CONTACT.phoneRaw}`} />
+            <ContactRow icon="🔗" value="Follow us on LinkedIn" href={CONTACT.linkedin} />
           </div>
         </div>
       </div>
@@ -397,5 +398,10 @@ function ContactRow({ icon, value, sub, href }) {
       </div>
     </div>
   );
-  return href ? <a href={href} style={{ textDecoration: "none" }}>{content}</a> : content;
+  const external = href?.startsWith("http");
+  return href ? (
+    <a href={href} target={external ? "_blank" : undefined} rel={external ? "noopener noreferrer" : undefined} style={{ textDecoration: "none" }}>
+      {content}
+    </a>
+  ) : content;
 }

@@ -470,6 +470,7 @@ export const CONTACT = {
   email: "harshpaota@gmail.com",
   phone: "+91 90248 49162",
   phoneRaw: "+919024849162",
+  linkedin: "https://www.linkedin.com/company/124513971",
   company: BRAND.company,
   tagline: BRAND.tagline,
 };
