@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-26T04:22:24.796Z",
+  "fetchedAt": "2026-07-26T09:18:51.549Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,38 +45,16 @@
   ],
   "stats": {
     "total": 62,
-    "india": 16,
-    "world": 46,
-    "withImages": 55,
-    "avgExcerptLength": 440,
+    "india": 15,
+    "world": 47,
+    "withImages": 56,
+    "avgExcerptLength": 447,
     "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
-      {
-        "id": "esg-today-transition-vc-launches-150-million-ventu-2026-07-22",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Transition VC Launches $150 Million Venture Fund to Invest Across India Energy Transition Value Chain",
-        "excerpt": "India-based venture capital investor Transition VC announced the launch of Fund II, its second fund focused on investing in engineering-led companies across energy transition value chain and adjacent deep tech areas. Transition VC said that it is targeting INR 15 billion (USD$155 million) for Fund II, more than double the capital raised for its inaugural fund, which closed at INR 7.2 billion, well ahead of its initial INR 4 billion target. According to Transition VC, Fund I has delivered a 57% IRR and generated over 3x multiple on invested capital…",
-        "url": "https://www.esgtoday.com/transition-vc-launches-150-million-venture-fund-to-invest-across-india-energy-transition-value-chain/?utm_source=rss utm_medium=rss utm_campaign=transition-vc-launches-150-million-venture-fund-to-invest-across-india-energy-transition-value-chain",
-        "publishedAt": "2026-07-22T12:40:46.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Transition-VC.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "india"
-      },
       {
         "id": "google-india-article-6-of-the-paris-agreement-climate-2026-07-20",
         "source": "google-india",
@@ -438,6 +416,28 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-esg-today-week-in-review-2026-07-26",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "ESG Today: Week in Review",
+        "excerpt": "This week in ESG news: California to limit initial supply chain emissions reporting requirements to key categories after companies raise cost, data concerns; EcoVadis opens up supply chain sustainability networking platform to all suppliers; BlackRock, Temasek JV leads funding round for sustainability software provider Asuene; CSRD reporting companies increasingly disclosing climate transition plans; Airbus, Air Canada launch sustainable aviation fuel investment platform; BlackRock launches new offering to help investors build impact portfolios; EU…",
+        "url": "https://www.esgtoday.com/esg-today-week-in-review-271/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-271",
+        "publishedAt": "2026-07-26T07:57:07.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Wind-Austria.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG News",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-california-s-carbon-pricing-program-gene-2026-07-24",
         "source": "esg-dive",
@@ -1435,10 +1435,10 @@
         "tag": "VERRA",
         "accent": "#86efac",
         "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
-        "excerpt": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints Fastmarkets",
+        "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
         "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
         "publishedAt": "2025-10-16T07:00:00.000Z",
-        "image": null,
+        "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1446,7 +1446,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -1476,6 +1477,28 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-esg-today-week-in-review-2026-07-26",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "ESG Today: Week in Review",
+      "excerpt": "This week in ESG news: California to limit initial supply chain emissions reporting requirements to key categories after companies raise cost, data concerns; EcoVadis opens up supply chain sustainability networking platform to all suppliers; BlackRock, Temasek JV leads funding round for sustainability software provider Asuene; CSRD reporting companies increasingly disclosing climate transition plans; Airbus, Air Canada launch sustainable aviation fuel investment platform; BlackRock launches new offering to help investors build impact portfolios; EU…",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-271/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-271",
+      "publishedAt": "2026-07-26T07:57:07.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Wind-Austria.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG News",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-dive-california-s-carbon-pricing-program-gene-2026-07-24",
       "source": "esg-dive",
@@ -1893,28 +1916,6 @@
         "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
-    },
-    {
-      "id": "esg-today-transition-vc-launches-150-million-ventu-2026-07-22",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Transition VC Launches $150 Million Venture Fund to Invest Across India Energy Transition Value Chain",
-      "excerpt": "India-based venture capital investor Transition VC announced the launch of Fund II, its second fund focused on investing in engineering-led companies across energy transition value chain and adjacent deep tech areas. Transition VC said that it is targeting INR 15 billion (USD$155 million) for Fund II, more than double the capital raised for its inaugural fund, which closed at INR 7.2 billion, well ahead of its initial INR 4 billion target. According to Transition VC, Fund I has delivered a 57% IRR and generated over 3x multiple on invested capital…",
-      "url": "https://www.esgtoday.com/transition-vc-launches-150-million-venture-fund-to-invest-across-india-energy-transition-value-chain/?utm_source=rss utm_medium=rss utm_campaign=transition-vc-launches-150-million-venture-fund-to-invest-across-india-energy-transition-value-chain",
-      "publishedAt": "2026-07-22T12:40:46.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Transition-VC.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "india"
     },
     {
       "id": "esg-dive-delta-shell-expand-saf-partnership-with--2026-07-21",
@@ -2806,10 +2807,10 @@
       "tag": "VERRA",
       "accent": "#86efac",
       "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
-      "excerpt": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints Fastmarkets",
+      "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
       "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
       "publishedAt": "2025-10-16T07:00:00.000Z",
-      "image": null,
+      "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2817,7 +2818,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
