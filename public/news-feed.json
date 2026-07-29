@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-29T09:41:03.093Z",
+  "fetchedAt": "2026-07-29T15:06:54.345Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,14 +47,62 @@
     "total": 62,
     "india": 17,
     "world": 45,
-    "withImages": 57,
-    "avgExcerptLength": 454,
+    "withImages": 58,
+    "avgExcerptLength": 453,
     "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "google-h2-india-s-green-hydrogen-push-gathers-pace-2026-07-29",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
+        "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
+        "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
+        "publishedAt": "2026-07-29T10:17:58.000Z",
+        "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-india-s-carbon-market-targets-too-weak-t-2026-07-29",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India’s carbon market targets too weak to drive industrial transformation: Report - Down To Earth",
+        "excerpt": "Published on : 29 Jul 2026, 8:48 am Copied Listen to this article Summary India’s proposed Carbon Credit Trading Scheme will not deliver transformational industrial decarbonisation, experts warn. New report shows far more ambitious emissions intensity targets needed. Current rules demand only 2–5% cuts by 2026-27 for steel, cement and aluminium. The scheme relies on low carbon prices and weak governance, excludes the power sector. India's proposed Carbon Credit Trading Scheme (CCTS) is unlikely to drive transformational change in industrial…",
+        "url": "https://www.downtoearth.org.in/climate-change/indias-carbon-market-targets-too-weak-to-drive-industrial-transformation-report",
+        "publishedAt": "2026-07-29T08:48:28.000Z",
+        "image": "https://cf-images.assettype.com/downtoearth%2F2026-07-29%2Fzyahznkg%2FIndia-industry-smoke-emissions-carbon-market?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFlRczlOUHRvTnNOVnl1V3AtRlJHVm1xLUpqb2MxTXJQRzdFUF9Kdmw0M3ZVTHJRcURGaXNjMWRuV0NEQWNjNkFrT3dBWm5VbFRJcnM4ZW5FeUJKTUdYeG9jUVU4OXFJQWVBR3JrVGhMcTk3LUZSdUxJLUlhbkZiTmtGYjZIaTI0aDI1a0MwTTJ3VF9sbGlqQXZMa05VTFhDSVJLUkNkaXc1X3pLVmxYQUtuWUh0MzgteFZsakZfVDB4RVnSAdABQVVfeXFMUE90eUNTTWg2QXJ4ZVFMUzI5cGxJVmNwc3dBdjNJMF9QTG1OVjNRNUFkLTdYdHNPMGtPY1V3Y05Qa1JPWmZCMGJMdjJ5V0psYjN6azBLSWhmNTJ2dEN6Q2s4d2E0b3ZHLUIzNXNOQ1NmQkFnSGxqNERCZy1mRGxVbzZnek44TWlpX01OLWlhdXZYdURLWU5abXFsakkyNlR1RC1UdFNZV1lOa1MyVDBQeXZMN2M5eUdlbmQ3ZU9lU0t4SEJLNHZDSEhCRTF1Y3hEWA?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
       {
         "id": "google-india-article-6-of-the-paris-agreement-climate-2026-07-20",
         "source": "google-india",
@@ -224,30 +272,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-among-biggest-new-carbon-markets-a-2026-05-21",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India among biggest new carbon markets as global carbon pricing covers 29 per cent of emissions - Down To Earth",
-        "excerpt": "Copied Listen to this article India has emerged as one of the world’s largest new carbon markets with the launch of its Carbon Credit Trading Scheme in 2026, as global carbon pricing systems now cover 29 per cent of greenhouse gas (GHG) emissions and annual revenues from emissions trading systems and carbon taxes crossed $107 billion in 2025, according to a new World Bank report. The report , State and Trends of Carbon Pricing 2026 , says India’s new emissions trading system currently covers seven sectors and around 490 industries, with estimated…",
-        "url": "https://www.downtoearth.org.in/climate-change/india-among-biggest-new-carbon-markets-as-global-carbon-pricing-covers-29-per-cent-of-emissions",
-        "publishedAt": "2026-05-21T07:00:00.000Z",
-        "image": "https://cf-images.assettype.com/downtoearth%2F2026-05-21%2Fdyvuz5m8%2FWorld-Bank.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaV9LeHJRbDJwR3JaMzlENTN6VnFjVkxnODZxTjF6dDNqckhWbkszaGZoTjFjZGdvNENTUGM5R200LUhja1Nxb3NBU0MyRGU2R29kTU1hdXVDbGs5VEV2S2NnU0Z2ZUlJSFU1RmEweS1Wd3F0M2dwcnpzc1hHTkdLNm9yTUJSd1NFRWtiS0FFb0RhYUJYRkJWVlBxVUVGVGhSRUxQblVFdldmMnVVeW0wNDZyU2xLRFhIVnZzc2NZSE85cHEwSmtLOTE4M255OFdjYmg0STZIelbSAeYBQVVfeXFMTXEzTVRuRVVyTFljbXJxMnV4a2RuSE5qamF1UFpIRkFTOTJESmcxQ3dBWmlKbUhhUlBuM1JKLV9EMnhWSlJITTB3ZDlQeWFUNV9IbzBvajVCZDZFQ3hfOW9pUDJnY3NqdlExaHJjYWt1V1N3MThBMUtYSGFsZjJweDl2WlFxNjYzZmtSZzdpRnpqYnNSYWpoUEIwZlg0YVczcXNTZGpoNm0wYmhIR1RNVDM3Qk1kMzZMSFJnQ3hlZGZWeTdub2Zzem0wLUQ2S29Bb3NJaVNNeXc3RDdoa2JURGROTmt6aVE?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -278,7 +302,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
+        "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - prnewswire.co.uk",
         "excerpt": "Strong CAGR of 24.0% reflects premium shift in voluntary carbon markets toward durable, high-integrity removal credits NEWARK, Del. , March 25, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global blue carbon market, valued at USD 1.0 billion in 2025, is projected to reach USD 1.2 billion in 2026 and expand significantly to USD 10.3 billion by 2036, growing at a CAGR of 24.0% during the forecast period, according to analysis by Future Market Insights. The Blue Carbon market is expected to generate an absolute…",
         "url": "https://www.prnewswire.co.uk/news-releases/global-blue-carbon-market-to-reach-usd-10-3-billion-by-2036--with-strong-growth-across-asia-pacific-india-and-the-us-led-by-verra-gold-standard-and-conservation-international-302724782.html",
         "publishedAt": "2026-03-25T07:00:00.000Z",
@@ -414,30 +438,6 @@
         "region": "india"
       },
       {
-        "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Hydrogen Horizons: Unlocking the Power of the Universe for Clean Mobility - The CSR Universe",
-        "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The global transition to clean energy has positioned hydrogen as a frontrunner in the race to decarbonize transportation. As…",
-        "url": "https://thecsruniverse.com/articles/hydrogen-horizons-unlocking-the-power-of-the-universe-for-clean-mobility",
-        "publishedAt": "2025-05-07T07:00:00.000Z",
-        "image": "https://thecsruniverse.com/adminxsafe/uploads/20260516055652",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWYweWJqMjBTSzcwc0kzSUlnVTJfQ1RDaHRLalB4dFlKb1VpVUZaa2NBM1pOYk1XRnFISUkwWF9jWHBfQ0pJUy00aVdmYmYtUFZXTkF3bWh0U3BuaXVzNFMzXzllcll5cDdCQUxNVmMxWDlkLVh4b3JnWVh2Qy01YmNZVkQwWGxQVXg3NkVtZk0xUWNqdEhSNmV3MFk0THh2ZDFDNEpBaEFhTGZV?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-steel-decarbonisation-in-india-institute-2023-09-14",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -463,6 +463,204 @@
       }
     ],
     "world": [
+      {
+        "id": "carbon-brief-world-falling-short-on-22-of-23-nature-t-2026-07-29",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "World falling short on 22 of 23 nature targets for 2030, says draft UN report",
+        "excerpt": "Share The global goal to halt and reverse nature loss by 2030 “will not be achieved” unless action by countries “accelerates rapidly”, says a draft UN report. Countries are falling short on 22 of the 23 targets for 2030 they set under the Kunming-Montreal Global Biodiversity Framework (GBF), the “Paris Agreement for nature”. That is according to a draft version of a global report prepared by the UN Convention on Biological Diversity (CBD), published on 26 July. The report will be finalised ahead of the next nature summit, COP17 , taking place in Armenia…",
+        "url": "https://www.carbonbrief.org/world-falling-short-on-22-of-23-nature-targets-for-2030-says-draft-un-report",
+        "publishedAt": "2026-07-29T15:00:21.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/unnamed_1.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-climate-change-is-driving-a-shift-in-chi-2026-07-29",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Climate change is driving a ‘shift’ in childhood malaria risk across Africa",
+        "excerpt": "Share Rising temperatures are redistributing the risk of childhood malaria in sub-Saharan Africa, resulting in areas of “new risk” in the east and south of the continent, but also “relief hotspots” in western Africa. This is according to a new study, published in Nature , which provides the “ most comprehensive look to date at the impact of climate change on any infectious disease”. The research finds that since the year 1900, climate change has resulted in one extra case of malaria for every 1,000 children in sub-Saharan Africa on average. Over the…",
+        "url": "https://www.carbonbrief.org/climate-change-is-driving-a-shift-in-childhood-malaria-risk-across-africa",
+        "publishedAt": "2026-07-29T15:00:09.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/Screenshot_2026-07-29_at_13.35.30.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-ntt-data-engie-launch-clean-energy-partn-2026-07-29",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "NTT Data, Engie Launch Clean Energy Partnership to Decarbonize Global Data Center Footprint",
+        "excerpt": "Japan-based IT services and digital transformation company NTT Data announced today that it has signed a new strategic agreement with French energy company Engie, aimed at supporting the decarbonization, energy resilience and sustainable expansion of NTT Data’s global data center operations. Under the new partnership, NTT Data said that it will secure long-term access to competitive renewable energy and power solutions that support the continued growth of its data centers and AI infrastructure while addressing its net-zero ambitions. NTT Data added that…",
+        "url": "https://www.esgtoday.com/ntt-data-engie-launch-clean-energy-partnership-to-decarbonize-global-data-center-footprint/?utm_source=rss utm_medium=rss utm_campaign=ntt-data-engie-launch-clean-energy-partnership-to-decarbonize-global-data-center-footprint",
+        "publishedAt": "2026-07-29T14:58:57.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Engie2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-mercedes-benz-signs-deal-for-low-carbon--2026-07-29",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Mercedes-Benz Signs Deal for Low Carbon Aluminum for Cars",
+        "excerpt": "Mercedes-Benz and Norway-based aluminum and renewable energy company Hydro announced the expansion of their partnership, aimed at decarbonizing the aluminum supply chain for the automaker’s next generation of large electrical vehicles. As an initial step under the agreement, Mercedes-Benz said it is the first automaker in Europe to use Hydro’s recycled aluminum, Hydro CIRCAL, in the series production of its next generation of large electric vehicles. The recycled aluminum contains at least 75% post-consumer recycled material, up from around 25% in…",
+        "url": "https://www.esgtoday.com/mercedes-benz-signs-deal-for-low-carbon-aluminum-for-cars/?utm_source=rss utm_medium=rss utm_campaign=mercedes-benz-signs-deal-for-low-carbon-aluminum-for-cars",
+        "publishedAt": "2026-07-29T14:17:19.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Mercedes-Hydro.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-tesla-buys-entire-output-of-new-texas-so-2026-07-29",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Tesla Buys Entire Output of New Texas Solar Plant",
+        "excerpt": "Madrid-based renewable energy company Zelestra announced that it has signed a Power Purchase Agreement (PPA) with Tesla agreeing to purchase the entire output from a new 140 MW solar project in Texas. The new solar project, the Lumen solar farm, will be located in Anderson County, in northeast, Texas, within the ERCOT market. Zelestra said that it expects to begin construction on the project by 2027, with the facility scheduled to be fully operational by 2029. The agreement marks the latest collaboration between the companies, following a 57 MW PPA in…",
+        "url": "https://www.esgtoday.com/tesla-buys-entire-output-of-new-texas-solar-plant/?utm_source=rss utm_medium=rss utm_campaign=tesla-buys-entire-output-of-new-texas-solar-plant",
+        "publishedAt": "2026-07-29T13:32:30.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Solar-Zelestra3.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-iso-ghg-protocol-to-launch-a-single-unif-2026-07-29",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "ISO, GHG Protocol to Launch a Single Unified Carbon Accounting Standard",
+        "excerpt": "Standards-setting organizations the International Organization for Standardization (ISO) and Greenhouse Gas Protocol (GHG Protocol) announced on Wednesday that they will combine their corporate carbon accounting standards into a single, harmonized global accounting standard. The announcement follows the creation of a strategic partnership between ISO and GHG Protocol last year, aimed at unifying the global standards used by companies for greenhouse gas emissions measurement and reporting. At the time, the organizations said that that the partnership…",
+        "url": "https://www.esgtoday.com/iso-ghg-protocol-to-launch-a-single-unified-carbon-accounting-standard/?utm_source=rss utm_medium=rss utm_campaign=iso-ghg-protocol-to-launch-a-single-unified-carbon-accounting-standard",
+        "publishedAt": "2026-07-29T13:08:51.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/ISO.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-q-a-what-does-china-s-15th-five-year-pla-2026-07-29",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Q A: What does China’s 15th ‘five-year plan’ for renewables mean for climate change?",
+        "excerpt": "Share China has released its “15th five-year plan for the development of renewable energy”, outlining key targets and policies for the sector in 2026-2030. A key focus of the plan is boosting renewable generation and consumption as a share of China’s overall energy mix. It calls for continued capacity additions of wind and solar – albeit at lower levels than previous years – as well as hydropower, biomass and other clean-energy sources. Specifically, China will aim to install 3,500 gigawatts (GW) of renewables capacity by 2030, 2,800GW will be wind and…",
+        "url": "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-renewables-mean-for-climate-change",
+        "publishedAt": "2026-07-29T12:08:55.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/china-aims-for-3500g_2-scaled.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-waste-intelligence-startup-greyparrot-ra-2026-07-29",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "“Waste Intelligence” Startup Greyparrot Raises $27 Million",
+        "excerpt": "AI waste intelligence company Greyparrot announced that it has raised $27 million in a Series B funding round, with proceeds aimed at scaling its technology platform to help abate over one million tons of waste by 2030. Founded in 2019, London-based Greyparrot develops AI-powered waste intelligence solutions that enable recycling facilities to monitor and analyze waste streams in real time, helping increase resource recovery, improve recycling efficiency and support circular economy initiatives. The company’s AI camera systems, known as Analyzers, are…",
+        "url": "https://www.esgtoday.com/waste-intelligence-startup-grayparrot-raises-27-million/?utm_source=rss utm_medium=rss utm_campaign=waste-intelligence-startup-grayparrot-raises-27-million",
+        "publishedAt": "2026-07-29T11:39:33.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Greyparrot.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-northern-trust-loses-160-million-mandate-2026-07-29",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Northern Trust Loses $160 Million Mandate to Amundi Over Exit from Climate Groups",
+        "excerpt": "UK charity endowment manager Nesta Trust announced that it has transferred a £120 million (USD$160 million) investment mandate from U.S.-based Northern Trust Asset Management (NTAM) to European asset manager Amundi, stating that the move is a “direct consequence” of NTAM’s departure from climate-focused investment groups Net Zero Asset Managers Initiative (NZAMI) and Climate Action 100+ (CA100+). Nesta Trust said that the decision to transfer assets from NTAM was made as part of it “commitment to reducing global greenhouse emissions,” and to ensure that…",
+        "url": "https://www.esgtoday.com/northern-trust-loses-160-million-mandate-to-amundi-over-exit-from-climate-groups/?utm_source=rss utm_medium=rss utm_campaign=northern-trust-loses-160-million-mandate-to-amundi-over-exit-from-climate-groups",
+        "publishedAt": "2026-07-29T10:20:59.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Amundi3.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Investors",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-ai-governance-growing-in-importance-for--2026-07-28",
         "source": "esg-dive",
@@ -662,50 +860,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-singapore-releases-proposed-issb-aligned-2026-07-28",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Singapore Releases Proposed ISSB-Aligned Sustainability Reporting Standards",
-        "excerpt": "Singapore’s business reporting and accounting regulator the Accounting and Corporate Regulatory Authority (ACRA) announced the release of draft Singapore Sustainability Disclosure Standards, based on the sustainability and climate-related reporting standards developed by the IFRS Foundation’s International Sustainability Standards Board (ISSB). The new proposed standards are designed to form the basis of new mandatory climate and voluntary broader sustainability reporting requirements for companies in Singapore, with reporting for large listed companies…",
-        "url": "https://www.esgtoday.com/singapore-releases-proposed-issb-aligned-sustainability-reporting-standards/?utm_source=rss utm_medium=rss utm_campaign=singapore-releases-proposed-issb-aligned-sustainability-reporting-standards",
-        "publishedAt": "2026-07-28T11:14:09.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/singapore-Bain.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-genzero-backs-clean-energy-infrastructur-2026-07-28",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "GenZero Backs Clean Energy Infrastructure Platform PCG Global",
-        "excerpt": "Singapore-based clean energy platform PCG Global announced today the close of a Pre-Series A financing round led by Temasek-owned decarbonization-focused investment platform GenZero, with funding aimed at accelerating the company’s expansion across Southeast Asia, Oceania, and the Middle East. Launched in 2025 by the team behind China-focused C&I distributed solar investor-operator PCG Power and backed by Temasek, PCG Global focuses on the investment, development, and operation of renewable energy infrastructure across international markets. The company…",
-        "url": "https://www.esgtoday.com/genzero-backs-clean-energy-infrastructure-platform-pcg-global/?utm_source=rss utm_medium=rss utm_campaign=genzero-backs-clean-energy-infrastructure-platform-pcg-global",
-        "publishedAt": "2026-07-28T10:13:58.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/PCG-GenZero.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-google-ford-others-launch-skilled-trades-2026-07-27",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -746,94 +900,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-nordea-launches-new-sustainable-equity-f-2026-07-27",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Nordea Launches New Sustainable Equity Funds",
-        "excerpt": "Northern Europe-based asset manager Nordea Asset Management announced the launch of three new sustainable equity funds as part of its active BetaPlus index range of investment products, including funds focused on Eurozone companies, and European and U.S. small caps. The new funds were introduced alongside an announcement by Nordea that the BetaPlus range has reached €100 billion in AuM. The enhanced index suite is designed to offer investors the diversification and cost efficiency benefits of index investing, along with the potential for excess returns…",
-        "url": "https://www.esgtoday.com/nordea-launches-series-of-new-sustainable-equity-funds/?utm_source=rss utm_medium=rss utm_campaign=nordea-launches-series-of-new-sustainable-equity-funds",
-        "publishedAt": "2026-07-27T15:27:17.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Nordea.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Investors",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-dhl-longi-partner-on-renewable-energy-de-2026-07-27",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "DHL, LONGi Partner on Renewable Energy Deployment, Lower Emissions Logistics",
-        "excerpt": "Logistics giant DHL Group announced that it has signed a new agreement with solar technology company LONGi to advance the deployment of renewable energy solutions and expand collaboration on sustainable logistics. Founded in 2000, China-based-LONGi develops high-efficiency solar wafers, cells, modules and integrated photovoltaic solutions, with a focus on advancing solar energy technologies. Under the new MoU, the companies plan to establish a strategic collaboration focused on accelerating the adoption of distributed solar solutions, including LONGi s…",
-        "url": "https://www.esgtoday.com/dhl-partner-on-renewable-energy-deployment-lower-emissions-logistics/?utm_source=rss utm_medium=rss utm_campaign=dhl-partner-on-renewable-energy-deployment-lower-emissions-logistics",
-        "publishedAt": "2026-07-27T14:42:22.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/DHL-solar.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-dassault-sets-sbti-approved-2050-net-zer-2026-07-27",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Dassault Sets SBTi-Approved 2050 Net Zero Target",
-        "excerpt": "French engineering software company Dassault Systèmes announced that it has set a new target to achieve net zero greenhouse gas emissions across its value chain by 2050, which has been validated by the Science Based Targets initiative (SBTi). The new target follows the company s achievement of its initial SBTi targets ahead of schedule. According to Dassault, it reduced its operational (Scope 1 and 2) emissions by 35% and business travel and commuting (Scope 3) emissions by 20% in 2025, surpassing its 2027 targets. The company also said that suppliers…",
-        "url": "https://www.esgtoday.com/dassault-sets-sbti-approved-2050-net-zero-target/?utm_source=rss utm_medium=rss utm_campaign=dassault-sets-sbti-approved-2050-net-zero-target",
-        "publishedAt": "2026-07-27T13:50:49.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Dassault.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-ecb-expands-application-of-climate-risk--2026-07-27",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "ECB Expands Application of Climate Risk Factors in Collateral Framework to Corporate Loans",
-        "excerpt": "The European Central Bank (ECB) announced plans to extend the use of climate factors in the collateral framework to eligible loans to non-financial corporations, significantly expanding its initiative to adjust the value assigned to assets pledged by banks as collateral for central bank loans, based on their exposure to climate transition risks. The announcement follows the recent rollout by the ECB of the climate factor, initially applied only to corporate bonds pledged as collateral. At the time, the ECB acknowledged that the immediate effect of the…",
-        "url": "https://www.esgtoday.com/ecb-expands-application-of-climate-risk-factors-in-collateral-framework-to-corporate-loans/?utm_source=rss utm_medium=rss utm_campaign=ecb-expands-application-of-climate-risk-factors-in-collateral-framework-to-corporate-loans",
-        "publishedAt": "2026-07-27T13:07:05.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/ECB2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Regulators",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1060,28 +1126,6 @@
         "region": "world"
       },
       {
-        "id": "carbon-brief-q-a-what-the-eu-s-carbon-market-review-m-2026-07-20",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Q A: What the EU’s carbon market review means for climate action",
-        "excerpt": "Share The European Commission has put forward new plans to cut emissions under the EU carbon market more slowly, from 2031 onwards. On 17 July, the commission presented its long-awaited proposal for reform of the EU’s Emissions Trading System (ETS). It recommended a number of changes, including giving companies free allowances to cover their emissions for longer than previously planned, conditional on climate investment plans. The proposal would result in around 2bn tonnes of extra emissions from sectors that are part of the trading system, say WWF and…",
-        "url": "https://www.carbonbrief.org/qa-what-the-eus-carbon-market-review-means-for-climate-action",
-        "publishedAt": "2026-07-20T16:22:59.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/Emissions_would_drop_more_slowly_in_the_EU_carbon_market_under_new_proposals_3.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-projects-open-for-public-comment-july-20-2026-07-20",
         "source": "verra",
         "sourceName": "Verra",
@@ -1101,28 +1145,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-q-a-europe-s-may-and-june-heatwave-death-2026-07-17",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Q A: Europe’s May and June heatwave deaths – and how they were counted",
-        "excerpt": "Share Recent weeks have seen a flurry of reports from public health authorities and scientists that estimate the deaths caused by Europe’s record-breaking summer heatwaves . In France , the national public health agency reported 2,025 excess deaths over the week where the heatwave peaked in June. Authorities in Germany and Netherlands put the excess death toll during the same seven-day period at 5,753 and 533, respectively. An analysis from climate scientists in Carbon Brief found that France saw more than 2,700 heat-related deaths over 17 days in June.…",
-        "url": "https://www.carbonbrief.org/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted",
-        "publishedAt": "2026-07-17T11:17:09.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/heat-deaths-1024x629.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -1173,28 +1195,6 @@
         "region": "world"
       },
       {
-        "id": "carbon-brief-uk-withdraws-millions-in-funding-from-wo-2026-07-15",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "UK withdraws millions in funding from world’s second-largest rainforest in Congo",
-        "excerpt": "Share The UK has abandoned projects worth tens of millions of pounds that were meant to help protect Congo rainforests and support local people. Together, these initiatives would have made up around half of the £200m that the UK pledged to support conservation in the Congo basin – the world’s second-largest rainforest. When it hosted COP26 in Glasgow, the UK led a new initiative to end forest loss, which included a collective pledge by 12 donors of “at least” $1.5bn (£1.1bn) for Congo rainforest nations by 2025. Development minister Jenny Chapman…",
-        "url": "https://www.carbonbrief.org/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo",
-        "publishedAt": "2026-07-15T16:04:22.000Z",
-        "image": "https://cbtempdev.wpenginepowered.com/wp-content/uploads/2026/07/cropped_WEBSITE-INLINE.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-verra-publishes-minor-revision-to-rice-m-2026-07-14",
         "source": "verra",
         "sourceName": "Verra",
@@ -1205,14 +1205,15 @@
         "excerpt": "Verra has released a revised version (v1.1) of VM0051 Improved Management in Rice Production Systems in the Verified Carbon Standard (VCS) Program . This constitutes a minor revision to VM0051, v1.0 . VM0051 applies to projects implementing improved water and crop management practices in flooded rice systems to reduce greenhouse gas emissions. The revisions are intended to clarify methodology requirements, align the methodology with current VCS Program rules and requirements following the launch of version 5 , and refine guidance for project area…",
         "url": "https://verra.org/verra-publishes-minor-revision-to-rice-methodology-vm0051/",
         "publishedAt": "2026-07-14T14:34:17.000Z",
-        "image": null,
+        "image": "https://verra.org/wp-content/uploads/2026/07/pexels-aphy-9856-scaled-e1784038535100.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": "Announcements",
-          "feed": "https://verra.org/feed/"
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -1478,6 +1479,252 @@
   },
   "articles": [
     {
+      "id": "carbon-brief-world-falling-short-on-22-of-23-nature-t-2026-07-29",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "World falling short on 22 of 23 nature targets for 2030, says draft UN report",
+      "excerpt": "Share The global goal to halt and reverse nature loss by 2030 “will not be achieved” unless action by countries “accelerates rapidly”, says a draft UN report. Countries are falling short on 22 of the 23 targets for 2030 they set under the Kunming-Montreal Global Biodiversity Framework (GBF), the “Paris Agreement for nature”. That is according to a draft version of a global report prepared by the UN Convention on Biological Diversity (CBD), published on 26 July. The report will be finalised ahead of the next nature summit, COP17 , taking place in Armenia…",
+      "url": "https://www.carbonbrief.org/world-falling-short-on-22-of-23-nature-targets-for-2030-says-draft-un-report",
+      "publishedAt": "2026-07-29T15:00:21.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/unnamed_1.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-climate-change-is-driving-a-shift-in-chi-2026-07-29",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Climate change is driving a ‘shift’ in childhood malaria risk across Africa",
+      "excerpt": "Share Rising temperatures are redistributing the risk of childhood malaria in sub-Saharan Africa, resulting in areas of “new risk” in the east and south of the continent, but also “relief hotspots” in western Africa. This is according to a new study, published in Nature , which provides the “ most comprehensive look to date at the impact of climate change on any infectious disease”. The research finds that since the year 1900, climate change has resulted in one extra case of malaria for every 1,000 children in sub-Saharan Africa on average. Over the…",
+      "url": "https://www.carbonbrief.org/climate-change-is-driving-a-shift-in-childhood-malaria-risk-across-africa",
+      "publishedAt": "2026-07-29T15:00:09.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/Screenshot_2026-07-29_at_13.35.30.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-ntt-data-engie-launch-clean-energy-partn-2026-07-29",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "NTT Data, Engie Launch Clean Energy Partnership to Decarbonize Global Data Center Footprint",
+      "excerpt": "Japan-based IT services and digital transformation company NTT Data announced today that it has signed a new strategic agreement with French energy company Engie, aimed at supporting the decarbonization, energy resilience and sustainable expansion of NTT Data’s global data center operations. Under the new partnership, NTT Data said that it will secure long-term access to competitive renewable energy and power solutions that support the continued growth of its data centers and AI infrastructure while addressing its net-zero ambitions. NTT Data added that…",
+      "url": "https://www.esgtoday.com/ntt-data-engie-launch-clean-energy-partnership-to-decarbonize-global-data-center-footprint/?utm_source=rss utm_medium=rss utm_campaign=ntt-data-engie-launch-clean-energy-partnership-to-decarbonize-global-data-center-footprint",
+      "publishedAt": "2026-07-29T14:58:57.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Engie2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-mercedes-benz-signs-deal-for-low-carbon--2026-07-29",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Mercedes-Benz Signs Deal for Low Carbon Aluminum for Cars",
+      "excerpt": "Mercedes-Benz and Norway-based aluminum and renewable energy company Hydro announced the expansion of their partnership, aimed at decarbonizing the aluminum supply chain for the automaker’s next generation of large electrical vehicles. As an initial step under the agreement, Mercedes-Benz said it is the first automaker in Europe to use Hydro’s recycled aluminum, Hydro CIRCAL, in the series production of its next generation of large electric vehicles. The recycled aluminum contains at least 75% post-consumer recycled material, up from around 25% in…",
+      "url": "https://www.esgtoday.com/mercedes-benz-signs-deal-for-low-carbon-aluminum-for-cars/?utm_source=rss utm_medium=rss utm_campaign=mercedes-benz-signs-deal-for-low-carbon-aluminum-for-cars",
+      "publishedAt": "2026-07-29T14:17:19.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Mercedes-Hydro.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-tesla-buys-entire-output-of-new-texas-so-2026-07-29",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Tesla Buys Entire Output of New Texas Solar Plant",
+      "excerpt": "Madrid-based renewable energy company Zelestra announced that it has signed a Power Purchase Agreement (PPA) with Tesla agreeing to purchase the entire output from a new 140 MW solar project in Texas. The new solar project, the Lumen solar farm, will be located in Anderson County, in northeast, Texas, within the ERCOT market. Zelestra said that it expects to begin construction on the project by 2027, with the facility scheduled to be fully operational by 2029. The agreement marks the latest collaboration between the companies, following a 57 MW PPA in…",
+      "url": "https://www.esgtoday.com/tesla-buys-entire-output-of-new-texas-solar-plant/?utm_source=rss utm_medium=rss utm_campaign=tesla-buys-entire-output-of-new-texas-solar-plant",
+      "publishedAt": "2026-07-29T13:32:30.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Solar-Zelestra3.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-iso-ghg-protocol-to-launch-a-single-unif-2026-07-29",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "ISO, GHG Protocol to Launch a Single Unified Carbon Accounting Standard",
+      "excerpt": "Standards-setting organizations the International Organization for Standardization (ISO) and Greenhouse Gas Protocol (GHG Protocol) announced on Wednesday that they will combine their corporate carbon accounting standards into a single, harmonized global accounting standard. The announcement follows the creation of a strategic partnership between ISO and GHG Protocol last year, aimed at unifying the global standards used by companies for greenhouse gas emissions measurement and reporting. At the time, the organizations said that that the partnership…",
+      "url": "https://www.esgtoday.com/iso-ghg-protocol-to-launch-a-single-unified-carbon-accounting-standard/?utm_source=rss utm_medium=rss utm_campaign=iso-ghg-protocol-to-launch-a-single-unified-carbon-accounting-standard",
+      "publishedAt": "2026-07-29T13:08:51.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/ISO.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-q-a-what-does-china-s-15th-five-year-pla-2026-07-29",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Q A: What does China’s 15th ‘five-year plan’ for renewables mean for climate change?",
+      "excerpt": "Share China has released its “15th five-year plan for the development of renewable energy”, outlining key targets and policies for the sector in 2026-2030. A key focus of the plan is boosting renewable generation and consumption as a share of China’s overall energy mix. It calls for continued capacity additions of wind and solar – albeit at lower levels than previous years – as well as hydropower, biomass and other clean-energy sources. Specifically, China will aim to install 3,500 gigawatts (GW) of renewables capacity by 2030, 2,800GW will be wind and…",
+      "url": "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-renewables-mean-for-climate-change",
+      "publishedAt": "2026-07-29T12:08:55.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/china-aims-for-3500g_2-scaled.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-waste-intelligence-startup-greyparrot-ra-2026-07-29",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "“Waste Intelligence” Startup Greyparrot Raises $27 Million",
+      "excerpt": "AI waste intelligence company Greyparrot announced that it has raised $27 million in a Series B funding round, with proceeds aimed at scaling its technology platform to help abate over one million tons of waste by 2030. Founded in 2019, London-based Greyparrot develops AI-powered waste intelligence solutions that enable recycling facilities to monitor and analyze waste streams in real time, helping increase resource recovery, improve recycling efficiency and support circular economy initiatives. The company’s AI camera systems, known as Analyzers, are…",
+      "url": "https://www.esgtoday.com/waste-intelligence-startup-grayparrot-raises-27-million/?utm_source=rss utm_medium=rss utm_campaign=waste-intelligence-startup-grayparrot-raises-27-million",
+      "publishedAt": "2026-07-29T11:39:33.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Greyparrot.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-northern-trust-loses-160-million-mandate-2026-07-29",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Northern Trust Loses $160 Million Mandate to Amundi Over Exit from Climate Groups",
+      "excerpt": "UK charity endowment manager Nesta Trust announced that it has transferred a £120 million (USD$160 million) investment mandate from U.S.-based Northern Trust Asset Management (NTAM) to European asset manager Amundi, stating that the move is a “direct consequence” of NTAM’s departure from climate-focused investment groups Net Zero Asset Managers Initiative (NZAMI) and Climate Action 100+ (CA100+). Nesta Trust said that the decision to transfer assets from NTAM was made as part of it “commitment to reducing global greenhouse emissions,” and to ensure that…",
+      "url": "https://www.esgtoday.com/northern-trust-loses-160-million-mandate-to-amundi-over-exit-from-climate-groups/?utm_source=rss utm_medium=rss utm_campaign=northern-trust-loses-160-million-mandate-to-amundi-over-exit-from-climate-groups",
+      "publishedAt": "2026-07-29T10:20:59.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Amundi3.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Investors",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-h2-india-s-green-hydrogen-push-gathers-pace-2026-07-29",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
+      "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
+      "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
+      "publishedAt": "2026-07-29T10:17:58.000Z",
+      "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-india-s-carbon-market-targets-too-weak-t-2026-07-29",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India’s carbon market targets too weak to drive industrial transformation: Report - Down To Earth",
+      "excerpt": "Published on : 29 Jul 2026, 8:48 am Copied Listen to this article Summary India’s proposed Carbon Credit Trading Scheme will not deliver transformational industrial decarbonisation, experts warn. New report shows far more ambitious emissions intensity targets needed. Current rules demand only 2–5% cuts by 2026-27 for steel, cement and aluminium. The scheme relies on low carbon prices and weak governance, excludes the power sector. India's proposed Carbon Credit Trading Scheme (CCTS) is unlikely to drive transformational change in industrial…",
+      "url": "https://www.downtoearth.org.in/climate-change/indias-carbon-market-targets-too-weak-to-drive-industrial-transformation-report",
+      "publishedAt": "2026-07-29T08:48:28.000Z",
+      "image": "https://cf-images.assettype.com/downtoearth%2F2026-07-29%2Fzyahznkg%2FIndia-industry-smoke-emissions-carbon-market?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFlRczlOUHRvTnNOVnl1V3AtRlJHVm1xLUpqb2MxTXJQRzdFUF9Kdmw0M3ZVTHJRcURGaXNjMWRuV0NEQWNjNkFrT3dBWm5VbFRJcnM4ZW5FeUJKTUdYeG9jUVU4OXFJQWVBR3JrVGhMcTk3LUZSdUxJLUlhbkZiTmtGYjZIaTI0aDI1a0MwTTJ3VF9sbGlqQXZMa05VTFhDSVJLUkNkaXc1X3pLVmxYQUtuWUh0MzgteFZsakZfVDB4RVnSAdABQVVfeXFMUE90eUNTTWg2QXJ4ZVFMUzI5cGxJVmNwc3dBdjNJMF9QTG1OVjNRNUFkLTdYdHNPMGtPY1V3Y05Qa1JPWmZCMGJMdjJ5V0psYjN6azBLSWhmNTJ2dEN6Q2s4d2E0b3ZHLUIzNXNOQ1NmQkFnSGxqNERCZy1mRGxVbzZnek44TWlpX01OLWlhdXZYdURLWU5abXFsakkyNlR1RC1UdFNZV1lOa1MyVDBQeXZMN2M5eUdlbmQ3ZU9lU0t4SEJLNHZDSEhCRTF1Y3hEWA?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "esg-dive-ai-governance-growing-in-importance-for--2026-07-28",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1676,50 +1923,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-singapore-releases-proposed-issb-aligned-2026-07-28",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Singapore Releases Proposed ISSB-Aligned Sustainability Reporting Standards",
-      "excerpt": "Singapore’s business reporting and accounting regulator the Accounting and Corporate Regulatory Authority (ACRA) announced the release of draft Singapore Sustainability Disclosure Standards, based on the sustainability and climate-related reporting standards developed by the IFRS Foundation’s International Sustainability Standards Board (ISSB). The new proposed standards are designed to form the basis of new mandatory climate and voluntary broader sustainability reporting requirements for companies in Singapore, with reporting for large listed companies…",
-      "url": "https://www.esgtoday.com/singapore-releases-proposed-issb-aligned-sustainability-reporting-standards/?utm_source=rss utm_medium=rss utm_campaign=singapore-releases-proposed-issb-aligned-sustainability-reporting-standards",
-      "publishedAt": "2026-07-28T11:14:09.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/singapore-Bain.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-genzero-backs-clean-energy-infrastructur-2026-07-28",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "GenZero Backs Clean Energy Infrastructure Platform PCG Global",
-      "excerpt": "Singapore-based clean energy platform PCG Global announced today the close of a Pre-Series A financing round led by Temasek-owned decarbonization-focused investment platform GenZero, with funding aimed at accelerating the company’s expansion across Southeast Asia, Oceania, and the Middle East. Launched in 2025 by the team behind China-focused C&I distributed solar investor-operator PCG Power and backed by Temasek, PCG Global focuses on the investment, development, and operation of renewable energy infrastructure across international markets. The company…",
-      "url": "https://www.esgtoday.com/genzero-backs-clean-energy-infrastructure-platform-pcg-global/?utm_source=rss utm_medium=rss utm_campaign=genzero-backs-clean-energy-infrastructure-platform-pcg-global",
-      "publishedAt": "2026-07-28T10:13:58.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/PCG-GenZero.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-google-ford-others-launch-skilled-trades-2026-07-27",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1760,94 +1963,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-nordea-launches-new-sustainable-equity-f-2026-07-27",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Nordea Launches New Sustainable Equity Funds",
-      "excerpt": "Northern Europe-based asset manager Nordea Asset Management announced the launch of three new sustainable equity funds as part of its active BetaPlus index range of investment products, including funds focused on Eurozone companies, and European and U.S. small caps. The new funds were introduced alongside an announcement by Nordea that the BetaPlus range has reached €100 billion in AuM. The enhanced index suite is designed to offer investors the diversification and cost efficiency benefits of index investing, along with the potential for excess returns…",
-      "url": "https://www.esgtoday.com/nordea-launches-series-of-new-sustainable-equity-funds/?utm_source=rss utm_medium=rss utm_campaign=nordea-launches-series-of-new-sustainable-equity-funds",
-      "publishedAt": "2026-07-27T15:27:17.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Nordea.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Investors",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-dhl-longi-partner-on-renewable-energy-de-2026-07-27",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "DHL, LONGi Partner on Renewable Energy Deployment, Lower Emissions Logistics",
-      "excerpt": "Logistics giant DHL Group announced that it has signed a new agreement with solar technology company LONGi to advance the deployment of renewable energy solutions and expand collaboration on sustainable logistics. Founded in 2000, China-based-LONGi develops high-efficiency solar wafers, cells, modules and integrated photovoltaic solutions, with a focus on advancing solar energy technologies. Under the new MoU, the companies plan to establish a strategic collaboration focused on accelerating the adoption of distributed solar solutions, including LONGi s…",
-      "url": "https://www.esgtoday.com/dhl-partner-on-renewable-energy-deployment-lower-emissions-logistics/?utm_source=rss utm_medium=rss utm_campaign=dhl-partner-on-renewable-energy-deployment-lower-emissions-logistics",
-      "publishedAt": "2026-07-27T14:42:22.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/DHL-solar.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-dassault-sets-sbti-approved-2050-net-zer-2026-07-27",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Dassault Sets SBTi-Approved 2050 Net Zero Target",
-      "excerpt": "French engineering software company Dassault Systèmes announced that it has set a new target to achieve net zero greenhouse gas emissions across its value chain by 2050, which has been validated by the Science Based Targets initiative (SBTi). The new target follows the company s achievement of its initial SBTi targets ahead of schedule. According to Dassault, it reduced its operational (Scope 1 and 2) emissions by 35% and business travel and commuting (Scope 3) emissions by 20% in 2025, surpassing its 2027 targets. The company also said that suppliers…",
-      "url": "https://www.esgtoday.com/dassault-sets-sbti-approved-2050-net-zero-target/?utm_source=rss utm_medium=rss utm_campaign=dassault-sets-sbti-approved-2050-net-zero-target",
-      "publishedAt": "2026-07-27T13:50:49.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Dassault.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-ecb-expands-application-of-climate-risk--2026-07-27",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "ECB Expands Application of Climate Risk Factors in Collateral Framework to Corporate Loans",
-      "excerpt": "The European Central Bank (ECB) announced plans to extend the use of climate factors in the collateral framework to eligible loans to non-financial corporations, significantly expanding its initiative to adjust the value assigned to assets pledged by banks as collateral for central bank loans, based on their exposure to climate transition risks. The announcement follows the recent rollout by the ECB of the climate factor, initially applied only to corporate bonds pledged as collateral. At the time, the ECB acknowledged that the immediate effect of the…",
-      "url": "https://www.esgtoday.com/ecb-expands-application-of-climate-risk-factors-in-collateral-framework-to-corporate-loans/?utm_source=rss utm_medium=rss utm_campaign=ecb-expands-application-of-climate-risk-factors-in-collateral-framework-to-corporate-loans",
-      "publishedAt": "2026-07-27T13:07:05.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/ECB2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Regulators",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2074,28 +2189,6 @@
       "region": "world"
     },
     {
-      "id": "carbon-brief-q-a-what-the-eu-s-carbon-market-review-m-2026-07-20",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Q A: What the EU’s carbon market review means for climate action",
-      "excerpt": "Share The European Commission has put forward new plans to cut emissions under the EU carbon market more slowly, from 2031 onwards. On 17 July, the commission presented its long-awaited proposal for reform of the EU’s Emissions Trading System (ETS). It recommended a number of changes, including giving companies free allowances to cover their emissions for longer than previously planned, conditional on climate investment plans. The proposal would result in around 2bn tonnes of extra emissions from sectors that are part of the trading system, say WWF and…",
-      "url": "https://www.carbonbrief.org/qa-what-the-eus-carbon-market-review-means-for-climate-action",
-      "publishedAt": "2026-07-20T16:22:59.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/Emissions_would_drop_more_slowly_in_the_EU_carbon_market_under_new_proposals_3.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-july-20-2026-07-20",
       "source": "verra",
       "sourceName": "Verra",
@@ -2141,28 +2234,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "carbon-brief-q-a-europe-s-may-and-june-heatwave-death-2026-07-17",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Q A: Europe’s May and June heatwave deaths – and how they were counted",
-      "excerpt": "Share Recent weeks have seen a flurry of reports from public health authorities and scientists that estimate the deaths caused by Europe’s record-breaking summer heatwaves . In France , the national public health agency reported 2,025 excess deaths over the week where the heatwave peaked in June. Authorities in Germany and Netherlands put the excess death toll during the same seven-day period at 5,753 and 533, respectively. An analysis from climate scientists in Carbon Brief found that France saw more than 2,700 heat-related deaths over 17 days in June.…",
-      "url": "https://www.carbonbrief.org/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted",
-      "publishedAt": "2026-07-17T11:17:09.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/heat-deaths-1024x629.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
     },
     {
       "id": "verra-verra-publishes-corsia-insurance-criteri-2026-07-16",
@@ -2211,28 +2282,6 @@
       "region": "world"
     },
     {
-      "id": "carbon-brief-uk-withdraws-millions-in-funding-from-wo-2026-07-15",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "UK withdraws millions in funding from world’s second-largest rainforest in Congo",
-      "excerpt": "Share The UK has abandoned projects worth tens of millions of pounds that were meant to help protect Congo rainforests and support local people. Together, these initiatives would have made up around half of the £200m that the UK pledged to support conservation in the Congo basin – the world’s second-largest rainforest. When it hosted COP26 in Glasgow, the UK led a new initiative to end forest loss, which included a collective pledge by 12 donors of “at least” $1.5bn (£1.1bn) for Congo rainforest nations by 2025. Development minister Jenny Chapman…",
-      "url": "https://www.carbonbrief.org/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo",
-      "publishedAt": "2026-07-15T16:04:22.000Z",
-      "image": "https://cbtempdev.wpenginepowered.com/wp-content/uploads/2026/07/cropped_WEBSITE-INLINE.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-publishes-minor-revision-to-rice-m-2026-07-14",
       "source": "verra",
       "sourceName": "Verra",
@@ -2243,14 +2292,15 @@
       "excerpt": "Verra has released a revised version (v1.1) of VM0051 Improved Management in Rice Production Systems in the Verified Carbon Standard (VCS) Program . This constitutes a minor revision to VM0051, v1.0 . VM0051 applies to projects implementing improved water and crop management practices in flooded rice systems to reduce greenhouse gas emissions. The revisions are intended to clarify methodology requirements, align the methodology with current VCS Program rules and requirements following the launch of version 5 , and refine guidance for project area…",
       "url": "https://verra.org/verra-publishes-minor-revision-to-rice-methodology-vm0051/",
       "publishedAt": "2026-07-14T14:34:17.000Z",
-      "image": null,
+      "image": "https://verra.org/wp-content/uploads/2026/07/pexels-aphy-9856-scaled-e1784038535100.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": "Announcements",
-        "feed": "https://verra.org/feed/"
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -2515,30 +2565,6 @@
       "region": "india"
     },
     {
-      "id": "google-india-india-among-biggest-new-carbon-markets-a-2026-05-21",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India among biggest new carbon markets as global carbon pricing covers 29 per cent of emissions - Down To Earth",
-      "excerpt": "Copied Listen to this article India has emerged as one of the world’s largest new carbon markets with the launch of its Carbon Credit Trading Scheme in 2026, as global carbon pricing systems now cover 29 per cent of greenhouse gas (GHG) emissions and annual revenues from emissions trading systems and carbon taxes crossed $107 billion in 2025, according to a new World Bank report. The report , State and Trends of Carbon Pricing 2026 , says India’s new emissions trading system currently covers seven sectors and around 490 industries, with estimated…",
-      "url": "https://www.downtoearth.org.in/climate-change/india-among-biggest-new-carbon-markets-as-global-carbon-pricing-covers-29-per-cent-of-emissions",
-      "publishedAt": "2026-05-21T07:00:00.000Z",
-      "image": "https://cf-images.assettype.com/downtoearth%2F2026-05-21%2Fdyvuz5m8%2FWorld-Bank.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaV9LeHJRbDJwR3JaMzlENTN6VnFjVkxnODZxTjF6dDNqckhWbkszaGZoTjFjZGdvNENTUGM5R200LUhja1Nxb3NBU0MyRGU2R29kTU1hdXVDbGs5VEV2S2NnU0Z2ZUlJSFU1RmEweS1Wd3F0M2dwcnpzc1hHTkdLNm9yTUJSd1NFRWtiS0FFb0RhYUJYRkJWVlBxVUVGVGhSRUxQblVFdldmMnVVeW0wNDZyU2xLRFhIVnZzc2NZSE85cHEwSmtLOTE4M255OFdjYmg0STZIelbSAeYBQVVfeXFMTXEzTVRuRVVyTFljbXJxMnV4a2RuSE5qamF1UFpIRkFTOTJESmcxQ3dBWmlKbUhhUlBuM1JKLV9EMnhWSlJITTB3ZDlQeWFUNV9IbzBvajVCZDZFQ3hfOW9pUDJnY3NqdlExaHJjYWt1V1N3MThBMUtYSGFsZjJweDl2WlFxNjYzZmtSZzdpRnpqYnNSYWpoUEIwZlg0YVczcXNTZGpoNm0wYmhIR1RNVDM3Qk1kMzZMSFJnQ3hlZGZWeTdub2Zzem0wLUQ2S29Bb3NJaVNNeXc3RDdoa2JURGROTmt6aVE?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2593,7 +2619,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
+      "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - prnewswire.co.uk",
       "excerpt": "Strong CAGR of 24.0% reflects premium shift in voluntary carbon markets toward durable, high-integrity removal credits NEWARK, Del. , March 25, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global blue carbon market, valued at USD 1.0 billion in 2025, is projected to reach USD 1.2 billion in 2026 and expand significantly to USD 10.3 billion by 2036, growing at a CAGR of 24.0% during the forecast period, according to analysis by Future Market Insights. The Blue Carbon market is expected to generate an absolute…",
       "url": "https://www.prnewswire.co.uk/news-releases/global-blue-carbon-market-to-reach-usd-10-3-billion-by-2036--with-strong-growth-across-asia-pacific-india-and-the-us-led-by-verra-gold-standard-and-conservation-international-302724782.html",
       "publishedAt": "2026-03-25T07:00:00.000Z",
@@ -2842,30 +2868,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-h2-hydrogen-horizons-unlocking-the-power-of-2025-05-07",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Hydrogen Horizons: Unlocking the Power of the Universe for Clean Mobility - The CSR Universe",
-      "excerpt": "Latest news and updates on different dimensions of Corporate Social Responsibility (CSR) in India and abroad. Find in-depth insights on CSR knowledge, latest CSR policies, expert opinion and special reports Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The global transition to clean energy has positioned hydrogen as a frontrunner in the race to decarbonize transportation. As…",
-      "url": "https://thecsruniverse.com/articles/hydrogen-horizons-unlocking-the-power-of-the-universe-for-clean-mobility",
-      "publishedAt": "2025-05-07T07:00:00.000Z",
-      "image": "https://thecsruniverse.com/adminxsafe/uploads/20260516055652",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWYweWJqMjBTSzcwc0kzSUlnVTJfQ1RDaHRLalB4dFlKb1VpVUZaa2NBM1pOYk1XRnFISUkwWF9jWHBfQ0pJUy00aVdmYmYtUFZXTkF3bWh0U3BuaXVzNFMzXzllcll5cDdCQUxNVmMxWDlkLVh4b3JnWVh2Qy01YmNZVkQwWGxQVXg3NkVtZk0xUWNqdEhSNmV3MFk0THh2ZDFDNEpBaEFhTGZV?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
