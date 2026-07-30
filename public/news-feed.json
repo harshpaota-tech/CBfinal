@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-07-30T03:52:38.885Z",
+  "fetchedAt": "2026-07-30T09:33:44.927Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 17,
     "world": 45,
-    "withImages": 55,
-    "avgExcerptLength": 426,
+    "withImages": 58,
+    "avgExcerptLength": 449,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -128,17 +128,17 @@
         "region": "india"
       },
       {
-        "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-14",
+        "id": "google-india-india-s-carbon-credit-trading-scheme-a-s-2026-07-14",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
-        "excerpt": "The road ahead for India’s Carbon Credit Trading Scheme Institute for Energy Economics and Financial Analysis (IEEFA)",
-        "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
-        "publishedAt": "2026-07-14T06:30:10.000Z",
-        "image": null,
+        "title": "India's Carbon Credit Trading Scheme: A strong start, critical design choices ahead - Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language Decarbonization Energy Transition &…",
+        "url": "https://ieefa.org/articles/indias-carbon-credit-trading-scheme-strong-start-critical-design-choices-ahead",
+        "publishedAt": "2026-07-14T07:00:00.000Z",
+        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -146,7 +146,32 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vd210Z0lYcEl0RUVyU2FzZVM5WE9QVFJUNTgxMVFaTDNocFRmVmdLbnpUeFJfSWhVMEZDSUxpaG9SNjFyZ2xpNWFIVjEyT3FieHdzUjdoZmg4SEo4WnhjRlVpV2Q0c3J2UEk4Qmw4QzB3UW5pMThTNjJsQkpFNWM?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTlicVN3VGw3eTQ1V2xzOS0zWnc2QlhQU1lpM3ppUDVYeHB0UGxFWDB3ZDNCRDh1SHlxSHh4cjZ0bk1ZU0RzUDdSN0dELVlxWHhVRU9nSzdaeWRraDYycFF2UzRjLUFIcmlGblNYODFDU010U2tGQzdKRUZlX1BMZ2VRbXpYeEpzNy1oNjVrNmZjV3ZZQkpnWWZpTUZ0ZHVYWDUyMXpDUU0?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-14",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
+        "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
+        "publishedAt": "2026-07-14T06:30:10.000Z",
+        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vd210Z0lYcEl0RUVyU2FzZVM5WE9QVFJUNTgxMVFaTDNocFRmVmdLbnpUeFJfSWhVMEZDSUxpaG9SNjFyZ2xpNWFIVjEyT3FieHdzUjdoZmg4SEo4WnhjRlVpV2Q0c3J2UEk4Qmw4QzB3UW5pMThTNjJsQkpFNWM?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -194,6 +219,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - ddindia.co.in",
+        "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
+        "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
+        "publishedAt": "2026-06-05T07:00:00.000Z",
+        "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -253,7 +302,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
+        "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - prnewswire.co.uk",
         "excerpt": "Strong CAGR of 24.0% reflects premium shift in voluntary carbon markets toward durable, high-integrity removal credits NEWARK, Del. , March 25, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global blue carbon market, valued at USD 1.0 billion in 2025, is projected to reach USD 1.2 billion in 2026 and expand significantly to USD 10.3 billion by 2036, growing at a CAGR of 24.0% during the forecast period, according to analysis by Future Market Insights. The Blue Carbon market is expected to generate an absolute…",
         "url": "https://www.prnewswire.co.uk/news-releases/global-blue-carbon-market-to-reach-usd-10-3-billion-by-2036--with-strong-growth-across-asia-pacific-india-and-the-us-led-by-verra-gold-standard-and-conservation-international-302724782.html",
         "publishedAt": "2026-03-25T07:00:00.000Z",
@@ -266,30 +315,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxORU40NERySjF1ZVh1cGlYZzdHa09sblVKYlNHRHktbUw0UUxhbzliTWc5SFNSb3BWRnBRMUsxa2lEa01BR055Qk1LVWtrejMzQm9xeUhvcUkxSUJpOWwxNkxsRDdoaDBwUmhGS0pDNnI4d0Eya2RZc2lhcHNCYm5HZXdjWDRlRjhRODRhaG5Iazdya2FtYjRyb3JtWUVaWFp5bWtZVy1vUWo4VnZMOFhZOS15NHNhVExMZUpvaDBOWUhELVdXRTJPN2hyTGVaVUhwWDFqZ01FWnRyNUJyV1J5ZUlRdHFwbjl2bHVKZ25LWmJSVjRlaTFuNnFXZkNic2Ztd3JfRTRPb1lJX2ZqZW1lVlJTMHZGSm5taU50NlEtcXlpcHBpeFBoT0x4dlRXV2l6azZhWVY3UXRMczBRekZpNXA5RjNkWjR6MzBvQ0RRc0lidw?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-india-launches-centralized-carbon-market-2026-03-23",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
-        "excerpt": "• India launches a national carbon market portal to operationalize its Carbon Credit Trading Scheme across sectors • Nearly 490 entities across seven energy intensive industries now face compliance targets under the framework • Government positions carbon markets as a major channel to unlock capital, drive innovation, and support NDC delivery New Delhi hosted a decisive step in India’s climate and financial architecture as the government inaugurated Prakriti 2026 and launched the Indian Carbon Market Portal, a centralized platform designed to…",
-        "url": "https://esgnews.com/india-launches-carbon-market-portal-to-scale-national-climate-finance/",
-        "publishedAt": "2026-03-23T07:00:00.000Z",
-        "image": "https://esgnews.com/wp-content/uploads/2026/03/India-Launches-Carbon-Market-Portal-to-Scale-National-Climate-Finance.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -348,8 +373,8 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s Green Hydrogen Ambition - millenniumpost.in",
-        "excerpt": "India’s Green Hydrogen Ambition millenniumpost.in",
+        "title": "India’s Green Hydrogen Ambition - MillenniumPost",
+        "excerpt": "India’s Green Hydrogen Ambition MillenniumPost",
         "url": "https://www.millenniumpost.in/opinion/indias-green-hydrogen-ambition-645091",
         "publishedAt": "2026-01-21T08:00:00.000Z",
         "image": null,
@@ -365,30 +390,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-how-ccts-is-accelerating-india-inc-s-rac-2026-01-08",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "How CCTS is accelerating India Inc.’s race to decarbonize - EY",
-        "excerpt": "Insights AI CFO CEO EY Transformation Services AI Agentic AI AI Ready Data ey.ai The Reimagination Engine Physical AI Responsible AI Assurance Services Climate Change and Sustainability Services Financial Accounting and Advisory Services Forensic and Integrity Services Consulting Cybersecurity Digital Transformation People and Workforce Risk Consulting Services Supply Chain Management and Operations Technology Transformation Global Capability Centers Capability Center-as-a-Service (CaaS) EY GCC Exchange: Video Series EY GCC Leadership Dialogues The FS…",
-        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize",
-        "publishedAt": "2026-01-08T08:00:00.000Z",
-        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-ccts-banner.png",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFpleHAtN1I5eHA0T1R1czlGa0NDVVIxSlNqbWpCUTFGd25MTEtmdGhqT0FBa2Q2X2tRZGFzNUdsSDBRMzdwSGFmNl9TSFd3dWI0ZHJENVRielZkYU4zaUVtSGpxWkZCZzQ3MDFwT2Y0TWhxNDNqSVgxOEE5VnBhcmhyV3h6cWRXTTJNMTJheFNjUkZWOWNkWDE4azdyZEhwTnliandnN3F4ZzAtQVU5TmpNYTM2T1VyeXNJM1ZEUzdnSTNjbFNScg?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -396,10 +397,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": null,
+        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -407,7 +408,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -443,10 +445,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "Steel decarbonisation in India - Institute for Energy Economics and Financial Analysis (IEEFA)",
-        "excerpt": "Steel decarbonisation in India Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  Executive Summary  About the…",
         "url": "https://ieefa.org/resources/steel-decarbonisation-india",
         "publishedAt": "2023-09-14T07:00:00.000Z",
-        "image": null,
+        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2023-09/hero-graphic-jmksteel2%20%283%29.jpg?itok=lTXPD-tj",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -454,12 +456,35 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tTUtPWEs1YmtXZ21IaGVPZnR1ZmliVVdoLVFUUndZbDlQblFxMEItT0w0ZWhyb2c5b1JwcXppOC1DNUszRXNsSUUwOUl1TlBnUWI0Qk5Vem1IRWNWMk5CY2dfV0RkZw?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tTUtPWEs1YmtXZ21IaGVPZnR1ZmliVVdoLVFUUndZbDlQblFxMEItT0w0ZWhyb2c5b1JwcXppOC1DNUszRXNsSUUwOUl1TlBnUWI0Qk5Vem1IRWNWMk5CY2dfV0RkZw?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       }
     ],
     "world": [
+      {
+        "id": "esg-today-goldman-sachs-acquires-rwe-s-u-s-distrib-2026-07-30",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Goldman Sachs Acquires RWE s U.S. Distributed Clean Energy Business",
+        "excerpt": "Goldman Sachs Asset Management’s alternative investments platform, Goldman Sachs Alternatives, announced an agreement with German power producer RWE’s U.S.-based subsidiary RWE America’s U.S. Distributed Clean Energy (DCE) business. According to Goldman Sachs, the acquisition comes as surging power demand and grid decentralization are driving unprecedented demand for localized renewable energy. Teresa Mattamouros, Managing Director within Infrastructure at Goldman Sachs Alternatives, said: “This acquisition represents a compelling opportunity to build a…",
+        "url": "https://www.esgtoday.com/goldman-sachs-acquires-rwes-u-s-distributed-clean-energy-business/?utm_source=rss utm_medium=rss utm_campaign=goldman-sachs-acquires-rwes-u-s-distributed-clean-energy-business",
+        "publishedAt": "2026-07-30T09:04:52.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Goldman-Sachs.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "verra-july-2026-newsletter-2026-07-29",
         "source": "verra",
@@ -852,28 +877,6 @@
         "status": null,
         "meta": {
           "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-cdp-launches-ai-tool-to-enable-faster-ea-2026-07-28",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "CDP Launches AI Tool to Enable Faster, Easier Sustainability Reporting",
-        "excerpt": "Climate research provider and environmental disclosure platform CDP announced the launch of a new AI-powered “Suggested Response” feature designed to help simplify disclosure preparation for organizations, while enabling faster and higher quality reporting. According to CDP, market testing of the new service demonstrated reduced disclosure preparation time by an average of 40%, increased response and completion rates by 25% and a 60% improvement in response depth and coverage. CDP runs a global environmental disclosure system, enabling investors and…",
-        "url": "https://www.esgtoday.com/cdp-launches-ai-tool-to-enable-faster-easier-sustainability-reporting/?utm_source=rss utm_medium=rss utm_campaign=cdp-launches-ai-tool-to-enable-faster-easier-sustainability-reporting",
-        "publishedAt": "2026-07-28T12:29:53.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/CDP.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
           "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
@@ -1475,6 +1478,28 @@
   },
   "articles": [
     {
+      "id": "esg-today-goldman-sachs-acquires-rwe-s-u-s-distrib-2026-07-30",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Goldman Sachs Acquires RWE s U.S. Distributed Clean Energy Business",
+      "excerpt": "Goldman Sachs Asset Management’s alternative investments platform, Goldman Sachs Alternatives, announced an agreement with German power producer RWE’s U.S.-based subsidiary RWE America’s U.S. Distributed Clean Energy (DCE) business. According to Goldman Sachs, the acquisition comes as surging power demand and grid decentralization are driving unprecedented demand for localized renewable energy. Teresa Mattamouros, Managing Director within Infrastructure at Goldman Sachs Alternatives, said: “This acquisition represents a compelling opportunity to build a…",
+      "url": "https://www.esgtoday.com/goldman-sachs-acquires-rwes-u-s-distributed-clean-energy-business/?utm_source=rss utm_medium=rss utm_campaign=goldman-sachs-acquires-rwes-u-s-distributed-clean-energy-business",
+      "publishedAt": "2026-07-30T09:04:52.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Goldman-Sachs.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "verra-july-2026-newsletter-2026-07-29",
       "source": "verra",
       "sourceName": "Verra",
@@ -1919,28 +1944,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-cdp-launches-ai-tool-to-enable-faster-ea-2026-07-28",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "CDP Launches AI Tool to Enable Faster, Easier Sustainability Reporting",
-      "excerpt": "Climate research provider and environmental disclosure platform CDP announced the launch of a new AI-powered “Suggested Response” feature designed to help simplify disclosure preparation for organizations, while enabling faster and higher quality reporting. According to CDP, market testing of the new service demonstrated reduced disclosure preparation time by an average of 40%, increased response and completion rates by 25% and a 60% improvement in response depth and coverage. CDP runs a global environmental disclosure system, enabling investors and…",
-      "url": "https://www.esgtoday.com/cdp-launches-ai-tool-to-enable-faster-easier-sustainability-reporting/?utm_source=rss utm_medium=rss utm_campaign=cdp-launches-ai-tool-to-enable-faster-easier-sustainability-reporting",
-      "publishedAt": "2026-07-28T12:29:53.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/CDP.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-analysis-wind-and-solar-power-overtake-f-2026-07-28",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2323,17 +2326,17 @@
       "region": "world"
     },
     {
-      "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-14",
+      "id": "google-india-india-s-carbon-credit-trading-scheme-a-s-2026-07-14",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "excerpt": "The road ahead for India’s Carbon Credit Trading Scheme Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
-      "publishedAt": "2026-07-14T06:30:10.000Z",
-      "image": null,
+      "title": "India's Carbon Credit Trading Scheme: A strong start, critical design choices ahead - Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language Decarbonization Energy Transition &…",
+      "url": "https://ieefa.org/articles/indias-carbon-credit-trading-scheme-strong-start-critical-design-choices-ahead",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2341,7 +2344,32 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vd210Z0lYcEl0RUVyU2FzZVM5WE9QVFJUNTgxMVFaTDNocFRmVmdLbnpUeFJfSWhVMEZDSUxpaG9SNjFyZ2xpNWFIVjEyT3FieHdzUjdoZmg4SEo4WnhjRlVpV2Q0c3J2UEk4Qmw4QzB3UW5pMThTNjJsQkpFNWM?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTlicVN3VGw3eTQ1V2xzOS0zWnc2QlhQU1lpM3ppUDVYeHB0UGxFWDB3ZDNCRDh1SHlxSHh4cjZ0bk1ZU0RzUDdSN0dELVlxWHhVRU9nSzdaeWRraDYycFF2UzRjLUFIcmlGblNYODFDU010U2tGQzdKRUZlX1BMZ2VRbXpYeEpzNy1oNjVrNmZjV3ZZQkpnWWZpTUZ0ZHVYWDUyMXpDUU0?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-14",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
+      "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
+      "publishedAt": "2026-07-14T06:30:10.000Z",
+      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vd210Z0lYcEl0RUVyU2FzZVM5WE9QVFJUNTgxMVFaTDNocFRmVmdLbnpUeFJfSWhVMEZDSUxpaG9SNjFyZ2xpNWFIVjEyT3FieHdzUjdoZmg4SEo4WnhjRlVpV2Q0c3J2UEk4Qmw4QzB3UW5pMThTNjJsQkpFNWM?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -2487,6 +2515,30 @@
       "region": "india"
     },
     {
+      "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - ddindia.co.in",
+      "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
+      "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
+      "publishedAt": "2026-06-05T07:00:00.000Z",
+      "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-india-what-is-a-carbon-credit-a-one-tonne-co2e-2026-06-02",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2565,7 +2617,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
+      "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - prnewswire.co.uk",
       "excerpt": "Strong CAGR of 24.0% reflects premium shift in voluntary carbon markets toward durable, high-integrity removal credits NEWARK, Del. , March 25, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global blue carbon market, valued at USD 1.0 billion in 2025, is projected to reach USD 1.2 billion in 2026 and expand significantly to USD 10.3 billion by 2036, growing at a CAGR of 24.0% during the forecast period, according to analysis by Future Market Insights. The Blue Carbon market is expected to generate an absolute…",
       "url": "https://www.prnewswire.co.uk/news-releases/global-blue-carbon-market-to-reach-usd-10-3-billion-by-2036--with-strong-growth-across-asia-pacific-india-and-the-us-led-by-verra-gold-standard-and-conservation-international-302724782.html",
       "publishedAt": "2026-03-25T07:00:00.000Z",
@@ -2578,30 +2630,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxORU40NERySjF1ZVh1cGlYZzdHa09sblVKYlNHRHktbUw0UUxhbzliTWc5SFNSb3BWRnBRMUsxa2lEa01BR055Qk1LVWtrejMzQm9xeUhvcUkxSUJpOWwxNkxsRDdoaDBwUmhGS0pDNnI4d0Eya2RZc2lhcHNCYm5HZXdjWDRlRjhRODRhaG5Iazdya2FtYjRyb3JtWUVaWFp5bWtZVy1vUWo4VnZMOFhZOS15NHNhVExMZUpvaDBOWUhELVdXRTJPN2hyTGVaVUhwWDFqZ01FWnRyNUJyV1J5ZUlRdHFwbjl2bHVKZ25LWmJSVjRlaTFuNnFXZkNic2Ztd3JfRTRPb1lJX2ZqZW1lVlJTMHZGSm5taU50NlEtcXlpcHBpeFBoT0x4dlRXV2l6azZhWVY3UXRMczBRekZpNXA5RjNkWjR6MzBvQ0RRc0lidw?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-india-launches-centralized-carbon-market-2026-03-23",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
-      "excerpt": "• India launches a national carbon market portal to operationalize its Carbon Credit Trading Scheme across sectors • Nearly 490 entities across seven energy intensive industries now face compliance targets under the framework • Government positions carbon markets as a major channel to unlock capital, drive innovation, and support NDC delivery New Delhi hosted a decisive step in India’s climate and financial architecture as the government inaugurated Prakriti 2026 and launched the Indian Carbon Market Portal, a centralized platform designed to…",
-      "url": "https://esgnews.com/india-launches-carbon-market-portal-to-scale-national-climate-finance/",
-      "publishedAt": "2026-03-23T07:00:00.000Z",
-      "image": "https://esgnews.com/wp-content/uploads/2026/03/India-Launches-Carbon-Market-Portal-to-Scale-National-Climate-Finance.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2708,8 +2736,8 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s Green Hydrogen Ambition - millenniumpost.in",
-      "excerpt": "India’s Green Hydrogen Ambition millenniumpost.in",
+      "title": "India’s Green Hydrogen Ambition - MillenniumPost",
+      "excerpt": "India’s Green Hydrogen Ambition MillenniumPost",
       "url": "https://www.millenniumpost.in/opinion/indias-green-hydrogen-ambition-645091",
       "publishedAt": "2026-01-21T08:00:00.000Z",
       "image": null,
@@ -2749,30 +2777,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-how-ccts-is-accelerating-india-inc-s-rac-2026-01-08",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "How CCTS is accelerating India Inc.’s race to decarbonize - EY",
-      "excerpt": "Insights AI CFO CEO EY Transformation Services AI Agentic AI AI Ready Data ey.ai The Reimagination Engine Physical AI Responsible AI Assurance Services Climate Change and Sustainability Services Financial Accounting and Advisory Services Forensic and Integrity Services Consulting Cybersecurity Digital Transformation People and Workforce Risk Consulting Services Supply Chain Management and Operations Technology Transformation Global Capability Centers Capability Center-as-a-Service (CaaS) EY GCC Exchange: Video Series EY GCC Leadership Dialogues The FS…",
-      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize",
-      "publishedAt": "2026-01-08T08:00:00.000Z",
-      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-ccts-banner.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFpleHAtN1I5eHA0T1R1czlGa0NDVVIxSlNqbWpCUTFGd25MTEtmdGhqT0FBa2Q2X2tRZGFzNUdsSDBRMzdwSGFmNl9TSFd3dWI0ZHJENVRielZkYU4zaUVtSGpxWkZCZzQ3MDFwT2Y0TWhxNDNqSVgxOEE5VnBhcmhyV3h6cWRXTTJNMTJheFNjUkZWOWNkWDE4azdyZEhwTnliandnN3F4ZzAtQVU5TmpNYTM2T1VyeXNJM1ZEUzdnSTNjbFNScg?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2780,10 +2784,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": null,
+      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2791,7 +2795,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -2873,10 +2878,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "Steel decarbonisation in India - Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "excerpt": "Steel decarbonisation in India Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  Executive Summary  About the…",
       "url": "https://ieefa.org/resources/steel-decarbonisation-india",
       "publishedAt": "2023-09-14T07:00:00.000Z",
-      "image": null,
+      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2023-09/hero-graphic-jmksteel2%20%283%29.jpg?itok=lTXPD-tj",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2884,7 +2889,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tTUtPWEs1YmtXZ21IaGVPZnR1ZmliVVdoLVFUUndZbDlQblFxMEItT0w0ZWhyb2c5b1JwcXppOC1DNUszRXNsSUUwOUl1TlBnUWI0Qk5Vem1IRWNWMk5CY2dfV0RkZw?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tTUtPWEs1YmtXZ21IaGVPZnR1ZmliVVdoLVFUUndZbDlQblFxMEItT0w0ZWhyb2c5b1JwcXppOC1DNUszRXNsSUUwOUl1TlBnUWI0Qk5Vem1IRWNWMk5CY2dfV0RkZw?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     }
