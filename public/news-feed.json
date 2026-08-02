@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-08-02T04:20:18.324Z",
+  "fetchedAt": "2026-08-02T09:12:29.787Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 17,
     "world": 45,
     "withImages": 57,
-    "avgExcerptLength": 447,
+    "avgExcerptLength": 445,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -230,7 +230,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - ddindia.co.in",
+        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
         "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
         "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
         "publishedAt": "2026-06-05T07:00:00.000Z",
@@ -373,8 +373,8 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s Green Hydrogen Ambition - MillenniumPost",
-        "excerpt": "India’s Green Hydrogen Ambition MillenniumPost",
+        "title": "India’s Green Hydrogen Ambition - millenniumpost.in",
+        "excerpt": "India’s Green Hydrogen Ambition millenniumpost.in",
         "url": "https://www.millenniumpost.in/opinion/indias-green-hydrogen-ambition-645091",
         "publishedAt": "2026-01-21T08:00:00.000Z",
         "image": null,
@@ -464,6 +464,28 @@
     ],
     "world": [
       {
+        "id": "esg-today-esg-today-week-in-review-2026-08-02",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "ESG Today: Week in Review",
+        "excerpt": "This week in ESG news: GHG Protocol, ISO to launch unified carbon accounting standards; ECB to adjust value of corporate loans as collateral for climate risk; NTAM loses $160 million mandate to Amundi over exit from climate groups; EFRAG releases proposed CSRD sustainability reporting standards for non-EU companies; Nordea launches new sustainable equity funds; Deutsche Bank reports strongest sustainable finance quarter in over 4 years; Singapore releases proposed ISSB-based sustainability reporting standards; companies oppose tougher Scope 2 reporting…",
+        "url": "https://www.esgtoday.com/esg-today-week-in-review-272/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-272",
+        "publishedAt": "2026-08-02T08:03:23.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Wind-Austria.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG News",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-dive-most-us-companies-lack-mature-ai-governa-2026-07-31",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -475,28 +497,6 @@
         "url": "https://www.esgdive.com/news/companies-lack-mature-ai-governance-schellman/826723/",
         "publishedAt": "2026-07-31T16:00:00.000Z",
         "image": "https://imgproxy.divecdn.com/LO1y3bpZ_eAmGNQLzby8FIyIAExYtoNyDCigyeRQCZ0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzU3NTI0OTM4X3VjZkphMU8uanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-sustainability-teams-narrowing-focus-pri-2026-07-31",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Sustainability teams narrowing focus, prioritizing compliance in 2026: report",
-        "excerpt": "Compliance and reporting requirements have emerged as a top driver for corporate sustainability teams as ESG enters a phase of fewer, clearer priorities, according to a new survey from GlobeScan and BSR.",
-        "url": "https://www.esgdive.com/news/sustainability-teams-narrowing-focus-prioritizing-compliance-in-2026-globescan-bsr/826731/",
-        "publishedAt": "2026-07-31T15:42:05.000Z",
-        "image": "https://imgproxy.divecdn.com/uUgyhFbWMkfmwVUYCYUghryNWcLsa95yQjgiEnDPEeI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTU5NDY0NjIuanBn.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -794,28 +794,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-sustainability-s-next-challenge-isn-t-re-2026-07-30",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Sustainability s Next Challenge Isn t Reporting It s Building Better Data",
-        "excerpt": "There is a pattern that shows up whenever an industry experiences a wave of new regulation. The first response is usually predictable: organizations focus on compliance. New reporting requirements appear, teams are assembled, consultants are hired, spreadsheets multiply, and everyone works hard to demonstrate that they re meeting the latest obligations. It s a rational response. Regulators expect disclosures, investors want transparency, and companies need to show progress. But over time, a different question starts to emerge: are we spending more…",
-        "url": "https://www.esgtoday.com/sustainabilitys-next-challenge-isnt-reporting-its-building-better-data/?utm_source=rss utm_medium=rss utm_campaign=sustainabilitys-next-challenge-isnt-reporting-its-building-better-data",
-        "publishedAt": "2026-07-30T09:39:52.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Open-Group-Hietala.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-july-2026-newsletter-2026-07-29",
         "source": "verra",
         "sourceName": "Verra",
@@ -1080,6 +1058,28 @@
         "region": "world"
       },
       {
+        "id": "esg-dive-mondel-z-shows-uneven-gains-on-2025-sust-2026-07-27",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Mondelēz shows uneven gains on 2025 sustainable sourcing goals",
+        "excerpt": "The Oreo and Ritz maker reported 100% certified sourcing for palm oil and cocoa.",
+        "url": "https://www.esgdive.com/news/mondelez-shows-uneven-gains-on-2025-sustainable-sourcing-goals/826172/",
+        "publishedAt": "2026-07-27T15:50:00.000Z",
+        "image": "https://imgproxy.divecdn.com/gmiMKVcqqjonmP2U4pP9ZZKjcIAPKEU0TquKavDJbdM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySzRLWTVNLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
         "id": "verra-projects-open-for-public-comment-july-27-2026-07-27",
         "source": "verra",
         "sourceName": "Verra",
@@ -1315,7 +1315,7 @@
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
+        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
         "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
         "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
         "publishedAt": "2026-06-25T17:05:08.000Z",
@@ -1328,30 +1328,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdElNb1VIWGJmUlRQdS1vVUNqUlJHc0tMRWtTdW9ULU0tOG1BUmlyeThVSXNRYkVIZnpyUXBVWXdYTmJic2V0R3hMVXNvN3lNTFA5b3JRNUltMXlKcGladFlFNnZmUHk2?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "How to navigate all those certifications in the voluntary carbon market - Trellis Group (formerly GreenBiz)",
-        "excerpt": "An unregulated field has become a crowded one. Read More Buyers in the voluntary carbon market often find it challenging to differentiate between higher- and lower-quality credits. One cause might be the range of organizations issuing carbon credits: According to a count released this week, at least 66 entities are currently doing so. The list includes well-established players that helped build the market, including Verra and Gold Standard, alongside notable new entries, such as Puro and Isometric, as well as a long tail of smaller and lesser-known…",
-        "url": "https://trellis.net/article/voluntary-carbon-market-certifications/",
-        "publishedAt": "2026-04-20T07:00:00.000Z",
-        "image": "https://trellis.net/wp-content/uploads/2026/04/shutterstock_2679203935.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wZk82WFJ2V1Z6UDd1aEM5YXhGdkpGTmhOc1dnMGhmV2lsTVJ4QTdRbU9GN0pkVlRsXzNZdjU4MVFhVDRxbEpZWEFjekY3QnM3XzBxWDhhRWlLMmZvcGFyYjZTWHBSWk1KMkttSUxCRmdfdi1IWnc?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -1451,14 +1427,38 @@
         "region": "world"
       },
       {
+        "id": "google-carbon-carbon-market-updates-indonesia-verra-ag-2025-10-16",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
+        "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
+        "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
+        "publishedAt": "2025-10-16T07:00:00.000Z",
+        "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
-        "title": "Carbon markets are incomplete without nuclear - Utility Dive",
-        "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
+        "title": "Carbon markets are incomplete without nuclear - utilitydive.com",
+        "excerpt": "Carbon markets are incomplete without nuclear utilitydive.com",
         "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
         "publishedAt": "2025-09-23T07:00:00.000Z",
         "image": null,
@@ -1477,6 +1477,28 @@
   },
   "articles": [
     {
+      "id": "esg-today-esg-today-week-in-review-2026-08-02",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "ESG Today: Week in Review",
+      "excerpt": "This week in ESG news: GHG Protocol, ISO to launch unified carbon accounting standards; ECB to adjust value of corporate loans as collateral for climate risk; NTAM loses $160 million mandate to Amundi over exit from climate groups; EFRAG releases proposed CSRD sustainability reporting standards for non-EU companies; Nordea launches new sustainable equity funds; Deutsche Bank reports strongest sustainable finance quarter in over 4 years; Singapore releases proposed ISSB-based sustainability reporting standards; companies oppose tougher Scope 2 reporting…",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-272/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-272",
+      "publishedAt": "2026-08-02T08:03:23.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Wind-Austria.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG News",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-most-us-companies-lack-mature-ai-governa-2026-07-31",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1488,28 +1510,6 @@
       "url": "https://www.esgdive.com/news/companies-lack-mature-ai-governance-schellman/826723/",
       "publishedAt": "2026-07-31T16:00:00.000Z",
       "image": "https://imgproxy.divecdn.com/LO1y3bpZ_eAmGNQLzby8FIyIAExYtoNyDCigyeRQCZ0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzU3NTI0OTM4X3VjZkphMU8uanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-sustainability-teams-narrowing-focus-pri-2026-07-31",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Sustainability teams narrowing focus, prioritizing compliance in 2026: report",
-      "excerpt": "Compliance and reporting requirements have emerged as a top driver for corporate sustainability teams as ESG enters a phase of fewer, clearer priorities, according to a new survey from GlobeScan and BSR.",
-      "url": "https://www.esgdive.com/news/sustainability-teams-narrowing-focus-prioritizing-compliance-in-2026-globescan-bsr/826731/",
-      "publishedAt": "2026-07-31T15:42:05.000Z",
-      "image": "https://imgproxy.divecdn.com/uUgyhFbWMkfmwVUYCYUghryNWcLsa95yQjgiEnDPEeI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTU5NDY0NjIuanBn.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -1802,28 +1802,6 @@
       "status": null,
       "meta": {
         "category": "Sustainable Finance",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-sustainability-s-next-challenge-isn-t-re-2026-07-30",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Sustainability s Next Challenge Isn t Reporting It s Building Better Data",
-      "excerpt": "There is a pattern that shows up whenever an industry experiences a wave of new regulation. The first response is usually predictable: organizations focus on compliance. New reporting requirements appear, teams are assembled, consultants are hired, spreadsheets multiply, and everyone works hard to demonstrate that they re meeting the latest obligations. It s a rational response. Regulators expect disclosures, investors want transparency, and companies need to show progress. But over time, a different question starts to emerge: are we spending more…",
-      "url": "https://www.esgtoday.com/sustainabilitys-next-challenge-isnt-reporting-its-building-better-data/?utm_source=rss utm_medium=rss utm_campaign=sustainabilitys-next-challenge-isnt-reporting-its-building-better-data",
-      "publishedAt": "2026-07-30T09:39:52.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/07/Open-Group-Hietala.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
         "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
@@ -2130,6 +2108,28 @@
       "url": "https://www.esgdive.com/news/google-ford-others-launch-skilled-trades-workforce-initiative/826253/",
       "publishedAt": "2026-07-27T16:39:00.000Z",
       "image": "https://imgproxy.divecdn.com/g_0n-t04VTsmbClD_EFPRVxhPOy_bEfS2dQ4DZbt_qU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc1MjMxOTY4LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-mondel-z-shows-uneven-gains-on-2025-sust-2026-07-27",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Mondelēz shows uneven gains on 2025 sustainable sourcing goals",
+      "excerpt": "The Oreo and Ritz maker reported 100% certified sourcing for palm oil and cocoa.",
+      "url": "https://www.esgdive.com/news/mondelez-shows-uneven-gains-on-2025-sustainable-sourcing-goals/826172/",
+      "publishedAt": "2026-07-27T15:50:00.000Z",
+      "image": "https://imgproxy.divecdn.com/gmiMKVcqqjonmP2U4pP9ZZKjcIAPKEU0TquKavDJbdM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySzRLWTVNLmpwZw==.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2448,7 +2448,7 @@
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
+      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
       "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
       "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
       "publishedAt": "2026-06-25T17:05:08.000Z",
@@ -2520,7 +2520,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - ddindia.co.in",
+      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
       "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
       "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
       "publishedAt": "2026-06-05T07:00:00.000Z",
@@ -2560,30 +2560,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "How to navigate all those certifications in the voluntary carbon market - Trellis Group (formerly GreenBiz)",
-      "excerpt": "An unregulated field has become a crowded one. Read More Buyers in the voluntary carbon market often find it challenging to differentiate between higher- and lower-quality credits. One cause might be the range of organizations issuing carbon credits: According to a count released this week, at least 66 entities are currently doing so. The list includes well-established players that helped build the market, including Verra and Gold Standard, alongside notable new entries, such as Puro and Isometric, as well as a long tail of smaller and lesser-known…",
-      "url": "https://trellis.net/article/voluntary-carbon-market-certifications/",
-      "publishedAt": "2026-04-20T07:00:00.000Z",
-      "image": "https://trellis.net/wp-content/uploads/2026/04/shutterstock_2679203935.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wZk82WFJ2V1Z6UDd1aEM5YXhGdkpGTmhOc1dnMGhmV2lsTVJ4QTdRbU9GN0pkVlRsXzNZdjU4MVFhVDRxbEpZWEFjekY3QnM3XzBxWDhhRWlLMmZvcGFyYjZTWHBSWk1KMkttSUxCRmdfdi1IWnc?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
     },
     {
       "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
@@ -2735,8 +2711,8 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s Green Hydrogen Ambition - MillenniumPost",
-      "excerpt": "India’s Green Hydrogen Ambition MillenniumPost",
+      "title": "India’s Green Hydrogen Ambition - millenniumpost.in",
+      "excerpt": "India’s Green Hydrogen Ambition millenniumpost.in",
       "url": "https://www.millenniumpost.in/opinion/indias-green-hydrogen-ambition-645091",
       "publishedAt": "2026-01-21T08:00:00.000Z",
       "image": null,
@@ -2822,14 +2798,38 @@
       "region": "world"
     },
     {
+      "id": "google-carbon-carbon-market-updates-indonesia-verra-ag-2025-10-16",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
+      "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
+      "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
+      "publishedAt": "2025-10-16T07:00:00.000Z",
+      "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
       "type": "esg",
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
-      "title": "Carbon markets are incomplete without nuclear - Utility Dive",
-      "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
+      "title": "Carbon markets are incomplete without nuclear - utilitydive.com",
+      "excerpt": "Carbon markets are incomplete without nuclear utilitydive.com",
       "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
       "publishedAt": "2025-09-23T07:00:00.000Z",
       "image": null,
