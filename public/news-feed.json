@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-08-04T15:22:10.683Z",
+  "fetchedAt": "2026-08-04T20:21:33.332Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,7 +47,7 @@
     "total": 62,
     "india": 18,
     "world": 44,
-    "withImages": 58,
+    "withImages": 57,
     "avgExcerptLength": 463,
     "verra": 10,
     "registry": 0,
@@ -84,7 +84,7 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
+        "title": "India’s green hydrogen push gathers pace - bioenergytimes.com",
         "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
         "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
         "publishedAt": "2026-07-29T10:17:58.000Z",
@@ -222,13 +222,13 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-energypolicy-columbia-edu-2026-06-17",
+        "id": "google-india-india-columbia-university-2026-06-17",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India - energypolicy.columbia.edu",
+        "title": "India - Columbia University",
         "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
         "url": "https://www.energypolicy.columbia.edu/publications/india/",
         "publishedAt": "2026-06-17T07:00:00.000Z",
@@ -443,7 +443,7 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s green hydrogen policy wrap 2025 - powerpeakdigest.com",
+        "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
         "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
@@ -486,6 +486,72 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-jpmorgan-to-deploy-750b-for-affordable-h-2026-08-04",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "JPMorgan to deploy $750B for affordable housing by 2035",
+        "excerpt": "The bank will invest the capital through its American Dream Initiative, an economic mobility program launched earlier this year that also aims to boost housing access.",
+        "url": "https://www.esgdive.com/news/jpmorgan-to-deploy-750b-for-affordable-housing-by-2035-american-dream-initiative/826966/",
+        "publishedAt": "2026-08-04T16:47:00.000Z",
+        "image": "https://imgproxy.divecdn.com/NkEn8f-ErNPTTJ_yRjhE9wfqqglE5wwArRfn2DxW3ag/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDkzNTM0OTY2LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-dominion-offshore-wind-project-cost-rise-2026-08-04",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Dominion offshore wind project cost rises nearly $300M",
+        "excerpt": "The increase is due to revised network upgrade costs assigned by the PJM Interconnection, tariffs imposed by the Trump administration in April and updated turbine installation projections, executives said.",
+        "url": "https://www.esgdive.com/news/dominion-offshore-wind-project-cost-rises-by-300m/826953/",
+        "publishedAt": "2026-08-04T16:07:45.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-factcheck-how-nuclear-gas-wind-and-solar-2026-08-04",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Factcheck: How nuclear, gas, wind and solar power are affected during heatwaves",
+        "excerpt": "Share Heatwaves are becoming more likely and more intense due to climate change, impacting sources of power generation around the world as they work to meet increased demand. When temperatures soared past 40C in parts of Europe in June and July 2026, nuclear reactors shuttered, gas plants efficiency fell, wind speeds dropped and electricity networks sagged. Yet, while all types of electricity generation are affected variously by extreme heat, some commentators are quick to point the finger at “ intermittent ” wind and solar , while downplaying the…",
+        "url": "https://www.carbonbrief.org/factcheck-how-nuclear-gas-wind-and-solar-power-are-affected-during-heatwaves",
+        "publishedAt": "2026-08-04T15:39:06.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/08/Screenshot-2026-08-04-at-4.01.46-PM.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-sonnedix-secures-730-million-to-develop--2026-08-04",
         "source": "esg-today",
@@ -1016,28 +1082,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-gap-meets-2025-sustainable-fabric-sourci-2026-07-29",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Gap meets 2025 sustainable fabric sourcing goals, emissions cuts uneven",
-        "excerpt": "The retailer procured 100% of its cotton from sustainable sources in fiscal 2025 but certain emissions increased from the prior year, per its annual environmental report.",
-        "url": "https://www.esgdive.com/news/gap-meets-2025-sustainable-fabric-sourcing-goals-emissions-cuts-uneven/826362/",
-        "publishedAt": "2026-07-29T15:00:00.000Z",
-        "image": "https://imgproxy.divecdn.com/Uey3YkXp9lltacIVhifK5n62ruMZlSosq7ibpUW-9bU/g:nowe:0:88/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0OTc1ODk0LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-q-a-what-does-china-s-15th-five-year-pla-2026-07-29",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1060,28 +1104,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-ai-governance-growing-in-importance-for--2026-07-28",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "AI governance growing in importance for investors: Diligent Market Intelligence",
-        "excerpt": "Governance around AI is probably going to be the most important thing in investor relations over the next two years, Diligent s editor-in-chief told ESG Dive.",
-        "url": "https://www.esgdive.com/news/ai-governance-growing-in-importance-for-investors-diligent-market-intellig/826383/",
-        "publishedAt": "2026-07-28T18:20:00.000Z",
-        "image": "https://imgproxy.divecdn.com/2iHhQ26bCHtDaZo8-V-o_3fr7itkSPb-PFGlrekGlJg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00ODc3MDYwMjAuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-analysis-wind-and-solar-power-overtake-f-2026-07-28",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1093,28 +1115,6 @@
         "url": "https://www.carbonbrief.org/analysis-wind-and-solar-power-overtake-fossil-fuels-in-germany-for-first-time-ever",
         "publishedAt": "2026-07-28T11:49:20.000Z",
         "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/wind-and-solar-gener-1-1024x665.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-analysis-84-of-nations-miss-deadline-to--2026-07-28",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Analysis: 84% of nations miss deadline to identify ‘nature-harming’ subsidies by 2025",
-        "excerpt": "Share Most countries failed to meet a 2025 target to identify all of their subsidies that could be “harmful” to biodiversity, according to Carbon Brief analysis. The findings also reveal that 32 countries spend an estimated $270bn on biodiversity-harming subsidies and other incentives each year. This is the “tip of the iceberg”, one expert notes, with “ trillions ” spent globally. In 2022 , almost every country in the world agreed on a set of “goals” and “targets” aiming to halt and reverse biodiversity loss by 2030. One of these targets asked countries…",
-        "url": "https://www.carbonbrief.org/analysis-84-of-nations-miss-deadline-to-identify-nature-harming-subsidies-by-2025",
-        "publishedAt": "2026-07-28T11:41:55.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/21-countries-have-id-1-scaled.png",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1364,7 +1364,7 @@
         "type": "esg",
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
-        "title": "How to navigate all those certifications in the voluntary carbon market - Trellis Group (formerly GreenBiz)",
+        "title": "How to navigate all those certifications in the voluntary carbon market - trellis.net",
         "excerpt": "An unregulated field has become a crowded one. Read More Buyers in the voluntary carbon market often find it challenging to differentiate between higher- and lower-quality credits. One cause might be the range of organizations issuing carbon credits: According to a count released this week, at least 66 entities are currently doing so. The list includes well-established players that helped build the market, including Verra and Gold Standard, alongside notable new entries, such as Puro and Isometric, as well as a long tail of smaller and lesser-known…",
         "url": "https://trellis.net/article/voluntary-carbon-market-certifications/",
         "publishedAt": "2026-04-20T07:00:00.000Z",
@@ -1435,7 +1435,7 @@
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
+        "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - fastmarkets.com",
         "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
         "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
         "publishedAt": "2025-10-16T07:00:00.000Z",
@@ -1478,6 +1478,72 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-jpmorgan-to-deploy-750b-for-affordable-h-2026-08-04",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "JPMorgan to deploy $750B for affordable housing by 2035",
+      "excerpt": "The bank will invest the capital through its American Dream Initiative, an economic mobility program launched earlier this year that also aims to boost housing access.",
+      "url": "https://www.esgdive.com/news/jpmorgan-to-deploy-750b-for-affordable-housing-by-2035-american-dream-initiative/826966/",
+      "publishedAt": "2026-08-04T16:47:00.000Z",
+      "image": "https://imgproxy.divecdn.com/NkEn8f-ErNPTTJ_yRjhE9wfqqglE5wwArRfn2DxW3ag/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDkzNTM0OTY2LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-dominion-offshore-wind-project-cost-rise-2026-08-04",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Dominion offshore wind project cost rises nearly $300M",
+      "excerpt": "The increase is due to revised network upgrade costs assigned by the PJM Interconnection, tariffs imposed by the Trump administration in April and updated turbine installation projections, executives said.",
+      "url": "https://www.esgdive.com/news/dominion-offshore-wind-project-cost-rises-by-300m/826953/",
+      "publishedAt": "2026-08-04T16:07:45.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-factcheck-how-nuclear-gas-wind-and-solar-2026-08-04",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Factcheck: How nuclear, gas, wind and solar power are affected during heatwaves",
+      "excerpt": "Share Heatwaves are becoming more likely and more intense due to climate change, impacting sources of power generation around the world as they work to meet increased demand. When temperatures soared past 40C in parts of Europe in June and July 2026, nuclear reactors shuttered, gas plants efficiency fell, wind speeds dropped and electricity networks sagged. Yet, while all types of electricity generation are affected variously by extreme heat, some commentators are quick to point the finger at “ intermittent ” wind and solar , while downplaying the…",
+      "url": "https://www.carbonbrief.org/factcheck-how-nuclear-gas-wind-and-solar-power-are-affected-during-heatwaves",
+      "publishedAt": "2026-08-04T15:39:06.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/08/Screenshot-2026-08-04-at-4.01.46-PM.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-sonnedix-secures-730-million-to-develop--2026-08-04",
       "source": "esg-today",
@@ -2030,28 +2096,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-gap-meets-2025-sustainable-fabric-sourci-2026-07-29",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Gap meets 2025 sustainable fabric sourcing goals, emissions cuts uneven",
-      "excerpt": "The retailer procured 100% of its cotton from sustainable sources in fiscal 2025 but certain emissions increased from the prior year, per its annual environmental report.",
-      "url": "https://www.esgdive.com/news/gap-meets-2025-sustainable-fabric-sourcing-goals-emissions-cuts-uneven/826362/",
-      "publishedAt": "2026-07-29T15:00:00.000Z",
-      "image": "https://imgproxy.divecdn.com/Uey3YkXp9lltacIVhifK5n62ruMZlSosq7ibpUW-9bU/g:nowe:0:88/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0OTc1ODk0LmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-q-a-what-does-china-s-15th-five-year-pla-2026-07-29",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2080,7 +2124,7 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
+      "title": "India’s green hydrogen push gathers pace - bioenergytimes.com",
       "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
       "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
       "publishedAt": "2026-07-29T10:17:58.000Z",
@@ -2122,28 +2166,6 @@
       "region": "india"
     },
     {
-      "id": "esg-dive-ai-governance-growing-in-importance-for--2026-07-28",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "AI governance growing in importance for investors: Diligent Market Intelligence",
-      "excerpt": "Governance around AI is probably going to be the most important thing in investor relations over the next two years, Diligent s editor-in-chief told ESG Dive.",
-      "url": "https://www.esgdive.com/news/ai-governance-growing-in-importance-for-investors-diligent-market-intellig/826383/",
-      "publishedAt": "2026-07-28T18:20:00.000Z",
-      "image": "https://imgproxy.divecdn.com/2iHhQ26bCHtDaZo8-V-o_3fr7itkSPb-PFGlrekGlJg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00ODc3MDYwMjAuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-analysis-wind-and-solar-power-overtake-f-2026-07-28",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2155,28 +2177,6 @@
       "url": "https://www.carbonbrief.org/analysis-wind-and-solar-power-overtake-fossil-fuels-in-germany-for-first-time-ever",
       "publishedAt": "2026-07-28T11:49:20.000Z",
       "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/wind-and-solar-gener-1-1024x665.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-analysis-84-of-nations-miss-deadline-to--2026-07-28",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Analysis: 84% of nations miss deadline to identify ‘nature-harming’ subsidies by 2025",
-      "excerpt": "Share Most countries failed to meet a 2025 target to identify all of their subsidies that could be “harmful” to biodiversity, according to Carbon Brief analysis. The findings also reveal that 32 countries spend an estimated $270bn on biodiversity-harming subsidies and other incentives each year. This is the “tip of the iceberg”, one expert notes, with “ trillions ” spent globally. In 2022 , almost every country in the world agreed on a set of “goals” and “targets” aiming to halt and reverse biodiversity loss by 2030. One of these targets asked countries…",
-      "url": "https://www.carbonbrief.org/analysis-84-of-nations-miss-deadline-to-identify-nature-harming-subsidies-by-2025",
-      "publishedAt": "2026-07-28T11:41:55.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/21-countries-have-id-1-scaled.png",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2516,13 +2516,13 @@
       "region": "india"
     },
     {
-      "id": "google-india-india-energypolicy-columbia-edu-2026-06-17",
+      "id": "google-india-india-columbia-university-2026-06-17",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India - energypolicy.columbia.edu",
+      "title": "India - Columbia University",
       "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
       "url": "https://www.energypolicy.columbia.edu/publications/india/",
       "publishedAt": "2026-06-17T07:00:00.000Z",
@@ -2618,7 +2618,7 @@
       "type": "esg",
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
-      "title": "How to navigate all those certifications in the voluntary carbon market - Trellis Group (formerly GreenBiz)",
+      "title": "How to navigate all those certifications in the voluntary carbon market - trellis.net",
       "excerpt": "An unregulated field has become a crowded one. Read More Buyers in the voluntary carbon market often find it challenging to differentiate between higher- and lower-quality credits. One cause might be the range of organizations issuing carbon credits: According to a count released this week, at least 66 entities are currently doing so. The list includes well-established players that helped build the market, including Verra and Gold Standard, alongside notable new entries, such as Puro and Isometric, as well as a long tail of smaller and lesser-known…",
       "url": "https://trellis.net/article/voluntary-carbon-market-certifications/",
       "publishedAt": "2026-04-20T07:00:00.000Z",
@@ -2785,7 +2785,7 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s green hydrogen policy wrap 2025 - powerpeakdigest.com",
+      "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
       "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
@@ -2832,7 +2832,7 @@
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
+      "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - fastmarkets.com",
       "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
       "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
       "publishedAt": "2025-10-16T07:00:00.000Z",
