@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-08-07T19:49:47.484Z",
+  "fetchedAt": "2026-08-08T02:51:52.211Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,40 +45,16 @@
   ],
   "stats": {
     "total": 62,
-    "india": 17,
-    "world": 45,
-    "withImages": 58,
-    "avgExcerptLength": 463,
+    "india": 16,
+    "world": 46,
+    "withImages": 57,
+    "avgExcerptLength": 456,
     "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
-      {
-        "id": "google-h2-a-new-era-of-green-mobility-a-milestone--2026-08-06",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
-        "excerpt": "India s hydrogen-powered train Namo Green Rail. Photo Credit: Kshitij08, Wikipedia Commons Green hydrogen is emerging as sustainable and resilience sources of energy for achieving the target of net-zero carbon emissions. India user a new phase of green energy transaction with the launch of its first hydrogen-powered train. The train, is also known as Namo Green Rail, was flagged off by Prime Minister Narendra Modi, running from Jind to Sonipat city in the northern state of Haryana. Indian Railways achieving significant milestone by adopting sustainable…",
-        "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
-        "publishedAt": "2026-08-06T17:54:56.000Z",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/08/a-51.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
       {
         "id": "esg-today-brookfield-launches-600-million-india-fo-2026-08-03",
         "source": "esg-today",
@@ -300,7 +276,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
+        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - ddindia.co.in",
         "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
         "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
         "publishedAt": "2026-06-05T07:00:00.000Z",
@@ -525,6 +501,29 @@
         "meta": {
           "category": "Companies",
           "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-h2-a-new-era-of-green-mobility-a-milestone--2026-08-06",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
+        "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
+        "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
+        "publishedAt": "2026-08-06T17:54:56.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5"
         },
         "region": "world"
       },
@@ -1406,6 +1405,30 @@
         "region": "world"
       },
       {
+        "id": "google-carbon-carbon-credit-demand-plateaued-in-2025-a-2026-02-03",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability - Fastmarkets",
+        "excerpt": "Rather than pursuing scale, buyers increasingly prioritized quality, compliance eligibility, durability and reputational survivability, reshaping carbon credit demand across registries, project types and deal structures. Retirements across Verra, Gold Standard, ACR, Climate Action Reserve (CAR), ART, Puro and Cercarbono totaled 169 million tonnes of CO2 equivalent (tCO2e) in 2025, slightly down from 174.5 million tCO2e a year earlier but broadly in line with the just under 170 million tCO2e retired annually across 2021-2023. This shift was reflected at…",
+        "url": "https://www.fastmarkets.com/insights/carbon-credit-demand-plateaued-in-2025-as-buyers-sorted-by-quality-compliance-and-durability/",
+        "publishedAt": "2026-02-03T08:00:00.000Z",
+        "image": "https://www.fastmarkets.com/tachyon/2026/02/Carbon-credit-demand-plateaued-in-2025-scaled.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1425,30 +1448,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-carbon-market-updates-indonesia-verra-ag-2025-10-16",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
-        "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
-        "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
-        "publishedAt": "2025-10-16T07:00:00.000Z",
-        "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
-          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -1552,10 +1551,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
-      "excerpt": "India s hydrogen-powered train Namo Green Rail. Photo Credit: Kshitij08, Wikipedia Commons Green hydrogen is emerging as sustainable and resilience sources of energy for achieving the target of net-zero carbon emissions. India user a new phase of green energy transaction with the launch of its first hydrogen-powered train. The train, is also known as Namo Green Rail, was flagged off by Prime Minister Narendra Modi, running from Jind to Sonipat city in the northern state of Haryana. Indian Railways achieving significant milestone by adopting sustainable…",
+      "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
       "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
       "publishedAt": "2026-08-06T17:54:56.000Z",
-      "image": "https://www.eurasiareview.com/wp-content/uploads/2026/08/a-51.jpg",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -1563,10 +1562,9 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5"
       },
-      "region": "india"
+      "region": "world"
     },
     {
       "id": "esg-dive-sustainability-data-has-become-essential-2026-08-06",
@@ -2618,7 +2616,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
+      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - ddindia.co.in",
       "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
       "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
       "publishedAt": "2026-06-05T07:00:00.000Z",
@@ -2756,6 +2754,30 @@
       "region": "world"
     },
     {
+      "id": "google-carbon-carbon-credit-demand-plateaued-in-2025-a-2026-02-03",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon credit demand plateaued in 2025 as buyers sorted by quality, compliance and durability - Fastmarkets",
+      "excerpt": "Rather than pursuing scale, buyers increasingly prioritized quality, compliance eligibility, durability and reputational survivability, reshaping carbon credit demand across registries, project types and deal structures. Retirements across Verra, Gold Standard, ACR, Climate Action Reserve (CAR), ART, Puro and Cercarbono totaled 169 million tonnes of CO2 equivalent (tCO2e) in 2025, slightly down from 174.5 million tCO2e a year earlier but broadly in line with the just under 170 million tCO2e retired annually across 2021-2023. This shift was reflected at…",
+      "url": "https://www.fastmarkets.com/insights/carbon-credit-demand-plateaued-in-2025-as-buyers-sorted-by-quality-compliance-and-durability/",
+      "publishedAt": "2026-02-03T08:00:00.000Z",
+      "image": "https://www.fastmarkets.com/tachyon/2026/02/Carbon-credit-demand-plateaued-in-2025-scaled.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazlFZk4wakRNRERXY0phVUI4Tkg0VVBkMGdRSDdDOFIzZ3hpMlhldGlWeld4bU11Q0lkQXhCdzdhcmxpcWlpakFqX2NJRGM1OUtndmZrdTRhN3FfaDBPblBNLUFxbEpCZlFxa1lJQmh0UWd5VnJicndfUGdtZWhVZFZ1d212ZUp2dnAxZUw4ZjVNZVBlRUs3cmNIYVNtRE4zYkhRMGpDbnhXcVZRTHBzZmxIWDRxb3k3OFVib1hsRnZYcnRWT09pak93?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2822,30 +2844,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-carbon-market-updates-indonesia-verra-ag-2025-10-16",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Carbon market updates: Indonesia-Verra agreement unlocks REDD+ potential amid carbon market constraints - Fastmarkets",
-      "excerpt": "The world’s leading voluntary carbon standards body, Verra has signed a mutual recognition agreement (MRA) with the Indonesian government, with the aim of expanding the country’s access to climate finance by strengthening the integrity of its carbon markets . But the MRA could potentially unlock supplies from long-paused Reducing Emissions from Deforestation and Forest Degradation (REDD+) projects, sources told Fastmarkets. The deal signed by Verra and Indonesia’s Ministry of Environment/Environment Control Agency on Friday October 3 allows projects…",
-      "url": "https://www.fastmarkets.com/insights/carbon-market-updates-indonesia-verra-agreement-unlocks-redd-potential-amid-carbon-market-constraints/",
-      "publishedAt": "2025-10-16T07:00:00.000Z",
-      "image": "https://www.fastmarkets.com/uploads/2025/05/Yellow-pine-tree-1024x576.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmZDY05ZSDA5M3RfYUtrdlFFYk51ek9XYjBYUjF5ZE9QX3R0UlVkNmo0NkVUam85bmFCbWdDSXNxTFJWai03REdPWVQyako3elpZUGVkUHVqV3Ftd0tEQWtTNTUxc2hkQUU2S0tzZUhJbnJPUzNtWExfSkpmVzh6b2ZqNjFEbEI5aFZuM1dfblppYTRHdnFGdnd3cmViV2pacDNabHJueWF3WXJacllWa1drU0RNTVkyWF92Rl9KR09hX2pEeDdFODZaSFhRUmtwdDBXUVZB?oc=5",
-        "imageSource": "publisher"
       },
       "region": "world"
     },
