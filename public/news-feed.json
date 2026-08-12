@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-08-12T08:22:04.160Z",
+  "fetchedAt": "2026-08-12T14:18:59.805Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,38 +45,16 @@
   ],
   "stats": {
     "total": 62,
-    "india": 17,
-    "world": 45,
+    "india": 16,
+    "world": 46,
     "withImages": 57,
-    "avgExcerptLength": 449,
+    "avgExcerptLength": 448,
     "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
-      {
-        "id": "esg-today-brookfield-launches-600-million-india-fo-2026-08-03",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Brookfield Launches $600 Million India-focused Renewable Energy Platform",
-        "excerpt": "Brookfield Asset Management announced the launch of Lumara Energy, a new India-based platform focused on accelerating the development and construction of renewable energy projects. The launch of the new platform comes as India continues to scale up its investments in clean energy, with the country aiming to reach 500 GW of installed renewable energy capacity by 2030. Earlier this year India approved new targets to reduce economy-wide emissions intensity by 47% and to achieve 60% of electric power capacity from non-fossil-based sources by 2035. According…",
-        "url": "https://www.esgtoday.com/brookfield-launches-600-million-india-focused-renewable-energy-platform/?utm_source=rss utm_medium=rss utm_campaign=brookfield-launches-600-million-india-focused-renewable-energy-platform",
-        "publishedAt": "2026-08-03T13:26:38.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Brookfield-Place.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "india"
-      },
       {
         "id": "google-india-india-s-carbon-market-targets-too-weak-t-2026-07-29",
         "source": "google-india",
@@ -174,30 +152,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - The Quint",
-        "excerpt": "Become a Member Dark Mode Become a Member Student Protest Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take My Report Opinion Members Only More Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy Policy…",
-        "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
-        "publishedAt": "2026-06-25T07:00:00.000Z",
-        "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-the-eu-cbam-seen-from-new-delhi-and-seen-2026-06-20",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -217,30 +171,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX2djMkg2QmxvQVVBeXZlS0N0X01DcVVOV2FCTW1aMnpKZUpZMFZmb0ViaUtpU3RDMFBxZUpucG9jeWdHUzh3QWtMVW9NMGV3QlUzQmE3M2pJMFp4N0Z4U2pLMnhweWdHVDBLX25RNEZiem9zNVJrdFVXZ0YxZGhhTUY0UWdQWVRDZlNOTGYtU3pjaVFYZTJOcQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Agriculture, Carbon Accounting and Climate Justice Debate - Frontline Magazine",
-        "excerpt": "Published : Jun 18, 2026 13:01 IST - 10 MINS READ If farmers are compensated for the climate services they already provide, they gain both the resources and the incentive to do more. In this file picture, a farmer examines his wheat crop in a field on the outskirts of Amritsar. | Photo Credit: NARINDER NANU/AFP The Intergovernmental Panel on Climate Change Sixth Assessment Report (IPCC-AR6) stresses the need for climate policies to prioritise carbon dioxide (CO₂) removal (CDR) processes. International agencies have, in parallel, increasingly recognised…",
-        "url": "https://frontline.thehindu.com/environment/climate-accounting-agriculture-carbon-sink/article71116675.ece",
-        "publishedAt": "2026-06-18T07:00:00.000Z",
-        "image": "https://fl-i.thgim.com/public/incoming/y7mxy6/article71116853.ece/alternates/LANDSCAPE_1200/indian%20farmers%20green%20house%20gas%20emission.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -294,17 +224,17 @@
         "region": "india"
       },
       {
-        "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
+        "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-        "excerpt": "Insights AI CFO CEO EY Transformation Services AI Agentic AI AI Ready Data ey.ai The Reimagination Engine Physical AI Responsible AI Assurance Services Climate Change and Sustainability Services Financial Accounting and Advisory Services Forensic and Integrity Services Consulting Cybersecurity Digital Transformation People and Workforce Risk Consulting Services Supply Chain Management and Operations Technology Transformation Global Capability Centers Capability Center-as-a-Service (CaaS) EY GCC Exchange: Video Series EY GCC Leadership Dialogues The FS…",
-        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
-        "publishedAt": "2026-04-03T07:24:04.000Z",
-        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
+        "title": "India’s Grasslands Need Climate Policy, Not Carbon Rush - Frontline Magazine",
+        "excerpt": "Published : Apr 25, 2026 18:48 IST - 12 MINS READ Grassland in Gujarat, India. Grassland restoration can increase soil organic carbon through improved grazing management, native grass recovery, and invasive species control. | Photo Credit: Getty Images/iStockPhoto India’s grasslands and rangelands deserve a central place in climate policy . But any carbon-finance pathway must rest on secure rights, pastoral participation, sound methodology, and strong public safeguards. India’s climate imagination has long been shaped by a forest-first instinct. When…",
+        "url": "https://frontline.thehindu.com/environment/india-grasslands-carbon-finance-rights-pastoralists-climate-policy/article70905160.ece",
+        "publishedAt": "2026-04-25T07:00:00.000Z",
+        "image": "https://fl-i.thgim.com/public/incoming/h4b5gr/article70905395.ece/alternates/LANDSCAPE_1200/Grasslands.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -312,7 +242,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlhkQURpdUd0Yk51RUEwNGEtc1NmWHMtV2dZY3hPREhXZGJUMWNlYXh3UHotaF9jZjlFZXp4RF95UEduSkg5VGlad3JWdmxBZU15T2tiZUE0TWtGZTFKOVRqT2lSRGE4d0VNYWNOdExNdTEzT0RwVVhOeEl2dTZob19pY283NFliVHk3b1ZXdDlkVVhKQUFvZG0xdE9la2htQUFmc3pJMDVFYWJxeVh4OGQ1NVhZSDJDZjR1bnlaek5rSzBTTGhlM9IBzwFBVV95cUxPemxKSjVSeW0zVXZsRG51eFhTVjk1S0R2VmcwRHppNVFPdU02NDRES2dhV1QwWFoybjdzQWNVbHg1dU1xbWJCdjlxemVrTXc3cUl0aFJPVXN6Sk9UeU5reEJhRFk5MFM5a2NzUFRiVzZVaDBxQmVxS0M4Ql9aSXpGc3lhNUFUaVhqMDZiYTNHUDBtTFNYTnJJdExuUEpMT0JkNDhvSmtyaGg3aTdvbktZcXpxUWFadDJrRHpCclJLX0h4S1I1NlNQUVpXWDFqR2M?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -337,6 +267,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxORU40NERySjF1ZVh1cGlYZzdHa09sblVKYlNHRHktbUw0UUxhbzliTWc5SFNSb3BWRnBRMUsxa2lEa01BR055Qk1LVWtrejMzQm9xeUhvcUkxSUJpOWwxNkxsRDdoaDBwUmhGS0pDNnI4d0Eya2RZc2lhcHNCYm5HZXdjWDRlRjhRODRhaG5Iazdya2FtYjRyb3JtWUVaWFp5bWtZVy1vUWo4VnZMOFhZOS15NHNhVExMZUpvaDBOWUhELVdXRTJPN2hyTGVaVUhwWDFqZ01FWnRyNUJyV1J5ZUlRdHFwbjl2bHVKZ25LWmJSVjRlaTFuNnFXZkNic2Ztd3JfRTRPb1lJX2ZqZW1lVlJTMHZGSm5taU50NlEtcXlpcHBpeFBoT0x4dlRXV2l6azZhWVY3UXRMczBRekZpNXA5RjNkWjR6MzBvQ0RRc0lidw?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-india-launches-centralized-carbon-market-2026-03-23",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
+        "excerpt": "• India launches a national carbon market portal to operationalize its Carbon Credit Trading Scheme across sectors • Nearly 490 entities across seven energy intensive industries now face compliance targets under the framework • Government positions carbon markets as a major channel to unlock capital, drive innovation, and support NDC delivery New Delhi hosted a decisive step in India’s climate and financial architecture as the government inaugurated Prakriti 2026 and launched the Indian Carbon Market Portal, a centralized platform designed to…",
+        "url": "https://esgnews.com/india-launches-carbon-market-portal-to-scale-national-climate-finance/",
+        "publishedAt": "2026-03-23T07:00:00.000Z",
+        "image": "https://esgnews.com/wp-content/uploads/2026/03/India-Launches-Carbon-Market-Portal-to-Scale-National-Climate-Finance.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -412,6 +366,30 @@
         "region": "india"
       },
       {
+        "id": "google-india-how-ccts-is-accelerating-india-inc-s-rac-2026-01-08",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "How CCTS is accelerating India Inc.’s race to decarbonize - EY",
+        "excerpt": "Insights AI CFO CEO EY Transformation Services AI Agentic AI AI Ready Data ey.ai The Reimagination Engine Physical AI Responsible AI Assurance Services Climate Change and Sustainability Services Financial Accounting and Advisory Services Forensic and Integrity Services Consulting Cybersecurity Digital Transformation People and Workforce Risk Consulting Services Supply Chain Management and Operations Technology Transformation Global Capability Centers Capability Center-as-a-Service (CaaS) EY GCC Exchange: Video Series EY GCC Leadership Dialogues The FS…",
+        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize",
+        "publishedAt": "2026-01-08T08:00:00.000Z",
+        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-ccts-banner.png",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFpleHAtN1I5eHA0T1R1czlGa0NDVVIxSlNqbWpCUTFGd25MTEtmdGhqT0FBa2Q2X2tRZGFzNUdsSDBRMzdwSGFmNl9TSFd3dWI0ZHJENVRielZkYU4zaUVtSGpxWkZCZzQ3MDFwT2Y0TWhxNDNqSVgxOEE5VnBhcmhyV3h6cWRXTTJNMTJheFNjUkZWOWNkWDE4azdyZEhwTnliandnN3F4ZzAtQVU5TmpNYTM2T1VyeXNJM1ZEUzdnSTNjbFNScg?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -442,7 +420,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - fuelcellsworks.com",
+        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
         "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
         "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
         "publishedAt": "2025-09-01T07:00:00.000Z",
@@ -461,6 +439,117 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-american-airlines-completes-first-u-s-co-2026-08-12",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "American Airlines Completes First U.S. Commercial Flight Powered by eSAF",
+        "excerpt": "American Airlines and low-carbon synthetic fuels provider Infinium announced the completion of the first ever commercial flight in the U.S. – from Christi Corpus to Dallas-Fort Worth – using electro-sustainable aviation fuel (eSAF), demonstrating the real-world deployment of next-generation, drop-in SAF. Founded in 2020, California-based Infinium produces synthetic fuels, or eFuels, using renewable power and waste carbon dioxide, avoiding the use of fossil fuels, or other feedstocks that compete with food used by other low carbon fuel solutions. The…",
+        "url": "https://www.esgtoday.com/american-airlines-completes-first-u-s-commercial-flight-powered-by-esaf/?utm_source=rss utm_medium=rss utm_campaign=american-airlines-completes-first-u-s-commercial-flight-powered-by-esaf",
+        "publishedAt": "2026-08-12T13:53:58.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/American-airlines3.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-pwc-pcaf-partner-to-help-banks-investors-2026-08-12",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "PWC, PCAF Partner to Help Banks, Investors Measure Report Financed Emissions",
+        "excerpt": "Professional services provider PwC and the Partnership for Carbon Accounting Financials (PCAF) announced a new partnership aimed at supporting banks and investors to measure and report financed emissions, with PwC becoming a global partner under PCAF’s Accredited Partner program. The PCAF is a global partnership of financial institutions, launched globally in 2019 with a mission to develop and implement a harmonized approach to assess and disclose the greenhouse gas (GHG) emissions associated with loans and investments. The initiative has developed…",
+        "url": "https://www.esgtoday.com/pwc-pcaf-partner-to-help-banks-investors-measure-report-financed-emissions/?utm_source=rss utm_medium=rss utm_campaign=pwc-pcaf-partner-to-help-banks-investors-measure-report-financed-emissions",
+        "publishedAt": "2026-08-12T12:54:07.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/PWC2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-novisto-launches-double-materiality-asse-2026-08-12",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Novisto Launches Double Materiality Assessment Solution",
+        "excerpt": "Sustainability reporting software provider Novisto announced the launch of Novisto Materiality, a new digital solution aimed at enabling companies to conduct double materiality assessments to meet new compliance obligations and to identify and address their most significant sustainability-related impacts, risks and opportunities. “Double materiality” is one of the hallmark new approaches introduced by the EU’s Corporate Sustainability Reporting Directive’s (CSRD) European Sustainability Reporting Standards (ESRS), requiring reporting both on the risks…",
+        "url": "https://www.esgtoday.com/novisto-launches-double-materiality-assessment-solution/?utm_source=rss utm_medium=rss utm_campaign=novisto-launches-double-materiality-assessment-solution",
+        "publishedAt": "2026-08-12T11:27:52.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Novisto-Materiality.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-new-eu-sustainable-packaging-rules-enter-2026-08-12",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "New EU Sustainable Packaging Rules Enter into Force",
+        "excerpt": "New packaging regulations in the EU are entering into application on Wednesday, kicking off a series of rules to be rolled out over the next few years The first new requirements under the EU’s revised Packaging and Packaging Waste Regulation (PPWR) are entering into application on Wednesday, kicking off a series of rules under the regulation to be rolled out over the next few years, aimed at significantly reducing packaging waste in the EU, and addressing the environmental and health impacts of packaging across its lifecycle. New rules applying…",
+        "url": "https://www.esgtoday.com/new-eu-sustainable-packaging-rules-enter-into-force/?utm_source=rss utm_medium=rss utm_campaign=new-eu-sustainable-packaging-rules-enter-into-force",
+        "publishedAt": "2026-08-12T10:29:51.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/EU-flags3.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-s-rice-cultivation-and-landfill-ga-2026-08-12",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra’s Rice Cultivation and Landfill Gas Methodologies Receive ICVCM Approval",
+        "excerpt": "WASHINGTON – Aug. 12, 2026 | Two more Verra methodologies have been approved by the Integrity Council for the Voluntary Carbon Market (ICVCM) as meeting the Core Carbon Principles (CCPs), recognizing high-integrity carbon credits from improved water and crop management in rice paddies and from landfill gas capture projects. Both methodologies address methane, a greenhouse gas that is 28 times more powerful at trapping heat in the atmosphere than CO 2 . The two methodologies are VM0051 Improved Management in Rice Production Systems, v1.1 , which credits…",
+        "url": "https://verra.org/verras-rice-cultivation-and-landfill-gas-methodologies-receive-icvcm-approval/",
+        "publishedAt": "2026-08-12T09:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2025/02/shutterstock_2336368091-rice.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-carnival-raises-accelerates-emissions-re-2026-08-11",
         "source": "esg-today",
@@ -667,8 +756,8 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
-        "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
+        "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - eurasiareview.com",
+        "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd eurasiareview.com",
         "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
         "publishedAt": "2026-08-06T17:54:56.000Z",
         "image": null,
@@ -904,28 +993,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-bain-appoints-matteo-capellini-as-global-2026-08-03",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Bain Appoints Matteo Capellini as Global Head of Sustainability Value Creation Solution",
-        "excerpt": "Global consultancy Bain & Company announced the appointment of Matteo Capellini as Global Head of its Sustainability Value Creation Solution, the firm’s practice focused on the integrations of sustainability strategies into business strategies, to transform ESG aspects from regulatory considerations or commitments into tangible value-creating assets. According to Bain, the appointment comes as sustainability is returning to the forefront of companies strategic agendas, while noting “a context where sustainability expectations are evolving at…",
-        "url": "https://www.esgtoday.com/bain-appoints-matteo-capellini-as-global-head-of-sustainability-value-creation-solution/?utm_source=rss utm_medium=rss utm_campaign=bain-appoints-matteo-capellini-as-global-head-of-sustainability-value-creation-solution",
-        "publishedAt": "2026-08-03T14:39:54.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Bain-Capellini.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-q-a-does-the-world-need-carbon-capture-a-2026-08-03",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -944,28 +1011,6 @@
         "meta": {
           "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-walmart-sets-new-sbti-approved-emissions-2026-08-03",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Walmart Sets New SBTi-Approved Emissions Reduction Target",
-        "excerpt": "Retail giant Walmart revealed that it has set a new operational emissions target, with a goal to reduce Scope 1 and 2 greenhouse gas emissions by 28% by FY2031 from a FY2025 baseline. The new target was announced in Walmart’s FY2026 ESG Report, which indicated that the company achieved a significant 7.5% reduction in Scope 1 and 2 emissions in the year, but still was not able to meet its SBTi-approved target of a 35% reduction by FY2026, on a FY2016 basis. The company said that it revisited its targets in line with SBTi’s five-year review protocol, with…",
-        "url": "https://www.esgtoday.com/walmart-sets-new-sbti-approved-emissions-reduction-target/?utm_source=rss utm_medium=rss utm_campaign=walmart-sets-new-sbti-approved-emissions-reduction-target",
-        "publishedAt": "2026-08-03T13:00:51.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Walmart.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -989,28 +1034,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-u-s-sustainable-fund-flows-turn-positive-2026-08-03",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "U.S. Sustainable Fund Flows Turn Positive for First Time Since 2022: Morningstar",
-        "excerpt": "U.S. sustainable investment fund net flows turned positive for the first time in nearly four years in the second quarter of 2026, according to a new report by investment insights and data provider Morningstar, with investors adding nearly $3 billion, and sustainable fund assets rising to a record of nearly $400 billion. The report found that the inflows in the quarter were driven by demand for electricity infrastructure and energy transition themes, and continued strong flows into passive strategies. According to the report, estimated global sustainable…",
-        "url": "https://www.esgtoday.com/u-s-sustainable-fund-flows-turn-positive-for-first-time-since-2022-morningstar/?utm_source=rss utm_medium=rss utm_campaign=u-s-sustainable-fund-flows-turn-positive-for-first-time-since-2022-morningstar",
-        "publishedAt": "2026-08-03T11:31:28.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Morningstar4.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Investors",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1309,29 +1332,6 @@
         "region": "world"
       },
       {
-        "id": "verra-projects-open-for-public-comment-july-13-2026-07-13",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Projects Open for Public Comment: July 13, 2026",
-        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-        "url": "https://verra.org/projects-open-for-public-comment-july-13-2026/",
-        "publishedAt": "2026-07-13T13:09:08.000Z",
-        "image": "https://verra.org/wp-content/uploads/2026/07/ries-bosch-wH_rvXttJo-unsplash.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-voluntary-carbon-credit-market-size-shar-2026-07-07",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1386,7 +1386,7 @@
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Verra Issues First CORSIA Label for 4.7 Million Carbon Credits - ClearBlue Markets",
+        "title": "Verra Issues First CORSIA Label for 4.7 Million Carbon Credits - clearbluemarkets.com",
         "excerpt": "Verra, one of the world's leading developers of carbon standards, has reached a significant milestone by applying the International Civil Aviation Organization’s (ICAO) Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) label to millions of voluntary carbon credits for the first time, with the majority of these credits from projects in Africa. CORSIA's implementation continues to make it one of the most relevant climate compliance mechanisms globally, as it mitigates emissions from one of the highest-emitting and hardest-to-abate…",
         "url": "https://www.clearbluemarkets.com/knowledge-base/verra-issues-first-corsia-label-for-4.7-million-carbon-credits",
         "publishedAt": "2026-02-03T08:00:00.000Z",
@@ -1476,6 +1476,117 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-american-airlines-completes-first-u-s-co-2026-08-12",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "American Airlines Completes First U.S. Commercial Flight Powered by eSAF",
+      "excerpt": "American Airlines and low-carbon synthetic fuels provider Infinium announced the completion of the first ever commercial flight in the U.S. – from Christi Corpus to Dallas-Fort Worth – using electro-sustainable aviation fuel (eSAF), demonstrating the real-world deployment of next-generation, drop-in SAF. Founded in 2020, California-based Infinium produces synthetic fuels, or eFuels, using renewable power and waste carbon dioxide, avoiding the use of fossil fuels, or other feedstocks that compete with food used by other low carbon fuel solutions. The…",
+      "url": "https://www.esgtoday.com/american-airlines-completes-first-u-s-commercial-flight-powered-by-esaf/?utm_source=rss utm_medium=rss utm_campaign=american-airlines-completes-first-u-s-commercial-flight-powered-by-esaf",
+      "publishedAt": "2026-08-12T13:53:58.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/American-airlines3.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-pwc-pcaf-partner-to-help-banks-investors-2026-08-12",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "PWC, PCAF Partner to Help Banks, Investors Measure Report Financed Emissions",
+      "excerpt": "Professional services provider PwC and the Partnership for Carbon Accounting Financials (PCAF) announced a new partnership aimed at supporting banks and investors to measure and report financed emissions, with PwC becoming a global partner under PCAF’s Accredited Partner program. The PCAF is a global partnership of financial institutions, launched globally in 2019 with a mission to develop and implement a harmonized approach to assess and disclose the greenhouse gas (GHG) emissions associated with loans and investments. The initiative has developed…",
+      "url": "https://www.esgtoday.com/pwc-pcaf-partner-to-help-banks-investors-measure-report-financed-emissions/?utm_source=rss utm_medium=rss utm_campaign=pwc-pcaf-partner-to-help-banks-investors-measure-report-financed-emissions",
+      "publishedAt": "2026-08-12T12:54:07.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/PWC2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-novisto-launches-double-materiality-asse-2026-08-12",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Novisto Launches Double Materiality Assessment Solution",
+      "excerpt": "Sustainability reporting software provider Novisto announced the launch of Novisto Materiality, a new digital solution aimed at enabling companies to conduct double materiality assessments to meet new compliance obligations and to identify and address their most significant sustainability-related impacts, risks and opportunities. “Double materiality” is one of the hallmark new approaches introduced by the EU’s Corporate Sustainability Reporting Directive’s (CSRD) European Sustainability Reporting Standards (ESRS), requiring reporting both on the risks…",
+      "url": "https://www.esgtoday.com/novisto-launches-double-materiality-assessment-solution/?utm_source=rss utm_medium=rss utm_campaign=novisto-launches-double-materiality-assessment-solution",
+      "publishedAt": "2026-08-12T11:27:52.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Novisto-Materiality.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-new-eu-sustainable-packaging-rules-enter-2026-08-12",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "New EU Sustainable Packaging Rules Enter into Force",
+      "excerpt": "New packaging regulations in the EU are entering into application on Wednesday, kicking off a series of rules to be rolled out over the next few years The first new requirements under the EU’s revised Packaging and Packaging Waste Regulation (PPWR) are entering into application on Wednesday, kicking off a series of rules under the regulation to be rolled out over the next few years, aimed at significantly reducing packaging waste in the EU, and addressing the environmental and health impacts of packaging across its lifecycle. New rules applying…",
+      "url": "https://www.esgtoday.com/new-eu-sustainable-packaging-rules-enter-into-force/?utm_source=rss utm_medium=rss utm_campaign=new-eu-sustainable-packaging-rules-enter-into-force",
+      "publishedAt": "2026-08-12T10:29:51.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/EU-flags3.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-verra-s-rice-cultivation-and-landfill-ga-2026-08-12",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra’s Rice Cultivation and Landfill Gas Methodologies Receive ICVCM Approval",
+      "excerpt": "WASHINGTON – Aug. 12, 2026 | Two more Verra methodologies have been approved by the Integrity Council for the Voluntary Carbon Market (ICVCM) as meeting the Core Carbon Principles (CCPs), recognizing high-integrity carbon credits from improved water and crop management in rice paddies and from landfill gas capture projects. Both methodologies address methane, a greenhouse gas that is 28 times more powerful at trapping heat in the atmosphere than CO 2 . The two methodologies are VM0051 Improved Management in Rice Production Systems, v1.1 , which credits…",
+      "url": "https://verra.org/verras-rice-cultivation-and-landfill-gas-methodologies-receive-icvcm-approval/",
+      "publishedAt": "2026-08-12T09:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2025/02/shutterstock_2336368091-rice.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-carnival-raises-accelerates-emissions-re-2026-08-11",
       "source": "esg-today",
@@ -1682,8 +1793,8 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
-      "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
+      "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - eurasiareview.com",
+      "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd eurasiareview.com",
       "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
       "publishedAt": "2026-08-06T17:54:56.000Z",
       "image": null,
@@ -1919,50 +2030,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-bain-appoints-matteo-capellini-as-global-2026-08-03",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Bain Appoints Matteo Capellini as Global Head of Sustainability Value Creation Solution",
-      "excerpt": "Global consultancy Bain & Company announced the appointment of Matteo Capellini as Global Head of its Sustainability Value Creation Solution, the firm’s practice focused on the integrations of sustainability strategies into business strategies, to transform ESG aspects from regulatory considerations or commitments into tangible value-creating assets. According to Bain, the appointment comes as sustainability is returning to the forefront of companies strategic agendas, while noting “a context where sustainability expectations are evolving at…",
-      "url": "https://www.esgtoday.com/bain-appoints-matteo-capellini-as-global-head-of-sustainability-value-creation-solution/?utm_source=rss utm_medium=rss utm_campaign=bain-appoints-matteo-capellini-as-global-head-of-sustainability-value-creation-solution",
-      "publishedAt": "2026-08-03T14:39:54.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Bain-Capellini.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-brookfield-launches-600-million-india-fo-2026-08-03",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Brookfield Launches $600 Million India-focused Renewable Energy Platform",
-      "excerpt": "Brookfield Asset Management announced the launch of Lumara Energy, a new India-based platform focused on accelerating the development and construction of renewable energy projects. The launch of the new platform comes as India continues to scale up its investments in clean energy, with the country aiming to reach 500 GW of installed renewable energy capacity by 2030. Earlier this year India approved new targets to reduce economy-wide emissions intensity by 47% and to achieve 60% of electric power capacity from non-fossil-based sources by 2035. According…",
-      "url": "https://www.esgtoday.com/brookfield-launches-600-million-india-focused-renewable-energy-platform/?utm_source=rss utm_medium=rss utm_campaign=brookfield-launches-600-million-india-focused-renewable-energy-platform",
-      "publishedAt": "2026-08-03T13:26:38.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Brookfield-Place.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "india"
-    },
-    {
       "id": "carbon-brief-q-a-does-the-world-need-carbon-capture-a-2026-08-03",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -1981,28 +2048,6 @@
       "meta": {
         "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-walmart-sets-new-sbti-approved-emissions-2026-08-03",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Walmart Sets New SBTi-Approved Emissions Reduction Target",
-      "excerpt": "Retail giant Walmart revealed that it has set a new operational emissions target, with a goal to reduce Scope 1 and 2 greenhouse gas emissions by 28% by FY2031 from a FY2025 baseline. The new target was announced in Walmart’s FY2026 ESG Report, which indicated that the company achieved a significant 7.5% reduction in Scope 1 and 2 emissions in the year, but still was not able to meet its SBTi-approved target of a 35% reduction by FY2026, on a FY2016 basis. The company said that it revisited its targets in line with SBTi’s five-year review protocol, with…",
-      "url": "https://www.esgtoday.com/walmart-sets-new-sbti-approved-emissions-reduction-target/?utm_source=rss utm_medium=rss utm_campaign=walmart-sets-new-sbti-approved-emissions-reduction-target",
-      "publishedAt": "2026-08-03T13:00:51.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Walmart.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2026,28 +2071,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-u-s-sustainable-fund-flows-turn-positive-2026-08-03",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "U.S. Sustainable Fund Flows Turn Positive for First Time Since 2022: Morningstar",
-      "excerpt": "U.S. sustainable investment fund net flows turned positive for the first time in nearly four years in the second quarter of 2026, according to a new report by investment insights and data provider Morningstar, with investors adding nearly $3 billion, and sustainable fund assets rising to a record of nearly $400 billion. The report found that the inflows in the quarter were driven by demand for electricity infrastructure and energy transition themes, and continued strong flows into passive strategies. According to the report, estimated global sustainable…",
-      "url": "https://www.esgtoday.com/u-s-sustainable-fund-flows-turn-positive-for-first-time-since-2022-morningstar/?utm_source=rss utm_medium=rss utm_campaign=u-s-sustainable-fund-flows-turn-positive-for-first-time-since-2022-morningstar",
-      "publishedAt": "2026-08-03T11:31:28.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Morningstar4.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Investors",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2442,29 +2465,6 @@
       "region": "india"
     },
     {
-      "id": "verra-projects-open-for-public-comment-july-13-2026-07-13",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Projects Open for Public Comment: July 13, 2026",
-      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-      "url": "https://verra.org/projects-open-for-public-comment-july-13-2026/",
-      "publishedAt": "2026-07-13T13:09:08.000Z",
-      "image": "https://verra.org/wp-content/uploads/2026/07/ries-bosch-wH_rvXttJo-unsplash.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-carbon-voluntary-carbon-credit-market-size-shar-2026-07-07",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2489,30 +2489,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - The Quint",
-      "excerpt": "Become a Member Dark Mode Become a Member Student Protest Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take My Report Opinion Members Only More Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy Policy…",
-      "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
-      "publishedAt": "2026-06-25T07:00:00.000Z",
-      "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-the-eu-cbam-seen-from-new-delhi-and-seen-2026-06-20",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2532,30 +2508,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX2djMkg2QmxvQVVBeXZlS0N0X01DcVVOV2FCTW1aMnpKZUpZMFZmb0ViaUtpU3RDMFBxZUpucG9jeWdHUzh3QWtMVW9NMGV3QlUzQmE3M2pJMFp4N0Z4U2pLMnhweWdHVDBLX25RNEZiem9zNVJrdFVXZ0YxZGhhTUY0UWdQWVRDZlNOTGYtU3pjaVFYZTJOcQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Agriculture, Carbon Accounting and Climate Justice Debate - Frontline Magazine",
-      "excerpt": "Published : Jun 18, 2026 13:01 IST - 10 MINS READ If farmers are compensated for the climate services they already provide, they gain both the resources and the incentive to do more. In this file picture, a farmer examines his wheat crop in a field on the outskirts of Amritsar. | Photo Credit: NARINDER NANU/AFP The Intergovernmental Panel on Climate Change Sixth Assessment Report (IPCC-AR6) stresses the need for climate policies to prioritise carbon dioxide (CO₂) removal (CDR) processes. International agencies have, in parallel, increasingly recognised…",
-      "url": "https://frontline.thehindu.com/environment/climate-accounting-agriculture-carbon-sink/article71116675.ece",
-      "publishedAt": "2026-06-18T07:00:00.000Z",
-      "image": "https://fl-i.thgim.com/public/incoming/y7mxy6/article71116853.ece/alternates/LANDSCAPE_1200/indian%20farmers%20green%20house%20gas%20emission.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2609,6 +2561,30 @@
       "region": "india"
     },
     {
+      "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India’s Grasslands Need Climate Policy, Not Carbon Rush - Frontline Magazine",
+      "excerpt": "Published : Apr 25, 2026 18:48 IST - 12 MINS READ Grassland in Gujarat, India. Grassland restoration can increase soil organic carbon through improved grazing management, native grass recovery, and invasive species control. | Photo Credit: Getty Images/iStockPhoto India’s grasslands and rangelands deserve a central place in climate policy . But any carbon-finance pathway must rest on secure rights, pastoral participation, sound methodology, and strong public safeguards. India’s climate imagination has long been shaped by a forest-first instinct. When…",
+      "url": "https://frontline.thehindu.com/environment/india-grasslands-carbon-finance-rights-pastoralists-climate-policy/article70905160.ece",
+      "publishedAt": "2026-04-25T07:00:00.000Z",
+      "image": "https://fl-i.thgim.com/public/incoming/h4b5gr/article70905395.ece/alternates/LANDSCAPE_1200/Grasslands.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlhkQURpdUd0Yk51RUEwNGEtc1NmWHMtV2dZY3hPREhXZGJUMWNlYXh3UHotaF9jZjlFZXp4RF95UEduSkg5VGlad3JWdmxBZU15T2tiZUE0TWtGZTFKOVRqT2lSRGE4d0VNYWNOdExNdTEzT0RwVVhOeEl2dTZob19pY283NFliVHk3b1ZXdDlkVVhKQUFvZG0xdE9la2htQUFmc3pJMDVFYWJxeVh4OGQ1NVhZSDJDZjR1bnlaek5rSzBTTGhlM9IBzwFBVV95cUxPemxKSjVSeW0zVXZsRG51eFhTVjk1S0R2VmcwRHppNVFPdU02NDRES2dhV1QwWFoybjdzQWNVbHg1dU1xbWJCdjlxemVrTXc3cUl0aFJPVXN6Sk9UeU5reEJhRFk5MFM5a2NzUFRiVzZVaDBxQmVxS0M4Ql9aSXpGc3lhNUFUaVhqMDZiYTNHUDBtTFNYTnJJdExuUEpMT0JkNDhvSmtyaGg3aTdvbktZcXpxUWFadDJrRHpCclJLX0h4S1I1NlNQUVpXWDFqR2M?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2633,30 +2609,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "How Indian industries are adapting to CBAM and carbon pricing - EY",
-      "excerpt": "Insights AI CFO CEO EY Transformation Services AI Agentic AI AI Ready Data ey.ai The Reimagination Engine Physical AI Responsible AI Assurance Services Climate Change and Sustainability Services Financial Accounting and Advisory Services Forensic and Integrity Services Consulting Cybersecurity Digital Transformation People and Workforce Risk Consulting Services Supply Chain Management and Operations Technology Transformation Global Capability Centers Capability Center-as-a-Service (CaaS) EY GCC Exchange: Video Series EY GCC Leadership Dialogues The FS…",
-      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
-      "publishedAt": "2026-04-03T07:24:04.000Z",
-      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-carbon-global-blue-carbon-market-to-reach-usd-1-2026-03-25",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2676,6 +2628,30 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxORU40NERySjF1ZVh1cGlYZzdHa09sblVKYlNHRHktbUw0UUxhbzliTWc5SFNSb3BWRnBRMUsxa2lEa01BR055Qk1LVWtrejMzQm9xeUhvcUkxSUJpOWwxNkxsRDdoaDBwUmhGS0pDNnI4d0Eya2RZc2lhcHNCYm5HZXdjWDRlRjhRODRhaG5Iazdya2FtYjRyb3JtWUVaWFp5bWtZVy1vUWo4VnZMOFhZOS15NHNhVExMZUpvaDBOWUhELVdXRTJPN2hyTGVaVUhwWDFqZ01FWnRyNUJyV1J5ZUlRdHFwbjl2bHVKZ25LWmJSVjRlaTFuNnFXZkNic2Ztd3JfRTRPb1lJX2ZqZW1lVlJTMHZGSm5taU50NlEtcXlpcHBpeFBoT0x4dlRXV2l6azZhWVY3UXRMczBRekZpNXA5RjNkWjR6MzBvQ0RRc0lidw?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-india-launches-centralized-carbon-market-2026-03-23",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
+      "excerpt": "• India launches a national carbon market portal to operationalize its Carbon Credit Trading Scheme across sectors • Nearly 490 entities across seven energy intensive industries now face compliance targets under the framework • Government positions carbon markets as a major channel to unlock capital, drive innovation, and support NDC delivery New Delhi hosted a decisive step in India’s climate and financial architecture as the government inaugurated Prakriti 2026 and launched the Indian Carbon Market Portal, a centralized platform designed to…",
+      "url": "https://esgnews.com/india-launches-carbon-market-portal-to-scale-national-climate-finance/",
+      "publishedAt": "2026-03-23T07:00:00.000Z",
+      "image": "https://esgnews.com/wp-content/uploads/2026/03/India-Launches-Carbon-Market-Portal-to-Scale-National-Climate-Finance.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2734,7 +2710,7 @@
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Verra Issues First CORSIA Label for 4.7 Million Carbon Credits - ClearBlue Markets",
+      "title": "Verra Issues First CORSIA Label for 4.7 Million Carbon Credits - clearbluemarkets.com",
       "excerpt": "Verra, one of the world's leading developers of carbon standards, has reached a significant milestone by applying the International Civil Aviation Organization’s (ICAO) Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) label to millions of voluntary carbon credits for the first time, with the majority of these credits from projects in Africa. CORSIA's implementation continues to make it one of the most relevant climate compliance mechanisms globally, as it mitigates emissions from one of the highest-emitting and hardest-to-abate…",
       "url": "https://www.clearbluemarkets.com/knowledge-base/verra-issues-first-corsia-label-for-4.7-million-carbon-credits",
       "publishedAt": "2026-02-03T08:00:00.000Z",
@@ -2795,6 +2771,30 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-how-ccts-is-accelerating-india-inc-s-rac-2026-01-08",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "How CCTS is accelerating India Inc.’s race to decarbonize - EY",
+      "excerpt": "Insights AI CFO CEO EY Transformation Services AI Agentic AI AI Ready Data ey.ai The Reimagination Engine Physical AI Responsible AI Assurance Services Climate Change and Sustainability Services Financial Accounting and Advisory Services Forensic and Integrity Services Consulting Cybersecurity Digital Transformation People and Workforce Risk Consulting Services Supply Chain Management and Operations Technology Transformation Global Capability Centers Capability Center-as-a-Service (CaaS) EY GCC Exchange: Video Series EY GCC Leadership Dialogues The FS…",
+      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize",
+      "publishedAt": "2026-01-08T08:00:00.000Z",
+      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-ccts-banner.png",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFpleHAtN1I5eHA0T1R1czlGa0NDVVIxSlNqbWpCUTFGd25MTEtmdGhqT0FBa2Q2X2tRZGFzNUdsSDBRMzdwSGFmNl9TSFd3dWI0ZHJENVRielZkYU4zaUVtSGpxWkZCZzQ3MDFwT2Y0TWhxNDNqSVgxOEE5VnBhcmhyV3h6cWRXTTJNMTJheFNjUkZWOWNkWDE4azdyZEhwTnliandnN3F4ZzAtQVU5TmpNYTM2T1VyeXNJM1ZEUzdnSTNjbFNScg?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -2875,7 +2875,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - fuelcellsworks.com",
+      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
       "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
       "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
       "publishedAt": "2025-09-01T07:00:00.000Z",
