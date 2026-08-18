@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-08-18T02:12:39.097Z",
+  "fetchedAt": "2026-08-18T07:42:31.226Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,14 +47,38 @@
     "total": 62,
     "india": 16,
     "world": 46,
-    "withImages": 57,
-    "avgExcerptLength": 446,
+    "withImages": 56,
+    "avgExcerptLength": 439,
     "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "google-india-india-s-carbon-credit-programmes-must-be-2026-08-18",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India's Carbon Credit Programmes Must Be Designed for Smallholder Farmers - The Policy Edge",
+        "excerpt": "New evidence from Bihar shows how programme design shapes the scalability of voluntary carbon credit programmes across India s smallholder agriculture Banda Sainath is a Scientist (Agricultural Economics) at ICAR Research Complex for Eastern Region , Patna. SDG 13: Climate Action | SDG 2: Zero Hunger Ministry of Environment, Forest and Climate Change MoEFCC | Ministry of Agriculture and Farmers Welfare MoAFW Listen to the article Current time 00 / 00 00 / 00 The discussion in this article is based on the author’s research published in Journal of…",
+        "url": "https://www.policyedge.in/p/indias-carbon-credit-programmes-must-be-designed-for-smallholder-farmers",
+        "publishedAt": "2026-08-18T05:01:39.000Z",
+        "image": "https://my-strapi-buckets.s3.eu-north-1.amazonaws.com/uploads/India_s_Carbon_Credit_Programmes_Must_Be_Designed_for_Smallholder_Farmers_0f454323e9.png",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRllBSkVCQ0QyS3VlaTU0ZDA1TDJlZW1DUm8tUldya2R5emw2YUpHLUVzWHI0QmM5cXc5Ri1PVHJwWW1xUnVxV1c0aFFpZzFJb1VTQTlLczZTcFlrNURmUXhYTy1yTkc1T2JNSlQ3aFgzNnYtZjBVWFFUdEpPTVRsb3ROMFBfZlJXTmlLNDcwNlZ0dUVnV0lDV3NxTm82dmE0dXc?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
       {
         "id": "esg-today-cip-raises-3-billion-for-growth-markets--2026-08-14",
         "source": "esg-today",
@@ -108,7 +132,7 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s green hydrogen push gathers pace - bioenergytimes.com",
+        "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
         "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
         "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
         "publishedAt": "2026-07-29T07:00:00.000Z",
@@ -198,30 +222,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - thequint.com",
-        "excerpt": "Become a Member Dark Mode Become a Member Student Protest Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take My Report Opinion Members Only More Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy Policy…",
-        "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
-        "publishedAt": "2026-06-25T07:00:00.000Z",
-        "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-india-columbia-university-2026-06-17",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -276,7 +276,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India’s Grasslands Need Climate Policy, Not Carbon Rush - Frontline Magazine",
+        "title": "India’s Grasslands Need Climate Policy, Not Carbon Rush - frontline.thehindu.com",
         "excerpt": "Published : Apr 25, 2026 18:48 IST - 12 MINS READ Grassland in Gujarat, India. Grassland restoration can increase soil organic carbon through improved grazing management, native grass recovery, and invasive species control. | Photo Credit: Getty Images/iStockPhoto India’s grasslands and rangelands deserve a central place in climate policy . But any carbon-finance pathway must rest on secure rights, pastoral participation, sound methodology, and strong public safeguards. India’s climate imagination has long been shaped by a forest-first instinct. When…",
         "url": "https://frontline.thehindu.com/environment/india-grasslands-carbon-finance-rights-pastoralists-climate-policy/article70905160.ece",
         "publishedAt": "2026-04-25T07:00:00.000Z",
@@ -294,17 +294,17 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-launches-centralized-carbon-market-2026-03-23",
+        "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
-        "excerpt": "• India launches a national carbon market portal to operationalize its Carbon Credit Trading Scheme across sectors • Nearly 490 entities across seven energy intensive industries now face compliance targets under the framework • Government positions carbon markets as a major channel to unlock capital, drive innovation, and support NDC delivery New Delhi hosted a decisive step in India’s climate and financial architecture as the government inaugurated Prakriti 2026 and launched the Indian Carbon Market Portal, a centralized platform designed to…",
-        "url": "https://esgnews.com/india-launches-carbon-market-portal-to-scale-national-climate-finance/",
-        "publishedAt": "2026-03-23T07:00:00.000Z",
-        "image": "https://esgnews.com/wp-content/uploads/2026/03/India-Launches-Carbon-Market-Portal-to-Scale-National-Climate-Finance.jpg",
+        "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
+        "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
+        "publishedAt": "2026-03-21T07:00:00.000Z",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -312,8 +312,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
         },
         "region": "india"
       },
@@ -418,7 +417,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - fuelcellsworks.com",
+        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
         "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
         "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
         "publishedAt": "2025-09-01T07:00:00.000Z",
@@ -885,7 +884,7 @@
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
+        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
         "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
         "url": "https://yellow.com/chicago.html/news/can-blockchain-fix-carbon-credits",
         "publishedAt": "2026-08-13T03:35:53.000Z",
@@ -1433,8 +1432,8 @@
         "type": "esg",
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
-        "title": "Carbon markets are incomplete without nuclear - utilitydive.com",
-        "excerpt": "Carbon markets are incomplete without nuclear utilitydive.com",
+        "title": "Carbon markets are incomplete without nuclear - Utility Dive",
+        "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
         "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
         "publishedAt": "2025-09-23T07:00:00.000Z",
         "image": null,
@@ -1476,6 +1475,30 @@
     ]
   },
   "articles": [
+    {
+      "id": "google-india-india-s-carbon-credit-programmes-must-be-2026-08-18",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India's Carbon Credit Programmes Must Be Designed for Smallholder Farmers - The Policy Edge",
+      "excerpt": "New evidence from Bihar shows how programme design shapes the scalability of voluntary carbon credit programmes across India s smallholder agriculture Banda Sainath is a Scientist (Agricultural Economics) at ICAR Research Complex for Eastern Region , Patna. SDG 13: Climate Action | SDG 2: Zero Hunger Ministry of Environment, Forest and Climate Change MoEFCC | Ministry of Agriculture and Farmers Welfare MoAFW Listen to the article Current time 00 / 00 00 / 00 The discussion in this article is based on the author’s research published in Journal of…",
+      "url": "https://www.policyedge.in/p/indias-carbon-credit-programmes-must-be-designed-for-smallholder-farmers",
+      "publishedAt": "2026-08-18T05:01:39.000Z",
+      "image": "https://my-strapi-buckets.s3.eu-north-1.amazonaws.com/uploads/India_s_Carbon_Credit_Programmes_Must_Be_Designed_for_Smallholder_Farmers_0f454323e9.png",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRllBSkVCQ0QyS3VlaTU0ZDA1TDJlZW1DUm8tUldya2R5emw2YUpHLUVzWHI0QmM5cXc5Ri1PVHJwWW1xUnVxV1c0aFFpZzFJb1VTQTlLczZTcFlrNURmUXhYTy1yTkc1T2JNSlQ3aFgzNnYtZjBVWFFUdEpPTVRsb3ROMFBfZlJXTmlLNDcwNlZ0dUVnV0lDV3NxTm82dmE0dXc?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
     {
       "id": "carbon-brief-analysis-the-two-largest-reservoirs-in-t-2026-08-17",
       "source": "carbon-brief",
@@ -1946,7 +1969,7 @@
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
+      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
       "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
       "url": "https://yellow.com/chicago.html/news/can-blockchain-fix-carbon-credits",
       "publishedAt": "2026-08-13T03:35:53.000Z",
@@ -2308,7 +2331,7 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s green hydrogen push gathers pace - bioenergytimes.com",
+      "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
       "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
       "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
       "publishedAt": "2026-07-29T07:00:00.000Z",
@@ -2537,30 +2560,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - thequint.com",
-      "excerpt": "Become a Member Dark Mode Become a Member Student Protest Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take My Report Opinion Members Only More Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy Policy…",
-      "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
-      "publishedAt": "2026-06-25T07:00:00.000Z",
-      "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-india-columbia-university-2026-06-17",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2615,7 +2614,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India’s Grasslands Need Climate Policy, Not Carbon Rush - Frontline Magazine",
+      "title": "India’s Grasslands Need Climate Policy, Not Carbon Rush - frontline.thehindu.com",
       "excerpt": "Published : Apr 25, 2026 18:48 IST - 12 MINS READ Grassland in Gujarat, India. Grassland restoration can increase soil organic carbon through improved grazing management, native grass recovery, and invasive species control. | Photo Credit: Getty Images/iStockPhoto India’s grasslands and rangelands deserve a central place in climate policy . But any carbon-finance pathway must rest on secure rights, pastoral participation, sound methodology, and strong public safeguards. India’s climate imagination has long been shaped by a forest-first instinct. When…",
       "url": "https://frontline.thehindu.com/environment/india-grasslands-carbon-finance-rights-pastoralists-climate-policy/article70905160.ece",
       "publishedAt": "2026-04-25T07:00:00.000Z",
@@ -2633,17 +2632,17 @@
       "region": "india"
     },
     {
-      "id": "google-india-india-launches-centralized-carbon-market-2026-03-23",
+      "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
-      "excerpt": "• India launches a national carbon market portal to operationalize its Carbon Credit Trading Scheme across sectors • Nearly 490 entities across seven energy intensive industries now face compliance targets under the framework • Government positions carbon markets as a major channel to unlock capital, drive innovation, and support NDC delivery New Delhi hosted a decisive step in India’s climate and financial architecture as the government inaugurated Prakriti 2026 and launched the Indian Carbon Market Portal, a centralized platform designed to…",
-      "url": "https://esgnews.com/india-launches-carbon-market-portal-to-scale-national-climate-finance/",
-      "publishedAt": "2026-03-23T07:00:00.000Z",
-      "image": "https://esgnews.com/wp-content/uploads/2026/03/India-Launches-Carbon-Market-Portal-to-Scale-National-Climate-Finance.jpg",
+      "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
+      "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
+      "publishedAt": "2026-03-21T07:00:00.000Z",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2651,8 +2650,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
       },
       "region": "india"
     },
@@ -2828,8 +2826,8 @@
       "type": "esg",
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
-      "title": "Carbon markets are incomplete without nuclear - utilitydive.com",
-      "excerpt": "Carbon markets are incomplete without nuclear utilitydive.com",
+      "title": "Carbon markets are incomplete without nuclear - Utility Dive",
+      "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
       "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
       "publishedAt": "2025-09-23T07:00:00.000Z",
       "image": null,
@@ -2851,7 +2849,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - fuelcellsworks.com",
+      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
       "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
       "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
       "publishedAt": "2025-09-01T07:00:00.000Z",
