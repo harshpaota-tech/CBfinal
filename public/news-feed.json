@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-08-19T13:40:49.492Z",
+  "fetchedAt": "2026-08-19T19:20:49.407Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 15,
     "world": 47,
-    "withImages": 57,
-    "avgExcerptLength": 446,
+    "withImages": 58,
+    "avgExcerptLength": 451,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -86,7 +86,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India’s carbon market targets too weak to drive industrial transformation: Report - downtoearth.org.in",
+        "title": "India’s carbon market targets too weak to drive industrial transformation: Report - Down To Earth",
         "excerpt": "Published on : 29 Jul 2026, 8:48 am Copied Listen to this article Summary India’s proposed Carbon Credit Trading Scheme will not deliver transformational industrial decarbonisation, experts warn. New report shows far more ambitious emissions intensity targets needed. Current rules demand only 2–5% cuts by 2026-27 for steel, cement and aluminium. The scheme relies on low carbon prices and weak governance, excludes the power sector. India's proposed Carbon Credit Trading Scheme (CCTS) is unlikely to drive transformational change in industrial…",
         "url": "https://www.downtoearth.org.in/climate-change/indias-carbon-market-targets-too-weak-to-drive-industrial-transformation-report",
         "publishedAt": "2026-07-29T07:00:00.000Z",
@@ -374,10 +374,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": null,
+        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -385,7 +385,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -415,6 +416,94 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-microsoft-signs-offtake-deal-for-wastewa-2026-08-19",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Microsoft signs offtake deal for wastewater-based carbon removal",
+        "excerpt": "The deal with climate startup Crew Carbon will lean on its wastewater alkalinity enhancement technology to permanently remove carbon dioxide emitted by wastewater plants.",
+        "url": "https://www.esgdive.com/news/microsoft-crew-carbon-sign-offtake-deal-for-wastewater-based-carbon-removal/828289/",
+        "publishedAt": "2026-08-19T16:37:45.000Z",
+        "image": "https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-osapiens-acquires-nasdaq-s-sustainabilit-2026-08-19",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Osapiens Acquires Nasdaq’s Sustainability Reporting Platform",
+        "excerpt": "Germany-based sustainability software company osapiens announced Wednesday the acquisition of capital markets technology and exchange company Nasdaq’s sustainability reporting and carbon accounting software platform Nasdaq Metrio, and its customers. Launched in 2023 by Nasdaq following its acquisition of ESG reporting software provider Metrio, Nasdaq Metrio helps organizations collect, validate, and report ESG and GHG data, with coverage of frameworks and standards including CDP, GRI, IFRS, SASB and the California climate disclosure laws. Founded in…",
+        "url": "https://www.esgtoday.com/osapiens-acquires-nasdaqs-sustainability-reporting-platform-metrio/?utm_source=rss utm_medium=rss utm_campaign=osapiens-acquires-nasdaqs-sustainability-reporting-platform-metrio",
+        "publishedAt": "2026-08-19T16:14:22.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Osapiens4.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-walmart-flags-fewer-supplier-standard-vi-2026-08-19",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Walmart flags fewer supplier standard violations",
+        "excerpt": "The retailer logged 754 cases in fiscal 2026, down 35% year over year, according to its latest ESG report.",
+        "url": "https://www.esgdive.com/news/walmart-flags-fewer-supplier-standard-violations/828249/",
+        "publishedAt": "2026-08-19T15:29:00.000Z",
+        "image": "https://imgproxy.divecdn.com/dpiVgKtlIMKJFC4tCdas8ADiOeoCJE5WEtYsN5tMbSw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU5Nzg0MzIwLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-emirates-nbd-launches-transition-finance-2026-08-19",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Emirates NBD Launches Transition Finance Framework to Support Hard-to-Abate Businesses in Low-Carbon Shift",
+        "excerpt": "Middle East, North Africa, Türkiye and South Asia-focused banking group Emirates NBD announced the release of its inaugural Transition Finance Framework, underpinning its commitment to mobilize $30 billion of sustainable and transition finance by 2030 by providing clear guidelines for identifying and categorizing financing activities that facilitate the transition to a low-carbon economy, alongside the group’s current Sustainable Finance Framework. According to Emirates NBD, the launch of the new framework is aimed at enhancing its ability to support…",
+        "url": "https://www.esgtoday.com/emirates-nbd-launches-transition-finance-framework-to-support-hard-to-abate-businesses-in-low-carbon-shift/?utm_source=rss utm_medium=rss utm_campaign=emirates-nbd-launches-transition-finance-framework-to-support-hard-to-abate-businesses-in-low-carbon-shift",
+        "publishedAt": "2026-08-19T14:26:26.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Emirates-NBD.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Sustainable Finance",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-catl-to-prioritize-suppliers-with-strong-2026-08-19",
         "source": "esg-today",
@@ -681,28 +770,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-why-investor-transition-plans-are-no-lon-2026-08-18",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Why Investor Transition Plans Are No Longer Optional: They re a Competitive Advantage",
-        "excerpt": "The past year has been complex for investors. Disclosure regulations have stalled, coalitions have lost members, and heightened political scrutiny has made many institutions more cautious about speaking publicly. Yet, investors making steady progress share a common characteristic: a structured, written transition plan. In 2026, Ceres has conducted a series of independent reviews of investor climate transition plans across more than 10 asset owners and asset managers. Drawing on publicly available disclosures, this analysis provides a view of how leading…",
-        "url": "https://www.esgtoday.com/why-investor-transition-plans-are-no-longer-optional-theyre-a-competitive-advantage/?utm_source=rss utm_medium=rss utm_campaign=why-investor-transition-plans-are-no-longer-optional-theyre-a-competitive-advantage",
-        "publishedAt": "2026-08-18T09:08:57.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Ceres-Amstutz.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Guest Posts",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-analysis-the-two-largest-reservoirs-in-t-2026-08-17",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -836,28 +903,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-u-s-to-take-any-actions-necessary-to-pro-2026-08-17",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "U.S. to “Take Any Actions Necessary” to Protect Companies from “Unreasonable” EU Sustainability Reporting Regulations",
-        "excerpt": "The U.S. Government has issued a series of requests from the European Union to address concerns with the impact of the EU’s new sustainability due diligence and reporting laws – the CSDDD and CSRD – on U.S. companies. In a comment letter, issued by U.S. Mission to the European Union, the U.S. Government said that the EU Commission’s Omnibus package to simplify its sustainability regulations, including the CSDDD and CSRD “failed to fully address U.S. concerns regarding these directives,” and warns that “the United States will take any actions necessary…",
-        "url": "https://www.esgtoday.com/u-s-to-take-any-actions-necessary-to-protect-companies-from-unreasonable-eu-sustainability-reporting-regulations/?utm_source=rss utm_medium=rss utm_campaign=u-s-to-take-any-actions-necessary-to-protect-companies-from-unreasonable-eu-sustainability-reporting-regulations",
-        "publishedAt": "2026-08-17T11:15:10.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/US-EU-flags.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-alienating-and-cruel-eeoc-files-lawsuit--2026-08-14",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -946,28 +991,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-video-gamers-give-110-mw-texas-solar-pro-2026-08-13",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Video gamers give 110-MW Texas solar project a financing boost",
-        "excerpt": "Fractionalized virtual power purchase agreements and renewable energy certificate transactions can help underwrite clean energy projects, particularly in volatile energy markets, an executive involved in the transaction said in an interview.",
-        "url": "https://www.esgdive.com/news/video-gamers-give-110-mw-texas-solar-project-a-financing-boost/827809/",
-        "publishedAt": "2026-08-13T15:58:30.000Z",
-        "image": "https://imgproxy.divecdn.com/GqiDUA9KYE69tlCxPhgbqD112b_FMSKxbCi3udXlFpY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYW1lci5qcGc=.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-08-13",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -988,28 +1011,6 @@
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBScVFUYVdJcFd1VERrTUhVb19wQkljaHJ0dUZJRFhyT2xTODBlRURYRXMxY0ZzNXo2bU04eWNYRlFrZmtsSkVRRnNfLWdaclFxa3NKTjkzWm9SdjV4Nmx0RDRZVnZ5N005NFVuOUFwaVl5VGlpSHdtTEpB?oc=5",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-google-inks-deal-to-source-entire-output-2026-08-12",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Google inks deal to source entire output from RWE’s Oklahoma solar project",
-        "excerpt": "Energy produced at the 155 MW Crooked Creek Solar project will help power the tech giant s operations in the Southwest Power Pool market and provide locally sourced electricity to the regional grid.",
-        "url": "https://www.esgdive.com/news/google-inks-ppa-to-source-entire-output-from-rwe-oklahoma-solar-project/827709/",
-        "publishedAt": "2026-08-12T16:57:21.000Z",
-        "image": "https://imgproxy.divecdn.com/_8Ul36Wpp-U6ShhWJpA9O5hgAsCG3FH-HZG7B7COMKA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTE5OTA1MzQ4LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -1339,7 +1340,7 @@
         "type": "esg",
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
-        "title": "Voluntary Carbon Credit Market Size, Share, Report 2035 - Market Research Future",
+        "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
         "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
         "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
         "publishedAt": "2026-07-07T07:00:00.000Z",
@@ -1376,6 +1377,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkEySVpteS1aZ3lfNnhCMk44TThDcEVoX1NGRkFWcGRfMUFJdDBwVEstUW5kMTlDUDVmdFFjaFVoZFZjUDJfbGJQVjNkdHlDY2RVOEhDeTFvV2FzU2RKV2F5MGQ1VkhBc0FrX3QzZWE5clhqa1ZXNFFmZjlabWdYQ2MzWU5QSXNOMExDWWUyS1FrWnZQTW1FeUxFRTZYb1owTnRlNGxQV0RHYkN3b1Mw0gG_AUFVX3lxTE8wT1pMd0QwUF9oOUhEdkl1U3UzRDE3VTJIVkN3YTloaU1KQ0p5c0NuZlZNYmJSQXljdXRsZ1U1eHFCbHRkLTJrSVBKS3ItYkdzLVdYVU1lcU1rM3d2V0s2dDdSMjdPUC1Fa192eTcxdGFGczl1Tk5xcnBCZVk1ZVJ5c0RQRlRVdkFHVWxCRUhobGhsTXJHbGFCOUxPclcyVjYwbmR0SHIzVkRkOW91X2M4ZkEtanlKVUlBY09MTXhV?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-carbon-credit-project-developers-baulk-a-2026-01-20",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon credit project developers baulk at new Gold Standard rules - edie.net",
+        "excerpt": "Dozens of companies developing carbon credit projects have asked industry standards body Gold Standard to be more lenient in its alignment with the global Paris Agreement on climate change. Join our growing army of changemakers and get access to our free content Image: Carolina Pino for Verra. Trees classed as part of a deforestation avoidance project that generates carbon credits. Gold Standard first committed to aligning its requirements with those set out under the Paris Agreement in 2021. International negotiators subsequently agreed on the…",
+        "url": "https://www.edie.net/carbon-credit-project-developers-baulk-at-new-gold-standard-rules/",
+        "publishedAt": "2026-01-20T08:00:00.000Z",
+        "image": "https://edienetlive.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/2/TreesVerraCarbon.gif",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hYOXV2Q0hBbG1uRXVLQWFNYlFTbHRvUVpuTGd0OFI0Qm43bVg3WkU3V2lEWERzQU9ZbzV2N3VHX2M5VnpnRlpOdXNmNC1FZzQwZ3czd00wU1VQbWhQVmhsdjRiRVdXaHpiMnN1N1UxcmM1eWgtMGt6WkFoVWpLLXAtUlZfczYzT3haNE1BSEbSAZwBQVVfeXFMT1ZUREJlS1YxdzBMN3N2TjVyV3RzdWo0RDNrZ0E1bENjMXVJRTlVeVRZNXl5UFI0eEZjdWlpcEYxU2ZiaDBIMzlZUTRDTWlBVGg4SHBiMkJyVDRkSGRhd1NUWWc2cHZOR0J5UWVsYXNIMUFJMnVGLTNRLXQ1Tnk3ZHNneHN2Tk1UMHZOZmJRQks4RGlsVHRRUlFzTmF5?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -1449,34 +1474,98 @@
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
         },
         "region": "world"
-      },
-      {
-        "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
-        "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
-        "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
-        "publishedAt": "2023-12-04T08:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
       }
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-microsoft-signs-offtake-deal-for-wastewa-2026-08-19",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Microsoft signs offtake deal for wastewater-based carbon removal",
+      "excerpt": "The deal with climate startup Crew Carbon will lean on its wastewater alkalinity enhancement technology to permanently remove carbon dioxide emitted by wastewater plants.",
+      "url": "https://www.esgdive.com/news/microsoft-crew-carbon-sign-offtake-deal-for-wastewater-based-carbon-removal/828289/",
+      "publishedAt": "2026-08-19T16:37:45.000Z",
+      "image": "https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-osapiens-acquires-nasdaq-s-sustainabilit-2026-08-19",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Osapiens Acquires Nasdaq’s Sustainability Reporting Platform",
+      "excerpt": "Germany-based sustainability software company osapiens announced Wednesday the acquisition of capital markets technology and exchange company Nasdaq’s sustainability reporting and carbon accounting software platform Nasdaq Metrio, and its customers. Launched in 2023 by Nasdaq following its acquisition of ESG reporting software provider Metrio, Nasdaq Metrio helps organizations collect, validate, and report ESG and GHG data, with coverage of frameworks and standards including CDP, GRI, IFRS, SASB and the California climate disclosure laws. Founded in…",
+      "url": "https://www.esgtoday.com/osapiens-acquires-nasdaqs-sustainability-reporting-platform-metrio/?utm_source=rss utm_medium=rss utm_campaign=osapiens-acquires-nasdaqs-sustainability-reporting-platform-metrio",
+      "publishedAt": "2026-08-19T16:14:22.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Osapiens4.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-walmart-flags-fewer-supplier-standard-vi-2026-08-19",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Walmart flags fewer supplier standard violations",
+      "excerpt": "The retailer logged 754 cases in fiscal 2026, down 35% year over year, according to its latest ESG report.",
+      "url": "https://www.esgdive.com/news/walmart-flags-fewer-supplier-standard-violations/828249/",
+      "publishedAt": "2026-08-19T15:29:00.000Z",
+      "image": "https://imgproxy.divecdn.com/dpiVgKtlIMKJFC4tCdas8ADiOeoCJE5WEtYsN5tMbSw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU5Nzg0MzIwLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-emirates-nbd-launches-transition-finance-2026-08-19",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Emirates NBD Launches Transition Finance Framework to Support Hard-to-Abate Businesses in Low-Carbon Shift",
+      "excerpt": "Middle East, North Africa, Türkiye and South Asia-focused banking group Emirates NBD announced the release of its inaugural Transition Finance Framework, underpinning its commitment to mobilize $30 billion of sustainable and transition finance by 2030 by providing clear guidelines for identifying and categorizing financing activities that facilitate the transition to a low-carbon economy, alongside the group’s current Sustainable Finance Framework. According to Emirates NBD, the launch of the new framework is aimed at enhancing its ability to support…",
+      "url": "https://www.esgtoday.com/emirates-nbd-launches-transition-finance-framework-to-support-hard-to-abate-businesses-in-low-carbon-shift/?utm_source=rss utm_medium=rss utm_campaign=emirates-nbd-launches-transition-finance-framework-to-support-hard-to-abate-businesses-in-low-carbon-shift",
+      "publishedAt": "2026-08-19T14:26:26.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Emirates-NBD.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Sustainable Finance",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-catl-to-prioritize-suppliers-with-strong-2026-08-19",
       "source": "esg-today",
@@ -1743,28 +1832,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-why-investor-transition-plans-are-no-lon-2026-08-18",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Why Investor Transition Plans Are No Longer Optional: They re a Competitive Advantage",
-      "excerpt": "The past year has been complex for investors. Disclosure regulations have stalled, coalitions have lost members, and heightened political scrutiny has made many institutions more cautious about speaking publicly. Yet, investors making steady progress share a common characteristic: a structured, written transition plan. In 2026, Ceres has conducted a series of independent reviews of investor climate transition plans across more than 10 asset owners and asset managers. Drawing on publicly available disclosures, this analysis provides a view of how leading…",
-      "url": "https://www.esgtoday.com/why-investor-transition-plans-are-no-longer-optional-theyre-a-competitive-advantage/?utm_source=rss utm_medium=rss utm_campaign=why-investor-transition-plans-are-no-longer-optional-theyre-a-competitive-advantage",
-      "publishedAt": "2026-08-18T09:08:57.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Ceres-Amstutz.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Guest Posts",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-india-s-carbon-credit-programmes-must-be-2026-08-18",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -1922,28 +1989,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-u-s-to-take-any-actions-necessary-to-pro-2026-08-17",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "U.S. to “Take Any Actions Necessary” to Protect Companies from “Unreasonable” EU Sustainability Reporting Regulations",
-      "excerpt": "The U.S. Government has issued a series of requests from the European Union to address concerns with the impact of the EU’s new sustainability due diligence and reporting laws – the CSDDD and CSRD – on U.S. companies. In a comment letter, issued by U.S. Mission to the European Union, the U.S. Government said that the EU Commission’s Omnibus package to simplify its sustainability regulations, including the CSDDD and CSRD “failed to fully address U.S. concerns regarding these directives,” and warns that “the United States will take any actions necessary…",
-      "url": "https://www.esgtoday.com/u-s-to-take-any-actions-necessary-to-protect-companies-from-unreasonable-eu-sustainability-reporting-regulations/?utm_source=rss utm_medium=rss utm_campaign=u-s-to-take-any-actions-necessary-to-protect-companies-from-unreasonable-eu-sustainability-reporting-regulations",
-      "publishedAt": "2026-08-17T11:15:10.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/US-EU-flags.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-alienating-and-cruel-eeoc-files-lawsuit--2026-08-14",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2032,28 +2077,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-video-gamers-give-110-mw-texas-solar-pro-2026-08-13",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Video gamers give 110-MW Texas solar project a financing boost",
-      "excerpt": "Fractionalized virtual power purchase agreements and renewable energy certificate transactions can help underwrite clean energy projects, particularly in volatile energy markets, an executive involved in the transaction said in an interview.",
-      "url": "https://www.esgdive.com/news/video-gamers-give-110-mw-texas-solar-project-a-financing-boost/827809/",
-      "publishedAt": "2026-08-13T15:58:30.000Z",
-      "image": "https://imgproxy.divecdn.com/GqiDUA9KYE69tlCxPhgbqD112b_FMSKxbCi3udXlFpY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYW1lci5qcGc=.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-08-13",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2074,28 +2097,6 @@
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBScVFUYVdJcFd1VERrTUhVb19wQkljaHJ0dUZJRFhyT2xTODBlRURYRXMxY0ZzNXo2bU04eWNYRlFrZmtsSkVRRnNfLWdaclFxa3NKTjkzWm9SdjV4Nmx0RDRZVnZ5N005NFVuOUFwaVl5VGlpSHdtTEpB?oc=5",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-google-inks-deal-to-source-entire-output-2026-08-12",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Google inks deal to source entire output from RWE’s Oklahoma solar project",
-      "excerpt": "Energy produced at the 155 MW Crooked Creek Solar project will help power the tech giant s operations in the Southwest Power Pool market and provide locally sourced electricity to the regional grid.",
-      "url": "https://www.esgdive.com/news/google-inks-ppa-to-source-entire-output-from-rwe-oklahoma-solar-project/827709/",
-      "publishedAt": "2026-08-12T16:57:21.000Z",
-      "image": "https://imgproxy.divecdn.com/_8Ul36Wpp-U6ShhWJpA9O5hgAsCG3FH-HZG7B7COMKA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTE5OTA1MzQ4LmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -2310,7 +2311,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India’s carbon market targets too weak to drive industrial transformation: Report - downtoearth.org.in",
+      "title": "India’s carbon market targets too weak to drive industrial transformation: Report - Down To Earth",
       "excerpt": "Published on : 29 Jul 2026, 8:48 am Copied Listen to this article Summary India’s proposed Carbon Credit Trading Scheme will not deliver transformational industrial decarbonisation, experts warn. New report shows far more ambitious emissions intensity targets needed. Current rules demand only 2–5% cuts by 2026-27 for steel, cement and aluminium. The scheme relies on low carbon prices and weak governance, excludes the power sector. India's proposed Carbon Credit Trading Scheme (CCTS) is unlikely to drive transformational change in industrial…",
       "url": "https://www.downtoearth.org.in/climate-change/indias-carbon-market-targets-too-weak-to-drive-industrial-transformation-report",
       "publishedAt": "2026-07-29T07:00:00.000Z",
@@ -2545,7 +2546,7 @@
       "type": "esg",
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
-      "title": "Voluntary Carbon Credit Market Size, Share, Report 2035 - Market Research Future",
+      "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
       "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
       "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
       "publishedAt": "2026-07-07T07:00:00.000Z",
@@ -2754,6 +2755,30 @@
       "region": "india"
     },
     {
+      "id": "google-carbon-carbon-credit-project-developers-baulk-a-2026-01-20",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon credit project developers baulk at new Gold Standard rules - edie.net",
+      "excerpt": "Dozens of companies developing carbon credit projects have asked industry standards body Gold Standard to be more lenient in its alignment with the global Paris Agreement on climate change. Join our growing army of changemakers and get access to our free content Image: Carolina Pino for Verra. Trees classed as part of a deforestation avoidance project that generates carbon credits. Gold Standard first committed to aligning its requirements with those set out under the Paris Agreement in 2021. International negotiators subsequently agreed on the…",
+      "url": "https://www.edie.net/carbon-credit-project-developers-baulk-at-new-gold-standard-rules/",
+      "publishedAt": "2026-01-20T08:00:00.000Z",
+      "image": "https://edienetlive.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/2/TreesVerraCarbon.gif",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hYOXV2Q0hBbG1uRXVLQWFNYlFTbHRvUVpuTGd0OFI0Qm43bVg3WkU3V2lEWERzQU9ZbzV2N3VHX2M5VnpnRlpOdXNmNC1FZzQwZ3czd00wU1VQbWhQVmhsdjRiRVdXaHpiMnN1N1UxcmM1eWgtMGt6WkFoVWpLLXAtUlZfczYzT3haNE1BSEbSAZwBQVVfeXFMT1ZUREJlS1YxdzBMN3N2TjVyV3RzdWo0RDNrZ0E1bENjMXVJRTlVeVRZNXl5UFI0eEZjdWlpcEYxU2ZiaDBIMzlZUTRDTWlBVGg4SHBiMkJyVDRkSGRhd1NUWWc2cHZOR0J5UWVsYXNIMUFJMnVGLTNRLXQ1Tnk3ZHNneHN2Tk1UMHZOZmJRQks4RGlsVHRRUlFzTmF5?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2761,10 +2786,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": null,
+      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2772,7 +2797,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -2869,30 +2895,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
-      "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
-      "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
-      "publishedAt": "2023-12-04T08:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
     }
   ]
 }
