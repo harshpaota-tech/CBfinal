@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-08-19T07:42:29.481Z",
+  "fetchedAt": "2026-08-19T13:40:49.492Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 62,
-    "india": 16,
-    "world": 46,
-    "withImages": 56,
-    "avgExcerptLength": 438,
+    "india": 15,
+    "world": 47,
+    "withImages": 57,
+    "avgExcerptLength": 446,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -80,35 +80,13 @@
         "region": "india"
       },
       {
-        "id": "esg-today-cip-raises-3-billion-for-growth-markets--2026-08-14",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "CIP Raises $3 Billion for Growth Markets-Focused Clean Energy Infrastructure Fund",
-        "excerpt": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced that it has raised $3 billion in commitments at the final close of its Growth Markets Fund II (GMF II), focused on investing in renewable energy infrastructure projects in high-growth, middle-income markets across Eastern Europe, Asia, and Latin America. Launched in 2023 , GMF II targets large-scale and complex greenfield energy infrastructure projects in 15 select markets such as India, Vietnam, Philippines, Mexico, and South Africa, identified as having strong…",
-        "url": "https://www.esgtoday.com/cip-raises-3-billion-for-growth-markets-focused-clean-energy-infrastructure-fund/?utm_source=rss utm_medium=rss utm_campaign=cip-raises-3-billion-for-growth-markets-focused-clean-energy-infrastructure-fund",
-        "publishedAt": "2026-08-14T12:07:57.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/CIP.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-india-s-carbon-market-targets-too-weak-t-2026-07-29",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India’s carbon market targets too weak to drive industrial transformation: Report - Down To Earth",
+        "title": "India’s carbon market targets too weak to drive industrial transformation: Report - downtoearth.org.in",
         "excerpt": "Published on : 29 Jul 2026, 8:48 am Copied Listen to this article Summary India’s proposed Carbon Credit Trading Scheme will not deliver transformational industrial decarbonisation, experts warn. New report shows far more ambitious emissions intensity targets needed. Current rules demand only 2–5% cuts by 2026-27 for steel, cement and aluminium. The scheme relies on low carbon prices and weak governance, excludes the power sector. India's proposed Carbon Credit Trading Scheme (CCTS) is unlikely to drive transformational change in industrial…",
         "url": "https://www.downtoearth.org.in/climate-change/indias-carbon-market-targets-too-weak-to-drive-industrial-transformation-report",
         "publishedAt": "2026-07-29T07:00:00.000Z",
@@ -133,10 +111,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
-        "excerpt": "India’s green hydrogen push gathers pace BioEnergy Times",
+        "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
         "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
         "publishedAt": "2026-07-29T07:00:00.000Z",
-        "image": null,
+        "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -144,7 +122,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -245,13 +224,13 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-energypolicy-columbia-edu-2026-06-17",
+        "id": "google-india-india-columbia-university-2026-06-17",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India - energypolicy.columbia.edu",
+        "title": "India - Columbia University",
         "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
         "url": "https://www.energypolicy.columbia.edu/publications/india/",
         "publishedAt": "2026-06-17T07:00:00.000Z",
@@ -417,7 +396,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - fuelcellsworks.com",
+        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
         "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
         "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
         "publishedAt": "2025-09-01T07:00:00.000Z",
@@ -436,6 +415,94 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-catl-to-prioritize-suppliers-with-strong-2026-08-19",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "CATL to Prioritize Suppliers with Stronger Low-Carbon Performance",
+        "excerpt": "China-based energy solutions company CATL announced it has reached certification of all 20 of its battery plants as carbon neutral, achieving its key climate target of carbon neutrality across core operations by 2025 on schedule. The company also unveiled its action roadmap toward the achievement of full value-chain carbon neutrality by 2035, which includes plans to issue new procurement guidelines which will require new suppliers to provide carbon footprint data, and prioritize suppliers with stronger low-carbon performance. The company outlined its…",
+        "url": "https://www.esgtoday.com/catl-to-prioritize-suppliers-with-stronger-low-carbon-performance/?utm_source=rss utm_medium=rss utm_campaign=catl-to-prioritize-suppliers-with-stronger-low-carbon-performance",
+        "publishedAt": "2026-08-19T11:49:43.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/CATL-Zeng.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-ifrs-foundation-approves-5-year-operatin-2026-08-19",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "IFRS Foundation Approves 5-Year Operating and Financing Plan for ISSB",
+        "excerpt": "The IFRS Foundation announced the approval of new five-year operating and financing plans for its sustainability reporting and accounting standards boards, the ISSB and IASB, respectively, with the ISSB plan setting out the transition of the board’s funding structure from a seed funding to a more long-term funding model over the next several years. The IFRS Foundation also announced plans to expand the ISSB’s multi-location model with a new office in to be opened in Geneva, Switzerland next year. The IFRS Foundation established the ISSB in 2021 , with…",
+        "url": "https://www.esgtoday.com/ifrs-foundation-approves-5-year-operating-and-financing-plan-for-issb/?utm_source=rss utm_medium=rss utm_campaign=ifrs-foundation-approves-5-year-operating-and-financing-plan-for-issb",
+        "publishedAt": "2026-08-19T11:23:23.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/IFRS2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-q-a-what-is-long-duration-energy-storage-2026-08-19",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Q A: What is ‘long-duration energy storage’ – and why does the UK need it?",
+        "excerpt": "Share The UK is pioneering the use of “ super batteries ” that can store energy for long periods, smoothing the output from wind and solar power as the country moves towards net-zero. It is aiming to build “long-duration energy storage” (LDES) that fills up when supplies are plentiful, to help cover the gaps when the wind does not blow and the sun does not shine. These periods can last for days or even weeks – sometimes referred to as “ dunkelflaute ”, a German word meaning “dark doldrums” – whereas the current batteries on the electricity system only…",
+        "url": "https://www.carbonbrief.org/qa-what-is-long-duration-energy-storage-and-why-does-the-uk-need-it",
+        "publishedAt": "2026-08-19T11:18:11.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/08/2E8WDY9.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-impact-investor-blue-earth-capital-raise-2026-08-19",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Impact Investor Blue Earth Capital Raises Over $200 Million for Secondaries Strategy",
+        "excerpt": "Specialist impact investor Blue Earth Capital announced that it has raised over $200 million in investor commitments at the second close of its impact secondaries strategy, the firm’s first fund dedicated to secondary transactions. Founded in 2021, Switzerland-based Blue Earth Capital targets investments addressing the world’s most pressing social and environmental challenges while aiming for attractive and market-rate financial returns, through dedicated private equity, private credit, and multi-asset solutions. According to Blue Earth Capital, the…",
+        "url": "https://www.esgtoday.com/impact-investor-blue-earth-capital-raises-over-200-million-for-secondaries-strategy/?utm_source=rss utm_medium=rss utm_campaign=impact-investor-blue-earth-capital-raises-over-200-million-for-secondaries-strategy",
+        "publishedAt": "2026-08-19T10:34:31.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Blue-Earth-Capital.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Private Equity & Venture Capital",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-us-calls-for-eu-to-deliver-on-trade-conc-2026-08-18",
         "source": "esg-dive",
@@ -857,28 +924,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-deepki-acquires-real-estate-sustainabili-2026-08-14",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Deepki Acquires Real Estate Sustainability Consulting and Data Platforms Evora, Metry",
-        "excerpt": "Real estate sustainability data solutions provider Deepki announced the acquisition of real estate-focused sustainability consultancy and services firm Evora Global and its energy data collection subsidiary Metry. Founded in 2011, UK-based Evora provides sustainability consulting and software solutions for the real estate and real assets sectors to help clients mitigate sustainability risks, enhance asset value, and safeguard market reputation. The company’s offerings include advisory, managed services, and data-driven software solutions across key…",
-        "url": "https://www.esgtoday.com/deepki-acquires-real-estate-sustainability-consulting-and-data-platforms-evora-metry/?utm_source=rss utm_medium=rss utm_campaign=deepki-acquires-real-estate-sustainability-consulting-and-data-platforms-evora-metry",
-        "publishedAt": "2026-08-14T11:21:32.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Evora-founders.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-lego-leans-on-renewable-energy-to-cut-op-2026-08-13",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -919,28 +964,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-climate-fund-managers-raises-over-180-mi-2026-08-13",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Climate Fund Managers Raises Over $180 Million to Back Green Hydrogen Value Chain in Southern Africa",
-        "excerpt": "Climate-focused blended finance investment manager Climate Fund Managers announced that it has raised ZAR 3 billion (USD$182 million) at the first close of SA-H2, a blended finance fund focused on supporting the development construction and operation of green-hydrogen infrastructure in Southern Africa. The firm said that it is targeting a final close of ZAR 12 billion ($728 million) by mid-2028 for the new fund. Launched in 2015 as a joint venture between Dutch development bank FMO and South African Sanlam InfraWorks, Climate Fund Managers specializes…",
-        "url": "https://www.esgtoday.com/climate-fund-managers-raises-over-180-million-to-back-green-hydrogen-value-chain-in-southern-africa/?utm_source=rss utm_medium=rss utm_campaign=climate-fund-managers-raises-over-180-million-to-back-green-hydrogen-value-chain-in-southern-africa",
-        "publishedAt": "2026-08-13T15:11:05.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/green-hydrogen-CFM.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1115,28 +1138,6 @@
         "url": "https://www.carbonbrief.org/factcheck-how-nuclear-gas-wind-and-solar-power-are-affected-during-heatwaves",
         "publishedAt": "2026-08-04T15:39:06.000Z",
         "image": "https://www.carbonbrief.org/wp-content/uploads/2026/08/Screenshot-2026-08-04-at-4.04.01-PM.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-q-a-does-the-world-need-carbon-capture-a-2026-08-03",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Q A: Does the world need ‘carbon capture and storage’ to reach net-zero?",
-        "excerpt": "Share When carbon dioxide (CO2) is released from a factory or power plant, the gas can be captured and permanently stored underground, preventing it from driving climate change. This is the idea underpinning carbon capture and storage (CCS), a technology that is at the heart of many nations’ net-zero plans . Influential organisations, including the Intergovernmental Panel on Climate Change (IPCC), describe CCS as “critical” for cutting emissions from key sectors – and for helping to avoid dangerous global warming. In particular, capturing CO2 is seen as…",
-        "url": "https://www.carbonbrief.org/qa-does-the-world-need-carbon-capture-and-storage-to-reach-net-zero",
-        "publishedAt": "2026-08-03T13:05:33.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/image-17.png",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1338,7 +1339,7 @@
         "type": "esg",
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
-        "title": "Voluntary Carbon Credit Market Size, Share, Report 2035 - marketresearchfuture.com",
+        "title": "Voluntary Carbon Credit Market Size, Share, Report 2035 - Market Research Future",
         "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
         "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
         "publishedAt": "2026-07-07T07:00:00.000Z",
@@ -1476,6 +1477,94 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-catl-to-prioritize-suppliers-with-strong-2026-08-19",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "CATL to Prioritize Suppliers with Stronger Low-Carbon Performance",
+      "excerpt": "China-based energy solutions company CATL announced it has reached certification of all 20 of its battery plants as carbon neutral, achieving its key climate target of carbon neutrality across core operations by 2025 on schedule. The company also unveiled its action roadmap toward the achievement of full value-chain carbon neutrality by 2035, which includes plans to issue new procurement guidelines which will require new suppliers to provide carbon footprint data, and prioritize suppliers with stronger low-carbon performance. The company outlined its…",
+      "url": "https://www.esgtoday.com/catl-to-prioritize-suppliers-with-stronger-low-carbon-performance/?utm_source=rss utm_medium=rss utm_campaign=catl-to-prioritize-suppliers-with-stronger-low-carbon-performance",
+      "publishedAt": "2026-08-19T11:49:43.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/CATL-Zeng.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-ifrs-foundation-approves-5-year-operatin-2026-08-19",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "IFRS Foundation Approves 5-Year Operating and Financing Plan for ISSB",
+      "excerpt": "The IFRS Foundation announced the approval of new five-year operating and financing plans for its sustainability reporting and accounting standards boards, the ISSB and IASB, respectively, with the ISSB plan setting out the transition of the board’s funding structure from a seed funding to a more long-term funding model over the next several years. The IFRS Foundation also announced plans to expand the ISSB’s multi-location model with a new office in to be opened in Geneva, Switzerland next year. The IFRS Foundation established the ISSB in 2021 , with…",
+      "url": "https://www.esgtoday.com/ifrs-foundation-approves-5-year-operating-and-financing-plan-for-issb/?utm_source=rss utm_medium=rss utm_campaign=ifrs-foundation-approves-5-year-operating-and-financing-plan-for-issb",
+      "publishedAt": "2026-08-19T11:23:23.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/IFRS2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-q-a-what-is-long-duration-energy-storage-2026-08-19",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Q A: What is ‘long-duration energy storage’ – and why does the UK need it?",
+      "excerpt": "Share The UK is pioneering the use of “ super batteries ” that can store energy for long periods, smoothing the output from wind and solar power as the country moves towards net-zero. It is aiming to build “long-duration energy storage” (LDES) that fills up when supplies are plentiful, to help cover the gaps when the wind does not blow and the sun does not shine. These periods can last for days or even weeks – sometimes referred to as “ dunkelflaute ”, a German word meaning “dark doldrums” – whereas the current batteries on the electricity system only…",
+      "url": "https://www.carbonbrief.org/qa-what-is-long-duration-energy-storage-and-why-does-the-uk-need-it",
+      "publishedAt": "2026-08-19T11:18:11.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/08/2E8WDY9.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-impact-investor-blue-earth-capital-raise-2026-08-19",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Impact Investor Blue Earth Capital Raises Over $200 Million for Secondaries Strategy",
+      "excerpt": "Specialist impact investor Blue Earth Capital announced that it has raised over $200 million in investor commitments at the second close of its impact secondaries strategy, the firm’s first fund dedicated to secondary transactions. Founded in 2021, Switzerland-based Blue Earth Capital targets investments addressing the world’s most pressing social and environmental challenges while aiming for attractive and market-rate financial returns, through dedicated private equity, private credit, and multi-asset solutions. According to Blue Earth Capital, the…",
+      "url": "https://www.esgtoday.com/impact-investor-blue-earth-capital-raises-over-200-million-for-secondaries-strategy/?utm_source=rss utm_medium=rss utm_campaign=impact-investor-blue-earth-capital-raises-over-200-million-for-secondaries-strategy",
+      "publishedAt": "2026-08-19T10:34:31.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Blue-Earth-Capital.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Private Equity & Venture Capital",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-dive-us-calls-for-eu-to-deliver-on-trade-conc-2026-08-18",
       "source": "esg-dive",
@@ -1921,50 +2010,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-cip-raises-3-billion-for-growth-markets--2026-08-14",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "CIP Raises $3 Billion for Growth Markets-Focused Clean Energy Infrastructure Fund",
-      "excerpt": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced that it has raised $3 billion in commitments at the final close of its Growth Markets Fund II (GMF II), focused on investing in renewable energy infrastructure projects in high-growth, middle-income markets across Eastern Europe, Asia, and Latin America. Launched in 2023 , GMF II targets large-scale and complex greenfield energy infrastructure projects in 15 select markets such as India, Vietnam, Philippines, Mexico, and South Africa, identified as having strong…",
-      "url": "https://www.esgtoday.com/cip-raises-3-billion-for-growth-markets-focused-clean-energy-infrastructure-fund/?utm_source=rss utm_medium=rss utm_campaign=cip-raises-3-billion-for-growth-markets-focused-clean-energy-infrastructure-fund",
-      "publishedAt": "2026-08-14T12:07:57.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/CIP.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "india"
-    },
-    {
-      "id": "esg-today-deepki-acquires-real-estate-sustainabili-2026-08-14",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Deepki Acquires Real Estate Sustainability Consulting and Data Platforms Evora, Metry",
-      "excerpt": "Real estate sustainability data solutions provider Deepki announced the acquisition of real estate-focused sustainability consultancy and services firm Evora Global and its energy data collection subsidiary Metry. Founded in 2011, UK-based Evora provides sustainability consulting and software solutions for the real estate and real assets sectors to help clients mitigate sustainability risks, enhance asset value, and safeguard market reputation. The company’s offerings include advisory, managed services, and data-driven software solutions across key…",
-      "url": "https://www.esgtoday.com/deepki-acquires-real-estate-sustainability-consulting-and-data-platforms-evora-metry/?utm_source=rss utm_medium=rss utm_campaign=deepki-acquires-real-estate-sustainability-consulting-and-data-platforms-evora-metry",
-      "publishedAt": "2026-08-14T11:21:32.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Evora-founders.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-lego-leans-on-renewable-energy-to-cut-op-2026-08-13",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2005,28 +2050,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-climate-fund-managers-raises-over-180-mi-2026-08-13",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Climate Fund Managers Raises Over $180 Million to Back Green Hydrogen Value Chain in Southern Africa",
-      "excerpt": "Climate-focused blended finance investment manager Climate Fund Managers announced that it has raised ZAR 3 billion (USD$182 million) at the first close of SA-H2, a blended finance fund focused on supporting the development construction and operation of green-hydrogen infrastructure in Southern Africa. The firm said that it is targeting a final close of ZAR 12 billion ($728 million) by mid-2028 for the new fund. Launched in 2015 as a joint venture between Dutch development bank FMO and South African Sanlam InfraWorks, Climate Fund Managers specializes…",
-      "url": "https://www.esgtoday.com/climate-fund-managers-raises-over-180-million-to-back-green-hydrogen-value-chain-in-southern-africa/?utm_source=rss utm_medium=rss utm_campaign=climate-fund-managers-raises-over-180-million-to-back-green-hydrogen-value-chain-in-southern-africa",
-      "publishedAt": "2026-08-13T15:11:05.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/green-hydrogen-CFM.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2212,28 +2235,6 @@
       "region": "world"
     },
     {
-      "id": "carbon-brief-q-a-does-the-world-need-carbon-capture-a-2026-08-03",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Q A: Does the world need ‘carbon capture and storage’ to reach net-zero?",
-      "excerpt": "Share When carbon dioxide (CO2) is released from a factory or power plant, the gas can be captured and permanently stored underground, preventing it from driving climate change. This is the idea underpinning carbon capture and storage (CCS), a technology that is at the heart of many nations’ net-zero plans . Influential organisations, including the Intergovernmental Panel on Climate Change (IPCC), describe CCS as “critical” for cutting emissions from key sectors – and for helping to avoid dangerous global warming. In particular, capturing CO2 is seen as…",
-      "url": "https://www.carbonbrief.org/qa-does-the-world-need-carbon-capture-and-storage-to-reach-net-zero",
-      "publishedAt": "2026-08-03T13:05:33.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/image-17.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-august--2026-08-03",
       "source": "verra",
       "sourceName": "Verra",
@@ -2309,7 +2310,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India’s carbon market targets too weak to drive industrial transformation: Report - Down To Earth",
+      "title": "India’s carbon market targets too weak to drive industrial transformation: Report - downtoearth.org.in",
       "excerpt": "Published on : 29 Jul 2026, 8:48 am Copied Listen to this article Summary India’s proposed Carbon Credit Trading Scheme will not deliver transformational industrial decarbonisation, experts warn. New report shows far more ambitious emissions intensity targets needed. Current rules demand only 2–5% cuts by 2026-27 for steel, cement and aluminium. The scheme relies on low carbon prices and weak governance, excludes the power sector. India's proposed Carbon Credit Trading Scheme (CCTS) is unlikely to drive transformational change in industrial…",
       "url": "https://www.downtoearth.org.in/climate-change/indias-carbon-market-targets-too-weak-to-drive-industrial-transformation-report",
       "publishedAt": "2026-07-29T07:00:00.000Z",
@@ -2334,10 +2335,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
-      "excerpt": "India’s green hydrogen push gathers pace BioEnergy Times",
+      "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
       "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
       "publishedAt": "2026-07-29T07:00:00.000Z",
-      "image": null,
+      "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2345,7 +2346,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -2543,7 +2545,7 @@
       "type": "esg",
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
-      "title": "Voluntary Carbon Credit Market Size, Share, Report 2035 - marketresearchfuture.com",
+      "title": "Voluntary Carbon Credit Market Size, Share, Report 2035 - Market Research Future",
       "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
       "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
       "publishedAt": "2026-07-07T07:00:00.000Z",
@@ -2585,13 +2587,13 @@
       "region": "india"
     },
     {
-      "id": "google-india-india-energypolicy-columbia-edu-2026-06-17",
+      "id": "google-india-india-columbia-university-2026-06-17",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India - energypolicy.columbia.edu",
+      "title": "India - Columbia University",
       "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
       "url": "https://www.energypolicy.columbia.edu/publications/india/",
       "publishedAt": "2026-06-17T07:00:00.000Z",
@@ -2851,7 +2853,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - fuelcellsworks.com",
+      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
       "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
       "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
       "publishedAt": "2025-09-01T07:00:00.000Z",
