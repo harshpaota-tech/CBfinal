@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-08-24T13:48:14.334Z",
+  "fetchedAt": "2026-08-24T19:24:56.769Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 15,
     "world": 47,
-    "withImages": 57,
-    "avgExcerptLength": 455,
+    "withImages": 53,
+    "avgExcerptLength": 431,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -373,10 +373,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -384,8 +384,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
         },
         "region": "india"
       },
@@ -415,6 +414,72 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-want-a-board-seat-xero-s-cfo-says-being--2026-08-24",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Want a board seat? Xero’s CFO says being a good operator isn’t enough",
+        "excerpt": "Claire Bramley says CFOs chasing board seats need to show they can think like enterprise leaders, not just modern finance leaders.",
+        "url": "https://www.esgdive.com/news/want-a-board-seat-xero-cfo-claire-bramley-xerocon-2026-interview-/828577/",
+        "publishedAt": "2026-08-24T16:42:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-citi-reports-sustainable-finance-progres-2026-08-24",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Citi reports sustainable finance progress, sets new 2030 goals",
+        "excerpt": "The bank said it had committed $647.2 billion to sustainable financing since 2020, with CEO Jane Fraser noting its clients see resilience as a competitive necessity.",
+        "url": "https://www.esgdive.com/news/citi-reports-sustainable-finance-progress-sets-new-2030-goals/828614/",
+        "publishedAt": "2026-08-24T16:39:00.000Z",
+        "image": "https://imgproxy.divecdn.com/HkBCWZvT3EujG2mkVyWqx38dZZzvi-RqJFvDjSAUbc4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg1OTIzMDI1LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-u-s-doe-invests-500-million-in-critical--2026-08-24",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "U.S. DOE Invests $500 Million in Critical Mineral, Battery Supply Chain Projects",
+        "excerpt": "The U.S. Department of Energy’s (DOE) Office of Critical Minerals and Energy Innovation (CMEI) announced investments of $500 million in a series of projects aimed at expanding critical mineral and material processing, battery manufacturing, and recycling capacity in the U.S. The new investments follows announced plans last year by the DOE of plans to provide nearly $1 billion in funding to bolster the production and supply of U.S.-based critical minerals and materials, with more than half to be channeled towards battery materials processing,…",
+        "url": "https://www.esgtoday.com/u-s-doe-invests-500-million-in-critical-mineral-and-battery-supply-chain-projects/?utm_source=rss utm_medium=rss utm_campaign=u-s-doe-invests-500-million-in-critical-mineral-and-battery-supply-chain-projects",
+        "publishedAt": "2026-08-24T14:58:40.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/DOE2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-world-bank-issues-4-billion-sustainable--2026-08-24",
         "source": "esg-today",
@@ -791,28 +856,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-dimension-energy-secures-857-million-to--2026-08-20",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Dimension Energy Secures $857 Million to Fund Expansion of U.S. Distributed Solar Portfolio",
-        "excerpt": "Solar developer and operator Dimension Energy announced that it has raised $857 million in capital, with proceeds aimed at accelerating the growth of its distributed solar operations in the U.S. The company said that the new capital will support its growth to 1 GW of operating assets by 2028. Founded in 2018, Atlanta-based Dimension Energy develops, owns and operates distributed solar projects across the U.S., providing renewable energy to local communities and businesses. The new capital includes a $200 million increase to the company’s corporate…",
-        "url": "https://www.esgtoday.com/dimension-energy-raises-857-million-to-fund-expansion-of-u-s-distributed-solar-portfolio/?utm_source=rss utm_medium=rss utm_campaign=dimension-energy-raises-857-million-to-fund-expansion-of-u-s-distributed-solar-portfolio",
-        "publishedAt": "2026-08-20T12:31:30.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/solar-Dimension.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-gold-standard-and-verra-launch-tool-to-s-2026-08-20",
         "source": "verra",
         "sourceName": "Verra",
@@ -831,6 +874,30 @@
         "meta": {
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-verra-gs-launch-tool-to-report-article-6-2026-08-20",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra, GS launch tool to report Article 6 accounting measures - Quantum Commodity Intelligence",
+        "excerpt": "Search and filter all the latest news, prices and analysis for carbon offset markets from Quantum Commodity Intelligence.",
+        "url": "https://www.qcintel.com/carbon/article/verra-gs-launch-tool-to-report-article-6-accounting-measures-71304.html",
+        "publishedAt": "2026-08-20T07:00:00.000Z",
+        "image": "/i/qci_logo_sq_300x300.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGdaM3FhWTYxSWZtdmdLa3lXamZpa0kyNzBHZnpMRWpXelE5UlFGRWVKQ0c1WEFBTnBFNFk5ckNYaXIyTW5FeWZuSFZicUJNNzV2ZVdsVFpnUk9KYWhpVm9DbFRZbC04NkVhOC1xaXpaZmZDdDh4enZ3TkxpWDJrRV9VZzdMV3pSQm1qQUZkeE5ad1M5OUhZREZvV3pRa2hsVE5sTTducDZhckpRejdR?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -947,28 +1014,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-executives-put-the-spotlight-on-ai-s-rel-2026-08-18",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Executives put the spotlight on AI’s reliability issue",
-        "excerpt": "Only 35% of leaders say AI consistently delivers business outcomes, earns regulator confidence and allows control, according to a report from HFS Research and TCS.",
-        "url": "https://www.esgdive.com/news/executives-spotlight-ai-reliability-issue/828138/",
-        "publishedAt": "2026-08-18T16:15:00.000Z",
-        "image": "https://imgproxy.divecdn.com/D2tr_WoYNF5inc8Jpx3GMWBhK0-exyJ2Bi6JWlEJNRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eV9JbWFnZS5qcGc=.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-who-verifies-carbon-credits-carboncredit-2026-08-18",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1038,28 +1083,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-sec-says-it-will-stop-responding-to-no-a-2026-08-17",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "SEC says it will stop responding to no-action requests ‘entirely’",
-        "excerpt": "After sitting out the bulk of the no-action process in the 2025-26 proxy season, the SEC is now considering broader changes to the rule governing shareholder proposals.",
-        "url": "https://www.esgdive.com/news/sec-says-it-will-stop-responding-to-no-action-requests-entirely/828026/",
-        "publishedAt": "2026-08-17T15:45:00.000Z",
-        "image": "https://imgproxy.divecdn.com/wcliFL2GT24ElKy9lskPsiMpg_ASSbeJmBER3NJRyuw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04Mjg4MDM1M193bWJVbGFULmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-why-land-use-emissions-have-fallen-by-a--2026-08-17",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1123,6 +1146,30 @@
         "meta": {
           "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-08-13",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
+        "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
+        "url": "https://yellow.com/chicago.html/news/can-blockchain-fix-carbon-credits",
+        "publishedAt": "2026-08-13T03:35:53.000Z",
+        "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBScVFUYVdJcFd1VERrTUhVb19wQkljaHJ0dUZJRFhyT2xTODBlRURYRXMxY0ZzNXo2bU04eWNYRlFrZmtsSkVRRnNfLWdaclFxa3NKTjkzWm9SdjV4Nmx0RDRZVnZ5N005NFVuOUFwaVl5VGlpSHdtTEpB?oc=5",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -1308,6 +1355,30 @@
         "region": "world"
       },
       {
+        "id": "google-carbon-voluntary-carbon-credit-market-size-shar-2026-07-07",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
+        "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
+        "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
+        "publishedAt": "2026-07-07T07:00:00.000Z",
+        "image": "https://www.marketresearchfuture.com/uploads/infographics/voluntary-carbon-credit-market.webp?v=1787579715",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOW5DeXR6dXdqR09QVy1Vb285U1NKQUZPYkZOU0tfYnRZdXR3YjR0NmZuRjZubXNaaGxKUmFBOG5NRDRpeGNtMjJ2bkxoYmF5Z2NsRmY5Yk9xYXh3REI0RHNZU09xcXI4RmtoVnNpYkItNmlEVmNucTI4VnVHdTRVcGQ1STlHTWVF?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1356,41 +1427,17 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-beyond-price-rethinking-carbon-credit-va-2024-11-27",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Beyond price: rethinking carbon credit value in the voluntary market - Lockton",
-        "excerpt": "Back Back Prices in voluntary carbon credit markets have declined broadly, but there is growing evidence of price differentiation based on quality attributes. This suggests the market is maturing in how it values carbon credits beyond traditional pricing. Voluntary carbon markets allow carbon emitters to offset their unavoidable emissions by purchasing carbon credits. These are generated by projects removing or reducing greenhouse gas (GHG) emissions from the atmosphere. The voluntary carbon credit market trades certified and transferrable instruments…",
-        "url": "https://global.lockton.com/news-insights/beyond-price-rethinking-carbon-credit-value-in-the-voluntary-market",
-        "publishedAt": "2024-11-27T08:00:00.000Z",
-        "image": "https://d2vppzocvtms05.cloudfront.net/media/0B4364C5-217D-4EFD-B9C36F1977EF6D20/CEAE51AE-8D32-420E-9AE3CF9B2779C87D/webimage-2BC26D0B-8591-4912-AD0175D1031B7F2F.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUl4R2taazBndXh6OERQbm1mNzZ2NVB3UW5FRXlKT3ZJZGJ2TTRocXBkSXIzV2xJM19zR2NDWk54cnhQM1Q1d1ZHRThpelVsWm4yMFNhdzMxX05HSVNzaVNhOWx3cWZmRUZoYU9FTEEzRUt3WTBGLWJZbnVKcHJ0bXU0V0FBQjdUbzBnMlQ5WkU4WVpKYS1uM29BZ0l0eWVsT1RMYUdiZ0lreldf?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
+        "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
-        "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
-        "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
-        "publishedAt": "2023-12-04T08:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
+        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+        "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+        "publishedAt": "2025-11-12T08:00:00.000Z",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1398,23 +1445,22 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
         },
         "region": "world"
       },
       {
-        "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
+        "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
-        "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - The Guardian",
-        "excerpt": "The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images View image in fullscreen The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images The age of extinction Carbon offsetting This article is more than 3 years old Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless,…",
-        "url": "https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe",
-        "publishedAt": "2023-01-18T08:00:00.000Z",
-        "image": "https://i.guim.co.uk/img/media/9f470b957b3b181b4107c89493f7a8eddb356834/0_12_2089_1254/master/2089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=c383f5d710fa80450e09a82767c12d10",
+        "title": "Carbon markets are incomplete without nuclear - Utility Dive",
+        "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
+        "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
+        "publishedAt": "2025-09-23T07:00:00.000Z",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1422,62 +1468,79 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEFTZ3U2bGJHM25xeVVQZFJ4eGZDNWo5TXdUQ2JxeWxGZ3NZWjZhQ0RMRzBTZjB4SUd3LXFRZGlOWUpuUkkwXzNITVhUYkthNDQ4dkY5YTV5RGI2OTRNdTBkUWE3OEZsbUs0RGViR0RKaUVLS0ZTMk13ZU44UlBTRm8zUzY0NkllUXRfcFpxT3dOcmlpSE5iUHphcnVWam1Ec2dMSW1ROW9SM0UyMUo5NWNNbFRBSzhiR2VJ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-creating-carbon-offset-units-on-the-volu-2022-02-22",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Creating carbon offset units on the voluntary market - Norton Rose Fulbright",
-        "excerpt": "In the past few years, there has been a proliferation of countries and organisations pledging to achieve net-zero emissions.",
-        "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/6f326481/creating-carbon-offset-units-on-the-voluntary-market",
-        "publishedAt": "2022-02-22T19:16:56.000Z",
-        "image": "https://www.nortonrosefulbright.com/-/media/images/nrf/thought-leadership/australia/publications/hand-and-tree.jpg?revision=199a6252-fda6-4068-a7f3-8c0b3fff7a19&revision=5249493629607387904",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXZXNnBDS1Q4NTR0TUVMaWZ3eml4T0VQWS1EZVRrXzNqbTFEeHlNcEVXYjVRdi04M0lRY2c4cWpaWFhyQzV0SUtPamFxSkdtcmE4c3dsa19QSi1jTGZUeUhmbkg3bWhMVXNSV014dlhael9KQ2RwNDVROHRUczNycTZhalVTVHlBUzFlT2pua0N3a1J2MFdnSThfSFEtWXRTT0ptbW9xOGJLV19hQzhlWUlaWUR2eThZUmVTNkY1dC0?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-verified-carbon-standard-changes-name-to-2019-07-08",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verified Carbon Standard Changes Name To Verra - Ecosystem Marketplace",
-        "excerpt": "As carbon standards like the Verified Carbon Standard and the Gold Standard expand their coverage to compliance with the Sustainable Development Goals, old names often no longer apply. To reflect that, the Verified Carbon Standard, which began as the Voluntary Carbon Standard, has now changed its name to Verra . 15 February 2018 | As of today, the organization that began as the Voluntary Carbon Standard and then became the Verified Carbon Standard is now called Verra , to reflect its broadening coverage of attributes associated with the UN Sustainable…",
-        "url": "https://www.ecosystemmarketplace.com/articles/vcs-changes-name-to-verra/",
-        "publishedAt": "2019-07-08T02:26:37.000Z",
-        "image": "https://www.ecosystemmarketplace.com/wp-content/uploads/2018/02/Verra.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2ajJnMGcyYUgzbHlZemR3YWhrcFBTY1RrZGR0cGh3NU1XWHdUeUlCOVdfOXN3YV8zSWJfNnhBQXlfVXptQzNlUUpDUm0zdVJmZHZ6ME42UWRIYkVzbXp5Rnp1M2FlOHNYZ0UwVWVmbDNHdUEtdk9HbFkzN1Y?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
         },
         "region": "world"
       }
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-want-a-board-seat-xero-s-cfo-says-being--2026-08-24",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Want a board seat? Xero’s CFO says being a good operator isn’t enough",
+      "excerpt": "Claire Bramley says CFOs chasing board seats need to show they can think like enterprise leaders, not just modern finance leaders.",
+      "url": "https://www.esgdive.com/news/want-a-board-seat-xero-cfo-claire-bramley-xerocon-2026-interview-/828577/",
+      "publishedAt": "2026-08-24T16:42:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-citi-reports-sustainable-finance-progres-2026-08-24",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Citi reports sustainable finance progress, sets new 2030 goals",
+      "excerpt": "The bank said it had committed $647.2 billion to sustainable financing since 2020, with CEO Jane Fraser noting its clients see resilience as a competitive necessity.",
+      "url": "https://www.esgdive.com/news/citi-reports-sustainable-finance-progress-sets-new-2030-goals/828614/",
+      "publishedAt": "2026-08-24T16:39:00.000Z",
+      "image": "https://imgproxy.divecdn.com/HkBCWZvT3EujG2mkVyWqx38dZZzvi-RqJFvDjSAUbc4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg1OTIzMDI1LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-u-s-doe-invests-500-million-in-critical--2026-08-24",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "U.S. DOE Invests $500 Million in Critical Mineral, Battery Supply Chain Projects",
+      "excerpt": "The U.S. Department of Energy’s (DOE) Office of Critical Minerals and Energy Innovation (CMEI) announced investments of $500 million in a series of projects aimed at expanding critical mineral and material processing, battery manufacturing, and recycling capacity in the U.S. The new investments follows announced plans last year by the DOE of plans to provide nearly $1 billion in funding to bolster the production and supply of U.S.-based critical minerals and materials, with more than half to be channeled towards battery materials processing,…",
+      "url": "https://www.esgtoday.com/u-s-doe-invests-500-million-in-critical-mineral-and-battery-supply-chain-projects/?utm_source=rss utm_medium=rss utm_campaign=u-s-doe-invests-500-million-in-critical-mineral-and-battery-supply-chain-projects",
+      "publishedAt": "2026-08-24T14:58:40.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/DOE2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-world-bank-issues-4-billion-sustainable--2026-08-24",
       "source": "esg-today",
@@ -1854,28 +1917,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-dimension-energy-secures-857-million-to--2026-08-20",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Dimension Energy Secures $857 Million to Fund Expansion of U.S. Distributed Solar Portfolio",
-      "excerpt": "Solar developer and operator Dimension Energy announced that it has raised $857 million in capital, with proceeds aimed at accelerating the growth of its distributed solar operations in the U.S. The company said that the new capital will support its growth to 1 GW of operating assets by 2028. Founded in 2018, Atlanta-based Dimension Energy develops, owns and operates distributed solar projects across the U.S., providing renewable energy to local communities and businesses. The new capital includes a $200 million increase to the company’s corporate…",
-      "url": "https://www.esgtoday.com/dimension-energy-raises-857-million-to-fund-expansion-of-u-s-distributed-solar-portfolio/?utm_source=rss utm_medium=rss utm_campaign=dimension-energy-raises-857-million-to-fund-expansion-of-u-s-distributed-solar-portfolio",
-      "publishedAt": "2026-08-20T12:31:30.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/solar-Dimension.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-gold-standard-and-verra-launch-tool-to-s-2026-08-20",
       "source": "verra",
       "sourceName": "Verra",
@@ -1894,6 +1935,30 @@
       "meta": {
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-carbon-verra-gs-launch-tool-to-report-article-6-2026-08-20",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra, GS launch tool to report Article 6 accounting measures - Quantum Commodity Intelligence",
+      "excerpt": "Search and filter all the latest news, prices and analysis for carbon offset markets from Quantum Commodity Intelligence.",
+      "url": "https://www.qcintel.com/carbon/article/verra-gs-launch-tool-to-report-article-6-accounting-measures-71304.html",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "image": "/i/qci_logo_sq_300x300.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGdaM3FhWTYxSWZtdmdLa3lXamZpa0kyNzBHZnpMRWpXelE5UlFGRWVKQ0c1WEFBTnBFNFk5ckNYaXIyTW5FeWZuSFZicUJNNzV2ZVdsVFpnUk9KYWhpVm9DbFRZbC04NkVhOC1xaXpaZmZDdDh4enZ3TkxpWDJrRV9VZzdMV3pSQm1qQUZkeE5ad1M5OUhZREZvV3pRa2hsVE5sTTducDZhckpRejdR?oc=5",
         "imageSource": "publisher"
       },
       "region": "world"
@@ -2010,28 +2075,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-executives-put-the-spotlight-on-ai-s-rel-2026-08-18",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Executives put the spotlight on AI’s reliability issue",
-      "excerpt": "Only 35% of leaders say AI consistently delivers business outcomes, earns regulator confidence and allows control, according to a report from HFS Research and TCS.",
-      "url": "https://www.esgdive.com/news/executives-spotlight-ai-reliability-issue/828138/",
-      "publishedAt": "2026-08-18T16:15:00.000Z",
-      "image": "https://imgproxy.divecdn.com/D2tr_WoYNF5inc8Jpx3GMWBhK0-exyJ2Bi6JWlEJNRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eV9JbWFnZS5qcGc=.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-carbon-who-verifies-carbon-credits-carboncredit-2026-08-18",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2125,28 +2168,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-sec-says-it-will-stop-responding-to-no-a-2026-08-17",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "SEC says it will stop responding to no-action requests ‘entirely’",
-      "excerpt": "After sitting out the bulk of the no-action process in the 2025-26 proxy season, the SEC is now considering broader changes to the rule governing shareholder proposals.",
-      "url": "https://www.esgdive.com/news/sec-says-it-will-stop-responding-to-no-action-requests-entirely/828026/",
-      "publishedAt": "2026-08-17T15:45:00.000Z",
-      "image": "https://imgproxy.divecdn.com/wcliFL2GT24ElKy9lskPsiMpg_ASSbeJmBER3NJRyuw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04Mjg4MDM1M193bWJVbGFULmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-why-land-use-emissions-have-fallen-by-a--2026-08-17",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2234,6 +2255,30 @@
       "meta": {
         "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-08-13",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
+      "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
+      "url": "https://yellow.com/chicago.html/news/can-blockchain-fix-carbon-credits",
+      "publishedAt": "2026-08-13T03:35:53.000Z",
+      "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBScVFUYVdJcFd1VERrTUhVb19wQkljaHJ0dUZJRFhyT2xTODBlRURYRXMxY0ZzNXo2bU04eWNYRlFrZmtsSkVRRnNfLWdaclFxa3NKTjkzWm9SdjV4Nmx0RDRZVnZ5N005NFVuOUFwaVl5VGlpSHdtTEpB?oc=5",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -2539,6 +2584,30 @@
       "region": "india"
     },
     {
+      "id": "google-carbon-voluntary-carbon-credit-market-size-shar-2026-07-07",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
+      "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
+      "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
+      "publishedAt": "2026-07-07T07:00:00.000Z",
+      "image": "https://www.marketresearchfuture.com/uploads/infographics/voluntary-carbon-credit-market.webp?v=1787579715",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOW5DeXR6dXdqR09QVy1Vb285U1NKQUZPYkZOU0tfYnRZdXR3YjR0NmZuRjZubXNaaGxKUmFBOG5NRDRpeGNtMjJ2bkxoYmF5Z2NsRmY5Yk9xYXh3REI0RHNZU09xcXI4RmtoVnNpYkItNmlEVmNucTI4VnVHdTRVcGQ1STlHTWVF?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2736,10 +2805,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2747,10 +2816,55 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
       },
       "region": "india"
+    },
+    {
+      "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+      "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+      "publishedAt": "2025-11-12T08:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon markets are incomplete without nuclear - Utility Dive",
+      "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
+      "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
+      "publishedAt": "2025-09-23T07:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
+      },
+      "region": "world"
     },
     {
       "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
@@ -2775,126 +2889,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "google-carbon-beyond-price-rethinking-carbon-credit-va-2024-11-27",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Beyond price: rethinking carbon credit value in the voluntary market - Lockton",
-      "excerpt": "Back Back Prices in voluntary carbon credit markets have declined broadly, but there is growing evidence of price differentiation based on quality attributes. This suggests the market is maturing in how it values carbon credits beyond traditional pricing. Voluntary carbon markets allow carbon emitters to offset their unavoidable emissions by purchasing carbon credits. These are generated by projects removing or reducing greenhouse gas (GHG) emissions from the atmosphere. The voluntary carbon credit market trades certified and transferrable instruments…",
-      "url": "https://global.lockton.com/news-insights/beyond-price-rethinking-carbon-credit-value-in-the-voluntary-market",
-      "publishedAt": "2024-11-27T08:00:00.000Z",
-      "image": "https://d2vppzocvtms05.cloudfront.net/media/0B4364C5-217D-4EFD-B9C36F1977EF6D20/CEAE51AE-8D32-420E-9AE3CF9B2779C87D/webimage-2BC26D0B-8591-4912-AD0175D1031B7F2F.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUl4R2taazBndXh6OERQbm1mNzZ2NVB3UW5FRXlKT3ZJZGJ2TTRocXBkSXIzV2xJM19zR2NDWk54cnhQM1Q1d1ZHRThpelVsWm4yMFNhdzMxX05HSVNzaVNhOWx3cWZmRUZoYU9FTEEzRUt3WTBGLWJZbnVKcHJ0bXU0V0FBQjdUbzBnMlQ5WkU4WVpKYS1uM29BZ0l0eWVsT1RMYUdiZ0lreldf?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
-      "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
-      "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
-      "publishedAt": "2023-12-04T08:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - The Guardian",
-      "excerpt": "The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images View image in fullscreen The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images The age of extinction Carbon offsetting This article is more than 3 years old Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless,…",
-      "url": "https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe",
-      "publishedAt": "2023-01-18T08:00:00.000Z",
-      "image": "https://i.guim.co.uk/img/media/9f470b957b3b181b4107c89493f7a8eddb356834/0_12_2089_1254/master/2089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=c383f5d710fa80450e09a82767c12d10",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEFTZ3U2bGJHM25xeVVQZFJ4eGZDNWo5TXdUQ2JxeWxGZ3NZWjZhQ0RMRzBTZjB4SUd3LXFRZGlOWUpuUkkwXzNITVhUYkthNDQ4dkY5YTV5RGI2OTRNdTBkUWE3OEZsbUs0RGViR0RKaUVLS0ZTMk13ZU44UlBTRm8zUzY0NkllUXRfcFpxT3dOcmlpSE5iUHphcnVWam1Ec2dMSW1ROW9SM0UyMUo5NWNNbFRBSzhiR2VJ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-creating-carbon-offset-units-on-the-volu-2022-02-22",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Creating carbon offset units on the voluntary market - Norton Rose Fulbright",
-      "excerpt": "In the past few years, there has been a proliferation of countries and organisations pledging to achieve net-zero emissions.",
-      "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/6f326481/creating-carbon-offset-units-on-the-voluntary-market",
-      "publishedAt": "2022-02-22T19:16:56.000Z",
-      "image": "https://www.nortonrosefulbright.com/-/media/images/nrf/thought-leadership/australia/publications/hand-and-tree.jpg?revision=199a6252-fda6-4068-a7f3-8c0b3fff7a19&revision=5249493629607387904",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXZXNnBDS1Q4NTR0TUVMaWZ3eml4T0VQWS1EZVRrXzNqbTFEeHlNcEVXYjVRdi04M0lRY2c4cWpaWFhyQzV0SUtPamFxSkdtcmE4c3dsa19QSi1jTGZUeUhmbkg3bWhMVXNSV014dlhael9KQ2RwNDVROHRUczNycTZhalVTVHlBUzFlT2pua0N3a1J2MFdnSThfSFEtWXRTT0ptbW9xOGJLV19hQzhlWUlaWUR2eThZUmVTNkY1dC0?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-verified-carbon-standard-changes-name-to-2019-07-08",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verified Carbon Standard Changes Name To Verra - Ecosystem Marketplace",
-      "excerpt": "As carbon standards like the Verified Carbon Standard and the Gold Standard expand their coverage to compliance with the Sustainable Development Goals, old names often no longer apply. To reflect that, the Verified Carbon Standard, which began as the Voluntary Carbon Standard, has now changed its name to Verra . 15 February 2018 | As of today, the organization that began as the Voluntary Carbon Standard and then became the Verified Carbon Standard is now called Verra , to reflect its broadening coverage of attributes associated with the UN Sustainable…",
-      "url": "https://www.ecosystemmarketplace.com/articles/vcs-changes-name-to-verra/",
-      "publishedAt": "2019-07-08T02:26:37.000Z",
-      "image": "https://www.ecosystemmarketplace.com/wp-content/uploads/2018/02/Verra.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2ajJnMGcyYUgzbHlZemR3YWhrcFBTY1RrZGR0cGh3NU1XWHdUeUlCOVdfOXN3YV8zSWJfNnhBQXlfVXptQzNlUUpDUm0zdVJmZHZ6ME42UWRIYkVzbXp5Rnp1M2FlOHNYZ0UwVWVmbDNHdUEtdk9HbFkzN1Y?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
     }
   ]
 }
