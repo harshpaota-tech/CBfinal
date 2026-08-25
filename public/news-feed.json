@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-08-25T07:48:47.601Z",
+  "fetchedAt": "2026-08-25T13:45:40.929Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 15,
     "world": 47,
-    "withImages": 54,
-    "avgExcerptLength": 438,
+    "withImages": 52,
+    "avgExcerptLength": 423,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -223,30 +223,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - The Quint",
-        "excerpt": "Become a Member Dark Mode Become a Member Student Protest Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take My Report Opinion Members Only More Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy Policy…",
-        "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
-        "publishedAt": "2026-06-25T07:00:00.000Z",
-        "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -319,6 +295,29 @@
         "region": "india"
       },
       {
+        "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
+        "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
+        "publishedAt": "2026-03-21T07:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -373,10 +372,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -384,8 +383,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
         },
         "region": "india"
       },
@@ -415,6 +413,72 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-responsability-raises-461-million-for-as-2026-08-25",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "responsAbility Raises $461 Million for Asia-Focused Climate Fund",
+        "excerpt": "M&G’s impact investing unit responsAbility Investments announced that it has raised $461 million in commitments at the final close of its Asia Climate Fund, aimed at deploying capital into companies positioned to benefit from Asia’s energy transition, infrastructure build-out and demand for more efficient, resilient business models. According to responsAbility, the final closing establishes the fund as the firm’s largest closed-end climate investment fund to date, and marks one of the most successful fundraises in private credit focused on…",
+        "url": "https://www.esgtoday.com/responsability-raises-461-million-for-asia-focused-climate-fund/?utm_source=rss utm_medium=rss utm_campaign=responsability-raises-461-million-for-asia-focused-climate-fund",
+        "publishedAt": "2026-08-25T12:58:37.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/responsability.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Private Equity & Venture Capital",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-mantel-raises-18-million-to-commercializ-2026-08-25",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Mantel Raises $18 Million to Commercialize Carbon Capture Solution for Heavy Industry",
+        "excerpt": "Carbon capture startup Mantel announced that it has raised $18 million, including strategic investments from Constellation Technology Ventures (CTV) and Azimut Investments, with proceeds aimed at supporting the commercial deployment of its solution to help decarbonize heavy industry. Founded in 2022 by Cameron Halliday, Danielle Rapson and Sean Robertson as a spin out from MIT’s Department of Chemical Engineering, Cambridge, Massachusetts-based Mantel is developing a high-temperature, liquid-phase carbon capture system designed to significantly reduce…",
+        "url": "https://www.esgtoday.com/mantel-raises-18-million-to-commercialize-carbon-capture-solution-for-heavy-industry/?utm_source=rss utm_medium=rss utm_campaign=mantel-raises-18-million-to-commercialize-carbon-capture-solution-for-heavy-industry",
+        "publishedAt": "2026-08-25T11:23:27.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Mantel.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-australia-proposes-measures-to-reduce-cl-2026-08-25",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Australia Proposes Measures to Reduce Climate Reporting Burden on Companies",
+        "excerpt": "The Government of Australia’s Treasury department announced the launch of a consultation on a series of new proposed “efficiency-enhancing” measures within its sustainability reporting framework aimed at reducing compliance costs for companies required to provide climate-related financial disclosures, and easing the information request burden for businesses, particularly SMEs, in their value chains. Proposed reforms in the consultation include measures to eliminate or delay the transition from limited to reasonable assurance for climate-related…",
+        "url": "https://www.esgtoday.com/australia-proposes-measures-to-reduce-climate-reporting-burden-on-companies/?utm_source=rss utm_medium=rss utm_campaign=australia-proposes-measures-to-reduce-climate-reporting-burden-on-companies",
+        "publishedAt": "2026-08-25T10:44:02.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Australia-Treasury.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-want-a-board-seat-xero-s-cfo-says-being--2026-08-24",
         "source": "esg-dive",
@@ -703,50 +767,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-neocrete-raises-3-5-million-to-cut-carbo-2026-08-21",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Neocrete Raises $3.5 Million to Cut Carbon and Cost of Concrete",
-        "excerpt": "Concrete decarbonization technology company Neocrete announced that it has raised $3.5 million in a funding round, with proceeds aimed at supporting expansion into European and U.S. markets and continued commercial deployment across Southeast Asia. Building materials are a key source of global greenhouse gas emissions. Cement production, an ingredient in concrete, accounts for approximately 8% of global carbon dioxide emissions, with over 900 kg of CO2 emissions generated for every 1000 kg of material produced. Founded in 2018 by Zarina Alexander and…",
-        "url": "https://www.esgtoday.com/neocrete-raises-3-5-million-to-cut-carbon-and-cost-of-concrete/?utm_source=rss utm_medium=rss utm_campaign=neocrete-raises-3-5-million-to-cut-carbon-and-cost-of-concrete",
-        "publishedAt": "2026-08-21T10:03:24.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Neocrete.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-google-invests-60-million-in-new-water-s-2026-08-21",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Google Invests $60 Million in New Water Stewardship Projects Across the U.S.",
-        "excerpt": "Google announced a significant expansion in its water replenishment investments, with commitments of $60 million in new water stewardship projects across the U.S., in support of its goal to become water positive across its data center operations by 2030. The 2030 water positive goal, targeting replenishing more water than it consumes, was announced earlier this year , alongside commitments of $17 million to support new water stewardship projects across seven U.S. states. With the new commitments, Google is increasing its support to over 165 projects…",
-        "url": "https://www.esgtoday.com/google-invests-60-million-in-new-water-stewardship-projects-across-the-u-s/?utm_source=rss utm_medium=rss utm_campaign=google-invests-60-million-in-new-water-stewardship-projects-across-the-u-s",
-        "publishedAt": "2026-08-21T09:24:53.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Google4-1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-best-buy-achieves-zero-waste-goal-at-sup-2026-08-20",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -831,28 +851,6 @@
         "meta": {
           "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-cpp-investments-launches-reporting-on-po-2026-08-20",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "CPP Investments Launches Reporting on Portfolio Carbon Intensity, Transition Governance",
-        "excerpt": "CPP Investments, the investment manager of the Canada Pension Plan, announced the launch of a new climate disclosure framework to analyze its global portfolio carbon footprint, including new disclosures on carbon intensity and transition governance indicators across the fund’s holdings. The organization said that it has reported portfolio carbon footprint metrics since 2018, with the enhanced reporting aimed at providing a point-in-time view of the composition of its carbon footprint by classifying individual portfolio holdings across two dimensions,…",
-        "url": "https://www.esgtoday.com/cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance/?utm_source=rss utm_medium=rss utm_campaign=cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance",
-        "publishedAt": "2026-08-20T13:06:34.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/skyscrapers-1081737_1280.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1477,6 +1475,72 @@
   },
   "articles": [
     {
+      "id": "esg-today-responsability-raises-461-million-for-as-2026-08-25",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "responsAbility Raises $461 Million for Asia-Focused Climate Fund",
+      "excerpt": "M&G’s impact investing unit responsAbility Investments announced that it has raised $461 million in commitments at the final close of its Asia Climate Fund, aimed at deploying capital into companies positioned to benefit from Asia’s energy transition, infrastructure build-out and demand for more efficient, resilient business models. According to responsAbility, the final closing establishes the fund as the firm’s largest closed-end climate investment fund to date, and marks one of the most successful fundraises in private credit focused on…",
+      "url": "https://www.esgtoday.com/responsability-raises-461-million-for-asia-focused-climate-fund/?utm_source=rss utm_medium=rss utm_campaign=responsability-raises-461-million-for-asia-focused-climate-fund",
+      "publishedAt": "2026-08-25T12:58:37.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/responsability.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Private Equity & Venture Capital",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-mantel-raises-18-million-to-commercializ-2026-08-25",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Mantel Raises $18 Million to Commercialize Carbon Capture Solution for Heavy Industry",
+      "excerpt": "Carbon capture startup Mantel announced that it has raised $18 million, including strategic investments from Constellation Technology Ventures (CTV) and Azimut Investments, with proceeds aimed at supporting the commercial deployment of its solution to help decarbonize heavy industry. Founded in 2022 by Cameron Halliday, Danielle Rapson and Sean Robertson as a spin out from MIT’s Department of Chemical Engineering, Cambridge, Massachusetts-based Mantel is developing a high-temperature, liquid-phase carbon capture system designed to significantly reduce…",
+      "url": "https://www.esgtoday.com/mantel-raises-18-million-to-commercialize-carbon-capture-solution-for-heavy-industry/?utm_source=rss utm_medium=rss utm_campaign=mantel-raises-18-million-to-commercialize-carbon-capture-solution-for-heavy-industry",
+      "publishedAt": "2026-08-25T11:23:27.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Mantel.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-australia-proposes-measures-to-reduce-cl-2026-08-25",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Australia Proposes Measures to Reduce Climate Reporting Burden on Companies",
+      "excerpt": "The Government of Australia’s Treasury department announced the launch of a consultation on a series of new proposed “efficiency-enhancing” measures within its sustainability reporting framework aimed at reducing compliance costs for companies required to provide climate-related financial disclosures, and easing the information request burden for businesses, particularly SMEs, in their value chains. Proposed reforms in the consultation include measures to eliminate or delay the transition from limited to reasonable assurance for climate-related…",
+      "url": "https://www.esgtoday.com/australia-proposes-measures-to-reduce-climate-reporting-burden-on-companies/?utm_source=rss utm_medium=rss utm_campaign=australia-proposes-measures-to-reduce-climate-reporting-burden-on-companies",
+      "publishedAt": "2026-08-25T10:44:02.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Australia-Treasury.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-want-a-board-seat-xero-s-cfo-says-being--2026-08-24",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1764,50 +1828,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-neocrete-raises-3-5-million-to-cut-carbo-2026-08-21",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Neocrete Raises $3.5 Million to Cut Carbon and Cost of Concrete",
-      "excerpt": "Concrete decarbonization technology company Neocrete announced that it has raised $3.5 million in a funding round, with proceeds aimed at supporting expansion into European and U.S. markets and continued commercial deployment across Southeast Asia. Building materials are a key source of global greenhouse gas emissions. Cement production, an ingredient in concrete, accounts for approximately 8% of global carbon dioxide emissions, with over 900 kg of CO2 emissions generated for every 1000 kg of material produced. Founded in 2018 by Zarina Alexander and…",
-      "url": "https://www.esgtoday.com/neocrete-raises-3-5-million-to-cut-carbon-and-cost-of-concrete/?utm_source=rss utm_medium=rss utm_campaign=neocrete-raises-3-5-million-to-cut-carbon-and-cost-of-concrete",
-      "publishedAt": "2026-08-21T10:03:24.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Neocrete.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-google-invests-60-million-in-new-water-s-2026-08-21",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Google Invests $60 Million in New Water Stewardship Projects Across the U.S.",
-      "excerpt": "Google announced a significant expansion in its water replenishment investments, with commitments of $60 million in new water stewardship projects across the U.S., in support of its goal to become water positive across its data center operations by 2030. The 2030 water positive goal, targeting replenishing more water than it consumes, was announced earlier this year , alongside commitments of $17 million to support new water stewardship projects across seven U.S. states. With the new commitments, Google is increasing its support to over 165 projects…",
-      "url": "https://www.esgtoday.com/google-invests-60-million-in-new-water-stewardship-projects-across-the-u-s/?utm_source=rss utm_medium=rss utm_campaign=google-invests-60-million-in-new-water-stewardship-projects-across-the-u-s",
-      "publishedAt": "2026-08-21T09:24:53.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Google4-1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-best-buy-achieves-zero-waste-goal-at-sup-2026-08-20",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1892,28 +1912,6 @@
       "meta": {
         "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-cpp-investments-launches-reporting-on-po-2026-08-20",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "CPP Investments Launches Reporting on Portfolio Carbon Intensity, Transition Governance",
-      "excerpt": "CPP Investments, the investment manager of the Canada Pension Plan, announced the launch of a new climate disclosure framework to analyze its global portfolio carbon footprint, including new disclosures on carbon intensity and transition governance indicators across the fund’s holdings. The organization said that it has reported portfolio carbon footprint metrics since 2018, with the enhanced reporting aimed at providing a point-in-time view of the composition of its carbon footprint by classifying individual portfolio holdings across two dimensions,…",
-      "url": "https://www.esgtoday.com/cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance/?utm_source=rss utm_medium=rss utm_campaign=cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance",
-      "publishedAt": "2026-08-20T13:06:34.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/skyscrapers-1081737_1280.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2584,30 +2582,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - The Quint",
-      "excerpt": "Become a Member Dark Mode Become a Member Student Protest Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take My Report Opinion Members Only More Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy Policy…",
-      "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
-      "publishedAt": "2026-06-25T07:00:00.000Z",
-      "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2700,6 +2674,29 @@
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
         "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
+      "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
+      "publishedAt": "2026-03-21T07:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
       },
       "region": "india"
     },
@@ -2806,10 +2803,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2817,8 +2814,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
       },
       "region": "india"
     },
