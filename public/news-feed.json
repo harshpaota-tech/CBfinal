@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-08-24T19:24:56.769Z",
+  "fetchedAt": "2026-08-25T02:15:45.528Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 15,
     "world": 47,
-    "withImages": 53,
-    "avgExcerptLength": 431,
+    "withImages": 54,
+    "avgExcerptLength": 438,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -128,17 +128,17 @@
         "region": "india"
       },
       {
-        "id": "google-h2-india-s-green-hydrogen-push-gathers-pace-2026-07-29",
+        "id": "google-h2-india-s-green-hydrogen-plans-gain-pace-b-2026-07-28",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
-        "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
-        "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
-        "publishedAt": "2026-07-29T07:00:00.000Z",
-        "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
+        "title": "India's green hydrogen plans gain pace, but demand and costs pose hurdles - Business Standard",
+        "excerpt": "India's green hydrogen plans gain pace, but demand and costs pose hurdles Business Standard",
+        "url": "https://www.business-standard.com/industry/news/india-s-green-hydrogen-plans-gain-pace-but-demand-and-costs-pose-hurdles-126072801706_1.html",
+        "publishedAt": "2026-07-28T07:00:00.000Z",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -146,8 +146,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN0Y0SVVQT0RlRzdVcWZSZ0lRUGdIWFg3QU5mNTRfdGhIMURWWE10SnFmUFlGeExHTFhqamdLQ3dGcHNJZkFQb2RidF9ZZDA5MDQyQVVkXzNhRXZsTXdnSEJVdzNQWDhweTZUV3YxVGRCVXg4M2VLQWVOY25FZlhYMXVLNDJKUFEybGxObVcxaFFMczRpNEZJTmpqcHdCbnpTS3Z2SDBqa2ZkQVNvamhqWnNZWVRsRGN4MGx2eUR4ZlNZdHBibUd5Y1A4WVB1bzhtME54TDJXSdIB3AFBVV95cUxPbXhyQTVva1A2anpSN2xzbmFUOVlmYUpnTmlrR2UycnRBV1BfUnlKclBUcnBUZVptOHpPYmZSZDRHeTVHOC10U3JEWHBaQTlhSHg0YnVaMjZIZHJWZ2hJUzliMUx3bE9LZWpWRVVLN21aNndqbTJ5dGV2dXNRSXVDbE1fLUI2WTNEWUlJMlc4Q2ZMN01hRjA0b3MyN0QxaC1uWTRkWUdzMm9JVl9RQURIY3VVcnFDWFZ1UXB0cFFNTlJNR2dNLW9fZzktczE1cWlxTU1kV1VuS3B6d3R5?oc=5"
         },
         "region": "india"
       },
@@ -219,6 +218,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLXRrblpRS2dCRnN1bW1IWGNaS2RyZWttRWJLelIwSXhjOFBRRlBNY1hmaVZ6dUZEUWI1U0NWTDIxd3p0OURjal93STktbUF0X3BRWmxwZ1l6VUpldllzYWh6bmFsZWtPaVozUU1vbjFnMkM1d2VkUVNWMHN2b1IwNnQ5NjFPZVNGaXVBREF4Vk9fOVVRYzNyTU03OUFtNll5XzVJLWpjRXdKNVNlbW40amlWaWdnaTk4WlVyTktNaUQ0UQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - The Quint",
+        "excerpt": "Become a Member Dark Mode Become a Member Student Protest Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take My Report Opinion Members Only More Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy Policy…",
+        "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
+        "publishedAt": "2026-06-25T07:00:00.000Z",
+        "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -296,29 +319,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
-        "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
-        "publishedAt": "2026-03-21T07:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -373,10 +373,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": null,
+        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -384,7 +384,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -1150,30 +1151,6 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-08-13",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
-        "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
-        "url": "https://yellow.com/chicago.html/news/can-blockchain-fix-carbon-credits",
-        "publishedAt": "2026-08-13T03:35:53.000Z",
-        "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBScVFUYVdJcFd1VERrTUhVb19wQkljaHJ0dUZJRFhyT2xTODBlRURYRXMxY0ZzNXo2bU04eWNYRlFrZmtsSkVRRnNfLWdaclFxa3NKTjkzWm9SdjV4Nmx0RDRZVnZ5N005NFVuOUFwaVl5VGlpSHdtTEpB?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-analysis-weaker-ev-targets-could-cost-uk-2026-08-12",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1422,6 +1399,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkEySVpteS1aZ3lfNnhCMk44TThDcEVoX1NGRkFWcGRfMUFJdDBwVEstUW5kMTlDUDVmdFFjaFVoZFZjUDJfbGJQVjNkdHlDY2RVOEhDeTFvV2FzU2RKV2F5MGQ1VkhBc0FrX3QzZWE5clhqa1ZXNFFmZjlabWdYQ2MzWU5QSXNOMExDWWUyS1FrWnZQTW1FeUxFRTZYb1owTnRlNGxQV0RHYkN3b1Mw0gG_AUFVX3lxTE8wT1pMd0QwUF9oOUhEdkl1U3UzRDE3VTJIVkN3YTloaU1KQ0p5c0NuZlZNYmJSQXljdXRsZ1U1eHFCbHRkLTJrSVBKS3ItYkdzLVdYVU1lcU1rM3d2V0s2dDdSMjdPUC1Fa192eTcxdGFGczl1Tk5xcnBCZVk1ZVJ5c0RQRlRVdkFHVWxCRUhobGhsTXJHbGFCOUxPclcyVjYwbmR0SHIzVkRkOW91X2M4ZkEtanlKVUlBY09MTXhV?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-carbon-credit-project-developers-baulk-a-2026-01-20",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon credit project developers baulk at new Gold Standard rules - edie.net",
+        "excerpt": "Dozens of companies developing carbon credit projects have asked industry standards body Gold Standard to be more lenient in its alignment with the global Paris Agreement on climate change. Join our growing army of changemakers and get access to our free content Image: Carolina Pino for Verra. Trees classed as part of a deforestation avoidance project that generates carbon credits. Gold Standard first committed to aligning its requirements with those set out under the Paris Agreement in 2021. International negotiators subsequently agreed on the…",
+        "url": "https://www.edie.net/carbon-credit-project-developers-baulk-at-new-gold-standard-rules/",
+        "publishedAt": "2026-01-20T08:00:00.000Z",
+        "image": "https://edienetlive.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/2/TreesVerraCarbon.gif",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hYOXV2Q0hBbG1uRXVLQWFNYlFTbHRvUVpuTGd0OFI0Qm43bVg3WkU3V2lEWERzQU9ZbzV2N3VHX2M5VnpnRlpOdXNmNC1FZzQwZ3czd00wU1VQbWhQVmhsdjRiRVdXaHpiMnN1N1UxcmM1eWgtMGt6WkFoVWpLLXAtUlZfczYzT3haNE1BSEbSAZwBQVVfeXFMT1ZUREJlS1YxdzBMN3N2TjVyV3RzdWo0RDNrZ0E1bENjMXVJRTlVeVRZNXl5UFI0eEZjdWlpcEYxU2ZiaDBIMzlZUTRDTWlBVGg4SHBiMkJyVDRkSGRhd1NUWWc2cHZOR0J5UWVsYXNIMUFJMnVGLTNRLXQ1Tnk3ZHNneHN2Tk1UMHZOZmJRQks4RGlsVHRRUlFzTmF5?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -2259,30 +2260,6 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-08-13",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
-      "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
-      "url": "https://yellow.com/chicago.html/news/can-blockchain-fix-carbon-credits",
-      "publishedAt": "2026-08-13T03:35:53.000Z",
-      "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBScVFUYVdJcFd1VERrTUhVb19wQkljaHJ0dUZJRFhyT2xTODBlRURYRXMxY0ZzNXo2bU04eWNYRlFrZmtsSkVRRnNfLWdaclFxa3NKTjkzWm9SdjV4Nmx0RDRZVnZ5N005NFVuOUFwaVl5VGlpSHdtTEpB?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-analysis-weaker-ev-targets-could-cost-uk-2026-08-12",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2465,17 +2442,17 @@
       "region": "india"
     },
     {
-      "id": "google-h2-india-s-green-hydrogen-push-gathers-pace-2026-07-29",
+      "id": "google-h2-india-s-green-hydrogen-plans-gain-pace-b-2026-07-28",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
-      "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
-      "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
-      "publishedAt": "2026-07-29T07:00:00.000Z",
-      "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
+      "title": "India's green hydrogen plans gain pace, but demand and costs pose hurdles - Business Standard",
+      "excerpt": "India's green hydrogen plans gain pace, but demand and costs pose hurdles Business Standard",
+      "url": "https://www.business-standard.com/industry/news/india-s-green-hydrogen-plans-gain-pace-but-demand-and-costs-pose-hurdles-126072801706_1.html",
+      "publishedAt": "2026-07-28T07:00:00.000Z",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2483,8 +2460,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN0Y0SVVQT0RlRzdVcWZSZ0lRUGdIWFg3QU5mNTRfdGhIMURWWE10SnFmUFlGeExHTFhqamdLQ3dGcHNJZkFQb2RidF9ZZDA5MDQyQVVkXzNhRXZsTXdnSEJVdzNQWDhweTZUV3YxVGRCVXg4M2VLQWVOY25FZlhYMXVLNDJKUFEybGxObVcxaFFMczRpNEZJTmpqcHdCbnpTS3Z2SDBqa2ZkQVNvamhqWnNZWVRsRGN4MGx2eUR4ZlNZdHBibUd5Y1A4WVB1bzhtME54TDJXSdIB3AFBVV95cUxPbXhyQTVva1A2anpSN2xzbmFUOVlmYUpnTmlrR2UycnRBV1BfUnlKclBUcnBUZVptOHpPYmZSZDRHeTVHOC10U3JEWHBaQTlhSHg0YnVaMjZIZHJWZ2hJUzliMUx3bE9LZWpWRVVLN21aNndqbTJ5dGV2dXNRSXVDbE1fLUI2WTNEWUlJMlc4Q2ZMN01hRjA0b3MyN0QxaC1uWTRkWUdzMm9JVl9RQURIY3VVcnFDWFZ1UXB0cFFNTlJNR2dNLW9fZzktczE1cWlxTU1kV1VuS3B6d3R5?oc=5"
       },
       "region": "india"
     },
@@ -2608,6 +2584,30 @@
       "region": "world"
     },
     {
+      "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - The Quint",
+      "excerpt": "Become a Member Dark Mode Become a Member Student Protest Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take My Report Opinion Members Only More Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy Policy…",
+      "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2704,29 +2704,6 @@
       "region": "india"
     },
     {
-      "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
-      "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
-      "publishedAt": "2026-03-21T07:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2798,6 +2775,30 @@
       "region": "india"
     },
     {
+      "id": "google-carbon-carbon-credit-project-developers-baulk-a-2026-01-20",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon credit project developers baulk at new Gold Standard rules - edie.net",
+      "excerpt": "Dozens of companies developing carbon credit projects have asked industry standards body Gold Standard to be more lenient in its alignment with the global Paris Agreement on climate change. Join our growing army of changemakers and get access to our free content Image: Carolina Pino for Verra. Trees classed as part of a deforestation avoidance project that generates carbon credits. Gold Standard first committed to aligning its requirements with those set out under the Paris Agreement in 2021. International negotiators subsequently agreed on the…",
+      "url": "https://www.edie.net/carbon-credit-project-developers-baulk-at-new-gold-standard-rules/",
+      "publishedAt": "2026-01-20T08:00:00.000Z",
+      "image": "https://edienetlive.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/2/TreesVerraCarbon.gif",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hYOXV2Q0hBbG1uRXVLQWFNYlFTbHRvUVpuTGd0OFI0Qm43bVg3WkU3V2lEWERzQU9ZbzV2N3VHX2M5VnpnRlpOdXNmNC1FZzQwZ3czd00wU1VQbWhQVmhsdjRiRVdXaHpiMnN1N1UxcmM1eWgtMGt6WkFoVWpLLXAtUlZfczYzT3haNE1BSEbSAZwBQVVfeXFMT1ZUREJlS1YxdzBMN3N2TjVyV3RzdWo0RDNrZ0E1bENjMXVJRTlVeVRZNXl5UFI0eEZjdWlpcEYxU2ZiaDBIMzlZUTRDTWlBVGg4SHBiMkJyVDRkSGRhd1NUWWc2cHZOR0J5UWVsYXNIMUFJMnVGLTNRLXQ1Tnk3ZHNneHN2Tk1UMHZOZmJRQks4RGlsVHRRUlFzTmF5?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2805,10 +2806,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": null,
+      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2816,7 +2817,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
