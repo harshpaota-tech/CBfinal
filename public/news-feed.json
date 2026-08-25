@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-08-25T13:45:40.929Z",
+  "fetchedAt": "2026-08-25T19:27:29.393Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 15,
     "world": 47,
-    "withImages": 52,
-    "avgExcerptLength": 423,
+    "withImages": 54,
+    "avgExcerptLength": 437,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -372,10 +372,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": null,
+        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -383,7 +383,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -413,6 +414,139 @@
       }
     ],
     "world": [
+      {
+        "id": "verra-verra-approves-artio-insurance-policy-fo-2026-08-25",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Approves Artio Insurance Policy for Use under Durability Pilot",
+        "excerpt": "Verra has approved an additional insurance policy for use under its durability pilot, expanding the options available to project proponents . The policy from Artio meets the durability pilot insurance criteria and can be used by projects that are participating in the pilot and have selected the insurance-based approach to address the risk of reversals. To participate, project proponents must submit an expression of interest and receive approval from Verra. Launched in December 2025, Verra’s durability pilot is testing innovative approaches for…",
+        "url": "https://verra.org/verra-approves-artio-insurance-policy-for-use-under-durability-pilot/",
+        "publishedAt": "2026-08-25T16:52:48.000Z",
+        "image": "https://verra.org/wp-content/uploads/2025/11/forest-348995_1280.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-microsoft-qcells-expand-partnership-to-p-2026-08-25",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Microsoft, Qcells expand partnership to power growing AI infrastructure",
+        "excerpt": "Under the expanded partnership, the tech giant will fund the power it needs for new data center infrastructure.",
+        "url": "https://www.esgdive.com/news/microsoft-qcells-expand-partnership-to-power-growing-ai-data-center-infrastructure/828731/",
+        "publishedAt": "2026-08-25T16:52:00.000Z",
+        "image": "https://imgproxy.divecdn.com/qbUEcG3krZt2Y9mSGRDLZQ49feziEuXe5zhDSv5Z4gU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODkwMjQzNTkwXzNRbmRsSXcuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-world-bank-raises-4b-through-new-sustain-2026-08-25",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "World Bank raises $4B through new sustainable development bond",
+        "excerpt": "The international financial institution said the seven-year bond will support its goal to mobilize capital for sustainable development.",
+        "url": "https://www.esgdive.com/news/world-bank-raises-4b-through-new-sustainable-development-bond/828729/",
+        "publishedAt": "2026-08-25T16:25:28.000Z",
+        "image": "https://imgproxy.divecdn.com/u4uXBPRYBZENuGcjtigkMgQ0TqD0Kj2DSr0tKp3QntY/g:nowe:0:321/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03NDA5OTY0Ny5qcGc=.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-companies-that-roll-back-dei-don-t-perfo-2026-08-25",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "Companies that roll back DEI don’t perform better financially, study says",
+        "excerpt": "Large corporations appear to have folded under pressure for no financial gain, a public policy scholar wrote.",
+        "url": "https://www.esgdive.com/news/companies-dei-roll-back-dei-performance-uc-berkeley/828722/",
+        "publishedAt": "2026-08-25T16:10:00.000Z",
+        "image": "https://imgproxy.divecdn.com/4gM0TrWZ1vNHCIRJE5bCCZBX0IXPGWKWYoGkQrzRSQA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgzMzA1ODQwLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-aker-microsoft-partner-to-advance-maturi-2026-08-25",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Aker, Microsoft Partner to Advance Maturity, Delivery of Carbon Capture and Removal Projects",
+        "excerpt": "Energy-focused global engineering and technology company Aker Solutions announced a new agreement with Microsoft, with the companies collaborating to advance the maturity, bankability and delivery of carbon capture and storage (CCS) and carbon dioxide removal (CDR) projects globally. Under the new agreement, Aker said that it aims to engage with developers, emitters, transport and storage providers, industry stakeholders and governments to support project development, reduce execution risk, strengthen investment readiness, including potential CDR…",
+        "url": "https://www.esgtoday.com/aker-microsoft-partner-to-advance-maturity-and-delivery-of-carbon-capture-and-removal-projects/?utm_source=rss utm_medium=rss utm_campaign=aker-microsoft-partner-to-advance-maturity-and-delivery-of-carbon-capture-and-removal-projects",
+        "publishedAt": "2026-08-25T14:42:56.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Aker-Microsoft.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-lookthrough-acquires-real-estate-esg-dat-2026-08-25",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Lookthrough Acquires Real Estate ESG Data and Reporting Platform BuildingMinds",
+        "excerpt": "Real estate decision intelligence platform Lookthrough announced an agreement to acquire Schindler-owned real estate portfolio ESG data and reporting platform BuildingMinds, in a transaction described by the companies as aimed at creating an AI platform for institutional real estate, combining ESG and operational data serving institutional investors, governments and global technology companies. Launched in 2018 by elevator and escalator manufacturer Schindler, BuildingMinds was initially founded to meet the company s need for building data monitoring…",
+        "url": "https://www.esgtoday.com/lookthrough-acquires-real-estate-esg-data-and-reporting-platform-buildingminds/?utm_source=rss utm_medium=rss utm_campaign=lookthrough-acquires-real-estate-esg-data-and-reporting-platform-buildingminds",
+        "publishedAt": "2026-08-25T14:01:12.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Lookthrough-Staub.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-responsability-raises-461-million-for-as-2026-08-25",
         "source": "esg-today",
@@ -487,17 +621,18 @@
         "tag": "ESG",
         "accent": "#60a5fa",
         "title": "Want a board seat? Xero’s CFO says being a good operator isn’t enough",
-        "excerpt": "Claire Bramley says CFOs chasing board seats need to show they can think like enterprise leaders, not just modern finance leaders.",
+        "excerpt": "Claire Bramley says CFOs chasing board seats need to show they can think like enterprise leaders, not just modern finance leaders. Being good at the CFO role doesn’t necessarily mean you’re ready for a board seat, according to Claire Bramley, CFO at accounting software firm Xero. Bramley, who recently joined Upwork’s board after previously serving on the Ansys board, said CFOs looking for their first board role need to show they can step outside of finance and think strategically about the entire business. She also added that the resume that gets…",
         "url": "https://www.esgdive.com/news/want-a-board-seat-xero-cfo-claire-bramley-xerocon-2026-interview-/828577/",
         "publishedAt": "2026-08-24T16:42:00.000Z",
-        "image": null,
+        "image": "https://imgproxy.divecdn.com/hzIVRnlSlDlL1impMV6N3qJqnDHCkz3wszt-opoSZ9Q/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db3B5X29mX0NGT182NjVLa2RDLmNvbV9RQV9IZWFkZXJfSW1hZ2VfVGVtcGxhdGVfMS5qcGc=.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
+          "feed": "https://www.esgdive.com/feeds/news/",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -723,50 +858,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-mafix-raises-5-4-million-to-turn-rocks-i-2026-08-21",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Mafix Raises $5.4 Million to Turn Rocks into Carbon-Removing Fertilizer",
-        "excerpt": "Ag-tech startup Mafix announced that it has raised $5.4 million in a pre-seed funding round, with proceeds aimed at scaling production of its silicon fertilizer, designed to improve soil and crop health while removing carbon dioxide from the atmosphere. Mafix said that although there is demand for silicon fertilizers, producers are unable to reliably obtain high-quality supply at a relevant price. The company said that it is meeting that demand with its permanent carbon sequestration fertilizer that has multiple value props for farmers. Launched in 2026…",
-        "url": "https://www.esgtoday.com/mafix-raises-5-4-million-to-rocks-into-carbon-removing-fertilizer/?utm_source=rss utm_medium=rss utm_campaign=mafix-raises-5-4-million-to-rocks-into-carbon-removing-fertilizer",
-        "publishedAt": "2026-08-21T12:47:15.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Mafix-founders.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-position-green-appoints-julia-staunig-as-2026-08-21",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Position Green Appoints Julia Staunig as New CEO",
-        "excerpt": "Sustainability software and advisory company Position Green announced today the appointment of its Chief Operating Officer Julia Staunig as its new Chief Executive Officer, effective October 1. Staunig will succeed Daniel Gadd in the role, who has served as CEO since co-founding Position Green in 2015. Gadd will serve as Senior Advisor focusing on AI, Product and Tech strategy through 2026, before joining the Board at the beginning of 2027. “Building and leading Position Green over the past ten years has been an extraordinary journey. Julia has been…",
-        "url": "https://www.esgtoday.com/position-green-appoints-julia-staunig-as-new-ceo/?utm_source=rss utm_medium=rss utm_campaign=position-green-appoints-julia-staunig-as-new-ceo",
-        "publishedAt": "2026-08-21T12:15:50.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Position-Green-Staunig.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-best-buy-achieves-zero-waste-goal-at-sup-2026-08-20",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -925,50 +1016,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-microsoft-signs-offtake-deal-for-wastewa-2026-08-19",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Microsoft signs offtake deal for wastewater-based carbon removal",
-        "excerpt": "The deal with climate startup Crew Carbon will lean on its wastewater alkalinity enhancement technology to permanently remove carbon dioxide emitted by wastewater plants.",
-        "url": "https://www.esgdive.com/news/microsoft-crew-carbon-sign-offtake-deal-for-wastewater-based-carbon-removal/828289/",
-        "publishedAt": "2026-08-19T16:37:45.000Z",
-        "image": "https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-walmart-flags-fewer-supplier-standard-vi-2026-08-19",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Walmart flags fewer supplier standard violations",
-        "excerpt": "The retailer logged 754 cases in fiscal 2026, down 35% year over year, according to its latest ESG report.",
-        "url": "https://www.esgdive.com/news/walmart-flags-fewer-supplier-standard-violations/828249/",
-        "publishedAt": "2026-08-19T15:29:00.000Z",
-        "image": "https://imgproxy.divecdn.com/dpiVgKtlIMKJFC4tCdas8ADiOeoCJE5WEtYsN5tMbSw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU5Nzg0MzIwLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-q-a-what-is-long-duration-energy-storage-2026-08-19",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -987,28 +1034,6 @@
         "meta": {
           "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-us-calls-for-eu-to-deliver-on-trade-conc-2026-08-18",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "US calls for EU to ‘deliver’ on trade concessions on sustainability laws",
-        "excerpt": "The United States ambassador to the European Union said that the government will take any actions necessary to address unreasonable burdens on U.S. commerce.",
-        "url": "https://www.esgdive.com/news/us-calls-for-eu-to-deliver-on-trade-concessions-on-sustainability-laws/828174/",
-        "publishedAt": "2026-08-18T16:43:00.000Z",
-        "image": "https://imgproxy.divecdn.com/obJzyQqgiEAX1-vrbfa_0xVqPx1PUFHH3KFTEsjIVb4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02NTExMjAxMzZfMS5qcGc=.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -1307,29 +1332,6 @@
         "region": "world"
       },
       {
-        "id": "verra-projects-open-for-public-comment-july-27-2026-07-27",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Projects Open for Public Comment: July 27, 2026",
-        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-        "url": "https://verra.org/projects-open-for-public-comment-july-27-2026/",
-        "publishedAt": "2026-07-27T12:39:06.000Z",
-        "image": "https://verra.org/wp-content/uploads/2023/08/1885094731-huge-scaled.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-voluntary-carbon-credit-market-size-shar-2026-07-07",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1475,6 +1477,139 @@
   },
   "articles": [
     {
+      "id": "verra-verra-approves-artio-insurance-policy-fo-2026-08-25",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Approves Artio Insurance Policy for Use under Durability Pilot",
+      "excerpt": "Verra has approved an additional insurance policy for use under its durability pilot, expanding the options available to project proponents . The policy from Artio meets the durability pilot insurance criteria and can be used by projects that are participating in the pilot and have selected the insurance-based approach to address the risk of reversals. To participate, project proponents must submit an expression of interest and receive approval from Verra. Launched in December 2025, Verra’s durability pilot is testing innovative approaches for…",
+      "url": "https://verra.org/verra-approves-artio-insurance-policy-for-use-under-durability-pilot/",
+      "publishedAt": "2026-08-25T16:52:48.000Z",
+      "image": "https://verra.org/wp-content/uploads/2025/11/forest-348995_1280.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-microsoft-qcells-expand-partnership-to-p-2026-08-25",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Microsoft, Qcells expand partnership to power growing AI infrastructure",
+      "excerpt": "Under the expanded partnership, the tech giant will fund the power it needs for new data center infrastructure.",
+      "url": "https://www.esgdive.com/news/microsoft-qcells-expand-partnership-to-power-growing-ai-data-center-infrastructure/828731/",
+      "publishedAt": "2026-08-25T16:52:00.000Z",
+      "image": "https://imgproxy.divecdn.com/qbUEcG3krZt2Y9mSGRDLZQ49feziEuXe5zhDSv5Z4gU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODkwMjQzNTkwXzNRbmRsSXcuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-world-bank-raises-4b-through-new-sustain-2026-08-25",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "World Bank raises $4B through new sustainable development bond",
+      "excerpt": "The international financial institution said the seven-year bond will support its goal to mobilize capital for sustainable development.",
+      "url": "https://www.esgdive.com/news/world-bank-raises-4b-through-new-sustainable-development-bond/828729/",
+      "publishedAt": "2026-08-25T16:25:28.000Z",
+      "image": "https://imgproxy.divecdn.com/u4uXBPRYBZENuGcjtigkMgQ0TqD0Kj2DSr0tKp3QntY/g:nowe:0:321/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03NDA5OTY0Ny5qcGc=.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-companies-that-roll-back-dei-don-t-perfo-2026-08-25",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "POLICY",
+      "accent": "#5eead4",
+      "title": "Companies that roll back DEI don’t perform better financially, study says",
+      "excerpt": "Large corporations appear to have folded under pressure for no financial gain, a public policy scholar wrote.",
+      "url": "https://www.esgdive.com/news/companies-dei-roll-back-dei-performance-uc-berkeley/828722/",
+      "publishedAt": "2026-08-25T16:10:00.000Z",
+      "image": "https://imgproxy.divecdn.com/4gM0TrWZ1vNHCIRJE5bCCZBX0IXPGWKWYoGkQrzRSQA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgzMzA1ODQwLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-aker-microsoft-partner-to-advance-maturi-2026-08-25",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Aker, Microsoft Partner to Advance Maturity, Delivery of Carbon Capture and Removal Projects",
+      "excerpt": "Energy-focused global engineering and technology company Aker Solutions announced a new agreement with Microsoft, with the companies collaborating to advance the maturity, bankability and delivery of carbon capture and storage (CCS) and carbon dioxide removal (CDR) projects globally. Under the new agreement, Aker said that it aims to engage with developers, emitters, transport and storage providers, industry stakeholders and governments to support project development, reduce execution risk, strengthen investment readiness, including potential CDR…",
+      "url": "https://www.esgtoday.com/aker-microsoft-partner-to-advance-maturity-and-delivery-of-carbon-capture-and-removal-projects/?utm_source=rss utm_medium=rss utm_campaign=aker-microsoft-partner-to-advance-maturity-and-delivery-of-carbon-capture-and-removal-projects",
+      "publishedAt": "2026-08-25T14:42:56.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Aker-Microsoft.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-lookthrough-acquires-real-estate-esg-dat-2026-08-25",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Lookthrough Acquires Real Estate ESG Data and Reporting Platform BuildingMinds",
+      "excerpt": "Real estate decision intelligence platform Lookthrough announced an agreement to acquire Schindler-owned real estate portfolio ESG data and reporting platform BuildingMinds, in a transaction described by the companies as aimed at creating an AI platform for institutional real estate, combining ESG and operational data serving institutional investors, governments and global technology companies. Launched in 2018 by elevator and escalator manufacturer Schindler, BuildingMinds was initially founded to meet the company s need for building data monitoring…",
+      "url": "https://www.esgtoday.com/lookthrough-acquires-real-estate-esg-data-and-reporting-platform-buildingminds/?utm_source=rss utm_medium=rss utm_campaign=lookthrough-acquires-real-estate-esg-data-and-reporting-platform-buildingminds",
+      "publishedAt": "2026-08-25T14:01:12.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Lookthrough-Staub.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-today-responsability-raises-461-million-for-as-2026-08-25",
       "source": "esg-today",
       "sourceName": "ESG Today",
@@ -1548,17 +1683,18 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "Want a board seat? Xero’s CFO says being a good operator isn’t enough",
-      "excerpt": "Claire Bramley says CFOs chasing board seats need to show they can think like enterprise leaders, not just modern finance leaders.",
+      "excerpt": "Claire Bramley says CFOs chasing board seats need to show they can think like enterprise leaders, not just modern finance leaders. Being good at the CFO role doesn’t necessarily mean you’re ready for a board seat, according to Claire Bramley, CFO at accounting software firm Xero. Bramley, who recently joined Upwork’s board after previously serving on the Ansys board, said CFOs looking for their first board role need to show they can step outside of finance and think strategically about the entire business. She also added that the resume that gets…",
       "url": "https://www.esgdive.com/news/want-a-board-seat-xero-cfo-claire-bramley-xerocon-2026-interview-/828577/",
       "publishedAt": "2026-08-24T16:42:00.000Z",
-      "image": null,
+      "image": "https://imgproxy.divecdn.com/hzIVRnlSlDlL1impMV6N3qJqnDHCkz3wszt-opoSZ9Q/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db3B5X29mX0NGT182NjVLa2RDLmNvbV9RQV9IZWFkZXJfSW1hZ2VfVGVtcGxhdGVfMS5qcGc=.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
+        "feed": "https://www.esgdive.com/feeds/news/",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -1784,50 +1920,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-mafix-raises-5-4-million-to-turn-rocks-i-2026-08-21",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Mafix Raises $5.4 Million to Turn Rocks into Carbon-Removing Fertilizer",
-      "excerpt": "Ag-tech startup Mafix announced that it has raised $5.4 million in a pre-seed funding round, with proceeds aimed at scaling production of its silicon fertilizer, designed to improve soil and crop health while removing carbon dioxide from the atmosphere. Mafix said that although there is demand for silicon fertilizers, producers are unable to reliably obtain high-quality supply at a relevant price. The company said that it is meeting that demand with its permanent carbon sequestration fertilizer that has multiple value props for farmers. Launched in 2026…",
-      "url": "https://www.esgtoday.com/mafix-raises-5-4-million-to-rocks-into-carbon-removing-fertilizer/?utm_source=rss utm_medium=rss utm_campaign=mafix-raises-5-4-million-to-rocks-into-carbon-removing-fertilizer",
-      "publishedAt": "2026-08-21T12:47:15.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Mafix-founders.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-position-green-appoints-julia-staunig-as-2026-08-21",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Position Green Appoints Julia Staunig as New CEO",
-      "excerpt": "Sustainability software and advisory company Position Green announced today the appointment of its Chief Operating Officer Julia Staunig as its new Chief Executive Officer, effective October 1. Staunig will succeed Daniel Gadd in the role, who has served as CEO since co-founding Position Green in 2015. Gadd will serve as Senior Advisor focusing on AI, Product and Tech strategy through 2026, before joining the Board at the beginning of 2027. “Building and leading Position Green over the past ten years has been an extraordinary journey. Julia has been…",
-      "url": "https://www.esgtoday.com/position-green-appoints-julia-staunig-as-new-ceo/?utm_source=rss utm_medium=rss utm_campaign=position-green-appoints-julia-staunig-as-new-ceo",
-      "publishedAt": "2026-08-21T12:15:50.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Position-Green-Staunig.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-best-buy-achieves-zero-waste-goal-at-sup-2026-08-20",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1986,50 +2078,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-microsoft-signs-offtake-deal-for-wastewa-2026-08-19",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Microsoft signs offtake deal for wastewater-based carbon removal",
-      "excerpt": "The deal with climate startup Crew Carbon will lean on its wastewater alkalinity enhancement technology to permanently remove carbon dioxide emitted by wastewater plants.",
-      "url": "https://www.esgdive.com/news/microsoft-crew-carbon-sign-offtake-deal-for-wastewater-based-carbon-removal/828289/",
-      "publishedAt": "2026-08-19T16:37:45.000Z",
-      "image": "https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-walmart-flags-fewer-supplier-standard-vi-2026-08-19",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Walmart flags fewer supplier standard violations",
-      "excerpt": "The retailer logged 754 cases in fiscal 2026, down 35% year over year, according to its latest ESG report.",
-      "url": "https://www.esgdive.com/news/walmart-flags-fewer-supplier-standard-violations/828249/",
-      "publishedAt": "2026-08-19T15:29:00.000Z",
-      "image": "https://imgproxy.divecdn.com/dpiVgKtlIMKJFC4tCdas8ADiOeoCJE5WEtYsN5tMbSw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU5Nzg0MzIwLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-q-a-what-is-long-duration-energy-storage-2026-08-19",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2048,28 +2096,6 @@
       "meta": {
         "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-us-calls-for-eu-to-deliver-on-trade-conc-2026-08-18",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "US calls for EU to ‘deliver’ on trade concessions on sustainability laws",
-      "excerpt": "The United States ambassador to the European Union said that the government will take any actions necessary to address unreasonable burdens on U.S. commerce.",
-      "url": "https://www.esgdive.com/news/us-calls-for-eu-to-deliver-on-trade-concessions-on-sustainability-laws/828174/",
-      "publishedAt": "2026-08-18T16:43:00.000Z",
-      "image": "https://imgproxy.divecdn.com/obJzyQqgiEAX1-vrbfa_0xVqPx1PUFHH3KFTEsjIVb4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02NTExMjAxMzZfMS5qcGc=.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -2463,29 +2489,6 @@
       "region": "india"
     },
     {
-      "id": "verra-projects-open-for-public-comment-july-27-2026-07-27",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Projects Open for Public Comment: July 27, 2026",
-      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-      "url": "https://verra.org/projects-open-for-public-comment-july-27-2026/",
-      "publishedAt": "2026-07-27T12:39:06.000Z",
-      "image": "https://verra.org/wp-content/uploads/2023/08/1885094731-huge-scaled.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-most-zombie-credits-locked-out-of-new-un-2026-07-17",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2803,10 +2806,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": null,
+      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2814,7 +2817,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
