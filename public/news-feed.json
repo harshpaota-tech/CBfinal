@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-08-26T07:50:49.051Z",
+  "fetchedAt": "2026-08-26T13:51:54.723Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 15,
     "world": 47,
-    "withImages": 52,
-    "avgExcerptLength": 422,
+    "withImages": 54,
+    "avgExcerptLength": 437,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -223,6 +223,30 @@
         "region": "india"
       },
       {
+        "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - The Quint",
+        "excerpt": "Become a Member Dark Mode Become a Member Student Protest Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take My Report Opinion Members Only More Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy Policy…",
+        "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
+        "publishedAt": "2026-06-25T07:00:00.000Z",
+        "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -295,29 +319,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
-        "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
-        "publishedAt": "2026-03-21T07:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -372,10 +373,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": null,
+        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -383,7 +384,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -413,6 +415,116 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-certain-energy-raises-13-million-for-new-2026-08-26",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Certain Energy Raises $13 Million for New Low-Cost, Long Duration Energy Storage Solution",
+        "excerpt": "Energy storage technology company Certain Energy announced today that it has raised £10 million (USD$13.6 million) in a Series A funding round, with proceeds aimed at supporting the deployment of its long-duration, low cost solution to store energy to help stabilize grids and provide power during periods of low renewables production. Founded in 2017 as a spin-off from Imperial College, London-based Certain Energy (formerly RFC Power) develops manganese-based flow battery technology for long-duration energy storage, designed to store clean energy for…",
+        "url": "https://www.esgtoday.com/certain-energy-raises-13-million-for-new-low-cost-long-duration-energy-storage-solution/?utm_source=rss utm_medium=rss utm_campaign=certain-energy-raises-13-million-for-new-low-cost-long-duration-energy-storage-solution",
+        "publishedAt": "2026-08-26T13:40:40.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Certain-Energy.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-philips-issues-its-first-eugb-aligned-gr-2026-08-26",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Philips Issues its First EuGB-Aligned Green Bond",
+        "excerpt": "Health technology company Philips announced the pricing of its new €650 million green bond offering, he first by the company – and in the healthcare industry – to be issued under the EU’s European Green Bond (EuGB) standard. Adopted by the EU in November 2023 , the EuGB regulation was launched by the European Commission to establish a “gold standard” for green bonds, in order to combat greenwashing and advance the sustainable finance market in the EU. Under the regulation, all proceeds from instruments issued using an EuGB designation are required to be…",
+        "url": "https://www.esgtoday.com/philips-issues-its-first-eugb-aligned-green-bond/?utm_source=rss utm_medium=rss utm_campaign=philips-issues-its-first-eugb-aligned-green-bond",
+        "publishedAt": "2026-08-26T13:12:35.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Philips2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-data-center-power-solutions-startup-emer-2026-08-26",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Data Center Power Solutions Startup Emerald AI Raises $150 Million at Unicorn Valuation",
+        "excerpt": "AI data center grid flexibility technology company Emerald AI announced that it has raised $150 million in a Series A funding round, with proceeds aimed at accelerating commercial deployment of its technology to transform AI data centers into flexible assets for the power grid. The new financing round values Emerald AI at $1.05 billion. According to Emerald AI the new funding round comes as power demand by AI infrastructure increases rapidly, with data centers projected to account for nearly half of the growth in U.S. electricity demand through 2030,…",
+        "url": "https://www.esgtoday.com/data-center-power-solutions-startup-emerald-ai-raises-150-million-at-unicorn-valuation/?utm_source=rss utm_medium=rss utm_campaign=data-center-power-solutions-startup-emerald-ai-raises-150-million-at-unicorn-valuation",
+        "publishedAt": "2026-08-26T11:46:42.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Emerald-AI2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-environmental-carbon-markets-platforms-c-2026-08-26",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Environmental, Carbon Markets Platforms Climate Impact X, Carbonplace to Merge",
+        "excerpt": "Singapore-based environmental markets exchange Climate Impact X (CIX) and London-based carbon market platform Carbonplace announced today an agreement to merge, in a transaction described by the companies as bridging two of the world’s leading financial and carbon market hubs, backed by a group of global banks and investors. CIX was launched in 2021 through a joint venture between DBS, Singapore Exchange (SGX), Standard Chartered and Temasek, aimed at offering distinct platforms and products that cater to the needs of different buyers and sellers,…",
+        "url": "https://www.esgtoday.com/environmental-carbon-markets-platforms-climate-impact-x-carbonplace-to-merge/?utm_source=rss utm_medium=rss utm_campaign=environmental-carbon-markets-platforms-climate-impact-x-carbonplace-to-merge",
+        "publishedAt": "2026-08-26T10:14:51.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/CIX-Choo.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-massmutual-ventures-launches-150-million-2026-08-26",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "MassMutual Ventures Launches $150 Million Climate Tech Startup Fund",
+        "excerpt": "MassMutual Ventures (MMV), the venture capital investment arm of financial services and insurance company MassMutual, announced the launch of Climate Technology Fund II (CTF II), a $150 million venture capital fund targeting early-stage companies applying climate technology and artificial intelligence to real assets. According to MMV, the new fund will focus on the intersection of several long-term trends, including the rising demand for clean and reliable energy, increasing physical and operational risk across real assets, and the growing adoption of…",
+        "url": "https://www.esgtoday.com/massmutual-ventures-launches-150-million-climate-tech-startup-fund/?utm_source=rss utm_medium=rss utm_campaign=massmutual-ventures-launches-150-million-climate-tech-startup-fund",
+        "publishedAt": "2026-08-26T09:11:38.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Massmutual3.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Private Equity & Venture Capital",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "google-carbon-verra-and-gold-standard-unveil-new-digit-2026-08-25",
         "source": "google-carbon",
@@ -681,72 +793,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-u-s-doe-invests-500-million-in-critical--2026-08-24",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "U.S. DOE Invests $500 Million in Critical Mineral, Battery Supply Chain Projects",
-        "excerpt": "The U.S. Department of Energy’s (DOE) Office of Critical Minerals and Energy Innovation (CMEI) announced investments of $500 million in a series of projects aimed at expanding critical mineral and material processing, battery manufacturing, and recycling capacity in the U.S. The new investments follows announced plans last year by the DOE of plans to provide nearly $1 billion in funding to bolster the production and supply of U.S.-based critical minerals and materials, with more than half to be channeled towards battery materials processing,…",
-        "url": "https://www.esgtoday.com/u-s-doe-invests-500-million-in-critical-mineral-and-battery-supply-chain-projects/?utm_source=rss utm_medium=rss utm_campaign=u-s-doe-invests-500-million-in-critical-mineral-and-battery-supply-chain-projects",
-        "publishedAt": "2026-08-24T14:58:40.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/DOE2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-world-bank-issues-4-billion-sustainable--2026-08-24",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "World Bank Issues $4 Billion Sustainable Development Bond",
-        "excerpt": "The World Bank announced that it has raised $4 billion through the issuance of a new 7-year benchmark Sustainable Development Bond. World Bank Sustainable Development Bonds support the financing of a combination of green and social projects, programs, and activities in member countries. Investments support the World Bank Group mission to end extreme poverty and boost shared prosperity on a livable planet, the Sustainable Development Goals (SGDs), and positive social and environmental outcomes in countries. The World Bank reported strong demand for the…",
-        "url": "https://www.esgtoday.com/world-bank-issues-4-billion-sustainable-development-bond/?utm_source=rss utm_medium=rss utm_campaign=world-bank-issues-4-billion-sustainable-development-bond",
-        "publishedAt": "2026-08-24T13:19:17.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/World-Bank.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Sustainable Finance",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-wovenearth-raises-155-million-for-cleant-2026-08-24",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "WovenEarth Raises $155 Million for CleanTech Venture Fund",
-        "excerpt": "Early-stage cleantech investment firm WovenEarth Ventures announced that it has raised $155 million at the final close of WovenEarth Fund II, aimed at delivering strategic exposure to early-stage cleantech companies with outsized return potential in energy, industry, and resilience. Founded in 2022, Palo Alto, California-based WovenEarth provides diversified exposure to early-stage cleantech companies through fund investments and direct co-investments. The company said that the fund is expected to provide exposure to 250+ companies by investing in a…",
-        "url": "https://www.esgtoday.com/wovenearth-raises-155-million-for-cleantech-venture-fund/?utm_source=rss utm_medium=rss utm_campaign=wovenearth-raises-155-million-for-cleantech-venture-fund",
-        "publishedAt": "2026-08-24T12:36:14.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/WovenEarth-Woodward.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Private Equity & Venture Capital",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-projects-open-for-public-comment-august--2026-08-24",
         "source": "verra",
         "sourceName": "Verra",
@@ -766,50 +812,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-redstone-raises-25-million-for-ocean-tec-2026-08-24",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Redstone Raises €25 Million for Ocean Tech-Focused Blue Economy Fund",
-        "excerpt": "Early-stage venture capital investor Redstone announced that it has raised €25 million (USD$29 million) at the first close of launch its ocean-focused blue economy fund, Redstone Blue. Launched in 2025, Redstone’s blue economy fund invests in early stage companies, from pre-seed through Series A, transforming ocean industries through innovation that supports more sustainable growth across maritime sectors. The strategy targets technology ventures across four areas, including sustainable maritime and port systems, ocean infrastructure and clean energy,…",
-        "url": "https://www.esgtoday.com/redstone-raises-25-million-for-new-ocean-tech-focused-blue-fund/?utm_source=rss utm_medium=rss utm_campaign=redstone-raises-25-million-for-new-ocean-tech-focused-blue-fund",
-        "publishedAt": "2026-08-24T10:36:38.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Redstone.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-esg-today-week-in-review-2026-08-23",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "ESG Today: Week in Review",
-        "excerpt": "This week in ESG news: osapiens acquires Nasdaq’s sustainability reporting platform; U.S. warns EU of “any actions necessary” to protect companies from sustainability reporting regulations; CIP raises $3 billion for clean energy infrastructure fund; Canada backs $50 billion in new clean energy investments; Google invests $60 million in new water projects; New Zealand lawmakers pass law blocking climate lawsuits against companies; IFRS releases new operating, financing plan for ISSB; Deepki acquires reals estate sustainability and consulting platforms;…",
-        "url": "https://www.esgtoday.com/esg-today-week-in-review-273/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-273",
-        "publishedAt": "2026-08-23T08:19:41.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Wind-Austria.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG News",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1475,6 +1477,116 @@
   },
   "articles": [
     {
+      "id": "esg-today-certain-energy-raises-13-million-for-new-2026-08-26",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Certain Energy Raises $13 Million for New Low-Cost, Long Duration Energy Storage Solution",
+      "excerpt": "Energy storage technology company Certain Energy announced today that it has raised £10 million (USD$13.6 million) in a Series A funding round, with proceeds aimed at supporting the deployment of its long-duration, low cost solution to store energy to help stabilize grids and provide power during periods of low renewables production. Founded in 2017 as a spin-off from Imperial College, London-based Certain Energy (formerly RFC Power) develops manganese-based flow battery technology for long-duration energy storage, designed to store clean energy for…",
+      "url": "https://www.esgtoday.com/certain-energy-raises-13-million-for-new-low-cost-long-duration-energy-storage-solution/?utm_source=rss utm_medium=rss utm_campaign=certain-energy-raises-13-million-for-new-low-cost-long-duration-energy-storage-solution",
+      "publishedAt": "2026-08-26T13:40:40.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Certain-Energy.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-philips-issues-its-first-eugb-aligned-gr-2026-08-26",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Philips Issues its First EuGB-Aligned Green Bond",
+      "excerpt": "Health technology company Philips announced the pricing of its new €650 million green bond offering, he first by the company – and in the healthcare industry – to be issued under the EU’s European Green Bond (EuGB) standard. Adopted by the EU in November 2023 , the EuGB regulation was launched by the European Commission to establish a “gold standard” for green bonds, in order to combat greenwashing and advance the sustainable finance market in the EU. Under the regulation, all proceeds from instruments issued using an EuGB designation are required to be…",
+      "url": "https://www.esgtoday.com/philips-issues-its-first-eugb-aligned-green-bond/?utm_source=rss utm_medium=rss utm_campaign=philips-issues-its-first-eugb-aligned-green-bond",
+      "publishedAt": "2026-08-26T13:12:35.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Philips2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-data-center-power-solutions-startup-emer-2026-08-26",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Data Center Power Solutions Startup Emerald AI Raises $150 Million at Unicorn Valuation",
+      "excerpt": "AI data center grid flexibility technology company Emerald AI announced that it has raised $150 million in a Series A funding round, with proceeds aimed at accelerating commercial deployment of its technology to transform AI data centers into flexible assets for the power grid. The new financing round values Emerald AI at $1.05 billion. According to Emerald AI the new funding round comes as power demand by AI infrastructure increases rapidly, with data centers projected to account for nearly half of the growth in U.S. electricity demand through 2030,…",
+      "url": "https://www.esgtoday.com/data-center-power-solutions-startup-emerald-ai-raises-150-million-at-unicorn-valuation/?utm_source=rss utm_medium=rss utm_campaign=data-center-power-solutions-startup-emerald-ai-raises-150-million-at-unicorn-valuation",
+      "publishedAt": "2026-08-26T11:46:42.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Emerald-AI2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-environmental-carbon-markets-platforms-c-2026-08-26",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Environmental, Carbon Markets Platforms Climate Impact X, Carbonplace to Merge",
+      "excerpt": "Singapore-based environmental markets exchange Climate Impact X (CIX) and London-based carbon market platform Carbonplace announced today an agreement to merge, in a transaction described by the companies as bridging two of the world’s leading financial and carbon market hubs, backed by a group of global banks and investors. CIX was launched in 2021 through a joint venture between DBS, Singapore Exchange (SGX), Standard Chartered and Temasek, aimed at offering distinct platforms and products that cater to the needs of different buyers and sellers,…",
+      "url": "https://www.esgtoday.com/environmental-carbon-markets-platforms-climate-impact-x-carbonplace-to-merge/?utm_source=rss utm_medium=rss utm_campaign=environmental-carbon-markets-platforms-climate-impact-x-carbonplace-to-merge",
+      "publishedAt": "2026-08-26T10:14:51.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/CIX-Choo.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-massmutual-ventures-launches-150-million-2026-08-26",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "MassMutual Ventures Launches $150 Million Climate Tech Startup Fund",
+      "excerpt": "MassMutual Ventures (MMV), the venture capital investment arm of financial services and insurance company MassMutual, announced the launch of Climate Technology Fund II (CTF II), a $150 million venture capital fund targeting early-stage companies applying climate technology and artificial intelligence to real assets. According to MMV, the new fund will focus on the intersection of several long-term trends, including the rising demand for clean and reliable energy, increasing physical and operational risk across real assets, and the growing adoption of…",
+      "url": "https://www.esgtoday.com/massmutual-ventures-launches-150-million-climate-tech-startup-fund/?utm_source=rss utm_medium=rss utm_campaign=massmutual-ventures-launches-150-million-climate-tech-startup-fund",
+      "publishedAt": "2026-08-26T09:11:38.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Massmutual3.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Private Equity & Venture Capital",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-carbon-verra-and-gold-standard-unveil-new-digit-2026-08-25",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -1742,72 +1854,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-u-s-doe-invests-500-million-in-critical--2026-08-24",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "U.S. DOE Invests $500 Million in Critical Mineral, Battery Supply Chain Projects",
-      "excerpt": "The U.S. Department of Energy’s (DOE) Office of Critical Minerals and Energy Innovation (CMEI) announced investments of $500 million in a series of projects aimed at expanding critical mineral and material processing, battery manufacturing, and recycling capacity in the U.S. The new investments follows announced plans last year by the DOE of plans to provide nearly $1 billion in funding to bolster the production and supply of U.S.-based critical minerals and materials, with more than half to be channeled towards battery materials processing,…",
-      "url": "https://www.esgtoday.com/u-s-doe-invests-500-million-in-critical-mineral-and-battery-supply-chain-projects/?utm_source=rss utm_medium=rss utm_campaign=u-s-doe-invests-500-million-in-critical-mineral-and-battery-supply-chain-projects",
-      "publishedAt": "2026-08-24T14:58:40.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/DOE2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-world-bank-issues-4-billion-sustainable--2026-08-24",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "World Bank Issues $4 Billion Sustainable Development Bond",
-      "excerpt": "The World Bank announced that it has raised $4 billion through the issuance of a new 7-year benchmark Sustainable Development Bond. World Bank Sustainable Development Bonds support the financing of a combination of green and social projects, programs, and activities in member countries. Investments support the World Bank Group mission to end extreme poverty and boost shared prosperity on a livable planet, the Sustainable Development Goals (SGDs), and positive social and environmental outcomes in countries. The World Bank reported strong demand for the…",
-      "url": "https://www.esgtoday.com/world-bank-issues-4-billion-sustainable-development-bond/?utm_source=rss utm_medium=rss utm_campaign=world-bank-issues-4-billion-sustainable-development-bond",
-      "publishedAt": "2026-08-24T13:19:17.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/World-Bank.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Sustainable Finance",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-wovenearth-raises-155-million-for-cleant-2026-08-24",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "WovenEarth Raises $155 Million for CleanTech Venture Fund",
-      "excerpt": "Early-stage cleantech investment firm WovenEarth Ventures announced that it has raised $155 million at the final close of WovenEarth Fund II, aimed at delivering strategic exposure to early-stage cleantech companies with outsized return potential in energy, industry, and resilience. Founded in 2022, Palo Alto, California-based WovenEarth provides diversified exposure to early-stage cleantech companies through fund investments and direct co-investments. The company said that the fund is expected to provide exposure to 250+ companies by investing in a…",
-      "url": "https://www.esgtoday.com/wovenearth-raises-155-million-for-cleantech-venture-fund/?utm_source=rss utm_medium=rss utm_campaign=wovenearth-raises-155-million-for-cleantech-venture-fund",
-      "publishedAt": "2026-08-24T12:36:14.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/WovenEarth-Woodward.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Private Equity & Venture Capital",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-august--2026-08-24",
       "source": "verra",
       "sourceName": "Verra",
@@ -1827,50 +1873,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-redstone-raises-25-million-for-ocean-tec-2026-08-24",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Redstone Raises €25 Million for Ocean Tech-Focused Blue Economy Fund",
-      "excerpt": "Early-stage venture capital investor Redstone announced that it has raised €25 million (USD$29 million) at the first close of launch its ocean-focused blue economy fund, Redstone Blue. Launched in 2025, Redstone’s blue economy fund invests in early stage companies, from pre-seed through Series A, transforming ocean industries through innovation that supports more sustainable growth across maritime sectors. The strategy targets technology ventures across four areas, including sustainable maritime and port systems, ocean infrastructure and clean energy,…",
-      "url": "https://www.esgtoday.com/redstone-raises-25-million-for-new-ocean-tech-focused-blue-fund/?utm_source=rss utm_medium=rss utm_campaign=redstone-raises-25-million-for-new-ocean-tech-focused-blue-fund",
-      "publishedAt": "2026-08-24T10:36:38.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Redstone.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-esg-today-week-in-review-2026-08-23",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "ESG Today: Week in Review",
-      "excerpt": "This week in ESG news: osapiens acquires Nasdaq’s sustainability reporting platform; U.S. warns EU of “any actions necessary” to protect companies from sustainability reporting regulations; CIP raises $3 billion for clean energy infrastructure fund; Canada backs $50 billion in new clean energy investments; Google invests $60 million in new water projects; New Zealand lawmakers pass law blocking climate lawsuits against companies; IFRS releases new operating, financing plan for ISSB; Deepki acquires reals estate sustainability and consulting platforms;…",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-273/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-273",
-      "publishedAt": "2026-08-23T08:19:41.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Wind-Austria.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG News",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2606,6 +2608,30 @@
       "region": "world"
     },
     {
+      "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - The Quint",
+      "excerpt": "Become a Member Dark Mode Become a Member Student Protest Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take My Report Opinion Members Only More Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy Policy…",
+      "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2702,29 +2728,6 @@
       "region": "india"
     },
     {
-      "id": "google-india-union-power-minister-inaugurates-prakrit-2026-03-21",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - PIB",
-      "excerpt": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments PIB",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243377&reg=3&lang=1",
-      "publishedAt": "2026-03-21T07:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZDJIMHpyUE51cEV3Uk40TWJCNTA3YUx1ZERBVkFnTDFLaExibFVSdmRCVGFOQkRBYjg3dGVpaUVHSGs0YXhsSDFTMkJiTWc1LWhLbnI0eV9qS2w2M1phaGh1alFiM1o2WndjZC1mY3VZUEpqcl9SYl9B?oc=5"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2803,10 +2806,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": null,
+      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2814,7 +2817,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
