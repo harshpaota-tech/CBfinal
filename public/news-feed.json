@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-08-29T01:58:17.064Z",
+  "fetchedAt": "2026-08-29T07:35:42.374Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 16,
     "world": 46,
     "withImages": 57,
-    "avgExcerptLength": 446,
+    "avgExcerptLength": 453,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -550,6 +550,30 @@
         "region": "world"
       },
       {
+        "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-08-27",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
+        "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
+        "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
+        "publishedAt": "2026-08-27T09:12:17.000Z",
+        "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdElNb1VIWGJmUlRQdS1vVUNqUlJHc0tMRWtTdW9ULU0tOG1BUmlyeThVSXNRYkVIZnpyUXBVWXdYTmJic2V0R3hMVXNvN3lNTFA5b3JRNUltMXlKcGladFlFNnZmUHk2?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "carbon-brief-climate-change-exposes-580-million-child-2026-08-26",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1010,30 +1034,6 @@
         "meta": {
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-verra-gs-launch-tool-to-report-article-6-2026-08-20",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra, GS launch tool to report Article 6 accounting measures - Quantum Commodity Intelligence",
-        "excerpt": "Search and filter all the latest news, prices and analysis for carbon offset markets from Quantum Commodity Intelligence.",
-        "url": "https://www.qcintel.com/carbon/article/verra-gs-launch-tool-to-report-article-6-accounting-measures-71304.html",
-        "publishedAt": "2026-08-20T07:00:00.000Z",
-        "image": "/i/qci_logo_sq_300x300.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGdaM3FhWTYxSWZtdmdLa3lXamZpa0kyNzBHZnpMRWpXelE5UlFGRWVKQ0c1WEFBTnBFNFk5ckNYaXIyTW5FeWZuSFZicUJNNzV2ZVdsVFpnUk9KYWhpVm9DbFRZbC04NkVhOC1xaXpaZmZDdDh4enZ3TkxpWDJrRV9VZzdMV3pSQm1qQUZkeE5ad1M5OUhZREZvV3pRa2hsVE5sTTducDZhckpRejdR?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -1588,6 +1588,30 @@
       "region": "world"
     },
     {
+      "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-08-27",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
+      "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
+      "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
+      "publishedAt": "2026-08-27T09:12:17.000Z",
+      "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdElNb1VIWGJmUlRQdS1vVUNqUlJHc0tMRWtTdW9ULU0tOG1BUmlyeThVSXNRYkVIZnpyUXBVWXdYTmJic2V0R3hMVXNvN3lNTFA5b3JRNUltMXlKcGladFlFNnZmUHk2?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "carbon-brief-climate-change-exposes-580-million-child-2026-08-26",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2048,30 +2072,6 @@
       "meta": {
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-verra-gs-launch-tool-to-report-article-6-2026-08-20",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra, GS launch tool to report Article 6 accounting measures - Quantum Commodity Intelligence",
-      "excerpt": "Search and filter all the latest news, prices and analysis for carbon offset markets from Quantum Commodity Intelligence.",
-      "url": "https://www.qcintel.com/carbon/article/verra-gs-launch-tool-to-report-article-6-accounting-measures-71304.html",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "image": "/i/qci_logo_sq_300x300.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGdaM3FhWTYxSWZtdmdLa3lXamZpa0kyNzBHZnpMRWpXelE5UlFGRWVKQ0c1WEFBTnBFNFk5ckNYaXIyTW5FeWZuSFZicUJNNzV2ZVdsVFpnUk9KYWhpVm9DbFRZbC04NkVhOC1xaXpaZmZDdDh4enZ3TkxpWDJrRV9VZzdMV3pSQm1qQUZkeE5ad1M5OUhZREZvV3pRa2hsVE5sTTducDZhckpRejdR?oc=5",
         "imageSource": "publisher"
       },
       "region": "world"
