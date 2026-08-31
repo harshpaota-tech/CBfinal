@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-08-31T06:33:23.666Z",
+  "fetchedAt": "2026-08-31T14:57:46.007Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 16,
     "world": 46,
     "withImages": 56,
-    "avgExcerptLength": 446,
+    "avgExcerptLength": 449,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -421,10 +421,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
-        "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
+        "excerpt": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets Fuel Cells Works",
         "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
         "publishedAt": "2025-09-01T07:00:00.000Z",
-        "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -432,13 +432,123 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5"
         },
         "region": "india"
       }
     ],
     "world": [
+      {
+        "id": "esg-today-miotech-ccx-merge-to-form-asian-sustaina-2026-08-31",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "MioTech, CCX Merge to Form Asian Sustainability Reporting, Supply Chain Data, Green Finance Solutions Provider",
+        "excerpt": "Hong Kong-headquartered sustainability reporting and supply chain AI company MioTech announced a new agreement to combine with the green finance and ESG business of CCX Group, China s largest credit ratings agency, with the companies describing the transaction as aimed at forming a premier sustainability and ESG business in Asia. According to the companies, the merger comes in response to recent market shifts across Asia, including the emergence of mandatory sustainability reporting regimes, and growing expectations for Asian exporters to meet…",
+        "url": "https://www.esgtoday.com/miotech-ccx-merge-to-form-asian-sustainability-reporting-supply-chain-and-green-finance-solution-provider/?utm_source=rss utm_medium=rss utm_campaign=miotech-ccx-merge-to-form-asian-sustainability-reporting-supply-chain-and-green-finance-solution-provider",
+        "publishedAt": "2026-08-31T14:16:15.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/MioTech-Tu.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-projects-open-for-public-comment-august--2026-08-31",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Projects Open for Public Comment: August 31, 2026",
+        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+        "url": "https://verra.org/projects-open-for-public-comment-august-31-2026/",
+        "publishedAt": "2026-08-31T13:56:46.000Z",
+        "image": "https://verra.org/wp-content/uploads/2023/12/shutterstock_2311969343-scaled.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-eu-approves-5-6-billion-greek-clean-tran-2026-08-31",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EU Approves $5.6 Billion Greek Clean Transition Plan",
+        "excerpt": "The European Commission announced that it has adopted Greece’s €4.8 billion (USD$5.6 billion) Social Climate Plan to use the revenues from emission allowances to advance the clean transition and support vulnerable consumers and enterprises. The Greek plan is the fifth and largest to date to be approved under the EU’s Social Climate Fund, designed to support measures and investments in energy efficiency, the renovation of buildings, clean heating and cooling, and the integration of renewable energy, as well as in zero-emission mobility and transport.…",
+        "url": "https://www.esgtoday.com/eu-approves-5-6-billion-greek-clean-transition-plan/?utm_source=rss utm_medium=rss utm_campaign=eu-approves-5-6-billion-greek-clean-transition-plan",
+        "publishedAt": "2026-08-31T13:25:12.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/EU-flags3-1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-green-bond-issuance-hits-new-record-in-q-2026-08-31",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Green Bond Issuance Hits New Record in Q2 2026: Moody’s",
+        "excerpt": "Issuance of green bonds globally reached a new record in the second quarter of 2026, hitting $193 billion in the quarter, driven by strong growth by European issuers, and lifting overall issuance of labelled sustainable bonds higher compared to the same quarter last year, according to a new report released by Moody’s. While a much smaller segment of the sustainable finance market, blue bond issuance also hit record levels in the first half of the year, already surpassing total volumes for all of 2025, while sustainability and sustainability-linked bond…",
+        "url": "https://www.esgtoday.com/green-bond-issuance-hits-new-record-in-q2-2026-moodys/?utm_source=rss utm_medium=rss utm_campaign=green-bond-issuance-hits-new-record-in-q2-2026-moodys",
+        "publishedAt": "2026-08-31T11:33:58.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Moodys4.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Reports, Studies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-amazon-signs-new-series-of-clean-energy--2026-08-31",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Amazon Signs New Series of Clean Energy Deals in Sweden",
+        "excerpt": "Amazon announced the signing of four new long-term power purchase agreements (PPAs) for carbon-free electricity from new wind power projects in southern and central Sweden. The company said that the new projects will add nearly 200 MW of new carbon-free energy capacity across Sweden. Once all of the projects are fully operational, Amazon will have invested in nine projects in Sweden with a wind power capacity of 985 MW, enough to power the equivalent of more than 350,000 households annually. In 2025, Amazon was the largest corporate buyer of carbon-free…",
+        "url": "https://www.esgtoday.com/amazon-signs-new-series-of-clean-energy-deals-in-sweden/?utm_source=rss utm_medium=rss utm_campaign=amazon-signs-new-series-of-clean-energy-deals-in-sweden",
+        "publishedAt": "2026-08-31T10:17:32.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Amazon4.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-dem-ags-dispute-gop-s-probe-into-credit--2026-08-28",
         "source": "esg-dive",
@@ -750,28 +860,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-massmutual-ventures-launches-150-million-2026-08-26",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "MassMutual Ventures Launches $150 Million Climate Tech Startup Fund",
-        "excerpt": "MassMutual Ventures (MMV), the venture capital investment arm of financial services and insurance company MassMutual, announced the launch of Climate Technology Fund II (CTF II), a $150 million venture capital fund targeting early-stage companies applying climate technology and artificial intelligence to real assets. According to MMV, the new fund will focus on the intersection of several long-term trends, including the rising demand for clean and reliable energy, increasing physical and operational risk across real assets, and the growing adoption of…",
-        "url": "https://www.esgtoday.com/massmutual-ventures-launches-150-million-climate-tech-startup-fund/?utm_source=rss utm_medium=rss utm_campaign=massmutual-ventures-launches-150-million-climate-tech-startup-fund",
-        "publishedAt": "2026-08-26T09:11:38.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Massmutual3.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Private Equity & Venture Capital",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-verra-approves-artio-insurance-policy-fo-2026-08-25",
         "source": "verra",
         "sourceName": "Verra",
@@ -857,72 +945,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-aker-microsoft-partner-to-advance-maturi-2026-08-25",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Aker, Microsoft Partner to Advance Maturity, Delivery of Carbon Capture and Removal Projects",
-        "excerpt": "Energy-focused global engineering and technology company Aker Solutions announced a new agreement with Microsoft, with the companies collaborating to advance the maturity, bankability and delivery of carbon capture and storage (CCS) and carbon dioxide removal (CDR) projects globally. Under the new agreement, Aker said that it aims to engage with developers, emitters, transport and storage providers, industry stakeholders and governments to support project development, reduce execution risk, strengthen investment readiness, including potential CDR…",
-        "url": "https://www.esgtoday.com/aker-microsoft-partner-to-advance-maturity-and-delivery-of-carbon-capture-and-removal-projects/?utm_source=rss utm_medium=rss utm_campaign=aker-microsoft-partner-to-advance-maturity-and-delivery-of-carbon-capture-and-removal-projects",
-        "publishedAt": "2026-08-25T14:42:56.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Aker-Microsoft.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-lookthrough-acquires-real-estate-esg-dat-2026-08-25",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Lookthrough Acquires Real Estate ESG Data and Reporting Platform BuildingMinds",
-        "excerpt": "Real estate decision intelligence platform Lookthrough announced an agreement to acquire Schindler-owned real estate portfolio ESG data and reporting platform BuildingMinds, in a transaction described by the companies as aimed at creating an AI platform for institutional real estate, combining ESG and operational data serving institutional investors, governments and global technology companies. Launched in 2018 by elevator and escalator manufacturer Schindler, BuildingMinds was initially founded to meet the company s need for building data monitoring…",
-        "url": "https://www.esgtoday.com/lookthrough-acquires-real-estate-esg-data-and-reporting-platform-buildingminds/?utm_source=rss utm_medium=rss utm_campaign=lookthrough-acquires-real-estate-esg-data-and-reporting-platform-buildingminds",
-        "publishedAt": "2026-08-25T14:01:12.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Lookthrough-Staub.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-responsability-raises-461-million-for-as-2026-08-25",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "responsAbility Raises $461 Million for Asia-Focused Climate Fund",
-        "excerpt": "M&G’s impact investing unit responsAbility Investments announced that it has raised $461 million in commitments at the final close of its Asia Climate Fund, aimed at deploying capital into companies positioned to benefit from Asia’s energy transition, infrastructure build-out and demand for more efficient, resilient business models. According to responsAbility, the final closing establishes the fund as the firm’s largest closed-end climate investment fund to date, and marks one of the most successful fundraises in private credit focused on…",
-        "url": "https://www.esgtoday.com/responsability-raises-461-million-for-asia-focused-climate-fund/?utm_source=rss utm_medium=rss utm_campaign=responsability-raises-461-million-for-asia-focused-climate-fund",
-        "publishedAt": "2026-08-25T12:58:37.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/responsability.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Private Equity & Venture Capital",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1334,28 +1356,6 @@
         "region": "world"
       },
       {
-        "id": "verra-july-2026-newsletter-2026-07-29",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "July 2026 Newsletter",
-        "excerpt": "Yesterday, we launched the new Verra Registry , powered by S&P Global Energy. The new platform will form part of the infrastructure that enables the global carbon market to scale. It also represents the most significant user experience upgrade in Verra s history. Since we announced the partnership with S&P Global Energy last year, we have migrated more than 5,900 projects across the full pipeline, in addition to moving 10,500 account holders, 1.4 billion credits, and 125,000 documents onto the new platform. We also integrated the Verra Registry with the…",
-        "url": "https://verra.org/july-2026-newsletter/",
-        "publishedAt": "2026-07-29T18:04:13.000Z",
-        "image": "https://verra.org/wp-content/uploads/2026/07/CF-EL-Mailchimp-header-2026-VERRA-Newsletter-banner-1024x256.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-voluntary-carbon-credit-market-size-shar-2026-07-07",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1363,10 +1363,10 @@
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
         "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
-        "excerpt": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR Market Research Future",
+        "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
         "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
         "publishedAt": "2026-07-07T07:00:00.000Z",
-        "image": null,
+        "image": "https://www.marketresearchfuture.com/uploads/infographics/voluntary-carbon-credit-market.webp?v=1787579715",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1374,7 +1374,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOW5DeXR6dXdqR09QVy1Vb285U1NKQUZPYkZOU0tfYnRZdXR3YjR0NmZuRjZubXNaaGxKUmFBOG5NRDRpeGNtMjJ2bkxoYmF5Z2NsRmY5Yk9xYXh3REI0RHNZU09xcXI4RmtoVnNpYkItNmlEVmNucTI4VnVHdTRVcGQ1STlHTWVF?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOW5DeXR6dXdqR09QVy1Vb285U1NKQUZPYkZOU0tfYnRZdXR3YjR0NmZuRjZubXNaaGxKUmFBOG5NRDRpeGNtMjJ2bkxoYmF5Z2NsRmY5Yk9xYXh3REI0RHNZU09xcXI4RmtoVnNpYkItNmlEVmNucTI4VnVHdTRVcGQ1STlHTWVF?oc=5",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -1476,6 +1477,117 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-miotech-ccx-merge-to-form-asian-sustaina-2026-08-31",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "MioTech, CCX Merge to Form Asian Sustainability Reporting, Supply Chain Data, Green Finance Solutions Provider",
+      "excerpt": "Hong Kong-headquartered sustainability reporting and supply chain AI company MioTech announced a new agreement to combine with the green finance and ESG business of CCX Group, China s largest credit ratings agency, with the companies describing the transaction as aimed at forming a premier sustainability and ESG business in Asia. According to the companies, the merger comes in response to recent market shifts across Asia, including the emergence of mandatory sustainability reporting regimes, and growing expectations for Asian exporters to meet…",
+      "url": "https://www.esgtoday.com/miotech-ccx-merge-to-form-asian-sustainability-reporting-supply-chain-and-green-finance-solution-provider/?utm_source=rss utm_medium=rss utm_campaign=miotech-ccx-merge-to-form-asian-sustainability-reporting-supply-chain-and-green-finance-solution-provider",
+      "publishedAt": "2026-08-31T14:16:15.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/MioTech-Tu.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-projects-open-for-public-comment-august--2026-08-31",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Projects Open for Public Comment: August 31, 2026",
+      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+      "url": "https://verra.org/projects-open-for-public-comment-august-31-2026/",
+      "publishedAt": "2026-08-31T13:56:46.000Z",
+      "image": "https://verra.org/wp-content/uploads/2023/12/shutterstock_2311969343-scaled.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-eu-approves-5-6-billion-greek-clean-tran-2026-08-31",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EU Approves $5.6 Billion Greek Clean Transition Plan",
+      "excerpt": "The European Commission announced that it has adopted Greece’s €4.8 billion (USD$5.6 billion) Social Climate Plan to use the revenues from emission allowances to advance the clean transition and support vulnerable consumers and enterprises. The Greek plan is the fifth and largest to date to be approved under the EU’s Social Climate Fund, designed to support measures and investments in energy efficiency, the renovation of buildings, clean heating and cooling, and the integration of renewable energy, as well as in zero-emission mobility and transport.…",
+      "url": "https://www.esgtoday.com/eu-approves-5-6-billion-greek-clean-transition-plan/?utm_source=rss utm_medium=rss utm_campaign=eu-approves-5-6-billion-greek-clean-transition-plan",
+      "publishedAt": "2026-08-31T13:25:12.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/EU-flags3-1.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-green-bond-issuance-hits-new-record-in-q-2026-08-31",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Green Bond Issuance Hits New Record in Q2 2026: Moody’s",
+      "excerpt": "Issuance of green bonds globally reached a new record in the second quarter of 2026, hitting $193 billion in the quarter, driven by strong growth by European issuers, and lifting overall issuance of labelled sustainable bonds higher compared to the same quarter last year, according to a new report released by Moody’s. While a much smaller segment of the sustainable finance market, blue bond issuance also hit record levels in the first half of the year, already surpassing total volumes for all of 2025, while sustainability and sustainability-linked bond…",
+      "url": "https://www.esgtoday.com/green-bond-issuance-hits-new-record-in-q2-2026-moodys/?utm_source=rss utm_medium=rss utm_campaign=green-bond-issuance-hits-new-record-in-q2-2026-moodys",
+      "publishedAt": "2026-08-31T11:33:58.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Moodys4.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Reports, Studies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-amazon-signs-new-series-of-clean-energy--2026-08-31",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Amazon Signs New Series of Clean Energy Deals in Sweden",
+      "excerpt": "Amazon announced the signing of four new long-term power purchase agreements (PPAs) for carbon-free electricity from new wind power projects in southern and central Sweden. The company said that the new projects will add nearly 200 MW of new carbon-free energy capacity across Sweden. Once all of the projects are fully operational, Amazon will have invested in nine projects in Sweden with a wind power capacity of 985 MW, enough to power the equivalent of more than 350,000 households annually. In 2025, Amazon was the largest corporate buyer of carbon-free…",
+      "url": "https://www.esgtoday.com/amazon-signs-new-series-of-clean-energy-deals-in-sweden/?utm_source=rss utm_medium=rss utm_campaign=amazon-signs-new-series-of-clean-energy-deals-in-sweden",
+      "publishedAt": "2026-08-31T10:17:32.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Amazon4.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-dive-dem-ags-dispute-gop-s-probe-into-credit--2026-08-28",
       "source": "esg-dive",
@@ -1787,28 +1899,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-massmutual-ventures-launches-150-million-2026-08-26",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "MassMutual Ventures Launches $150 Million Climate Tech Startup Fund",
-      "excerpt": "MassMutual Ventures (MMV), the venture capital investment arm of financial services and insurance company MassMutual, announced the launch of Climate Technology Fund II (CTF II), a $150 million venture capital fund targeting early-stage companies applying climate technology and artificial intelligence to real assets. According to MMV, the new fund will focus on the intersection of several long-term trends, including the rising demand for clean and reliable energy, increasing physical and operational risk across real assets, and the growing adoption of…",
-      "url": "https://www.esgtoday.com/massmutual-ventures-launches-150-million-climate-tech-startup-fund/?utm_source=rss utm_medium=rss utm_campaign=massmutual-ventures-launches-150-million-climate-tech-startup-fund",
-      "publishedAt": "2026-08-26T09:11:38.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Massmutual3.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Private Equity & Venture Capital",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-approves-artio-insurance-policy-fo-2026-08-25",
       "source": "verra",
       "sourceName": "Verra",
@@ -1894,72 +1984,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-aker-microsoft-partner-to-advance-maturi-2026-08-25",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Aker, Microsoft Partner to Advance Maturity, Delivery of Carbon Capture and Removal Projects",
-      "excerpt": "Energy-focused global engineering and technology company Aker Solutions announced a new agreement with Microsoft, with the companies collaborating to advance the maturity, bankability and delivery of carbon capture and storage (CCS) and carbon dioxide removal (CDR) projects globally. Under the new agreement, Aker said that it aims to engage with developers, emitters, transport and storage providers, industry stakeholders and governments to support project development, reduce execution risk, strengthen investment readiness, including potential CDR…",
-      "url": "https://www.esgtoday.com/aker-microsoft-partner-to-advance-maturity-and-delivery-of-carbon-capture-and-removal-projects/?utm_source=rss utm_medium=rss utm_campaign=aker-microsoft-partner-to-advance-maturity-and-delivery-of-carbon-capture-and-removal-projects",
-      "publishedAt": "2026-08-25T14:42:56.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Aker-Microsoft.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-lookthrough-acquires-real-estate-esg-dat-2026-08-25",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Lookthrough Acquires Real Estate ESG Data and Reporting Platform BuildingMinds",
-      "excerpt": "Real estate decision intelligence platform Lookthrough announced an agreement to acquire Schindler-owned real estate portfolio ESG data and reporting platform BuildingMinds, in a transaction described by the companies as aimed at creating an AI platform for institutional real estate, combining ESG and operational data serving institutional investors, governments and global technology companies. Launched in 2018 by elevator and escalator manufacturer Schindler, BuildingMinds was initially founded to meet the company s need for building data monitoring…",
-      "url": "https://www.esgtoday.com/lookthrough-acquires-real-estate-esg-data-and-reporting-platform-buildingminds/?utm_source=rss utm_medium=rss utm_campaign=lookthrough-acquires-real-estate-esg-data-and-reporting-platform-buildingminds",
-      "publishedAt": "2026-08-25T14:01:12.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Lookthrough-Staub.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-responsability-raises-461-million-for-as-2026-08-25",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "responsAbility Raises $461 Million for Asia-Focused Climate Fund",
-      "excerpt": "M&G’s impact investing unit responsAbility Investments announced that it has raised $461 million in commitments at the final close of its Asia Climate Fund, aimed at deploying capital into companies positioned to benefit from Asia’s energy transition, infrastructure build-out and demand for more efficient, resilient business models. According to responsAbility, the final closing establishes the fund as the firm’s largest closed-end climate investment fund to date, and marks one of the most successful fundraises in private credit focused on…",
-      "url": "https://www.esgtoday.com/responsability-raises-461-million-for-asia-focused-climate-fund/?utm_source=rss utm_medium=rss utm_campaign=responsability-raises-461-million-for-asia-focused-climate-fund",
-      "publishedAt": "2026-08-25T12:58:37.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/responsability.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Private Equity & Venture Capital",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2395,28 +2419,6 @@
       "region": "world"
     },
     {
-      "id": "verra-july-2026-newsletter-2026-07-29",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "July 2026 Newsletter",
-      "excerpt": "Yesterday, we launched the new Verra Registry , powered by S&P Global Energy. The new platform will form part of the infrastructure that enables the global carbon market to scale. It also represents the most significant user experience upgrade in Verra s history. Since we announced the partnership with S&P Global Energy last year, we have migrated more than 5,900 projects across the full pipeline, in addition to moving 10,500 account holders, 1.4 billion credits, and 125,000 documents onto the new platform. We also integrated the Verra Registry with the…",
-      "url": "https://verra.org/july-2026-newsletter/",
-      "publishedAt": "2026-07-29T18:04:13.000Z",
-      "image": "https://verra.org/wp-content/uploads/2026/07/CF-EL-Mailchimp-header-2026-VERRA-Newsletter-banner-1024x256.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-india-s-carbon-market-targets-too-weak-t-2026-07-29",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2543,10 +2545,10 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
-      "excerpt": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR Market Research Future",
+      "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
       "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
       "publishedAt": "2026-07-07T07:00:00.000Z",
-      "image": null,
+      "image": "https://www.marketresearchfuture.com/uploads/infographics/voluntary-carbon-credit-market.webp?v=1787579715",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2554,7 +2556,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOW5DeXR6dXdqR09QVy1Vb285U1NKQUZPYkZOU0tfYnRZdXR3YjR0NmZuRjZubXNaaGxKUmFBOG5NRDRpeGNtMjJ2bkxoYmF5Z2NsRmY5Yk9xYXh3REI0RHNZU09xcXI4RmtoVnNpYkItNmlEVmNucTI4VnVHdTRVcGQ1STlHTWVF?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOW5DeXR6dXdqR09QVy1Vb285U1NKQUZPYkZOU0tfYnRZdXR3YjR0NmZuRjZubXNaaGxKUmFBOG5NRDRpeGNtMjJ2bkxoYmF5Z2NsRmY5Yk9xYXh3REI0RHNZU09xcXI4RmtoVnNpYkItNmlEVmNucTI4VnVHdTRVcGQ1STlHTWVF?oc=5",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -2876,10 +2879,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
-      "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
+      "excerpt": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets Fuel Cells Works",
       "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
       "publishedAt": "2025-09-01T07:00:00.000Z",
-      "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2887,8 +2890,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5"
       },
       "region": "india"
     }
