@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-09-02T05:21:05.957Z",
+  "fetchedAt": "2026-09-02T12:01:32.074Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 17,
     "world": 45,
-    "withImages": 59,
-    "avgExcerptLength": 463,
+    "withImages": 58,
+    "avgExcerptLength": 456,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -199,13 +199,13 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-cgep-2026-06-17",
+        "id": "google-india-india-energypolicy-columbia-edu-2026-06-17",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India - CGEP",
+        "title": "India - energypolicy.columbia.edu",
         "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
         "url": "https://www.energypolicy.columbia.edu/publications/india/",
         "publishedAt": "2026-06-17T07:00:00.000Z",
@@ -301,7 +301,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - esgnews.com",
+        "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
         "excerpt": "• India launches a national carbon market portal to operationalize its Carbon Credit Trading Scheme across sectors • Nearly 490 entities across seven energy intensive industries now face compliance targets under the framework • Government positions carbon markets as a major channel to unlock capital, drive innovation, and support NDC delivery New Delhi hosted a decisive step in India’s climate and financial architecture as the government inaugurated Prakriti 2026 and launched the Indian Carbon Market Portal, a centralized platform designed to…",
         "url": "https://esgnews.com/india-launches-carbon-market-portal-to-scale-national-climate-finance/",
         "publishedAt": "2026-03-23T07:00:00.000Z",
@@ -319,38 +319,14 @@
         "region": "india"
       },
       {
-        "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Decarbonizing India’s Development Journey - Drishti IAS",
-        "excerpt": "This editorial is based on From budget provision to national capability: Why India s CCUS commitment matters which was published in The Hindustan Times on 23/02/2026. This editorial provides a comprehensive status on India's multidimensional decarbonization strategy, it critically examines the friction between coal-based energy security and the ambitious leap toward a technology-led, net-zero industrial landscape. For Prelims: Carbon Credit Trading Scheme (CCTS) , CCUS , PM Surya Ghar Muft Bijli Yojana , Perform Achieve and Trade , Battery Energy…",
-        "url": "https://www.drishtiias.com/daily-updates/daily-news-editorials/decarbonizing-indias-development-journey",
-        "publishedAt": "2026-02-25T08:00:00.000Z",
-        "image": "https://www.drishtiias.com/drishti/img/drishti-dual-logo.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT25tZUNQVS1HTkRUc3pCdFpQRlNlUGVOV0xkclJ4WnRYTXRRMlNkelRYWnlUYkdzRmNqRXIxQkFsOUotOUh0TmdvclN5WHZWX01FMmpleFRXWVpRd3k1TFo2eUpZaW5teEViZnpZcDlCTDFvYjdENFBJa2tvSENGckdURWtlamFtdEYxanFnNUs0azZLZ1o5WTFVcU8wUGJjc1VybThn?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s Green Hydrogen Ambition - MillenniumPost",
-        "excerpt": "India’s Green Hydrogen Ambition MillenniumPost",
+        "title": "India’s Green Hydrogen Ambition - millenniumpost.in",
+        "excerpt": "India’s Green Hydrogen Ambition millenniumpost.in",
         "url": "https://www.millenniumpost.in/opinion/indias-green-hydrogen-ambition-645091",
         "publishedAt": "2026-01-21T08:00:00.000Z",
         "image": null,
@@ -438,6 +414,30 @@
         "region": "india"
       },
       {
+        "id": "google-h2-growing-momentum-overview-of-the-green-h-2024-09-05",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Growing Momentum: Overview of the green hydrogen sector - powerline.net.in",
+        "excerpt": "India is emerging as a key player in the global green hydrogen economy, recognising hydrogen’s potential as a versatile and clean fuel essential for achieving decarbonisation targets. Its versatility positions it as a potential game changer across various industries including aviation, maritime, refining, fertiliser, transport, power generation and the hard-to-abate sectors. The Indian government sees green hydrogen not only as a solution to meet domestic power demands but also as an opportunity to become a major global exporter. This aligns with the…",
+        "url": "https://powerline.net.in/2024/09/05/growing-momentum-overview-of-the-green-hydrogen-sector/",
+        "publishedAt": "2024-09-05T07:00:00.000Z",
+        "image": "https://powerline.net.in/wp-content/uploads/2024/09/PL-78.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTGxsa19Jc1ZCTnVXNTFPNWplcnFRdTF3Z3JjS1piSDVHOTFYYnBGVnZUSGNuUEpybndsSTE3a1pzeDkxNHNmRmZpcFhXazBKem9sLWdIWUQwdzk0aUdYM0s5dGNTSlhDZW5nZnJkV2hQektzblJ5RENTSkkwaGhRWFNhQTh0U3haOVc3UklvUUxKdTJtM2c?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-steel-decarbonisation-in-india-institute-2023-09-14",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -463,6 +463,72 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-goal-to-limit-climate-change-to-1-5-c-ou-2026-09-02",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Goal to Limit Climate Change to 1.5°C Out of Reach: UN Report",
+        "excerpt": "The multinational goal to limit global temperature increase to 1.5°C, identified as the threshold to avoid the most significant impacts of climate change, is now out of reach, according to a new report released by the UN Environment Programme (UNEP), which puts a best-case scenario now at 1.8°C. Despite expectations to surpass the 1.5°C threshold, however, the report, “Limiting Overshoot,” maintains limiting long-term average warming to 1.5°C as the global goal, identifying an “overshoot, peak and decline” pathway, returning to the target level through…",
+        "url": "https://www.esgtoday.com/goal-to-limit-climate-change-to-1-5c-out-of-reach-un-report/?utm_source=rss utm_medium=rss utm_campaign=goal-to-limit-climate-change-to-1-5c-out-of-reach-un-report",
+        "publishedAt": "2026-09-02T11:32:52.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/emissions3.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-maersk-pilots-wind-sail-to-cut-container-2026-09-02",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Maersk Pilots Wind Sail to Cut Container Ship Fuel and Emissions",
+        "excerpt": "Shipping giant A.P. Moller – Maersk (Maersk) announced that it has signed an agreement with Anemoi Marine Technologies trial the first-ever wind-powered Rotor Sail installation on a container vessel, supporting the company’s efforts to improve vessel efficiency and reduce emissions. Founded in 2015, London-based Anemoi develops wind propulsion systems for commercial shipping. The company’s Rotor Sail technology harnesses wind power to provide auxiliary vessel propulsion, helping reduce fuel consumption and emissions. Anemoi said that it typically…",
+        "url": "https://www.esgtoday.com/maersk-pilots-wind-sail-to-cut-container-ship-fuel-and-emissions/?utm_source=rss utm_medium=rss utm_campaign=maersk-pilots-wind-sail-to-cut-container-ship-fuel-and-emissions",
+        "publishedAt": "2026-09-02T10:54:30.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Maersk-wind-sail.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-europe-s-sustainability-reset-simplifica-2026-09-02",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Europe s Sustainability Reset: Simplification is Not a Reason to Slow Down",
+        "excerpt": "For businesses globally, the sustainability conversation is moving on. After years of preparing for new disclosure requirements, the focus is increasingly on what sustainability can deliver for the business, from strengthening resilience and managing risk to improving how companies operate and grow. That shift matters as Europe resets its sustainability framework. Following much debate, recent changes to the ESRS and the phased implementation of the CSDDD are giving businesses greater clarity on where to focus their efforts. Research suggests that this…",
+        "url": "https://www.esgtoday.com/europes-sustainability-reset-simplification-is-not-a-reason-to-slow-down/?utm_source=rss utm_medium=rss utm_campaign=europes-sustainability-reset-simplification-is-not-a-reason-to-slow-down",
+        "publishedAt": "2026-09-02T08:09:54.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Sphera-Premer.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-sec-to-propose-recission-of-rule-governi-2026-09-01",
         "source": "esg-dive",
@@ -772,28 +838,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-miotech-ccx-merge-to-form-asian-sustaina-2026-08-31",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "MioTech, CCX Merge to Form Asian Sustainability Reporting, Supply Chain Data, Green Finance Solutions Provider",
-        "excerpt": "Hong Kong-headquartered sustainability reporting and supply chain AI company MioTech announced a new agreement to combine with the green finance and ESG business of CCX Group, China s largest credit ratings agency, with the companies describing the transaction as aimed at forming a premier sustainability and ESG business in Asia. According to the companies, the merger comes in response to recent market shifts across Asia, including the emergence of mandatory sustainability reporting regimes, and growing expectations for Asian exporters to meet…",
-        "url": "https://www.esgtoday.com/miotech-ccx-merge-to-form-asian-sustainability-reporting-supply-chain-and-green-finance-solution-provider/?utm_source=rss utm_medium=rss utm_campaign=miotech-ccx-merge-to-form-asian-sustainability-reporting-supply-chain-and-green-finance-solution-provider",
-        "publishedAt": "2026-08-31T14:16:15.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/MioTech-Tu.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-projects-open-for-public-comment-august--2026-08-31",
         "source": "verra",
         "sourceName": "Verra",
@@ -813,50 +857,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-eu-approves-5-6-billion-greek-clean-tran-2026-08-31",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EU Approves $5.6 Billion Greek Clean Transition Plan",
-        "excerpt": "The European Commission announced that it has adopted Greece’s €4.8 billion (USD$5.6 billion) Social Climate Plan to use the revenues from emission allowances to advance the clean transition and support vulnerable consumers and enterprises. The Greek plan is the fifth and largest to date to be approved under the EU’s Social Climate Fund, designed to support measures and investments in energy efficiency, the renovation of buildings, clean heating and cooling, and the integration of renewable energy, as well as in zero-emission mobility and transport.…",
-        "url": "https://www.esgtoday.com/eu-approves-5-6-billion-greek-clean-transition-plan/?utm_source=rss utm_medium=rss utm_campaign=eu-approves-5-6-billion-greek-clean-transition-plan",
-        "publishedAt": "2026-08-31T13:25:12.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/EU-flags3-1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-green-bond-issuance-hits-new-record-in-q-2026-08-31",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Green Bond Issuance Hits New Record in Q2 2026: Moody’s",
-        "excerpt": "Issuance of green bonds globally reached a new record in the second quarter of 2026, hitting $193 billion in the quarter, driven by strong growth by European issuers, and lifting overall issuance of labelled sustainable bonds higher compared to the same quarter last year, according to a new report released by Moody’s. While a much smaller segment of the sustainable finance market, blue bond issuance also hit record levels in the first half of the year, already surpassing total volumes for all of 2025, while sustainability and sustainability-linked bond…",
-        "url": "https://www.esgtoday.com/green-bond-issuance-hits-new-record-in-q2-2026-moodys/?utm_source=rss utm_medium=rss utm_campaign=green-bond-issuance-hits-new-record-in-q2-2026-moodys",
-        "publishedAt": "2026-08-31T11:33:58.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Moodys4.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Reports, Studies",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -945,30 +945,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-08-27",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
-        "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
-        "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
-        "publishedAt": "2026-08-27T09:12:17.000Z",
-        "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdElNb1VIWGJmUlRQdS1vVUNqUlJHc0tMRWtTdW9ULU0tOG1BUmlyeThVSXNRYkVIZnpyUXBVWXdYTmJic2V0R3hMVXNvN3lNTFA5b3JRNUltMXlKcGladFlFNnZmUHk2?oc=5",
-          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -1412,7 +1388,7 @@
         "type": "esg",
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
-        "title": "How to navigate all those certifications in the voluntary carbon market - Trellis Group (formerly GreenBiz)",
+        "title": "How to navigate all those certifications in the voluntary carbon market - Trellis Group",
         "excerpt": "An unregulated field has become a crowded one. Read More Buyers in the voluntary carbon market often find it challenging to differentiate between higher- and lower-quality credits. One cause might be the range of organizations issuing carbon credits: According to a count released this week, at least 66 entities are currently doing so. The list includes well-established players that helped build the market, including Verra and Gold Standard, alongside notable new entries, such as Puro and Isometric, as well as a long tail of smaller and lesser-known…",
         "url": "https://trellis.net/article/voluntary-carbon-market-certifications/",
         "publishedAt": "2026-04-20T07:00:00.000Z",
@@ -1475,10 +1451,99 @@
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
         },
         "region": "world"
+      },
+      {
+        "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon markets are incomplete without nuclear - utilitydive.com",
+        "excerpt": "Carbon markets are incomplete without nuclear utilitydive.com",
+        "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
+        "publishedAt": "2025-09-23T07:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
+        },
+        "region": "world"
       }
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-goal-to-limit-climate-change-to-1-5-c-ou-2026-09-02",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Goal to Limit Climate Change to 1.5°C Out of Reach: UN Report",
+      "excerpt": "The multinational goal to limit global temperature increase to 1.5°C, identified as the threshold to avoid the most significant impacts of climate change, is now out of reach, according to a new report released by the UN Environment Programme (UNEP), which puts a best-case scenario now at 1.8°C. Despite expectations to surpass the 1.5°C threshold, however, the report, “Limiting Overshoot,” maintains limiting long-term average warming to 1.5°C as the global goal, identifying an “overshoot, peak and decline” pathway, returning to the target level through…",
+      "url": "https://www.esgtoday.com/goal-to-limit-climate-change-to-1-5c-out-of-reach-un-report/?utm_source=rss utm_medium=rss utm_campaign=goal-to-limit-climate-change-to-1-5c-out-of-reach-un-report",
+      "publishedAt": "2026-09-02T11:32:52.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/emissions3.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-maersk-pilots-wind-sail-to-cut-container-2026-09-02",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Maersk Pilots Wind Sail to Cut Container Ship Fuel and Emissions",
+      "excerpt": "Shipping giant A.P. Moller – Maersk (Maersk) announced that it has signed an agreement with Anemoi Marine Technologies trial the first-ever wind-powered Rotor Sail installation on a container vessel, supporting the company’s efforts to improve vessel efficiency and reduce emissions. Founded in 2015, London-based Anemoi develops wind propulsion systems for commercial shipping. The company’s Rotor Sail technology harnesses wind power to provide auxiliary vessel propulsion, helping reduce fuel consumption and emissions. Anemoi said that it typically…",
+      "url": "https://www.esgtoday.com/maersk-pilots-wind-sail-to-cut-container-ship-fuel-and-emissions/?utm_source=rss utm_medium=rss utm_campaign=maersk-pilots-wind-sail-to-cut-container-ship-fuel-and-emissions",
+      "publishedAt": "2026-09-02T10:54:30.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Maersk-wind-sail.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-europe-s-sustainability-reset-simplifica-2026-09-02",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Europe s Sustainability Reset: Simplification is Not a Reason to Slow Down",
+      "excerpt": "For businesses globally, the sustainability conversation is moving on. After years of preparing for new disclosure requirements, the focus is increasingly on what sustainability can deliver for the business, from strengthening resilience and managing risk to improving how companies operate and grow. That shift matters as Europe resets its sustainability framework. Following much debate, recent changes to the ESRS and the phased implementation of the CSDDD are giving businesses greater clarity on where to focus their efforts. Research suggests that this…",
+      "url": "https://www.esgtoday.com/europes-sustainability-reset-simplification-is-not-a-reason-to-slow-down/?utm_source=rss utm_medium=rss utm_campaign=europes-sustainability-reset-simplification-is-not-a-reason-to-slow-down",
+      "publishedAt": "2026-09-02T08:09:54.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Sphera-Premer.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-dive-sec-to-propose-recission-of-rule-governi-2026-09-01",
       "source": "esg-dive",
@@ -1788,28 +1853,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-miotech-ccx-merge-to-form-asian-sustaina-2026-08-31",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "MioTech, CCX Merge to Form Asian Sustainability Reporting, Supply Chain Data, Green Finance Solutions Provider",
-      "excerpt": "Hong Kong-headquartered sustainability reporting and supply chain AI company MioTech announced a new agreement to combine with the green finance and ESG business of CCX Group, China s largest credit ratings agency, with the companies describing the transaction as aimed at forming a premier sustainability and ESG business in Asia. According to the companies, the merger comes in response to recent market shifts across Asia, including the emergence of mandatory sustainability reporting regimes, and growing expectations for Asian exporters to meet…",
-      "url": "https://www.esgtoday.com/miotech-ccx-merge-to-form-asian-sustainability-reporting-supply-chain-and-green-finance-solution-provider/?utm_source=rss utm_medium=rss utm_campaign=miotech-ccx-merge-to-form-asian-sustainability-reporting-supply-chain-and-green-finance-solution-provider",
-      "publishedAt": "2026-08-31T14:16:15.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/MioTech-Tu.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-august--2026-08-31",
       "source": "verra",
       "sourceName": "Verra",
@@ -1829,50 +1872,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-eu-approves-5-6-billion-greek-clean-tran-2026-08-31",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EU Approves $5.6 Billion Greek Clean Transition Plan",
-      "excerpt": "The European Commission announced that it has adopted Greece’s €4.8 billion (USD$5.6 billion) Social Climate Plan to use the revenues from emission allowances to advance the clean transition and support vulnerable consumers and enterprises. The Greek plan is the fifth and largest to date to be approved under the EU’s Social Climate Fund, designed to support measures and investments in energy efficiency, the renovation of buildings, clean heating and cooling, and the integration of renewable energy, as well as in zero-emission mobility and transport.…",
-      "url": "https://www.esgtoday.com/eu-approves-5-6-billion-greek-clean-transition-plan/?utm_source=rss utm_medium=rss utm_campaign=eu-approves-5-6-billion-greek-clean-transition-plan",
-      "publishedAt": "2026-08-31T13:25:12.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/EU-flags3-1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-green-bond-issuance-hits-new-record-in-q-2026-08-31",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Green Bond Issuance Hits New Record in Q2 2026: Moody’s",
-      "excerpt": "Issuance of green bonds globally reached a new record in the second quarter of 2026, hitting $193 billion in the quarter, driven by strong growth by European issuers, and lifting overall issuance of labelled sustainable bonds higher compared to the same quarter last year, according to a new report released by Moody’s. While a much smaller segment of the sustainable finance market, blue bond issuance also hit record levels in the first half of the year, already surpassing total volumes for all of 2025, while sustainability and sustainability-linked bond…",
-      "url": "https://www.esgtoday.com/green-bond-issuance-hits-new-record-in-q2-2026-moodys/?utm_source=rss utm_medium=rss utm_campaign=green-bond-issuance-hits-new-record-in-q2-2026-moodys",
-      "publishedAt": "2026-08-31T11:33:58.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/08/Moodys4.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Reports, Studies",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -1961,30 +1960,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-08-27",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
-      "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
-      "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
-      "publishedAt": "2026-08-27T09:12:17.000Z",
-      "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdElNb1VIWGJmUlRQdS1vVUNqUlJHc0tMRWtTdW9ULU0tOG1BUmlyeThVSXNRYkVIZnpyUXBVWXdYTmJic2V0R3hMVXNvN3lNTFA5b3JRNUltMXlKcGladFlFNnZmUHk2?oc=5",
-        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -2541,13 +2516,13 @@
       "region": "world"
     },
     {
-      "id": "google-india-india-cgep-2026-06-17",
+      "id": "google-india-india-energypolicy-columbia-edu-2026-06-17",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India - CGEP",
+      "title": "India - energypolicy.columbia.edu",
       "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
       "url": "https://www.energypolicy.columbia.edu/publications/india/",
       "publishedAt": "2026-06-17T07:00:00.000Z",
@@ -2643,7 +2618,7 @@
       "type": "esg",
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
-      "title": "How to navigate all those certifications in the voluntary carbon market - Trellis Group (formerly GreenBiz)",
+      "title": "How to navigate all those certifications in the voluntary carbon market - Trellis Group",
       "excerpt": "An unregulated field has become a crowded one. Read More Buyers in the voluntary carbon market often find it challenging to differentiate between higher- and lower-quality credits. One cause might be the range of organizations issuing carbon credits: According to a count released this week, at least 66 entities are currently doing so. The list includes well-established players that helped build the market, including Verra and Gold Standard, alongside notable new entries, such as Puro and Isometric, as well as a long tail of smaller and lesser-known…",
       "url": "https://trellis.net/article/voluntary-carbon-market-certifications/",
       "publishedAt": "2026-04-20T07:00:00.000Z",
@@ -2691,7 +2666,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - esgnews.com",
+      "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
       "excerpt": "• India launches a national carbon market portal to operationalize its Carbon Credit Trading Scheme across sectors • Nearly 490 entities across seven energy intensive industries now face compliance targets under the framework • Government positions carbon markets as a major channel to unlock capital, drive innovation, and support NDC delivery New Delhi hosted a decisive step in India’s climate and financial architecture as the government inaugurated Prakriti 2026 and launched the Indian Carbon Market Portal, a centralized platform designed to…",
       "url": "https://esgnews.com/india-launches-carbon-market-portal-to-scale-national-climate-finance/",
       "publishedAt": "2026-03-23T07:00:00.000Z",
@@ -2704,30 +2679,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Decarbonizing India’s Development Journey - Drishti IAS",
-      "excerpt": "This editorial is based on From budget provision to national capability: Why India s CCUS commitment matters which was published in The Hindustan Times on 23/02/2026. This editorial provides a comprehensive status on India's multidimensional decarbonization strategy, it critically examines the friction between coal-based energy security and the ambitious leap toward a technology-led, net-zero industrial landscape. For Prelims: Carbon Credit Trading Scheme (CCTS) , CCUS , PM Surya Ghar Muft Bijli Yojana , Perform Achieve and Trade , Battery Energy…",
-      "url": "https://www.drishtiias.com/daily-updates/daily-news-editorials/decarbonizing-indias-development-journey",
-      "publishedAt": "2026-02-25T08:00:00.000Z",
-      "image": "https://www.drishtiias.com/drishti/img/drishti-dual-logo.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT25tZUNQVS1HTkRUc3pCdFpQRlNlUGVOV0xkclJ4WnRYTXRRMlNkelRYWnlUYkdzRmNqRXIxQkFsOUotOUh0TmdvclN5WHZWX01FMmpleFRXWVpRd3k1TFo2eUpZaW5teEViZnpZcDlCTDFvYjdENFBJa2tvSENGckdURWtlamFtdEYxanFnNUs0azZLZ1o5WTFVcU8wUGJjc1VybThn?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2763,8 +2714,8 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s Green Hydrogen Ambition - MillenniumPost",
-      "excerpt": "India’s Green Hydrogen Ambition MillenniumPost",
+      "title": "India’s Green Hydrogen Ambition - millenniumpost.in",
+      "excerpt": "India’s Green Hydrogen Ambition millenniumpost.in",
       "url": "https://www.millenniumpost.in/opinion/indias-green-hydrogen-ambition-645091",
       "publishedAt": "2026-01-21T08:00:00.000Z",
       "image": null,
@@ -2851,6 +2802,29 @@
       "region": "world"
     },
     {
+      "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon markets are incomplete without nuclear - utilitydive.com",
+      "excerpt": "Carbon markets are incomplete without nuclear utilitydive.com",
+      "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
+      "publishedAt": "2025-09-23T07:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2870,6 +2844,30 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-h2-growing-momentum-overview-of-the-green-h-2024-09-05",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Growing Momentum: Overview of the green hydrogen sector - powerline.net.in",
+      "excerpt": "India is emerging as a key player in the global green hydrogen economy, recognising hydrogen’s potential as a versatile and clean fuel essential for achieving decarbonisation targets. Its versatility positions it as a potential game changer across various industries including aviation, maritime, refining, fertiliser, transport, power generation and the hard-to-abate sectors. The Indian government sees green hydrogen not only as a solution to meet domestic power demands but also as an opportunity to become a major global exporter. This aligns with the…",
+      "url": "https://powerline.net.in/2024/09/05/growing-momentum-overview-of-the-green-hydrogen-sector/",
+      "publishedAt": "2024-09-05T07:00:00.000Z",
+      "image": "https://powerline.net.in/wp-content/uploads/2024/09/PL-78.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTGxsa19Jc1ZCTnVXNTFPNWplcnFRdTF3Z3JjS1piSDVHOTFYYnBGVnZUSGNuUEpybndsSTE3a1pzeDkxNHNmRmZpcFhXazBKem9sLWdIWUQwdzk0aUdYM0s5dGNTSlhDZW5nZnJkV2hQektzblJ5RENTSkkwaGhRWFNhQTh0U3haOVc3UklvUUxKdTJtM2c?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
