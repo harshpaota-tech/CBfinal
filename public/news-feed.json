@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-09-04T05:23:48.407Z",
+  "fetchedAt": "2026-09-04T12:02:49.735Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,16 +45,40 @@
   ],
   "stats": {
     "total": 62,
-    "india": 15,
-    "world": 47,
-    "withImages": 58,
-    "avgExcerptLength": 459,
+    "india": 14,
+    "world": 48,
+    "withImages": 56,
+    "avgExcerptLength": 444,
     "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "google-india-japan-opens-new-carbon-credit-channel-fo-2026-09-01",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Japan Opens New Carbon Credit Channel for India as JCM Enters Article 6 Market Era - CarbonCredits.com",
+        "excerpt": "Japan and India are moving closer to a working carbon credit market after adopting rules for their Joint Crediting Mechanism (JCM) under Article 6.2 of the Paris Agreement. The two countries adopted the Rules of Implementation (RoI) on June 8, 2026. The rules create the basic system for approving projects, checking emissions cuts, and issuing and transferring credits. Japan s Environment Ministry said both sides are still working on some detailed procedures. The JCM could bring Japanese finance and low-carbon technology to Indian projects. In return,…",
+        "url": "https://carboncredits.com/japan-india-jcm-article-6-carbon-credits/",
+        "publishedAt": "2026-09-01T16:10:46.000Z",
+        "image": "https://carboncredits.com/wp-content/uploads/2026/08/shutterstock_1898780959.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZbmxkNlI0ZkhhRUpZNnNZZmVxM2FmSVdmM1dVNEItN0xKcGQ1NlMxWEQxOUxhVzJqOFFTRmFPcUo4NjRhRWNpRnZOV3h6T2cxVFRnaXF0T3VIc1JhdTFXb0FHVlMtYXFvNkczQUJWYVpSYjZNYWc?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
       {
         "id": "google-india-article-6-of-the-paris-agreement-climate-2026-08-17",
         "source": "google-india",
@@ -104,6 +128,30 @@
         "region": "india"
       },
       {
+        "id": "google-h2-india-s-green-hydrogen-push-gathers-pace-2026-07-29",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
+        "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
+        "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
+        "publishedAt": "2026-07-29T07:00:00.000Z",
+        "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-india-s-green-hydrogen-plans-gain-pace-b-2026-07-28",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -133,7 +181,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "title": "The road ahead for India’s Carbon Credit Trading Scheme - ieefa.org",
         "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
         "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
         "publishedAt": "2026-07-14T07:00:00.000Z",
@@ -175,6 +223,54 @@
         "region": "india"
       },
       {
+        "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - The Quint",
+        "excerpt": "Become a Member Dark Mode Become a Member Student Protest Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take Quint Fit My Report Opinion More Members Only Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy…",
+        "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
+        "publishedAt": "2026-06-25T07:00:00.000Z",
+        "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Agriculture, Carbon Accounting and Climate Justice Debate - Frontline Magazine",
+        "excerpt": "Published : Jun 18, 2026 13:01 IST - 10 MINS READ If farmers are compensated for the climate services they already provide, they gain both the resources and the incentive to do more. In this file picture, a farmer examines his wheat crop in a field on the outskirts of Amritsar. | Photo Credit: NARINDER NANU/AFP The Intergovernmental Panel on Climate Change Sixth Assessment Report (IPCC-AR6) stresses the need for climate policies to prioritise carbon dioxide (CO₂) removal (CDR) processes. International agencies have, in parallel, increasingly recognised…",
+        "url": "https://frontline.thehindu.com/environment/climate-accounting-agriculture-carbon-sink/article71116675.ece",
+        "publishedAt": "2026-06-18T07:00:00.000Z",
+        "image": "https://fl-i.thgim.com/public/incoming/y7mxy6/article71116853.ece/alternates/LANDSCAPE_1200/indian%20farmers%20green%20house%20gas%20emission.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-india-india-cgep-2026-06-17",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -194,54 +290,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-india-s-green-hydrogen-ambitions-face-a--2026-06-11",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "India's green hydrogen ambitions face a reality check - businesstoday.in",
-        "excerpt": "Kisan Tak Lallantop Malyalam Bangla Sports Tak Crime Tak Aajtak Campus Astro tak Subscribe Home Markets Stocks News IPO Corner Indices Stocks List Magazine Cover Story Editor s Note Deep Dive Interview BT TV Market Today Easynomics Drive Today BT Explainer New BT Billionaires New Make In India Gold & Silver Rate India Tech Artificial Intelligence Tech News Startups Unbox - Review Industry Banking IT Energy Commodities Pharma Real Estate Telecom Money Today Mutual Funds Tax Investment Insurance Tools & Calculator events Special NRI Career & Jobs US News…",
-        "url": "https://www.businesstoday.in/opinion/columns/story/indias-green-hydrogen-ambitions-face-a-reality-check-536276-2026-06-11",
-        "publishedAt": "2026-06-11T07:00:00.000Z",
-        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a2a5d9299349-the-cabinet-approved-national-green-hydrogen-mission-in-january-2023-110236960-16x9.png",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObW5wbkpmeGhBalgzbXNua2FkQVZqTUI0dzNmQi1jTTVJV0FLbFVsSUdfSkc1RkpSclE5XzFWZFNOR0pzQTBLeGJLMnZTVHZoSDBzZWt3MEN6N3M2S2hYS1BGMVM4YWxUdHRhNXJzQnhHZGNuREM4LV9hN3hXMGtXaU1Sb1dORkV2bm9rTzBkaUEySmU2QmJBMzBWdHBvVWxWc2ZQSzVSM3Zta2xzSE5ZUlUyMHV1MFNVdFZwbFp30gHDAUFVX3lxTFB3UVdObTRuSC1xUVNDb3RZdXlCSmNNY1Z4eE9YdHprNVFXZ3pCZWs1ZHBMM0t1aU9IWDFuZTVBNVlOaEo1U0lPdU8yN1U3SlhfSkk2VHZmbjBsUGo4NVA0QW1kclhnNG5QRHpMX2JLVFNpaWYzU1JlSkpXaWFJcEEyUmFLN2l0M0E3d0tydzlDYkRGcUFtYjJkYXhOenlTclNobWJoODZDTWtNajJTeUp4bVpES0tEaXBvVzVnSDBpSjBXYw?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-gaining-momentum-green-hydrogen-emerges--2026-06-11",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition - Renewable Watch",
-        "excerpt": "Green hydrogen is emerging as a key pillar of India’s transition towards a low-carbon economy, with the country increasingly focusing on building a domestic production and manufacturing ecosystem. Backed by India’s rapidly expanding renewable energy capacity, the sector is witnessing growing momentum with developments across the entire value chain. Falling renewable energy costs, technological advancements in electrolysers and rising global demand for low-carbon fuels and derivatives are further strengthening the business case for green hydrogen in…",
-        "url": "https://renewablewatch.in/2026/06/11/gaining-momentum-green-hydrogen-emerges-as-a-key-pillar-of-indias-energy-transition/",
-        "publishedAt": "2026-06-11T07:00:00.000Z",
-        "image": "https://renewablewatch.in/wp-content/uploads/2026/06/36-e1780380253365.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRGYzWjJVeXNkbzdpcE11TFBlUzVyUFN5SnV0eWRQRVdBeWdyY3plXzhtVlo0T0hReW4yTWV0V0N6YTJRMjlTZUVnQ3AtcjZLYzNrWmpsYnJZMlBJZWFCX08tYXVzZG5BRmxXak80YzJ3bFIxS1dmOERnTURUWmdfOHJXVXY2NUFMOWpkQ0l6Q1VrYlljdWtsRm9rZ1ZUYXMwbC16SlpqZVV1bEh4OHZUUUVIek94QVRCd0dFbXJn?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -271,30 +319,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India’s Grasslands Need Climate Policy, Not Carbon Rush - Frontline Magazine",
-        "excerpt": "Published : Apr 25, 2026 18:48 IST - 12 MINS READ Grassland in Gujarat, India. Grassland restoration can increase soil organic carbon through improved grazing management, native grass recovery, and invasive species control. | Photo Credit: Getty Images/iStockPhoto India’s grasslands and rangelands deserve a central place in climate policy . But any carbon-finance pathway must rest on secure rights, pastoral participation, sound methodology, and strong public safeguards. India’s climate imagination has long been shaped by a forest-first instinct. When…",
-        "url": "https://frontline.thehindu.com/environment/india-grasslands-carbon-finance-rights-pastoralists-climate-policy/article70905160.ece",
-        "publishedAt": "2026-04-25T07:00:00.000Z",
-        "image": "https://fl-i.thgim.com/public/incoming/h4b5gr/article70905395.ece/alternates/LANDSCAPE_1200/Grasslands.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlhkQURpdUd0Yk51RUEwNGEtc1NmWHMtV2dZY3hPREhXZGJUMWNlYXh3UHotaF9jZjlFZXp4RF95UEduSkg5VGlad3JWdmxBZU15T2tiZUE0TWtGZTFKOVRqT2lSRGE4d0VNYWNOdExNdTEzT0RwVVhOeEl2dTZob19pY283NFliVHk3b1ZXdDlkVVhKQUFvZG0xdE9la2htQUFmc3pJMDVFYWJxeVh4OGQ1NVhZSDJDZjR1bnlaek5rSzBTTGhlM9IBzwFBVV95cUxPemxKSjVSeW0zVXZsRG51eFhTVjk1S0R2VmcwRHppNVFPdU02NDRES2dhV1QwWFoybjdzQWNVbHg1dU1xbWJCdjlxemVrTXc3cUl0aFJPVXN6Sk9UeU5reEJhRFk5MFM5a2NzUFRiVzZVaDBxQmVxS0M4Ql9aSXpGc3lhNUFUaVhqMDZiYTNHUDBtTFNYTnJJdExuUEpMT0JkNDhvSmtyaGg3aTdvbktZcXpxUWFadDJrRHpCclJLX0h4S1I1NlNQUVpXWDFqR2M?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -314,54 +338,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-india-launches-centralized-carbon-market-2026-03-23",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
-        "excerpt": "• India launches a national carbon market portal to operationalize its Carbon Credit Trading Scheme across sectors • Nearly 490 entities across seven energy intensive industries now face compliance targets under the framework • Government positions carbon markets as a major channel to unlock capital, drive innovation, and support NDC delivery New Delhi hosted a decisive step in India’s climate and financial architecture as the government inaugurated Prakriti 2026 and launched the Indian Carbon Market Portal, a centralized platform designed to…",
-        "url": "https://esgnews.com/india-launches-carbon-market-portal-to-scale-national-climate-finance/",
-        "publishedAt": "2026-03-23T07:00:00.000Z",
-        "image": "https://esgnews.com/wp-content/uploads/2026/03/India-Launches-Carbon-Market-Portal-to-Scale-National-Climate-Finance.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-digital-pathways-to-net-zero-union-power-2026-03-21",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Digital Pathways to Net Zero: Union Power Minister Launches Indian Carbon Market Portal - The Policy Edge",
-        "excerpt": "SDG 13: Climate Action | SDG 7: Affordable and Clean Energy | SDG 9: Industry, Innovation and Infrastructure Ministry of Power MoP | Ministry of Environment, Forest and Climate Change MoEFCC | Bureau of Energy Efficiency BEE Listen to the article Current time 00 / 00 00 / 00 The Union Minister for Power, Shri Manohar Lal, has officially launched the Indian Carbon Market Portal (www.indiancarbonmarket.gov.in) during the inauguration of The International Conference on Carbon Markets- Prakriti 2026 in New Delhi. Positioned as the central digital…",
-        "url": "https://www.policyedge.in/p/digital-pathways-to-net-zero-union-power-minister-launches-indian-carbon-market-portal",
-        "publishedAt": "2026-03-21T07:00:00.000Z",
-        "image": "https://my-strapi-buckets.s3.eu-north-1.amazonaws.com/uploads/Policy_Bites_Cover_bb621c3d53.png",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazM3ZHJoaGFPNV9kc1c4VkZHUVdrZUNVSjVWc2xIWTJZQ0RjLXo0WThyejhDaTRFb2NtV0NpZGVONmlDZU1jT2FUekE1SzNIMFlJRUZqUXlQeDA0MVluY01ZVWFsMmNxUkluOFVwMzJSRjhNZ2hGTVo2VHQ3QTNPWDJIekF5bmo4d1Z1dEtjWnBNTFh3Q2ZGd0Y1SUNYX05zNkVuTjBTVTd5SlBJTm9WbE15aF8?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -415,6 +391,116 @@
       }
     ],
     "world": [
+      {
+        "id": "carbon-brief-analysis-uk-solar-power-hits-record-high-2026-09-04",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Analysis: UK solar power hits record high over summer 2026",
+        "excerpt": "Share Solar power generation in the UK reached a new record over the summer of 2026, as temperatures across the nation soared, according to new analysis by Carbon Brief. Collectively over June, July and August, solar farms and rooftops generated 8.8 terawatt-hours (TWh) of electricity in the UK*, as shown in the chart below. Speaking to Carbon Brief, Chris Hewett , chief executive of trade association Solar Energy UK welcomed the new record, adding that it was driven by “clear skies and continued growth in deployment”. This surge in generation took…",
+        "url": "https://www.carbonbrief.org/analysis-uk-solar-power-hits-record-high-over-summer-2026",
+        "publishedAt": "2026-09-04T11:21:35.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/uk-solar-generation--scaled.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-how-this-summer-s-heat-and-drought-impac-2026-09-04",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "How this summer’s heat and drought impacted crops in Europe – in six charts",
+        "excerpt": "Share Farmers around Europe are dealing with the aftermath of a summer of extreme heat , drought and wildfires that were exacerbated by climate change. Human-caused climate change is increasing the severity and likelihood of many extreme weather events around the world, which is increasing volatility for food producers. This summer resulted in, for example, shrunken potatoes in the Netherlands, reduced carrot harvests in France, dried-up rice fields in Italy and scorched olive groves in parts of the Mediterranean region. Global food prices are currently…",
+        "url": "https://www.carbonbrief.org/how-this-summers-heat-and-drought-impacted-crops-in-europe-in-six-charts",
+        "publishedAt": "2026-09-04T10:45:44.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/france-is-due-to-see-scaled.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-revaia-hires-marc-etienne-mercadier-to-c-2026-09-04",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Revaia Hires Marc-Etienne Mercadier to Co-Lead New Energy Transition Fund",
+        "excerpt": "Technology-focused growth investment firm Revaia announced the appointment of Marc-Étienne Mercadier as Partner to co-lead the firm’s debut energy fund. The new hire follows the appointment in late 2025 of Jean-Patrice Bellier as Partner to launch the new energy transition fund, with responsibility for assembling a team and deploying the fund’s investment strategy. Mercadier and Bellier will co-lead Revaia’s energy transition platform, focused on businesses driving decarbonization, resource efficiency, resilience and energy transition. Alice Albizzati…",
+        "url": "https://www.esgtoday.com/revaia-hires-marc-etienne-mercadier-to-co-lead-new-energy-transition-fund/?utm_source=rss utm_medium=rss utm_campaign=revaia-hires-marc-etienne-mercadier-to-co-lead-new-energy-transition-fund",
+        "publishedAt": "2026-09-04T10:23:33.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Revaia-Mercadier.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-uk-loans-over-500-million-to-tropical-fo-2026-09-04",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "UK Loans Over $500 Million to Tropical Forest Preservation Fund",
+        "excerpt": "The Uk government announced plans to invest in the Tropical Forests Forever Facility (TFFF), a Brazil-led fund aimed at financing the protection of tropical forests globally through a new £400 million (USD$540 million) loan. Launched in November 2025 at the COP30 climate summit in Belem, Brazil, the TFFF was designed to provide a mechanism to provide long-term, predictable financing to countries that protect and sustainably manage their tropical forests. The facility’s financing model combines public investment with private market borrowing, aiming to…",
+        "url": "https://www.esgtoday.com/uk-loans-over-500-million-to-tropical-forest-preservation-fund/?utm_source=rss utm_medium=rss utm_campaign=uk-loans-over-500-million-to-tropical-forest-preservation-fund",
+        "publishedAt": "2026-09-04T09:55:07.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/UK-House-of-Commons.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-hsbc-appoints-nneka-chike-obi-as-head-of-2026-09-04",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "HSBC Appoints Nneka Chike-Obi as Head of Sustainability for Global Investment Research",
+        "excerpt": "HSBC announced the appointment of Nneka Chike-Obi as its new Head of Sustainability within HSBC Global Investment Research. Based in Hong Kong, Chike-Obi will be responsible for leading the firm’s global team of sustainability analysts. Chike-Obi takes on her new role after joining HSBC in December 2025 as Director, Sustainability – Global Investment Research. Prior to joining HSBC, she worked at Sustainable Fitch as Head of APAC, ESG Research, Ratings & Opinions, and at Fitch Ratings as Director, Sustainable Finance. According to David May, Global Head…",
+        "url": "https://www.esgtoday.com/hsbc-appoints-nneka-chike-obi-as-head-of-sustainability-for-global-investment-research/?utm_source=rss utm_medium=rss utm_campaign=hsbc-appoints-nneka-chike-obi-as-head-of-sustainability-for-global-investment-research",
+        "publishedAt": "2026-09-04T08:49:49.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/HSBC-Chike-Obi.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Executive Moves",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "verra-consultation-revision-to-tidal-wetland-a-2026-09-03",
         "source": "verra",
@@ -749,50 +835,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-mars-impact-fund-invests-13-million-in-f-2026-09-02",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Mars Impact Fund Invests $13 Million in Farming Communities, Scientists, Animal Well-Being",
-        "excerpt": "Snacking, food, and pet care products provider Mars announced a series of new investments from its Mars Impact Fund, with $13 million in grants for projects aimed at strengthening the resilience of the company’s sourcing communities, developing the next generation of scientists and improving companion animal wellbeing. The new grants follow the launch of the impact fund earlier this year, aimed at investing philanthropic capital targeting key themes including community resilience, scientific opportunity, and animal wellbeing, with an initial $85 million…",
-        "url": "https://www.esgtoday.com/mars-impact-fund-invests-13-million-in-sourcing-communities-scientists-animal-well-being/?utm_source=rss utm_medium=rss utm_campaign=mars-impact-fund-invests-13-million-in-sourcing-communities-scientists-animal-well-being",
-        "publishedAt": "2026-09-02T14:02:27.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Mars2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-court-blocks-new-york-law-charging-oil-c-2026-09-02",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Court Blocks New York Law Charging Oil Companies $75 Billion to Pay for Climate Change Costs",
-        "excerpt": "New York State’s Climate Change Superfund Act, which would require fossil fuel companies to pay a share of the investments in infrastructure needed to adapt to climate change in the state, ran into a major obstacle, with a U.S. federal judge ruling that it is preempted by federal law, and “cannot be enforced.” Introduced in 2024 by New York State Governor Kathy Hochul, the Superfund Act was anticipated to require fossil fuel companies to pay approximately $75 billion through 2050, or about $3 billion per year. Noting a need for “huge investments” in the…",
-        "url": "https://www.esgtoday.com/court-blocks-new-york-law-charging-oil-companies-75-billion-to-pay-for-climate-adaptation/?utm_source=rss utm_medium=rss utm_campaign=court-blocks-new-york-law-charging-oil-companies-75-billion-to-pay-for-climate-adaptation",
-        "publishedAt": "2026-09-02T13:23:12.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Courtroom-US-appeals.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-verra-announces-ccp-eligible-status-of-v-2026-09-02",
         "source": "verra",
         "sourceName": "Verra",
@@ -812,28 +854,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-goal-to-limit-climate-change-to-1-5-c-ou-2026-09-02",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Goal to Limit Climate Change to 1.5°C Out of Reach: UN Report",
-        "excerpt": "The multinational goal to limit global temperature increase to 1.5°C, identified as the threshold to avoid the most significant impacts of climate change, is now out of reach, according to a new report released by the UN Environment Programme (UNEP), which puts a best-case scenario now at 1.8°C. Despite expectations to surpass the 1.5°C threshold, however, the report, “Limiting Overshoot,” maintains limiting long-term average warming to 1.5°C as the global goal, identifying an “overshoot, peak and decline” pathway, returning to the target level through…",
-        "url": "https://www.esgtoday.com/goal-to-limit-climate-change-to-1-5c-out-of-reach-un-report/?utm_source=rss utm_medium=rss utm_campaign=goal-to-limit-climate-change-to-1-5c-out-of-reach-un-report",
-        "publishedAt": "2026-09-02T11:32:52.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/emissions3.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1219,51 +1239,6 @@
         "region": "world"
       },
       {
-        "id": "carbon-brief-explainer-how-the-super-el-ni-o-will-res-2026-08-18",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Explainer: How the ‘super El Niño’ will reshape the world’s weather",
-        "excerpt": "The world is currently experiencing what is expected to become the strongest El Niño on record – dubbed a “ super El Niño ” by many. El Niño is the warm phase of a recurring climate pattern in the tropical Pacific that releases heat from the ocean into the atmosphere. This temporarily raises global temperatures and reshapes rainfall and extreme weather around the world – impacting the lives of billions of people. The current El Niño event began in June and is expected to last into 2027. El Niño is part of a wider climate pattern called the El…",
-        "url": "https://interactive.carbonbrief.org/el-nino-explainer/index.html",
-        "publishedAt": "2026-08-18T12:58:53.000Z",
-        "image": "https://interactive.carbonbrief.org/el-nino-explainer/images/el-nino-hero.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-analysis-the-two-largest-reservoirs-in-t-2026-08-17",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Analysis: The two largest reservoirs in the US have hit record-low levels",
-        "excerpt": "Share The second-largest reservoir in the US reached a record-low water height on Saturday – just days after the country’s largest reservoir broke its own record. Both Lake Mead and Lake Powell are located on the Colorado River. They provide water for populations across seven US states in the south-western US, with around 40 million people getting some or all of their municipal water from the Colorado River. The river also provides water for around 5.5m acres (22,258 square kilometres) of farmland across Colorado, Arizona, California and the other…",
-        "url": "https://www.carbonbrief.org/analysis-the-two-largest-reservoirs-in-the-us-have-hit-record-low-levels",
-        "publishedAt": "2026-08-17T16:08:27.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/08/lake-mead-the-larges-scaled.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-projects-open-for-public-comment-august--2026-08-17",
         "source": "verra",
         "sourceName": "Verra",
@@ -1357,17 +1332,40 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
+        "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "The Evolving Spectrum of Energy Sources - PIB",
+        "excerpt": "The Evolving Spectrum of Energy Sources PIB",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
+        "publishedAt": "2026-02-28T08:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-verra-launches-priority-queue-pilot-to-s-2025-11-27",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Verra Issues First CORSIA Label for 4.7 Million Carbon Credits - ClearBlue Markets",
-        "excerpt": "Verra, one of the world's leading developers of carbon standards, has reached a significant milestone by applying the International Civil Aviation Organization’s (ICAO) Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) label to millions of voluntary carbon credits for the first time, with the majority of these credits from projects in Africa. CORSIA's implementation continues to make it one of the most relevant climate compliance mechanisms globally, as it mitigates emissions from one of the highest-emitting and hardest-to-abate…",
-        "url": "https://www.clearbluemarkets.com/knowledge-base/verra-issues-first-corsia-label-for-4.7-million-carbon-credits",
-        "publishedAt": "2026-02-03T08:00:00.000Z",
-        "image": "https://www.clearbluemarkets.com/hubfs/Blog%20images%20(62).png",
+        "title": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews - Carbon Herald",
+        "excerpt": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews Carbon Herald",
+        "url": "https://carbonherald.com/verra-launches-priority-queue-pilot-to-speed-up-carbon-project-reviews/",
+        "publishedAt": "2025-11-27T08:00:00.000Z",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1375,8 +1373,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkEySVpteS1aZ3lfNnhCMk44TThDcEVoX1NGRkFWcGRfMUFJdDBwVEstUW5kMTlDUDVmdFFjaFVoZFZjUDJfbGJQVjNkdHlDY2RVOEhDeTFvV2FzU2RKV2F5MGQ1VkhBc0FrX3QzZWE5clhqa1ZXNFFmZjlabWdYQ2MzWU5QSXNOMExDWWUyS1FrWnZQTW1FeUxFRTZYb1owTnRlNGxQV0RHYkN3b1Mw0gG_AUFVX3lxTE8wT1pMd0QwUF9oOUhEdkl1U3UzRDE3VTJIVkN3YTloaU1KQ0p5c0NuZlZNYmJSQXljdXRsZ1U1eHFCbHRkLTJrSVBKS3ItYkdzLVdYVU1lcU1rM3d2V0s2dDdSMjdPUC1Fa192eTcxdGFGczl1Tk5xcnBCZVk1ZVJ5c0RQRlRVdkFHVWxCRUhobGhsTXJHbGFCOUxPclcyVjYwbmR0SHIzVkRkOW91X2M4ZkEtanlKVUlBY09MTXhV?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1dKVkwyRVFzdVd6Z0FXWll6WGd4U2k1RUhNb2hVaWRZdTdfMTFXNjFoZkJsdUNZMllGZjRXTURIMW5VYW5OOWZiSEJydWNKSWlraWVpYkdJTS0xbDI2eWUySEwyWlZaR0NmSEtGYktSZjA4VGxIdEtTRVBuaVNtMnVWV1hMcmhIUTFHbk85a1dIRVBWTU85ejZXMm4?oc=5"
         },
         "region": "world"
       },
@@ -1428,17 +1425,17 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-renewable-energy-carbon-credits-losing-s-2024-08-07",
+        "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
-        "title": "Renewable-Energy Carbon Credits Losing Steam - MSCI",
-        "excerpt": "Looking for a custom solution? Get in touch Stay current with our award-winning research. Seamlessly explore MSCI indexes through conversational AI. Our Market Cap Indexes deliver one consistent view, built on five decades of heritage. AI is still driving markets — but along a narrower road. Search Get in touch Research & Insights / Blog posts Research & Insights Renewable-Energy Carbon Credits Losing Steam Blog post 8 min read Tristan Loffler , Guy Turner , Jamie Saunders , Lucien Georgeson August 7, 2024 Key findings Renewable-energy projects’ future…",
-        "url": "https://www.msci.com/research-and-insights/blog-post/renewable-energy-carbon-credits-losing-steam",
-        "publishedAt": "2024-08-07T07:00:00.000Z",
-        "image": "https://www.msci.com/_next/static/media/apple-touch-icon.c2c8d0a3.png",
+        "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - The Guardian",
+        "excerpt": "The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images View image in fullscreen The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images The age of extinction Carbon offsetting This article is more than 3 years old Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless,…",
+        "url": "https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe",
+        "publishedAt": "2023-01-18T08:00:00.000Z",
+        "image": "https://i.guim.co.uk/img/media/9f470b957b3b181b4107c89493f7a8eddb356834/0_12_2089_1254/master/2089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=c383f5d710fa80450e09a82767c12d10",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1446,7 +1443,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWI5djJSVFhjMkpFN3FQcTkxWFh3WVAwNm5UN1d1eFFkVmFGN2ZJWUNsZ3FwYkFRUFNQQXpEazg3OG54OWZUQndYdVlPUDJDaDRhUTZfTnNRODA2aWV6bzZ6dW9vWW1BRm04ei02RnlzcVk2d21HQ3NjZWxXczZTN1ZKRS1KT1ZDTmZ1T1NpVUd5X2lwcFhBb3pkOXNvUQ?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEFTZ3U2bGJHM25xeVVQZFJ4eGZDNWo5TXdUQ2JxeWxGZ3NZWjZhQ0RMRzBTZjB4SUd3LXFRZGlOWUpuUkkwXzNITVhUYkthNDQ4dkY5YTV5RGI2OTRNdTBkUWE3OEZsbUs0RGViR0RKaUVLS0ZTMk13ZU44UlBTRm8zUzY0NkllUXRfcFpxT3dOcmlpSE5iUHphcnVWam1Ec2dMSW1ROW9SM0UyMUo5NWNNbFRBSzhiR2VJ?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -1478,6 +1475,116 @@
     ]
   },
   "articles": [
+    {
+      "id": "carbon-brief-analysis-uk-solar-power-hits-record-high-2026-09-04",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Analysis: UK solar power hits record high over summer 2026",
+      "excerpt": "Share Solar power generation in the UK reached a new record over the summer of 2026, as temperatures across the nation soared, according to new analysis by Carbon Brief. Collectively over June, July and August, solar farms and rooftops generated 8.8 terawatt-hours (TWh) of electricity in the UK*, as shown in the chart below. Speaking to Carbon Brief, Chris Hewett , chief executive of trade association Solar Energy UK welcomed the new record, adding that it was driven by “clear skies and continued growth in deployment”. This surge in generation took…",
+      "url": "https://www.carbonbrief.org/analysis-uk-solar-power-hits-record-high-over-summer-2026",
+      "publishedAt": "2026-09-04T11:21:35.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/uk-solar-generation--scaled.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-how-this-summer-s-heat-and-drought-impac-2026-09-04",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "How this summer’s heat and drought impacted crops in Europe – in six charts",
+      "excerpt": "Share Farmers around Europe are dealing with the aftermath of a summer of extreme heat , drought and wildfires that were exacerbated by climate change. Human-caused climate change is increasing the severity and likelihood of many extreme weather events around the world, which is increasing volatility for food producers. This summer resulted in, for example, shrunken potatoes in the Netherlands, reduced carrot harvests in France, dried-up rice fields in Italy and scorched olive groves in parts of the Mediterranean region. Global food prices are currently…",
+      "url": "https://www.carbonbrief.org/how-this-summers-heat-and-drought-impacted-crops-in-europe-in-six-charts",
+      "publishedAt": "2026-09-04T10:45:44.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/france-is-due-to-see-scaled.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-revaia-hires-marc-etienne-mercadier-to-c-2026-09-04",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Revaia Hires Marc-Etienne Mercadier to Co-Lead New Energy Transition Fund",
+      "excerpt": "Technology-focused growth investment firm Revaia announced the appointment of Marc-Étienne Mercadier as Partner to co-lead the firm’s debut energy fund. The new hire follows the appointment in late 2025 of Jean-Patrice Bellier as Partner to launch the new energy transition fund, with responsibility for assembling a team and deploying the fund’s investment strategy. Mercadier and Bellier will co-lead Revaia’s energy transition platform, focused on businesses driving decarbonization, resource efficiency, resilience and energy transition. Alice Albizzati…",
+      "url": "https://www.esgtoday.com/revaia-hires-marc-etienne-mercadier-to-co-lead-new-energy-transition-fund/?utm_source=rss utm_medium=rss utm_campaign=revaia-hires-marc-etienne-mercadier-to-co-lead-new-energy-transition-fund",
+      "publishedAt": "2026-09-04T10:23:33.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Revaia-Mercadier.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-uk-loans-over-500-million-to-tropical-fo-2026-09-04",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "UK Loans Over $500 Million to Tropical Forest Preservation Fund",
+      "excerpt": "The Uk government announced plans to invest in the Tropical Forests Forever Facility (TFFF), a Brazil-led fund aimed at financing the protection of tropical forests globally through a new £400 million (USD$540 million) loan. Launched in November 2025 at the COP30 climate summit in Belem, Brazil, the TFFF was designed to provide a mechanism to provide long-term, predictable financing to countries that protect and sustainably manage their tropical forests. The facility’s financing model combines public investment with private market borrowing, aiming to…",
+      "url": "https://www.esgtoday.com/uk-loans-over-500-million-to-tropical-forest-preservation-fund/?utm_source=rss utm_medium=rss utm_campaign=uk-loans-over-500-million-to-tropical-forest-preservation-fund",
+      "publishedAt": "2026-09-04T09:55:07.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/UK-House-of-Commons.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-hsbc-appoints-nneka-chike-obi-as-head-of-2026-09-04",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "HSBC Appoints Nneka Chike-Obi as Head of Sustainability for Global Investment Research",
+      "excerpt": "HSBC announced the appointment of Nneka Chike-Obi as its new Head of Sustainability within HSBC Global Investment Research. Based in Hong Kong, Chike-Obi will be responsible for leading the firm’s global team of sustainability analysts. Chike-Obi takes on her new role after joining HSBC in December 2025 as Director, Sustainability – Global Investment Research. Prior to joining HSBC, she worked at Sustainable Fitch as Head of APAC, ESG Research, Ratings & Opinions, and at Fitch Ratings as Director, Sustainable Finance. According to David May, Global Head…",
+      "url": "https://www.esgtoday.com/hsbc-appoints-nneka-chike-obi-as-head-of-sustainability-for-global-investment-research/?utm_source=rss utm_medium=rss utm_campaign=hsbc-appoints-nneka-chike-obi-as-head-of-sustainability-for-global-investment-research",
+      "publishedAt": "2026-09-04T08:49:49.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/HSBC-Chike-Obi.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Executive Moves",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "verra-consultation-revision-to-tidal-wetland-a-2026-09-03",
       "source": "verra",
@@ -1812,50 +1919,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-mars-impact-fund-invests-13-million-in-f-2026-09-02",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Mars Impact Fund Invests $13 Million in Farming Communities, Scientists, Animal Well-Being",
-      "excerpt": "Snacking, food, and pet care products provider Mars announced a series of new investments from its Mars Impact Fund, with $13 million in grants for projects aimed at strengthening the resilience of the company’s sourcing communities, developing the next generation of scientists and improving companion animal wellbeing. The new grants follow the launch of the impact fund earlier this year, aimed at investing philanthropic capital targeting key themes including community resilience, scientific opportunity, and animal wellbeing, with an initial $85 million…",
-      "url": "https://www.esgtoday.com/mars-impact-fund-invests-13-million-in-sourcing-communities-scientists-animal-well-being/?utm_source=rss utm_medium=rss utm_campaign=mars-impact-fund-invests-13-million-in-sourcing-communities-scientists-animal-well-being",
-      "publishedAt": "2026-09-02T14:02:27.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Mars2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-court-blocks-new-york-law-charging-oil-c-2026-09-02",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Court Blocks New York Law Charging Oil Companies $75 Billion to Pay for Climate Change Costs",
-      "excerpt": "New York State’s Climate Change Superfund Act, which would require fossil fuel companies to pay a share of the investments in infrastructure needed to adapt to climate change in the state, ran into a major obstacle, with a U.S. federal judge ruling that it is preempted by federal law, and “cannot be enforced.” Introduced in 2024 by New York State Governor Kathy Hochul, the Superfund Act was anticipated to require fossil fuel companies to pay approximately $75 billion through 2050, or about $3 billion per year. Noting a need for “huge investments” in the…",
-      "url": "https://www.esgtoday.com/court-blocks-new-york-law-charging-oil-companies-75-billion-to-pay-for-climate-adaptation/?utm_source=rss utm_medium=rss utm_campaign=court-blocks-new-york-law-charging-oil-companies-75-billion-to-pay-for-climate-adaptation",
-      "publishedAt": "2026-09-02T13:23:12.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Courtroom-US-appeals.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-announces-ccp-eligible-status-of-v-2026-09-02",
       "source": "verra",
       "sourceName": "Verra",
@@ -1875,28 +1938,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-goal-to-limit-climate-change-to-1-5-c-ou-2026-09-02",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Goal to Limit Climate Change to 1.5°C Out of Reach: UN Report",
-      "excerpt": "The multinational goal to limit global temperature increase to 1.5°C, identified as the threshold to avoid the most significant impacts of climate change, is now out of reach, according to a new report released by the UN Environment Programme (UNEP), which puts a best-case scenario now at 1.8°C. Despite expectations to surpass the 1.5°C threshold, however, the report, “Limiting Overshoot,” maintains limiting long-term average warming to 1.5°C as the global goal, identifying an “overshoot, peak and decline” pathway, returning to the target level through…",
-      "url": "https://www.esgtoday.com/goal-to-limit-climate-change-to-1-5c-out-of-reach-un-report/?utm_source=rss utm_medium=rss utm_campaign=goal-to-limit-climate-change-to-1-5c-out-of-reach-un-report",
-      "publishedAt": "2026-09-02T11:32:52.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/emissions3.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -1921,6 +1962,30 @@
         "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-japan-opens-new-carbon-credit-channel-fo-2026-09-01",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Japan Opens New Carbon Credit Channel for India as JCM Enters Article 6 Market Era - CarbonCredits.com",
+      "excerpt": "Japan and India are moving closer to a working carbon credit market after adopting rules for their Joint Crediting Mechanism (JCM) under Article 6.2 of the Paris Agreement. The two countries adopted the Rules of Implementation (RoI) on June 8, 2026. The rules create the basic system for approving projects, checking emissions cuts, and issuing and transferring credits. Japan s Environment Ministry said both sides are still working on some detailed procedures. The JCM could bring Japanese finance and low-carbon technology to Indian projects. In return,…",
+      "url": "https://carboncredits.com/japan-india-jcm-article-6-carbon-credits/",
+      "publishedAt": "2026-09-01T16:10:46.000Z",
+      "image": "https://carboncredits.com/wp-content/uploads/2026/08/shutterstock_1898780959.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZbmxkNlI0ZkhhRUpZNnNZZmVxM2FmSVdmM1dVNEItN0xKcGQ1NlMxWEQxOUxhVzJqOFFTRmFPcUo4NjRhRWNpRnZOV3h6T2cxVFRnaXF0T3VIc1JhdTFXb0FHVlMtYXFvNkczQUJWYVpSYjZNYWc?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "esg-dive-starbucks-faces-another-union-boycott-ac-2026-09-01",
@@ -2282,51 +2347,6 @@
       "region": "world"
     },
     {
-      "id": "carbon-brief-explainer-how-the-super-el-ni-o-will-res-2026-08-18",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Explainer: How the ‘super El Niño’ will reshape the world’s weather",
-      "excerpt": "The world is currently experiencing what is expected to become the strongest El Niño on record – dubbed a “ super El Niño ” by many. El Niño is the warm phase of a recurring climate pattern in the tropical Pacific that releases heat from the ocean into the atmosphere. This temporarily raises global temperatures and reshapes rainfall and extreme weather around the world – impacting the lives of billions of people. The current El Niño event began in June and is expected to last into 2027. El Niño is part of a wider climate pattern called the El…",
-      "url": "https://interactive.carbonbrief.org/el-nino-explainer/index.html",
-      "publishedAt": "2026-08-18T12:58:53.000Z",
-      "image": "https://interactive.carbonbrief.org/el-nino-explainer/images/el-nino-hero.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-analysis-the-two-largest-reservoirs-in-t-2026-08-17",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Analysis: The two largest reservoirs in the US have hit record-low levels",
-      "excerpt": "Share The second-largest reservoir in the US reached a record-low water height on Saturday – just days after the country’s largest reservoir broke its own record. Both Lake Mead and Lake Powell are located on the Colorado River. They provide water for populations across seven US states in the south-western US, with around 40 million people getting some or all of their municipal water from the Colorado River. The river also provides water for around 5.5m acres (22,258 square kilometres) of farmland across Colorado, Arizona, California and the other…",
-      "url": "https://www.carbonbrief.org/analysis-the-two-largest-reservoirs-in-the-us-have-hit-record-low-levels",
-      "publishedAt": "2026-08-17T16:08:27.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/08/lake-mead-the-larges-scaled.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-august--2026-08-17",
       "source": "verra",
       "sourceName": "Verra",
@@ -2444,6 +2464,30 @@
       "region": "india"
     },
     {
+      "id": "google-h2-india-s-green-hydrogen-push-gathers-pace-2026-07-29",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
+      "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
+      "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
+      "publishedAt": "2026-07-29T07:00:00.000Z",
+      "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-h2-india-s-green-hydrogen-plans-gain-pace-b-2026-07-28",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2473,7 +2517,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "title": "The road ahead for India’s Carbon Credit Trading Scheme - ieefa.org",
       "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
       "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
       "publishedAt": "2026-07-14T07:00:00.000Z",
@@ -2539,6 +2583,54 @@
       "region": "world"
     },
     {
+      "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - The Quint",
+      "excerpt": "Become a Member Dark Mode Become a Member Student Protest Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take Quint Fit My Report Opinion More Members Only Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy…",
+      "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Agriculture, Carbon Accounting and Climate Justice Debate - Frontline Magazine",
+      "excerpt": "Published : Jun 18, 2026 13:01 IST - 10 MINS READ If farmers are compensated for the climate services they already provide, they gain both the resources and the incentive to do more. In this file picture, a farmer examines his wheat crop in a field on the outskirts of Amritsar. | Photo Credit: NARINDER NANU/AFP The Intergovernmental Panel on Climate Change Sixth Assessment Report (IPCC-AR6) stresses the need for climate policies to prioritise carbon dioxide (CO₂) removal (CDR) processes. International agencies have, in parallel, increasingly recognised…",
+      "url": "https://frontline.thehindu.com/environment/climate-accounting-agriculture-carbon-sink/article71116675.ece",
+      "publishedAt": "2026-06-18T07:00:00.000Z",
+      "image": "https://fl-i.thgim.com/public/incoming/y7mxy6/article71116853.ece/alternates/LANDSCAPE_1200/indian%20farmers%20green%20house%20gas%20emission.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-india-india-cgep-2026-06-17",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2558,54 +2650,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-h2-india-s-green-hydrogen-ambitions-face-a--2026-06-11",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "India's green hydrogen ambitions face a reality check - businesstoday.in",
-      "excerpt": "Kisan Tak Lallantop Malyalam Bangla Sports Tak Crime Tak Aajtak Campus Astro tak Subscribe Home Markets Stocks News IPO Corner Indices Stocks List Magazine Cover Story Editor s Note Deep Dive Interview BT TV Market Today Easynomics Drive Today BT Explainer New BT Billionaires New Make In India Gold & Silver Rate India Tech Artificial Intelligence Tech News Startups Unbox - Review Industry Banking IT Energy Commodities Pharma Real Estate Telecom Money Today Mutual Funds Tax Investment Insurance Tools & Calculator events Special NRI Career & Jobs US News…",
-      "url": "https://www.businesstoday.in/opinion/columns/story/indias-green-hydrogen-ambitions-face-a-reality-check-536276-2026-06-11",
-      "publishedAt": "2026-06-11T07:00:00.000Z",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a2a5d9299349-the-cabinet-approved-national-green-hydrogen-mission-in-january-2023-110236960-16x9.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObW5wbkpmeGhBalgzbXNua2FkQVZqTUI0dzNmQi1jTTVJV0FLbFVsSUdfSkc1RkpSclE5XzFWZFNOR0pzQTBLeGJLMnZTVHZoSDBzZWt3MEN6N3M2S2hYS1BGMVM4YWxUdHRhNXJzQnhHZGNuREM4LV9hN3hXMGtXaU1Sb1dORkV2bm9rTzBkaUEySmU2QmJBMzBWdHBvVWxWc2ZQSzVSM3Zta2xzSE5ZUlUyMHV1MFNVdFZwbFp30gHDAUFVX3lxTFB3UVdObTRuSC1xUVNDb3RZdXlCSmNNY1Z4eE9YdHprNVFXZ3pCZWs1ZHBMM0t1aU9IWDFuZTVBNVlOaEo1U0lPdU8yN1U3SlhfSkk2VHZmbjBsUGo4NVA0QW1kclhnNG5QRHpMX2JLVFNpaWYzU1JlSkpXaWFJcEEyUmFLN2l0M0E3d0tydzlDYkRGcUFtYjJkYXhOenlTclNobWJoODZDTWtNajJTeUp4bVpES0tEaXBvVzVnSDBpSjBXYw?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-h2-gaining-momentum-green-hydrogen-emerges--2026-06-11",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition - Renewable Watch",
-      "excerpt": "Green hydrogen is emerging as a key pillar of India’s transition towards a low-carbon economy, with the country increasingly focusing on building a domestic production and manufacturing ecosystem. Backed by India’s rapidly expanding renewable energy capacity, the sector is witnessing growing momentum with developments across the entire value chain. Falling renewable energy costs, technological advancements in electrolysers and rising global demand for low-carbon fuels and derivatives are further strengthening the business case for green hydrogen in…",
-      "url": "https://renewablewatch.in/2026/06/11/gaining-momentum-green-hydrogen-emerges-as-a-key-pillar-of-indias-energy-transition/",
-      "publishedAt": "2026-06-11T07:00:00.000Z",
-      "image": "https://renewablewatch.in/wp-content/uploads/2026/06/36-e1780380253365.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRGYzWjJVeXNkbzdpcE11TFBlUzVyUFN5SnV0eWRQRVdBeWdyY3plXzhtVlo0T0hReW4yTWV0V0N6YTJRMjlTZUVnQ3AtcjZLYzNrWmpsYnJZMlBJZWFCX08tYXVzZG5BRmxXak80YzJ3bFIxS1dmOERnTURUWmdfOHJXVXY2NUFMOWpkQ0l6Q1VrYlljdWtsRm9rZ1ZUYXMwbC16SlpqZVV1bEh4OHZUUUVIek94QVRCd0dFbXJn?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2635,30 +2679,6 @@
       "region": "india"
     },
     {
-      "id": "google-india-india-s-grasslands-need-climate-policy-n-2026-04-25",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India’s Grasslands Need Climate Policy, Not Carbon Rush - Frontline Magazine",
-      "excerpt": "Published : Apr 25, 2026 18:48 IST - 12 MINS READ Grassland in Gujarat, India. Grassland restoration can increase soil organic carbon through improved grazing management, native grass recovery, and invasive species control. | Photo Credit: Getty Images/iStockPhoto India’s grasslands and rangelands deserve a central place in climate policy . But any carbon-finance pathway must rest on secure rights, pastoral participation, sound methodology, and strong public safeguards. India’s climate imagination has long been shaped by a forest-first instinct. When…",
-      "url": "https://frontline.thehindu.com/environment/india-grasslands-carbon-finance-rights-pastoralists-climate-policy/article70905160.ece",
-      "publishedAt": "2026-04-25T07:00:00.000Z",
-      "image": "https://fl-i.thgim.com/public/incoming/h4b5gr/article70905395.ece/alternates/LANDSCAPE_1200/Grasslands.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlhkQURpdUd0Yk51RUEwNGEtc1NmWHMtV2dZY3hPREhXZGJUMWNlYXh3UHotaF9jZjlFZXp4RF95UEduSkg5VGlad3JWdmxBZU15T2tiZUE0TWtGZTFKOVRqT2lSRGE4d0VNYWNOdExNdTEzT0RwVVhOeEl2dTZob19pY283NFliVHk3b1ZXdDlkVVhKQUFvZG0xdE9la2htQUFmc3pJMDVFYWJxeVh4OGQ1NVhZSDJDZjR1bnlaek5rSzBTTGhlM9IBzwFBVV95cUxPemxKSjVSeW0zVXZsRG51eFhTVjk1S0R2VmcwRHppNVFPdU02NDRES2dhV1QwWFoybjdzQWNVbHg1dU1xbWJCdjlxemVrTXc3cUl0aFJPVXN6Sk9UeU5reEJhRFk5MFM5a2NzUFRiVzZVaDBxQmVxS0M4Ql9aSXpGc3lhNUFUaVhqMDZiYTNHUDBtTFNYTnJJdExuUEpMT0JkNDhvSmtyaGg3aTdvbktZcXpxUWFadDJrRHpCclJLX0h4S1I1NlNQUVpXWDFqR2M?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-how-indian-industries-are-adapting-to-cb-2026-04-03",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2683,74 +2703,25 @@
       "region": "india"
     },
     {
-      "id": "google-india-india-launches-centralized-carbon-market-2026-03-23",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
+      "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
       "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India Launches Centralized Carbon Market Trading Platform to Scale Climate Finance - ESG News",
-      "excerpt": "• India launches a national carbon market portal to operationalize its Carbon Credit Trading Scheme across sectors • Nearly 490 entities across seven energy intensive industries now face compliance targets under the framework • Government positions carbon markets as a major channel to unlock capital, drive innovation, and support NDC delivery New Delhi hosted a decisive step in India’s climate and financial architecture as the government inaugurated Prakriti 2026 and launched the Indian Carbon Market Portal, a centralized platform designed to…",
-      "url": "https://esgnews.com/india-launches-carbon-market-portal-to-scale-national-climate-finance/",
-      "publishedAt": "2026-03-23T07:00:00.000Z",
-      "image": "https://esgnews.com/wp-content/uploads/2026/03/India-Launches-Carbon-Market-Portal-to-Scale-National-Climate-Finance.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZVZjBOclJtYjRvYUZkV21KY1czQWl0RXBiZEVwV093VkpIbjBrTTBsN0RhQ0xVQ2ljM0JIa0gwcTFFOFBQXzNQOVExdzhFM21CbXdVUlRrMXpUVlpaNkhydmZ0djZ5aWdxOG50M1Awc0Y2SDVJTC14TUFNMmp2X29WN01jc2I0RmVpdFJ1RjJzcmlT?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-digital-pathways-to-net-zero-union-power-2026-03-21",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Digital Pathways to Net Zero: Union Power Minister Launches Indian Carbon Market Portal - The Policy Edge",
-      "excerpt": "SDG 13: Climate Action | SDG 7: Affordable and Clean Energy | SDG 9: Industry, Innovation and Infrastructure Ministry of Power MoP | Ministry of Environment, Forest and Climate Change MoEFCC | Bureau of Energy Efficiency BEE Listen to the article Current time 00 / 00 00 / 00 The Union Minister for Power, Shri Manohar Lal, has officially launched the Indian Carbon Market Portal (www.indiancarbonmarket.gov.in) during the inauguration of The International Conference on Carbon Markets- Prakriti 2026 in New Delhi. Positioned as the central digital…",
-      "url": "https://www.policyedge.in/p/digital-pathways-to-net-zero-union-power-minister-launches-indian-carbon-market-portal",
-      "publishedAt": "2026-03-21T07:00:00.000Z",
-      "image": "https://my-strapi-buckets.s3.eu-north-1.amazonaws.com/uploads/Policy_Bites_Cover_bb621c3d53.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazM3ZHJoaGFPNV9kc1c4VkZHUVdrZUNVSjVWc2xIWTJZQ0RjLXo0WThyejhDaTRFb2NtV0NpZGVONmlDZU1jT2FUekE1SzNIMFlJRUZqUXlQeDA0MVluY01ZVWFsMmNxUkluOFVwMzJSRjhNZ2hGTVo2VHQ3QTNPWDJIekF5bmo4d1Z1dEtjWnBNTFh3Q2ZGd0Y1SUNYX05zNkVuTjBTVTd5SlBJTm9WbE15aF8?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-carbon-verra-issues-first-corsia-label-for-4-7--2026-02-03",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Issues First CORSIA Label for 4.7 Million Carbon Credits - ClearBlue Markets",
-      "excerpt": "Verra, one of the world's leading developers of carbon standards, has reached a significant milestone by applying the International Civil Aviation Organization’s (ICAO) Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) label to millions of voluntary carbon credits for the first time, with the majority of these credits from projects in Africa. CORSIA's implementation continues to make it one of the most relevant climate compliance mechanisms globally, as it mitigates emissions from one of the highest-emitting and hardest-to-abate…",
-      "url": "https://www.clearbluemarkets.com/knowledge-base/verra-issues-first-corsia-label-for-4.7-million-carbon-credits",
-      "publishedAt": "2026-02-03T08:00:00.000Z",
-      "image": "https://www.clearbluemarkets.com/hubfs/Blog%20images%20(62).png",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "The Evolving Spectrum of Energy Sources - PIB",
+      "excerpt": "The Evolving Spectrum of Energy Sources PIB",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
+      "publishedAt": "2026-02-28T08:00:00.000Z",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkEySVpteS1aZ3lfNnhCMk44TThDcEVoX1NGRkFWcGRfMUFJdDBwVEstUW5kMTlDUDVmdFFjaFVoZFZjUDJfbGJQVjNkdHlDY2RVOEhDeTFvV2FzU2RKV2F5MGQ1VkhBc0FrX3QzZWE5clhqa1ZXNFFmZjlabWdYQ2MzWU5QSXNOMExDWWUyS1FrWnZQTW1FeUxFRTZYb1owTnRlNGxQV0RHYkN3b1Mw0gG_AUFVX3lxTE8wT1pMd0QwUF9oOUhEdkl1U3UzRDE3VTJIVkN3YTloaU1KQ0p5c0NuZlZNYmJSQXljdXRsZ1U1eHFCbHRkLTJrSVBKS3ItYkdzLVdYVU1lcU1rM3d2V0s2dDdSMjdPUC1Fa192eTcxdGFGczl1Tk5xcnBCZVk1ZVJ5c0RQRlRVdkFHVWxCRUhobGhsTXJHbGFCOUxPclcyVjYwbmR0SHIzVkRkOW91X2M4ZkEtanlKVUlBY09MTXhV?oc=5",
-        "imageSource": "publisher"
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
       },
       "region": "world"
     },
@@ -2776,6 +2747,29 @@
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5"
       },
       "region": "india"
+    },
+    {
+      "id": "google-carbon-verra-launches-priority-queue-pilot-to-s-2025-11-27",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews - Carbon Herald",
+      "excerpt": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews Carbon Herald",
+      "url": "https://carbonherald.com/verra-launches-priority-queue-pilot-to-speed-up-carbon-project-reviews/",
+      "publishedAt": "2025-11-27T08:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1dKVkwyRVFzdVd6Z0FXWll6WGd4U2k1RUhNb2hVaWRZdTdfMTFXNjFoZkJsdUNZMllGZjRXTURIMW5VYW5OOWZiSEJydWNKSWlraWVpYkdJTS0xbDI2eWUySEwyWlZaR0NmSEtGYktSZjA4VGxIdEtTRVBuaVNtMnVWV1hMcmhIUTFHbk85a1dIRVBWTU85ejZXMm4?oc=5"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
@@ -2825,30 +2819,6 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-renewable-energy-carbon-credits-losing-s-2024-08-07",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Renewable-Energy Carbon Credits Losing Steam - MSCI",
-      "excerpt": "Looking for a custom solution? Get in touch Stay current with our award-winning research. Seamlessly explore MSCI indexes through conversational AI. Our Market Cap Indexes deliver one consistent view, built on five decades of heritage. AI is still driving markets — but along a narrower road. Search Get in touch Research & Insights / Blog posts Research & Insights Renewable-Energy Carbon Credits Losing Steam Blog post 8 min read Tristan Loffler , Guy Turner , Jamie Saunders , Lucien Georgeson August 7, 2024 Key findings Renewable-energy projects’ future…",
-      "url": "https://www.msci.com/research-and-insights/blog-post/renewable-energy-carbon-credits-losing-steam",
-      "publishedAt": "2024-08-07T07:00:00.000Z",
-      "image": "https://www.msci.com/_next/static/media/apple-touch-icon.c2c8d0a3.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWI5djJSVFhjMkpFN3FQcTkxWFh3WVAwNm5UN1d1eFFkVmFGN2ZJWUNsZ3FwYkFRUFNQQXpEazg3OG54OWZUQndYdVlPUDJDaDRhUTZfTnNRODA2aWV6bzZ6dW9vWW1BRm04ei02RnlzcVk2d21HQ3NjZWxXczZTN1ZKRS1KT1ZDTmZ1T1NpVUd5X2lwcFhBb3pkOXNvUQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-h2-steel-decarbonisation-in-india-institute-2023-09-14",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2871,6 +2841,30 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - The Guardian",
+      "excerpt": "The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images View image in fullscreen The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images The age of extinction Carbon offsetting This article is more than 3 years old Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless,…",
+      "url": "https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe",
+      "publishedAt": "2023-01-18T08:00:00.000Z",
+      "image": "https://i.guim.co.uk/img/media/9f470b957b3b181b4107c89493f7a8eddb356834/0_12_2089_1254/master/2089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=c383f5d710fa80450e09a82767c12d10",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEFTZ3U2bGJHM25xeVVQZFJ4eGZDNWo5TXdUQ2JxeWxGZ3NZWjZhQ0RMRzBTZjB4SUd3LXFRZGlOWUpuUkkwXzNITVhUYkthNDQ4dkY5YTV5RGI2OTRNdTBkUWE3OEZsbUs0RGViR0RKaUVLS0ZTMk13ZU44UlBTRm8zUzY0NkllUXRfcFpxT3dOcmlpSE5iUHphcnVWam1Ec2dMSW1ROW9SM0UyMUo5NWNNbFRBSzhiR2VJ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-the-lifecycle-of-a-voluntary-carbon-cred-2022-08-26",
