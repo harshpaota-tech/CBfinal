@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-09-04T16:42:33.087Z",
+  "fetchedAt": "2026-09-04T21:11:34.561Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 62,
-    "india": 14,
-    "world": 48,
-    "withImages": 55,
-    "avgExcerptLength": 437,
+    "india": 15,
+    "world": 47,
+    "withImages": 56,
+    "avgExcerptLength": 445,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -104,30 +104,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-s-carbon-market-sets-weak-emission-2026-07-31",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India’s carbon market sets weak emissions targets, analysis finds - Mongabay India",
-        "excerpt": "A critical evaluation of emissions reduction targets set under the country’s carbon market framework has deemed the targets “modest and unambitious” — unlikely to drive changes in operations that would reduce emissions substantially. Between October 2025 and January 2026 India notified greenhouse gas reduction targets for nine industries. Under the framework, industries can earn carbon credits if they surpass these reduction targets, with each credit signifying an additional tonne of carbon dioxide equivalent reduced per unit of production (emissions…",
-        "url": "https://india.mongabay.com/2026/07/indias-carbon-market-sets-weak-emissions-targets-analysis-finds/",
-        "publishedAt": "2026-07-31T07:00:00.000Z",
-        "image": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/07/31160627/pexels-yajna-s-r-55953015-20591230-scaled.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzh0U0JEN1YyeWxsdzd4NzNnbEVsdmx0UlBLcXhkUFpxX3Z1RkxJRFp1VWpGa3ZZS1RrM0FrY1hTTGVYRzREbnVpV09VdDREUlltc1BDR0JhTlhpZ1JEUk1QcHlqSTdGVTN3bEsxaUk5cHU1OXkwdzJKMDR3NmpEVWpBQm5lWFk1RHpiUG9kZ2hRWnN2MS1qb2xrNXpyUTZQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-india-s-carbon-market-targets-too-weak-t-2026-07-29",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -147,6 +123,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFlRczlOUHRvTnNOVnl1V3AtRlJHVm1xLUpqb2MxTXJQRzdFUF9Kdmw0M3ZVTHJRcURGaXNjMWRuV0NEQWNjNkFrT3dBWm5VbFRJcnM4ZW5FeUJKTUdYeG9jUVU4OXFJQWVBR3JrVGhMcTk3LUZSdUxJLUlhbkZiTmtGYjZIaTI0aDI1a0MwTTJ3VF9sbGlqQXZMa05VTFhDSVJLUkNkaXc1X3pLVmxYQUtuWUh0MzgteFZsakZfVDB4RVnSAdABQVVfeXFMUE90eUNTTWg2QXJ4ZVFMUzI5cGxJVmNwc3dBdjNJMF9QTG1OVjNRNUFkLTdYdHNPMGtPY1V3Y05Qa1JPWmZCMGJMdjJ5V0psYjN6azBLSWhmNTJ2dEN6Q2s4d2E0b3ZHLUIzNXNOQ1NmQkFnSGxqNERCZy1mRGxVbzZnek44TWlpX01OLWlhdXZYdURLWU5abXFsakkyNlR1RC1UdFNZV1lOa1MyVDBQeXZMN2M5eUdlbmQ3ZU9lU0t4SEJLNHZDSEhCRTF1Y3hEWA?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-h2-india-s-green-hydrogen-push-gathers-pace-2026-07-29",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
+        "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
+        "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
+        "publishedAt": "2026-07-29T07:00:00.000Z",
+        "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -218,6 +218,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLXRrblpRS2dCRnN1bW1IWGNaS2RyZWttRWJLelIwSXhjOFBRRlBNY1hmaVZ6dUZEUWI1U0NWTDIxd3p0OURjal93STktbUF0X3BRWmxwZ1l6VUpldllzYWh6bmFsZWtPaVozUU1vbjFnMkM1d2VkUVNWMHN2b1IwNnQ5NjFPZVNGaXVBREF4Vk9fOVVRYzNyTU03OUFtNll5XzVJLWpjRXdKNVNlbW40amlWaWdnaTk4WlVyTktNaUQ0UQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - The Quint",
+        "excerpt": "Become a Member Dark Mode Become a Member Student Protest Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take Quint Fit My Report Opinion More Members Only Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy…",
+        "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
+        "publishedAt": "2026-06-25T07:00:00.000Z",
+        "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -365,13 +389,13 @@
         "region": "india"
       },
       {
-        "id": "google-h2-steel-decarbonisation-in-india-institute-2023-09-14",
+        "id": "google-h2-steel-decarbonisation-in-india-ieefa-org-2023-09-14",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "Steel decarbonisation in India - Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "title": "Steel decarbonisation in India - ieefa.org",
         "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  Executive Summary  About the…",
         "url": "https://ieefa.org/resources/steel-decarbonisation-india",
         "publishedAt": "2023-09-14T07:00:00.000Z",
@@ -1331,37 +1355,14 @@
         "region": "world"
       },
       {
-        "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "The Evolving Spectrum of Energy Sources - PIB",
-        "excerpt": "The Evolving Spectrum of Energy Sources PIB",
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
-        "publishedAt": "2026-02-28T08:00:00.000Z",
-        "image": null,
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-verra-launches-priority-queue-pilot-to-s-2025-11-27",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews - Carbon Herald",
-        "excerpt": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews Carbon Herald",
+        "title": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews - carbonherald.com",
+        "excerpt": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews carbonherald.com",
         "url": "https://carbonherald.com/verra-launches-priority-queue-pilot-to-speed-up-carbon-project-reviews/",
         "publishedAt": "2025-11-27T08:00:00.000Z",
         "image": null,
@@ -1383,8 +1384,8 @@
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
-        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - carbonherald.com",
+        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 carbonherald.com",
         "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
         "publishedAt": "2025-11-12T08:00:00.000Z",
         "image": null,
@@ -2439,30 +2440,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-india-s-carbon-market-sets-weak-emission-2026-07-31",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India’s carbon market sets weak emissions targets, analysis finds - Mongabay India",
-      "excerpt": "A critical evaluation of emissions reduction targets set under the country’s carbon market framework has deemed the targets “modest and unambitious” — unlikely to drive changes in operations that would reduce emissions substantially. Between October 2025 and January 2026 India notified greenhouse gas reduction targets for nine industries. Under the framework, industries can earn carbon credits if they surpass these reduction targets, with each credit signifying an additional tonne of carbon dioxide equivalent reduced per unit of production (emissions…",
-      "url": "https://india.mongabay.com/2026/07/indias-carbon-market-sets-weak-emissions-targets-analysis-finds/",
-      "publishedAt": "2026-07-31T07:00:00.000Z",
-      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/07/31160627/pexels-yajna-s-r-55953015-20591230-scaled.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzh0U0JEN1YyeWxsdzd4NzNnbEVsdmx0UlBLcXhkUFpxX3Z1RkxJRFp1VWpGa3ZZS1RrM0FrY1hTTGVYRzREbnVpV09VdDREUlltc1BDR0JhTlhpZ1JEUk1QcHlqSTdGVTN3bEsxaUk5cHU1OXkwdzJKMDR3NmpEVWpBQm5lWFk1RHpiUG9kZ2hRWnN2MS1qb2xrNXpyUTZQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-india-s-carbon-market-targets-too-weak-t-2026-07-29",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2482,6 +2459,30 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFlRczlOUHRvTnNOVnl1V3AtRlJHVm1xLUpqb2MxTXJQRzdFUF9Kdmw0M3ZVTHJRcURGaXNjMWRuV0NEQWNjNkFrT3dBWm5VbFRJcnM4ZW5FeUJKTUdYeG9jUVU4OXFJQWVBR3JrVGhMcTk3LUZSdUxJLUlhbkZiTmtGYjZIaTI0aDI1a0MwTTJ3VF9sbGlqQXZMa05VTFhDSVJLUkNkaXc1X3pLVmxYQUtuWUh0MzgteFZsakZfVDB4RVnSAdABQVVfeXFMUE90eUNTTWg2QXJ4ZVFMUzI5cGxJVmNwc3dBdjNJMF9QTG1OVjNRNUFkLTdYdHNPMGtPY1V3Y05Qa1JPWmZCMGJMdjJ5V0psYjN6azBLSWhmNTJ2dEN6Q2s4d2E0b3ZHLUIzNXNOQ1NmQkFnSGxqNERCZy1mRGxVbzZnek44TWlpX01OLWlhdXZYdURLWU5abXFsakkyNlR1RC1UdFNZV1lOa1MyVDBQeXZMN2M5eUdlbmQ3ZU9lU0t4SEJLNHZDSEhCRTF1Y3hEWA?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-h2-india-s-green-hydrogen-push-gathers-pace-2026-07-29",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
+      "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
+      "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
+      "publishedAt": "2026-07-29T07:00:00.000Z",
+      "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2582,6 +2583,30 @@
       "region": "world"
     },
     {
+      "id": "google-india-cookstoves-and-carbon-credits-inside-ben-2026-06-25",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom - The Quint",
+      "excerpt": "Become a Member Dark Mode Become a Member Student Protest Uncovering Hate Climate Change WebQoof Scamguard Raghav s Take Quint Fit My Report Opinion More Members Only Brand Studio World Politics Explainers Videos Entertainment The Quint Lab Sports Gender More Education Podcasts Kaafi Real Special Projects Members Opinion Dark Mode Become a Member Home Naukri Crisis Scamguard Uncovering Hate Special Projects About Us T&C Privacy Policy BECOME A MEMBER Created by potrace 1.16, written by Peter Selinger 2001-2019 FOLLOW US ON About Us Contact Us Privacy…",
+      "url": "https://www.thequint.com/climate-change/bengaluru-carbon-market-boom-farmers-forests-pay-price",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "image": "https://cf-images.assettype.com/thequint%2F2026-06-25%2Fbmlt6z7e%2Fkarnataka.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakk2RlpLMTVoaklTcVNTRDEwaFRYZGdSaDJkdDk4WTIzejlKWEVSZUw0Um9mUHFjMHNQNjhMUDRFNjRpSlFmczV3Q20wbWRnR0dlUi00bTBSZmk0eURzbHI5UkxXN1lfME1FbzBBb3I4TFNkRVNONzVxLU1yMjJYTkJJbWphYnRvN25zT2xCUjZsVDUybXpJS2ZB0gGnAUFVX3lxTE5HZHA0c0toYk1qcHJLTnZKeEhaY1VnNmNXVXk5eDNlQlNxcGV4UWlQWHZNLWN4d2ctUWhvTVJKREhFTmFuLVAtNmI1SmVlOTU4M0RZZDdVRkx2emZhN3IxRHVjOEtjcTVtNm1udUlTSHZ2N0h0bHpqakNYbzh2cWc5cEVxMl9QckVHYjZIeVU2QzV1U3d6cVNRam5mYm5NY0pUTDJyQ0Fn?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2678,29 +2703,6 @@
       "region": "india"
     },
     {
-      "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "The Evolving Spectrum of Energy Sources - PIB",
-      "excerpt": "The Evolving Spectrum of Energy Sources PIB",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
-      "publishedAt": "2026-02-28T08:00:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2730,8 +2732,8 @@
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews - Carbon Herald",
-      "excerpt": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews Carbon Herald",
+      "title": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews - carbonherald.com",
+      "excerpt": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews carbonherald.com",
       "url": "https://carbonherald.com/verra-launches-priority-queue-pilot-to-speed-up-carbon-project-reviews/",
       "publishedAt": "2025-11-27T08:00:00.000Z",
       "image": null,
@@ -2753,8 +2755,8 @@
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
-      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - carbonherald.com",
+      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 carbonherald.com",
       "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
       "publishedAt": "2025-11-12T08:00:00.000Z",
       "image": null,
@@ -2817,13 +2819,13 @@
       "region": "world"
     },
     {
-      "id": "google-h2-steel-decarbonisation-in-india-institute-2023-09-14",
+      "id": "google-h2-steel-decarbonisation-in-india-ieefa-org-2023-09-14",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "Steel decarbonisation in India - Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "title": "Steel decarbonisation in India - ieefa.org",
       "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  Executive Summary  About the…",
       "url": "https://ieefa.org/resources/steel-decarbonisation-india",
       "publishedAt": "2023-09-14T07:00:00.000Z",
