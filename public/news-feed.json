@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-09-10T16:52:38.276Z",
+  "fetchedAt": "2026-09-10T21:21:16.849Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 17,
     "world": 45,
     "withImages": 56,
-    "avgExcerptLength": 465,
+    "avgExcerptLength": 462,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -150,30 +150,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-article-6-of-the-paris-agreement-climate-2026-08-17",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
-        "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
-        "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
-        "publishedAt": "2026-08-17T07:00:00.000Z",
-        "image": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/07/Article-6-of-the-Paris-Agreement.webp?v=1784286245",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzAyMk9nMlh4QjdIS1hDczM4S1NPY2JrQU54dFFsZENLZTNtUUdCQzF0QmVsNXVZck5WYi1ZaWdLaDJOWU80QkdocERNZHpWWlVXRFBzMzFfWXhoU2ZVOHNxUlRGZWpXeFRPU2NvN2F0WG1CVWI3cmc1YnNQZml3RDVn?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-india-s-carbon-market-sets-weak-emission-2026-07-31",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -204,7 +180,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India’s carbon market targets too weak to drive industrial transformation: Report - downtoearth.org.in",
+        "title": "India’s carbon market targets too weak to drive industrial transformation: Report - Down To Earth",
         "excerpt": "Published on : 29 Jul 2026, 8:48 am Copied Listen to this article Summary India’s proposed Carbon Credit Trading Scheme will not deliver transformational industrial decarbonisation, experts warn. New report shows far more ambitious emissions intensity targets needed. Current rules demand only 2–5% cuts by 2026-27 for steel, cement and aluminium. The scheme relies on low carbon prices and weak governance, excludes the power sector. India's proposed Carbon Credit Trading Scheme (CCTS) is unlikely to drive transformational change in industrial…",
         "url": "https://www.downtoearth.org.in/climate-change/indias-carbon-market-targets-too-weak-to-drive-industrial-transformation-report",
         "publishedAt": "2026-07-29T07:00:00.000Z",
@@ -276,7 +252,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "The road ahead for India’s Carbon Credit Trading Scheme - ieefa.org",
+        "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
         "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
         "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
         "publishedAt": "2026-07-14T07:00:00.000Z",
@@ -342,6 +318,30 @@
         "region": "india"
       },
       {
+        "id": "google-india-india-cgep-2026-06-17",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India - CGEP",
+        "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
+        "url": "https://www.energypolicy.columbia.edu/publications/india/",
+        "publishedAt": "2026-06-17T07:00:00.000Z",
+        "image": "https://www.energypolicy.columbia.edu/wp-content/uploads/2026/06/India.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -395,7 +395,7 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
+        "title": "India’s green hydrogen policy wrap 2025 - powerpeakdigest.com",
         "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
@@ -419,7 +419,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - fuelcellsworks.com",
+        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
         "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
         "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
         "publishedAt": "2025-09-01T07:00:00.000Z",
@@ -462,6 +462,28 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-standard-chartered-unveils-platform-to-m-2026-09-10",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Standard Chartered unveils platform to manage, decarbonize supply chain",
+        "excerpt": "The bank s Supply Net Zero platform will provide suppliers with resources and guidance to better understand where their emissions originate from and what they can do to reduce them.",
+        "url": "https://www.esgdive.com/news/standard-chartered-unveils-platform-accelerating-supply-chain-decarbonization/830065/",
+        "publishedAt": "2026-09-10T16:36:47.000Z",
+        "image": "https://imgproxy.divecdn.com/-FrYbCkVRk5MrRNAmyyHDhlwJL173l6XsciSj1gLcAA/g:nowe:107:189/c:2889:1632/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk5MzU2NTQuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-ai-costs-expected-to-rise-through-2027-2026-09-10",
         "source": "esg-dive",
@@ -948,28 +970,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-fewer-than-25-of-enterprises-have-scaled-2026-09-04",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Fewer than 25% of enterprises have scaled AI successfully",
-        "excerpt": "Not knowing how to measure a project s success or when to shut it down can keep companies from finding success, Gartner data found.",
-        "url": "https://www.esgdive.com/news/rising-spend-cios-AI-success/829698/",
-        "publishedAt": "2026-09-04T16:09:00.000Z",
-        "image": "https://imgproxy.divecdn.com/x7rSOjJ0lQ6mJIfcEaSwCzLJcLpwvs81L3YQjfxYQds/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwNDYzMTkxLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-analysis-uk-solar-power-hits-record-high-2026-09-04",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1249,7 +1249,7 @@
         "type": "esg",
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
-        "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - marketresearchfuture.com",
+        "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
         "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
         "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
         "publishedAt": "2026-08-24T07:00:00.000Z",
@@ -1364,7 +1364,7 @@
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
+        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
         "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
         "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
         "publishedAt": "2026-06-25T17:05:08.000Z",
@@ -1478,6 +1478,28 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-standard-chartered-unveils-platform-to-m-2026-09-10",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Standard Chartered unveils platform to manage, decarbonize supply chain",
+      "excerpt": "The bank s Supply Net Zero platform will provide suppliers with resources and guidance to better understand where their emissions originate from and what they can do to reduce them.",
+      "url": "https://www.esgdive.com/news/standard-chartered-unveils-platform-accelerating-supply-chain-decarbonization/830065/",
+      "publishedAt": "2026-09-10T16:36:47.000Z",
+      "image": "https://imgproxy.divecdn.com/-FrYbCkVRk5MrRNAmyyHDhlwJL173l6XsciSj1gLcAA/g:nowe:107:189/c:2889:1632/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk5MzU2NTQuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-dive-ai-costs-expected-to-rise-through-2027-2026-09-10",
       "source": "esg-dive",
@@ -2058,28 +2080,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-fewer-than-25-of-enterprises-have-scaled-2026-09-04",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Fewer than 25% of enterprises have scaled AI successfully",
-      "excerpt": "Not knowing how to measure a project s success or when to shut it down can keep companies from finding success, Gartner data found.",
-      "url": "https://www.esgdive.com/news/rising-spend-cios-AI-success/829698/",
-      "publishedAt": "2026-09-04T16:09:00.000Z",
-      "image": "https://imgproxy.divecdn.com/x7rSOjJ0lQ6mJIfcEaSwCzLJcLpwvs81L3YQjfxYQds/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwNDYzMTkxLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-analysis-uk-solar-power-hits-record-high-2026-09-04",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2359,7 +2359,7 @@
       "type": "esg",
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
-      "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - marketresearchfuture.com",
+      "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
       "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
       "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
       "publishedAt": "2026-08-24T07:00:00.000Z",
@@ -2468,30 +2468,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-article-6-of-the-paris-agreement-climate-2026-08-17",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
-      "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
-      "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "image": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/07/Article-6-of-the-Paris-Agreement.webp?v=1784286245",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzAyMk9nMlh4QjdIS1hDczM4S1NPY2JrQU54dFFsZENLZTNtUUdCQzF0QmVsNXVZck5WYi1ZaWdLaDJOWU80QkdocERNZHpWWlVXRFBzMzFfWXhoU2ZVOHNxUlRGZWpXeFRPU2NvN2F0WG1CVWI3cmc1YnNQZml3RDVn?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-india-s-carbon-market-sets-weak-emission-2026-07-31",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2522,7 +2498,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India’s carbon market targets too weak to drive industrial transformation: Report - downtoearth.org.in",
+      "title": "India’s carbon market targets too weak to drive industrial transformation: Report - Down To Earth",
       "excerpt": "Published on : 29 Jul 2026, 8:48 am Copied Listen to this article Summary India’s proposed Carbon Credit Trading Scheme will not deliver transformational industrial decarbonisation, experts warn. New report shows far more ambitious emissions intensity targets needed. Current rules demand only 2–5% cuts by 2026-27 for steel, cement and aluminium. The scheme relies on low carbon prices and weak governance, excludes the power sector. India's proposed Carbon Credit Trading Scheme (CCTS) is unlikely to drive transformational change in industrial…",
       "url": "https://www.downtoearth.org.in/climate-change/indias-carbon-market-targets-too-weak-to-drive-industrial-transformation-report",
       "publishedAt": "2026-07-29T07:00:00.000Z",
@@ -2594,7 +2570,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "The road ahead for India’s Carbon Credit Trading Scheme - ieefa.org",
+      "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
       "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
       "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
       "publishedAt": "2026-07-14T07:00:00.000Z",
@@ -2642,7 +2618,7 @@
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
+      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
       "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
       "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
       "publishedAt": "2026-06-25T17:05:08.000Z",
@@ -2679,6 +2655,30 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-india-cgep-2026-06-17",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India - CGEP",
+      "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
+      "url": "https://www.energypolicy.columbia.edu/publications/india/",
+      "publishedAt": "2026-06-17T07:00:00.000Z",
+      "image": "https://www.energypolicy.columbia.edu/wp-content/uploads/2026/06/India.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2785,7 +2785,7 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
+      "title": "India’s green hydrogen policy wrap 2025 - powerpeakdigest.com",
       "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
@@ -2855,7 +2855,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - fuelcellsworks.com",
+      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
       "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
       "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
       "publishedAt": "2025-09-01T07:00:00.000Z",
