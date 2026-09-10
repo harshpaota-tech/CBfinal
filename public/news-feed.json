@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-09-10T12:08:09.578Z",
+  "fetchedAt": "2026-09-10T16:52:38.276Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,16 +45,38 @@
   ],
   "stats": {
     "total": 62,
-    "india": 16,
-    "world": 46,
-    "withImages": 55,
-    "avgExcerptLength": 458,
+    "india": 17,
+    "world": 45,
+    "withImages": 56,
+    "avgExcerptLength": 465,
     "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "esg-today-google-signs-its-largest-ever-superpollu-2026-09-10",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Google Signs its Largest-Ever Superpollutant Carbon Credit Deal",
+        "excerpt": "Google announced today that it has signed a new agreement with startup Mitti Labs to purchase 1 million carbon credits over the next four years, to be generated from projects enabling over 70,000 smallholder farmers in India transition to practices reducing methane emissions from rice farming. According to the IPCC, superpollutants, which can include gases such as methane emitted from sources including agriculture and waste, are responsible for almost half of global warming to date, with elimination of these elements presenting one of the most powerful…",
+        "url": "https://www.esgtoday.com/google-signs-its-largest-ever-superpollutant-carbon-credit-deal/?utm_source=rss utm_medium=rss utm_campaign=google-signs-its-largest-ever-superpollutant-carbon-credit-deal",
+        "publishedAt": "2026-09-10T13:56:52.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Google4.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "india"
+      },
       {
         "id": "google-india-uk-recognises-india-s-carbon-credit-trad-2026-09-09",
         "source": "google-india",
@@ -111,10 +133,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "BIMTECH and Institute of Actuaries of India Sign MoU to Launch Certification Programmes on Carbon Credits, Carbon Markets and Climate Finance - SolarQuarter",
-        "excerpt": "BIMTECH and Institute of Actuaries of India Sign MoU to Launch Certification Programmes on Carbon Credits, Carbon Markets and Climate Finance SolarQuarter",
+        "excerpt": "Birla Institute of Management Technology (BIMTECH), an AACSB-accredited business school in India, has signed a Memorandum of Understanding (MoU) with the Institute of Actuaries of India (IAI) to strengthen professional learning and develop capabilities in emerging areas of professional development. The MoU was signed by Dr. Pankaj Priya, Dean & Deputy Director, BIMTECH, and Dr. Ruchita Verma, Executive Director, IAI. The partnership will focus on combining BIMTECH s expertise in management education with IAI s capabilities in actuarial science and…",
         "url": "https://solarquarter.com/2026/09/08/bimtech-and-institute-of-actuaries-of-india-sign-mou-to-launch-certification-programmes-on-carbon-credits-carbon-markets-and-climate-finance/",
         "publishedAt": "2026-09-08T03:52:33.000Z",
-        "image": null,
+        "image": "https://solarquarter.com/wp-content/uploads/2026/09/Website-blog-banner-design-2026-09-08T091740.588.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -122,7 +144,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSmRNNlViT1VKdFRmWnFKay1wQkgtVkJXSldlc1l3MHdrUXNWc21xNU5fMHR0VFdpZDZuTWFHWDBzQWttSm5KUTBndzZkS0prYUMwM0lrbUE3VzlwYU9FSGtlZnh0dDVUbWZYUnRmc3FNWFp4ODBwRUdFM3ozSVNhcDNVb3FCM21Kejk3amZic0NfWERjc1VBM1ZqMkhvOVIwM2F6ZTNoNC1UZHZCVHR5R1ZUYkUyYmVoZmR2aVBjS1E2TV9hT2c4anl3REdwaEVYMW9GYUZDdmlEREh3NWFCM193SVJDTnAzVk03MHZxb080dDFpYmZaLVlFQTI5NTlsUVpVZWQ4aUc?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSmRNNlViT1VKdFRmWnFKay1wQkgtVkJXSldlc1l3MHdrUXNWc21xNU5fMHR0VFdpZDZuTWFHWDBzQWttSm5KUTBndzZkS0prYUMwM0lrbUE3VzlwYU9FSGtlZnh0dDVUbWZYUnRmc3FNWFp4ODBwRUdFM3ozSVNhcDNVb3FCM21Kejk3amZic0NfWERjc1VBM1ZqMkhvOVIwM2F6ZTNoNC1UZHZCVHR5R1ZUYkUyYmVoZmR2aVBjS1E2TV9hT2c4anl3REdwaEVYMW9GYUZDdmlEREh3NWFCM193SVJDTnAzVk03MHZxb080dDFpYmZaLVlFQTI5NTlsUVpVZWQ4aUc?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -133,7 +156,7 @@
         "type": "esg",
         "tag": "CLIMATE",
         "accent": "#34d399",
-        "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - vajiramandravi.com",
+        "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
         "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
         "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
         "publishedAt": "2026-08-17T07:00:00.000Z",
@@ -181,7 +204,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India’s carbon market targets too weak to drive industrial transformation: Report - Down To Earth",
+        "title": "India’s carbon market targets too weak to drive industrial transformation: Report - downtoearth.org.in",
         "excerpt": "Published on : 29 Jul 2026, 8:48 am Copied Listen to this article Summary India’s proposed Carbon Credit Trading Scheme will not deliver transformational industrial decarbonisation, experts warn. New report shows far more ambitious emissions intensity targets needed. Current rules demand only 2–5% cuts by 2026-27 for steel, cement and aluminium. The scheme relies on low carbon prices and weak governance, excludes the power sector. India's proposed Carbon Credit Trading Scheme (CCTS) is unlikely to drive transformational change in industrial…",
         "url": "https://www.downtoearth.org.in/climate-change/indias-carbon-market-targets-too-weak-to-drive-industrial-transformation-report",
         "publishedAt": "2026-07-29T07:00:00.000Z",
@@ -253,7 +276,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "title": "The road ahead for India’s Carbon Credit Trading Scheme - ieefa.org",
         "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
         "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
         "publishedAt": "2026-07-14T07:00:00.000Z",
@@ -396,7 +419,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
+        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - fuelcellsworks.com",
         "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
         "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
         "publishedAt": "2025-09-01T07:00:00.000Z",
@@ -439,6 +462,116 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-ai-costs-expected-to-rise-through-2027-2026-09-10",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "AI costs expected to rise through 2027",
+        "excerpt": "In a Deloitte survey, nearly two-thirds of respondents expect AI-related costs and operational complexity to rise in the new year. Many are still prioritizing the technology anyway.",
+        "url": "https://www.esgdive.com/news/ai-costs-expected-to-rise-through-2027/830062/",
+        "publishedAt": "2026-09-10T16:32:00.000Z",
+        "image": "https://imgproxy.divecdn.com/fAKFptFjXIO-luSxl8Fw-gA3E_QL3xNhLgmaHcrVbRU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY4Mzg4NzQ3LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-climeworks-doubles-co2-capture-performan-2026-09-10",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Climeworks Doubles CO2 Capture Performance at Iceland Carbon Removal Plant",
+        "excerpt": "Zurich-based Carbon removal solutions provider Climeworks announced a series of performance improvements at its “Mammoth” direct air capture (DAC) and storage facility in Iceland, including revealing technology upgrades that have more than doubled CO2 capture performance under real-world conditions, while cutting operating costs per ton in half. Founded in 2009 by Christoph Gebald and Jan Wurzbacher, Climeworks provides carbon removal solutions for companies, including its own DAC technology, with the company operating the world’s first two DAC plants,…",
+        "url": "https://www.esgtoday.com/climeworks-doubles-co2-capture-performance-at-iceland-carbon-removal-plant/?utm_source=rss utm_medium=rss utm_campaign=climeworks-doubles-co2-capture-performance-at-iceland-carbon-removal-plant",
+        "publishedAt": "2026-09-10T15:29:44.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Climeworks-Mammoth2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-twelve-secures-45-million-financing-for--2026-09-10",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Twelve Secures $45 Million Financing for CO2-Based Clean Fuels Plant",
+        "excerpt": "Carbon transformation-focused cleantech company Twelve announced that it has secured a credit facility of up to $45 million, with the financing used to refinance the construction facility for its new AirPlant One facility, and supporting additional expansion at the site. Founded in 2015, California-based Twelve produces chemicals, materials and fuels from captured CO2 combined with water. The process is powered by renewable energy and produces water and oxygen as byproducts. According to Twelve, its sustainable aviation fuel (SAF) has the potential to…",
+        "url": "https://www.esgtoday.com/twelve-secures-45-million-financing-for-co2-based-clean-fuels-plant/?utm_source=rss utm_medium=rss utm_campaign=twelve-secures-45-million-financing-for-co2-based-clean-fuels-plant",
+        "publishedAt": "2026-09-10T14:46:30.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Twelve-e-jet.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-guest-post-how-extreme-heat-is-creeping--2026-09-10",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Guest post: How extreme heat is ‘creeping’ from summer into autumn and spring",
+        "excerpt": "Extreme heat is one of the deadliest climate hazards , but no two heatwaves are the same. Heat extremes that happen outside of the peak summer months are often more dangerous because they can catch people off guard. Heatwaves that hit during the spring or the first heatwave of the summer are riskier because people’s bodies are not yet accustomed to the heat and cooling strategies, such as air conditioning or public cooling centres, might not be available. On the other hand, heatwaves that happen in the autumn, after a long summer season of heat…",
+        "url": "https://www.carbonbrief.org/guest-post-how-extreme-heat-is-creeping-from-summer-into-autumn-and-spring",
+        "publishedAt": "2026-09-10T13:00:00.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/Screenshot-2026-09-10-at-10.29.02-797x1024.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-whirlpool-procures-multi-technology-carb-2026-09-10",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Whirlpool Procures Multi-Technology Carbon Removal Portfolio",
+        "excerpt": "Climate solutions provider ClimeFi announced that it is working with home appliance manufacturer Whirlpool to secure a diversified portfolio of durable carbon removal, aimed at supporting Whirlpool s decarbonization targets. The portfolio spans four suppliers across four carbon removal pathways, including CREW Carbon in Marine CDR, Gevo in Biogenic Carbon Capture & Storage (Bio-CCS), InPlanet in Enhanced Weathering, and Liferaft in Biochar. The CREW Carbon, Gevo and Liferaft projects are located in the U.S., while InPlanet’s project is located in Brazil.",
+        "url": "https://www.esgtoday.com/whirlpool-procures-multi-technology-carbon-removal-portfolio/?utm_source=rss utm_medium=rss utm_campaign=whirlpool-procures-multi-technology-carbon-removal-portfolio",
+        "publishedAt": "2026-09-10T12:47:32.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Whirlpool3.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-eu-lawmakers-propose-tougher-fossil-fuel-2026-09-10",
         "source": "esg-today",
@@ -638,72 +771,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-sec-sues-proxy-advisor-iss-for-client-re-2026-09-09",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "SEC Sues Proxy Advisor ISS for Client, Recommendation and Voting Data in ESG Crackdown",
-        "excerpt": "The U.S. Securities and Exchange Commission (SEC) revealed that it has filed an enforcement action in a U.S. district court against proxy advisory firm Institutional Shareholder Services (ISS), seeking information about the firm’s voting recommendations to investors that it said ISS has refused to provide. The legal filing follows a series of actions by politicians in the U.S. targeting proxy advisory firms ISS and Glass Lewis over the past several months, including an executive order by President Trump in December directing several U.S. federal…",
-        "url": "https://www.esgtoday.com/sec-sues-proxy-advisor-iss-for-client-recommendation-and-voting-data-in-esg-crackdown/?utm_source=rss utm_medium=rss utm_campaign=sec-sues-proxy-advisor-iss-for-client-recommendation-and-voting-data-in-esg-crackdown",
-        "publishedAt": "2026-09-09T11:51:21.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/SEC4.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-m-g-investments-appoints-jen-braswell-as-2026-09-09",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "M G Investments Appoints Jen Braswell as Global Head of Impact for Private Markets",
-        "excerpt": "International investment manager M&G Investments announced the appointment of Jen Braswell as Global Head of Impact for its private markets business, a newly created role aimed at accelerating the growth of the investment manager’s impact investing platform. In her new role, Braswell will be responsible for enhancing collaboration and strengthening M&G Investments’ ability to originate, manage and scale impact investments for institutional investors. Working with the investment teams, she will drive product innovation and strategic partnerships, while…",
-        "url": "https://www.esgtoday.com/mg-investments-appoints-jen-braswell-as-global-head-of-impact-for-private-markets/?utm_source=rss utm_medium=rss utm_campaign=mg-investments-appoints-jen-braswell-as-global-head-of-impact-for-private-markets",
-        "publishedAt": "2026-09-09T09:41:28.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/MG-Braswell.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Executive Moves",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-agreena-signs-record-4-4-million-ton-sus-2026-09-09",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Agreena Signs Record 4.4 Million Ton Sustainable Farming-Based Carbon Removal Deal",
-        "excerpt": "Agriculture-focused carbon platform Agreena announced it has secured a seven-year agreement with one of the world’s largest commodity trading houses for the purchase of 4.45 million tonnes of carbon credits over seven years from a project focused on supporting farmers in transitioning to regenerative agriculture. The deal marks the largest publicly communicated agreement signed to date in agricultural carbon, and one of the longest-dated commitments made in a soil carbon project. Agreena highlighted the long-term nature of the agreement, noting that…",
-        "url": "https://www.esgtoday.com/agreena-signs-record-4-4-million-ton-sustainable-farming-based-carbon-removal-deal/?utm_source=rss utm_medium=rss utm_campaign=agreena-signs-record-4-4-million-ton-sustainable-farming-based-carbon-removal-deal",
-        "publishedAt": "2026-09-09T08:21:08.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Farming-Agreena.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-federal-judge-blocks-new-york-s-75b-clim-2026-09-08",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -766,28 +833,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-sustainability-data-platform-tracera-app-2026-09-08",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Sustainability Data Platform Tracera Appoints Co-founder Sandeep Chand as New CEO",
-        "excerpt": "Sustainability data platform Tracera announced the appointment of co-founder Sandeep Chand as its new CEO, succeeding fellow co-founder Patrick Obeid in the role. Incubated at Bain & Company in 2022, New York-based Tracera – formerly called ESG Flo – provides solutions aimed at enabling companies to simplify ESG data collection, verification, and reporting, covering areas ranging from data collection, carbon accounting and regulatory compliance to advisory services and corporate reporting across frameworks including CSRD, IFRS/ISSB, CDP, and…",
-        "url": "https://www.esgtoday.com/sustainability-data-platform-tracera-appoints-co-founder-sandeep-chand-as-new-ceo/?utm_source=rss utm_medium=rss utm_campaign=sustainability-data-platform-tracera-appoints-co-founder-sandeep-chand-as-new-ceo",
-        "publishedAt": "2026-09-08T16:07:23.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Tracera-Chand.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1016,28 +1061,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-lowe-s-bofa-at-t-nvidia-more-launch-work-2026-09-03",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Lowe’s, BofA, AT&T, Nvidia, more launch workforce training initiative",
-        "excerpt": "Nearly 80 companies, vendors, workforce organizations and educational institutions have joined the coalition, which aims to train 1 million people for skilled trade careers by 2035.",
-        "url": "https://www.esgdive.com/news/lowes-bofa-att-nvidia-launch-building-futures-skilled-trades-workforce-training-initiative/829576/",
-        "publishedAt": "2026-09-03T16:32:00.000Z",
-        "image": "https://imgproxy.divecdn.com/gbaexIwvpC5wucMEM-ansqacm2TCG92FZcsVxM_1rD8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDg0Mjg2NzExLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-analysis-china-s-co2-emissions-fall-in-q-2026-09-02",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1150,28 +1173,6 @@
         "region": "world"
       },
       {
-        "id": "carbon-brief-climate-change-exposes-580-million-child-2026-08-26",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Climate change exposes 580 million children to 20 extra ‘heat-stress days’ every year",
-        "excerpt": "Share More than 40% of children under the age of 10 globally are already experiencing at least 20 additional “heat-stress days” due to climate change. This is according to a new attribution study, published in Science Advances , which combines climate models with demographic data to assess the age groups and regions that are exposed to the most hot, humid days. The study finds that children up to the age of nine already face more additional heat-stress days globally as a result of climate change than any other age group. It adds that south Asia,…",
-        "url": "https://www.carbonbrief.org/climate-change-exposes-580-million-children-to-20-extra-heat-stress-days-every-year",
-        "publishedAt": "2026-08-26T18:00:00.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/cited-banner_landing-copy.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-verra-approves-artio-insurance-policy-fo-2026-08-25",
         "source": "verra",
         "sourceName": "Verra",
@@ -1237,6 +1238,30 @@
         "meta": {
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-voluntary-carbon-credit-market-size-shar-2026-08-24",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - marketresearchfuture.com",
+        "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
+        "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
+        "publishedAt": "2026-08-24T07:00:00.000Z",
+        "image": "https://www.marketresearchfuture.com/uploads/infographics/voluntary-carbon-credit-market.webp?v=1787579715",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOW5DeXR6dXdqR09QVy1Vb285U1NKQUZPYkZOU0tfYnRZdXR3YjR0NmZuRjZubXNaaGxKUmFBOG5NRDRpeGNtMjJ2bkxoYmF5Z2NsRmY5Yk9xYXh3REI0RHNZU09xcXI4RmtoVnNpYkItNmlEVmNucTI4VnVHdTRVcGQ1STlHTWVF?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -1328,30 +1353,6 @@
         "meta": {
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-voluntary-carbon-credit-market-size-shar-2026-07-07",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - marketresearchfuture.com",
-        "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
-        "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
-        "publishedAt": "2026-07-07T07:00:00.000Z",
-        "image": "https://www.marketresearchfuture.com/uploads/infographics/voluntary-carbon-credit-market.webp?v=1787579715",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOW5DeXR6dXdqR09QVy1Vb285U1NKQUZPYkZOU0tfYnRZdXR3YjR0NmZuRjZubXNaaGxKUmFBOG5NRDRpeGNtMjJ2bkxoYmF5Z2NsRmY5Yk9xYXh3REI0RHNZU09xcXI4RmtoVnNpYkItNmlEVmNucTI4VnVHdTRVcGQ1STlHTWVF?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -1477,6 +1478,138 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-ai-costs-expected-to-rise-through-2027-2026-09-10",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "AI costs expected to rise through 2027",
+      "excerpt": "In a Deloitte survey, nearly two-thirds of respondents expect AI-related costs and operational complexity to rise in the new year. Many are still prioritizing the technology anyway.",
+      "url": "https://www.esgdive.com/news/ai-costs-expected-to-rise-through-2027/830062/",
+      "publishedAt": "2026-09-10T16:32:00.000Z",
+      "image": "https://imgproxy.divecdn.com/fAKFptFjXIO-luSxl8Fw-gA3E_QL3xNhLgmaHcrVbRU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY4Mzg4NzQ3LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-climeworks-doubles-co2-capture-performan-2026-09-10",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Climeworks Doubles CO2 Capture Performance at Iceland Carbon Removal Plant",
+      "excerpt": "Zurich-based Carbon removal solutions provider Climeworks announced a series of performance improvements at its “Mammoth” direct air capture (DAC) and storage facility in Iceland, including revealing technology upgrades that have more than doubled CO2 capture performance under real-world conditions, while cutting operating costs per ton in half. Founded in 2009 by Christoph Gebald and Jan Wurzbacher, Climeworks provides carbon removal solutions for companies, including its own DAC technology, with the company operating the world’s first two DAC plants,…",
+      "url": "https://www.esgtoday.com/climeworks-doubles-co2-capture-performance-at-iceland-carbon-removal-plant/?utm_source=rss utm_medium=rss utm_campaign=climeworks-doubles-co2-capture-performance-at-iceland-carbon-removal-plant",
+      "publishedAt": "2026-09-10T15:29:44.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Climeworks-Mammoth2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-twelve-secures-45-million-financing-for--2026-09-10",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Twelve Secures $45 Million Financing for CO2-Based Clean Fuels Plant",
+      "excerpt": "Carbon transformation-focused cleantech company Twelve announced that it has secured a credit facility of up to $45 million, with the financing used to refinance the construction facility for its new AirPlant One facility, and supporting additional expansion at the site. Founded in 2015, California-based Twelve produces chemicals, materials and fuels from captured CO2 combined with water. The process is powered by renewable energy and produces water and oxygen as byproducts. According to Twelve, its sustainable aviation fuel (SAF) has the potential to…",
+      "url": "https://www.esgtoday.com/twelve-secures-45-million-financing-for-co2-based-clean-fuels-plant/?utm_source=rss utm_medium=rss utm_campaign=twelve-secures-45-million-financing-for-co2-based-clean-fuels-plant",
+      "publishedAt": "2026-09-10T14:46:30.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Twelve-e-jet.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-google-signs-its-largest-ever-superpollu-2026-09-10",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Google Signs its Largest-Ever Superpollutant Carbon Credit Deal",
+      "excerpt": "Google announced today that it has signed a new agreement with startup Mitti Labs to purchase 1 million carbon credits over the next four years, to be generated from projects enabling over 70,000 smallholder farmers in India transition to practices reducing methane emissions from rice farming. According to the IPCC, superpollutants, which can include gases such as methane emitted from sources including agriculture and waste, are responsible for almost half of global warming to date, with elimination of these elements presenting one of the most powerful…",
+      "url": "https://www.esgtoday.com/google-signs-its-largest-ever-superpollutant-carbon-credit-deal/?utm_source=rss utm_medium=rss utm_campaign=google-signs-its-largest-ever-superpollutant-carbon-credit-deal",
+      "publishedAt": "2026-09-10T13:56:52.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Google4.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "india"
+    },
+    {
+      "id": "carbon-brief-guest-post-how-extreme-heat-is-creeping--2026-09-10",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Guest post: How extreme heat is ‘creeping’ from summer into autumn and spring",
+      "excerpt": "Extreme heat is one of the deadliest climate hazards , but no two heatwaves are the same. Heat extremes that happen outside of the peak summer months are often more dangerous because they can catch people off guard. Heatwaves that hit during the spring or the first heatwave of the summer are riskier because people’s bodies are not yet accustomed to the heat and cooling strategies, such as air conditioning or public cooling centres, might not be available. On the other hand, heatwaves that happen in the autumn, after a long summer season of heat…",
+      "url": "https://www.carbonbrief.org/guest-post-how-extreme-heat-is-creeping-from-summer-into-autumn-and-spring",
+      "publishedAt": "2026-09-10T13:00:00.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/Screenshot-2026-09-10-at-10.29.02-797x1024.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-whirlpool-procures-multi-technology-carb-2026-09-10",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Whirlpool Procures Multi-Technology Carbon Removal Portfolio",
+      "excerpt": "Climate solutions provider ClimeFi announced that it is working with home appliance manufacturer Whirlpool to secure a diversified portfolio of durable carbon removal, aimed at supporting Whirlpool s decarbonization targets. The portfolio spans four suppliers across four carbon removal pathways, including CREW Carbon in Marine CDR, Gevo in Biogenic Carbon Capture & Storage (Bio-CCS), InPlanet in Enhanced Weathering, and Liferaft in Biochar. The CREW Carbon, Gevo and Liferaft projects are located in the U.S., while InPlanet’s project is located in Brazil.",
+      "url": "https://www.esgtoday.com/whirlpool-procures-multi-technology-carbon-removal-portfolio/?utm_source=rss utm_medium=rss utm_campaign=whirlpool-procures-multi-technology-carbon-removal-portfolio",
+      "publishedAt": "2026-09-10T12:47:32.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Whirlpool3.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-eu-lawmakers-propose-tougher-fossil-fuel-2026-09-10",
       "source": "esg-today",
@@ -1676,72 +1809,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-sec-sues-proxy-advisor-iss-for-client-re-2026-09-09",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "SEC Sues Proxy Advisor ISS for Client, Recommendation and Voting Data in ESG Crackdown",
-      "excerpt": "The U.S. Securities and Exchange Commission (SEC) revealed that it has filed an enforcement action in a U.S. district court against proxy advisory firm Institutional Shareholder Services (ISS), seeking information about the firm’s voting recommendations to investors that it said ISS has refused to provide. The legal filing follows a series of actions by politicians in the U.S. targeting proxy advisory firms ISS and Glass Lewis over the past several months, including an executive order by President Trump in December directing several U.S. federal…",
-      "url": "https://www.esgtoday.com/sec-sues-proxy-advisor-iss-for-client-recommendation-and-voting-data-in-esg-crackdown/?utm_source=rss utm_medium=rss utm_campaign=sec-sues-proxy-advisor-iss-for-client-recommendation-and-voting-data-in-esg-crackdown",
-      "publishedAt": "2026-09-09T11:51:21.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/SEC4.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-m-g-investments-appoints-jen-braswell-as-2026-09-09",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "M G Investments Appoints Jen Braswell as Global Head of Impact for Private Markets",
-      "excerpt": "International investment manager M&G Investments announced the appointment of Jen Braswell as Global Head of Impact for its private markets business, a newly created role aimed at accelerating the growth of the investment manager’s impact investing platform. In her new role, Braswell will be responsible for enhancing collaboration and strengthening M&G Investments’ ability to originate, manage and scale impact investments for institutional investors. Working with the investment teams, she will drive product innovation and strategic partnerships, while…",
-      "url": "https://www.esgtoday.com/mg-investments-appoints-jen-braswell-as-global-head-of-impact-for-private-markets/?utm_source=rss utm_medium=rss utm_campaign=mg-investments-appoints-jen-braswell-as-global-head-of-impact-for-private-markets",
-      "publishedAt": "2026-09-09T09:41:28.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/MG-Braswell.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Executive Moves",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-agreena-signs-record-4-4-million-ton-sus-2026-09-09",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Agreena Signs Record 4.4 Million Ton Sustainable Farming-Based Carbon Removal Deal",
-      "excerpt": "Agriculture-focused carbon platform Agreena announced it has secured a seven-year agreement with one of the world’s largest commodity trading houses for the purchase of 4.45 million tonnes of carbon credits over seven years from a project focused on supporting farmers in transitioning to regenerative agriculture. The deal marks the largest publicly communicated agreement signed to date in agricultural carbon, and one of the longest-dated commitments made in a soil carbon project. Agreena highlighted the long-term nature of the agreement, noting that…",
-      "url": "https://www.esgtoday.com/agreena-signs-record-4-4-million-ton-sustainable-farming-based-carbon-removal-deal/?utm_source=rss utm_medium=rss utm_campaign=agreena-signs-record-4-4-million-ton-sustainable-farming-based-carbon-removal-deal",
-      "publishedAt": "2026-09-09T08:21:08.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Farming-Agreena.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-uk-recognises-india-s-carbon-credit-trad-2026-09-09",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -1856,28 +1923,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-sustainability-data-platform-tracera-app-2026-09-08",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Sustainability Data Platform Tracera Appoints Co-founder Sandeep Chand as New CEO",
-      "excerpt": "Sustainability data platform Tracera announced the appointment of co-founder Sandeep Chand as its new CEO, succeeding fellow co-founder Patrick Obeid in the role. Incubated at Bain & Company in 2022, New York-based Tracera – formerly called ESG Flo – provides solutions aimed at enabling companies to simplify ESG data collection, verification, and reporting, covering areas ranging from data collection, carbon accounting and regulatory compliance to advisory services and corporate reporting across frameworks including CSRD, IFRS/ISSB, CDP, and…",
-      "url": "https://www.esgtoday.com/sustainability-data-platform-tracera-appoints-co-founder-sandeep-chand-as-new-ceo/?utm_source=rss utm_medium=rss utm_campaign=sustainability-data-platform-tracera-appoints-co-founder-sandeep-chand-as-new-ceo",
-      "publishedAt": "2026-09-08T16:07:23.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Tracera-Chand.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-q-a-what-can-and-cannot-be-said-about-gl-2026-09-08",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -1929,10 +1974,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "BIMTECH and Institute of Actuaries of India Sign MoU to Launch Certification Programmes on Carbon Credits, Carbon Markets and Climate Finance - SolarQuarter",
-      "excerpt": "BIMTECH and Institute of Actuaries of India Sign MoU to Launch Certification Programmes on Carbon Credits, Carbon Markets and Climate Finance SolarQuarter",
+      "excerpt": "Birla Institute of Management Technology (BIMTECH), an AACSB-accredited business school in India, has signed a Memorandum of Understanding (MoU) with the Institute of Actuaries of India (IAI) to strengthen professional learning and develop capabilities in emerging areas of professional development. The MoU was signed by Dr. Pankaj Priya, Dean & Deputy Director, BIMTECH, and Dr. Ruchita Verma, Executive Director, IAI. The partnership will focus on combining BIMTECH s expertise in management education with IAI s capabilities in actuarial science and…",
       "url": "https://solarquarter.com/2026/09/08/bimtech-and-institute-of-actuaries-of-india-sign-mou-to-launch-certification-programmes-on-carbon-credits-carbon-markets-and-climate-finance/",
       "publishedAt": "2026-09-08T03:52:33.000Z",
-      "image": null,
+      "image": "https://solarquarter.com/wp-content/uploads/2026/09/Website-blog-banner-design-2026-09-08T091740.588.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -1940,7 +1985,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSmRNNlViT1VKdFRmWnFKay1wQkgtVkJXSldlc1l3MHdrUXNWc21xNU5fMHR0VFdpZDZuTWFHWDBzQWttSm5KUTBndzZkS0prYUMwM0lrbUE3VzlwYU9FSGtlZnh0dDVUbWZYUnRmc3FNWFp4ODBwRUdFM3ozSVNhcDNVb3FCM21Kejk3amZic0NfWERjc1VBM1ZqMkhvOVIwM2F6ZTNoNC1UZHZCVHR5R1ZUYkUyYmVoZmR2aVBjS1E2TV9hT2c4anl3REdwaEVYMW9GYUZDdmlEREh3NWFCM193SVJDTnAzVk03MHZxb080dDFpYmZaLVlFQTI5NTlsUVpVZWQ4aUc?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSmRNNlViT1VKdFRmWnFKay1wQkgtVkJXSldlc1l3MHdrUXNWc21xNU5fMHR0VFdpZDZuTWFHWDBzQWttSm5KUTBndzZkS0prYUMwM0lrbUE3VzlwYU9FSGtlZnh0dDVUbWZYUnRmc3FNWFp4ODBwRUdFM3ozSVNhcDNVb3FCM21Kejk3amZic0NfWERjc1VBM1ZqMkhvOVIwM2F6ZTNoNC1UZHZCVHR5R1ZUYkUyYmVoZmR2aVBjS1E2TV9hT2c4anl3REdwaEVYMW9GYUZDdmlEREh3NWFCM193SVJDTnAzVk03MHZxb080dDFpYmZaLVlFQTI5NTlsUVpVZWQ4aUc?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -2125,28 +2171,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-lowe-s-bofa-at-t-nvidia-more-launch-work-2026-09-03",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Lowe’s, BofA, AT&T, Nvidia, more launch workforce training initiative",
-      "excerpt": "Nearly 80 companies, vendors, workforce organizations and educational institutions have joined the coalition, which aims to train 1 million people for skilled trade careers by 2035.",
-      "url": "https://www.esgdive.com/news/lowes-bofa-att-nvidia-launch-building-futures-skilled-trades-workforce-training-initiative/829576/",
-      "publishedAt": "2026-09-03T16:32:00.000Z",
-      "image": "https://imgproxy.divecdn.com/gbaexIwvpC5wucMEM-ansqacm2TCG92FZcsVxM_1rD8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDg0Mjg2NzExLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-analysis-china-s-co2-emissions-fall-in-q-2026-09-02",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2259,28 +2283,6 @@
       "region": "world"
     },
     {
-      "id": "carbon-brief-climate-change-exposes-580-million-child-2026-08-26",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Climate change exposes 580 million children to 20 extra ‘heat-stress days’ every year",
-      "excerpt": "Share More than 40% of children under the age of 10 globally are already experiencing at least 20 additional “heat-stress days” due to climate change. This is according to a new attribution study, published in Science Advances , which combines climate models with demographic data to assess the age groups and regions that are exposed to the most hot, humid days. The study finds that children up to the age of nine already face more additional heat-stress days globally as a result of climate change than any other age group. It adds that south Asia,…",
-      "url": "https://www.carbonbrief.org/climate-change-exposes-580-million-children-to-20-extra-heat-stress-days-every-year",
-      "publishedAt": "2026-08-26T18:00:00.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/cited-banner_landing-copy.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-approves-artio-insurance-policy-fo-2026-08-25",
       "source": "verra",
       "sourceName": "Verra",
@@ -2346,6 +2348,30 @@
       "meta": {
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-carbon-voluntary-carbon-credit-market-size-shar-2026-08-24",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - marketresearchfuture.com",
+      "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
+      "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
+      "publishedAt": "2026-08-24T07:00:00.000Z",
+      "image": "https://www.marketresearchfuture.com/uploads/infographics/voluntary-carbon-credit-market.webp?v=1787579715",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOW5DeXR6dXdqR09QVy1Vb285U1NKQUZPYkZOU0tfYnRZdXR3YjR0NmZuRjZubXNaaGxKUmFBOG5NRDRpeGNtMjJ2bkxoYmF5Z2NsRmY5Yk9xYXh3REI0RHNZU09xcXI4RmtoVnNpYkItNmlEVmNucTI4VnVHdTRVcGQ1STlHTWVF?oc=5",
         "imageSource": "publisher"
       },
       "region": "world"
@@ -2448,7 +2474,7 @@
       "type": "esg",
       "tag": "CLIMATE",
       "accent": "#34d399",
-      "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - vajiramandravi.com",
+      "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
       "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
       "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
       "publishedAt": "2026-08-17T07:00:00.000Z",
@@ -2496,7 +2522,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India’s carbon market targets too weak to drive industrial transformation: Report - Down To Earth",
+      "title": "India’s carbon market targets too weak to drive industrial transformation: Report - downtoearth.org.in",
       "excerpt": "Published on : 29 Jul 2026, 8:48 am Copied Listen to this article Summary India’s proposed Carbon Credit Trading Scheme will not deliver transformational industrial decarbonisation, experts warn. New report shows far more ambitious emissions intensity targets needed. Current rules demand only 2–5% cuts by 2026-27 for steel, cement and aluminium. The scheme relies on low carbon prices and weak governance, excludes the power sector. India's proposed Carbon Credit Trading Scheme (CCTS) is unlikely to drive transformational change in industrial…",
       "url": "https://www.downtoearth.org.in/climate-change/indias-carbon-market-targets-too-weak-to-drive-industrial-transformation-report",
       "publishedAt": "2026-07-29T07:00:00.000Z",
@@ -2568,7 +2594,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "title": "The road ahead for India’s Carbon Credit Trading Scheme - ieefa.org",
       "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
       "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
       "publishedAt": "2026-07-14T07:00:00.000Z",
@@ -2608,30 +2634,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "google-carbon-voluntary-carbon-credit-market-size-shar-2026-07-07",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - marketresearchfuture.com",
-      "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
-      "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
-      "publishedAt": "2026-07-07T07:00:00.000Z",
-      "image": "https://www.marketresearchfuture.com/uploads/infographics/voluntary-carbon-credit-market.webp?v=1787579715",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOW5DeXR6dXdqR09QVy1Vb285U1NKQUZPYkZOU0tfYnRZdXR3YjR0NmZuRjZubXNaaGxKUmFBOG5NRDRpeGNtMjJ2bkxoYmF5Z2NsRmY5Yk9xYXh3REI0RHNZU09xcXI4RmtoVnNpYkItNmlEVmNucTI4VnVHdTRVcGQ1STlHTWVF?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
     },
     {
       "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-06-25",
@@ -2853,7 +2855,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
+      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - fuelcellsworks.com",
       "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
       "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
       "publishedAt": "2025-09-01T07:00:00.000Z",
