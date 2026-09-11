@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-09-11T12:06:47.800Z",
+  "fetchedAt": "2026-09-11T16:52:52.383Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,16 +45,38 @@
   ],
   "stats": {
     "total": 62,
-    "india": 17,
-    "world": 45,
-    "withImages": 56,
-    "avgExcerptLength": 466,
+    "india": 18,
+    "world": 44,
+    "withImages": 55,
+    "avgExcerptLength": 454,
     "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "esg-today-gsk-signs-500-000-tonne-carbon-removal-d-2026-09-11",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "GSK Signs 500,000-Tonne Carbon Removal Deal with Varaha",
+        "excerpt": "Global biopharma company GSK announced that it has signed an eight-year agreement in with carbon removal project developer Varaha, for the purchase of more than 500,000 carbon credits generated from a project expanding regenerative agriculture practices in northern India. The agreement was structured by nature-focused investment platform Earthly. Founded in India in 2022, Varaha specializes in nature-based solutions, with a focus on working with smallholder farmers to help remove carbon from the atmosphere at a planetary scale, and a mission to…",
+        "url": "https://www.esgtoday.com/gsk-signs-500000-tonne-carbon-removal-deal-with-varaha/?utm_source=rss utm_medium=rss utm_campaign=gsk-signs-500000-tonne-carbon-removal-deal-with-varaha",
+        "publishedAt": "2026-09-11T13:39:04.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/GSK2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "india"
+      },
       {
         "id": "esg-today-google-signs-its-largest-ever-superpollu-2026-09-10",
         "source": "esg-today",
@@ -84,7 +106,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "UK Recognises India’s Carbon Credit Trading Scheme For CBAM Relief, Easing Potential Tax Burden On Exporters - Swarajyamag",
+        "title": "UK Recognises India’s Carbon Credit Trading Scheme For CBAM Relief, Easing Potential Tax Burden On Exporters - Swarajya",
         "excerpt": "Subscribe Close Sidebar States Politics Economy Business Culture Infra Defence World Books Ideas Science Technology Heritage Archives News Brief Subscribe Sign In Our Views Magazine Headlines Store ★ PRO New --> News Brief Sep 09, 2026 | Updated 10:08 AM GMT+5:30 Bookmark stories for easy access on any device or the Swarajya app . Prefer Prefer Buying and selling of carbon credits is seen as an important way to combat climate change. The UK has recognised India’s Carbon Credit Trading Scheme (CCTS) as an eligible carbon pricing mechanism under its…",
         "url": "https://swarajyamag.com/news-brief/uk-recognises-indias-carbon-credit-trading-scheme-for-cbam-relief-easing-potential-tax-burden-on-exporters",
         "publishedAt": "2026-09-09T04:38:51.000Z",
@@ -133,10 +155,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "BIMTECH and Institute of Actuaries of India Sign MoU to Launch Certification Programmes on Carbon Credits, Carbon Markets and Climate Finance - SolarQuarter",
-        "excerpt": "Birla Institute of Management Technology (BIMTECH), an AACSB-accredited business school in India, has signed a Memorandum of Understanding (MoU) with the Institute of Actuaries of India (IAI) to strengthen professional learning and develop capabilities in emerging areas of professional development. The MoU was signed by Dr. Pankaj Priya, Dean & Deputy Director, BIMTECH, and Dr. Ruchita Verma, Executive Director, IAI. The partnership will focus on combining BIMTECH s expertise in management education with IAI s capabilities in actuarial science and…",
+        "excerpt": "BIMTECH and Institute of Actuaries of India Sign MoU to Launch Certification Programmes on Carbon Credits, Carbon Markets and Climate Finance SolarQuarter",
         "url": "https://solarquarter.com/2026/09/08/bimtech-and-institute-of-actuaries-of-india-sign-mou-to-launch-certification-programmes-on-carbon-credits-carbon-markets-and-climate-finance/",
         "publishedAt": "2026-09-08T03:52:33.000Z",
-        "image": "https://solarquarter.com/wp-content/uploads/2026/09/Website-blog-banner-design-2026-09-08T091740.588.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -144,8 +166,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSmRNNlViT1VKdFRmWnFKay1wQkgtVkJXSldlc1l3MHdrUXNWc21xNU5fMHR0VFdpZDZuTWFHWDBzQWttSm5KUTBndzZkS0prYUMwM0lrbUE3VzlwYU9FSGtlZnh0dDVUbWZYUnRmc3FNWFp4ODBwRUdFM3ozSVNhcDNVb3FCM21Kejk3amZic0NfWERjc1VBM1ZqMkhvOVIwM2F6ZTNoNC1UZHZCVHR5R1ZUYkUyYmVoZmR2aVBjS1E2TV9hT2c4anl3REdwaEVYMW9GYUZDdmlEREh3NWFCM193SVJDTnAzVk03MHZxb080dDFpYmZaLVlFQTI5NTlsUVpVZWQ4aUc?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSmRNNlViT1VKdFRmWnFKay1wQkgtVkJXSldlc1l3MHdrUXNWc21xNU5fMHR0VFdpZDZuTWFHWDBzQWttSm5KUTBndzZkS0prYUMwM0lrbUE3VzlwYU9FSGtlZnh0dDVUbWZYUnRmc3FNWFp4ODBwRUdFM3ozSVNhcDNVb3FCM21Kejk3amZic0NfWERjc1VBM1ZqMkhvOVIwM2F6ZTNoNC1UZHZCVHR5R1ZUYkUyYmVoZmR2aVBjS1E2TV9hT2c4anl3REdwaEVYMW9GYUZDdmlEREh3NWFCM193SVJDTnAzVk03MHZxb080dDFpYmZaLVlFQTI5NTlsUVpVZWQ4aUc?oc=5"
         },
         "region": "india"
       },
@@ -180,7 +201,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India’s carbon market sets weak emissions targets, analysis finds - Mongabay India",
+        "title": "India’s carbon market sets weak emissions targets, analysis finds - india.mongabay.com",
         "excerpt": "A critical evaluation of emissions reduction targets set under the country’s carbon market framework has deemed the targets “modest and unambitious” — unlikely to drive changes in operations that would reduce emissions substantially. Between October 2025 and January 2026 India notified greenhouse gas reduction targets for nine industries. Under the framework, industries can earn carbon credits if they surpass these reduction targets, with each credit signifying an additional tonne of carbon dioxide equivalent reduced per unit of production (emissions…",
         "url": "https://india.mongabay.com/2026/07/indias-carbon-market-sets-weak-emissions-targets-analysis-finds/",
         "publishedAt": "2026-07-31T07:00:00.000Z",
@@ -204,7 +225,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India’s carbon market targets too weak to drive industrial transformation: Report - Down To Earth",
+        "title": "India’s carbon market targets too weak to drive industrial transformation: Report - downtoearth.org.in",
         "excerpt": "Published on : 29 Jul 2026, 8:48 am Copied Listen to this article Summary India’s proposed Carbon Credit Trading Scheme will not deliver transformational industrial decarbonisation, experts warn. New report shows far more ambitious emissions intensity targets needed. Current rules demand only 2–5% cuts by 2026-27 for steel, cement and aluminium. The scheme relies on low carbon prices and weak governance, excludes the power sector. India's proposed Carbon Credit Trading Scheme (CCTS) is unlikely to drive transformational change in industrial…",
         "url": "https://www.downtoearth.org.in/climate-change/indias-carbon-market-targets-too-weak-to-drive-industrial-transformation-report",
         "publishedAt": "2026-07-29T07:00:00.000Z",
@@ -276,7 +297,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "The road ahead for India’s Carbon Credit Trading Scheme - ieefa.org",
+        "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
         "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
         "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
         "publishedAt": "2026-07-14T07:00:00.000Z",
@@ -318,25 +339,25 @@
         "region": "india"
       },
       {
-        "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
+        "id": "google-india-india-cgep-2026-06-17",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Agriculture, Carbon Accounting and Climate Justice Debate - Frontline Magazine",
-        "excerpt": "Published : Jun 18, 2026 13:01 IST - 10 MINS READ If farmers are compensated for the climate services they already provide, they gain both the resources and the incentive to do more. In this file picture, a farmer examines his wheat crop in a field on the outskirts of Amritsar. | Photo Credit: NARINDER NANU/AFP The Intergovernmental Panel on Climate Change Sixth Assessment Report (IPCC-AR6) stresses the need for climate policies to prioritise carbon dioxide (CO₂) removal (CDR) processes. International agencies have, in parallel, increasingly recognised…",
-        "url": "https://frontline.thehindu.com/environment/climate-accounting-agriculture-carbon-sink/article71116675.ece",
-        "publishedAt": "2026-06-18T07:00:00.000Z",
-        "image": "https://fl-i.thgim.com/public/incoming/y7mxy6/article71116853.ece/alternates/LANDSCAPE_1200/indian%20farmers%20green%20house%20gas%20emission.jpg",
-        "country": null,
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India - CGEP",
+        "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
+        "url": "https://www.energypolicy.columbia.edu/publications/india/",
+        "publishedAt": "2026-06-17T07:00:00.000Z",
+        "image": "https://www.energypolicy.columbia.edu/wp-content/uploads/2026/06/India.jpg",
+        "country": "India",
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -372,8 +393,8 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s Green Hydrogen Ambition - MillenniumPost",
-        "excerpt": "India’s Green Hydrogen Ambition MillenniumPost",
+        "title": "India’s Green Hydrogen Ambition - millenniumpost.in",
+        "excerpt": "India’s Green Hydrogen Ambition millenniumpost.in",
         "url": "https://www.millenniumpost.in/opinion/indias-green-hydrogen-ambition-645091",
         "publishedAt": "2026-01-21T08:00:00.000Z",
         "image": null,
@@ -395,7 +416,7 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s green hydrogen policy wrap 2025 - powerpeakdigest.com",
+        "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
         "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
@@ -462,6 +483,50 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-is-conceding-to-the-trump-administration-2026-09-11",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Is conceding to the Trump administration on DEI a recipe for business success?",
+        "excerpt": "A UC Berkeley professor spearheaded research that determined S P 500 companies that stuck with DEI outperformed their peers. Here s his advice.",
+        "url": "https://www.esgdive.com/news/companies-stick-with-dei-perform-better-report/830072/",
+        "publishedAt": "2026-09-11T16:00:00.000Z",
+        "image": "https://imgproxy.divecdn.com/P_YqNmepBEBktsXGDhglXxkjtRnxT3oEFS1s-GaEvH4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ5NjI2MzgzXzEuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-el-ni-o-indonesia-fire-emissions-in-2026-2026-09-11",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century",
+        "excerpt": "Share Wildfires currently burning large swathes of land in Indonesia are on track to produce emissions on a par with the country’s most-intense fire season this century, according to experts. Data from the Global Fire Emissions Database reveals that, as of 7 September, fires in Indonesia produced 76m tonnes of carbon (MtC) in 2026. This puts 2026 on the same trajectory as 2015 , when fires burned 2.6m hectares of land across the country and generated a total of 333MtC. Dr Guido van der Werf , a researcher at Wageningen University in the Netherlands,…",
+        "url": "https://www.carbonbrief.org/el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century",
+        "publishedAt": "2026-09-11T14:06:49.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/span-stylefont-size0-7-1024x600.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "carbon-brief-factcheck-reform-uk-s-45-false-or-mislea-2026-09-11",
         "source": "carbon-brief",
@@ -815,28 +880,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-google-backs-its-biggest-ever-investment-2026-09-09",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Google Backs its Biggest-Ever Investment in Europe with Series of Clean Energy Deals",
-        "excerpt": "Google announced that it has signed a series of clean energy deals, ranging from nuclear and onshore wind to battery and grid optimization, as part of its new plans to invest €13 billion in digital infrastructure in Finland over the next two years, its largest single investment in to date in Europe. Google has significantly accelerated its clean energy purchase activity in recent years as its datacenter buildout footprint has expanded. The company’s recent Environmental Report indicated its largest ever annual increase in electricity demand, rising 37%…",
-        "url": "https://www.esgtoday.com/google-signs-nuclear-renewables-deals-to-power-new-e13-billion-digital-infrastructure-investment-in-finland/?utm_source=rss utm_medium=rss utm_campaign=google-signs-nuclear-renewables-deals-to-power-new-e13-billion-digital-infrastructure-investment-in-finland",
-        "publishedAt": "2026-09-09T13:56:43.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Google6-1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-federal-judge-blocks-new-york-s-75b-clim-2026-09-08",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -992,28 +1035,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-google-fervo-geothermal-deal-underscores-2026-09-04",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Google-Fervo geothermal deal underscores baseload power scarcity, analysts say",
-        "excerpt": "Key risks remain, however, including first-of-a-kind execution, interconnection bottlenecks, capital intensity and competing technology paths, according to a research note from financial services company William Blair.",
-        "url": "https://www.esgdive.com/news/analysts-say-fervo-google-geothermal-deal-underscores-baseload-power-scarci/829669/",
-        "publishedAt": "2026-09-04T16:14:00.000Z",
-        "image": "https://imgproxy.divecdn.com/vovqRoLyyKJpeY7qcrsjTHRlLDfWoQJqNFA2seWSybY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYXBlLXN0YXRpb24tYmVhdmVyLWNvdW50eS5qcGc=.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-analysis-uk-solar-power-hits-record-high-2026-09-04",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1101,28 +1122,6 @@
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLYi1mdW5OcVA3MUl2b1A4VXFsSXlNN1ZiN1JDeEFQSkE1eWEySHNfNXM5TTNuaW14VWtoeHo4U0tJMDJTYVFzM1lJTXNvSVF2MDdPb3ZiR3JHODdlTTdqTzF2U3pKSzR0b2RzRHlB?oc=5",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-analysis-china-s-co2-emissions-fall-in-q-2026-09-02",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Analysis: China’s CO2 emissions fall in Q2 2026 due to plummeting oil use",
-        "excerpt": "Share China’s carbon dioxide (CO2) emissions fell by 1% in the second quarter of 2026, as oil consumption plummeted amid the strait of Hormuz crisis . Lauri Myllyvirta, lead analyst at the Centre for Research on Energy and Clean Air The country’s use of oil fell by 9% overall and by 16% for transport, after the disruptions to supply from the Gulf through the strait. China’s total CO2 emissions fell despite a continued rebound in coal-fired power generation. This is the first time that reductions in oil consumption have been responsible for a fall in CO2…",
-        "url": "https://www.carbonbrief.org/analysis-chinas-co2-emissions-fall-in-q2-2026-due-to-plummeting-oil-use",
-        "publishedAt": "2026-09-02T23:01:00.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/china-06.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -1478,6 +1477,72 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-is-conceding-to-the-trump-administration-2026-09-11",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Is conceding to the Trump administration on DEI a recipe for business success?",
+      "excerpt": "A UC Berkeley professor spearheaded research that determined S P 500 companies that stuck with DEI outperformed their peers. Here s his advice.",
+      "url": "https://www.esgdive.com/news/companies-stick-with-dei-perform-better-report/830072/",
+      "publishedAt": "2026-09-11T16:00:00.000Z",
+      "image": "https://imgproxy.divecdn.com/P_YqNmepBEBktsXGDhglXxkjtRnxT3oEFS1s-GaEvH4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ5NjI2MzgzXzEuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-el-ni-o-indonesia-fire-emissions-in-2026-2026-09-11",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century",
+      "excerpt": "Share Wildfires currently burning large swathes of land in Indonesia are on track to produce emissions on a par with the country’s most-intense fire season this century, according to experts. Data from the Global Fire Emissions Database reveals that, as of 7 September, fires in Indonesia produced 76m tonnes of carbon (MtC) in 2026. This puts 2026 on the same trajectory as 2015 , when fires burned 2.6m hectares of land across the country and generated a total of 333MtC. Dr Guido van der Werf , a researcher at Wageningen University in the Netherlands,…",
+      "url": "https://www.carbonbrief.org/el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century",
+      "publishedAt": "2026-09-11T14:06:49.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/span-stylefont-size0-7-1024x600.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-gsk-signs-500-000-tonne-carbon-removal-d-2026-09-11",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "GSK Signs 500,000-Tonne Carbon Removal Deal with Varaha",
+      "excerpt": "Global biopharma company GSK announced that it has signed an eight-year agreement in with carbon removal project developer Varaha, for the purchase of more than 500,000 carbon credits generated from a project expanding regenerative agriculture practices in northern India. The agreement was structured by nature-focused investment platform Earthly. Founded in India in 2022, Varaha specializes in nature-based solutions, with a focus on working with smallholder farmers to help remove carbon from the atmosphere at a planetary scale, and a mission to…",
+      "url": "https://www.esgtoday.com/gsk-signs-500000-tonne-carbon-removal-deal-with-varaha/?utm_source=rss utm_medium=rss utm_campaign=gsk-signs-500000-tonne-carbon-removal-deal-with-varaha",
+      "publishedAt": "2026-09-11T13:39:04.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/GSK2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "india"
+    },
     {
       "id": "carbon-brief-factcheck-reform-uk-s-45-false-or-mislea-2026-09-11",
       "source": "carbon-brief",
@@ -1853,35 +1918,13 @@
       "region": "world"
     },
     {
-      "id": "esg-today-google-backs-its-biggest-ever-investment-2026-09-09",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Google Backs its Biggest-Ever Investment in Europe with Series of Clean Energy Deals",
-      "excerpt": "Google announced that it has signed a series of clean energy deals, ranging from nuclear and onshore wind to battery and grid optimization, as part of its new plans to invest €13 billion in digital infrastructure in Finland over the next two years, its largest single investment in to date in Europe. Google has significantly accelerated its clean energy purchase activity in recent years as its datacenter buildout footprint has expanded. The company’s recent Environmental Report indicated its largest ever annual increase in electricity demand, rising 37%…",
-      "url": "https://www.esgtoday.com/google-signs-nuclear-renewables-deals-to-power-new-e13-billion-digital-infrastructure-investment-in-finland/?utm_source=rss utm_medium=rss utm_campaign=google-signs-nuclear-renewables-deals-to-power-new-e13-billion-digital-infrastructure-investment-in-finland",
-      "publishedAt": "2026-09-09T13:56:43.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Google6-1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-uk-recognises-india-s-carbon-credit-trad-2026-09-09",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "UK Recognises India’s Carbon Credit Trading Scheme For CBAM Relief, Easing Potential Tax Burden On Exporters - Swarajyamag",
+      "title": "UK Recognises India’s Carbon Credit Trading Scheme For CBAM Relief, Easing Potential Tax Burden On Exporters - Swarajya",
       "excerpt": "Subscribe Close Sidebar States Politics Economy Business Culture Infra Defence World Books Ideas Science Technology Heritage Archives News Brief Subscribe Sign In Our Views Magazine Headlines Store ★ PRO New --> News Brief Sep 09, 2026 | Updated 10:08 AM GMT+5:30 Bookmark stories for easy access on any device or the Swarajya app . Prefer Prefer Buying and selling of carbon credits is seen as an important way to combat climate change. The UK has recognised India’s Carbon Credit Trading Scheme (CCTS) as an eligible carbon pricing mechanism under its…",
       "url": "https://swarajyamag.com/news-brief/uk-recognises-indias-carbon-credit-trading-scheme-for-cbam-relief-easing-potential-tax-burden-on-exporters",
       "publishedAt": "2026-09-09T04:38:51.000Z",
@@ -2040,10 +2083,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "BIMTECH and Institute of Actuaries of India Sign MoU to Launch Certification Programmes on Carbon Credits, Carbon Markets and Climate Finance - SolarQuarter",
-      "excerpt": "Birla Institute of Management Technology (BIMTECH), an AACSB-accredited business school in India, has signed a Memorandum of Understanding (MoU) with the Institute of Actuaries of India (IAI) to strengthen professional learning and develop capabilities in emerging areas of professional development. The MoU was signed by Dr. Pankaj Priya, Dean & Deputy Director, BIMTECH, and Dr. Ruchita Verma, Executive Director, IAI. The partnership will focus on combining BIMTECH s expertise in management education with IAI s capabilities in actuarial science and…",
+      "excerpt": "BIMTECH and Institute of Actuaries of India Sign MoU to Launch Certification Programmes on Carbon Credits, Carbon Markets and Climate Finance SolarQuarter",
       "url": "https://solarquarter.com/2026/09/08/bimtech-and-institute-of-actuaries-of-india-sign-mou-to-launch-certification-programmes-on-carbon-credits-carbon-markets-and-climate-finance/",
       "publishedAt": "2026-09-08T03:52:33.000Z",
-      "image": "https://solarquarter.com/wp-content/uploads/2026/09/Website-blog-banner-design-2026-09-08T091740.588.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2051,8 +2094,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSmRNNlViT1VKdFRmWnFKay1wQkgtVkJXSldlc1l3MHdrUXNWc21xNU5fMHR0VFdpZDZuTWFHWDBzQWttSm5KUTBndzZkS0prYUMwM0lrbUE3VzlwYU9FSGtlZnh0dDVUbWZYUnRmc3FNWFp4ODBwRUdFM3ozSVNhcDNVb3FCM21Kejk3amZic0NfWERjc1VBM1ZqMkhvOVIwM2F6ZTNoNC1UZHZCVHR5R1ZUYkUyYmVoZmR2aVBjS1E2TV9hT2c4anl3REdwaEVYMW9GYUZDdmlEREh3NWFCM193SVJDTnAzVk03MHZxb080dDFpYmZaLVlFQTI5NTlsUVpVZWQ4aUc?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSmRNNlViT1VKdFRmWnFKay1wQkgtVkJXSldlc1l3MHdrUXNWc21xNU5fMHR0VFdpZDZuTWFHWDBzQWttSm5KUTBndzZkS0prYUMwM0lrbUE3VzlwYU9FSGtlZnh0dDVUbWZYUnRmc3FNWFp4ODBwRUdFM3ozSVNhcDNVb3FCM21Kejk3amZic0NfWERjc1VBM1ZqMkhvOVIwM2F6ZTNoNC1UZHZCVHR5R1ZUYkUyYmVoZmR2aVBjS1E2TV9hT2c4anl3REdwaEVYMW9GYUZDdmlEREh3NWFCM193SVJDTnAzVk03MHZxb080dDFpYmZaLVlFQTI5NTlsUVpVZWQ4aUc?oc=5"
       },
       "region": "india"
     },
@@ -2091,28 +2133,6 @@
       "url": "https://www.esgdive.com/news/microsoft-inks-long-term-ppa-for-washington-solar-project/829707/",
       "publishedAt": "2026-09-04T16:38:00.000Z",
       "image": "https://imgproxy.divecdn.com/rOLf8QLw4Zfsxlkg69ogvI_Pei00jQSrWyC1Il2bEsA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00NTIyOTI2NzIuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-google-fervo-geothermal-deal-underscores-2026-09-04",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Google-Fervo geothermal deal underscores baseload power scarcity, analysts say",
-      "excerpt": "Key risks remain, however, including first-of-a-kind execution, interconnection bottlenecks, capital intensity and competing technology paths, according to a research note from financial services company William Blair.",
-      "url": "https://www.esgdive.com/news/analysts-say-fervo-google-geothermal-deal-underscores-baseload-power-scarci/829669/",
-      "publishedAt": "2026-09-04T16:14:00.000Z",
-      "image": "https://imgproxy.divecdn.com/vovqRoLyyKJpeY7qcrsjTHRlLDfWoQJqNFA2seWSybY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYXBlLXN0YXRpb24tYmVhdmVyLWNvdW50eS5qcGc=.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2211,28 +2231,6 @@
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLYi1mdW5OcVA3MUl2b1A4VXFsSXlNN1ZiN1JDeEFQSkE1eWEySHNfNXM5TTNuaW14VWtoeHo4U0tJMDJTYVFzM1lJTXNvSVF2MDdPb3ZiR3JHODdlTTdqTzF2U3pKSzR0b2RzRHlB?oc=5",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-analysis-china-s-co2-emissions-fall-in-q-2026-09-02",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Analysis: China’s CO2 emissions fall in Q2 2026 due to plummeting oil use",
-      "excerpt": "Share China’s carbon dioxide (CO2) emissions fell by 1% in the second quarter of 2026, as oil consumption plummeted amid the strait of Hormuz crisis . Lauri Myllyvirta, lead analyst at the Centre for Research on Energy and Clean Air The country’s use of oil fell by 9% overall and by 16% for transport, after the disruptions to supply from the Gulf through the strait. China’s total CO2 emissions fell despite a continued rebound in coal-fired power generation. This is the first time that reductions in oil consumption have been responsible for a fall in CO2…",
-      "url": "https://www.carbonbrief.org/analysis-chinas-co2-emissions-fall-in-q2-2026-due-to-plummeting-oil-use",
-      "publishedAt": "2026-09-02T23:01:00.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/china-06.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
     },
@@ -2498,7 +2496,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India’s carbon market sets weak emissions targets, analysis finds - Mongabay India",
+      "title": "India’s carbon market sets weak emissions targets, analysis finds - india.mongabay.com",
       "excerpt": "A critical evaluation of emissions reduction targets set under the country’s carbon market framework has deemed the targets “modest and unambitious” — unlikely to drive changes in operations that would reduce emissions substantially. Between October 2025 and January 2026 India notified greenhouse gas reduction targets for nine industries. Under the framework, industries can earn carbon credits if they surpass these reduction targets, with each credit signifying an additional tonne of carbon dioxide equivalent reduced per unit of production (emissions…",
       "url": "https://india.mongabay.com/2026/07/indias-carbon-market-sets-weak-emissions-targets-analysis-finds/",
       "publishedAt": "2026-07-31T07:00:00.000Z",
@@ -2522,7 +2520,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India’s carbon market targets too weak to drive industrial transformation: Report - Down To Earth",
+      "title": "India’s carbon market targets too weak to drive industrial transformation: Report - downtoearth.org.in",
       "excerpt": "Published on : 29 Jul 2026, 8:48 am Copied Listen to this article Summary India’s proposed Carbon Credit Trading Scheme will not deliver transformational industrial decarbonisation, experts warn. New report shows far more ambitious emissions intensity targets needed. Current rules demand only 2–5% cuts by 2026-27 for steel, cement and aluminium. The scheme relies on low carbon prices and weak governance, excludes the power sector. India's proposed Carbon Credit Trading Scheme (CCTS) is unlikely to drive transformational change in industrial…",
       "url": "https://www.downtoearth.org.in/climate-change/indias-carbon-market-targets-too-weak-to-drive-industrial-transformation-report",
       "publishedAt": "2026-07-29T07:00:00.000Z",
@@ -2594,7 +2592,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "The road ahead for India’s Carbon Credit Trading Scheme - ieefa.org",
+      "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
       "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
       "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
       "publishedAt": "2026-07-14T07:00:00.000Z",
@@ -2660,25 +2658,25 @@
       "region": "world"
     },
     {
-      "id": "google-india-agriculture-carbon-accounting-and-climat-2026-06-18",
+      "id": "google-india-india-cgep-2026-06-17",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Agriculture, Carbon Accounting and Climate Justice Debate - Frontline Magazine",
-      "excerpt": "Published : Jun 18, 2026 13:01 IST - 10 MINS READ If farmers are compensated for the climate services they already provide, they gain both the resources and the incentive to do more. In this file picture, a farmer examines his wheat crop in a field on the outskirts of Amritsar. | Photo Credit: NARINDER NANU/AFP The Intergovernmental Panel on Climate Change Sixth Assessment Report (IPCC-AR6) stresses the need for climate policies to prioritise carbon dioxide (CO₂) removal (CDR) processes. International agencies have, in parallel, increasingly recognised…",
-      "url": "https://frontline.thehindu.com/environment/climate-accounting-agriculture-carbon-sink/article71116675.ece",
-      "publishedAt": "2026-06-18T07:00:00.000Z",
-      "image": "https://fl-i.thgim.com/public/incoming/y7mxy6/article71116853.ece/alternates/LANDSCAPE_1200/indian%20farmers%20green%20house%20gas%20emission.jpg",
-      "country": null,
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India - CGEP",
+      "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
+      "url": "https://www.energypolicy.columbia.edu/publications/india/",
+      "publishedAt": "2026-06-17T07:00:00.000Z",
+      "image": "https://www.energypolicy.columbia.edu/wp-content/uploads/2026/06/India.jpg",
+      "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2762,8 +2760,8 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s Green Hydrogen Ambition - MillenniumPost",
-      "excerpt": "India’s Green Hydrogen Ambition MillenniumPost",
+      "title": "India’s Green Hydrogen Ambition - millenniumpost.in",
+      "excerpt": "India’s Green Hydrogen Ambition millenniumpost.in",
       "url": "https://www.millenniumpost.in/opinion/indias-green-hydrogen-ambition-645091",
       "publishedAt": "2026-01-21T08:00:00.000Z",
       "image": null,
@@ -2785,7 +2783,7 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s green hydrogen policy wrap 2025 - powerpeakdigest.com",
+      "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
       "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
