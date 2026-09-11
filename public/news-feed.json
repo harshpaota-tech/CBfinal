@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-09-10T21:21:16.849Z",
+  "fetchedAt": "2026-09-11T05:32:21.123Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 17,
     "world": 45,
     "withImages": 56,
-    "avgExcerptLength": 462,
+    "avgExcerptLength": 466,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -150,13 +150,37 @@
         "region": "india"
       },
       {
+        "id": "google-india-article-6-of-the-paris-agreement-climate-2026-08-17",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
+        "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
+        "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
+        "publishedAt": "2026-08-17T07:00:00.000Z",
+        "image": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/07/Article-6-of-the-Paris-Agreement.webp?v=1784286245",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzAyMk9nMlh4QjdIS1hDczM4S1NPY2JrQU54dFFsZENLZTNtUUdCQzF0QmVsNXVZck5WYi1ZaWdLaDJOWU80QkdocERNZHpWWlVXRFBzMzFfWXhoU2ZVOHNxUlRGZWpXeFRPU2NvN2F0WG1CVWI3cmc1YnNQZml3RDVn?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-india-india-s-carbon-market-sets-weak-emission-2026-07-31",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India’s carbon market sets weak emissions targets, analysis finds - Mongabay India",
+        "title": "India’s carbon market sets weak emissions targets, analysis finds - india.mongabay.com",
         "excerpt": "A critical evaluation of emissions reduction targets set under the country’s carbon market framework has deemed the targets “modest and unambitious” — unlikely to drive changes in operations that would reduce emissions substantially. Between October 2025 and January 2026 India notified greenhouse gas reduction targets for nine industries. Under the framework, industries can earn carbon credits if they surpass these reduction targets, with each credit signifying an additional tonne of carbon dioxide equivalent reduced per unit of production (emissions…",
         "url": "https://india.mongabay.com/2026/07/indias-carbon-market-sets-weak-emissions-targets-analysis-finds/",
         "publishedAt": "2026-07-31T07:00:00.000Z",
@@ -318,30 +342,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-cgep-2026-06-17",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India - CGEP",
-        "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
-        "url": "https://www.energypolicy.columbia.edu/publications/india/",
-        "publishedAt": "2026-06-17T07:00:00.000Z",
-        "image": "https://www.energypolicy.columbia.edu/wp-content/uploads/2026/06/India.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -395,7 +395,7 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s green hydrogen policy wrap 2025 - powerpeakdigest.com",
+        "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
         "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
@@ -1364,7 +1364,7 @@
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
+        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
         "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
         "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
         "publishedAt": "2026-06-25T17:05:08.000Z",
@@ -2468,13 +2468,37 @@
       "region": "world"
     },
     {
+      "id": "google-india-article-6-of-the-paris-agreement-climate-2026-08-17",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
+      "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
+      "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "image": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/07/Article-6-of-the-Paris-Agreement.webp?v=1784286245",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzAyMk9nMlh4QjdIS1hDczM4S1NPY2JrQU54dFFsZENLZTNtUUdCQzF0QmVsNXVZck5WYi1ZaWdLaDJOWU80QkdocERNZHpWWlVXRFBzMzFfWXhoU2ZVOHNxUlRGZWpXeFRPU2NvN2F0WG1CVWI3cmc1YnNQZml3RDVn?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-india-india-s-carbon-market-sets-weak-emission-2026-07-31",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India’s carbon market sets weak emissions targets, analysis finds - Mongabay India",
+      "title": "India’s carbon market sets weak emissions targets, analysis finds - india.mongabay.com",
       "excerpt": "A critical evaluation of emissions reduction targets set under the country’s carbon market framework has deemed the targets “modest and unambitious” — unlikely to drive changes in operations that would reduce emissions substantially. Between October 2025 and January 2026 India notified greenhouse gas reduction targets for nine industries. Under the framework, industries can earn carbon credits if they surpass these reduction targets, with each credit signifying an additional tonne of carbon dioxide equivalent reduced per unit of production (emissions…",
       "url": "https://india.mongabay.com/2026/07/indias-carbon-market-sets-weak-emissions-targets-analysis-finds/",
       "publishedAt": "2026-07-31T07:00:00.000Z",
@@ -2618,7 +2642,7 @@
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
+      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
       "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
       "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
       "publishedAt": "2026-06-25T17:05:08.000Z",
@@ -2655,30 +2679,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-india-cgep-2026-06-17",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India - CGEP",
-      "excerpt": "This website uses cookies as well as similar tools and technologies to understand visitors experiences. By continuing to use this website, you consent to Columbia University s usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice.",
-      "url": "https://www.energypolicy.columbia.edu/publications/india/",
-      "publishedAt": "2026-06-17T07:00:00.000Z",
-      "image": "https://www.energypolicy.columbia.edu/wp-content/uploads/2026/06/India.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEdzRtTVVjWWtIVW9hUDdRa2VTMmY4Vkk0V0NkVjFob2xRQlJKbFVHczBmdlBTRURPd29NSVNGNWY1TW5LVnFFbS1ZaTdIZ2lXMnR2V2Y0ZjJWN3prSnpiekJ1RTRfR0RJ?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2785,7 +2785,7 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s green hydrogen policy wrap 2025 - powerpeakdigest.com",
+      "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
       "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
