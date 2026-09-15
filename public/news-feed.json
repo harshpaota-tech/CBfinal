@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-09-15T12:33:22.532Z",
+  "fetchedAt": "2026-09-15T17:27:24.176Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 62,
-    "india": 18,
-    "world": 44,
+    "india": 17,
+    "world": 45,
     "withImages": 56,
-    "avgExcerptLength": 462,
+    "avgExcerptLength": 453,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -102,28 +102,6 @@
         "region": "india"
       },
       {
-        "id": "esg-today-gsk-signs-500-000-tonne-carbon-removal-d-2026-09-11",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "GSK Signs 500,000-Tonne Carbon Removal Deal with Varaha",
-        "excerpt": "Global biopharma company GSK announced that it has signed an eight-year agreement in with carbon removal project developer Varaha, for the purchase of more than 500,000 carbon credits generated from a project expanding regenerative agriculture practices in northern India. The agreement was structured by nature-focused investment platform Earthly. Founded in India in 2022, Varaha specializes in nature-based solutions, with a focus on working with smallholder farmers to help remove carbon from the atmosphere at a planetary scale, and a mission to…",
-        "url": "https://www.esgtoday.com/gsk-signs-500000-tonne-carbon-removal-deal-with-varaha/?utm_source=rss utm_medium=rss utm_campaign=gsk-signs-500000-tonne-carbon-removal-deal-with-varaha",
-        "publishedAt": "2026-09-11T13:39:04.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/GSK2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-india-s-carbon-credit-trading-scheme-cct-2026-09-09",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -143,30 +121,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53TFVmV0V2VVNzanA0SGFaeDkxQ0NpOGs5TU41SWYxcGd5NV9FS1JJYkQtQlFOVjdMZUZ0TWxuVEJTOWZXMGYwbkJXLUJLM2RwcHV4cWZ2WEFqdmRJb0N1b0tWMDRLUTM4OW5Xb2l6T0pUeEpQSkZsWXFKUmw?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-uk-recognises-india-s-carbon-credit-trad-2026-09-09",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "UK Recognises India’s Carbon Credit Trading Scheme For CBAM Relief, Easing Potential Tax Burden On Exporters - Swarajya",
-        "excerpt": "Subscribe Close Sidebar States Politics Economy Business Culture Infra Defence World Books Ideas Science Technology Heritage Archives News Brief Subscribe Sign In Our Views Magazine Headlines Store ★ PRO New --> News Brief Sep 09, 2026 | Updated 10:08 AM GMT+5:30 Bookmark stories for easy access on any device or the Swarajya app . Prefer Prefer Buying and selling of carbon credits is seen as an important way to combat climate change. The UK has recognised India’s Carbon Credit Trading Scheme (CCTS) as an eligible carbon pricing mechanism under its…",
-        "url": "https://swarajyamag.com/news-brief/uk-recognises-indias-carbon-credit-trading-scheme-for-cbam-relief-easing-potential-tax-burden-on-exporters",
-        "publishedAt": "2026-09-09T04:38:51.000Z",
-        "image": "https://swarajya.gumlet.io/swarajya/2023-10/adc7de69-8c4d-452c-9e04-562e9981435d/Screenshot_2023_10_08_094233.png?w=600&h=315&format=jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVmlqWjA5Rk9MajlyLXVUVDExcEtuWEVTVEZoN2hlWnF0cVhvbFZoVkljSFBQaDE5ajFZcm9MMG5YTlNyekxfR2VhaDNNSS1DaHlCTGNmNHo2TTdUN21xVkRRVExCUGRDanJ4aGxZYktybDc0c2NqeTV3VHhzb0xndkd1V3hHVjJCZ25zVE43UTA5TnRhaVFlMjIxNEt4RjlXNERMc1NvSllPVllEc3hCU09TeWZXYk5pX05qWlNreThXaTh1V2l6MGJmZUNqZXRIYmdHdGtSMlfSAegBQVVfeXFMT0pDR2E0dC1hUGc5RUJQQXhxVU9nVVZKMFY3cXE1WEozZ3YwYTQ0ZjVRcmd1Qk13amlhNzc0NEItNzdXSEZFdnp3LUhzMkdvdzRUbWpEWUhWaWl6M0g2X2NUMV9ibkRWWWxwQlJOeGhMSjJSamxiN200SDVOZjBtOTFLZklwSHZwVkNodVpWQ0hPWVNlWGhSVUI5R3UwM3JaRGY1UXNkNlpoakVsRk9iSGxZQ25rU0dxeC1OczVuNTM5RG91TzlvUDR2RVU1X2NVZk5RUXF1Z0RJdVpXYnhlUDQ4ZjZhdm1JMQ?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -364,6 +318,29 @@
         "region": "india"
       },
       {
+        "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - ddindia.co.in",
+        "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week ddindia.co.in",
+        "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
+        "publishedAt": "2026-06-05T07:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -441,7 +418,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
+        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - fuelcellsworks.com",
         "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
         "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
         "publishedAt": "2025-09-01T07:00:00.000Z",
@@ -484,6 +461,116 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-9-11-portal-reveals-nyc-officials-concea-2026-09-15",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "9/11 portal reveals NYC officials concealed air quality, health risks",
+        "excerpt": "New York City has launched a public portal containing nearly 170,000 pages of documents detailing what city officials allegedly knew about post-9/11 environmental and health hazards.",
+        "url": "https://www.esgdive.com/news/mayor-mamdani-911-portal-reveals-nyc-officials-hid-air-quality-health-risks/830429/",
+        "publishedAt": "2026-09-15T16:00:00.000Z",
+        "image": "https://imgproxy.divecdn.com/cycLuFj7BUrsufTVAjUYx2ZQWSRdfYUWFZTRk2lPUK0/g:nowe:0:20/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk0MTUxMDgxLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-amazon-invests-230m-in-benefits-pay-for--2026-09-15",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Amazon invests $230M in benefits, pay for Whole Foods store employees",
+        "excerpt": "As the company continues to merge its operations with the specialty grocer, this next investment focuses on its frontline workers.",
+        "url": "https://www.esgdive.com/news/amazon-invests-230m-benefits-pay-for-whole-foods-employees/830419/",
+        "publishedAt": "2026-09-15T16:00:00.000Z",
+        "image": "https://imgproxy.divecdn.com/Xe9hQB7t82OpEJXcBMnShoJH2WJaztOMyk_l5xcsGzM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbWF6b25fR3JvY2VyeV9TdWJzY3JpcHRpb25fTGF1bmNoX0ltYWdlLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-ice-invests-in-industrial-and-environmen-2026-09-15",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "ICE Invests in Industrial and Environmental Markets Certification Platform Isometric",
+        "excerpt": "Industrial certification provider Isometric announced an investment by financial technology and data services provider and exchange operator Intercontinental Exchange (ICE), expanding its Series A financing round, alongside new investors, to $50 million, from an initial $40 million announced in June . The financing round comes as Isometric moves to extend its AI-powered certification platform from its initial focus on carbon markets to the broader industrial economy, including areas such as industrial emissions, energy, fuels, and materials.…",
+        "url": "https://www.esgtoday.com/ice-invests-in-industrial-and-environmental-markets-certification-platform-isometric/?utm_source=rss utm_medium=rss utm_campaign=ice-invests-in-industrial-and-environmental-markets-certification-platform-isometric",
+        "publishedAt": "2026-09-15T14:51:41.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/ICE5.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-eu-parliament-votes-to-expand-product-li-2026-09-15",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EU Parliament Votes to Expand Product List, Close Loopholes in CBAM Carbon Import Tax",
+        "excerpt": "Lawmakers in the European Parliament announced the adoption of a negotiating position on proposed changes to the Carbon Border Adjustment Mechanism (CBAM), the EU’s carbon tax on imported goods, including extending CBAM to include hundreds of new downstream products, and putting in place a series of anti-circumvention measures aimed at closing loopholes and strengthening the enforcement of CBAM. The position, which will form the basis of Parliament’s upcoming negotiation with member states in the EU Council, was adopted in a 464 – 50 vote. Council’s…",
+        "url": "https://www.esgtoday.com/eu-parliament-votes-to-expand-product-list-close-loopholes-in-cbam-carbon-import-tax/?utm_source=rss utm_medium=rss utm_campaign=eu-parliament-votes-to-expand-product-list-close-loopholes-in-cbam-carbon-import-tax",
+        "publishedAt": "2026-09-15T13:54:44.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/EU-Parliament13.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Government",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-blueorchard-raises-250-million-for-emerg-2026-09-15",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "BlueOrchard Raises $250 Million for Emerging Markets Climate Finance Fund",
+        "excerpt": "Global investment firm Schroders’ impact investment management arm BlueOrchard announced today that it has raised $250 million at the first close of the BlueOrchard Climate Action Mobilisation Fund (BOCAMF), its blended finance fund focused on backing climate mitigation and adaptation in emerging and frontier markets. According to BlueOrchard, the close comes as available capital remains only a fraction of what is required to meet global climate finance needs, with the new fund designed to help bridge this financing gap by directing long-term…",
+        "url": "https://www.esgtoday.com/blueorchard-raises-250-million-for-emerging-markets-climate-finance-fund/?utm_source=rss utm_medium=rss utm_campaign=blueorchard-raises-250-million-for-emerging-markets-climate-finance-fund",
+        "publishedAt": "2026-09-15T12:52:04.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/BlueOrchard-Wehrle2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Investors",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "verra-verra-launches-scope-3-standard-program--2026-09-15",
         "source": "verra",
@@ -707,28 +794,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-blackrock-s-skyborn-renewables-secures-o-2026-09-14",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "BlackRock’s Skyborn Renewables Secures Over $2.4 Billion for Major German Offshore Windfarm",
-        "excerpt": "BlackRock-backed Skyborn Renewables announced that it has reached financial close on the Gennaker offshore wind farm in the German Baltic Sea, securing €2.1 billion (USD$2.4 billion) in financing to move the project into its construction phase. Germany-based Skyborn Renewables is an offshore wind infrastructure platform, focused on the development, construction and operation of projects globally. The company was launched in 2022 by infrastructure investor Global Infrastructure Partners (GIP) – now owned by BlackRock – following GIP’s acquisition of its…",
-        "url": "https://www.esgtoday.com/blackrocks-skyborn-renewables-secures-over-2-4-billion-for-major-german-offshore-windfarm/?utm_source=rss utm_medium=rss utm_campaign=blackrocks-skyborn-renewables-secures-over-2-4-billion-for-major-german-offshore-windfarm",
-        "publishedAt": "2026-09-14T10:07:27.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Offshore-wind-skyborn.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-balancing-cost-and-compliance-the-evolut-2026-09-14",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -747,28 +812,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-hsbc-appoints-mik-breiterman-loader-as-h-2026-09-14",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "HSBC Appoints Mik Breiterman-Loader as Head of US Sustainable Finance and Transition",
-        "excerpt": "HSBC has appointed Mik Breiterman-Loader as its new Head of US Sustainable Finance and Transition. Breiterman-Loader takes on the new position after 5 years at HSBC, most recently serving as Sustainable Capital Markets Lead, Americas. Prior to joining HSBC, he co-founded and served as CEO for sustainable investing-focused platform Vestive, and as a portfolio manager at Morgan Stanley. The new appointment forms the latest for HSBC in its sustainable and transition finance franchise, following the appointment earlier this year of Denise Odaro as Head of…",
-        "url": "https://www.esgtoday.com/hsbc-appoints-mik-breiterman-loader-as-head-of-us-sustainable-finance-and-transition/?utm_source=rss utm_medium=rss utm_campaign=hsbc-appoints-mik-breiterman-loader-as-head-of-us-sustainable-finance-and-transition",
-        "publishedAt": "2026-09-14T08:43:06.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/HSBC-Loader.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Executive Moves",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1004,50 +1047,6 @@
         "url": "https://www.esgdive.com/news/google-commits-over-15b-to-ai-infrastructure-in-finland/829937/",
         "publishedAt": "2026-09-09T16:50:00.000Z",
         "image": "https://imgproxy.divecdn.com/ZLMiiw3LiJKxG1kkgCQ9ry_kNewZpY8ySQNBxyvIOik/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2MjAyMzg0LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-nextera-secures-1-9b-doe-loan-for-duane--2026-09-09",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "NextEra secures $1.9B DOE loan for Duane Arnold nuclear restart",
-        "excerpt": "The U.S. Department of Energy under the Trump administration has financed three plant restarts and made other conditional commitments to bring nuclear power online.",
-        "url": "https://www.esgdive.com/news/nextera-doe-loan-duane-arnold-nuclear-restart/829926/",
-        "publishedAt": "2026-09-09T16:19:00.000Z",
-        "image": null,
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-federal-judge-blocks-new-york-s-75b-clim-2026-09-08",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Federal judge blocks New York’s $75B Climate Change Superfund Act",
-        "excerpt": "New York can no longer enforce a state law that requires fossil fuel companies to financially compensate it in billions of dollars for their role in generating greenhouse gas emissions.",
-        "url": "https://www.esgdive.com/news/federal-judge-blocks-new-yorks-75b-climate-change-superfund-act/829853/",
-        "publishedAt": "2026-09-08T20:22:51.000Z",
-        "image": "https://imgproxy.divecdn.com/oimco6o4yIDiXm2Ho63hkQjiE2uRPKcYPjW74cGsKtA/g:nowe:0:16/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjU4NTE0OTIzX1VOckkwOXAuanBn.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1388,8 +1387,8 @@
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - carbonherald.com",
-        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 carbonherald.com",
+        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
         "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
         "publishedAt": "2025-11-12T08:00:00.000Z",
         "image": null,
@@ -1428,17 +1427,17 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-renewable-energy-carbon-credits-losing-s-2024-08-07",
+        "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
-        "title": "Renewable-Energy Carbon Credits Losing Steam - MSCI",
-        "excerpt": "Looking for a custom solution? Get in touch Stay current with our award-winning research. Seamlessly explore MSCI indexes through conversational AI. Our Market Cap Indexes deliver one consistent view, built on five decades of heritage. 71% of advisers plan to expand ETF use. Nearly half want more active and thematic choices. Search Get in touch Research & Insights / Blog posts Research & Insights Renewable-Energy Carbon Credits Losing Steam Blog post 8 min read Tristan Loffler , Guy Turner , Jamie Saunders , Lucien Georgeson August 7, 2024 Key findings…",
-        "url": "https://www.msci.com/research-and-insights/blog-post/renewable-energy-carbon-credits-losing-steam",
-        "publishedAt": "2024-08-07T07:00:00.000Z",
-        "image": "https://www.msci.com/_next/static/media/apple-touch-icon.c2c8d0a3.png",
+        "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - theguardian.com",
+        "excerpt": "The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images View image in fullscreen The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images The age of extinction Carbon offsetting This article is more than 3 years old Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless,…",
+        "url": "https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe",
+        "publishedAt": "2023-01-18T08:00:00.000Z",
+        "image": "https://i.guim.co.uk/img/media/9f470b957b3b181b4107c89493f7a8eddb356834/0_12_2089_1254/master/2089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=c383f5d710fa80450e09a82767c12d10",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1446,7 +1445,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWI5djJSVFhjMkpFN3FQcTkxWFh3WVAwNm5UN1d1eFFkVmFGN2ZJWUNsZ3FwYkFRUFNQQXpEazg3OG54OWZUQndYdVlPUDJDaDRhUTZfTnNRODA2aWV6bzZ6dW9vWW1BRm04ei02RnlzcVk2d21HQ3NjZWxXczZTN1ZKRS1KT1ZDTmZ1T1NpVUd5X2lwcFhBb3pkOXNvUQ?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEFTZ3U2bGJHM25xeVVQZFJ4eGZDNWo5TXdUQ2JxeWxGZ3NZWjZhQ0RMRzBTZjB4SUd3LXFRZGlOWUpuUkkwXzNITVhUYkthNDQ4dkY5YTV5RGI2OTRNdTBkUWE3OEZsbUs0RGViR0RKaUVLS0ZTMk13ZU44UlBTRm8zUzY0NkllUXRfcFpxT3dOcmlpSE5iUHphcnVWam1Ec2dMSW1ROW9SM0UyMUo5NWNNbFRBSzhiR2VJ?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -1478,6 +1477,116 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-9-11-portal-reveals-nyc-officials-concea-2026-09-15",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "9/11 portal reveals NYC officials concealed air quality, health risks",
+      "excerpt": "New York City has launched a public portal containing nearly 170,000 pages of documents detailing what city officials allegedly knew about post-9/11 environmental and health hazards.",
+      "url": "https://www.esgdive.com/news/mayor-mamdani-911-portal-reveals-nyc-officials-hid-air-quality-health-risks/830429/",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "image": "https://imgproxy.divecdn.com/cycLuFj7BUrsufTVAjUYx2ZQWSRdfYUWFZTRk2lPUK0/g:nowe:0:20/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk0MTUxMDgxLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-amazon-invests-230m-in-benefits-pay-for--2026-09-15",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Amazon invests $230M in benefits, pay for Whole Foods store employees",
+      "excerpt": "As the company continues to merge its operations with the specialty grocer, this next investment focuses on its frontline workers.",
+      "url": "https://www.esgdive.com/news/amazon-invests-230m-benefits-pay-for-whole-foods-employees/830419/",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "image": "https://imgproxy.divecdn.com/Xe9hQB7t82OpEJXcBMnShoJH2WJaztOMyk_l5xcsGzM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbWF6b25fR3JvY2VyeV9TdWJzY3JpcHRpb25fTGF1bmNoX0ltYWdlLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-ice-invests-in-industrial-and-environmen-2026-09-15",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "ICE Invests in Industrial and Environmental Markets Certification Platform Isometric",
+      "excerpt": "Industrial certification provider Isometric announced an investment by financial technology and data services provider and exchange operator Intercontinental Exchange (ICE), expanding its Series A financing round, alongside new investors, to $50 million, from an initial $40 million announced in June . The financing round comes as Isometric moves to extend its AI-powered certification platform from its initial focus on carbon markets to the broader industrial economy, including areas such as industrial emissions, energy, fuels, and materials.…",
+      "url": "https://www.esgtoday.com/ice-invests-in-industrial-and-environmental-markets-certification-platform-isometric/?utm_source=rss utm_medium=rss utm_campaign=ice-invests-in-industrial-and-environmental-markets-certification-platform-isometric",
+      "publishedAt": "2026-09-15T14:51:41.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/ICE5.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-eu-parliament-votes-to-expand-product-li-2026-09-15",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EU Parliament Votes to Expand Product List, Close Loopholes in CBAM Carbon Import Tax",
+      "excerpt": "Lawmakers in the European Parliament announced the adoption of a negotiating position on proposed changes to the Carbon Border Adjustment Mechanism (CBAM), the EU’s carbon tax on imported goods, including extending CBAM to include hundreds of new downstream products, and putting in place a series of anti-circumvention measures aimed at closing loopholes and strengthening the enforcement of CBAM. The position, which will form the basis of Parliament’s upcoming negotiation with member states in the EU Council, was adopted in a 464 – 50 vote. Council’s…",
+      "url": "https://www.esgtoday.com/eu-parliament-votes-to-expand-product-list-close-loopholes-in-cbam-carbon-import-tax/?utm_source=rss utm_medium=rss utm_campaign=eu-parliament-votes-to-expand-product-list-close-loopholes-in-cbam-carbon-import-tax",
+      "publishedAt": "2026-09-15T13:54:44.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/EU-Parliament13.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Government",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-blueorchard-raises-250-million-for-emerg-2026-09-15",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "BlueOrchard Raises $250 Million for Emerging Markets Climate Finance Fund",
+      "excerpt": "Global investment firm Schroders’ impact investment management arm BlueOrchard announced today that it has raised $250 million at the first close of the BlueOrchard Climate Action Mobilisation Fund (BOCAMF), its blended finance fund focused on backing climate mitigation and adaptation in emerging and frontier markets. According to BlueOrchard, the close comes as available capital remains only a fraction of what is required to meet global climate finance needs, with the new fund designed to help bridge this financing gap by directing long-term…",
+      "url": "https://www.esgtoday.com/blueorchard-raises-250-million-for-emerging-markets-climate-finance-fund/?utm_source=rss utm_medium=rss utm_campaign=blueorchard-raises-250-million-for-emerging-markets-climate-finance-fund",
+      "publishedAt": "2026-09-15T12:52:04.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/BlueOrchard-Wehrle2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Investors",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "verra-verra-launches-scope-3-standard-program--2026-09-15",
       "source": "verra",
@@ -1723,28 +1832,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-blackrock-s-skyborn-renewables-secures-o-2026-09-14",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "BlackRock’s Skyborn Renewables Secures Over $2.4 Billion for Major German Offshore Windfarm",
-      "excerpt": "BlackRock-backed Skyborn Renewables announced that it has reached financial close on the Gennaker offshore wind farm in the German Baltic Sea, securing €2.1 billion (USD$2.4 billion) in financing to move the project into its construction phase. Germany-based Skyborn Renewables is an offshore wind infrastructure platform, focused on the development, construction and operation of projects globally. The company was launched in 2022 by infrastructure investor Global Infrastructure Partners (GIP) – now owned by BlackRock – following GIP’s acquisition of its…",
-      "url": "https://www.esgtoday.com/blackrocks-skyborn-renewables-secures-over-2-4-billion-for-major-german-offshore-windfarm/?utm_source=rss utm_medium=rss utm_campaign=blackrocks-skyborn-renewables-secures-over-2-4-billion-for-major-german-offshore-windfarm",
-      "publishedAt": "2026-09-14T10:07:27.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Offshore-wind-skyborn.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-balancing-cost-and-compliance-the-evolut-2026-09-14",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1763,28 +1850,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-hsbc-appoints-mik-breiterman-loader-as-h-2026-09-14",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "HSBC Appoints Mik Breiterman-Loader as Head of US Sustainable Finance and Transition",
-      "excerpt": "HSBC has appointed Mik Breiterman-Loader as its new Head of US Sustainable Finance and Transition. Breiterman-Loader takes on the new position after 5 years at HSBC, most recently serving as Sustainable Capital Markets Lead, Americas. Prior to joining HSBC, he co-founded and served as CEO for sustainable investing-focused platform Vestive, and as a portfolio manager at Morgan Stanley. The new appointment forms the latest for HSBC in its sustainable and transition finance franchise, following the appointment earlier this year of Denise Odaro as Head of…",
-      "url": "https://www.esgtoday.com/hsbc-appoints-mik-breiterman-loader-as-head-of-us-sustainable-finance-and-transition/?utm_source=rss utm_medium=rss utm_campaign=hsbc-appoints-mik-breiterman-loader-as-head-of-us-sustainable-finance-and-transition",
-      "publishedAt": "2026-09-14T08:43:06.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/HSBC-Loader.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Executive Moves",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -1899,28 +1964,6 @@
         "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
-    },
-    {
-      "id": "esg-today-gsk-signs-500-000-tonne-carbon-removal-d-2026-09-11",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "GSK Signs 500,000-Tonne Carbon Removal Deal with Varaha",
-      "excerpt": "Global biopharma company GSK announced that it has signed an eight-year agreement in with carbon removal project developer Varaha, for the purchase of more than 500,000 carbon credits generated from a project expanding regenerative agriculture practices in northern India. The agreement was structured by nature-focused investment platform Earthly. Founded in India in 2022, Varaha specializes in nature-based solutions, with a focus on working with smallholder farmers to help remove carbon from the atmosphere at a planetary scale, and a mission to…",
-      "url": "https://www.esgtoday.com/gsk-signs-500000-tonne-carbon-removal-deal-with-varaha/?utm_source=rss utm_medium=rss utm_campaign=gsk-signs-500000-tonne-carbon-removal-deal-with-varaha",
-      "publishedAt": "2026-09-11T13:39:04.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/GSK2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "india"
     },
     {
       "id": "carbon-brief-factcheck-reform-uk-s-45-false-or-mislea-2026-09-11",
@@ -2077,28 +2120,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-nextera-secures-1-9b-doe-loan-for-duane--2026-09-09",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "NextEra secures $1.9B DOE loan for Duane Arnold nuclear restart",
-      "excerpt": "The U.S. Department of Energy under the Trump administration has financed three plant restarts and made other conditional commitments to bring nuclear power online.",
-      "url": "https://www.esgdive.com/news/nextera-doe-loan-duane-arnold-nuclear-restart/829926/",
-      "publishedAt": "2026-09-09T16:19:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-india-s-carbon-credit-trading-scheme-cct-2026-09-09",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2121,52 +2142,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "google-india-uk-recognises-india-s-carbon-credit-trad-2026-09-09",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "UK Recognises India’s Carbon Credit Trading Scheme For CBAM Relief, Easing Potential Tax Burden On Exporters - Swarajya",
-      "excerpt": "Subscribe Close Sidebar States Politics Economy Business Culture Infra Defence World Books Ideas Science Technology Heritage Archives News Brief Subscribe Sign In Our Views Magazine Headlines Store ★ PRO New --> News Brief Sep 09, 2026 | Updated 10:08 AM GMT+5:30 Bookmark stories for easy access on any device or the Swarajya app . Prefer Prefer Buying and selling of carbon credits is seen as an important way to combat climate change. The UK has recognised India’s Carbon Credit Trading Scheme (CCTS) as an eligible carbon pricing mechanism under its…",
-      "url": "https://swarajyamag.com/news-brief/uk-recognises-indias-carbon-credit-trading-scheme-for-cbam-relief-easing-potential-tax-burden-on-exporters",
-      "publishedAt": "2026-09-09T04:38:51.000Z",
-      "image": "https://swarajya.gumlet.io/swarajya/2023-10/adc7de69-8c4d-452c-9e04-562e9981435d/Screenshot_2023_10_08_094233.png?w=600&h=315&format=jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVmlqWjA5Rk9MajlyLXVUVDExcEtuWEVTVEZoN2hlWnF0cVhvbFZoVkljSFBQaDE5ajFZcm9MMG5YTlNyekxfR2VhaDNNSS1DaHlCTGNmNHo2TTdUN21xVkRRVExCUGRDanJ4aGxZYktybDc0c2NqeTV3VHhzb0xndkd1V3hHVjJCZ25zVE43UTA5TnRhaVFlMjIxNEt4RjlXNERMc1NvSllPVllEc3hCU09TeWZXYk5pX05qWlNreThXaTh1V2l6MGJmZUNqZXRIYmdHdGtSMlfSAegBQVVfeXFMT0pDR2E0dC1hUGc5RUJQQXhxVU9nVVZKMFY3cXE1WEozZ3YwYTQ0ZjVRcmd1Qk13amlhNzc0NEItNzdXSEZFdnp3LUhzMkdvdzRUbWpEWUhWaWl6M0g2X2NUMV9ibkRWWWxwQlJOeGhMSjJSamxiN200SDVOZjBtOTFLZklwSHZwVkNodVpWQ0hPWVNlWGhSVUI5R3UwM3JaRGY1UXNkNlpoakVsRk9iSGxZQ25rU0dxeC1OczVuNTM5RG91TzlvUDR2RVU1X2NVZk5RUXF1Z0RJdVpXYnhlUDQ4ZjZhdm1JMQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "esg-dive-federal-judge-blocks-new-york-s-75b-clim-2026-09-08",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Federal judge blocks New York’s $75B Climate Change Superfund Act",
-      "excerpt": "New York can no longer enforce a state law that requires fossil fuel companies to financially compensate it in billions of dollars for their role in generating greenhouse gas emissions.",
-      "url": "https://www.esgdive.com/news/federal-judge-blocks-new-yorks-75b-climate-change-superfund-act/829853/",
-      "publishedAt": "2026-09-08T20:22:51.000Z",
-      "image": "https://imgproxy.divecdn.com/oimco6o4yIDiXm2Ho63hkQjiE2uRPKcYPjW74cGsKtA/g:nowe:0:16/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjU4NTE0OTIzX1VOckkwOXAuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
     },
     {
       "id": "google-india-uk-recognizes-india-s-carbon-scheme-unde-2026-09-08",
@@ -2660,6 +2635,29 @@
       "region": "india"
     },
     {
+      "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - ddindia.co.in",
+      "excerpt": "India showcases carbon credit trading scheme at WTO Trade and Environment Week ddindia.co.in",
+      "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
+      "publishedAt": "2026-06-05T07:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2761,8 +2759,8 @@
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - carbonherald.com",
-      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 carbonherald.com",
+      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
       "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
       "publishedAt": "2025-11-12T08:00:00.000Z",
       "image": null,
@@ -2807,7 +2805,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
+      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - fuelcellsworks.com",
       "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
       "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
       "publishedAt": "2025-09-01T07:00:00.000Z",
@@ -2823,30 +2821,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "google-carbon-renewable-energy-carbon-credits-losing-s-2024-08-07",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Renewable-Energy Carbon Credits Losing Steam - MSCI",
-      "excerpt": "Looking for a custom solution? Get in touch Stay current with our award-winning research. Seamlessly explore MSCI indexes through conversational AI. Our Market Cap Indexes deliver one consistent view, built on five decades of heritage. 71% of advisers plan to expand ETF use. Nearly half want more active and thematic choices. Search Get in touch Research & Insights / Blog posts Research & Insights Renewable-Energy Carbon Credits Losing Steam Blog post 8 min read Tristan Loffler , Guy Turner , Jamie Saunders , Lucien Georgeson August 7, 2024 Key findings…",
-      "url": "https://www.msci.com/research-and-insights/blog-post/renewable-energy-carbon-credits-losing-steam",
-      "publishedAt": "2024-08-07T07:00:00.000Z",
-      "image": "https://www.msci.com/_next/static/media/apple-touch-icon.c2c8d0a3.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWI5djJSVFhjMkpFN3FQcTkxWFh3WVAwNm5UN1d1eFFkVmFGN2ZJWUNsZ3FwYkFRUFNQQXpEazg3OG54OWZUQndYdVlPUDJDaDRhUTZfTnNRODA2aWV6bzZ6dW9vWW1BRm04ei02RnlzcVk2d21HQ3NjZWxXczZTN1ZKRS1KT1ZDTmZ1T1NpVUd5X2lwcFhBb3pkOXNvUQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
     },
     {
       "id": "google-h2-steel-decarbonisation-in-india-institute-2023-09-14",
@@ -2871,6 +2845,30 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - theguardian.com",
+      "excerpt": "The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images View image in fullscreen The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images The age of extinction Carbon offsetting This article is more than 3 years old Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless,…",
+      "url": "https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe",
+      "publishedAt": "2023-01-18T08:00:00.000Z",
+      "image": "https://i.guim.co.uk/img/media/9f470b957b3b181b4107c89493f7a8eddb356834/0_12_2089_1254/master/2089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=c383f5d710fa80450e09a82767c12d10",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEFTZ3U2bGJHM25xeVVQZFJ4eGZDNWo5TXdUQ2JxeWxGZ3NZWjZhQ0RMRzBTZjB4SUd3LXFRZGlOWUpuUkkwXzNITVhUYkthNDQ4dkY5YTV5RGI2OTRNdTBkUWE3OEZsbUs0RGViR0RKaUVLS0ZTMk13ZU44UlBTRm8zUzY0NkllUXRfcFpxT3dOcmlpSE5iUHphcnVWam1Ec2dMSW1ROW9SM0UyMUo5NWNNbFRBSzhiR2VJ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-the-lifecycle-of-a-voluntary-carbon-cred-2022-08-26",
