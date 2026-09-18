@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-09-17T21:53:16.702Z",
+  "fetchedAt": "2026-09-18T05:28:16.569Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 18,
     "world": 44,
     "withImages": 55,
-    "avgExcerptLength": 449,
+    "avgExcerptLength": 444,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -169,30 +169,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzh0U0JEN1YyeWxsdzd4NzNnbEVsdmx0UlBLcXhkUFpxX3Z1RkxJRFp1VWpGa3ZZS1RrM0FrY1hTTGVYRzREbnVpV09VdDREUlltc1BDR0JhTlhpZ1JEUk1QcHlqSTdGVTN3bEsxaUk5cHU1OXkwdzJKMDR3NmpEVWpBQm5lWFk1RHpiUG9kZ2hRWnN2MS1qb2xrNXpyUTZQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-india-s-green-hydrogen-push-gathers-pace-2026-07-29",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
-        "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
-        "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
-        "publishedAt": "2026-07-29T07:00:00.000Z",
-        "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -346,7 +322,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
+        "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - prnewswire.co.uk",
         "excerpt": "Strong CAGR of 24.0% reflects premium shift in voluntary carbon markets toward durable, high-integrity removal credits NEWARK, Del. , March 25, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global blue carbon market, valued at USD 1.0 billion in 2025, is projected to reach USD 1.2 billion in 2026 and expand significantly to USD 10.3 billion by 2036, growing at a CAGR of 24.0% during the forecast period, according to analysis by Future Market Insights. The Blue Carbon market is expected to generate an absolute…",
         "url": "https://www.prnewswire.co.uk/news-releases/global-blue-carbon-market-to-reach-usd-10-3-billion-by-2036--with-strong-growth-across-asia-pacific-india-and-the-us-led-by-verra-gold-standard-and-conservation-international-302724782.html",
         "publishedAt": "2026-03-25T07:00:00.000Z",
@@ -417,7 +393,7 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
+        "title": "India’s green hydrogen policy wrap 2025 - powerpeakdigest.com",
         "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
@@ -430,6 +406,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
+        "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
+        "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
+        "publishedAt": "2025-09-01T07:00:00.000Z",
+        "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -465,8 +465,8 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "Opportunities for Article 6 engagement in the Asia Pacific region - nortonrosefulbright.com",
-        "excerpt": "On September 14, 2026, the Ninth Circuit Court of Appeals decided In re Kia Hyundai Vehicle Theft Mktg., Sales Pracs., & Prods. Liab. Litig.: Ins. Subrogation Appeal, No. 24-5219, a decision that will make it easier to sue foreign manufacturers in California when their goods move through the state’s ports.",
+        "title": "Opportunities for Article 6 engagement in the Asia Pacific region - Norton Rose Fulbright",
+        "excerpt": "Earlier this year, Norton Rose Fulbright contributed a chapter to the CMI Westpac Carbon Markets Report 2025 addressing why the Asia Pacific (APAC) region is well-placed to host carbon credit projects.",
         "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/35a4026d/opportunities-for-article-6-engagement-in-the-asia-pacific-region",
         "publishedAt": "1970-01-01T00:00:00.000Z",
         "image": "https://www.nortonrosefulbright.com/-/media/images/nrf/thought-leadership/australia/publications/aerial-view-of-tropical-rain-forest-at-morning.jpeg?revision=dd81d81e-6a32-48ab-8a4d-d31c98609707&revision=5250702122237387904",
@@ -2490,30 +2490,6 @@
       "region": "india"
     },
     {
-      "id": "google-h2-india-s-green-hydrogen-push-gathers-pace-2026-07-29",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
-      "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
-      "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
-      "publishedAt": "2026-07-29T07:00:00.000Z",
-      "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-h2-india-s-green-hydrogen-plans-gain-pace-b-2026-07-28",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2662,7 +2638,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
+      "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - prnewswire.co.uk",
       "excerpt": "Strong CAGR of 24.0% reflects premium shift in voluntary carbon markets toward durable, high-integrity removal credits NEWARK, Del. , March 25, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global blue carbon market, valued at USD 1.0 billion in 2025, is projected to reach USD 1.2 billion in 2026 and expand significantly to USD 10.3 billion by 2036, growing at a CAGR of 24.0% during the forecast period, according to analysis by Future Market Insights. The Blue Carbon market is expected to generate an absolute…",
       "url": "https://www.prnewswire.co.uk/news-releases/global-blue-carbon-market-to-reach-usd-10-3-billion-by-2036--with-strong-growth-across-asia-pacific-india-and-the-us-led-by-verra-gold-standard-and-conservation-international-302724782.html",
       "publishedAt": "2026-03-25T07:00:00.000Z",
@@ -2757,7 +2733,7 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
+      "title": "India’s green hydrogen policy wrap 2025 - powerpeakdigest.com",
       "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
@@ -2821,6 +2797,30 @@
       "region": "world"
     },
     {
+      "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
+      "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
+      "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
+      "publishedAt": "2025-09-01T07:00:00.000Z",
+      "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-h2-steel-decarbonisation-in-india-institute-2023-09-14",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2875,8 +2875,8 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "Opportunities for Article 6 engagement in the Asia Pacific region - nortonrosefulbright.com",
-      "excerpt": "On September 14, 2026, the Ninth Circuit Court of Appeals decided In re Kia Hyundai Vehicle Theft Mktg., Sales Pracs., & Prods. Liab. Litig.: Ins. Subrogation Appeal, No. 24-5219, a decision that will make it easier to sue foreign manufacturers in California when their goods move through the state’s ports.",
+      "title": "Opportunities for Article 6 engagement in the Asia Pacific region - Norton Rose Fulbright",
+      "excerpt": "Earlier this year, Norton Rose Fulbright contributed a chapter to the CMI Westpac Carbon Markets Report 2025 addressing why the Asia Pacific (APAC) region is well-placed to host carbon credit projects.",
       "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/35a4026d/opportunities-for-article-6-engagement-in-the-asia-pacific-region",
       "publishedAt": "1970-01-01T00:00:00.000Z",
       "image": "https://www.nortonrosefulbright.com/-/media/images/nrf/thought-leadership/australia/publications/aerial-view-of-tropical-rain-forest-at-morning.jpeg?revision=dd81d81e-6a32-48ab-8a4d-d31c98609707&revision=5250702122237387904",
