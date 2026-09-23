@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-09-23T05:26:09.729Z",
+  "fetchedAt": "2026-09-23T12:40:10.302Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,13 +48,37 @@
     "india": 18,
     "world": 44,
     "withImages": 58,
-    "avgExcerptLength": 458,
+    "avgExcerptLength": 457,
     "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "google-india-how-is-the-carbon-credit-market-in-india-2026-09-18",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "How is the carbon credit market in India moving beyond policy? - Tata Power",
+        "excerpt": "Our website uses cookies to enhance your browsing experience. By using our website you agree to the use of cookies as per our privacy policy How is the carbon credit market in India moving beyond policy? From targets to trading, India is building the machinery that makes carbon markets work An invisible line is being drawn across the Indian industry: beat an emissions target and carbon performance can create value; miss it, and the gap can carry a cost. That is the shift powering the carbon credit market in India , as climate performance moves from…",
+        "url": "https://www.tatapower.com/blogs/how-is-the-carbon-credit-market-in-india-moving-beyond-policy",
+        "publishedAt": "2026-09-18T12:23:07.000Z",
+        "image": "https://www.tatapower.com/content/dam/tatapoweraemsitesprogram/tatapower/news---media/blogs-thumbnails/how-is-the-carbon-credit-market-in-india-moving-beyond-policy/Indian%20carbon%20market.png",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTkJ4UGtHT1JJV1JSUFNhVWZGY2M5U1JULWJISkVYbG91ak9ZZmhXcDhDdHduTnpXTjN3Ti00Q1JmLUZJQTRZemlldl94WlAyLTZyY1lWa1BnVFBXeTRYTUh0SEtYamhpUXBSVnFCbHJweVN2QjVsaWViekJ0VlNzeU1SQmVoUWRuVU5IbWpYWkFTbERiVTQzWg?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
       {
         "id": "carbon-brief-analysis-india-s-power-sector-emissions--2026-09-16",
         "source": "carbon-brief",
@@ -84,7 +108,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - downtoearth.org.in",
+        "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - Down To Earth",
         "excerpt": "Copied Listen to this article Summary BRICS leaders at the New Delhi Summit backed a BRICS Carbon Markets Partnership to share expertise, build capacity and link carbon markets with climate finance, while firmly opposing unilateral CBAMs by the EU and UK. India’s CCTS gaining UK recognition highlights both new export competitiveness opportunities and compliance challenges, especially for MSMEs facing demanding measurement and verification rules. The BRICS countries have backed greater cooperation on carbon markets, including implementation of a BRICS…",
         "url": "https://www.downtoearth.org.in/climate-change/brics-backs-carbon-market-cooperation-while-opposing-unilateral-cbam",
         "publishedAt": "2026-09-12T07:00:00.000Z",
@@ -108,7 +132,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "UK Recognizes India’s Carbon Scheme Under CBAM, Easing Exporters’ Carbon Costs - CarbonCredits.com",
+        "title": "UK Recognizes India’s Carbon Scheme Under CBAM, Easing Exporters’ Carbon Costs - carboncredits.com",
         "excerpt": "The UK has recognized India’s Carbon Credit Trading Scheme (CCTS) as a qualifying carbon pricing scheme under its upcoming Carbon Border Adjustment Mechanism (CBAM). The move could reduce the carbon cost faced by Indian exporters when the UK’s CBAM begins on January 1, 2027. Under UK rules, qualifying carbon prices already paid on emissions embodied in imported goods may be taken into account when calculating the importer’s CBAM liability. This is designed to prevent the same emissions from being priced twice. India’s CCTS now appears on the UK’s…",
         "url": "https://carboncredits.com/uk-cbam-india-carbon-credit-trading-scheme/",
         "publishedAt": "2026-09-08T16:55:32.000Z",
@@ -132,11 +156,11 @@
         "type": "esg",
         "tag": "CLIMATE",
         "accent": "#34d399",
-        "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - vajiramandravi.com",
-        "excerpt": "Article 6 of the Paris Agreement, Climate Change, Carbon Market vajiramandravi.com",
+        "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
+        "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
         "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
         "publishedAt": "2026-08-17T07:00:00.000Z",
-        "image": null,
+        "image": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/07/Article-6-of-the-Paris-Agreement.webp?v=1784286245",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -144,7 +168,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzAyMk9nMlh4QjdIS1hDczM4S1NPY2JrQU54dFFsZENLZTNtUUdCQzF0QmVsNXVZck5WYi1ZaWdLaDJOWU80QkdocERNZHpWWlVXRFBzMzFfWXhoU2ZVOHNxUlRGZWpXeFRPU2NvN2F0WG1CVWI3cmc1YnNQZml3RDVn?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzAyMk9nMlh4QjdIS1hDczM4S1NPY2JrQU54dFFsZENLZTNtUUdCQzF0QmVsNXVZck5WYi1ZaWdLaDJOWU80QkdocERNZHpWWlVXRFBzMzFfWXhoU2ZVOHNxUlRGZWpXeFRPU2NvN2F0WG1CVWI3cmc1YnNQZml3RDVn?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -204,10 +229,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
-        "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
+        "excerpt": "India’s green hydrogen push gathers pace BioEnergy Times",
         "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
         "publishedAt": "2026-07-29T07:00:00.000Z",
-        "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -215,8 +240,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5"
         },
         "region": "india"
       },
@@ -227,7 +251,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - Climate Home News",
+        "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - climatechangenews.com",
         "excerpt": "Matteo Civillini Reporter Editing: Joe Lo X (Twitter) Facebook LinkedIn WhatsApp Email Print China and India have declined to back any of their old United Nations carbon credit projects seeking to sell offsets under the new UN market, driving a cull of nearly three-quarters of applicants, analysis of official data shows. Only 415 out of more than 1,500 projects and programmes hoping to move from the Clean Development Mechanism (CDM) to the new carbon market set up under Article 6.4 of the Paris Agreement won the approval of their host governments by the…",
         "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
         "publishedAt": "2026-07-17T07:00:00.000Z",
@@ -312,30 +336,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2Voa1F4Z2phMDU5MlZVNjhsNFA0Z2pZZDZFSG5sREpoZUFQaElmSUdSclBCOHV0dmExdnhWZTRaVUFMdlVQWjdsaGVXSjM1Snk3cnN3UTZvbUtCQWpLOXAwOFZwem9RdFBfQTJ2NDNSaTFrZHQwMHhNbUllcjRXM2RxMG9MZm1WU2J5TXN6dHU5cVJpSHFGSXhHaG1VdGpIWndFb2gwc0LSAa8BQVVfeXFMT3J3OFRYQjNLVS1qNG9sd0xtdGhoOEsyV3B5M1BQZVpybzdkbUhXbWs2eXd3VmtUQUd3YjJpZDJxUWpEVEJPSjRENXdWTU1aemRqVWkwMlV3TTRiQ3M2UUlOeURraVlvSWNaN1Vrd0FfcE1TUmY1cVRGdlk0aWpIbDhLQ1drdTBDS0RrbFkxdzZicm1SNzMtaGZESVdteUN6VWxWM2VMNjNBU0t2aUhkSQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-        "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
-        "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
-        "publishedAt": "2026-06-05T07:00:00.000Z",
-        "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -460,13 +460,13 @@
         "region": "india"
       },
       {
-        "id": "google-h2-steel-decarbonisation-in-india-institute-2023-09-14",
+        "id": "google-h2-steel-decarbonisation-in-india-ieefa-org-2023-09-14",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "Steel decarbonisation in India - Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "title": "Steel decarbonisation in India - ieefa.org",
         "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  Executive Summary  About the…",
         "url": "https://ieefa.org/resources/steel-decarbonisation-india",
         "publishedAt": "2023-09-14T07:00:00.000Z",
@@ -485,6 +485,72 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-consumer-concern-about-sustainability-in-2026-09-23",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Consumer Concern About Sustainability Increases for First Time in 3 Years: Bain Survey",
+        "excerpt": "85% of consumers report being concerned about environmental sustainability, increasing for the first time in three years, and growing across both developed and developing markets, driven by factors including experiences with extreme weather, according to a new survey released by global management consultancy Bain & Company. The survey also found a significant increase in the adoption of sustainable behaviors by consumers over the past 3 years, as well as growing use of AI to help identify more sustainable products and to influence purchasing decisions.…",
+        "url": "https://www.esgtoday.com/consumer-concern-about-sustainability-increases-for-first-time-in-3-years-bain-survey/?utm_source=rss utm_medium=rss utm_campaign=consumer-concern-about-sustainability-increases-for-first-time-in-3-years-bain-survey",
+        "publishedAt": "2026-09-23T11:49:09.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Bain.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Reports, Studies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-mombak-launches-150-million-amazon-refor-2026-09-23",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Mombak Launches $150 Million Amazon Reforestation Fund, Signs Carbon Removal Deal with Salesforce",
+        "excerpt": "Brazil-based carbon project developer Mombak announced the first close of The Amazon Reforestation Fund II, its second fund focused on financing restoration projects in the Brazilian Amazon. Mombak said that it is targeting raising $150 million for the new fund, which would surpass the predecessor fund’s $120 million. Founded in 2021, Mombak develops large-scale carbon removal projects, starting with native, biodiverse reforestation of the Amazon rainforest. The company’s solution targets capturing carbon through large-scale reforestation of degraded,…",
+        "url": "https://www.esgtoday.com/mombak-launches-150-million-amazon-reforestation-fund-signs-carbon-removal-deal-with-salesforce/?utm_source=rss utm_medium=rss utm_campaign=mombak-launches-150-million-amazon-reforestation-fund-signs-carbon-removal-deal-with-salesforce",
+        "publishedAt": "2026-09-23T10:36:21.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Mombak-reforestation.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-metris-raises-5-million-to-scale-ai-powe-2026-09-23",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Metris Raises $5 Million to Scale AI-Powered Renewable Energy Asset Management Platform",
+        "excerpt": "AI-powered renewable energy asset management platform Metris announced that it has raised $5 million in a seed funding round, with the proceeds aimed at expanding the company’s platform, AI capabilities and European operations. Launched in 2025, London-based Metris provides an AI-powered platform for renewable energy owners and operators, integrating asset data, performance monitoring, revenue management and operational workflows. The company said that it is developing a unified data layer to provide operators a clean, real‑time view of entire energy…",
+        "url": "https://www.esgtoday.com/metris-raises-5-million-to-scale-ai-powered-renewable-energy-asset-management-platform/?utm_source=rss utm_medium=rss utm_campaign=metris-raises-5-million-to-scale-ai-powered-renewable-energy-asset-management-platform",
+        "publishedAt": "2026-09-23T08:22:42.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Metris-Jones.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-adm-to-enter-the-voluntary-carbon-market-2026-09-22",
         "source": "esg-dive",
@@ -559,7 +625,7 @@
         "tag": "CLIMATE",
         "accent": "#34d399",
         "title": "Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature",
-        "excerpt": "For millions of people around the world, rising sea levels are already reshaping economies, livelihoods and cultures. The world’s oceans are currently rising at a faster rate than at any time in at least the past three millennia, with human influence the “ dominant cause ” of sea level rise since at least 1970. At the UN general assembly in New York this week, world leaders are set to adopt a high-level declaration on the “existential threats” posed by sea level rise. The declaration notes: “Sea level rise is not a distant scenario, but a real and lived…",
+        "excerpt": "Share For millions of people around the world, rising sea levels are already reshaping economies, livelihoods and cultures. The world’s oceans are currently rising at a faster rate than at any time in at least the past three millennia, with human influence the “ dominant cause ” of sea level rise since at least 1970. At the UN general assembly in New York this week, world leaders are set to adopt a high-level declaration on the “existential threats” posed by sea level rise. The declaration notes: “Sea level rise is not a distant scenario, but a real and…",
         "url": "https://www.carbonbrief.org/explainer-how-sea-level-rise-poses-an-existential-threat-to-humans-heritage-and-nature",
         "publishedAt": "2026-09-22T15:14:21.000Z",
         "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/global-sea-levels-ha_2-scaled.png",
@@ -813,72 +879,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-federated-hermes-appoints-martin-jarzebo-2026-09-21",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Federated Hermes Appoints Martin Jarzebowski as Head of Thematic Responsible Investing",
-        "excerpt": "Investment manager Federated Hermes has appointed Martin Jarzebowski as its new Head of Thematic & Responsible Investing. Jarzebowski takes on the new role after more than 18 years at Federated Hermes, and serving in a series of senior roles, most recently as Director of Thematic & Responsible Investment, and prior as Director of Responsible Investment, leading the integration of ESG factors, engagement and analytics across equities, fixed income and liquidity solutions at the firm. He also serves as an advisory member on the IFRS Foundation’s ISSB’s…",
-        "url": "https://www.esgtoday.com/federated-hermes-appoints-martin-jarzebowski-as-head-of-thematic-responsible-investing/?utm_source=rss utm_medium=rss utm_campaign=federated-hermes-appoints-martin-jarzebowski-as-head-of-thematic-responsible-investing",
-        "publishedAt": "2026-09-21T10:35:14.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Federated-Hermes-Jarzebowski.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Executive Moves",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-pulse-fund-raises-63-million-to-back-cli-2026-09-21",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Pulse Fund Raises $63 Million to Back Climate Solutions Startups Across Interconnected Sectors",
-        "excerpt": "Climate-focused venture capital investment firm Pulse Fund announced the close of its inaugural fund, raising $63 million in commitments to back early-stage scalable climate companies across the energy transition, infrastructure, food and agriculture, and mobility sectors. Founded in 2022, Pulse Fund was established by climate tech entrepreneur Tenzin Seldon, who in a post announcing the fund close, describes her drive to tackle the climate crisis as driven by her childhood experience watching glaciers retreat in the Himalayas: “I grew up in the…",
-        "url": "https://www.esgtoday.com/pulse-fund-raises-63-million-to-back-climate-solutions-startups-across-interconnected-sectors/?utm_source=rss utm_medium=rss utm_campaign=pulse-fund-raises-63-million-to-back-climate-solutions-startups-across-interconnected-sectors",
-        "publishedAt": "2026-09-21T08:02:45.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Pulse-Fund-Seldon.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Private Equity & Venture Capital",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-esg-today-week-in-review-2026-09-20",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "ESG Today: Week in Review",
-        "excerpt": "This week in ESG news: Sustainable funds outperforming, reaching record AUM in 2026; Over 700 companies sign on to Climate Pledge to reach net zero by 2040; EU to enable integration of sustainability criteria in €2.5 trillion public procurement market; BlueOrchard raises $250 million for emerging markets climate finance fund; Trump administration repeals rules limiting GHG emissions from power plants; U.S. SEC proposes eliminating rule enabling shareholders to bring voting proposals to annual meetings; Santander hits 85% of sustainable finance goal;…",
-        "url": "https://www.esgtoday.com/esg-today-week-in-review-275/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-275",
-        "publishedAt": "2026-09-20T08:24:16.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Wind-Austria-1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG News",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1155,7 +1155,7 @@
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
+        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
         "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
         "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
         "publishedAt": "2026-09-14T12:51:27.000Z",
@@ -1362,7 +1362,7 @@
         "type": "esg",
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
-        "title": "How to navigate all those certifications in the voluntary carbon market - trellis.net",
+        "title": "How to navigate all those certifications in the voluntary carbon market - Trellis Group",
         "excerpt": "An unregulated field has become a crowded one. Read More Buyers in the voluntary carbon market often find it challenging to differentiate between higher- and lower-quality credits. One cause might be the range of organizations issuing carbon credits: According to a count released this week, at least 66 entities are currently doing so. The list includes well-established players that helped build the market, including Verra and Gold Standard, alongside notable new entries, such as Puro and Isometric, as well as a long tail of smaller and lesser-known…",
         "url": "https://trellis.net/article/voluntary-carbon-market-certifications/",
         "publishedAt": "2026-04-20T07:00:00.000Z",
@@ -1477,6 +1477,72 @@
   },
   "articles": [
     {
+      "id": "esg-today-consumer-concern-about-sustainability-in-2026-09-23",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Consumer Concern About Sustainability Increases for First Time in 3 Years: Bain Survey",
+      "excerpt": "85% of consumers report being concerned about environmental sustainability, increasing for the first time in three years, and growing across both developed and developing markets, driven by factors including experiences with extreme weather, according to a new survey released by global management consultancy Bain & Company. The survey also found a significant increase in the adoption of sustainable behaviors by consumers over the past 3 years, as well as growing use of AI to help identify more sustainable products and to influence purchasing decisions.…",
+      "url": "https://www.esgtoday.com/consumer-concern-about-sustainability-increases-for-first-time-in-3-years-bain-survey/?utm_source=rss utm_medium=rss utm_campaign=consumer-concern-about-sustainability-increases-for-first-time-in-3-years-bain-survey",
+      "publishedAt": "2026-09-23T11:49:09.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Bain.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Reports, Studies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-mombak-launches-150-million-amazon-refor-2026-09-23",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Mombak Launches $150 Million Amazon Reforestation Fund, Signs Carbon Removal Deal with Salesforce",
+      "excerpt": "Brazil-based carbon project developer Mombak announced the first close of The Amazon Reforestation Fund II, its second fund focused on financing restoration projects in the Brazilian Amazon. Mombak said that it is targeting raising $150 million for the new fund, which would surpass the predecessor fund’s $120 million. Founded in 2021, Mombak develops large-scale carbon removal projects, starting with native, biodiverse reforestation of the Amazon rainforest. The company’s solution targets capturing carbon through large-scale reforestation of degraded,…",
+      "url": "https://www.esgtoday.com/mombak-launches-150-million-amazon-reforestation-fund-signs-carbon-removal-deal-with-salesforce/?utm_source=rss utm_medium=rss utm_campaign=mombak-launches-150-million-amazon-reforestation-fund-signs-carbon-removal-deal-with-salesforce",
+      "publishedAt": "2026-09-23T10:36:21.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Mombak-reforestation.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-metris-raises-5-million-to-scale-ai-powe-2026-09-23",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Metris Raises $5 Million to Scale AI-Powered Renewable Energy Asset Management Platform",
+      "excerpt": "AI-powered renewable energy asset management platform Metris announced that it has raised $5 million in a seed funding round, with the proceeds aimed at expanding the company’s platform, AI capabilities and European operations. Launched in 2025, London-based Metris provides an AI-powered platform for renewable energy owners and operators, integrating asset data, performance monitoring, revenue management and operational workflows. The company said that it is developing a unified data layer to provide operators a clean, real‑time view of entire energy…",
+      "url": "https://www.esgtoday.com/metris-raises-5-million-to-scale-ai-powered-renewable-energy-asset-management-platform/?utm_source=rss utm_medium=rss utm_campaign=metris-raises-5-million-to-scale-ai-powered-renewable-energy-asset-management-platform",
+      "publishedAt": "2026-09-23T08:22:42.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Metris-Jones.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-adm-to-enter-the-voluntary-carbon-market-2026-09-22",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1550,7 +1616,7 @@
       "tag": "CLIMATE",
       "accent": "#34d399",
       "title": "Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature",
-      "excerpt": "For millions of people around the world, rising sea levels are already reshaping economies, livelihoods and cultures. The world’s oceans are currently rising at a faster rate than at any time in at least the past three millennia, with human influence the “ dominant cause ” of sea level rise since at least 1970. At the UN general assembly in New York this week, world leaders are set to adopt a high-level declaration on the “existential threats” posed by sea level rise. The declaration notes: “Sea level rise is not a distant scenario, but a real and lived…",
+      "excerpt": "Share For millions of people around the world, rising sea levels are already reshaping economies, livelihoods and cultures. The world’s oceans are currently rising at a faster rate than at any time in at least the past three millennia, with human influence the “ dominant cause ” of sea level rise since at least 1970. At the UN general assembly in New York this week, world leaders are set to adopt a high-level declaration on the “existential threats” posed by sea level rise. The declaration notes: “Sea level rise is not a distant scenario, but a real and…",
       "url": "https://www.carbonbrief.org/explainer-how-sea-level-rise-poses-an-existential-threat-to-humans-heritage-and-nature",
       "publishedAt": "2026-09-22T15:14:21.000Z",
       "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/global-sea-levels-ha_2-scaled.png",
@@ -1808,72 +1874,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-federated-hermes-appoints-martin-jarzebo-2026-09-21",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Federated Hermes Appoints Martin Jarzebowski as Head of Thematic Responsible Investing",
-      "excerpt": "Investment manager Federated Hermes has appointed Martin Jarzebowski as its new Head of Thematic & Responsible Investing. Jarzebowski takes on the new role after more than 18 years at Federated Hermes, and serving in a series of senior roles, most recently as Director of Thematic & Responsible Investment, and prior as Director of Responsible Investment, leading the integration of ESG factors, engagement and analytics across equities, fixed income and liquidity solutions at the firm. He also serves as an advisory member on the IFRS Foundation’s ISSB’s…",
-      "url": "https://www.esgtoday.com/federated-hermes-appoints-martin-jarzebowski-as-head-of-thematic-responsible-investing/?utm_source=rss utm_medium=rss utm_campaign=federated-hermes-appoints-martin-jarzebowski-as-head-of-thematic-responsible-investing",
-      "publishedAt": "2026-09-21T10:35:14.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Federated-Hermes-Jarzebowski.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Executive Moves",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-pulse-fund-raises-63-million-to-back-cli-2026-09-21",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Pulse Fund Raises $63 Million to Back Climate Solutions Startups Across Interconnected Sectors",
-      "excerpt": "Climate-focused venture capital investment firm Pulse Fund announced the close of its inaugural fund, raising $63 million in commitments to back early-stage scalable climate companies across the energy transition, infrastructure, food and agriculture, and mobility sectors. Founded in 2022, Pulse Fund was established by climate tech entrepreneur Tenzin Seldon, who in a post announcing the fund close, describes her drive to tackle the climate crisis as driven by her childhood experience watching glaciers retreat in the Himalayas: “I grew up in the…",
-      "url": "https://www.esgtoday.com/pulse-fund-raises-63-million-to-back-climate-solutions-startups-across-interconnected-sectors/?utm_source=rss utm_medium=rss utm_campaign=pulse-fund-raises-63-million-to-back-climate-solutions-startups-across-interconnected-sectors",
-      "publishedAt": "2026-09-21T08:02:45.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Pulse-Fund-Seldon.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Private Equity & Venture Capital",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-esg-today-week-in-review-2026-09-20",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "ESG Today: Week in Review",
-      "excerpt": "This week in ESG news: Sustainable funds outperforming, reaching record AUM in 2026; Over 700 companies sign on to Climate Pledge to reach net zero by 2040; EU to enable integration of sustainability criteria in €2.5 trillion public procurement market; BlueOrchard raises $250 million for emerging markets climate finance fund; Trump administration repeals rules limiting GHG emissions from power plants; U.S. SEC proposes eliminating rule enabling shareholders to bring voting proposals to annual meetings; Santander hits 85% of sustainable finance goal;…",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-275/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-275",
-      "publishedAt": "2026-09-20T08:24:16.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Wind-Austria-1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG News",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-sec-s-plan-to-scrap-shareholder-proposal-2026-09-18",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1938,6 +1938,30 @@
         "feed": "https://verra.org/feed/"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-how-is-the-carbon-credit-market-in-india-2026-09-18",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "How is the carbon credit market in India moving beyond policy? - Tata Power",
+      "excerpt": "Our website uses cookies to enhance your browsing experience. By using our website you agree to the use of cookies as per our privacy policy How is the carbon credit market in India moving beyond policy? From targets to trading, India is building the machinery that makes carbon markets work An invisible line is being drawn across the Indian industry: beat an emissions target and carbon performance can create value; miss it, and the gap can carry a cost. That is the shift powering the carbon credit market in India , as climate performance moves from…",
+      "url": "https://www.tatapower.com/blogs/how-is-the-carbon-credit-market-in-india-moving-beyond-policy",
+      "publishedAt": "2026-09-18T12:23:07.000Z",
+      "image": "https://www.tatapower.com/content/dam/tatapoweraemsitesprogram/tatapower/news---media/blogs-thumbnails/how-is-the-carbon-credit-market-in-india-moving-beyond-policy/Indian%20carbon%20market.png",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTkJ4UGtHT1JJV1JSUFNhVWZGY2M5U1JULWJISkVYbG91ak9ZZmhXcDhDdHduTnpXTjN3Ti00Q1JmLUZJQTRZemlldl94WlAyLTZyY1lWa1BnVFBXeTRYTUh0SEtYamhpUXBSVnFCbHJweVN2QjVsaWViekJ0VlNzeU1SQmVoUWRuVU5IbWpYWkFTbERiVTQzWg?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "esg-dive-google-nasa-launch-ai-model-to-map-metha-2026-09-17",
@@ -2168,7 +2192,7 @@
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
+      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
       "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
       "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
       "publishedAt": "2026-09-14T12:51:27.000Z",
@@ -2237,7 +2261,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - downtoearth.org.in",
+      "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - Down To Earth",
       "excerpt": "Copied Listen to this article Summary BRICS leaders at the New Delhi Summit backed a BRICS Carbon Markets Partnership to share expertise, build capacity and link carbon markets with climate finance, while firmly opposing unilateral CBAMs by the EU and UK. India’s CCTS gaining UK recognition highlights both new export competitiveness opportunities and compliance challenges, especially for MSMEs facing demanding measurement and verification rules. The BRICS countries have backed greater cooperation on carbon markets, including implementation of a BRICS…",
       "url": "https://www.downtoearth.org.in/climate-change/brics-backs-carbon-market-cooperation-while-opposing-unilateral-cbam",
       "publishedAt": "2026-09-12T07:00:00.000Z",
@@ -2283,7 +2307,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "UK Recognizes India’s Carbon Scheme Under CBAM, Easing Exporters’ Carbon Costs - CarbonCredits.com",
+      "title": "UK Recognizes India’s Carbon Scheme Under CBAM, Easing Exporters’ Carbon Costs - carboncredits.com",
       "excerpt": "The UK has recognized India’s Carbon Credit Trading Scheme (CCTS) as a qualifying carbon pricing scheme under its upcoming Carbon Border Adjustment Mechanism (CBAM). The move could reduce the carbon cost faced by Indian exporters when the UK’s CBAM begins on January 1, 2027. Under UK rules, qualifying carbon prices already paid on emissions embodied in imported goods may be taken into account when calculating the importer’s CBAM liability. This is designed to prevent the same emissions from being priced twice. India’s CCTS now appears on the UK’s…",
       "url": "https://carboncredits.com/uk-cbam-india-carbon-credit-trading-scheme/",
       "publishedAt": "2026-09-08T16:55:32.000Z",
@@ -2423,11 +2447,11 @@
       "type": "esg",
       "tag": "CLIMATE",
       "accent": "#34d399",
-      "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - vajiramandravi.com",
-      "excerpt": "Article 6 of the Paris Agreement, Climate Change, Carbon Market vajiramandravi.com",
+      "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
+      "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
       "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
       "publishedAt": "2026-08-17T07:00:00.000Z",
-      "image": null,
+      "image": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/07/Article-6-of-the-Paris-Agreement.webp?v=1784286245",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2435,7 +2459,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzAyMk9nMlh4QjdIS1hDczM4S1NPY2JrQU54dFFsZENLZTNtUUdCQzF0QmVsNXVZck5WYi1ZaWdLaDJOWU80QkdocERNZHpWWlVXRFBzMzFfWXhoU2ZVOHNxUlRGZWpXeFRPU2NvN2F0WG1CVWI3cmc1YnNQZml3RDVn?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzAyMk9nMlh4QjdIS1hDczM4S1NPY2JrQU54dFFsZENLZTNtUUdCQzF0QmVsNXVZck5WYi1ZaWdLaDJOWU80QkdocERNZHpWWlVXRFBzMzFfWXhoU2ZVOHNxUlRGZWpXeFRPU2NvN2F0WG1CVWI3cmc1YnNQZml3RDVn?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -2495,10 +2520,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
-      "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
+      "excerpt": "India’s green hydrogen push gathers pace BioEnergy Times",
       "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
       "publishedAt": "2026-07-29T07:00:00.000Z",
-      "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2506,8 +2531,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5"
       },
       "region": "india"
     },
@@ -2518,7 +2542,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - Climate Home News",
+      "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - climatechangenews.com",
       "excerpt": "Matteo Civillini Reporter Editing: Joe Lo X (Twitter) Facebook LinkedIn WhatsApp Email Print China and India have declined to back any of their old United Nations carbon credit projects seeking to sell offsets under the new UN market, driving a cull of nearly three-quarters of applicants, analysis of official data shows. Only 415 out of more than 1,500 projects and programmes hoping to move from the Clean Development Mechanism (CDM) to the new carbon market set up under Article 6.4 of the Paris Agreement won the approval of their host governments by the…",
       "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
       "publishedAt": "2026-07-17T07:00:00.000Z",
@@ -2608,37 +2632,13 @@
       "region": "india"
     },
     {
-      "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
-      "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
-      "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
-      "publishedAt": "2026-06-05T07:00:00.000Z",
-      "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
       "type": "esg",
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
-      "title": "How to navigate all those certifications in the voluntary carbon market - trellis.net",
+      "title": "How to navigate all those certifications in the voluntary carbon market - Trellis Group",
       "excerpt": "An unregulated field has become a crowded one. Read More Buyers in the voluntary carbon market often find it challenging to differentiate between higher- and lower-quality credits. One cause might be the range of organizations issuing carbon credits: According to a count released this week, at least 66 entities are currently doing so. The list includes well-established players that helped build the market, including Verra and Gold Standard, alongside notable new entries, such as Puro and Isometric, as well as a long tail of smaller and lesser-known…",
       "url": "https://trellis.net/article/voluntary-carbon-market-certifications/",
       "publishedAt": "2026-04-20T07:00:00.000Z",
@@ -2845,13 +2845,13 @@
       "region": "india"
     },
     {
-      "id": "google-h2-steel-decarbonisation-in-india-institute-2023-09-14",
+      "id": "google-h2-steel-decarbonisation-in-india-ieefa-org-2023-09-14",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "Steel decarbonisation in India - Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "title": "Steel decarbonisation in India - ieefa.org",
       "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  Executive Summary  About the…",
       "url": "https://ieefa.org/resources/steel-decarbonisation-india",
       "publishedAt": "2023-09-14T07:00:00.000Z",
