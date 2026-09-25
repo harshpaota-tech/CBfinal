@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-09-24T21:55:40.517Z",
+  "fetchedAt": "2026-09-25T05:42:10.785Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 62,
-    "india": 17,
-    "world": 45,
-    "withImages": 58,
-    "avgExcerptLength": 460,
+    "india": 18,
+    "world": 44,
+    "withImages": 59,
+    "avgExcerptLength": 468,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -108,7 +108,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - Down To Earth",
+        "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - downtoearth.org.in",
         "excerpt": "Copied Follow Us Listen to this article Summary BRICS leaders at the New Delhi Summit backed a BRICS Carbon Markets Partnership to share expertise, build capacity and link carbon markets with climate finance, while firmly opposing unilateral CBAMs by the EU and UK. India’s CCTS gaining UK recognition highlights both new export competitiveness opportunities and compliance challenges, especially for MSMEs facing demanding measurement and verification rules. The BRICS countries have backed greater cooperation on carbon markets, including implementation of…",
         "url": "https://www.downtoearth.org.in/climate-change/brics-backs-carbon-market-cooperation-while-opposing-unilateral-cbam",
         "publishedAt": "2026-09-12T07:00:00.000Z",
@@ -132,10 +132,10 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "UK Recognizes India’s Carbon Scheme Under CBAM, Easing Exporters’ Carbon Costs - carboncredits.com",
+        "title": "UK Recognizes India’s Carbon Scheme Under CBAM, Easing Exporters’ Carbon Costs - CarbonCredits.com",
         "excerpt": "The UK has recognized India’s Carbon Credit Trading Scheme (CCTS) as a qualifying carbon pricing scheme under its upcoming Carbon Border Adjustment Mechanism (CBAM). The move could reduce the carbon cost faced by Indian exporters when the UK’s CBAM begins on January 1, 2027. Under UK rules, qualifying carbon prices already paid on emissions embodied in imported goods may be taken into account when calculating the importer’s CBAM liability. This is designed to prevent the same emissions from being priced twice. India’s CCTS now appears on the UK’s…",
         "url": "https://carboncredits.com/uk-cbam-india-carbon-credit-trading-scheme/",
-        "publishedAt": "2026-09-08T16:55:32.000Z",
+        "publishedAt": "2026-09-08T07:00:00.000Z",
         "image": "https://carboncredits.com/wp-content/uploads/2026/09/shutterstock_2616328255.jpg",
         "country": "India",
         "methodology": null,
@@ -180,7 +180,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "Decarbonising the aluminium sector in India: implications of the Carbon Credit Trading Scheme - The London School of Economics and Political Science",
+        "title": "Decarbonising the aluminium sector in India: implications of the Carbon Credit Trading Scheme - lse.ac.uk",
         "excerpt": "Photo: Unsplash Download Decarbonising the aluminium sector in India (PDF) Few industrial materials are as crucial to the low-carbon transition in India as aluminium, which is essential in the manufacture of solar panels, and electric vehicle battery housings and transmission cables. But producing primary aluminium creates emissions of around 18 24 tonnes of carbon dioxide-equivalent (tCO e) in India, making it one of the most emission-intensive industrial processes in the world. The Indian Carbon Credit Trading Scheme (CCTS) aims to support the country…",
         "url": "https://www.lse.ac.uk/granthaminstitute/publication/decarbonising-the-aluminium-sector-in-india-implications-of-the-carbon-credit-trading-scheme/",
         "publishedAt": "2026-08-06T07:00:00.000Z",
@@ -198,13 +198,37 @@
         "region": "india"
       },
       {
+        "id": "google-h2-a-new-era-of-green-mobility-a-milestone--2026-08-06",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
+        "excerpt": "India s hydrogen-powered train Namo Green Rail. Photo Credit: Kshitij08, Wikipedia Commons Green hydrogen is emerging as sustainable and resilience sources of energy for achieving the target of net-zero carbon emissions. India user a new phase of green energy transaction with the launch of its first hydrogen-powered train. The train, is also known as Namo Green Rail, was flagged off by Prime Minister Narendra Modi, running from Jind to Sonipat city in the northern state of Haryana. Indian Railways achieving significant milestone by adopting sustainable…",
+        "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
+        "publishedAt": "2026-08-06T07:00:00.000Z",
+        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/08/a-51.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-india-india-s-carbon-market-sets-weak-emission-2026-07-31",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India’s carbon market sets weak emissions targets, analysis finds - Mongabay India",
+        "title": "India’s carbon market sets weak emissions targets, analysis finds - india.mongabay.com",
         "excerpt": "A critical evaluation of emissions reduction targets set under the country’s carbon market framework has deemed the targets “modest and unambitious” — unlikely to drive changes in operations that would reduce emissions substantially. Between October 2025 and January 2026 India notified greenhouse gas reduction targets for nine industries. Under the framework, industries can earn carbon credits if they surpass these reduction targets, with each credit signifying an additional tonne of carbon dioxide equivalent reduced per unit of production (emissions…",
         "url": "https://india.mongabay.com/2026/07/indias-carbon-market-sets-weak-emissions-targets-analysis-finds/",
         "publishedAt": "2026-07-31T07:00:00.000Z",
@@ -1171,30 +1195,6 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-09-14",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
-        "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
-        "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
-        "publishedAt": "2026-09-14T12:51:27.000Z",
-        "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdElNb1VIWGJmUlRQdS1vVUNqUlJHc0tMRWtTdW9ULU0tOG1BUmlyeThVSXNRYkVIZnpyUXBVWXdYTmJic2V0R3hMVXNvN3lNTFA5b3JRNUltMXlKcGladFlFNnZmUHk2?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-projects-open-for-public-comment-septemb-2026-09-14",
         "source": "verra",
         "sourceName": "Verra",
@@ -1334,29 +1334,6 @@
         "region": "world"
       },
       {
-        "id": "google-h2-a-new-era-of-green-mobility-a-milestone--2026-08-06",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
-        "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
-        "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
-        "publishedAt": "2026-08-06T07:00:00.000Z",
-        "image": null,
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1447,6 +1424,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-beyond-price-rethinking-carbon-credit-va-2024-11-27",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Beyond price: rethinking carbon credit value in the voluntary market - Lockton",
+        "excerpt": "Back Back Prices in voluntary carbon credit markets have declined broadly, but there is growing evidence of price differentiation based on quality attributes. This suggests the market is maturing in how it values carbon credits beyond traditional pricing. Voluntary carbon markets allow carbon emitters to offset their unavoidable emissions by purchasing carbon credits. These are generated by projects removing or reducing greenhouse gas (GHG) emissions from the atmosphere. The voluntary carbon credit market trades certified and transferrable instruments…",
+        "url": "https://global.lockton.com/news-insights/beyond-price-rethinking-carbon-credit-value-in-the-voluntary-market",
+        "publishedAt": "2024-11-27T08:00:00.000Z",
+        "image": "https://d2vppzocvtms05.cloudfront.net/media/0B4364C5-217D-4EFD-B9C36F1977EF6D20/CEAE51AE-8D32-420E-9AE3CF9B2779C87D/webimage-2BC26D0B-8591-4912-AD0175D1031B7F2F.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUl4R2taazBndXh6OERQbm1mNzZ2NVB3UW5FRXlKT3ZJZGJ2TTRocXBkSXIzV2xJM19zR2NDWk54cnhQM1Q1d1ZHRThpelVsWm4yMFNhdzMxX05HSVNzaVNhOWx3cWZmRUZoYU9FTEEzRUt3WTBGLWJZbnVKcHJ0bXU0V0FBQjdUbzBnMlQ5WkU4WVpKYS1uM29BZ0l0eWVsT1RMYUdiZ0lreldf?oc=5",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -2232,30 +2233,6 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-09-14",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
-      "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
-      "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
-      "publishedAt": "2026-09-14T12:51:27.000Z",
-      "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdElNb1VIWGJmUlRQdS1vVUNqUlJHc0tMRWtTdW9ULU0tOG1BUmlyeThVSXNRYkVIZnpyUXBVWXdYTmJic2V0R3hMVXNvN3lNTFA5b3JRNUltMXlKcGladFlFNnZmUHk2?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-septemb-2026-09-14",
       "source": "verra",
       "sourceName": "Verra",
@@ -2285,7 +2262,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - Down To Earth",
+      "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - downtoearth.org.in",
       "excerpt": "Copied Follow Us Listen to this article Summary BRICS leaders at the New Delhi Summit backed a BRICS Carbon Markets Partnership to share expertise, build capacity and link carbon markets with climate finance, while firmly opposing unilateral CBAMs by the EU and UK. India’s CCTS gaining UK recognition highlights both new export competitiveness opportunities and compliance challenges, especially for MSMEs facing demanding measurement and verification rules. The BRICS countries have backed greater cooperation on carbon markets, including implementation of…",
       "url": "https://www.downtoearth.org.in/climate-change/brics-backs-carbon-market-cooperation-while-opposing-unilateral-cbam",
       "publishedAt": "2026-09-12T07:00:00.000Z",
@@ -2309,10 +2286,10 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "UK Recognizes India’s Carbon Scheme Under CBAM, Easing Exporters’ Carbon Costs - carboncredits.com",
+      "title": "UK Recognizes India’s Carbon Scheme Under CBAM, Easing Exporters’ Carbon Costs - CarbonCredits.com",
       "excerpt": "The UK has recognized India’s Carbon Credit Trading Scheme (CCTS) as a qualifying carbon pricing scheme under its upcoming Carbon Border Adjustment Mechanism (CBAM). The move could reduce the carbon cost faced by Indian exporters when the UK’s CBAM begins on January 1, 2027. Under UK rules, qualifying carbon prices already paid on emissions embodied in imported goods may be taken into account when calculating the importer’s CBAM liability. This is designed to prevent the same emissions from being priced twice. India’s CCTS now appears on the UK’s…",
       "url": "https://carboncredits.com/uk-cbam-india-carbon-credit-trading-scheme/",
-      "publishedAt": "2026-09-08T16:55:32.000Z",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
       "image": "https://carboncredits.com/wp-content/uploads/2026/09/shutterstock_2616328255.jpg",
       "country": "India",
       "methodology": null,
@@ -2473,7 +2450,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "Decarbonising the aluminium sector in India: implications of the Carbon Credit Trading Scheme - The London School of Economics and Political Science",
+      "title": "Decarbonising the aluminium sector in India: implications of the Carbon Credit Trading Scheme - lse.ac.uk",
       "excerpt": "Photo: Unsplash Download Decarbonising the aluminium sector in India (PDF) Few industrial materials are as crucial to the low-carbon transition in India as aluminium, which is essential in the manufacture of solar panels, and electric vehicle battery housings and transmission cables. But producing primary aluminium creates emissions of around 18 24 tonnes of carbon dioxide-equivalent (tCO e) in India, making it one of the most emission-intensive industrial processes in the world. The Indian Carbon Credit Trading Scheme (CCTS) aims to support the country…",
       "url": "https://www.lse.ac.uk/granthaminstitute/publication/decarbonising-the-aluminium-sector-in-india-implications-of-the-carbon-credit-trading-scheme/",
       "publishedAt": "2026-08-06T07:00:00.000Z",
@@ -2498,10 +2475,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
-      "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
+      "excerpt": "India s hydrogen-powered train Namo Green Rail. Photo Credit: Kshitij08, Wikipedia Commons Green hydrogen is emerging as sustainable and resilience sources of energy for achieving the target of net-zero carbon emissions. India user a new phase of green energy transaction with the launch of its first hydrogen-powered train. The train, is also known as Namo Green Rail, was flagged off by Prime Minister Narendra Modi, running from Jind to Sonipat city in the northern state of Haryana. Indian Railways achieving significant milestone by adopting sustainable…",
       "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
       "publishedAt": "2026-08-06T07:00:00.000Z",
-      "image": null,
+      "image": "https://www.eurasiareview.com/wp-content/uploads/2026/08/a-51.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2509,9 +2486,10 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5",
+        "imageSource": "publisher"
       },
-      "region": "world"
+      "region": "india"
     },
     {
       "id": "google-india-india-s-carbon-market-sets-weak-emission-2026-07-31",
@@ -2520,7 +2498,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India’s carbon market sets weak emissions targets, analysis finds - Mongabay India",
+      "title": "India’s carbon market sets weak emissions targets, analysis finds - india.mongabay.com",
       "excerpt": "A critical evaluation of emissions reduction targets set under the country’s carbon market framework has deemed the targets “modest and unambitious” — unlikely to drive changes in operations that would reduce emissions substantially. Between October 2025 and January 2026 India notified greenhouse gas reduction targets for nine industries. Under the framework, industries can earn carbon credits if they surpass these reduction targets, with each credit signifying an additional tonne of carbon dioxide equivalent reduced per unit of production (emissions…",
       "url": "https://india.mongabay.com/2026/07/indias-carbon-market-sets-weak-emissions-targets-analysis-finds/",
       "publishedAt": "2026-07-31T07:00:00.000Z",
@@ -2869,6 +2847,30 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-carbon-beyond-price-rethinking-carbon-credit-va-2024-11-27",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Beyond price: rethinking carbon credit value in the voluntary market - Lockton",
+      "excerpt": "Back Back Prices in voluntary carbon credit markets have declined broadly, but there is growing evidence of price differentiation based on quality attributes. This suggests the market is maturing in how it values carbon credits beyond traditional pricing. Voluntary carbon markets allow carbon emitters to offset their unavoidable emissions by purchasing carbon credits. These are generated by projects removing or reducing greenhouse gas (GHG) emissions from the atmosphere. The voluntary carbon credit market trades certified and transferrable instruments…",
+      "url": "https://global.lockton.com/news-insights/beyond-price-rethinking-carbon-credit-value-in-the-voluntary-market",
+      "publishedAt": "2024-11-27T08:00:00.000Z",
+      "image": "https://d2vppzocvtms05.cloudfront.net/media/0B4364C5-217D-4EFD-B9C36F1977EF6D20/CEAE51AE-8D32-420E-9AE3CF9B2779C87D/webimage-2BC26D0B-8591-4912-AD0175D1031B7F2F.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUl4R2taazBndXh6OERQbm1mNzZ2NVB3UW5FRXlKT3ZJZGJ2TTRocXBkSXIzV2xJM19zR2NDWk54cnhQM1Q1d1ZHRThpelVsWm4yMFNhdzMxX05HSVNzaVNhOWx3cWZmRUZoYU9FTEEzRUt3WTBGLWJZbnVKcHJ0bXU0V0FBQjdUbzBnMlQ5WkU4WVpKYS1uM29BZ0l0eWVsT1RMYUdiZ0lreldf?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
     },
     {
       "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
