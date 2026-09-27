@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-09-26T21:46:21.709Z",
+  "fetchedAt": "2026-09-27T06:04:25.019Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 17,
     "world": 45,
-    "withImages": 57,
-    "avgExcerptLength": 455,
+    "withImages": 56,
+    "avgExcerptLength": 447,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -132,7 +132,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "UK Recognizes India’s Carbon Scheme Under CBAM, Easing Exporters’ Carbon Costs - CarbonCredits.com",
+        "title": "UK Recognizes India’s Carbon Scheme Under CBAM, Easing Exporters’ Carbon Costs - carboncredits.com",
         "excerpt": "The UK has recognized India’s Carbon Credit Trading Scheme (CCTS) as a qualifying carbon pricing scheme under its upcoming Carbon Border Adjustment Mechanism (CBAM). The move could reduce the carbon cost faced by Indian exporters when the UK’s CBAM begins on January 1, 2027. Under UK rules, qualifying carbon prices already paid on emissions embodied in imported goods may be taken into account when calculating the importer’s CBAM liability. This is designed to prevent the same emissions from being priced twice. India’s CCTS now appears on the UK’s…",
         "url": "https://carboncredits.com/uk-cbam-india-carbon-credit-trading-scheme/",
         "publishedAt": "2026-09-08T07:00:00.000Z",
@@ -198,13 +198,36 @@
         "region": "india"
       },
       {
+        "id": "google-h2-seci-invites-eoi-to-identify-co-sources--2026-08-06",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "SECI Invites EOI to Identify CO₂ Sources for Green Urea and RFNBO Compliant Green Methanol - Energetica India Magazine",
+        "excerpt": "SECI Invites EOI to Identify CO₂ Sources for Green Urea and RFNBO Compliant Green Methanol Energetica India Magazine",
+        "url": "https://www.energetica-india.net/news/seci-invites-eoi-to-identify-co-sources-for-green-urea-and-rfnbo-compliant-green-methanol",
+        "publishedAt": "2026-08-06T07:00:00.000Z",
+        "image": null,
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWpIbEhBdUhnamNsaFlobEl4NmgwZENEWm50aFZfMTFpdEs3dHhoQXBad1ZCRXBUX2p3ZWtGNEhTX3hzT2pxY2JVamI0YWhPS0JGS0J4dV9jY093d2MxNzE5dGRiNUpoVEhJMFNQdk1JU2RJZzI2NEpXWlJiQ3poN2U0Mmd0dFRDeFdvUXgzaXI0T2pNVnZlYWJpaE1OMXg1bnBPS2h3ZW5tMk1JdnpCRG9sTVA4UFdxNUdsM2RablE1a3RidGc?oc=5"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-india-india-s-carbon-market-sets-weak-emission-2026-07-31",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "India’s carbon market sets weak emissions targets, analysis finds - Mongabay India",
+        "title": "India’s carbon market sets weak emissions targets, analysis finds - india.mongabay.com",
         "excerpt": "A critical evaluation of emissions reduction targets set under the country’s carbon market framework has deemed the targets “modest and unambitious” — unlikely to drive changes in operations that would reduce emissions substantially. Between October 2025 and January 2026 India notified greenhouse gas reduction targets for nine industries. Under the framework, industries can earn carbon credits if they surpass these reduction targets, with each credit signifying an additional tonne of carbon dioxide equivalent reduced per unit of production (emissions…",
         "url": "https://india.mongabay.com/2026/07/indias-carbon-market-sets-weak-emissions-targets-analysis-finds/",
         "publishedAt": "2026-07-31T07:00:00.000Z",
@@ -242,29 +265,6 @@
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
           "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-india-s-green-hydrogen-plans-gain-pace-b-2026-07-28",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "India's green hydrogen plans gain pace, but demand and costs pose hurdles - Business Standard",
-        "excerpt": "India's green hydrogen plans gain pace, but demand and costs pose hurdles Business Standard",
-        "url": "https://www.business-standard.com/industry/news/india-s-green-hydrogen-plans-gain-pace-but-demand-and-costs-pose-hurdles-126072801706_1.html",
-        "publishedAt": "2026-07-28T07:00:00.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN0Y0SVVQT0RlRzdVcWZSZ0lRUGdIWFg3QU5mNTRfdGhIMURWWE10SnFmUFlGeExHTFhqamdLQ3dGcHNJZkFQb2RidF9ZZDA5MDQyQVVkXzNhRXZsTXdnSEJVdzNQWDhweTZUV3YxVGRCVXg4M2VLQWVOY25FZlhYMXVLNDJKUFEybGxObVcxaFFMczRpNEZJTmpqcHdCbnpTS3Z2SDBqa2ZkQVNvamhqWnNZWVRsRGN4MGx2eUR4ZlNZdHBibUd5Y1A4WVB1bzhtME54TDJXSdIB3AFBVV95cUxPbXhyQTVva1A2anpSN2xzbmFUOVlmYUpnTmlrR2UycnRBV1BfUnlKclBUcnBUZVptOHpPYmZSZDRHeTVHOC10U3JEWHBaQTlhSHg0YnVaMjZIZHJWZ2hJUzliMUx3bE9LZWpWRVVLN21aNndqbTJ5dGV2dXNRSXVDbE1fLUI2WTNEWUlJMlc4Q2ZMN01hRjA0b3MyN0QxaC1uWTRkWUdzMm9JVl9RQURIY3VVcnFDWFZ1UXB0cFFNTlJNR2dNLW9fZzktczE1cWlxTU1kV1VuS3B6d3R5?oc=5"
         },
         "region": "india"
       },
@@ -443,10 +443,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -454,8 +454,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
         },
         "region": "india"
       }
@@ -1170,6 +1169,30 @@
         "region": "world"
       },
       {
+        "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-09-14",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
+        "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
+        "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
+        "publishedAt": "2026-09-14T12:51:27.000Z",
+        "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdElNb1VIWGJmUlRQdS1vVUNqUlJHc0tMRWtTdW9ULU0tOG1BUmlyeThVSXNRYkVIZnpyUXBVWXdYTmJic2V0R3hMVXNvN3lNTFA5b3JRNUltMXlKcGladFlFNnZmUHk2?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "verra-projects-open-for-public-comment-septemb-2026-09-14",
         "source": "verra",
         "sourceName": "Verra",
@@ -1315,8 +1338,8 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
-        "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
+        "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - eurasiareview.com",
+        "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd eurasiareview.com",
         "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
         "publishedAt": "2026-08-06T07:00:00.000Z",
         "image": null,
@@ -1426,37 +1449,13 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-beyond-price-rethinking-carbon-credit-va-2024-11-27",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Beyond price: rethinking carbon credit value in the voluntary market - Lockton",
-        "excerpt": "Back Back Prices in voluntary carbon credit markets have declined broadly, but there is growing evidence of price differentiation based on quality attributes. This suggests the market is maturing in how it values carbon credits beyond traditional pricing. Voluntary carbon markets allow carbon emitters to offset their unavoidable emissions by purchasing carbon credits. These are generated by projects removing or reducing greenhouse gas (GHG) emissions from the atmosphere. The voluntary carbon credit market trades certified and transferrable instruments…",
-        "url": "https://global.lockton.com/news-insights/beyond-price-rethinking-carbon-credit-value-in-the-voluntary-market",
-        "publishedAt": "2024-11-27T08:00:00.000Z",
-        "image": "https://d2vppzocvtms05.cloudfront.net/media/0B4364C5-217D-4EFD-B9C36F1977EF6D20/CEAE51AE-8D32-420E-9AE3CF9B2779C87D/webimage-2BC26D0B-8591-4912-AD0175D1031B7F2F.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUl4R2taazBndXh6OERQbm1mNzZ2NVB3UW5FRXlKT3ZJZGJ2TTRocXBkSXIzV2xJM19zR2NDWk54cnhQM1Q1d1ZHRThpelVsWm4yMFNhdzMxX05HSVNzaVNhOWx3cWZmRUZoYU9FTEEzRUt3WTBGLWJZbnVKcHJ0bXU0V0FBQjdUbzBnMlQ5WkU4WVpKYS1uM29BZ0l0eWVsT1RMYUdiZ0lreldf?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
-        "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - theguardian.com",
+        "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - The Guardian",
         "excerpt": "The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images View image in fullscreen The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images The age of extinction Carbon offsetting This article is more than 3 years old Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless,…",
         "url": "https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe",
         "publishedAt": "2023-01-18T08:00:00.000Z",
@@ -2231,6 +2230,30 @@
       "region": "world"
     },
     {
+      "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-09-14",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
+      "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
+      "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
+      "publishedAt": "2026-09-14T12:51:27.000Z",
+      "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdElNb1VIWGJmUlRQdS1vVUNqUlJHc0tMRWtTdW9ULU0tOG1BUmlyeThVSXNRYkVIZnpyUXBVWXdYTmJic2V0R3hMVXNvN3lNTFA5b3JRNUltMXlKcGladFlFNnZmUHk2?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "verra-projects-open-for-public-comment-septemb-2026-09-14",
       "source": "verra",
       "sourceName": "Verra",
@@ -2284,7 +2307,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "UK Recognizes India’s Carbon Scheme Under CBAM, Easing Exporters’ Carbon Costs - CarbonCredits.com",
+      "title": "UK Recognizes India’s Carbon Scheme Under CBAM, Easing Exporters’ Carbon Costs - carboncredits.com",
       "excerpt": "The UK has recognized India’s Carbon Credit Trading Scheme (CCTS) as a qualifying carbon pricing scheme under its upcoming Carbon Border Adjustment Mechanism (CBAM). The move could reduce the carbon cost faced by Indian exporters when the UK’s CBAM begins on January 1, 2027. Under UK rules, qualifying carbon prices already paid on emissions embodied in imported goods may be taken into account when calculating the importer’s CBAM liability. This is designed to prevent the same emissions from being priced twice. India’s CCTS now appears on the UK’s…",
       "url": "https://carboncredits.com/uk-cbam-india-carbon-credit-trading-scheme/",
       "publishedAt": "2026-09-08T07:00:00.000Z",
@@ -2472,8 +2495,8 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
-      "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
+      "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - eurasiareview.com",
+      "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd eurasiareview.com",
       "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "image": null,
@@ -2489,13 +2512,36 @@
       "region": "world"
     },
     {
+      "id": "google-h2-seci-invites-eoi-to-identify-co-sources--2026-08-06",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "SECI Invites EOI to Identify CO₂ Sources for Green Urea and RFNBO Compliant Green Methanol - Energetica India Magazine",
+      "excerpt": "SECI Invites EOI to Identify CO₂ Sources for Green Urea and RFNBO Compliant Green Methanol Energetica India Magazine",
+      "url": "https://www.energetica-india.net/news/seci-invites-eoi-to-identify-co-sources-for-green-urea-and-rfnbo-compliant-green-methanol",
+      "publishedAt": "2026-08-06T07:00:00.000Z",
+      "image": null,
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWpIbEhBdUhnamNsaFlobEl4NmgwZENEWm50aFZfMTFpdEs3dHhoQXBad1ZCRXBUX2p3ZWtGNEhTX3hzT2pxY2JVamI0YWhPS0JGS0J4dV9jY093d2MxNzE5dGRiNUpoVEhJMFNQdk1JU2RJZzI2NEpXWlJiQ3poN2U0Mmd0dFRDeFdvUXgzaXI0T2pNVnZlYWJpaE1OMXg1bnBPS2h3ZW5tMk1JdnpCRG9sTVA4UFdxNUdsM2RablE1a3RidGc?oc=5"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-india-india-s-carbon-market-sets-weak-emission-2026-07-31",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "India’s carbon market sets weak emissions targets, analysis finds - Mongabay India",
+      "title": "India’s carbon market sets weak emissions targets, analysis finds - india.mongabay.com",
       "excerpt": "A critical evaluation of emissions reduction targets set under the country’s carbon market framework has deemed the targets “modest and unambitious” — unlikely to drive changes in operations that would reduce emissions substantially. Between October 2025 and January 2026 India notified greenhouse gas reduction targets for nine industries. Under the framework, industries can earn carbon credits if they surpass these reduction targets, with each credit signifying an additional tonne of carbon dioxide equivalent reduced per unit of production (emissions…",
       "url": "https://india.mongabay.com/2026/07/indias-carbon-market-sets-weak-emissions-targets-analysis-finds/",
       "publishedAt": "2026-07-31T07:00:00.000Z",
@@ -2533,29 +2579,6 @@
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
         "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-h2-india-s-green-hydrogen-plans-gain-pace-b-2026-07-28",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "India's green hydrogen plans gain pace, but demand and costs pose hurdles - Business Standard",
-      "excerpt": "India's green hydrogen plans gain pace, but demand and costs pose hurdles Business Standard",
-      "url": "https://www.business-standard.com/industry/news/india-s-green-hydrogen-plans-gain-pace-but-demand-and-costs-pose-hurdles-126072801706_1.html",
-      "publishedAt": "2026-07-28T07:00:00.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN0Y0SVVQT0RlRzdVcWZSZ0lRUGdIWFg3QU5mNTRfdGhIMURWWE10SnFmUFlGeExHTFhqamdLQ3dGcHNJZkFQb2RidF9ZZDA5MDQyQVVkXzNhRXZsTXdnSEJVdzNQWDhweTZUV3YxVGRCVXg4M2VLQWVOY25FZlhYMXVLNDJKUFEybGxObVcxaFFMczRpNEZJTmpqcHdCbnpTS3Z2SDBqa2ZkQVNvamhqWnNZWVRsRGN4MGx2eUR4ZlNZdHBibUd5Y1A4WVB1bzhtME54TDJXSdIB3AFBVV95cUxPbXhyQTVva1A2anpSN2xzbmFUOVlmYUpnTmlrR2UycnRBV1BfUnlKclBUcnBUZVptOHpPYmZSZDRHeTVHOC10U3JEWHBaQTlhSHg0YnVaMjZIZHJWZ2hJUzliMUx3bE9LZWpWRVVLN21aNndqbTJ5dGV2dXNRSXVDbE1fLUI2WTNEWUlJMlc4Q2ZMN01hRjA0b3MyN0QxaC1uWTRkWUdzMm9JVl9RQURIY3VVcnFDWFZ1UXB0cFFNTlJNR2dNLW9fZzktczE1cWlxTU1kV1VuS3B6d3R5?oc=5"
       },
       "region": "india"
     },
@@ -2805,10 +2828,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2816,8 +2839,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
       },
       "region": "india"
     },
@@ -2845,37 +2867,13 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-beyond-price-rethinking-carbon-credit-va-2024-11-27",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Beyond price: rethinking carbon credit value in the voluntary market - Lockton",
-      "excerpt": "Back Back Prices in voluntary carbon credit markets have declined broadly, but there is growing evidence of price differentiation based on quality attributes. This suggests the market is maturing in how it values carbon credits beyond traditional pricing. Voluntary carbon markets allow carbon emitters to offset their unavoidable emissions by purchasing carbon credits. These are generated by projects removing or reducing greenhouse gas (GHG) emissions from the atmosphere. The voluntary carbon credit market trades certified and transferrable instruments…",
-      "url": "https://global.lockton.com/news-insights/beyond-price-rethinking-carbon-credit-value-in-the-voluntary-market",
-      "publishedAt": "2024-11-27T08:00:00.000Z",
-      "image": "https://d2vppzocvtms05.cloudfront.net/media/0B4364C5-217D-4EFD-B9C36F1977EF6D20/CEAE51AE-8D32-420E-9AE3CF9B2779C87D/webimage-2BC26D0B-8591-4912-AD0175D1031B7F2F.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUl4R2taazBndXh6OERQbm1mNzZ2NVB3UW5FRXlKT3ZJZGJ2TTRocXBkSXIzV2xJM19zR2NDWk54cnhQM1Q1d1ZHRThpelVsWm4yMFNhdzMxX05HSVNzaVNhOWx3cWZmRUZoYU9FTEEzRUt3WTBGLWJZbnVKcHJ0bXU0V0FBQjdUbzBnMlQ5WkU4WVpKYS1uM29BZ0l0eWVsT1RMYUdiZ0lreldf?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
       "type": "esg",
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
-      "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - theguardian.com",
+      "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - The Guardian",
       "excerpt": "The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images View image in fullscreen The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images The age of extinction Carbon offsetting This article is more than 3 years old Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless,…",
       "url": "https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe",
       "publishedAt": "2023-01-18T08:00:00.000Z",
