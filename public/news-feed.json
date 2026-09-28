@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-09-28T06:14:42.666Z",
+  "fetchedAt": "2026-09-28T15:10:45.580Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,16 +45,40 @@
   ],
   "stats": {
     "total": 62,
-    "india": 16,
-    "world": 46,
-    "withImages": 57,
-    "avgExcerptLength": 450,
+    "india": 18,
+    "world": 44,
+    "withImages": 58,
+    "avgExcerptLength": 456,
     "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "google-india-india-s-bid-to-keep-carbon-cash-home-as--2026-09-28",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India’s bid to keep carbon cash home as Europe adds a new trade cost - The Economic Times",
+        "excerpt": "Listen to this article in summarized format Listen Loading... Subscribe to Unlock AI Briefing and Premium Content Can Fly91’s flightpath for India’s smallest airline defy the doomy past? Everyone asks who will fund AI. Few ask who pays if it burns Smugglonomics: Geckos, dry dates, human hair – what makes something worth smuggling? Building recycling plants is fine. Will they get enough scrap? Biogas found its ethanol moment this month. Can it now find scale? Gold prices: Caught in a three-way tug-of-war",
+        "url": "https://m.economictimes.com/news/economy/foreign-trade/india-exports-carbon-market-ccts-cbam-europe-new-border-tax/articleshow/134531752.cms",
+        "publishedAt": "2026-09-28T05:26:22.000Z",
+        "image": "https://img.etimg.com/thumb/msid-134531826,width-1200,height-630,imgsize-280854,overlay-economictimes/articleshow.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYzV5bWFNNkJRal9BYU9pTXJIdjg0VHJqWXBva2lBMGRVZkVRelpuVUlYTFM5aE04NXo1XzVfMWtvVHFlZEU5WVRYZFlPNzhGR0ZBaTZxd0FJdUtjdWlmcmYwSlI4SDliUDNyZGw3S0hPa1pUTEh5OWJCc1hmNkN1N0Npc3c1ckFlNjQ5TmlQanpSeWhtbFoyM2dvVmQteFBKS2NoU01nSlM2V0JjTmhXTFNFdm80dG1yaTdKMDRaWTdTbEVYekFfWl96Q0pfQ3RGbDFMTHlINNIB3AFBVV95cUxQMElPT3dEbldrQnl6V0kwRVJyUnZxSk9tYmxxRjNoSTVoTlVENFJvMEJRYW91OXF3SjZldU93SEVlZlBuUUJUR0liSnFIZllVa0kyODVyVXdHRWtWQ1JDeFlCemQyVWtuWVI1YXE0TjNlSzVoTFZBdlV0QlRzSEt6RHFjYWZVOWpEUUNTQVNhMW54RnJWbHYtSHpvVE9kUjdXUlZCQjJQUk5hV2FGWFh2YUxuLUhzMFZ5cFlIZEg0RXZURWE0eG5JMDhIU1FqTnhrRzhPMG5DQU5lVkND?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
       {
         "id": "google-india-how-is-the-carbon-credit-market-in-india-2026-09-18",
         "source": "google-india",
@@ -108,7 +132,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - Down To Earth",
+        "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - downtoearth.org.in",
         "excerpt": "Copied Follow Us Listen to this article Summary BRICS leaders at the New Delhi Summit backed a BRICS Carbon Markets Partnership to share expertise, build capacity and link carbon markets with climate finance, while firmly opposing unilateral CBAMs by the EU and UK. India’s CCTS gaining UK recognition highlights both new export competitiveness opportunities and compliance challenges, especially for MSMEs facing demanding measurement and verification rules. The BRICS countries have backed greater cooperation on carbon markets, including implementation of…",
         "url": "https://www.downtoearth.org.in/climate-change/brics-backs-carbon-market-cooperation-while-opposing-unilateral-cbam",
         "publishedAt": "2026-09-12T07:00:00.000Z",
@@ -198,6 +222,30 @@
         "region": "india"
       },
       {
+        "id": "google-h2-a-new-era-of-green-mobility-a-milestone--2026-08-06",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
+        "excerpt": "India s hydrogen-powered train Namo Green Rail. Photo Credit: Kshitij08, Wikipedia Commons Green hydrogen is emerging as sustainable and resilience sources of energy for achieving the target of net-zero carbon emissions. India user a new phase of green energy transaction with the launch of its first hydrogen-powered train. The train, is also known as Namo Green Rail, was flagged off by Prime Minister Narendra Modi, running from Jind to Sonipat city in the northern state of Haryana. Indian Railways achieving significant milestone by adopting sustainable…",
+        "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
+        "publishedAt": "2026-08-06T07:00:00.000Z",
+        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/08/a-51.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-india-india-s-carbon-market-sets-weak-emission-2026-07-31",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -269,37 +317,13 @@
         "region": "india"
       },
       {
-        "id": "google-india-most-zombie-credits-locked-out-of-new-un-2026-07-17",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - Climate Home News",
-        "excerpt": "Matteo Civillini Reporter Editing: Joe Lo X (Twitter) Facebook LinkedIn WhatsApp Email Print China and India have declined to back any of their old United Nations carbon credit projects seeking to sell offsets under the new UN market, driving a cull of nearly three-quarters of applicants, analysis of official data shows. Only 415 out of more than 1,500 projects and programmes hoping to move from the Clean Development Mechanism (CDM) to the new carbon market set up under Article 6.4 of the Paris Agreement won the approval of their host governments by the…",
-        "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
-        "publishedAt": "2026-07-17T07:00:00.000Z",
-        "image": "https://www.climatechangenews.com/wp-content/files/2026/07/GettyImages-991792894-1440x954.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUlVUGJ4V2U0aFhFRmw1QjdOTXBobGJDSGlLb2podFdaVnZBcTlKMVBsQmJVX0lKcmhnY253OUJMbEstcml4OXRfN1EtQWxUVi1KSkY0bktfLWx3SzRXVnZfYklyOUZlaVR5QmRfZUJUUllwVHpzX2w0cFRWeWV0bUVlUlNINlF3VlF4NlJWQjcwbExPbnRtazZ1VW5Yb0pSRHZ0SFlJNkltZzk2RVJTN09SRng4ZXd5eVhWRVdVbzJpRndfS2c?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-14",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "The road ahead for India’s Carbon Credit Trading Scheme - ieefa.org",
+        "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
         "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
         "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
         "publishedAt": "2026-07-14T07:00:00.000Z",
@@ -365,13 +389,37 @@
         "region": "india"
       },
       {
+        "id": "google-carbon-global-blue-carbon-market-to-reach-usd-1-2026-03-25",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
+        "excerpt": "Strong CAGR of 24.0% reflects premium shift in voluntary carbon markets toward durable, high-integrity removal credits NEWARK, Del. , March 25, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global blue carbon market, valued at USD 1.0 billion in 2025, is projected to reach USD 1.2 billion in 2026 and expand significantly to USD 10.3 billion by 2036, growing at a CAGR of 24.0% during the forecast period, according to analysis by Future Market Insights. The Blue Carbon market is expected to generate an absolute…",
+        "url": "https://www.prnewswire.co.uk/news-releases/global-blue-carbon-market-to-reach-usd-10-3-billion-by-2036--with-strong-growth-across-asia-pacific-india-and-the-us-led-by-verra-gold-standard-and-conservation-international-302724782.html",
+        "publishedAt": "2026-03-25T07:00:00.000Z",
+        "image": "https://mma.prnewswire.com/media/1197648/3531122/FMI_Logo.jpg?p=facebook",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxORU40NERySjF1ZVh1cGlYZzdHa09sblVKYlNHRHktbUw0UUxhbzliTWc5SFNSb3BWRnBRMUsxa2lEa01BR055Qk1LVWtrejMzQm9xeUhvcUkxSUJpOWwxNkxsRDdoaDBwUmhGS0pDNnI4d0Eya2RZc2lhcHNCYm5HZXdjWDRlRjhRODRhaG5Iazdya2FtYjRyb3JtWUVaWFp5bWtZVy1vUWo4VnZMOFhZOS15NHNhVExMZUpvaDBOWUhELVdXRTJPN2hyTGVaVUhwWDFqZ01FWnRyNUJyV1J5ZUlRdHFwbjl2bHVKZ25LWmJSVjRlaTFuNnFXZkNic2Ztd3JfRTRPb1lJX2ZqZW1lVlJTMHZGSm5taU50NlEtcXlpcHBpeFBoT0x4dlRXV2l6azZhWVY3UXRMczBRekZpNXA5RjNkWjR6MzBvQ0RRc0lidw?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "Decarbonizing India’s Development Journey - Drishti IAS",
+        "title": "Decarbonizing India’s Development Journey - drishtiias.com",
         "excerpt": "This editorial is based on From budget provision to national capability: Why India s CCUS commitment matters which was published in The Hindustan Times on 23/02/2026. This editorial provides a comprehensive status on India's multidimensional decarbonization strategy, it critically examines the friction between coal-based energy security and the ambitious leap toward a technology-led, net-zero industrial landscape. For Prelims: Carbon Credit Trading Scheme (CCTS) , CCUS , PM Surya Ghar Muft Bijli Yojana , Perform Achieve and Trade , Battery Energy…",
         "url": "https://www.drishtiias.com/daily-updates/daily-news-editorials/decarbonizing-indias-development-journey",
         "publishedAt": "2026-02-25T08:00:00.000Z",
@@ -395,8 +443,8 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s Green Hydrogen Ambition - millenniumpost.in",
-        "excerpt": "India’s Green Hydrogen Ambition millenniumpost.in",
+        "title": "India’s Green Hydrogen Ambition - MillenniumPost",
+        "excerpt": "India’s Green Hydrogen Ambition MillenniumPost",
         "url": "https://www.millenniumpost.in/opinion/indias-green-hydrogen-ambition-645091",
         "publishedAt": "2026-01-21T08:00:00.000Z",
         "image": null,
@@ -418,7 +466,7 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
+        "title": "India’s green hydrogen policy wrap 2025 - powerpeakdigest.com",
         "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
@@ -437,6 +485,184 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-jpmorgan-natural-capital-paraguay-launch-2026-09-28",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "JPMorgan Natural Capital, Paraguay Launch $200 Million Sustainable Forestry Platform",
+        "excerpt": "J.P. Morgan Asset Management’s (JPMAM) natural capital unit, J.P. Morgan Natural Capital, and the Office of the President of the Republic of Paraguay announced the launch of a new large-scale sustainable forestry platform, with an investment of approximately $200 million. According to JPMorgan, the new platform investment focuses on establishing commercial forests, advancing native forest restoration, and creating long-term value through the sustainable production of high-quality timber, carbon credits, and wood-products. Capital deployment is expected…",
+        "url": "https://www.esgtoday.com/jpmorgan-natural-capital-paraguay-launch-200-million-sustainable-forestry-platform/?utm_source=rss utm_medium=rss utm_campaign=jpmorgan-natural-capital-paraguay-launch-200-million-sustainable-forestry-platform",
+        "publishedAt": "2026-09-28T13:58:57.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/JPMorgan4.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Government",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-cr-dit-agricole-launches-new-natural-cap-2026-09-28",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Crédit Agricole Launches New Natural Capital Finance and Investment Division",
+        "excerpt": "Paris-based international banking and investment group Crédit Agricole announced Monday the launch of Crédit Agricole Capital Naturel, a new division focused on supporting companies, investors and other stakeholders in addressing challenges related to the preservation and restoration of natural resources, with an initial focus on forests. The announcement marks the latest move by major financial players to deepen their focus on the natural capital sector, following JP Morgan’s recently announced rebrand of its timberland investment advisory company…",
+        "url": "https://www.esgtoday.com/credit-agricole-launches-new-natural-capital-finance-and-investment-business/?utm_source=rss utm_medium=rss utm_campaign=credit-agricole-launches-new-natural-capital-finance-and-investment-business",
+        "publishedAt": "2026-09-28T13:19:31.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Credit-Agricole-Jaulin.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-projects-open-for-public-comment-septemb-2026-09-28",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Projects Open for Public Comment: September 28, 2026",
+        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+        "url": "https://verra.org/projects-open-for-public-comment-september-28-2026/",
+        "publishedAt": "2026-09-28T12:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2024/04/Agents-of-Change-Orchestrating-the-Recycling-Chain-4470-OMA-Ativos-Ambientais-S.A-Brazil-Plastic-waste-bales-1024x683.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-barclays-appoints-paul-williams-as-globa-2026-09-28",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Barclays Appoints Paul Williams as Global Head of Operational Sustainability",
+        "excerpt": "UK-based banking group Barclays has appointed Paul Williams as its new Global Head of Operational Sustainability. In his new role, Williams will be responsible for leading Barclays’ sustainable operations strategy, embedding sustainability across Procurement, Global Real Estate, Technology and wider business operations to help deliver on the bank’s strategic commitments, regulatory requirements and long-term sustainability objectives. Williams joins Barclays from Deutsche Bank, where he has served since 2024 as Global Head of Sustainable Procurement.…",
+        "url": "https://www.esgtoday.com/barclays-appoints-paul-williams-as-global-head-of-operational-sustainability/?utm_source=rss utm_medium=rss utm_campaign=barclays-appoints-paul-williams-as-global-head-of-operational-sustainability",
+        "publishedAt": "2026-09-28T11:36:27.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Barclays-Williams.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Executive Moves",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-secures-icvcm-approval-for-carbon--2026-09-28",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Secures ICVCM Approval for Carbon Capture and Storage Methodology",
+        "excerpt": "WASHINGTON – Sept. 28, 2026 | Verra s carbon capture and storage (CCS) methodology and its accompanying modules have been approved by the Integrity Council for the Voluntary Carbon Market (ICVCM) as meeting the Core Carbon Principles (CCPs), a clear market signal that credits generated under this methodology are of the highest integrity. This update adds a major technology-based approach to Verra s growing portfolio of CCP-approved methodologies. The Verified Carbon Standard (VCS) methodology VM0049 Carbon Capture and Storage, v1.0 establishes criteria…",
+        "url": "https://verra.org/verra-secures-icvcm-approval-for-carbon-capture-and-storage-methodology/",
+        "publishedAt": "2026-09-28T11:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2025/11/pipeline-8838497_1280.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-iso-undp-launch-new-standard-to-embed-sd-2026-09-28",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "ISO, UNDP Launch New Standard to Embed SDGs into Corporate Strategy",
+        "excerpt": "The International Organization for Standardization (ISO) and the United Nations Development Programme (UNDP) announced today the launch of ISO/UNDP 53001, Management systems for the United Nations Sustainable Development Goals (SDGs) – Requirements, a new standard aimed at enabling organizations to integrate the UN SDGs into strategy, governance and operations. The UN SDGs refer to the 17 categories of goals adopted in 2015 as part of the 2030 Agenda for Sustainable Development, with the aim to protect the planet and improve the quality of life…",
+        "url": "https://www.esgtoday.com/iso-undp-launch-new-standard-to-embed-sdgs-into-corporate-strategy/?utm_source=rss utm_medium=rss utm_campaign=iso-undp-launch-new-standard-to-embed-sdgs-into-corporate-strategy",
+        "publishedAt": "2026-09-28T10:40:33.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/ISO.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-analysis-lula-presidency-saved-at-least--2026-09-28",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Analysis: Lula presidency saved at least 20,000km2 of Brazilian Amazon since 2022",
+        "excerpt": "Share Article Contents Expand menu Close ‘Brazil is back’ New Jersey-sized forest Election significance ‘Greenest’ policies Soy moratorium and Brazilian congress An area of Amazon forest roughly the size of the US state of New Jersey has remained standing due to Luiz Inácio Lula da Silva’s leadership of Brazil, according to Carbon Brief analysis. Lula beat Jair Bolsonaro in the 2022 election to become president of the nation that is home to nearly 60% of the Amazon rainforest. Forest loss surged during Bolsonaro’s far-right presidency and dropped…",
+        "url": "https://www.carbonbrief.org/analysis-lula-presidency-saved-at-least-20000km2-of-brazilian-amazon-since-2022",
+        "publishedAt": "2026-09-28T10:35:12.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/lula-presidency-save-scaled.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-new-eu-anti-greenwashing-rules-enter-int-2026-09-28",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "New EU Anti-Greenwashing Rules Enter into Force",
+        "excerpt": "The EU’s new Directive on Empowering Consumers for the Green Transition, (ECGT) entered into application on Sunday, establishing a series of new rules aimed at protect consumers from deceptive sustainability-related marketing, cracking down on both unverified green claims and hidden product obsolescence. Adopted by European lawmakers in 2024, the ECGT was designed to protect consumers from misleading green claims and other greenwashing practices, including banning unverified generic environmental claims such as “environmentally friendly,” or…",
+        "url": "https://www.esgtoday.com/new-eu-anti-greenwashing-rules-enter-into-force/?utm_source=rss utm_medium=rss utm_campaign=new-eu-anti-greenwashing-rules-enter-into-force",
+        "publishedAt": "2026-09-28T09:33:56.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/EU-flags.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-esg-today-week-in-review-2026-09-27",
         "source": "esg-today",
@@ -680,28 +906,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-microsoft-pepsico-join-largest-ever-u-s--2026-09-24",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Microsoft, PepsiCo Join Largest-Ever U.S. Electric Truck Order from Tesla",
-        "excerpt": "Global freight decarbonization and clean transportation initiatives Smart Freight Centre and Catalyst Mobility announced the facilitation of an order for 2,500 battery-electric Class 8 trucks for a coalition of major cargo-owning shippers. The transaction marks the largest electric truck order to date in the U.S., and will nearly double the U.S. electric Class 8 fleet. The organizations said that the order has been organized through the Zero-Emission Truck Shipper-Carrier Alliance Leading Electrification (ZET SCALE), a program jointly operated by Smart…",
-        "url": "https://www.esgtoday.com/microsoft-pepsico-join-largest-ever-u-s-electric-truck-order-from-tesla/?utm_source=rss utm_medium=rss utm_campaign=microsoft-pepsico-join-largest-ever-u-s-electric-truck-order-from-tesla",
-        "publishedAt": "2026-09-24T14:15:01.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Tesla-semi.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-interactive-what-china-s-dozens-of-five--2026-09-24",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -725,50 +929,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-germany-releases-roadmap-to-end-use-of-f-2026-09-24",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Germany Releases Roadmap to End Use of Fossil Fuels by 2045",
-        "excerpt": "The government of Germany announced the release of its “Roadmap for Transitioning Away from Fossil Fuels,” setting out the country’s strategy to end the use of coal, oil and natural gas by 2045 at the latest. With the release, Germany becomes the third country to launch a roadmap to end the use of fossil fuels, joining France and the Netherlands. The new roadmap, presented by Germany’s Federal Environment Minister Carsten Schneider, was released in the wake of the COP30 conference in November 2025, in which the EU and several other countries…",
-        "url": "https://www.esgtoday.com/germany-launches-roadmap-to-end-use-of-fossil-fuels-by-2045/?utm_source=rss utm_medium=rss utm_campaign=germany-launches-roadmap-to-end-use-of-fossil-fuels-by-2045",
-        "publishedAt": "2026-09-24T13:45:40.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Germany-Schneider2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-energy-revolution-ventures-launches-50-m-2026-09-24",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Energy Revolution Ventures Launches $50 Million Electrification Venture Fund",
-        "excerpt": "Energy technology venture capital firm Energy Revolution Ventures (ERV) announced the first close of ERV Fund II, its second fund focused on early-stage electrification technologies. ERV said that it is targeting $50 million for the new fund, which would surpass the previous fund’s $18 million. Founded in 2021, London-based ERV invests in early-stage companies developing technologies for electrification and the energy transition, focusing primarily on energy storage, grid technologies and advanced materials, as well as renewable fuels and carbon capture.",
-        "url": "https://www.esgtoday.com/energy-revolution-ventures-launches-50-million-electrification-venture-fund/?utm_source=rss utm_medium=rss utm_campaign=energy-revolution-ventures-launches-50-million-electrification-venture-fund",
-        "publishedAt": "2026-09-24T12:39:00.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/ERV-Clover.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-analysis-evs-are-now-nine-times-cheaper--2026-09-24",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -787,50 +947,6 @@
         "meta": {
           "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-adm-enters-carbon-removal-market-with-ov-2026-09-24",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "ADM Enters Carbon Removal Market with Over 800,000 Ton-per-year Capacity",
-        "excerpt": "Global agriculture supply chain and processing company ADM announced plans to enter the voluntary carbon dioxide removal market with credits generated from carbon capture operations at the company’s corn processing complex in Columbus, Nebraska. The company said that the Columbus facility has an annual carbon removal capacity of over 800,000 tons, making the planned credit offering one of the largest of its kind to date. ADM launched carbon capture and storage (CCS) operations at the Columbus complex in 2025 in partnership with energy infrastructure…",
-        "url": "https://www.esgtoday.com/adm-enters-carbon-removal-market-with-over-800000-ton-per-year-capacity/?utm_source=rss utm_medium=rss utm_campaign=adm-enters-carbon-removal-market-with-over-800000-ton-per-year-capacity",
-        "publishedAt": "2026-09-24T11:37:56.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/ADM.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-proxy-advisor-glass-lewis-merges-with-cl-2026-09-24",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Proxy Advisor Glass Lewis Merges with Clarity AI to Build Sustainability Data and Stewardship Platform",
-        "excerpt": "Governance solutions and proxy voting services company Glass Lewis and sustainability data and analytics provider Clarity AI announced a business combination on Thursday, in a transaction aimed at bringing together a platform spanning investment decision-making and stewardship. Notably, the merger also marks a pivot towards the European sustainable investing market, which now accounts for more than 80% of global sustainable fund assets, with Glass Lewis increasingly facing pressure from anti-ESG politicians in the U.S. The companies announced that as…",
-        "url": "https://www.esgtoday.com/proxy-advisor-glass-lewis-merges-with-clarity-ai-to-build-sustainability-data-and-stewardship-platform/?utm_source=rss utm_medium=rss utm_campaign=proxy-advisor-glass-lewis-merges-with-clarity-ai-to-build-sustainability-data-and-stewardship-platform",
-        "publishedAt": "2026-09-24T11:18:02.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Glass-Lewis-Clarity-AI.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1101,28 +1217,6 @@
         "region": "world"
       },
       {
-        "id": "carbon-brief-analysis-global-fossil-fuel-emissions-se-2026-09-16",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis",
-        "excerpt": "Share Global fossil-fuel emissions are set to fall by around 0.5% in 2026 amid the fallout from the Hormuz crisis, according to Carbon Brief analysis. The US-Iran war has severely disrupted trade through the strait of Hormuz, causing a spike in oil and gas prices that continues to ripple around the global economy. Each month of disruption – and each new flashpoint, such as in Yemen – is increasing the incentive to switch to alternatives. Those alternatives include coal, with the latest forecasts pointing to a 1.2% rise in coal demand this year –…",
-        "url": "https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis",
-        "publishedAt": "2026-09-16T13:34:02.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/global-fossil-fuel-e-1024x593.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-verra-launches-scope-3-standard-program--2026-09-15",
         "source": "verra",
         "sourceName": "Verra",
@@ -1152,7 +1246,7 @@
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
+        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
         "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
         "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
         "publishedAt": "2026-09-14T12:51:27.000Z",
@@ -1239,52 +1333,6 @@
         "region": "world"
       },
       {
-        "id": "verra-verra-announces-ccp-eligible-status-of-v-2026-09-02",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra Announces CCP-Eligible Status of VCS Version 5",
-        "excerpt": "The Integrity Council for the Voluntary Carbon Market (ICVCM) has recognized the latest version of Verra’s Verified Carbon Standard (VCS) Program , which was released in December 2025, as meeting the Core Carbon Principles (CCPs) criteria: the highest benchmark of quality in the voluntary carbon market. The recognition of version 5 of the VCS Program follows the ICVCM’s approval of version 4.7 of the VCS Program in May 2024. The VCS Program was among the first major carbon crediting programs to reach CCP-Eligible status, reflecting that the program’s…",
-        "url": "https://verra.org/verra-announces-ccp-eligible-status-of-vcs-version-5/",
-        "publishedAt": "2026-09-02T13:08:37.000Z",
-        "image": "https://verra.org/wp-content/uploads/2023/10/photo-by-tom-fisk-via-pexels-770x512-1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-projects-open-for-public-comment-august--2026-08-31",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Projects Open for Public Comment: August 31, 2026",
-        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-        "url": "https://verra.org/projects-open-for-public-comment-august-31-2026/",
-        "publishedAt": "2026-08-31T13:56:46.000Z",
-        "image": "https://verra.org/wp-content/uploads/2023/12/shutterstock_2311969343-scaled.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-voluntary-carbon-credit-market-size-shar-2026-08-24",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1305,29 +1353,6 @@
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOW5DeXR6dXdqR09QVy1Vb285U1NKQUZPYkZOU0tfYnRZdXR3YjR0NmZuRjZubXNaaGxKUmFBOG5NRDRpeGNtMjJ2bkxoYmF5Z2NsRmY5Yk9xYXh3REI0RHNZU09xcXI4RmtoVnNpYkItNmlEVmNucTI4VnVHdTRVcGQ1STlHTWVF?oc=5",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-h2-a-new-era-of-green-mobility-a-milestone--2026-08-06",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
-        "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
-        "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
-        "publishedAt": "2026-08-06T07:00:00.000Z",
-        "image": null,
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5"
         },
         "region": "world"
       },
@@ -1426,30 +1451,6 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-beyond-price-rethinking-carbon-credit-va-2024-11-27",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Beyond price: rethinking carbon credit value in the voluntary market - Lockton",
-        "excerpt": "Back Back Prices in voluntary carbon credit markets have declined broadly, but there is growing evidence of price differentiation based on quality attributes. This suggests the market is maturing in how it values carbon credits beyond traditional pricing. Voluntary carbon markets allow carbon emitters to offset their unavoidable emissions by purchasing carbon credits. These are generated by projects removing or reducing greenhouse gas (GHG) emissions from the atmosphere. The voluntary carbon credit market trades certified and transferrable instruments…",
-        "url": "https://global.lockton.com/news-insights/beyond-price-rethinking-carbon-credit-value-in-the-voluntary-market",
-        "publishedAt": "2024-11-27T08:00:00.000Z",
-        "image": "https://d2vppzocvtms05.cloudfront.net/media/0B4364C5-217D-4EFD-B9C36F1977EF6D20/CEAE51AE-8D32-420E-9AE3CF9B2779C87D/webimage-2BC26D0B-8591-4912-AD0175D1031B7F2F.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUl4R2taazBndXh6OERQbm1mNzZ2NVB3UW5FRXlKT3ZJZGJ2TTRocXBkSXIzV2xJM19zR2NDWk54cnhQM1Q1d1ZHRThpelVsWm4yMFNhdzMxX05HSVNzaVNhOWx3cWZmRUZoYU9FTEEzRUt3WTBGLWJZbnVKcHJ0bXU0V0FBQjdUbzBnMlQ5WkU4WVpKYS1uM29BZ0l0eWVsT1RMYUdiZ0lreldf?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1476,6 +1477,208 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-jpmorgan-natural-capital-paraguay-launch-2026-09-28",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "JPMorgan Natural Capital, Paraguay Launch $200 Million Sustainable Forestry Platform",
+      "excerpt": "J.P. Morgan Asset Management’s (JPMAM) natural capital unit, J.P. Morgan Natural Capital, and the Office of the President of the Republic of Paraguay announced the launch of a new large-scale sustainable forestry platform, with an investment of approximately $200 million. According to JPMorgan, the new platform investment focuses on establishing commercial forests, advancing native forest restoration, and creating long-term value through the sustainable production of high-quality timber, carbon credits, and wood-products. Capital deployment is expected…",
+      "url": "https://www.esgtoday.com/jpmorgan-natural-capital-paraguay-launch-200-million-sustainable-forestry-platform/?utm_source=rss utm_medium=rss utm_campaign=jpmorgan-natural-capital-paraguay-launch-200-million-sustainable-forestry-platform",
+      "publishedAt": "2026-09-28T13:58:57.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/JPMorgan4.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Government",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-cr-dit-agricole-launches-new-natural-cap-2026-09-28",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Crédit Agricole Launches New Natural Capital Finance and Investment Division",
+      "excerpt": "Paris-based international banking and investment group Crédit Agricole announced Monday the launch of Crédit Agricole Capital Naturel, a new division focused on supporting companies, investors and other stakeholders in addressing challenges related to the preservation and restoration of natural resources, with an initial focus on forests. The announcement marks the latest move by major financial players to deepen their focus on the natural capital sector, following JP Morgan’s recently announced rebrand of its timberland investment advisory company…",
+      "url": "https://www.esgtoday.com/credit-agricole-launches-new-natural-capital-finance-and-investment-business/?utm_source=rss utm_medium=rss utm_campaign=credit-agricole-launches-new-natural-capital-finance-and-investment-business",
+      "publishedAt": "2026-09-28T13:19:31.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Credit-Agricole-Jaulin.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-projects-open-for-public-comment-septemb-2026-09-28",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Projects Open for Public Comment: September 28, 2026",
+      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+      "url": "https://verra.org/projects-open-for-public-comment-september-28-2026/",
+      "publishedAt": "2026-09-28T12:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2024/04/Agents-of-Change-Orchestrating-the-Recycling-Chain-4470-OMA-Ativos-Ambientais-S.A-Brazil-Plastic-waste-bales-1024x683.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-barclays-appoints-paul-williams-as-globa-2026-09-28",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Barclays Appoints Paul Williams as Global Head of Operational Sustainability",
+      "excerpt": "UK-based banking group Barclays has appointed Paul Williams as its new Global Head of Operational Sustainability. In his new role, Williams will be responsible for leading Barclays’ sustainable operations strategy, embedding sustainability across Procurement, Global Real Estate, Technology and wider business operations to help deliver on the bank’s strategic commitments, regulatory requirements and long-term sustainability objectives. Williams joins Barclays from Deutsche Bank, where he has served since 2024 as Global Head of Sustainable Procurement.…",
+      "url": "https://www.esgtoday.com/barclays-appoints-paul-williams-as-global-head-of-operational-sustainability/?utm_source=rss utm_medium=rss utm_campaign=barclays-appoints-paul-williams-as-global-head-of-operational-sustainability",
+      "publishedAt": "2026-09-28T11:36:27.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Barclays-Williams.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Executive Moves",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-verra-secures-icvcm-approval-for-carbon--2026-09-28",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Secures ICVCM Approval for Carbon Capture and Storage Methodology",
+      "excerpt": "WASHINGTON – Sept. 28, 2026 | Verra s carbon capture and storage (CCS) methodology and its accompanying modules have been approved by the Integrity Council for the Voluntary Carbon Market (ICVCM) as meeting the Core Carbon Principles (CCPs), a clear market signal that credits generated under this methodology are of the highest integrity. This update adds a major technology-based approach to Verra s growing portfolio of CCP-approved methodologies. The Verified Carbon Standard (VCS) methodology VM0049 Carbon Capture and Storage, v1.0 establishes criteria…",
+      "url": "https://verra.org/verra-secures-icvcm-approval-for-carbon-capture-and-storage-methodology/",
+      "publishedAt": "2026-09-28T11:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2025/11/pipeline-8838497_1280.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-iso-undp-launch-new-standard-to-embed-sd-2026-09-28",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "ISO, UNDP Launch New Standard to Embed SDGs into Corporate Strategy",
+      "excerpt": "The International Organization for Standardization (ISO) and the United Nations Development Programme (UNDP) announced today the launch of ISO/UNDP 53001, Management systems for the United Nations Sustainable Development Goals (SDGs) – Requirements, a new standard aimed at enabling organizations to integrate the UN SDGs into strategy, governance and operations. The UN SDGs refer to the 17 categories of goals adopted in 2015 as part of the 2030 Agenda for Sustainable Development, with the aim to protect the planet and improve the quality of life…",
+      "url": "https://www.esgtoday.com/iso-undp-launch-new-standard-to-embed-sdgs-into-corporate-strategy/?utm_source=rss utm_medium=rss utm_campaign=iso-undp-launch-new-standard-to-embed-sdgs-into-corporate-strategy",
+      "publishedAt": "2026-09-28T10:40:33.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/ISO.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-analysis-lula-presidency-saved-at-least--2026-09-28",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Analysis: Lula presidency saved at least 20,000km2 of Brazilian Amazon since 2022",
+      "excerpt": "Share Article Contents Expand menu Close ‘Brazil is back’ New Jersey-sized forest Election significance ‘Greenest’ policies Soy moratorium and Brazilian congress An area of Amazon forest roughly the size of the US state of New Jersey has remained standing due to Luiz Inácio Lula da Silva’s leadership of Brazil, according to Carbon Brief analysis. Lula beat Jair Bolsonaro in the 2022 election to become president of the nation that is home to nearly 60% of the Amazon rainforest. Forest loss surged during Bolsonaro’s far-right presidency and dropped…",
+      "url": "https://www.carbonbrief.org/analysis-lula-presidency-saved-at-least-20000km2-of-brazilian-amazon-since-2022",
+      "publishedAt": "2026-09-28T10:35:12.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/lula-presidency-save-scaled.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-new-eu-anti-greenwashing-rules-enter-int-2026-09-28",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "New EU Anti-Greenwashing Rules Enter into Force",
+      "excerpt": "The EU’s new Directive on Empowering Consumers for the Green Transition, (ECGT) entered into application on Sunday, establishing a series of new rules aimed at protect consumers from deceptive sustainability-related marketing, cracking down on both unverified green claims and hidden product obsolescence. Adopted by European lawmakers in 2024, the ECGT was designed to protect consumers from misleading green claims and other greenwashing practices, including banning unverified generic environmental claims such as “environmentally friendly,” or…",
+      "url": "https://www.esgtoday.com/new-eu-anti-greenwashing-rules-enter-into-force/?utm_source=rss utm_medium=rss utm_campaign=new-eu-anti-greenwashing-rules-enter-into-force",
+      "publishedAt": "2026-09-28T09:33:56.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/EU-flags.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-india-india-s-bid-to-keep-carbon-cash-home-as--2026-09-28",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India’s bid to keep carbon cash home as Europe adds a new trade cost - The Economic Times",
+      "excerpt": "Listen to this article in summarized format Listen Loading... Subscribe to Unlock AI Briefing and Premium Content Can Fly91’s flightpath for India’s smallest airline defy the doomy past? Everyone asks who will fund AI. Few ask who pays if it burns Smugglonomics: Geckos, dry dates, human hair – what makes something worth smuggling? Building recycling plants is fine. Will they get enough scrap? Biogas found its ethanol moment this month. Can it now find scale? Gold prices: Caught in a three-way tug-of-war",
+      "url": "https://m.economictimes.com/news/economy/foreign-trade/india-exports-carbon-market-ccts-cbam-europe-new-border-tax/articleshow/134531752.cms",
+      "publishedAt": "2026-09-28T05:26:22.000Z",
+      "image": "https://img.etimg.com/thumb/msid-134531826,width-1200,height-630,imgsize-280854,overlay-economictimes/articleshow.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYzV5bWFNNkJRal9BYU9pTXJIdjg0VHJqWXBva2lBMGRVZkVRelpuVUlYTFM5aE04NXo1XzVfMWtvVHFlZEU5WVRYZFlPNzhGR0ZBaTZxd0FJdUtjdWlmcmYwSlI4SDliUDNyZGw3S0hPa1pUTEh5OWJCc1hmNkN1N0Npc3c1ckFlNjQ5TmlQanpSeWhtbFoyM2dvVmQteFBKS2NoU01nSlM2V0JjTmhXTFNFdm80dG1yaTdKMDRaWTdTbEVYekFfWl96Q0pfQ3RGbDFMTHlINNIB3AFBVV95cUxQMElPT3dEbldrQnl6V0kwRVJyUnZxSk9tYmxxRjNoSTVoTlVENFJvMEJRYW91OXF3SjZldU93SEVlZlBuUUJUR0liSnFIZllVa0kyODVyVXdHRWtWQ1JDeFlCemQyVWtuWVI1YXE0TjNlSzVoTFZBdlV0QlRzSEt6RHFjYWZVOWpEUUNTQVNhMW54RnJWbHYtSHpvVE9kUjdXUlZCQjJQUk5hV2FGWFh2YUxuLUhzMFZ5cFlIZEg0RXZURWE0eG5JMDhIU1FqTnhrRzhPMG5DQU5lVkND?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
     {
       "id": "esg-today-esg-today-week-in-review-2026-09-27",
       "source": "esg-today",
@@ -1719,28 +1922,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-microsoft-pepsico-join-largest-ever-u-s--2026-09-24",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Microsoft, PepsiCo Join Largest-Ever U.S. Electric Truck Order from Tesla",
-      "excerpt": "Global freight decarbonization and clean transportation initiatives Smart Freight Centre and Catalyst Mobility announced the facilitation of an order for 2,500 battery-electric Class 8 trucks for a coalition of major cargo-owning shippers. The transaction marks the largest electric truck order to date in the U.S., and will nearly double the U.S. electric Class 8 fleet. The organizations said that the order has been organized through the Zero-Emission Truck Shipper-Carrier Alliance Leading Electrification (ZET SCALE), a program jointly operated by Smart…",
-      "url": "https://www.esgtoday.com/microsoft-pepsico-join-largest-ever-u-s-electric-truck-order-from-tesla/?utm_source=rss utm_medium=rss utm_campaign=microsoft-pepsico-join-largest-ever-u-s-electric-truck-order-from-tesla",
-      "publishedAt": "2026-09-24T14:15:01.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Tesla-semi.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-interactive-what-china-s-dozens-of-five--2026-09-24",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -1764,50 +1945,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-germany-releases-roadmap-to-end-use-of-f-2026-09-24",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Germany Releases Roadmap to End Use of Fossil Fuels by 2045",
-      "excerpt": "The government of Germany announced the release of its “Roadmap for Transitioning Away from Fossil Fuels,” setting out the country’s strategy to end the use of coal, oil and natural gas by 2045 at the latest. With the release, Germany becomes the third country to launch a roadmap to end the use of fossil fuels, joining France and the Netherlands. The new roadmap, presented by Germany’s Federal Environment Minister Carsten Schneider, was released in the wake of the COP30 conference in November 2025, in which the EU and several other countries…",
-      "url": "https://www.esgtoday.com/germany-launches-roadmap-to-end-use-of-fossil-fuels-by-2045/?utm_source=rss utm_medium=rss utm_campaign=germany-launches-roadmap-to-end-use-of-fossil-fuels-by-2045",
-      "publishedAt": "2026-09-24T13:45:40.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Germany-Schneider2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-energy-revolution-ventures-launches-50-m-2026-09-24",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Energy Revolution Ventures Launches $50 Million Electrification Venture Fund",
-      "excerpt": "Energy technology venture capital firm Energy Revolution Ventures (ERV) announced the first close of ERV Fund II, its second fund focused on early-stage electrification technologies. ERV said that it is targeting $50 million for the new fund, which would surpass the previous fund’s $18 million. Founded in 2021, London-based ERV invests in early-stage companies developing technologies for electrification and the energy transition, focusing primarily on energy storage, grid technologies and advanced materials, as well as renewable fuels and carbon capture.",
-      "url": "https://www.esgtoday.com/energy-revolution-ventures-launches-50-million-electrification-venture-fund/?utm_source=rss utm_medium=rss utm_campaign=energy-revolution-ventures-launches-50-million-electrification-venture-fund",
-      "publishedAt": "2026-09-24T12:39:00.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/ERV-Clover.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-analysis-evs-are-now-nine-times-cheaper--2026-09-24",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -1826,50 +1963,6 @@
       "meta": {
         "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-adm-enters-carbon-removal-market-with-ov-2026-09-24",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "ADM Enters Carbon Removal Market with Over 800,000 Ton-per-year Capacity",
-      "excerpt": "Global agriculture supply chain and processing company ADM announced plans to enter the voluntary carbon dioxide removal market with credits generated from carbon capture operations at the company’s corn processing complex in Columbus, Nebraska. The company said that the Columbus facility has an annual carbon removal capacity of over 800,000 tons, making the planned credit offering one of the largest of its kind to date. ADM launched carbon capture and storage (CCS) operations at the Columbus complex in 2025 in partnership with energy infrastructure…",
-      "url": "https://www.esgtoday.com/adm-enters-carbon-removal-market-with-over-800000-ton-per-year-capacity/?utm_source=rss utm_medium=rss utm_campaign=adm-enters-carbon-removal-market-with-over-800000-ton-per-year-capacity",
-      "publishedAt": "2026-09-24T11:37:56.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/ADM.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-proxy-advisor-glass-lewis-merges-with-cl-2026-09-24",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Proxy Advisor Glass Lewis Merges with Clarity AI to Build Sustainability Data and Stewardship Platform",
-      "excerpt": "Governance solutions and proxy voting services company Glass Lewis and sustainability data and analytics provider Clarity AI announced a business combination on Thursday, in a transaction aimed at bringing together a platform spanning investment decision-making and stewardship. Notably, the merger also marks a pivot towards the European sustainable investing market, which now accounts for more than 80% of global sustainable fund assets, with Glass Lewis increasingly facing pressure from anti-ESG politicians in the U.S. The companies announced that as…",
-      "url": "https://www.esgtoday.com/proxy-advisor-glass-lewis-merges-with-clarity-ai-to-build-sustainability-data-and-stewardship-platform/?utm_source=rss utm_medium=rss utm_campaign=proxy-advisor-glass-lewis-merges-with-clarity-ai-to-build-sustainability-data-and-stewardship-platform",
-      "publishedAt": "2026-09-24T11:18:02.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Glass-Lewis-Clarity-AI.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2186,28 +2279,6 @@
       "region": "india"
     },
     {
-      "id": "carbon-brief-analysis-global-fossil-fuel-emissions-se-2026-09-16",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis",
-      "excerpt": "Share Global fossil-fuel emissions are set to fall by around 0.5% in 2026 amid the fallout from the Hormuz crisis, according to Carbon Brief analysis. The US-Iran war has severely disrupted trade through the strait of Hormuz, causing a spike in oil and gas prices that continues to ripple around the global economy. Each month of disruption – and each new flashpoint, such as in Yemen – is increasing the incentive to switch to alternatives. Those alternatives include coal, with the latest forecasts pointing to a 1.2% rise in coal demand this year –…",
-      "url": "https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis",
-      "publishedAt": "2026-09-16T13:34:02.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/global-fossil-fuel-e-1024x593.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-launches-scope-3-standard-program--2026-09-15",
       "source": "verra",
       "sourceName": "Verra",
@@ -2237,7 +2308,7 @@
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
+      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
       "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
       "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
       "publishedAt": "2026-09-14T12:51:27.000Z",
@@ -2284,7 +2355,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - Down To Earth",
+      "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - downtoearth.org.in",
       "excerpt": "Copied Follow Us Listen to this article Summary BRICS leaders at the New Delhi Summit backed a BRICS Carbon Markets Partnership to share expertise, build capacity and link carbon markets with climate finance, while firmly opposing unilateral CBAMs by the EU and UK. India’s CCTS gaining UK recognition highlights both new export competitiveness opportunities and compliance challenges, especially for MSMEs facing demanding measurement and verification rules. The BRICS countries have backed greater cooperation on carbon markets, including implementation of…",
       "url": "https://www.downtoearth.org.in/climate-change/brics-backs-carbon-market-cooperation-while-opposing-unilateral-cbam",
       "publishedAt": "2026-09-12T07:00:00.000Z",
@@ -2360,52 +2431,6 @@
       "url": "https://verra.org/consultation-revision-to-tidal-wetland-and-seagrass-restoration-methodology-vm0033/",
       "publishedAt": "2026-09-03T21:22:55.000Z",
       "image": "https://verra.org/wp-content/uploads/2026/09/sabino-jose-pantanal-5379257-scaled-e1788461740465.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-verra-announces-ccp-eligible-status-of-v-2026-09-02",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Announces CCP-Eligible Status of VCS Version 5",
-      "excerpt": "The Integrity Council for the Voluntary Carbon Market (ICVCM) has recognized the latest version of Verra’s Verified Carbon Standard (VCS) Program , which was released in December 2025, as meeting the Core Carbon Principles (CCPs) criteria: the highest benchmark of quality in the voluntary carbon market. The recognition of version 5 of the VCS Program follows the ICVCM’s approval of version 4.7 of the VCS Program in May 2024. The VCS Program was among the first major carbon crediting programs to reach CCP-Eligible status, reflecting that the program’s…",
-      "url": "https://verra.org/verra-announces-ccp-eligible-status-of-vcs-version-5/",
-      "publishedAt": "2026-09-02T13:08:37.000Z",
-      "image": "https://verra.org/wp-content/uploads/2023/10/photo-by-tom-fisk-via-pexels-770x512-1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-projects-open-for-public-comment-august--2026-08-31",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Projects Open for Public Comment: August 31, 2026",
-      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-      "url": "https://verra.org/projects-open-for-public-comment-august-31-2026/",
-      "publishedAt": "2026-08-31T13:56:46.000Z",
-      "image": "https://verra.org/wp-content/uploads/2023/12/shutterstock_2311969343-scaled.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2497,10 +2522,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
-      "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
+      "excerpt": "India s hydrogen-powered train Namo Green Rail. Photo Credit: Kshitij08, Wikipedia Commons Green hydrogen is emerging as sustainable and resilience sources of energy for achieving the target of net-zero carbon emissions. India user a new phase of green energy transaction with the launch of its first hydrogen-powered train. The train, is also known as Namo Green Rail, was flagged off by Prime Minister Narendra Modi, running from Jind to Sonipat city in the northern state of Haryana. Indian Railways achieving significant milestone by adopting sustainable…",
       "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
       "publishedAt": "2026-08-06T07:00:00.000Z",
-      "image": null,
+      "image": "https://www.eurasiareview.com/wp-content/uploads/2026/08/a-51.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2508,9 +2533,10 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5",
+        "imageSource": "publisher"
       },
-      "region": "world"
+      "region": "india"
     },
     {
       "id": "google-india-india-s-carbon-market-sets-weak-emission-2026-07-31",
@@ -2584,37 +2610,13 @@
       "region": "india"
     },
     {
-      "id": "google-india-most-zombie-credits-locked-out-of-new-un-2026-07-17",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - Climate Home News",
-      "excerpt": "Matteo Civillini Reporter Editing: Joe Lo X (Twitter) Facebook LinkedIn WhatsApp Email Print China and India have declined to back any of their old United Nations carbon credit projects seeking to sell offsets under the new UN market, driving a cull of nearly three-quarters of applicants, analysis of official data shows. Only 415 out of more than 1,500 projects and programmes hoping to move from the Clean Development Mechanism (CDM) to the new carbon market set up under Article 6.4 of the Paris Agreement won the approval of their host governments by the…",
-      "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
-      "publishedAt": "2026-07-17T07:00:00.000Z",
-      "image": "https://www.climatechangenews.com/wp-content/files/2026/07/GettyImages-991792894-1440x954.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUlVUGJ4V2U0aFhFRmw1QjdOTXBobGJDSGlLb2podFdaVnZBcTlKMVBsQmJVX0lKcmhnY253OUJMbEstcml4OXRfN1EtQWxUVi1KSkY0bktfLWx3SzRXVnZfYklyOUZlaVR5QmRfZUJUUllwVHpzX2w0cFRWeWV0bUVlUlNINlF3VlF4NlJWQjcwbExPbnRtazZ1VW5Yb0pSRHZ0SFlJNkltZzk2RVJTN09SRng4ZXd5eVhWRVdVbzJpRndfS2c?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-14",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "The road ahead for India’s Carbon Credit Trading Scheme - ieefa.org",
+      "title": "The road ahead for India’s Carbon Credit Trading Scheme - Institute for Energy Economics and Financial Analysis (IEEFA)",
       "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language  About the Authors Report…",
       "url": "https://ieefa.org/resources/road-ahead-indias-carbon-credit-trading-scheme",
       "publishedAt": "2026-07-14T07:00:00.000Z",
@@ -2704,13 +2706,37 @@
       "region": "world"
     },
     {
+      "id": "google-carbon-global-blue-carbon-market-to-reach-usd-1-2026-03-25",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
+      "excerpt": "Strong CAGR of 24.0% reflects premium shift in voluntary carbon markets toward durable, high-integrity removal credits NEWARK, Del. , March 25, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global blue carbon market, valued at USD 1.0 billion in 2025, is projected to reach USD 1.2 billion in 2026 and expand significantly to USD 10.3 billion by 2036, growing at a CAGR of 24.0% during the forecast period, according to analysis by Future Market Insights. The Blue Carbon market is expected to generate an absolute…",
+      "url": "https://www.prnewswire.co.uk/news-releases/global-blue-carbon-market-to-reach-usd-10-3-billion-by-2036--with-strong-growth-across-asia-pacific-india-and-the-us-led-by-verra-gold-standard-and-conservation-international-302724782.html",
+      "publishedAt": "2026-03-25T07:00:00.000Z",
+      "image": "https://mma.prnewswire.com/media/1197648/3531122/FMI_Logo.jpg?p=facebook",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxORU40NERySjF1ZVh1cGlYZzdHa09sblVKYlNHRHktbUw0UUxhbzliTWc5SFNSb3BWRnBRMUsxa2lEa01BR055Qk1LVWtrejMzQm9xeUhvcUkxSUJpOWwxNkxsRDdoaDBwUmhGS0pDNnI4d0Eya2RZc2lhcHNCYm5HZXdjWDRlRjhRODRhaG5Iazdya2FtYjRyb3JtWUVaWFp5bWtZVy1vUWo4VnZMOFhZOS15NHNhVExMZUpvaDBOWUhELVdXRTJPN2hyTGVaVUhwWDFqZ01FWnRyNUJyV1J5ZUlRdHFwbjl2bHVKZ25LWmJSVjRlaTFuNnFXZkNic2Ztd3JfRTRPb1lJX2ZqZW1lVlJTMHZGSm5taU50NlEtcXlpcHBpeFBoT0x4dlRXV2l6azZhWVY3UXRMczBRekZpNXA5RjNkWjR6MzBvQ0RRc0lidw?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-h2-decarbonizing-india-s-development-journe-2026-02-25",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "Decarbonizing India’s Development Journey - Drishti IAS",
+      "title": "Decarbonizing India’s Development Journey - drishtiias.com",
       "excerpt": "This editorial is based on From budget provision to national capability: Why India s CCUS commitment matters which was published in The Hindustan Times on 23/02/2026. This editorial provides a comprehensive status on India's multidimensional decarbonization strategy, it critically examines the friction between coal-based energy security and the ambitious leap toward a technology-led, net-zero industrial landscape. For Prelims: Carbon Credit Trading Scheme (CCTS) , CCUS , PM Surya Ghar Muft Bijli Yojana , Perform Achieve and Trade , Battery Energy…",
       "url": "https://www.drishtiias.com/daily-updates/daily-news-editorials/decarbonizing-indias-development-journey",
       "publishedAt": "2026-02-25T08:00:00.000Z",
@@ -2781,8 +2807,8 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s Green Hydrogen Ambition - millenniumpost.in",
-      "excerpt": "India’s Green Hydrogen Ambition millenniumpost.in",
+      "title": "India’s Green Hydrogen Ambition - MillenniumPost",
+      "excerpt": "India’s Green Hydrogen Ambition MillenniumPost",
       "url": "https://www.millenniumpost.in/opinion/indias-green-hydrogen-ambition-645091",
       "publishedAt": "2026-01-21T08:00:00.000Z",
       "image": null,
@@ -2804,7 +2830,7 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
+      "title": "India’s green hydrogen policy wrap 2025 - powerpeakdigest.com",
       "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
@@ -2841,30 +2867,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-beyond-price-rethinking-carbon-credit-va-2024-11-27",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Beyond price: rethinking carbon credit value in the voluntary market - Lockton",
-      "excerpt": "Back Back Prices in voluntary carbon credit markets have declined broadly, but there is growing evidence of price differentiation based on quality attributes. This suggests the market is maturing in how it values carbon credits beyond traditional pricing. Voluntary carbon markets allow carbon emitters to offset their unavoidable emissions by purchasing carbon credits. These are generated by projects removing or reducing greenhouse gas (GHG) emissions from the atmosphere. The voluntary carbon credit market trades certified and transferrable instruments…",
-      "url": "https://global.lockton.com/news-insights/beyond-price-rethinking-carbon-credit-value-in-the-voluntary-market",
-      "publishedAt": "2024-11-27T08:00:00.000Z",
-      "image": "https://d2vppzocvtms05.cloudfront.net/media/0B4364C5-217D-4EFD-B9C36F1977EF6D20/CEAE51AE-8D32-420E-9AE3CF9B2779C87D/webimage-2BC26D0B-8591-4912-AD0175D1031B7F2F.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUl4R2taazBndXh6OERQbm1mNzZ2NVB3UW5FRXlKT3ZJZGJ2TTRocXBkSXIzV2xJM19zR2NDWk54cnhQM1Q1d1ZHRThpelVsWm4yMFNhdzMxX05HSVNzaVNhOWx3cWZmRUZoYU9FTEEzRUt3WTBGLWJZbnVKcHJ0bXU0V0FBQjdUbzBnMlQ5WkU4WVpKYS1uM29BZ0l0eWVsT1RMYUdiZ0lreldf?oc=5",
-        "imageSource": "publisher"
       },
       "region": "world"
     },
