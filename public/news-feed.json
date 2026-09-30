@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-09-29T22:48:41.626Z",
+  "fetchedAt": "2026-09-30T06:14:18.742Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 19,
     "world": 43,
-    "withImages": 57,
-    "avgExcerptLength": 458,
+    "withImages": 58,
+    "avgExcerptLength": 465,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -154,7 +154,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - Down To Earth",
+        "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - downtoearth.org.in",
         "excerpt": "Copied Follow Us Listen to this article Summary BRICS leaders at the New Delhi Summit backed a BRICS Carbon Markets Partnership to share expertise, build capacity and link carbon markets with climate finance, while firmly opposing unilateral CBAMs by the EU and UK. India’s CCTS gaining UK recognition highlights both new export competitiveness opportunities and compliance challenges, especially for MSMEs facing demanding measurement and verification rules. The BRICS countries have backed greater cooperation on carbon markets, including implementation of…",
         "url": "https://www.downtoearth.org.in/climate-change/brics-backs-carbon-market-cooperation-while-opposing-unilateral-cbam",
         "publishedAt": "2026-09-12T07:00:00.000Z",
@@ -1269,7 +1269,7 @@
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
+        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
         "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
         "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
         "publishedAt": "2026-09-14T12:51:27.000Z",
@@ -1357,6 +1357,30 @@
         "region": "world"
       },
       {
+        "id": "google-carbon-blog-eu-adopts-first-crcf-methodologies--2026-05-02",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Blog | EU adopts first CRCF methodologies – how does this impact the VCM? - Abatable",
+        "excerpt": "Platform Solutions Resources About Sign in Talk to us Back by use case Run an RFP Undertake structured procurement Build your strategy Tap into our expertise Conduct due diligence Understand risks Get market intelligence Keep up to speed Access demand Sell environmental assets by market Voluntary carbon market Buy carbon credits CORSIA Navigate and comply by organisation Buyers Procure environmental assets Investors Locate opportunities in the market Developers Access guaranteed demand resources Reports In-depth analysis Blog Latest news and updates…",
+        "url": "https://www.abatable.com/blog/eu-adopts-first-crcf-methodologies",
+        "publishedAt": "2026-05-02T07:00:00.000Z",
+        "image": "https://cdn.prod.website-files.com/6a21901ab9e1e5d902f470fa/6a21901ab9e1e5d902f47497_EU-blog-cover-two.avif",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HSWxVbDROVW1SVm5jQm5oTU9aMWd6WERnT3l4bGl6Yk0tRWpPUU5NaU9LY3B3RFFSRUFPQjVQRm5NYVY1aFRNdm82X3JsT1ItVENpRXIycGplNGcxXzVldWR0dERCcy1uOXQ1ZmpLZHJxQQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1401,29 +1425,6 @@
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkEySVpteS1aZ3lfNnhCMk44TThDcEVoX1NGRkFWcGRfMUFJdDBwVEstUW5kMTlDUDVmdFFjaFVoZFZjUDJfbGJQVjNkdHlDY2RVOEhDeTFvV2FzU2RKV2F5MGQ1VkhBc0FrX3QzZWE5clhqa1ZXNFFmZjlabWdYQ2MzWU5QSXNOMExDWWUyS1FrWnZQTW1FeUxFRTZYb1owTnRlNGxQV0RHYkN3b1Mw0gG_AUFVX3lxTE8wT1pMd0QwUF9oOUhEdkl1U3UzRDE3VTJIVkN3YTloaU1KQ0p5c0NuZlZNYmJSQXljdXRsZ1U1eHFCbHRkLTJrSVBKS3ItYkdzLVdYVU1lcU1rM3d2V0s2dDdSMjdPUC1Fa192eTcxdGFGczl1Tk5xcnBCZVk1ZVJ5c0RQRlRVdkFHVWxCRUhobGhsTXJHbGFCOUxPclcyVjYwbmR0SHIzVkRkOW91X2M4ZkEtanlKVUlBY09MTXhV?oc=5",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-verra-applies-first-corsia-labels-to-vol-2026-02-02",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa - Carbon Herald",
-        "excerpt": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa Carbon Herald",
-        "url": "https://carbonherald.com/verra-applies-first-corsia-labels-to-voluntary-carbon-credits-from-africa/",
-        "publishedAt": "2026-02-02T08:00:00.000Z",
-        "image": null,
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNGdzd3Q2FlTGZuMU5Wbm9iT1F3NnkwRzRGeE5Ic0x0U2lxdWMxV19ESUkzUVN2R21oZnVCZEx0TXdHcGFObUNackdvV0hYd3JVck9HbnB2Mk1kM2lXM3hoaURJVURydVlaYW1rTG9TaEdmdE9ZVUxrS0Nwa1hfX1BfYXVmTExGSFNaQkQtMU5KRTE4Rnh1TVNtbkV0SHV4?oc=5"
         },
         "region": "world"
       },
@@ -2331,7 +2332,7 @@
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
+      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
       "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
       "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
       "publishedAt": "2026-09-14T12:51:27.000Z",
@@ -2378,7 +2379,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - Down To Earth",
+      "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - downtoearth.org.in",
       "excerpt": "Copied Follow Us Listen to this article Summary BRICS leaders at the New Delhi Summit backed a BRICS Carbon Markets Partnership to share expertise, build capacity and link carbon markets with climate finance, while firmly opposing unilateral CBAMs by the EU and UK. India’s CCTS gaining UK recognition highlights both new export competitiveness opportunities and compliance challenges, especially for MSMEs facing demanding measurement and verification rules. The BRICS countries have backed greater cooperation on carbon markets, including implementation of…",
       "url": "https://www.downtoearth.org.in/climate-change/brics-backs-carbon-market-cooperation-while-opposing-unilateral-cbam",
       "publishedAt": "2026-09-12T07:00:00.000Z",
@@ -2682,6 +2683,30 @@
       "region": "india"
     },
     {
+      "id": "google-carbon-blog-eu-adopts-first-crcf-methodologies--2026-05-02",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Blog | EU adopts first CRCF methodologies – how does this impact the VCM? - Abatable",
+      "excerpt": "Platform Solutions Resources About Sign in Talk to us Back by use case Run an RFP Undertake structured procurement Build your strategy Tap into our expertise Conduct due diligence Understand risks Get market intelligence Keep up to speed Access demand Sell environmental assets by market Voluntary carbon market Buy carbon credits CORSIA Navigate and comply by organisation Buyers Procure environmental assets Investors Locate opportunities in the market Developers Access guaranteed demand resources Reports In-depth analysis Blog Latest news and updates…",
+      "url": "https://www.abatable.com/blog/eu-adopts-first-crcf-methodologies",
+      "publishedAt": "2026-05-02T07:00:00.000Z",
+      "image": "https://cdn.prod.website-files.com/6a21901ab9e1e5d902f470fa/6a21901ab9e1e5d902f47497_EU-blog-cover-two.avif",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HSWxVbDROVW1SVm5jQm5oTU9aMWd6WERnT3l4bGl6Yk0tRWpPUU5NaU9LY3B3RFFSRUFPQjVQRm5NYVY1aFRNdm82X3JsT1ItVENpRXIycGplNGcxXzVldWR0dERCcy1uOXQ1ZmpLZHJxQQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2774,29 +2799,6 @@
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkEySVpteS1aZ3lfNnhCMk44TThDcEVoX1NGRkFWcGRfMUFJdDBwVEstUW5kMTlDUDVmdFFjaFVoZFZjUDJfbGJQVjNkdHlDY2RVOEhDeTFvV2FzU2RKV2F5MGQ1VkhBc0FrX3QzZWE5clhqa1ZXNFFmZjlabWdYQ2MzWU5QSXNOMExDWWUyS1FrWnZQTW1FeUxFRTZYb1owTnRlNGxQV0RHYkN3b1Mw0gG_AUFVX3lxTE8wT1pMd0QwUF9oOUhEdkl1U3UzRDE3VTJIVkN3YTloaU1KQ0p5c0NuZlZNYmJSQXljdXRsZ1U1eHFCbHRkLTJrSVBKS3ItYkdzLVdYVU1lcU1rM3d2V0s2dDdSMjdPUC1Fa192eTcxdGFGczl1Tk5xcnBCZVk1ZVJ5c0RQRlRVdkFHVWxCRUhobGhsTXJHbGFCOUxPclcyVjYwbmR0SHIzVkRkOW91X2M4ZkEtanlKVUlBY09MTXhV?oc=5",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-verra-applies-first-corsia-labels-to-vol-2026-02-02",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa - Carbon Herald",
-      "excerpt": "Verra Applies First CORSIA Labels To Voluntary Carbon Credits From Africa Carbon Herald",
-      "url": "https://carbonherald.com/verra-applies-first-corsia-labels-to-voluntary-carbon-credits-from-africa/",
-      "publishedAt": "2026-02-02T08:00:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNGdzd3Q2FlTGZuMU5Wbm9iT1F3NnkwRzRGeE5Ic0x0U2lxdWMxV19ESUkzUVN2R21oZnVCZEx0TXdHcGFObUNackdvV0hYd3JVck9HbnB2Mk1kM2lXM3hoaURJVURydVlaYW1rTG9TaEdmdE9ZVUxrS0Nwa1hfX1BfYXVmTExGSFNaQkQtMU5KRTE4Rnh1TVNtbkV0SHV4?oc=5"
       },
       "region": "world"
     },
