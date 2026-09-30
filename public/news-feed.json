@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-09-30T13:29:23.646Z",
+  "fetchedAt": "2026-09-30T18:15:29.722Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 62,
-    "india": 20,
-    "world": 42,
+    "india": 19,
+    "world": 43,
     "withImages": 58,
-    "avgExcerptLength": 471,
+    "avgExcerptLength": 469,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -130,7 +130,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "How is the carbon credit market in India moving beyond policy? - Tata Power",
+        "title": "How is the carbon credit market in India moving beyond policy? - tatapower.com",
         "excerpt": "Our website uses cookies to enhance your browsing experience. By using our website you agree to the use of cookies as per our privacy policy How is the carbon credit market in India moving beyond policy? From targets to trading, India is building the machinery that makes carbon markets work An invisible line is being drawn across the Indian industry: beat an emissions target and carbon performance can create value; miss it, and the gap can carry a cost. That is the shift powering the carbon credit market in India , as climate performance moves from…",
         "url": "https://www.tatapower.com/blogs/how-is-the-carbon-credit-market-in-india-moving-beyond-policy",
         "publishedAt": "2026-09-18T12:23:07.000Z",
@@ -144,28 +144,6 @@
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTkJ4UGtHT1JJV1JSUFNhVWZGY2M5U1JULWJISkVYbG91ak9ZZmhXcDhDdHduTnpXTjN3Ti00Q1JmLUZJQTRZemlldl94WlAyLTZyY1lWa1BnVFBXeTRYTUh0SEtYamhpUXBSVnFCbHJweVN2QjVsaWViekJ0VlNzeU1SQmVoUWRuVU5IbWpYWkFTbERiVTQzWg?oc=5",
           "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "carbon-brief-analysis-india-s-power-sector-emissions--2026-09-16",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Analysis: India’s power-sector emissions flat for two years due to clean-energy surge",
-        "excerpt": "Share Article Contents Expand menu Close Flatlining fossils Clean-energy growth matches power demand Which states led the clean-power shift? Fall in oil and gas consumption continues Rapid emission growth from heavy industry continues New investments in coal Outlook for India’s emissions About the data A surge in clean energy has kept carbon dioxide (CO2) emissions in check across India’s power sector, with no growth from the first half of 2024 to the same period in 2026. L auri Myllyvirta, lead analyst at Centre for Research on Energy and Clean Air…",
-        "url": "https://www.carbonbrief.org/analysis-indias-power-sector-emissions-flat-for-two-years-due-to-clean-energy-surge",
-        "publishedAt": "2026-09-16T23:01:00.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/indias-power-sector-_1-scaled.png",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "india"
       },
@@ -224,7 +202,7 @@
         "type": "esg",
         "tag": "CLIMATE",
         "accent": "#34d399",
-        "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
+        "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - vajiramandravi.com",
         "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
         "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
         "publishedAt": "2026-08-17T07:00:00.000Z",
@@ -530,6 +508,116 @@
     ],
     "world": [
       {
+        "id": "esg-dive-perdue-farms-backs-new-regenerative-agri-2026-09-30",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Perdue Farms backs new regenerative agriculture and environmental initiative",
+        "excerpt": "Members of the newly-launched environmental board of trade will also be the first adopters of a new Puro.earth registry for environmental attribute credits.",
+        "url": "https://www.esgdive.com/news/perdue-farms-backs-new-regenerative-agriculture-and-environmental-initiativ/831791/",
+        "publishedAt": "2026-09-30T17:03:00.000Z",
+        "image": "https://imgproxy.divecdn.com/R3LuB-v4qXcQFRDmKSByfagAMNQDn7MpDhby-TpB6kQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDAwNTYzMjI4X3A1OVJTUWsuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-automaker-backed-ev-fast-charging-networ-2026-09-30",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Automaker-backed EV fast-charging network has more than doubled in 2026",
+        "excerpt": "Ionna also claims that it s now the largest 400 kilowatt EV charging network operator in U.S.",
+        "url": "https://www.esgdive.com/news/automaker-backed-ev-fast-charging-network-has-more-than-doubled-in-2026/831784/",
+        "publishedAt": "2026-09-30T16:26:00.000Z",
+        "image": "https://imgproxy.divecdn.com/5Zmkqo7PXDLkcYFrN52s_e6MUyTN04GfTtAOG7tRSY4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JT05OQS1IT1VTVE9OLURJR0lUQUwtR1JPVU5ELUZVTEwtMzYtc2NhbGVkLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-uk-s-fca-drops-plans-for-mandatory-ifrs--2026-09-30",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "UK’s FCA Drops Plans for Mandatory IFRS-Based Climate Reporting",
+        "excerpt": "The Financial Conduct Authority (FCA), the UK’s conduct regulator for financial services firms and financial markets, announced the release of it finalized rules for listed companies to begin climate and sustainability-related reporting in line with the UK’s new IFRS-based Sustainability Reporting Standards (UK SRS), choosing to allow companies to take a “comply-or-explain” approach, instead of a mandatory approach for climate reporting initially proposed by the regulator. The FCA said that it selected the comply-or-explain approach following feedback…",
+        "url": "https://www.esgtoday.com/uks-fca-drops-plans-for-mandatory-ifrs-based-climate-reporting/?utm_source=rss utm_medium=rss utm_campaign=uks-fca-drops-plans-for-mandatory-ifrs-based-climate-reporting",
+        "publishedAt": "2026-09-30T15:38:31.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/FCA.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-analysis-wind-and-solar-save-uk-from-gas-2026-09-30",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Analysis: Wind and solar save UK from gas imports worth £5.9bn during Hormuz crisis",
+        "excerpt": "Share The UK has avoided the need for gas imports worth £5.9bn since the start of the Hormuz crisis as a result of record generation from wind and solar, reveals Carbon Brief analysis. While gas prices are surging to levels not seen since the 2022 energy crisis , the UK has been generating record amounts of power from wind and solar, up 14% year-on-year. This unprecedented clean-power generation is directly cutting the need for gas-fired electricity, which is down by nearly 10% year-on-year in 2026 to date. In total, wind and solar have generated a…",
+        "url": "https://www.carbonbrief.org/analysis-wind-and-solar-save-uk-from-gas-imports-worth-5-9bn-during-hormuz-crisis",
+        "publishedAt": "2026-09-30T14:12:01.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/record-wind-and-sola-1024x681.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-ey-launches-framework-to-quantify-financ-2026-09-30",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EY Launches Framework to Quantify Financial Impact of Sustainability Risks and Opportunities",
+        "excerpt": "Global professional services firm EY announced the launch of its EY Sustainability Value Bridge, a new framework aimed at helping companies to understand and quantify the connection between sustainability and climate risks and opportunities and their impact on financial performance. According to EY, the new framework is being released as sustainability is at risk of slipping as a priority on some C-suite agendas, while at the same time, the financial consequences of climate, nature, and broader sustainability disruptions are becoming more material, and…",
+        "url": "https://www.esgtoday.com/ey-launches-framework-to-quantify-financial-impact-of-sustainability-risks/?utm_source=rss utm_medium=rss utm_campaign=ey-launches-framework-to-quantify-financial-impact-of-sustainability-risks",
+        "publishedAt": "2026-09-30T13:31:06.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/EY.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-salesforce-signs-series-of-carbon-remova-2026-09-30",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -606,7 +694,7 @@
         "excerpt": "The apparel giants launched the Fashion Renewable Collective in collaboration with Schneider Electric to help suppliers across fashion supply chains adopt renewable electricity at scale.",
         "url": "https://www.esgdive.com/news/levis-marks-and-spencer-launch-renewable-energy-initiative-for-fashion-suppliers/831658/",
         "publishedAt": "2026-09-29T16:58:16.000Z",
-        "image": "https://imgproxy.divecdn.com/2UHaI7hKGPvwAzNlRGER0LobNrBcT0V0r0Sfgyy6F1o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTcxMDg3ODQ4LmpwZw==.webp",
+        "image": "https://imgproxy.divecdn.com/hhbs7aVxvqSC1j__47dwmw6OgcQ1EdNYTfGBa4EKFtA/g:nowe:0:0/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTcxMDg3ODQ4LmpwZw==.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -724,50 +812,6 @@
         "status": null,
         "meta": {
           "category": "Investors",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-iso-s-proposed-net-zero-standard-fails-i-2026-09-29",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "ISO’s Proposed Net Zero Standard Fails Initial Vote Amid Record Feedback",
-        "excerpt": "The International Organization for Standardization’s (ISO) long-awaited proposed net zero standard , ISO 14040, failed to pass a vote by member organizations required to advance to become a final standard in its current form, ESG Today has confirmed, after receiving record feedback throughout its 12-week consultation period. ISO said that the new proposed standard, designed to support companies in developing credible and comprehensive net zero transition plans, received nearly 5,000 comments. While the organization does not disclose the votes of…",
-        "url": "https://www.esgtoday.com/isos-proposed-net-zero-standard-fails-initial-vote-amid-record-feedback/?utm_source=rss utm_medium=rss utm_campaign=isos-proposed-net-zero-standard-fails-initial-vote-amid-record-feedback",
-        "publishedAt": "2026-09-29T10:40:43.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/ISO-1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-to-make-real-esg-progress-we-must-reform-2026-09-29",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "To Make Real ESG Progress, We Must Reform Sustainability-Tied Executive Pay",
-        "excerpt": "Sustainability-linked executive pay became a phenomenon in the early 2020s. Fortune 500 companies made public commitments to their green goals, and whether they met them directly affected CEOs year-end bonuses. I thought this might make meaningful progress towards tackling climate risk, but for all the good intentions behind these pay schemes, they failed. Spectacularly so, in fact. ESG targets are regularly hit at a rate of 128% , but we’re still on course to break the seventh of the nine planetary boundaries. So, if we’re overachieving against these…",
-        "url": "https://www.esgtoday.com/to-make-real-esg-progress-we-must-reform-sustainability-tied-executive-pay/?utm_source=rss utm_medium=rss utm_campaign=to-make-real-esg-progress-we-must-reform-sustainability-tied-executive-pay",
-        "publishedAt": "2026-09-29T08:38:10.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Speeki-Lane2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
           "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
@@ -984,50 +1028,6 @@
         "url": "https://www.esgdive.com/news/iso-draft-net-zero-standard-doesnt-pass-initial-vote/831281/",
         "publishedAt": "2026-09-24T16:35:00.000Z",
         "image": "https://imgproxy.divecdn.com/9uWWIQzaolWwtds0ZKnnvpBXCnXj35iGmWRVBUQFP3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTAyNzkwMzEyLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-how-manufacturers-can-improve-factory-su-2026-09-24",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "How manufacturers can improve factory sustainability through AI",
-        "excerpt": "Experts at Climate Week NYC 2026 discussed how to leverage technologies to drive energy efficiencies, including predictive maintenance and machine-learning models for critical minerals recovery.",
-        "url": "https://www.esgdive.com/news/ai-lowering-factory-emissions-climate-week-nyc/831252/",
-        "publishedAt": "2026-09-24T15:57:00.000Z",
-        "image": "https://imgproxy.divecdn.com/ZkGH4wpjerYqOEwupnRPVB6_L6JnqG7PXCxMYvuMMiI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbmRpYXVuaWxldmVyLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-directors-flag-gaps-in-board-expertise-p-2026-09-24",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Directors flag gaps in board expertise: PwC",
-        "excerpt": "The share of directors who see a fellow board member s insufficient expertise as warranting their replacement nearly doubled this year, a PwC survey says.",
-        "url": "https://www.esgdive.com/news/directors-flag-growing-gaps-board-expertise-pwc/831266/",
-        "publishedAt": "2026-09-24T15:54:00.000Z",
-        "image": "https://imgproxy.divecdn.com/9tf7jVJ5CfhzzPwDvA6PqbzDiktd1tLbd56_1NQWR7E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ib2FyZF9yb29tLmpwZWc=.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1479,6 +1479,116 @@
   },
   "articles": [
     {
+      "id": "esg-dive-perdue-farms-backs-new-regenerative-agri-2026-09-30",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Perdue Farms backs new regenerative agriculture and environmental initiative",
+      "excerpt": "Members of the newly-launched environmental board of trade will also be the first adopters of a new Puro.earth registry for environmental attribute credits.",
+      "url": "https://www.esgdive.com/news/perdue-farms-backs-new-regenerative-agriculture-and-environmental-initiativ/831791/",
+      "publishedAt": "2026-09-30T17:03:00.000Z",
+      "image": "https://imgproxy.divecdn.com/R3LuB-v4qXcQFRDmKSByfagAMNQDn7MpDhby-TpB6kQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDAwNTYzMjI4X3A1OVJTUWsuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-automaker-backed-ev-fast-charging-networ-2026-09-30",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Automaker-backed EV fast-charging network has more than doubled in 2026",
+      "excerpt": "Ionna also claims that it s now the largest 400 kilowatt EV charging network operator in U.S.",
+      "url": "https://www.esgdive.com/news/automaker-backed-ev-fast-charging-network-has-more-than-doubled-in-2026/831784/",
+      "publishedAt": "2026-09-30T16:26:00.000Z",
+      "image": "https://imgproxy.divecdn.com/5Zmkqo7PXDLkcYFrN52s_e6MUyTN04GfTtAOG7tRSY4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JT05OQS1IT1VTVE9OLURJR0lUQUwtR1JPVU5ELUZVTEwtMzYtc2NhbGVkLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-uk-s-fca-drops-plans-for-mandatory-ifrs--2026-09-30",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "UK’s FCA Drops Plans for Mandatory IFRS-Based Climate Reporting",
+      "excerpt": "The Financial Conduct Authority (FCA), the UK’s conduct regulator for financial services firms and financial markets, announced the release of it finalized rules for listed companies to begin climate and sustainability-related reporting in line with the UK’s new IFRS-based Sustainability Reporting Standards (UK SRS), choosing to allow companies to take a “comply-or-explain” approach, instead of a mandatory approach for climate reporting initially proposed by the regulator. The FCA said that it selected the comply-or-explain approach following feedback…",
+      "url": "https://www.esgtoday.com/uks-fca-drops-plans-for-mandatory-ifrs-based-climate-reporting/?utm_source=rss utm_medium=rss utm_campaign=uks-fca-drops-plans-for-mandatory-ifrs-based-climate-reporting",
+      "publishedAt": "2026-09-30T15:38:31.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/FCA.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-analysis-wind-and-solar-save-uk-from-gas-2026-09-30",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Analysis: Wind and solar save UK from gas imports worth £5.9bn during Hormuz crisis",
+      "excerpt": "Share The UK has avoided the need for gas imports worth £5.9bn since the start of the Hormuz crisis as a result of record generation from wind and solar, reveals Carbon Brief analysis. While gas prices are surging to levels not seen since the 2022 energy crisis , the UK has been generating record amounts of power from wind and solar, up 14% year-on-year. This unprecedented clean-power generation is directly cutting the need for gas-fired electricity, which is down by nearly 10% year-on-year in 2026 to date. In total, wind and solar have generated a…",
+      "url": "https://www.carbonbrief.org/analysis-wind-and-solar-save-uk-from-gas-imports-worth-5-9bn-during-hormuz-crisis",
+      "publishedAt": "2026-09-30T14:12:01.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/record-wind-and-sola-1024x681.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-ey-launches-framework-to-quantify-financ-2026-09-30",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EY Launches Framework to Quantify Financial Impact of Sustainability Risks and Opportunities",
+      "excerpt": "Global professional services firm EY announced the launch of its EY Sustainability Value Bridge, a new framework aimed at helping companies to understand and quantify the connection between sustainability and climate risks and opportunities and their impact on financial performance. According to EY, the new framework is being released as sustainability is at risk of slipping as a priority on some C-suite agendas, while at the same time, the financial consequences of climate, nature, and broader sustainability disruptions are becoming more material, and…",
+      "url": "https://www.esgtoday.com/ey-launches-framework-to-quantify-financial-impact-of-sustainability-risks/?utm_source=rss utm_medium=rss utm_campaign=ey-launches-framework-to-quantify-financial-impact-of-sustainability-risks",
+      "publishedAt": "2026-09-30T13:31:06.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/EY.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-today-actis-launches-new-india-clean-energy-pl-2026-09-30",
       "source": "esg-today",
       "sourceName": "ESG Today",
@@ -1577,7 +1687,7 @@
       "excerpt": "The apparel giants launched the Fashion Renewable Collective in collaboration with Schneider Electric to help suppliers across fashion supply chains adopt renewable electricity at scale.",
       "url": "https://www.esgdive.com/news/levis-marks-and-spencer-launch-renewable-energy-initiative-for-fashion-suppliers/831658/",
       "publishedAt": "2026-09-29T16:58:16.000Z",
-      "image": "https://imgproxy.divecdn.com/2UHaI7hKGPvwAzNlRGER0LobNrBcT0V0r0Sfgyy6F1o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTcxMDg3ODQ4LmpwZw==.webp",
+      "image": "https://imgproxy.divecdn.com/hhbs7aVxvqSC1j__47dwmw6OgcQ1EdNYTfGBa4EKFtA/g:nowe:0:0/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTcxMDg3ODQ4LmpwZw==.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -1720,50 +1830,6 @@
         "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "india"
-    },
-    {
-      "id": "esg-today-iso-s-proposed-net-zero-standard-fails-i-2026-09-29",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "ISO’s Proposed Net Zero Standard Fails Initial Vote Amid Record Feedback",
-      "excerpt": "The International Organization for Standardization’s (ISO) long-awaited proposed net zero standard , ISO 14040, failed to pass a vote by member organizations required to advance to become a final standard in its current form, ESG Today has confirmed, after receiving record feedback throughout its 12-week consultation period. ISO said that the new proposed standard, designed to support companies in developing credible and comprehensive net zero transition plans, received nearly 5,000 comments. While the organization does not disclose the votes of…",
-      "url": "https://www.esgtoday.com/isos-proposed-net-zero-standard-fails-initial-vote-amid-record-feedback/?utm_source=rss utm_medium=rss utm_campaign=isos-proposed-net-zero-standard-fails-initial-vote-amid-record-feedback",
-      "publishedAt": "2026-09-29T10:40:43.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/ISO-1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-to-make-real-esg-progress-we-must-reform-2026-09-29",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "To Make Real ESG Progress, We Must Reform Sustainability-Tied Executive Pay",
-      "excerpt": "Sustainability-linked executive pay became a phenomenon in the early 2020s. Fortune 500 companies made public commitments to their green goals, and whether they met them directly affected CEOs year-end bonuses. I thought this might make meaningful progress towards tackling climate risk, but for all the good intentions behind these pay schemes, they failed. Spectacularly so, in fact. ESG targets are regularly hit at a rate of 128% , but we’re still on course to break the seventh of the nine planetary boundaries. So, if we’re overachieving against these…",
-      "url": "https://www.esgtoday.com/to-make-real-esg-progress-we-must-reform-sustainability-tied-executive-pay/?utm_source=rss utm_medium=rss utm_campaign=to-make-real-esg-progress-we-must-reform-sustainability-tied-executive-pay",
-      "publishedAt": "2026-09-29T08:38:10.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Speeki-Lane2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
     },
     {
       "id": "esg-dive-proxy-advisor-glass-lewis-and-esg-platfo-2026-09-28",
@@ -2012,50 +2078,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-how-manufacturers-can-improve-factory-su-2026-09-24",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "How manufacturers can improve factory sustainability through AI",
-      "excerpt": "Experts at Climate Week NYC 2026 discussed how to leverage technologies to drive energy efficiencies, including predictive maintenance and machine-learning models for critical minerals recovery.",
-      "url": "https://www.esgdive.com/news/ai-lowering-factory-emissions-climate-week-nyc/831252/",
-      "publishedAt": "2026-09-24T15:57:00.000Z",
-      "image": "https://imgproxy.divecdn.com/ZkGH4wpjerYqOEwupnRPVB6_L6JnqG7PXCxMYvuMMiI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbmRpYXVuaWxldmVyLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-directors-flag-gaps-in-board-expertise-p-2026-09-24",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Directors flag gaps in board expertise: PwC",
-      "excerpt": "The share of directors who see a fellow board member s insufficient expertise as warranting their replacement nearly doubled this year, a PwC survey says.",
-      "url": "https://www.esgdive.com/news/directors-flag-growing-gaps-board-expertise-pwc/831266/",
-      "publishedAt": "2026-09-24T15:54:00.000Z",
-      "image": "https://imgproxy.divecdn.com/9tf7jVJ5CfhzzPwDvA6PqbzDiktd1tLbd56_1NQWR7E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ib2FyZF9yb29tLmpwZWc=.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-interactive-what-china-s-dozens-of-five--2026-09-24",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2218,7 +2240,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "How is the carbon credit market in India moving beyond policy? - Tata Power",
+      "title": "How is the carbon credit market in India moving beyond policy? - tatapower.com",
       "excerpt": "Our website uses cookies to enhance your browsing experience. By using our website you agree to the use of cookies as per our privacy policy How is the carbon credit market in India moving beyond policy? From targets to trading, India is building the machinery that makes carbon markets work An invisible line is being drawn across the Indian industry: beat an emissions target and carbon performance can create value; miss it, and the gap can carry a cost. That is the shift powering the carbon credit market in India , as climate performance moves from…",
       "url": "https://www.tatapower.com/blogs/how-is-the-carbon-credit-market-in-india-moving-beyond-policy",
       "publishedAt": "2026-09-18T12:23:07.000Z",
@@ -2279,28 +2301,6 @@
         "feed": "https://verra.org/feed/"
       },
       "region": "world"
-    },
-    {
-      "id": "carbon-brief-analysis-india-s-power-sector-emissions--2026-09-16",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Analysis: India’s power-sector emissions flat for two years due to clean-energy surge",
-      "excerpt": "Share Article Contents Expand menu Close Flatlining fossils Clean-energy growth matches power demand Which states led the clean-power shift? Fall in oil and gas consumption continues Rapid emission growth from heavy industry continues New investments in coal Outlook for India’s emissions About the data A surge in clean energy has kept carbon dioxide (CO2) emissions in check across India’s power sector, with no growth from the first half of 2024 to the same period in 2026. L auri Myllyvirta, lead analyst at Centre for Research on Energy and Clean Air…",
-      "url": "https://www.carbonbrief.org/analysis-indias-power-sector-emissions-flat-for-two-years-due-to-clean-energy-surge",
-      "publishedAt": "2026-09-16T23:01:00.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/indias-power-sector-_1-scaled.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "india"
     },
     {
       "id": "verra-verra-launches-scope-3-standard-program--2026-09-15",
@@ -2474,7 +2474,7 @@
       "type": "esg",
       "tag": "CLIMATE",
       "accent": "#34d399",
-      "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
+      "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - vajiramandravi.com",
       "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
       "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
       "publishedAt": "2026-08-17T07:00:00.000Z",
