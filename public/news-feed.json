@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-10-01T18:40:53.230Z",
+  "fetchedAt": "2026-10-01T22:58:40.105Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 18,
     "world": 44,
-    "withImages": 57,
-    "avgExcerptLength": 457,
+    "withImages": 58,
+    "avgExcerptLength": 465,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -253,10 +253,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
-        "excerpt": "India’s green hydrogen push gathers pace BioEnergy Times",
+        "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
         "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
         "publishedAt": "2026-07-29T07:00:00.000Z",
-        "image": null,
+        "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -264,7 +264,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -484,6 +485,28 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-amazon-constellation-sign-20-year-ppa-to-2026-10-01",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Amazon, Constellation sign 20-year PPA to expand Maryland nuclear plant",
+        "excerpt": "The tech giant and energy producer are backing improvements and renovations at the 1,790-megawatt Calvert Cliffs Clean Energy Center, the state s largest source of clean energy.",
+        "url": "https://www.esgdive.com/news/amazon-constellation-sign-20-year-ppa-to-expand-maryland-nuclear-plant/831942/",
+        "publishedAt": "2026-10-01T18:55:07.000Z",
+        "image": "https://imgproxy.divecdn.com/6441MLvnLZyQO9iUakZ2H21NS_tQYCEzGBS219lT158/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzEwMTc5NjMxLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-most-companies-still-publishing-sustaina-2026-10-01",
         "source": "esg-dive",
@@ -1041,28 +1064,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-26-state-attorneys-general-call-on-congr-2026-09-25",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "26 state attorneys general call on Congress to rein in AI, flagging risks",
-        "excerpt": "Legislation introduced in the Senate on Wednesday would pause AI research until the creation of a federal department that would regulate the technology.",
-        "url": "https://www.esgdive.com/news/26-state-attorneys-general-call-congress-rein-in-ai-flagging-risks-Trump-un-altman-openai/831375/",
-        "publishedAt": "2026-09-25T15:00:00.000Z",
-        "image": "https://imgproxy.divecdn.com/M10TsrFMgY3BhTgDG_kwQx_INF60oxHzo0-TrQ-AV7o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYzOTc0NDE4LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-concerning-low-sea-ice-persists-as-antar-2026-09-25",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1477,6 +1478,28 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-amazon-constellation-sign-20-year-ppa-to-2026-10-01",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Amazon, Constellation sign 20-year PPA to expand Maryland nuclear plant",
+      "excerpt": "The tech giant and energy producer are backing improvements and renovations at the 1,790-megawatt Calvert Cliffs Clean Energy Center, the state s largest source of clean energy.",
+      "url": "https://www.esgdive.com/news/amazon-constellation-sign-20-year-ppa-to-expand-maryland-nuclear-plant/831942/",
+      "publishedAt": "2026-10-01T18:55:07.000Z",
+      "image": "https://imgproxy.divecdn.com/6441MLvnLZyQO9iUakZ2H21NS_tQYCEzGBS219lT158/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzEwMTc5NjMxLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-dive-most-companies-still-publishing-sustaina-2026-10-01",
       "source": "esg-dive",
@@ -2056,28 +2079,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-26-state-attorneys-general-call-on-congr-2026-09-25",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "26 state attorneys general call on Congress to rein in AI, flagging risks",
-      "excerpt": "Legislation introduced in the Senate on Wednesday would pause AI research until the creation of a federal department that would regulate the technology.",
-      "url": "https://www.esgdive.com/news/26-state-attorneys-general-call-congress-rein-in-ai-flagging-risks-Trump-un-altman-openai/831375/",
-      "publishedAt": "2026-09-25T15:00:00.000Z",
-      "image": "https://imgproxy.divecdn.com/M10TsrFMgY3BhTgDG_kwQx_INF60oxHzo0-TrQ-AV7o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYzOTc0NDE4LmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-concerning-low-sea-ice-persists-as-antar-2026-09-25",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2546,10 +2547,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
-      "excerpt": "India’s green hydrogen push gathers pace BioEnergy Times",
+      "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
       "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
       "publishedAt": "2026-07-29T07:00:00.000Z",
-      "image": null,
+      "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2557,7 +2558,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
