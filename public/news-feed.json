@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-10-02T18:11:26.559Z",
+  "fetchedAt": "2026-10-02T22:47:32.149Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 17,
     "world": 45,
     "withImages": 60,
-    "avgExcerptLength": 472,
+    "avgExcerptLength": 478,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -123,6 +123,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjOWFTSEZ5ek4xcGJtM3dEZEF1STBfRVFyWFF0UmRFaFRUX3MwV2VrcDJsSmc2XzJVRUhDZk5GdnJDTndhdmdXaVRXWi1iNkNvTE5xREI3cWxZdEVOdlQ2czhhRlJDT3U5bGhOUHc3Tm9vUmtBczBnVA?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-india-s-carbon-credit-programmes-must-be-2026-08-18",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India's Carbon Credit Programmes Must Be Designed for Smallholder Farmers - The Policy Edge",
+        "excerpt": "New evidence from Bihar shows how programme design shapes the scalability of voluntary carbon credit programmes across India s smallholder agriculture Banda Sainath is a Scientist (Agricultural Economics) at ICAR Research Complex for Eastern Region , Patna. SDG 13: Climate Action | SDG 2: Zero Hunger Ministry of Environment, Forest and Climate Change MoEFCC | Ministry of Agriculture and Farmers Welfare MoAFW Listen to the article Current time 00 / 00 00 / 00 The discussion in this article is based on the author’s research published in Journal of…",
+        "url": "https://www.policyedge.in/p/indias-carbon-credit-programmes-must-be-designed-for-smallholder-farmers",
+        "publishedAt": "2026-08-18T07:00:00.000Z",
+        "image": "https://my-strapi-buckets.s3.eu-north-1.amazonaws.com/uploads/India_s_Carbon_Credit_Programmes_Must_Be_Designed_for_Smallholder_Farmers_0f454323e9.png",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRllBSkVCQ0QyS3VlaTU0ZDA1TDJlZW1DUm8tUldya2R5emw2YUpHLUVzWHI0QmM5cXc5Ri1PVHJwWW1xUnVxV1c0aFFpZzFJb1VTQTlLczZTcFlrNURmUXhYTy1yTkc1T2JNSlQ3aFgzNnYtZjBVWFFUdEpPTVRsb3ROMFBfZlJXTmlLNDcwNlZ0dUVnV0lDV3NxTm82dmE0dXc?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -278,8 +302,8 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India's green hydrogen plans gain pace, but demand and costs pose hurdles - Business Standard",
-        "excerpt": "India's green hydrogen plans gain pace, but demand and costs pose hurdles Business Standard",
+        "title": "India's green hydrogen plans gain pace, but demand and costs pose hurdles - business-standard.com",
+        "excerpt": "India's green hydrogen plans gain pace, but demand and costs pose hurdles business-standard.com",
         "url": "https://www.business-standard.com/industry/news/india-s-green-hydrogen-plans-gain-pace-but-demand-and-costs-pose-hurdles-126072801706_1.html",
         "publishedAt": "2026-07-28T07:00:00.000Z",
         "image": null,
@@ -367,37 +391,13 @@
         "region": "india"
       },
       {
-        "id": "google-india-what-is-a-carbon-credit-a-one-tonne-co2e-2026-06-02",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "What Is a Carbon Credit? A One-Tonne CO2e Building Block - The CSR Universe",
-        "excerpt": "Learn what a carbon credit is, how it represents one tonne of CO2e reduced, avoided, or removed, and why carbon credits are becoming central to India s carbon market, ESG strategies, net-zero goals, and climate action.",
-        "url": "https://thecsruniverse.com/articles/what-is-a-carbon-credit-a-one-tonne-co2e-building-block",
-        "publishedAt": "2026-06-02T07:00:00.000Z",
-        "image": "https://thecsruniverse.com/media/1000163795.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkNqWWlhMDJLM1l2Tm50Z2U4UjNDUDhTeGtVY3F2cUEzWDBfXzFMRnV5QUZtUUp1UHJRSXN3YVAwYzI4eUU5ZTdRMzJyUlFtYW1IRm1fM1FyX1dKcUFUOXhSS0pNWURCSnNJdmEwazZ4SEVMUDBMQ3dYanNoOTFoMkRMQmNpaElJS0ZIdjhOMzNHMkZGUVE?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-carbon-global-blue-carbon-market-to-reach-usd-1-2026-03-25",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - prnewswire.co.uk",
+        "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
         "excerpt": "Strong CAGR of 24.0% reflects premium shift in voluntary carbon markets toward durable, high-integrity removal credits NEWARK, Del. , March 25, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global blue carbon market, valued at USD 1.0 billion in 2025, is projected to reach USD 1.2 billion in 2026 and expand significantly to USD 10.3 billion by 2036, growing at a CAGR of 24.0% during the forecast period, according to analysis by Future Market Insights. The Blue Carbon market is expected to generate an absolute…",
         "url": "https://www.prnewswire.co.uk/news-releases/global-blue-carbon-market-to-reach-usd-10-3-billion-by-2036--with-strong-growth-across-asia-pacific-india-and-the-us-led-by-verra-gold-standard-and-conservation-international-302724782.html",
         "publishedAt": "2026-03-25T07:00:00.000Z",
@@ -1047,7 +1047,7 @@
         "type": "esg",
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
-        "title": "Who Verifies Carbon Credits? - carboncredits.com",
+        "title": "Who Verifies Carbon Credits? - CarbonCredits.com",
         "excerpt": "Here’s a new money-making model for you. Plant a small forest in your backyard. Call it “afforestation” and “carbon sequestration. Calculate how many tons of carbon dioxide will be locked away in your forest over its lifetime. Then sell those carbon credits to companies and private entities who are still busy pumping CO2 into the air. Congratulations, you ve just marketed carbon offsets! It s not quite that easy, of course, but in the race to reduce their carbon footprint, companies are realizing that the carbon offset market is largely unregulated. The…",
         "url": "https://carboncredits.com/who-verifies-carbon-credits/",
         "publishedAt": "2026-09-25T16:53:37.000Z",
@@ -2062,7 +2062,7 @@
       "type": "esg",
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
-      "title": "Who Verifies Carbon Credits? - carboncredits.com",
+      "title": "Who Verifies Carbon Credits? - CarbonCredits.com",
       "excerpt": "Here’s a new money-making model for you. Plant a small forest in your backyard. Call it “afforestation” and “carbon sequestration. Calculate how many tons of carbon dioxide will be locked away in your forest over its lifetime. Then sell those carbon credits to companies and private entities who are still busy pumping CO2 into the air. Congratulations, you ve just marketed carbon offsets! It s not quite that easy, of course, but in the race to reduce their carbon footprint, companies are realizing that the carbon offset market is largely unregulated. The…",
       "url": "https://carboncredits.com/who-verifies-carbon-credits/",
       "publishedAt": "2026-09-25T16:53:37.000Z",
@@ -2445,6 +2445,30 @@
       "region": "world"
     },
     {
+      "id": "google-india-india-s-carbon-credit-programmes-must-be-2026-08-18",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India's Carbon Credit Programmes Must Be Designed for Smallholder Farmers - The Policy Edge",
+      "excerpt": "New evidence from Bihar shows how programme design shapes the scalability of voluntary carbon credit programmes across India s smallholder agriculture Banda Sainath is a Scientist (Agricultural Economics) at ICAR Research Complex for Eastern Region , Patna. SDG 13: Climate Action | SDG 2: Zero Hunger Ministry of Environment, Forest and Climate Change MoEFCC | Ministry of Agriculture and Farmers Welfare MoAFW Listen to the article Current time 00 / 00 00 / 00 The discussion in this article is based on the author’s research published in Journal of…",
+      "url": "https://www.policyedge.in/p/indias-carbon-credit-programmes-must-be-designed-for-smallholder-farmers",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "image": "https://my-strapi-buckets.s3.eu-north-1.amazonaws.com/uploads/India_s_Carbon_Credit_Programmes_Must_Be_Designed_for_Smallholder_Farmers_0f454323e9.png",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRllBSkVCQ0QyS3VlaTU0ZDA1TDJlZW1DUm8tUldya2R5emw2YUpHLUVzWHI0QmM5cXc5Ri1PVHJwWW1xUnVxV1c0aFFpZzFJb1VTQTlLczZTcFlrNURmUXhYTy1yTkc1T2JNSlQ3aFgzNnYtZjBVWFFUdEpPTVRsb3ROMFBfZlJXTmlLNDcwNlZ0dUVnV0lDV3NxTm82dmE0dXc?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-india-article-6-of-the-paris-agreement-climate-2026-08-17",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2595,8 +2619,8 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India's green hydrogen plans gain pace, but demand and costs pose hurdles - Business Standard",
-      "excerpt": "India's green hydrogen plans gain pace, but demand and costs pose hurdles Business Standard",
+      "title": "India's green hydrogen plans gain pace, but demand and costs pose hurdles - business-standard.com",
+      "excerpt": "India's green hydrogen plans gain pace, but demand and costs pose hurdles business-standard.com",
       "url": "https://www.business-standard.com/industry/news/india-s-green-hydrogen-plans-gain-pace-but-demand-and-costs-pose-hurdles-126072801706_1.html",
       "publishedAt": "2026-07-28T07:00:00.000Z",
       "image": null,
@@ -2708,30 +2732,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-what-is-a-carbon-credit-a-one-tonne-co2e-2026-06-02",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "What Is a Carbon Credit? A One-Tonne CO2e Building Block - The CSR Universe",
-      "excerpt": "Learn what a carbon credit is, how it represents one tonne of CO2e reduced, avoided, or removed, and why carbon credits are becoming central to India s carbon market, ESG strategies, net-zero goals, and climate action.",
-      "url": "https://thecsruniverse.com/articles/what-is-a-carbon-credit-a-one-tonne-co2e-building-block",
-      "publishedAt": "2026-06-02T07:00:00.000Z",
-      "image": "https://thecsruniverse.com/media/1000163795.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkNqWWlhMDJLM1l2Tm50Z2U4UjNDUDhTeGtVY3F2cUEzWDBfXzFMRnV5QUZtUUp1UHJRSXN3YVAwYzI4eUU5ZTdRMzJyUlFtYW1IRm1fM1FyX1dKcUFUOXhSS0pNWURCSnNJdmEwazZ4SEVMUDBMQ3dYanNoOTFoMkRMQmNpaElJS0ZIdjhOMzNHMkZGUVE?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-carbon-blog-eu-adopts-first-crcf-methodologies--2026-05-02",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2762,7 +2762,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - prnewswire.co.uk",
+      "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
       "excerpt": "Strong CAGR of 24.0% reflects premium shift in voluntary carbon markets toward durable, high-integrity removal credits NEWARK, Del. , March 25, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global blue carbon market, valued at USD 1.0 billion in 2025, is projected to reach USD 1.2 billion in 2026 and expand significantly to USD 10.3 billion by 2036, growing at a CAGR of 24.0% during the forecast period, according to analysis by Future Market Insights. The Blue Carbon market is expected to generate an absolute…",
       "url": "https://www.prnewswire.co.uk/news-releases/global-blue-carbon-market-to-reach-usd-10-3-billion-by-2036--with-strong-growth-across-asia-pacific-india-and-the-us-led-by-verra-gold-standard-and-conservation-international-302724782.html",
       "publishedAt": "2026-03-25T07:00:00.000Z",
