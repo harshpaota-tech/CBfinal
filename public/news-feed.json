@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-10-02T06:34:41.491Z",
+  "fetchedAt": "2026-10-02T13:42:29.744Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 62,
-    "india": 18,
-    "world": 44,
-    "withImages": 57,
-    "avgExcerptLength": 457,
+    "india": 17,
+    "world": 45,
+    "withImages": 58,
+    "avgExcerptLength": 471,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -56,24 +56,26 @@
   "sections": {
     "india": [
       {
-        "id": "esg-today-actis-launches-new-india-clean-energy-pl-2026-09-30",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
+        "id": "google-india-carbon-credits-the-new-asset-for-our-cap-2026-10-02",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
         "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Actis Launches New India Clean Energy Platform Targeting 3 GW of Solar, Wind, Storage Capacity",
-        "excerpt": "Sustainable infrastructure investor Actis announced today the launch of Leo Energies, a new renewable energy platform in India, targeting a portfolio of over 3GW of onshore wind, solar and battery storage assets. The launch of the new platform comes as India continues to scale up its investments in clean energy, with the country aiming to reach 500 GW of installed renewable energy capacity by 2030. Earlier this year India approved new targets to reduce economy-wide emissions intensity by 47% and to achieve 60% of electric power capacity from…",
-        "url": "https://www.esgtoday.com/actis-launches-new-india-clean-energy-platform-targeting-3-gw-of-solar-wind-storage-capacity/?utm_source=rss utm_medium=rss utm_campaign=actis-launches-new-india-clean-energy-platform-targeting-3-gw-of-solar-wind-storage-capacity",
-        "publishedAt": "2026-09-30T12:46:00.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Solar-Actis2.jpg",
-        "country": "India",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon Credits: The New Asset for Our Capital Markets - The Financial World",
+        "excerpt": "India’s emerging carbon market could turn pollution reduction into a new financial opportunity for industry and investors For decades, reducing carbon emissions was treated largely as an environmental obligation. That is changing rapidly. Carbon is increasingly acquiring a financial value, and the market emerging around it could become an important new component of the global financial system. India, too, is preparing to enter this emerging market. Its Carbon Credit Trading Scheme (CCTS) seeks to create a regulated framework under which companies that…",
+        "url": "https://www.thefinancialworld.com/carbon-credits-the-new-asset-for-our-capital-markets/",
+        "publishedAt": "2026-10-02T05:24:33.000Z",
+        "image": "https://www.thefinancialworld.com/wp-content/uploads/2026/10/Indias-emerging-carbon-market-could-turn-pollution-reduction-into-a-new-financial-opportunity.jpg",
+        "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFlNRkJYN1dwTVJTSXIwZ1g4SW9iMDBsMWhjeWhLZERTOTNkX1M5eHlHMEVheTVZMVc5TjRlNEpDdjZjakxpc0RFcms4N0JiM2NndEpMTDF2T0JfYURQYk81ME9Rb2dWMjdmLWtQR216LUlTUEh0dGs1RHNBRENCV3Rlc0Qzak1HdU41dnBZSHk?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -108,7 +110,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - Down To Earth",
+        "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - downtoearth.org.in",
         "excerpt": "Copied Follow Us Listen to this article Summary BRICS leaders at the New Delhi Summit backed a BRICS Carbon Markets Partnership to share expertise, build capacity and link carbon markets with climate finance, while firmly opposing unilateral CBAMs by the EU and UK. India’s CCTS gaining UK recognition highlights both new export competitiveness opportunities and compliance challenges, especially for MSMEs facing demanding measurement and verification rules. The BRICS countries have backed greater cooperation on carbon markets, including implementation of…",
         "url": "https://www.downtoearth.org.in/climate-change/brics-backs-carbon-market-cooperation-while-opposing-unilateral-cbam",
         "publishedAt": "2026-09-12T07:00:00.000Z",
@@ -252,7 +254,7 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s green hydrogen push gathers pace - bioenergytimes.com",
+        "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
         "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
         "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
         "publishedAt": "2026-07-29T07:00:00.000Z",
@@ -365,30 +367,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-what-is-a-carbon-credit-a-one-tonne-co2e-2026-06-02",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "What Is a Carbon Credit? A One-Tonne CO2e Building Block - The CSR Universe",
-        "excerpt": "Learn what a carbon credit is, how it represents one tonne of CO2e reduced, avoided, or removed, and why carbon credits are becoming central to India s carbon market, ESG strategies, net-zero goals, and climate action.",
-        "url": "https://thecsruniverse.com/articles/what-is-a-carbon-credit-a-one-tonne-co2e-building-block",
-        "publishedAt": "2026-06-02T07:00:00.000Z",
-        "image": "https://thecsruniverse.com/media/1000163795.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkNqWWlhMDJLM1l2Tm50Z2U4UjNDUDhTeGtVY3F2cUEzWDBfXzFMRnV5QUZtUUp1UHJRSXN3YVAwYzI4eUU5ZTdRMzJyUlFtYW1IRm1fM1FyX1dKcUFUOXhSS0pNWURCSnNJdmEwazZ4SEVMUDBMQ3dYanNoOTFoMkRMQmNpaElJS0ZIdjhOMzNHMkZGUVE?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-carbon-global-blue-carbon-market-to-reach-usd-1-2026-03-25",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -419,7 +397,7 @@
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "Decarbonizing India’s Development Journey - Drishti IAS",
+        "title": "Decarbonizing India’s Development Journey - drishtiias.com",
         "excerpt": "This editorial is based on From budget provision to national capability: Why India s CCUS commitment matters which was published in The Hindustan Times on 23/02/2026. This editorial provides a comprehensive status on India's multidimensional decarbonization strategy, it critically examines the friction between coal-based energy security and the ambitious leap toward a technology-led, net-zero industrial landscape. For Prelims: Carbon Credit Trading Scheme (CCTS) , CCUS , PM Surya Ghar Muft Bijli Yojana , Perform Achieve and Trade , Battery Energy…",
         "url": "https://www.drishtiias.com/daily-updates/daily-news-editorials/decarbonizing-indias-development-journey",
         "publishedAt": "2026-02-25T08:00:00.000Z",
@@ -466,11 +444,11 @@
         "type": "esg",
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
-        "title": "India’s green hydrogen policy wrap 2025 - powerpeakdigest.com",
-        "excerpt": "India’s green hydrogen policy wrap 2025 powerpeakdigest.com",
+        "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
+        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": null,
+        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -478,12 +456,79 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       }
     ],
     "world": [
+      {
+        "id": "esg-today-algebris-acquires-renewable-energy-advis-2026-10-02",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Algebris Acquires Renewable Energy Advisory Firm Vector Renewables",
+        "excerpt": "UK-based asset manager Algebris Investments announced the acquisition of Spanish renewable energy advisory and asset manager firm Vector Renewables from renewable power producer Nadara. The acquisition was made through its Algebris Green Transition Fund, launched by the firm in 2022 , with a focus on areas including the energy transition, circular economy, smart cities and agritech. The transaction marks the fund’s first international acquisition. Founded in 2005, Madrid-based Vector provides asset management, technical and legal advisory services…",
+        "url": "https://www.esgtoday.com/algebris-acquires-renewable-energy-advisory-firm-vector-renewables/?utm_source=rss utm_medium=rss utm_campaign=algebris-acquires-renewable-energy-advisory-firm-vector-renewables",
+        "publishedAt": "2026-10-02T13:04:33.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Algebris2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-nox-raises-3-million-to-connect-home-cle-2026-10-02",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "NOX Raises €3 Million to Connect Home Clean Energy Devices to the Grid",
+        "excerpt": "Residential energy management software startup NOX Energy announced that it has raised €3 million (USD$3.4 million) in a seed funding round, with proceeds aimed at scaling the company’s smart energy management software connecting home clean energy devices to the grid across Europe. Founded in 2024 by CEO Axelle Moortgat and COO Louis Clermont, Belgium-based NOX develops a smart energy management platform that connects home energy assets, including heat pumps, solar panels, batteries and electric vehicles, to energy markets, optimizing the operation of…",
+        "url": "https://www.esgtoday.com/nox-raises-e3-million-to-connect-home-clean-energy-devices-to-the-grid/?utm_source=rss utm_medium=rss utm_campaign=nox-raises-e3-million-to-connect-home-clean-energy-devices-to-the-grid",
+        "publishedAt": "2026-10-02T12:23:03.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Nox-Energy.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-diginex-launches-new-supply-chain-due-di-2026-10-02",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Diginex Launches New Supply Chain Due Diligence Platform",
+        "excerpt": "Sustainability and compliance solutions provider Diginex announced the launch of an enhanced end-to-end supply chain due diligence platform, aimed at providing companies with risk data and traceable visibility across multiple tiers of their supply chains. According to Diginex, the launch comes as companies face growing requirements to understand and manage risks deeper within increasingly complex supply chains, with due diligence requirements and forced labor import prohibitions increasing the need for businesses to evaluate supply chain risks and…",
+        "url": "https://www.esgtoday.com/diginex-launches-new-supply-chain-due-diligence-platform/?utm_source=rss utm_medium=rss utm_campaign=diginex-launches-new-supply-chain-due-diligence-platform",
+        "publishedAt": "2026-10-02T10:22:49.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/shipping-containers.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-amazon-constellation-sign-20-year-ppa-to-2026-10-01",
         "source": "esg-dive",
@@ -772,28 +817,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-uk-s-fca-drops-plans-for-mandatory-ifrs--2026-09-30",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "UK’s FCA Drops Plans for Mandatory IFRS-Based Climate Reporting",
-        "excerpt": "The Financial Conduct Authority (FCA), the UK’s conduct regulator for financial services firms and financial markets, announced the release of it finalized rules for listed companies to begin climate and sustainability-related reporting in line with the UK’s new IFRS-based Sustainability Reporting Standards (UK SRS), choosing to allow companies to take a “comply-or-explain” approach, instead of a mandatory approach for climate reporting initially proposed by the regulator. The FCA said that it selected the comply-or-explain approach following feedback…",
-        "url": "https://www.esgtoday.com/uks-fca-drops-plans-for-mandatory-ifrs-based-climate-reporting/?utm_source=rss utm_medium=rss utm_campaign=uks-fca-drops-plans-for-mandatory-ifrs-based-climate-reporting",
-        "publishedAt": "2026-09-30T15:38:31.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/FCA.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-analysis-wind-and-solar-save-uk-from-gas-2026-09-30",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -812,28 +835,6 @@
         "meta": {
           "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-ey-launches-framework-to-quantify-financ-2026-09-30",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EY Launches Framework to Quantify Financial Impact of Sustainability Risks and Opportunities",
-        "excerpt": "Global professional services firm EY announced the launch of its EY Sustainability Value Bridge, a new framework aimed at helping companies to understand and quantify the connection between sustainability and climate risks and opportunities and their impact on financial performance. According to EY, the new framework is being released as sustainability is at risk of slipping as a priority on some C-suite agendas, while at the same time, the financial consequences of climate, nature, and broader sustainability disruptions are becoming more material, and…",
-        "url": "https://www.esgtoday.com/ey-launches-framework-to-quantify-financial-impact-of-sustainability-risks/?utm_source=rss utm_medium=rss utm_campaign=ey-launches-framework-to-quantify-financial-impact-of-sustainability-risks",
-        "publishedAt": "2026-09-30T13:31:06.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/EY.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1338,7 +1339,7 @@
         "type": "esg",
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
-        "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - marketresearchfuture.com",
+        "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
         "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
         "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
         "publishedAt": "2026-08-24T07:00:00.000Z",
@@ -1362,7 +1363,7 @@
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
+        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
         "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
         "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
         "publishedAt": "2026-06-25T17:05:08.000Z",
@@ -1410,7 +1411,7 @@
         "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Verra Issues First CORSIA Label for 4.7 Million Carbon Credits - clearbluemarkets.com",
+        "title": "Verra Issues First CORSIA Label for 4.7 Million Carbon Credits - ClearBlue Markets",
         "excerpt": "Verra, one of the world's leading developers of carbon standards, has reached a significant milestone by applying the International Civil Aviation Organization’s (ICAO) Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) label to millions of voluntary carbon credits for the first time, with the majority of these credits from projects in Africa. CORSIA's implementation continues to make it one of the most relevant climate compliance mechanisms globally, as it mitigates emissions from one of the highest-emitting and hardest-to-abate…",
         "url": "https://www.clearbluemarkets.com/knowledge-base/verra-issues-first-corsia-label-for-4.7-million-carbon-credits",
         "publishedAt": "2026-02-03T08:00:00.000Z",
@@ -1477,6 +1478,96 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-algebris-acquires-renewable-energy-advis-2026-10-02",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Algebris Acquires Renewable Energy Advisory Firm Vector Renewables",
+      "excerpt": "UK-based asset manager Algebris Investments announced the acquisition of Spanish renewable energy advisory and asset manager firm Vector Renewables from renewable power producer Nadara. The acquisition was made through its Algebris Green Transition Fund, launched by the firm in 2022 , with a focus on areas including the energy transition, circular economy, smart cities and agritech. The transaction marks the fund’s first international acquisition. Founded in 2005, Madrid-based Vector provides asset management, technical and legal advisory services…",
+      "url": "https://www.esgtoday.com/algebris-acquires-renewable-energy-advisory-firm-vector-renewables/?utm_source=rss utm_medium=rss utm_campaign=algebris-acquires-renewable-energy-advisory-firm-vector-renewables",
+      "publishedAt": "2026-10-02T13:04:33.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Algebris2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-nox-raises-3-million-to-connect-home-cle-2026-10-02",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "NOX Raises €3 Million to Connect Home Clean Energy Devices to the Grid",
+      "excerpt": "Residential energy management software startup NOX Energy announced that it has raised €3 million (USD$3.4 million) in a seed funding round, with proceeds aimed at scaling the company’s smart energy management software connecting home clean energy devices to the grid across Europe. Founded in 2024 by CEO Axelle Moortgat and COO Louis Clermont, Belgium-based NOX develops a smart energy management platform that connects home energy assets, including heat pumps, solar panels, batteries and electric vehicles, to energy markets, optimizing the operation of…",
+      "url": "https://www.esgtoday.com/nox-raises-e3-million-to-connect-home-clean-energy-devices-to-the-grid/?utm_source=rss utm_medium=rss utm_campaign=nox-raises-e3-million-to-connect-home-clean-energy-devices-to-the-grid",
+      "publishedAt": "2026-10-02T12:23:03.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Nox-Energy.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-diginex-launches-new-supply-chain-due-di-2026-10-02",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Diginex Launches New Supply Chain Due Diligence Platform",
+      "excerpt": "Sustainability and compliance solutions provider Diginex announced the launch of an enhanced end-to-end supply chain due diligence platform, aimed at providing companies with risk data and traceable visibility across multiple tiers of their supply chains. According to Diginex, the launch comes as companies face growing requirements to understand and manage risks deeper within increasingly complex supply chains, with due diligence requirements and forced labor import prohibitions increasing the need for businesses to evaluate supply chain risks and…",
+      "url": "https://www.esgtoday.com/diginex-launches-new-supply-chain-due-diligence-platform/?utm_source=rss utm_medium=rss utm_campaign=diginex-launches-new-supply-chain-due-diligence-platform",
+      "publishedAt": "2026-10-02T10:22:49.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/shipping-containers.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-india-carbon-credits-the-new-asset-for-our-cap-2026-10-02",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon Credits: The New Asset for Our Capital Markets - The Financial World",
+      "excerpt": "India’s emerging carbon market could turn pollution reduction into a new financial opportunity for industry and investors For decades, reducing carbon emissions was treated largely as an environmental obligation. That is changing rapidly. Carbon is increasingly acquiring a financial value, and the market emerging around it could become an important new component of the global financial system. India, too, is preparing to enter this emerging market. Its Carbon Credit Trading Scheme (CCTS) seeks to create a regulated framework under which companies that…",
+      "url": "https://www.thefinancialworld.com/carbon-credits-the-new-asset-for-our-capital-markets/",
+      "publishedAt": "2026-10-02T05:24:33.000Z",
+      "image": "https://www.thefinancialworld.com/wp-content/uploads/2026/10/Indias-emerging-carbon-market-could-turn-pollution-reduction-into-a-new-financial-opportunity.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFlNRkJYN1dwTVJTSXIwZ1g4SW9iMDBsMWhjeWhLZERTOTNkX1M5eHlHMEVheTVZMVc5TjRlNEpDdjZjakxpc0RFcms4N0JiM2NndEpMTDF2T0JfYURQYk81ME9Rb2dWMjdmLWtQR216LUlTUEh0dGs1RHNBRENCV3Rlc0Qzak1HdU41dnBZSHk?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
     {
       "id": "esg-dive-amazon-constellation-sign-20-year-ppa-to-2026-10-01",
       "source": "esg-dive",
@@ -1765,28 +1856,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-uk-s-fca-drops-plans-for-mandatory-ifrs--2026-09-30",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "UK’s FCA Drops Plans for Mandatory IFRS-Based Climate Reporting",
-      "excerpt": "The Financial Conduct Authority (FCA), the UK’s conduct regulator for financial services firms and financial markets, announced the release of it finalized rules for listed companies to begin climate and sustainability-related reporting in line with the UK’s new IFRS-based Sustainability Reporting Standards (UK SRS), choosing to allow companies to take a “comply-or-explain” approach, instead of a mandatory approach for climate reporting initially proposed by the regulator. The FCA said that it selected the comply-or-explain approach following feedback…",
-      "url": "https://www.esgtoday.com/uks-fca-drops-plans-for-mandatory-ifrs-based-climate-reporting/?utm_source=rss utm_medium=rss utm_campaign=uks-fca-drops-plans-for-mandatory-ifrs-based-climate-reporting",
-      "publishedAt": "2026-09-30T15:38:31.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/FCA.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-analysis-wind-and-solar-save-uk-from-gas-2026-09-30",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -1807,50 +1876,6 @@
         "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
-    },
-    {
-      "id": "esg-today-ey-launches-framework-to-quantify-financ-2026-09-30",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EY Launches Framework to Quantify Financial Impact of Sustainability Risks and Opportunities",
-      "excerpt": "Global professional services firm EY announced the launch of its EY Sustainability Value Bridge, a new framework aimed at helping companies to understand and quantify the connection between sustainability and climate risks and opportunities and their impact on financial performance. According to EY, the new framework is being released as sustainability is at risk of slipping as a priority on some C-suite agendas, while at the same time, the financial consequences of climate, nature, and broader sustainability disruptions are becoming more material, and…",
-      "url": "https://www.esgtoday.com/ey-launches-framework-to-quantify-financial-impact-of-sustainability-risks/?utm_source=rss utm_medium=rss utm_campaign=ey-launches-framework-to-quantify-financial-impact-of-sustainability-risks",
-      "publishedAt": "2026-09-30T13:31:06.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/EY.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-actis-launches-new-india-clean-energy-pl-2026-09-30",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Actis Launches New India Clean Energy Platform Targeting 3 GW of Solar, Wind, Storage Capacity",
-      "excerpt": "Sustainable infrastructure investor Actis announced today the launch of Leo Energies, a new renewable energy platform in India, targeting a portfolio of over 3GW of onshore wind, solar and battery storage assets. The launch of the new platform comes as India continues to scale up its investments in clean energy, with the country aiming to reach 500 GW of installed renewable energy capacity by 2030. Earlier this year India approved new targets to reduce economy-wide emissions intensity by 47% and to achieve 60% of electric power capacity from…",
-      "url": "https://www.esgtoday.com/actis-launches-new-india-clean-energy-platform-targeting-3-gw-of-solar-wind-storage-capacity/?utm_source=rss utm_medium=rss utm_campaign=actis-launches-new-india-clean-energy-platform-targeting-3-gw-of-solar-wind-storage-capacity",
-      "publishedAt": "2026-09-30T12:46:00.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/09/Solar-Actis2.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "india"
     },
     {
       "id": "esg-dive-levi-s-marks-spencer-launch-renewable-en-2026-09-29",
@@ -2377,7 +2402,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - Down To Earth",
+      "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - downtoearth.org.in",
       "excerpt": "Copied Follow Us Listen to this article Summary BRICS leaders at the New Delhi Summit backed a BRICS Carbon Markets Partnership to share expertise, build capacity and link carbon markets with climate finance, while firmly opposing unilateral CBAMs by the EU and UK. India’s CCTS gaining UK recognition highlights both new export competitiveness opportunities and compliance challenges, especially for MSMEs facing demanding measurement and verification rules. The BRICS countries have backed greater cooperation on carbon markets, including implementation of…",
       "url": "https://www.downtoearth.org.in/climate-change/brics-backs-carbon-market-cooperation-while-opposing-unilateral-cbam",
       "publishedAt": "2026-09-12T07:00:00.000Z",
@@ -2425,7 +2450,7 @@
       "type": "esg",
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
-      "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - marketresearchfuture.com",
+      "title": "Voluntary Carbon Credit Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
       "excerpt": "The Voluntary Carbon Credit Market stood at an estimated USD 16.72 billion in 2025 and is projected to reach approximately USD 25.62 billion by 2026 before climbing to USD 1,284.50 billion by 2035, reflecting a CAGR of 53.56% across the forecast window. This explosive trajectory is anchored in two converging forces: corporate net-zero commitments now covering more than half of the world's largest listed firms, and the rollout of the Integrity Council for the Voluntary Carbon Market's Core Carbon Principles (CCP), which are reshaping how buyers…",
       "url": "https://www.marketresearchfuture.com/reports/voluntary-carbon-credit-market-23576",
       "publishedAt": "2026-08-24T07:00:00.000Z",
@@ -2545,7 +2570,7 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s green hydrogen push gathers pace - bioenergytimes.com",
+      "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
       "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
       "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
       "publishedAt": "2026-07-29T07:00:00.000Z",
@@ -2664,7 +2689,7 @@
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - yellow.com",
+      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
       "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
       "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
       "publishedAt": "2026-06-25T17:05:08.000Z",
@@ -2680,30 +2705,6 @@
         "imageSource": "publisher"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-what-is-a-carbon-credit-a-one-tonne-co2e-2026-06-02",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "What Is a Carbon Credit? A One-Tonne CO2e Building Block - The CSR Universe",
-      "excerpt": "Learn what a carbon credit is, how it represents one tonne of CO2e reduced, avoided, or removed, and why carbon credits are becoming central to India s carbon market, ESG strategies, net-zero goals, and climate action.",
-      "url": "https://thecsruniverse.com/articles/what-is-a-carbon-credit-a-one-tonne-co2e-building-block",
-      "publishedAt": "2026-06-02T07:00:00.000Z",
-      "image": "https://thecsruniverse.com/media/1000163795.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkNqWWlhMDJLM1l2Tm50Z2U4UjNDUDhTeGtVY3F2cUEzWDBfXzFMRnV5QUZtUUp1UHJRSXN3YVAwYzI4eUU5ZTdRMzJyUlFtYW1IRm1fM1FyX1dKcUFUOXhSS0pNWURCSnNJdmEwazZ4SEVMUDBMQ3dYanNoOTFoMkRMQmNpaElJS0ZIdjhOMzNHMkZGUVE?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "google-carbon-blog-eu-adopts-first-crcf-methodologies--2026-05-02",
@@ -2760,7 +2761,7 @@
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "Decarbonizing India’s Development Journey - Drishti IAS",
+      "title": "Decarbonizing India’s Development Journey - drishtiias.com",
       "excerpt": "This editorial is based on From budget provision to national capability: Why India s CCUS commitment matters which was published in The Hindustan Times on 23/02/2026. This editorial provides a comprehensive status on India's multidimensional decarbonization strategy, it critically examines the friction between coal-based energy security and the ambitious leap toward a technology-led, net-zero industrial landscape. For Prelims: Carbon Credit Trading Scheme (CCTS) , CCUS , PM Surya Ghar Muft Bijli Yojana , Perform Achieve and Trade , Battery Energy…",
       "url": "https://www.drishtiias.com/daily-updates/daily-news-editorials/decarbonizing-indias-development-journey",
       "publishedAt": "2026-02-25T08:00:00.000Z",
@@ -2784,7 +2785,7 @@
       "type": "esg",
       "tag": "VERRA",
       "accent": "#86efac",
-      "title": "Verra Issues First CORSIA Label for 4.7 Million Carbon Credits - clearbluemarkets.com",
+      "title": "Verra Issues First CORSIA Label for 4.7 Million Carbon Credits - ClearBlue Markets",
       "excerpt": "Verra, one of the world's leading developers of carbon standards, has reached a significant milestone by applying the International Civil Aviation Organization’s (ICAO) Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) label to millions of voluntary carbon credits for the first time, with the majority of these credits from projects in Africa. CORSIA's implementation continues to make it one of the most relevant climate compliance mechanisms globally, as it mitigates emissions from one of the highest-emitting and hardest-to-abate…",
       "url": "https://www.clearbluemarkets.com/knowledge-base/verra-issues-first-corsia-label-for-4.7-million-carbon-credits",
       "publishedAt": "2026-02-03T08:00:00.000Z",
@@ -2831,11 +2832,11 @@
       "type": "esg",
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
-      "title": "India’s green hydrogen policy wrap 2025 - powerpeakdigest.com",
-      "excerpt": "India’s green hydrogen policy wrap 2025 powerpeakdigest.com",
+      "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
+      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": null,
+      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2843,7 +2844,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
