@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-10-07T19:11:17.562Z",
+  "fetchedAt": "2026-10-07T23:25:51.543Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 17,
     "world": 45,
-    "withImages": 57,
-    "avgExcerptLength": 455,
+    "withImages": 58,
+    "avgExcerptLength": 462,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -99,30 +99,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWlsbkJrSXFVZlpWOFQzNkt1YTRPVFc0VWxYSnhDNE9aLWV0VHcyMGdyTFFsc3ZrTU05MTNWb3pGcEstQS1lOFVabjl1SnJyQW1lSUlKN2MtUm84WFFWUm1BQktvZFdkS1h2clRud2dJYnl5TVFBanJpOUxmMExZWkRQUnR1SU5nUkNKUEJRVFV4aHhRemF1QVBaTlBxY3hJTzN0bnhIVTBKUDNGZWhzTTI5TFnSAcIBQVVfeXFMT0dxTXQtNF9HM1BtdDR5Qko5SW82Qlc3YWp4S0VySjlFTzlKYjQ2N1I4MlZaZTdyemxLWTN0bUxyY0xQY2c2WEQxdW5NQkV0dUpMd2gtWTlsUTBES01raXJydEtQbk9sRDR1T1Rpa1FOQjNXdm5LRk5fMTFTYkJtT2dwblVPZFI4Y2pqVDQtUzJoSHRjYy0xakNrZDFjbTRVNFI2ZXZWcFVxSm1ITUR4Xy1pZ0RuMU5FS0VVSEJLT1I3T0E?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-india-s-carbon-credit-programmes-must-be-2026-08-18",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India's Carbon Credit Programmes Must Be Designed for Smallholder Farmers - The Policy Edge",
-        "excerpt": "New evidence from Bihar shows how programme design shapes the scalability of voluntary carbon credit programmes across India s smallholder agriculture Banda Sainath is a Scientist (Agricultural Economics) at ICAR Research Complex for Eastern Region , Patna. SDG 13: Climate Action | SDG 2: Zero Hunger Ministry of Environment, Forest and Climate Change MoEFCC | Ministry of Agriculture and Farmers Welfare MoAFW Listen to the article Current time 00 / 00 00 / 00 The discussion in this article is based on the author’s research published in Journal of…",
-        "url": "https://www.policyedge.in/p/indias-carbon-credit-programmes-must-be-designed-for-smallholder-farmers",
-        "publishedAt": "2026-08-18T07:00:00.000Z",
-        "image": "https://my-strapi-buckets.s3.eu-north-1.amazonaws.com/uploads/India_s_Carbon_Credit_Programmes_Must_Be_Designed_for_Smallholder_Farmers_0f454323e9.png",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRllBSkVCQ0QyS3VlaTU0ZDA1TDJlZW1DUm8tUldya2R5emw2YUpHLUVzWHI0QmM5cXc5Ri1PVHJwWW1xUnVxV1c0aFFpZzFJb1VTQTlLczZTcFlrNURmUXhYTy1yTkc1T2JNSlQ3aFgzNnYtZjBVWFFUdEpPTVRsb3ROMFBfZlJXTmlLNDcwNlZ0dUVnV0lDV3NxTm82dmE0dXc?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -243,6 +219,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN0Y0SVVQT0RlRzdVcWZSZ0lRUGdIWFg3QU5mNTRfdGhIMURWWE10SnFmUFlGeExHTFhqamdLQ3dGcHNJZkFQb2RidF9ZZDA5MDQyQVVkXzNhRXZsTXdnSEJVdzNQWDhweTZUV3YxVGRCVXg4M2VLQWVOY25FZlhYMXVLNDJKUFEybGxObVcxaFFMczRpNEZJTmpqcHdCbnpTS3Z2SDBqa2ZkQVNvamhqWnNZWVRsRGN4MGx2eUR4ZlNZdHBibUd5Y1A4WVB1bzhtME54TDJXSdIB3AFBVV95cUxPbXhyQTVva1A2anpSN2xzbmFUOVlmYUpnTmlrR2UycnRBV1BfUnlKclBUcnBUZVptOHpPYmZSZDRHeTVHOC10U3JEWHBaQTlhSHg0YnVaMjZIZHJWZ2hJUzliMUx3bE9LZWpWRVVLN21aNndqbTJ5dGV2dXNRSXVDbE1fLUI2WTNEWUlJMlc4Q2ZMN01hRjA0b3MyN0QxaC1uWTRkWUdzMm9JVl9RQURIY3VVcnFDWFZ1UXB0cFFNTlJNR2dNLW9fZzktczE1cWlxTU1kV1VuS3B6d3R5?oc=5"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-most-zombie-credits-locked-out-of-new-un-2026-07-17",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - Climate Home News",
+        "excerpt": "Matteo Civillini Reporter Editing: Joe Lo X (Twitter) Facebook LinkedIn WhatsApp Email Print China and India have declined to back any of their old United Nations carbon credit projects seeking to sell offsets under the new UN market, driving a cull of nearly three-quarters of applicants, analysis of official data shows. Only 415 out of more than 1,500 projects and programmes hoping to move from the Clean Development Mechanism (CDM) to the new carbon market set up under Article 6.4 of the Paris Agreement won the approval of their host governments by the…",
+        "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
+        "publishedAt": "2026-07-17T07:00:00.000Z",
+        "image": "https://www.climatechangenews.com/wp-content/files/2026/07/GettyImages-991792894-1440x954.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUlVUGJ4V2U0aFhFRmw1QjdOTXBobGJDSGlLb2podFdaVnZBcTlKMVBsQmJVX0lKcmhnY253OUJMbEstcml4OXRfN1EtQWxUVi1KSkY0bktfLWx3SzRXVnZfYklyOUZlaVR5QmRfZUJUUllwVHpzX2w0cFRWeWV0bUVlUlNINlF3VlF4NlJWQjcwbExPbnRtazZ1VW5Yb0pSRHZ0SFlJNkltZzk2RVJTN09SRng4ZXd5eVhWRVdVbzJpRndfS2c?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -1356,6 +1356,30 @@
         "region": "world"
       },
       {
+        "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-06-25",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
+        "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
+        "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
+        "publishedAt": "2026-06-25T17:05:08.000Z",
+        "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdElNb1VIWGJmUlRQdS1vVUNqUlJHc0tMRWtTdW9ULU0tOG1BUmlyeThVSXNRYkVIZnpyUXBVWXdYTmJic2V0R3hMVXNvN3lNTFA5b3JRNUltMXlKcGladFlFNnZmUHk2?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-blog-eu-adopts-first-crcf-methodologies--2026-05-02",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1424,29 +1448,6 @@
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkEySVpteS1aZ3lfNnhCMk44TThDcEVoX1NGRkFWcGRfMUFJdDBwVEstUW5kMTlDUDVmdFFjaFVoZFZjUDJfbGJQVjNkdHlDY2RVOEhDeTFvV2FzU2RKV2F5MGQ1VkhBc0FrX3QzZWE5clhqa1ZXNFFmZjlabWdYQ2MzWU5QSXNOMExDWWUyS1FrWnZQTW1FeUxFRTZYb1owTnRlNGxQV0RHYkN3b1Mw0gG_AUFVX3lxTE8wT1pMd0QwUF9oOUhEdkl1U3UzRDE3VTJIVkN3YTloaU1KQ0p5c0NuZlZNYmJSQXljdXRsZ1U1eHFCbHRkLTJrSVBKS3ItYkdzLVdYVU1lcU1rM3d2V0s2dDdSMjdPUC1Fa192eTcxdGFGczl1Tk5xcnBCZVk1ZVJ5c0RQRlRVdkFHVWxCRUhobGhsTXJHbGFCOUxPclcyVjYwbmR0SHIzVkRkOW91X2M4ZkEtanlKVUlBY09MTXhV?oc=5",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
-        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
-        "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
-        "publishedAt": "2025-11-12T08:00:00.000Z",
-        "image": null,
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
         },
         "region": "world"
       },
@@ -2418,30 +2419,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-india-s-carbon-credit-programmes-must-be-2026-08-18",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India's Carbon Credit Programmes Must Be Designed for Smallholder Farmers - The Policy Edge",
-      "excerpt": "New evidence from Bihar shows how programme design shapes the scalability of voluntary carbon credit programmes across India s smallholder agriculture Banda Sainath is a Scientist (Agricultural Economics) at ICAR Research Complex for Eastern Region , Patna. SDG 13: Climate Action | SDG 2: Zero Hunger Ministry of Environment, Forest and Climate Change MoEFCC | Ministry of Agriculture and Farmers Welfare MoAFW Listen to the article Current time 00 / 00 00 / 00 The discussion in this article is based on the author’s research published in Journal of…",
-      "url": "https://www.policyedge.in/p/indias-carbon-credit-programmes-must-be-designed-for-smallholder-farmers",
-      "publishedAt": "2026-08-18T07:00:00.000Z",
-      "image": "https://my-strapi-buckets.s3.eu-north-1.amazonaws.com/uploads/India_s_Carbon_Credit_Programmes_Must_Be_Designed_for_Smallholder_Farmers_0f454323e9.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRllBSkVCQ0QyS3VlaTU0ZDA1TDJlZW1DUm8tUldya2R5emw2YUpHLUVzWHI0QmM5cXc5Ri1PVHJwWW1xUnVxV1c0aFFpZzFJb1VTQTlLczZTcFlrNURmUXhYTy1yTkc1T2JNSlQ3aFgzNnYtZjBVWFFUdEpPTVRsb3ROMFBfZlJXTmlLNDcwNlZ0dUVnV0lDV3NxTm82dmE0dXc?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-article-6-of-the-paris-agreement-climate-2026-08-17",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2561,6 +2538,30 @@
       "region": "india"
     },
     {
+      "id": "google-india-most-zombie-credits-locked-out-of-new-un-2026-07-17",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - Climate Home News",
+      "excerpt": "Matteo Civillini Reporter Editing: Joe Lo X (Twitter) Facebook LinkedIn WhatsApp Email Print China and India have declined to back any of their old United Nations carbon credit projects seeking to sell offsets under the new UN market, driving a cull of nearly three-quarters of applicants, analysis of official data shows. Only 415 out of more than 1,500 projects and programmes hoping to move from the Clean Development Mechanism (CDM) to the new carbon market set up under Article 6.4 of the Paris Agreement won the approval of their host governments by the…",
+      "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
+      "publishedAt": "2026-07-17T07:00:00.000Z",
+      "image": "https://www.climatechangenews.com/wp-content/files/2026/07/GettyImages-991792894-1440x954.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUlVUGJ4V2U0aFhFRmw1QjdOTXBobGJDSGlLb2podFdaVnZBcTlKMVBsQmJVX0lKcmhnY253OUJMbEstcml4OXRfN1EtQWxUVi1KSkY0bktfLWx3SzRXVnZfYklyOUZlaVR5QmRfZUJUUllwVHpzX2w0cFRWeWV0bUVlUlNINlF3VlF4NlJWQjcwbExPbnRtazZ1VW5Yb0pSRHZ0SFlJNkltZzk2RVJTN09SRng4ZXd5eVhWRVdVbzJpRndfS2c?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-14",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2607,6 +2608,30 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-06-25",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
+      "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
+      "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
+      "publishedAt": "2026-06-25T17:05:08.000Z",
+      "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdElNb1VIWGJmUlRQdS1vVUNqUlJHc0tMRWtTdW9ULU0tOG1BUmlyeThVSXNRYkVIZnpyUXBVWXdYTmJic2V0R3hMVXNvN3lNTFA5b3JRNUltMXlKcGladFlFNnZmUHk2?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
     },
     {
       "id": "google-india-what-is-a-carbon-credit-a-one-tonne-co2e-2026-06-02",
@@ -2822,29 +2847,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
-      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
-      "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
-      "publishedAt": "2025-11-12T08:00:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
-      },
-      "region": "world"
     },
     {
       "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
