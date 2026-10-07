@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-10-07T14:20:36.498Z",
+  "fetchedAt": "2026-10-07T19:11:17.562Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 17,
     "world": 45,
-    "withImages": 58,
-    "avgExcerptLength": 462,
+    "withImages": 57,
+    "avgExcerptLength": 455,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -464,6 +464,72 @@
     ],
     "world": [
       {
+        "id": "esg-dive-google-constellation-ink-deal-to-expand--2026-10-07",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Google, Constellation ink deal to expand, extend nuclear generation capacity",
+        "excerpt": "The 20-year PPA will lead to 890 megawatts of new nuclear capacity, while Google will help the energy company establish an AI for energy framework.",
+        "url": "https://www.esgdive.com/news/google-constellation-ink-deal-to-expand-extend-nuclear-generation-capacit/832388/",
+        "publishedAt": "2026-10-07T16:28:00.000Z",
+        "image": "https://imgproxy.divecdn.com/Ek8wRRaX505GV5jhe5YU0cq9FdA0zbb7hhP80pgWq3k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Mjc5NDA1X0lwS2tNaUkuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-rising-interest-rates-challenge-utility--2026-10-07",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Rising interest rates challenge utility financing plans, US Bank managing director says",
+        "excerpt": "For utilities, rapidly rising interest rates will make keeping capital expenditures well-balanced a little more challenging, said Tim Keller, managing director of U.S. Bank s power and utilities group.",
+        "url": "https://www.esgdive.com/news/rising-interest-rates-utility-financing-us-bank/832384/",
+        "publishedAt": "2026-10-07T15:53:00.000Z",
+        "image": "https://imgproxy.divecdn.com/DHokSJ-NWZaP_OB0WwKc-BAfVZYFy2tJnfPY4V49W_Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS82STVBMzE2NWIuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-82-of-investors-expect-climate-risks-to--2026-10-07",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "82% of Investors Expect Climate Risks to Impact Asset Prices Over Next Decade: Robeco Survey",
+        "excerpt": "Climate change has increased as a priority for investors for the first time since political backlash picked up steam in 2023, with more than eight out of ten of investors globally saying that they expect physical climate risks to impact asset prices over the next ten years, according to a new survey released by international asset manager Robeco. The survey also found that the vast majority of investors with net zero goals in place remain committed to their target despite reduced government support for the goal, and that most investors expect to…",
+        "url": "https://www.esgtoday.com/82-of-investors-expect-climate-risks-to-impact-asset-prices-over-next-decade-robeco-survey/?utm_source=rss utm_medium=rss utm_campaign=82-of-investors-expect-climate-risks-to-impact-asset-prices-over-next-decade-robeco-survey",
+        "publishedAt": "2026-10-07T14:52:21.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Robeco2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Investors",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-eurazeo-acquires-water-loss-solutions-pl-2026-10-07",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -729,28 +795,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-reclinker-raises-13-million-to-recycle-c-2026-10-06",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Reclinker Raises $13 Million to Recycle Construction Waste into Low Carbon Cement",
-        "excerpt": "Industrial decarbonization startup Reclinker announced that it has raised £10 million (USD$13 million) in a Series A funding round, with proceeds aimed at commercializing its low-carbon cement recycling technology. Cement currently accounts for approximately 8% of global carbon dioxide emissions, with over 900 kg of CO2 emissions generated for every 1,000 kg of material produced. Conventional cement contains an average of 77% clinker, which is produced by heating limestone in a process that releases significant amounts of CO2. Founded in 2022, Cardiff,…",
-        "url": "https://www.esgtoday.com/reclinker-raises-13-million-to-turn-construction-waste-into-low-carbon-cement/?utm_source=rss utm_medium=rss utm_campaign=reclinker-raises-13-million-to-turn-construction-waste-into-low-carbon-cement",
-        "publishedAt": "2026-10-06T10:27:44.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Reclinker.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-sec-proposal-poses-direct-threat-to-inve-2026-10-05",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -906,28 +950,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-ai-skill-levels-drive-workforce-divide-p-2026-10-01",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "AI skill levels drive workforce divide: PwC",
-        "excerpt": "More than half of workers surveyed said they are falling behind their AI-savvy colleagues, PwC said, noting that AI proficiency bolsters a sense of job security.",
-        "url": "https://www.esgdive.com/news/ai-skill-levels-drive-workforce-divide-pwc/831912/",
-        "publishedAt": "2026-10-01T16:21:00.000Z",
-        "image": "https://imgproxy.divecdn.com/pO52Kd6cEOf2oQ_hziI3_qHWWkYYiWLCheyz082bzSU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2ODg2Njg4X2hjRU9NaWIuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-verra-expands-project-review-prioritizat-2026-09-30",
         "source": "verra",
         "sourceName": "Verra",
@@ -947,28 +969,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-perdue-farms-backs-new-regenerative-agri-2026-09-30",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Perdue Farms backs new regenerative agriculture and environmental initiative",
-        "excerpt": "Members of the newly-launched environmental board of trade will also be the first adopters of a new Puro.earth registry for environmental attribute credits.",
-        "url": "https://www.esgdive.com/news/perdue-farms-backs-new-regenerative-agriculture-and-environmental-initiativ/831791/",
-        "publishedAt": "2026-09-30T17:03:00.000Z",
-        "image": "https://imgproxy.divecdn.com/R3LuB-v4qXcQFRDmKSByfagAMNQDn7MpDhby-TpB6kQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDAwNTYzMjI4X3A1OVJTUWsuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -1356,30 +1356,6 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-06-25",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
-        "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
-        "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
-        "publishedAt": "2026-06-25T17:05:08.000Z",
-        "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdElNb1VIWGJmUlRQdS1vVUNqUlJHc0tMRWtTdW9ULU0tOG1BUmlyeThVSXNRYkVIZnpyUXBVWXdYTmJic2V0R3hMVXNvN3lNTFA5b3JRNUltMXlKcGladFlFNnZmUHk2?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-blog-eu-adopts-first-crcf-methodologies--2026-05-02",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1452,6 +1428,29 @@
         "region": "world"
       },
       {
+        "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+        "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+        "publishedAt": "2025-11-12T08:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1478,6 +1477,72 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-google-constellation-ink-deal-to-expand--2026-10-07",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Google, Constellation ink deal to expand, extend nuclear generation capacity",
+      "excerpt": "The 20-year PPA will lead to 890 megawatts of new nuclear capacity, while Google will help the energy company establish an AI for energy framework.",
+      "url": "https://www.esgdive.com/news/google-constellation-ink-deal-to-expand-extend-nuclear-generation-capacit/832388/",
+      "publishedAt": "2026-10-07T16:28:00.000Z",
+      "image": "https://imgproxy.divecdn.com/Ek8wRRaX505GV5jhe5YU0cq9FdA0zbb7hhP80pgWq3k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Mjc5NDA1X0lwS2tNaUkuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-rising-interest-rates-challenge-utility--2026-10-07",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Rising interest rates challenge utility financing plans, US Bank managing director says",
+      "excerpt": "For utilities, rapidly rising interest rates will make keeping capital expenditures well-balanced a little more challenging, said Tim Keller, managing director of U.S. Bank s power and utilities group.",
+      "url": "https://www.esgdive.com/news/rising-interest-rates-utility-financing-us-bank/832384/",
+      "publishedAt": "2026-10-07T15:53:00.000Z",
+      "image": "https://imgproxy.divecdn.com/DHokSJ-NWZaP_OB0WwKc-BAfVZYFy2tJnfPY4V49W_Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS82STVBMzE2NWIuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-82-of-investors-expect-climate-risks-to--2026-10-07",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "82% of Investors Expect Climate Risks to Impact Asset Prices Over Next Decade: Robeco Survey",
+      "excerpt": "Climate change has increased as a priority for investors for the first time since political backlash picked up steam in 2023, with more than eight out of ten of investors globally saying that they expect physical climate risks to impact asset prices over the next ten years, according to a new survey released by international asset manager Robeco. The survey also found that the vast majority of investors with net zero goals in place remain committed to their target despite reduced government support for the goal, and that most investors expect to…",
+      "url": "https://www.esgtoday.com/82-of-investors-expect-climate-risks-to-impact-asset-prices-over-next-decade-robeco-survey/?utm_source=rss utm_medium=rss utm_campaign=82-of-investors-expect-climate-risks-to-impact-asset-prices-over-next-decade-robeco-survey",
+      "publishedAt": "2026-10-07T14:52:21.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Robeco2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Investors",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-eurazeo-acquires-water-loss-solutions-pl-2026-10-07",
       "source": "esg-today",
@@ -1768,28 +1833,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-reclinker-raises-13-million-to-recycle-c-2026-10-06",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Reclinker Raises $13 Million to Recycle Construction Waste into Low Carbon Cement",
-      "excerpt": "Industrial decarbonization startup Reclinker announced that it has raised £10 million (USD$13 million) in a Series A funding round, with proceeds aimed at commercializing its low-carbon cement recycling technology. Cement currently accounts for approximately 8% of global carbon dioxide emissions, with over 900 kg of CO2 emissions generated for every 1,000 kg of material produced. Conventional cement contains an average of 77% clinker, which is produced by heating limestone in a process that releases significant amounts of CO2. Founded in 2022, Cardiff,…",
-      "url": "https://www.esgtoday.com/reclinker-raises-13-million-to-turn-construction-waste-into-low-carbon-cement/?utm_source=rss utm_medium=rss utm_campaign=reclinker-raises-13-million-to-turn-construction-waste-into-low-carbon-cement",
-      "publishedAt": "2026-10-06T10:27:44.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Reclinker.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-sec-proposal-poses-direct-threat-to-inve-2026-10-05",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1945,28 +1988,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-ai-skill-levels-drive-workforce-divide-p-2026-10-01",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "AI skill levels drive workforce divide: PwC",
-      "excerpt": "More than half of workers surveyed said they are falling behind their AI-savvy colleagues, PwC said, noting that AI proficiency bolsters a sense of job security.",
-      "url": "https://www.esgdive.com/news/ai-skill-levels-drive-workforce-divide-pwc/831912/",
-      "publishedAt": "2026-10-01T16:21:00.000Z",
-      "image": "https://imgproxy.divecdn.com/pO52Kd6cEOf2oQ_hziI3_qHWWkYYiWLCheyz082bzSU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2ODg2Njg4X2hjRU9NaWIuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-expands-project-review-prioritizat-2026-09-30",
       "source": "verra",
       "sourceName": "Verra",
@@ -1986,28 +2007,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-perdue-farms-backs-new-regenerative-agri-2026-09-30",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Perdue Farms backs new regenerative agriculture and environmental initiative",
-      "excerpt": "Members of the newly-launched environmental board of trade will also be the first adopters of a new Puro.earth registry for environmental attribute credits.",
-      "url": "https://www.esgdive.com/news/perdue-farms-backs-new-regenerative-agriculture-and-environmental-initiativ/831791/",
-      "publishedAt": "2026-09-30T17:03:00.000Z",
-      "image": "https://imgproxy.divecdn.com/R3LuB-v4qXcQFRDmKSByfagAMNQDn7MpDhby-TpB6kQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDAwNTYzMjI4X3A1OVJTUWsuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -2610,30 +2609,6 @@
       "region": "india"
     },
     {
-      "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-06-25",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Can Blockchain Fix Carbon Credits? The Lessons From Verra And Toucan — And Where Yellow Network Comes In - Yellow.com",
-      "excerpt": "\"Carbon credit\" describes two very different things. In the voluntary market, certifiers like the Washington-based Verra and Geneva-based Gold Standard issue project-based offsets to companies wanting to call a product \"carbon neutral.\" In the compliance market, governments run cap-and-trade systems that force polluters to pay — and the largest, the EU s, does not use offsets at all. Both the scandal that gutted confidence in carbon credits and the blockchain projects built to repair it sit on the voluntary side; the regulation now reshaping the field…",
-      "url": "https://yellow.com/news/can-blockchain-fix-carbon-credits",
-      "publishedAt": "2026-06-25T17:05:08.000Z",
-      "image": "https://media.yellow.com/uploads/Screenshot_2026_06_25_at_19_49_19_532aba25a9.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdElNb1VIWGJmUlRQdS1vVUNqUlJHc0tMRWtTdW9ULU0tOG1BUmlyeThVSXNRYkVIZnpyUXBVWXdYTmJic2V0R3hMVXNvN3lNTFA5b3JRNUltMXlKcGladFlFNnZmUHk2?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-what-is-a-carbon-credit-a-one-tonne-co2e-2026-06-02",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2847,6 +2822,29 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+      "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+      "publishedAt": "2025-11-12T08:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+      },
+      "region": "world"
     },
     {
       "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
