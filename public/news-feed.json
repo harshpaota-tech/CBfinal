@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-10-13T14:54:02.079Z",
+  "fetchedAt": "2026-10-13T19:43:32.914Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -487,13 +487,102 @@
     ],
     "world": [
       {
-        "id": "esg-today-tnfd-releases-major-update-to-assessment-2026-10-13",
+        "id": "esg-today-steve-wozniak-s-energy-saving-technology-2026-10-13",
         "source": "esg-today",
         "sourceName": "ESG Today",
         "type": "esg",
         "tag": "ESG",
         "accent": "#60a5fa",
-        "title": "TNFD Releases Major Update to Assessment Framework Supporting Corporate Nature-Related Reporting",
+        "title": "Steve Wozniak’s Energy Saving Technology Platform Efforce Acquired by TROOPS",
+        "excerpt": "Hong Kong-based financial services and technology company TROOPS announced an agreement to acquire energy technology platform Efforce, with the transaction aimed at expanding the company’s digital asset infrastructure and pursuing new opportunities in sustainability-related markets. Co-founded in 2020 by Apple co-founder Steve Wozniak, Malta-based Efforce provides a platform designed to drive energy efficiency using blockchain technology to tokenize and monetize energy saving. The company’s platform connects companies seeking to improve the energy…",
+        "url": "https://www.esgtoday.com/steve-wozniaks-energy-saving-technology-platform-efforce-acquired-by-troops/?utm_source=rss utm_medium=rss utm_campaign=steve-wozniaks-energy-saving-technology-platform-efforce-acquired-by-troops",
+        "publishedAt": "2026-10-13T16:31:13.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Efforce.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-women-fall-through-the-cracks-at-work-es-2026-10-13",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "Women fall through the cracks at work, especially on boards, report says",
+        "excerpt": "Continued analysis of gender representation on corporate boards corroborates previous findings on the clock winding back for women at work.",
+        "url": "https://www.esgdive.com/news/women-fall-through-the-cracks-at-work-especially-on-boards/832849/",
+        "publishedAt": "2026-10-13T16:00:00.000Z",
+        "image": "https://imgproxy.divecdn.com/bXr3PoIT24SRV7fck2NSSUDy_aRWtdLPtOsl-1iLLUk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzMTAzMzQxLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-ifm-methodology-now-eligible-under-2026-10-13",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra IFM Methodology Now Eligible under Singapore’s International Carbon Credit Framework",
+        "excerpt": "The government of Singapore recently whitelisted Verified Carbon Standard (VCS) Program methodology VM0010 Methodology for Improved Forest Management: Conversion from Logged to Protected Forest as eligible for use under Singapore s International Carbon Credit (ICC) Framework . With this addition, three VCS methodologies for forest carbon projects are now included under Singapore’s ICC Framework. VCS Program methodologies VM0048 Reducing Emissions from Deforestation and Forest Degradation and VM0047 Afforestation, Reforestation, and Revegetation were…",
+        "url": "https://verra.org/verra-ifm-methodology-now-eligible-under-singapores-international-carbon-credit-framework/",
+        "publishedAt": "2026-10-13T15:57:16.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/10/pexels-tomfisk-1726622-scaled-e1791897326976.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-lego-taps-e-methanol-to-make-certain-pro-2026-10-13",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "LEGO taps e-methanol to make certain products, cut reliance on fossil fuels",
+        "excerpt": "The Danish toymaker said it has started using low-carbon fuel to produce over 90 components like steering wheels, connectors and Minifigure hands to reduce its dependency on virgin fossil fuel.",
+        "url": "https://www.esgdive.com/news/lego-taps-e-methanol-to-make-products-cut-reliance-on-fossil-fuels/832866/",
+        "publishedAt": "2026-10-13T15:09:10.000Z",
+        "image": "https://imgproxy.divecdn.com/kf2TbL9me1IvAiEo2S6j3bjMr7WasiYe-ag8Fdrb6ZY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzMyNzQxNTU2LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-tnfd-releases-major-update-to-guidance-s-2026-10-13",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "TNFD Releases Major Update to Guidance Supporting Corporate Nature-Related Reporting",
         "excerpt": "The Taskforce on Nature-related Financial Disclosures (TNFD) announced the release of LEAP 2.0, the first upgrade of its core approach and guidance for helping companies assess and report on nature-related dependencies, impacts, risks and opportunities. The TNFD was launched in 2021 , building on the success of the Task Force on Climate-related Financial Disclosures (TCFD), to support organizations in reporting and acting on their nature-related risks. The organization published its final recommendations for nature-related risk management and disclosure…",
         "url": "https://www.esgtoday.com/tnfd-releases-major-update-to-assessment-framework-to-support-corporate-nature-related-reporting/?utm_source=rss utm_medium=rss utm_campaign=tnfd-releases-major-update-to-assessment-framework-to-support-corporate-nature-related-reporting",
         "publishedAt": "2026-10-13T14:44:42.000Z",
@@ -582,7 +671,7 @@
         "tag": "ESG",
         "accent": "#60a5fa",
         "title": "EY, Watershed Launch Sustainability Reporting Partnership",
-        "excerpt": "Professional services firm EY US announced a new alliance with climate solutions provider Watershed, aimed at enabling organizations to measure, report and address greenhouse gas emissions across the value chain. According to the companies, the new alliance will combine Watershed s sustainability AI platform with EY US, advisory, implementation and program mangement capabilities to help organizations with scope 1, 2 and 3 GHG emissions measurement, product carbon footprinting and sustainability data management to support their decarbonization…",
+        "excerpt": "Professional services firm EY US announced a new alliance with climate solutions provider Watershed, aimed at enabling organizations to measure, report and address greenhouse gas emissions across the value chain. According to the companies, the new alliance will combine Watershed s sustainability AI platform with EY US advisory, implementation and program management capabilities to help organizations with scope 1, 2 and 3 GHG emissions measurement, product carbon footprinting and sustainability data management to support their decarbonization…",
         "url": "https://www.esgtoday.com/ey-watershed-launch-sustainability-reporting-partnership/?utm_source=rss utm_medium=rss utm_campaign=ey-watershed-launch-sustainability-reporting-partnership",
         "publishedAt": "2026-10-13T09:15:02.000Z",
         "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/EY.jpg",
@@ -746,28 +835,6 @@
         "status": null,
         "meta": {
           "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-bnp-paribas-am-launches-new-global-susta-2026-10-12",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "BNP Paribas AM Launches New Global Sustainability Strategy Following AXA IM Acquisition",
-        "excerpt": "BNP Paribas Asset Management (BNPP AM) announced today the release of its new Global Sustainability Strategy (GSS), the first major update since more than doubling the size of its business through the 2025 acquisition of AXA Investment Managers. The new GSS sets out the investment manager’s multi-year approach to integrating sustainability considerations into its investments and operations, and indicates an increased focus on transition finance and investment – including plans to publish updated Net Zero targets to clarify its strategy on transition…",
-        "url": "https://www.esgtoday.com/bnp-paribas-am-launches-new-global-sustainability-strategy-following-axa-im-acquisition/?utm_source=rss utm_medium=rss utm_campaign=bnp-paribas-am-launches-new-global-sustainability-strategy-following-axa-im-acquisition",
-        "publishedAt": "2026-10-12T12:58:45.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/BNP-Paribas2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Investors",
           "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
@@ -952,6 +1019,30 @@
         "region": "world"
       },
       {
+        "id": "google-carbon-who-verifies-carbon-credits-carboncredit-2026-10-08",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Who Verifies Carbon Credits? - CarbonCredits.com",
+        "excerpt": "Here’s a new money-making model for you. Plant a small forest in your backyard. Call it “afforestation” and “carbon sequestration. Calculate how many tons of carbon dioxide will be locked away in your forest over its lifetime. Then sell those carbon credits to companies and private entities who are still busy pumping CO2 into the air. Congratulations, you ve just marketed carbon offsets! It s not quite that easy, of course, but in the race to reduce their carbon footprint, companies are realizing that the carbon offset market is largely unregulated. The…",
+        "url": "https://carboncredits.com/who-verifies-carbon-credits/",
+        "publishedAt": "2026-10-08T05:10:47.000Z",
+        "image": "https://carboncredits.com/wp-content/uploads/2024/08/woman-taking-notes-during-team-meeting-scaled.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tRUdsSnFiUmRJNl9Nakt2MkVQVW9jNFRDNnBnd1I0dURvRFVQVmljN1c3aTJ2T0VhQjkzQjdUbVZrbXJkMWEzUzVTWUF5QU5IVXhHbll2Ny13LU43VzZTcEFYc20?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-dive-google-constellation-ink-deal-to-expand--2026-10-07",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -963,50 +1054,6 @@
         "url": "https://www.esgdive.com/news/google-constellation-ink-deal-to-expand-extend-nuclear-generation-capacit/832388/",
         "publishedAt": "2026-10-07T16:28:00.000Z",
         "image": "https://imgproxy.divecdn.com/Ek8wRRaX505GV5jhe5YU0cq9FdA0zbb7hhP80pgWq3k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Mjc5NDA1X0lwS2tNaUkuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-rising-interest-rates-challenge-utility--2026-10-07",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Rising interest rates challenge utility financing plans, US Bank managing director says",
-        "excerpt": "For utilities, rapidly rising interest rates will make keeping capital expenditures well-balanced a little more challenging, said Tim Keller, managing director of U.S. Bank s power and utilities group.",
-        "url": "https://www.esgdive.com/news/rising-interest-rates-utility-financing-us-bank/832384/",
-        "publishedAt": "2026-10-07T15:53:00.000Z",
-        "image": "https://imgproxy.divecdn.com/DHokSJ-NWZaP_OB0WwKc-BAfVZYFy2tJnfPY4V49W_Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS82STVBMzE2NWIuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-esg-and-sustainability-conferences-to-pu-2026-10-06",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "ESG and sustainability conferences to put on your calendar for 2027",
-        "excerpt": "Amid continuing regulatory shifts, professionals will gather in 2027 to discuss the energy transition, the risks and state of AI development and more ESG hot topics.",
-        "url": "https://www.esgdive.com/news/esg-and-sustainability-conferences-to-put-on-your-calendar-for-2027/832268/",
-        "publishedAt": "2026-10-06T17:17:00.000Z",
-        "image": "https://imgproxy.divecdn.com/PZUWyXfMe5OFOCM91l4m9p6ALx2svEJ8VNFylAsp1fg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjAwNDA3MjIzLmpwZw==.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1200,30 +1247,6 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-who-verifies-carbon-credits-carboncredit-2026-09-25",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Who Verifies Carbon Credits? - CarbonCredits.com",
-        "excerpt": "Here’s a new money-making model for you. Plant a small forest in your backyard. Call it “afforestation” and “carbon sequestration. Calculate how many tons of carbon dioxide will be locked away in your forest over its lifetime. Then sell those carbon credits to companies and private entities who are still busy pumping CO2 into the air. Congratulations, you ve just marketed carbon offsets! It s not quite that easy, of course, but in the race to reduce their carbon footprint, companies are realizing that the carbon offset market is largely unregulated. The…",
-        "url": "https://carboncredits.com/who-verifies-carbon-credits/",
-        "publishedAt": "2026-09-25T16:53:37.000Z",
-        "image": "https://carboncredits.com/wp-content/uploads/2024/08/woman-taking-notes-during-team-meeting-scaled.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tRUdsSnFiUmRJNl9Nakt2MkVQVW9jNFRDNnBnd1I0dURvRFVQVmljN1c3aTJ2T0VhQjkzQjdUbVZrbXJkMWEzUzVTWUF5QU5IVXhHbll2Ny13LU43VzZTcEFYc20?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-concerning-low-sea-ice-persists-as-antar-2026-09-25",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1336,28 +1359,6 @@
         "region": "world"
       },
       {
-        "id": "verra-september-2026-newsletter-2026-09-18",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "September 2026 Newsletter",
-        "excerpt": "Welcome to Verra s September Newsletter! Earlier this week, Verra launched the Scope 3 Standard (S3S) Program, reaching a significant milestone in our efforts to support the scaling of corporate climate action. The program provides a framework for quantifying, verifying, and certifying the outcomes of climate action projects inside companies value chains. It will help drive investment and scale to corporate climate action by enabling projects to generate Scope 3 Units (S3Us) that represent the climate impact of within-value chain projects. Companies can…",
-        "url": "https://verra.org/september-2026-newsletter/",
-        "publishedAt": "2026-09-18T13:59:11.000Z",
-        "image": "https://verra.org/wp-content/uploads/2024/10/photo-by-fre-sonneveld-unsplash-electrical-grid-1024x683.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-verra-wins-icvcm-approval-for-vcs-versio-2026-09-03",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1377,6 +1378,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLYi1mdW5OcVA3MUl2b1A4VXFsSXlNN1ZiN1JDeEFQSkE1eWEySHNfNXM5TTNuaW14VWtoeHo4U0tJMDJTYVFzM1lJTXNvSVF2MDdPb3ZiR3JHODdlTTdqTzF2U3pKSzR0b2RzRHlB?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-verra-and-gold-standard-unveil-new-digit-2026-08-25",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra and Gold Standard Unveil New Digital Tool for Article 6.2 Reporting - ClearBlue Markets",
+        "excerpt": "Gold Standard and Verra have collaborated to launch a digital calculation tool that assists with Article 6.2 reporting of corresponding adjustments. The tool is designed to provide host governments with a consolidated dataset of corresponding adjustments along with a calculation tool to simplify their 2026 Biennial Transparency Reports. To provide some background as to what this tool is designed to achieve, it is helpful to understand two key concepts: Corresponding Adjustments and the Biennial Transparency Report. Under Article 6.2 of the Paris…",
+        "url": "https://www.clearbluemarkets.com/knowledge-base/verra-and-gold-standard-unveil-new-digital-tool-for-article-6.2-reporting",
+        "publishedAt": "2026-08-25T07:00:00.000Z",
+        "image": "https://www.clearbluemarkets.com/hubfs/Blog%20images/Blog%20images-Sep-30-2025-08-58-57-1402-PM.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbG1YSHJIaUktMzFaMi1Vb3oyUjBxZDBkLUh5VkJXZWhQUGdBSU1ORHcxUUV1aFJKQVBZcEZkWXQtTkdoQ3MtbW05MXdlUFBmclZTUTJnbkhRQjZNcDhoenV0NGxDUC10ZVdFMTNsdW1xbmtTcWRTRWRneWJWT0tSeERQUHBUd2N3MHpiSVRLTTVZSkJGNHh5c05iOFpaQzJzTXh4dGVoMzljSFZvV3hwelRORE1JVkFOekJydlBn0gHOAUFVX3lxTE9USktnVWpFMndLa1ZEMmNfRTJVY3JyNHJxRGo1al9TbHRFOWl1MjhSREx5czFmcFdjdDVQckpmcWE4Yld2clZHQVU1VkNuVHNCNEZ6b1VQRzNfU0pDYzJKcWtONzVIa0ptU1puME50Sjc3OUY3b3BWNE1PZ3BMRnJwVmZjYld1ZThEdWpKY1h2WllOZG1UbGdGeV9DZHRHdmNvakxLWTg0RFo4TUdRYUplTWNFcXR4Nl9uUkJIakNjRWJDMnJaVmpiSDdtZVJn?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -1451,42 +1476,107 @@
           "imageSource": "publisher"
         },
         "region": "world"
-      },
-      {
-        "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - The Guardian",
-        "excerpt": "The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images View image in fullscreen The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images The age of extinction Carbon offsetting This article is more than 3 years old Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless,…",
-        "url": "https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe",
-        "publishedAt": "2023-01-18T08:00:00.000Z",
-        "image": "https://i.guim.co.uk/img/media/9f470b957b3b181b4107c89493f7a8eddb356834/0_12_2089_1254/master/2089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=c383f5d710fa80450e09a82767c12d10",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEFTZ3U2bGJHM25xeVVQZFJ4eGZDNWo5TXdUQ2JxeWxGZ3NZWjZhQ0RMRzBTZjB4SUd3LXFRZGlOWUpuUkkwXzNITVhUYkthNDQ4dkY5YTV5RGI2OTRNdTBkUWE3OEZsbUs0RGViR0RKaUVLS0ZTMk13ZU44UlBTRm8zUzY0NkllUXRfcFpxT3dOcmlpSE5iUHphcnVWam1Ec2dMSW1ROW9SM0UyMUo5NWNNbFRBSzhiR2VJ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
       }
     ]
   },
   "articles": [
     {
-      "id": "esg-today-tnfd-releases-major-update-to-assessment-2026-10-13",
+      "id": "esg-today-steve-wozniak-s-energy-saving-technology-2026-10-13",
       "source": "esg-today",
       "sourceName": "ESG Today",
       "type": "esg",
       "tag": "ESG",
       "accent": "#60a5fa",
-      "title": "TNFD Releases Major Update to Assessment Framework Supporting Corporate Nature-Related Reporting",
+      "title": "Steve Wozniak’s Energy Saving Technology Platform Efforce Acquired by TROOPS",
+      "excerpt": "Hong Kong-based financial services and technology company TROOPS announced an agreement to acquire energy technology platform Efforce, with the transaction aimed at expanding the company’s digital asset infrastructure and pursuing new opportunities in sustainability-related markets. Co-founded in 2020 by Apple co-founder Steve Wozniak, Malta-based Efforce provides a platform designed to drive energy efficiency using blockchain technology to tokenize and monetize energy saving. The company’s platform connects companies seeking to improve the energy…",
+      "url": "https://www.esgtoday.com/steve-wozniaks-energy-saving-technology-platform-efforce-acquired-by-troops/?utm_source=rss utm_medium=rss utm_campaign=steve-wozniaks-energy-saving-technology-platform-efforce-acquired-by-troops",
+      "publishedAt": "2026-10-13T16:31:13.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Efforce.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-women-fall-through-the-cracks-at-work-es-2026-10-13",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "POLICY",
+      "accent": "#5eead4",
+      "title": "Women fall through the cracks at work, especially on boards, report says",
+      "excerpt": "Continued analysis of gender representation on corporate boards corroborates previous findings on the clock winding back for women at work.",
+      "url": "https://www.esgdive.com/news/women-fall-through-the-cracks-at-work-especially-on-boards/832849/",
+      "publishedAt": "2026-10-13T16:00:00.000Z",
+      "image": "https://imgproxy.divecdn.com/bXr3PoIT24SRV7fck2NSSUDy_aRWtdLPtOsl-1iLLUk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzMTAzMzQxLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-verra-ifm-methodology-now-eligible-under-2026-10-13",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra IFM Methodology Now Eligible under Singapore’s International Carbon Credit Framework",
+      "excerpt": "The government of Singapore recently whitelisted Verified Carbon Standard (VCS) Program methodology VM0010 Methodology for Improved Forest Management: Conversion from Logged to Protected Forest as eligible for use under Singapore s International Carbon Credit (ICC) Framework . With this addition, three VCS methodologies for forest carbon projects are now included under Singapore’s ICC Framework. VCS Program methodologies VM0048 Reducing Emissions from Deforestation and Forest Degradation and VM0047 Afforestation, Reforestation, and Revegetation were…",
+      "url": "https://verra.org/verra-ifm-methodology-now-eligible-under-singapores-international-carbon-credit-framework/",
+      "publishedAt": "2026-10-13T15:57:16.000Z",
+      "image": "https://verra.org/wp-content/uploads/2026/10/pexels-tomfisk-1726622-scaled-e1791897326976.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-lego-taps-e-methanol-to-make-certain-pro-2026-10-13",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "LEGO taps e-methanol to make certain products, cut reliance on fossil fuels",
+      "excerpt": "The Danish toymaker said it has started using low-carbon fuel to produce over 90 components like steering wheels, connectors and Minifigure hands to reduce its dependency on virgin fossil fuel.",
+      "url": "https://www.esgdive.com/news/lego-taps-e-methanol-to-make-products-cut-reliance-on-fossil-fuels/832866/",
+      "publishedAt": "2026-10-13T15:09:10.000Z",
+      "image": "https://imgproxy.divecdn.com/kf2TbL9me1IvAiEo2S6j3bjMr7WasiYe-ag8Fdrb6ZY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzMyNzQxNTU2LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-tnfd-releases-major-update-to-guidance-s-2026-10-13",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "TNFD Releases Major Update to Guidance Supporting Corporate Nature-Related Reporting",
       "excerpt": "The Taskforce on Nature-related Financial Disclosures (TNFD) announced the release of LEAP 2.0, the first upgrade of its core approach and guidance for helping companies assess and report on nature-related dependencies, impacts, risks and opportunities. The TNFD was launched in 2021 , building on the success of the Task Force on Climate-related Financial Disclosures (TCFD), to support organizations in reporting and acting on their nature-related risks. The organization published its final recommendations for nature-related risk management and disclosure…",
       "url": "https://www.esgtoday.com/tnfd-releases-major-update-to-assessment-framework-to-support-corporate-nature-related-reporting/?utm_source=rss utm_medium=rss utm_campaign=tnfd-releases-major-update-to-assessment-framework-to-support-corporate-nature-related-reporting",
       "publishedAt": "2026-10-13T14:44:42.000Z",
@@ -1575,7 +1665,7 @@
       "tag": "ESG",
       "accent": "#60a5fa",
       "title": "EY, Watershed Launch Sustainability Reporting Partnership",
-      "excerpt": "Professional services firm EY US announced a new alliance with climate solutions provider Watershed, aimed at enabling organizations to measure, report and address greenhouse gas emissions across the value chain. According to the companies, the new alliance will combine Watershed s sustainability AI platform with EY US, advisory, implementation and program mangement capabilities to help organizations with scope 1, 2 and 3 GHG emissions measurement, product carbon footprinting and sustainability data management to support their decarbonization…",
+      "excerpt": "Professional services firm EY US announced a new alliance with climate solutions provider Watershed, aimed at enabling organizations to measure, report and address greenhouse gas emissions across the value chain. According to the companies, the new alliance will combine Watershed s sustainability AI platform with EY US advisory, implementation and program management capabilities to help organizations with scope 1, 2 and 3 GHG emissions measurement, product carbon footprinting and sustainability data management to support their decarbonization…",
       "url": "https://www.esgtoday.com/ey-watershed-launch-sustainability-reporting-partnership/?utm_source=rss utm_medium=rss utm_campaign=ey-watershed-launch-sustainability-reporting-partnership",
       "publishedAt": "2026-10-13T09:15:02.000Z",
       "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/EY.jpg",
@@ -1767,28 +1857,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-bnp-paribas-am-launches-new-global-susta-2026-10-12",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "BNP Paribas AM Launches New Global Sustainability Strategy Following AXA IM Acquisition",
-      "excerpt": "BNP Paribas Asset Management (BNPP AM) announced today the release of its new Global Sustainability Strategy (GSS), the first major update since more than doubling the size of its business through the 2025 acquisition of AXA Investment Managers. The new GSS sets out the investment manager’s multi-year approach to integrating sustainability considerations into its investments and operations, and indicates an increased focus on transition finance and investment – including plans to publish updated Net Zero targets to clarify its strategy on transition…",
-      "url": "https://www.esgtoday.com/bnp-paribas-am-launches-new-global-sustainability-strategy-following-axa-im-acquisition/?utm_source=rss utm_medium=rss utm_campaign=bnp-paribas-am-launches-new-global-sustainability-strategy-following-axa-im-acquisition",
-      "publishedAt": "2026-10-12T12:58:45.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/BNP-Paribas2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Investors",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-october-2026-10-12",
       "source": "verra",
       "sourceName": "Verra",
@@ -1968,6 +2036,30 @@
       "region": "world"
     },
     {
+      "id": "google-carbon-who-verifies-carbon-credits-carboncredit-2026-10-08",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Who Verifies Carbon Credits? - CarbonCredits.com",
+      "excerpt": "Here’s a new money-making model for you. Plant a small forest in your backyard. Call it “afforestation” and “carbon sequestration. Calculate how many tons of carbon dioxide will be locked away in your forest over its lifetime. Then sell those carbon credits to companies and private entities who are still busy pumping CO2 into the air. Congratulations, you ve just marketed carbon offsets! It s not quite that easy, of course, but in the race to reduce their carbon footprint, companies are realizing that the carbon offset market is largely unregulated. The…",
+      "url": "https://carboncredits.com/who-verifies-carbon-credits/",
+      "publishedAt": "2026-10-08T05:10:47.000Z",
+      "image": "https://carboncredits.com/wp-content/uploads/2024/08/woman-taking-notes-during-team-meeting-scaled.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tRUdsSnFiUmRJNl9Nakt2MkVQVW9jNFRDNnBnd1I0dURvRFVQVmljN1c3aTJ2T0VhQjkzQjdUbVZrbXJkMWEzUzVTWUF5QU5IVXhHbll2Ny13LU43VzZTcEFYc20?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-google-constellation-ink-deal-to-expand--2026-10-07",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1979,28 +2071,6 @@
       "url": "https://www.esgdive.com/news/google-constellation-ink-deal-to-expand-extend-nuclear-generation-capacit/832388/",
       "publishedAt": "2026-10-07T16:28:00.000Z",
       "image": "https://imgproxy.divecdn.com/Ek8wRRaX505GV5jhe5YU0cq9FdA0zbb7hhP80pgWq3k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Mjc5NDA1X0lwS2tNaUkuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-rising-interest-rates-challenge-utility--2026-10-07",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Rising interest rates challenge utility financing plans, US Bank managing director says",
-      "excerpt": "For utilities, rapidly rising interest rates will make keeping capital expenditures well-balanced a little more challenging, said Tim Keller, managing director of U.S. Bank s power and utilities group.",
-      "url": "https://www.esgdive.com/news/rising-interest-rates-utility-financing-us-bank/832384/",
-      "publishedAt": "2026-10-07T15:53:00.000Z",
-      "image": "https://imgproxy.divecdn.com/DHokSJ-NWZaP_OB0WwKc-BAfVZYFy2tJnfPY4V49W_Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS82STVBMzE2NWIuanBn.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2034,28 +2104,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "esg-dive-esg-and-sustainability-conferences-to-pu-2026-10-06",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "ESG and sustainability conferences to put on your calendar for 2027",
-      "excerpt": "Amid continuing regulatory shifts, professionals will gather in 2027 to discuss the energy transition, the risks and state of AI development and more ESG hot topics.",
-      "url": "https://www.esgdive.com/news/esg-and-sustainability-conferences-to-put-on-your-calendar-for-2027/832268/",
-      "publishedAt": "2026-10-06T17:17:00.000Z",
-      "image": "https://imgproxy.divecdn.com/PZUWyXfMe5OFOCM91l4m9p6ALx2svEJ8VNFylAsp1fg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjAwNDA3MjIzLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
     },
     {
       "id": "verra-verra-approves-first-credits-under-food--2026-10-06",
@@ -2240,30 +2288,6 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-who-verifies-carbon-credits-carboncredit-2026-09-25",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Who Verifies Carbon Credits? - CarbonCredits.com",
-      "excerpt": "Here’s a new money-making model for you. Plant a small forest in your backyard. Call it “afforestation” and “carbon sequestration. Calculate how many tons of carbon dioxide will be locked away in your forest over its lifetime. Then sell those carbon credits to companies and private entities who are still busy pumping CO2 into the air. Congratulations, you ve just marketed carbon offsets! It s not quite that easy, of course, but in the race to reduce their carbon footprint, companies are realizing that the carbon offset market is largely unregulated. The…",
-      "url": "https://carboncredits.com/who-verifies-carbon-credits/",
-      "publishedAt": "2026-09-25T16:53:37.000Z",
-      "image": "https://carboncredits.com/wp-content/uploads/2024/08/woman-taking-notes-during-team-meeting-scaled.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tRUdsSnFiUmRJNl9Nakt2MkVQVW9jNFRDNnBnd1I0dURvRFVQVmljN1c3aTJ2T0VhQjkzQjdUbVZrbXJkMWEzUzVTWUF5QU5IVXhHbll2Ny13LU43VzZTcEFYc20?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-concerning-low-sea-ice-persists-as-antar-2026-09-25",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2376,28 +2400,6 @@
       "region": "world"
     },
     {
-      "id": "verra-september-2026-newsletter-2026-09-18",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "September 2026 Newsletter",
-      "excerpt": "Welcome to Verra s September Newsletter! Earlier this week, Verra launched the Scope 3 Standard (S3S) Program, reaching a significant milestone in our efforts to support the scaling of corporate climate action. The program provides a framework for quantifying, verifying, and certifying the outcomes of climate action projects inside companies value chains. It will help drive investment and scale to corporate climate action by enabling projects to generate Scope 3 Units (S3Us) that represent the climate impact of within-value chain projects. Companies can…",
-      "url": "https://verra.org/september-2026-newsletter/",
-      "publishedAt": "2026-09-18T13:59:11.000Z",
-      "image": "https://verra.org/wp-content/uploads/2024/10/photo-by-fre-sonneveld-unsplash-electrical-grid-1024x683.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-carbon-verra-wins-icvcm-approval-for-vcs-versio-2026-09-03",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2417,6 +2419,30 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLYi1mdW5OcVA3MUl2b1A4VXFsSXlNN1ZiN1JDeEFQSkE1eWEySHNfNXM5TTNuaW14VWtoeHo4U0tJMDJTYVFzM1lJTXNvSVF2MDdPb3ZiR3JHODdlTTdqTzF2U3pKSzR0b2RzRHlB?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-carbon-verra-and-gold-standard-unveil-new-digit-2026-08-25",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra and Gold Standard Unveil New Digital Tool for Article 6.2 Reporting - ClearBlue Markets",
+      "excerpt": "Gold Standard and Verra have collaborated to launch a digital calculation tool that assists with Article 6.2 reporting of corresponding adjustments. The tool is designed to provide host governments with a consolidated dataset of corresponding adjustments along with a calculation tool to simplify their 2026 Biennial Transparency Reports. To provide some background as to what this tool is designed to achieve, it is helpful to understand two key concepts: Corresponding Adjustments and the Biennial Transparency Report. Under Article 6.2 of the Paris…",
+      "url": "https://www.clearbluemarkets.com/knowledge-base/verra-and-gold-standard-unveil-new-digital-tool-for-article-6.2-reporting",
+      "publishedAt": "2026-08-25T07:00:00.000Z",
+      "image": "https://www.clearbluemarkets.com/hubfs/Blog%20images/Blog%20images-Sep-30-2025-08-58-57-1402-PM.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbG1YSHJIaUktMzFaMi1Vb3oyUjBxZDBkLUh5VkJXZWhQUGdBSU1ORHcxUUV1aFJKQVBZcEZkWXQtTkdoQ3MtbW05MXdlUFBmclZTUTJnbkhRQjZNcDhoenV0NGxDUC10ZVdFMTNsdW1xbmtTcWRTRWRneWJWT0tSeERQUHBUd2N3MHpiSVRLTTVZSkJGNHh5c05iOFpaQzJzTXh4dGVoMzljSFZvV3hwelRORE1JVkFOekJydlBn0gHOAUFVX3lxTE9USktnVWpFMndLa1ZEMmNfRTJVY3JyNHJxRGo1al9TbHRFOWl1MjhSREx5czFmcFdjdDVQckpmcWE4Yld2clZHQVU1VkNuVHNCNEZ6b1VQRzNfU0pDYzJKcWtONzVIa0ptU1puME50Sjc3OUY3b3BWNE1PZ3BMRnJwVmZjYld1ZThEdWpKY1h2WllOZG1UbGdGeV9DZHRHdmNvakxLWTg0RFo4TUdRYUplTWNFcXR4Nl9uUkJIakNjRWJDMnJaVmpiSDdtZVJn?oc=5",
         "imageSource": "publisher"
       },
       "region": "world"
@@ -2873,30 +2899,6 @@
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - The Guardian",
-      "excerpt": "The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images View image in fullscreen The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images The age of extinction Carbon offsetting This article is more than 3 years old Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless,…",
-      "url": "https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe",
-      "publishedAt": "2023-01-18T08:00:00.000Z",
-      "image": "https://i.guim.co.uk/img/media/9f470b957b3b181b4107c89493f7a8eddb356834/0_12_2089_1254/master/2089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=c383f5d710fa80450e09a82767c12d10",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEFTZ3U2bGJHM25xeVVQZFJ4eGZDNWo5TXdUQ2JxeWxGZ3NZWjZhQ0RMRzBTZjB4SUd3LXFRZGlOWUpuUkkwXzNITVhUYkthNDQ4dkY5YTV5RGI2OTRNdTBkUWE3OEZsbUs0RGViR0RKaUVLS0ZTMk13ZU44UlBTRm8zUzY0NkllUXRfcFpxT3dOcmlpSE5iUHphcnVWam1Ec2dMSW1ROW9SM0UyMUo5NWNNbFRBSzhiR2VJ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
     }
   ]
 }
