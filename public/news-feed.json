@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-10-15T05:28:30.566Z",
+  "fetchedAt": "2026-10-15T12:33:02.069Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 18,
     "world": 44,
-    "withImages": 58,
-    "avgExcerptLength": 468,
+    "withImages": 57,
+    "avgExcerptLength": 464,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -206,10 +206,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "India’s carbon market sets weak emissions targets, analysis finds - Mongabay India",
-        "excerpt": "A critical evaluation of emissions reduction targets set under the country’s carbon market framework has deemed the targets “modest and unambitious” — unlikely to drive changes in operations that would reduce emissions substantially. Between October 2025 and January 2026 India notified greenhouse gas reduction targets for nine industries. Under the framework, industries can earn carbon credits if they surpass these reduction targets, with each credit signifying an additional tonne of carbon dioxide equivalent reduced per unit of production (emissions…",
+        "excerpt": "India’s carbon market sets weak emissions targets, analysis finds Mongabay India",
         "url": "https://india.mongabay.com/2026/07/indias-carbon-market-sets-weak-emissions-targets-analysis-finds/",
         "publishedAt": "2026-07-31T07:00:00.000Z",
-        "image": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/07/31160627/pexels-yajna-s-r-55953015-20591230-scaled.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -217,8 +217,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzh0U0JEN1YyeWxsdzd4NzNnbEVsdmx0UlBLcXhkUFpxX3Z1RkxJRFp1VWpGa3ZZS1RrM0FrY1hTTGVYRzREbnVpV09VdDREUlltc1BDR0JhTlhpZ1JEUk1QcHlqSTdGVTN3bEsxaUk5cHU1OXkwdzJKMDR3NmpEVWpBQm5lWFk1RHpiUG9kZ2hRWnN2MS1qb2xrNXpyUTZQ?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzh0U0JEN1YyeWxsdzd4NzNnbEVsdmx0UlBLcXhkUFpxX3Z1RkxJRFp1VWpGa3ZZS1RrM0FrY1hTTGVYRzREbnVpV09VdDREUlltc1BDR0JhTlhpZ1JEUk1QcHlqSTdGVTN3bEsxaUk5cHU1OXkwdzJKMDR3NmpEVWpBQm5lWFk1RHpiUG9kZ2hRWnN2MS1qb2xrNXpyUTZQ?oc=5"
         },
         "region": "india"
       },
@@ -461,17 +460,17 @@
         "region": "india"
       },
       {
-        "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
+        "id": "google-h2-financing-green-hydrogen-in-india-ceew-2024-06-18",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
         "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
-        "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
-        "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
-        "publishedAt": "2025-09-01T07:00:00.000Z",
-        "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Financing Green Hydrogen in India - CEEW",
+        "excerpt": "Suggested Citation: CFLI India and CEEW. 2024. Financing Green Hydrogen in India: Private Sector Considerations to Strengthen India’s Enabling Environment for a Competitive Green Hydrogen Economy. New Delhi: Council on Energy, Environment and Water (CEEW) This report presents actionable private sector considerations for Indian policymakers at both the national and state levels to strengthen the enabling environment for green hydrogen uptake in India while also catalysing investment into the industry. These considerations align with the MNRE's mission…",
+        "url": "https://www.ceew.in/publications/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing",
+        "publishedAt": "2024-06-18T07:56:44.000Z",
+        "image": "https://www.ceew.in/sites/default/files/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing.png",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -479,13 +478,101 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRl9DX0pMc092cjI1eUdtOFNfLWpjVGZrbzZpaWt5ZlBRek1ieDFEZmJtQzRWcW1PNXJRVmRVUEZoc1lzZzlpclFiVGhSRjdkRS1KckpPdlh4U2ZmalpzR3dFRHo2VmxpZWdpYWlfdjA2cm9ReVZrcm1EZjNMb0dDZWRLZlpwLUJ3X0IyUG4zbE5vVzRUUkpCQXROZ3JoeWlhNlhVNTAxM0RoeTZ4VnFuOWdtN290dEE?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
       }
     ],
     "world": [
+      {
+        "id": "esg-today-l-g-ntr-raise-370-million-for-new-clean--2026-10-15",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "L G, NTR Raise $370 Million for New Clean Power Transition Fund",
+        "excerpt": "UK financial services group Legal & General (L&G) and sustainable infrastructure investor NTR announced today that they have raised €330 million (USD$370 million) at the first close of the L&G NTR Clean Power Transition IV Fund, the firm’s second joint strategy focused on investing in clean energy projects and infrastructure supporting electrification across Europe. According to the firms, the new fund comes as an estimated €660 billion in annual investment is required in clean power generation, electricity grids, electrification and energy efficiency…",
+        "url": "https://www.esgtoday.com/lg-ntr-raise-370-million-for-new-clean-power-transition-fund/?utm_source=rss utm_medium=rss utm_campaign=lg-ntr-raise-370-million-for-new-clean-power-transition-fund",
+        "publishedAt": "2026-10-15T12:05:26.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/NTR-McGuckian.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-hy24-acquires-clean-hydrogen-platform-hy-2026-10-15",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Hy24 Acquires Clean Hydrogen Platform Hynamics from EDF",
+        "excerpt": "French clean hydrogen-focused investment firm Hy24 announced that it has signed an agreement to acquire EDF Group’s subsidiary Hynamics, a producer of low-carbon hydrogen for the heavy mobility and industrial sectors. Launched in 2021, Hy24 is a joint venture between private investment house Ardian, and hydrogen enabling investment platform, FiveT Hydrogen. The acquisition, from EDF’s venture capital arm EDF Pulse Ventures, is being made through HY24’s Clean Hydrogen Infrastructure Fund. The fund has raised €2 billion , making it one of the world’s…",
+        "url": "https://www.esgtoday.com/hy24-acquires-clean-hydrogen-platform-hynamics-from-edf/?utm_source=rss utm_medium=rss utm_campaign=hy24-acquires-clean-hydrogen-platform-hynamics-from-edf",
+        "publishedAt": "2026-10-15T10:49:45.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Hy24.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-california-locks-in-november-deadline-fo-2026-10-15",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "California Locks in November Deadline for First Corporate Climate Reports",
+        "excerpt": "The California Office of Administrative Law (OAL) has approved the California Corporate Greenhouse Gas Reporting and Climate-Related Financial Risk Disclosure Initial Regulation, marking the final step in the adoption of the new climate reporting regulation for thousands of large U.S. companies, and officially establishing November 10, 2026 as the deadline for the first greenhouse gas emissions reports. Alongside the OAL approval, the California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s new corporate…",
+        "url": "https://www.esgtoday.com/california-finalizes-corporate-climate-reporting-rules-locking-in-november-2026-deadline/?utm_source=rss utm_medium=rss utm_campaign=california-finalizes-corporate-climate-reporting-rules-locking-in-november-2026-deadline",
+        "publishedAt": "2026-10-15T09:55:45.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/California-state-capitol.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-engie-cma-cgm-to-build-new-clean-fuel-pl-2026-10-15",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Engie, CMA CGM to Build New Clean Fuel Plant to Drive Fleet Decarbonization",
+        "excerpt": "French energy company Engie announced that it has signed a new framework agreement with multinational shipping and logistics company CMA CGM to develop a biomethane production facility in France to supply renewable fuel to support the decarbonization of CMA CGM s fleet. Starting in 2029/2030, the facility is expected to convert livestock waste, household biowaste and agricultural residues into biomethane, which will be supplied to CMA CGM s fleet through the European gas grid under a certified mass-balance system. Under the agreement, Engie will lead…",
+        "url": "https://www.esgtoday.com/engie-cma-cgm-to-build-new-clean-fuel-plant-to-drive-fleet-decarbonization/?utm_source=rss utm_medium=rss utm_campaign=engie-cma-cgm-to-build-new-clean-fuel-plant-to-drive-fleet-decarbonization",
+        "publishedAt": "2026-10-15T08:05:53.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/CMA-CGM.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-ey-sustainability-platform-watershed-ann-2026-10-14",
         "source": "esg-dive",
@@ -726,94 +813,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-tnfd-releases-major-update-to-guidance-s-2026-10-13",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "TNFD Releases Major Update to Guidance Supporting Corporate Nature-Related Reporting",
-        "excerpt": "The Taskforce on Nature-related Financial Disclosures (TNFD) announced the release of LEAP 2.0, the first upgrade of its core approach and guidance for helping companies assess and report on nature-related dependencies, impacts, risks and opportunities. The TNFD was launched in 2021 , building on the success of the Task Force on Climate-related Financial Disclosures (TCFD), to support organizations in reporting and acting on their nature-related risks. The organization published its final recommendations for nature-related risk management and disclosure…",
-        "url": "https://www.esgtoday.com/tnfd-releases-major-update-to-assessment-framework-to-support-corporate-nature-related-reporting/?utm_source=rss utm_medium=rss utm_campaign=tnfd-releases-major-update-to-assessment-framework-to-support-corporate-nature-related-reporting",
-        "publishedAt": "2026-10-13T14:44:42.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/TNFD-LEAP-2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-epyr-raises-17-million-to-scale-industri-2026-10-13",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Epyr Raises $17 Million to Scale Industrial Heat Electrification Platform",
-        "excerpt": "French energy tech startup Epyr announced today that it has raised €15 million (USD$16.8 million) in a Series A funding round, with proceeds aimed at accelerating the deployment of the company’s thermal energy storage technology to help industrial companies replace fossil fuels with electricity. The financing comes as industrial heat accounts for around 20% of global energy consumption and remains largely dependent on fossil fuels, particularly natural gas in Europe. Electrifying industrial heat has become a priority for the EU, both to at reducing…",
-        "url": "https://www.esgtoday.com/epyr-raises-17-million-to-scale-industrial-heat-electrification-platform/?utm_source=rss utm_medium=rss utm_campaign=epyr-raises-17-million-to-scale-industrial-heat-electrification-platform",
-        "publishedAt": "2026-10-13T13:18:52.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Epyr.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-finance-earth-fsd-africa-launch-100-mill-2026-10-13",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Finance Earth, FSD Africa Launch $100 Million Fund to Back Nature-Based Carbon Projects",
-        "excerpt": "Environmental impact investment firm Finance Earth and financial sector development agency FSD Africa, through its investment arm, FSD Africa Investments (FSDAi), announced the launch of the Africa Nature Impact Fund, a new platform aimed at mobilizing capital for early-stage nature and nature-based carbon projects across Africa. The organizations said that they have set a $100 million target for the new fund, with a goal to reach $20 million for its first close in 2027, including a $6.6 million cornerstone commitment from FSDAi. Ann-Marie Chidzero,…",
-        "url": "https://www.esgtoday.com/finance-earth-fsd-africa-launch-100-million-fund-to-back-nature-based-carbon-projects/?utm_source=rss utm_medium=rss utm_campaign=finance-earth-fsd-africa-launch-100-million-fund-to-back-nature-based-carbon-projects",
-        "publishedAt": "2026-10-13T11:38:50.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Finance-Earth-Mansfield.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-sbtn-releases-new-framework-for-corporat-2026-10-13",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "SBTN Releases New Framework for Corporate Science-Based Nature Target Setting",
-        "excerpt": "The Science Based Targets Network (SBTN) announced today the release of Science-Based Targets for Nature 2.0, marking a major update of its methods and guidance for corporate nature-focused sustainability target setting and implementation across areas including land, freshwater and oceans. The new release follows the SBTN’s inaugural corporate science-based targets for nature, launched in 2023 , aimed at guiding companies in assessing and prioritizing their environmental impacts and setting a standard for targets to address these issues. According to…",
-        "url": "https://www.esgtoday.com/sbtn-releases-new-framework-for-corporate-science-based-nature-target-setting/?utm_source=rss utm_medium=rss utm_campaign=sbtn-releases-new-framework-for-corporate-science-based-nature-target-setting",
-        "publishedAt": "2026-10-13T11:14:31.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Forest5.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1481,6 +1480,94 @@
   },
   "articles": [
     {
+      "id": "esg-today-l-g-ntr-raise-370-million-for-new-clean--2026-10-15",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "L G, NTR Raise $370 Million for New Clean Power Transition Fund",
+      "excerpt": "UK financial services group Legal & General (L&G) and sustainable infrastructure investor NTR announced today that they have raised €330 million (USD$370 million) at the first close of the L&G NTR Clean Power Transition IV Fund, the firm’s second joint strategy focused on investing in clean energy projects and infrastructure supporting electrification across Europe. According to the firms, the new fund comes as an estimated €660 billion in annual investment is required in clean power generation, electricity grids, electrification and energy efficiency…",
+      "url": "https://www.esgtoday.com/lg-ntr-raise-370-million-for-new-clean-power-transition-fund/?utm_source=rss utm_medium=rss utm_campaign=lg-ntr-raise-370-million-for-new-clean-power-transition-fund",
+      "publishedAt": "2026-10-15T12:05:26.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/NTR-McGuckian.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-hy24-acquires-clean-hydrogen-platform-hy-2026-10-15",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Hy24 Acquires Clean Hydrogen Platform Hynamics from EDF",
+      "excerpt": "French clean hydrogen-focused investment firm Hy24 announced that it has signed an agreement to acquire EDF Group’s subsidiary Hynamics, a producer of low-carbon hydrogen for the heavy mobility and industrial sectors. Launched in 2021, Hy24 is a joint venture between private investment house Ardian, and hydrogen enabling investment platform, FiveT Hydrogen. The acquisition, from EDF’s venture capital arm EDF Pulse Ventures, is being made through HY24’s Clean Hydrogen Infrastructure Fund. The fund has raised €2 billion , making it one of the world’s…",
+      "url": "https://www.esgtoday.com/hy24-acquires-clean-hydrogen-platform-hynamics-from-edf/?utm_source=rss utm_medium=rss utm_campaign=hy24-acquires-clean-hydrogen-platform-hynamics-from-edf",
+      "publishedAt": "2026-10-15T10:49:45.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Hy24.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-california-locks-in-november-deadline-fo-2026-10-15",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "California Locks in November Deadline for First Corporate Climate Reports",
+      "excerpt": "The California Office of Administrative Law (OAL) has approved the California Corporate Greenhouse Gas Reporting and Climate-Related Financial Risk Disclosure Initial Regulation, marking the final step in the adoption of the new climate reporting regulation for thousands of large U.S. companies, and officially establishing November 10, 2026 as the deadline for the first greenhouse gas emissions reports. Alongside the OAL approval, the California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s new corporate…",
+      "url": "https://www.esgtoday.com/california-finalizes-corporate-climate-reporting-rules-locking-in-november-2026-deadline/?utm_source=rss utm_medium=rss utm_campaign=california-finalizes-corporate-climate-reporting-rules-locking-in-november-2026-deadline",
+      "publishedAt": "2026-10-15T09:55:45.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/California-state-capitol.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-engie-cma-cgm-to-build-new-clean-fuel-pl-2026-10-15",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Engie, CMA CGM to Build New Clean Fuel Plant to Drive Fleet Decarbonization",
+      "excerpt": "French energy company Engie announced that it has signed a new framework agreement with multinational shipping and logistics company CMA CGM to develop a biomethane production facility in France to supply renewable fuel to support the decarbonization of CMA CGM s fleet. Starting in 2029/2030, the facility is expected to convert livestock waste, household biowaste and agricultural residues into biomethane, which will be supplied to CMA CGM s fleet through the European gas grid under a certified mass-balance system. Under the agreement, Engie will lead…",
+      "url": "https://www.esgtoday.com/engie-cma-cgm-to-build-new-clean-fuel-plant-to-drive-fleet-decarbonization/?utm_source=rss utm_medium=rss utm_campaign=engie-cma-cgm-to-build-new-clean-fuel-plant-to-drive-fleet-decarbonization",
+      "publishedAt": "2026-10-15T08:05:53.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/CMA-CGM.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-ey-sustainability-platform-watershed-ann-2026-10-14",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1720,94 +1807,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-tnfd-releases-major-update-to-guidance-s-2026-10-13",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "TNFD Releases Major Update to Guidance Supporting Corporate Nature-Related Reporting",
-      "excerpt": "The Taskforce on Nature-related Financial Disclosures (TNFD) announced the release of LEAP 2.0, the first upgrade of its core approach and guidance for helping companies assess and report on nature-related dependencies, impacts, risks and opportunities. The TNFD was launched in 2021 , building on the success of the Task Force on Climate-related Financial Disclosures (TCFD), to support organizations in reporting and acting on their nature-related risks. The organization published its final recommendations for nature-related risk management and disclosure…",
-      "url": "https://www.esgtoday.com/tnfd-releases-major-update-to-assessment-framework-to-support-corporate-nature-related-reporting/?utm_source=rss utm_medium=rss utm_campaign=tnfd-releases-major-update-to-assessment-framework-to-support-corporate-nature-related-reporting",
-      "publishedAt": "2026-10-13T14:44:42.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/TNFD-LEAP-2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-epyr-raises-17-million-to-scale-industri-2026-10-13",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Epyr Raises $17 Million to Scale Industrial Heat Electrification Platform",
-      "excerpt": "French energy tech startup Epyr announced today that it has raised €15 million (USD$16.8 million) in a Series A funding round, with proceeds aimed at accelerating the deployment of the company’s thermal energy storage technology to help industrial companies replace fossil fuels with electricity. The financing comes as industrial heat accounts for around 20% of global energy consumption and remains largely dependent on fossil fuels, particularly natural gas in Europe. Electrifying industrial heat has become a priority for the EU, both to at reducing…",
-      "url": "https://www.esgtoday.com/epyr-raises-17-million-to-scale-industrial-heat-electrification-platform/?utm_source=rss utm_medium=rss utm_campaign=epyr-raises-17-million-to-scale-industrial-heat-electrification-platform",
-      "publishedAt": "2026-10-13T13:18:52.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Epyr.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-finance-earth-fsd-africa-launch-100-mill-2026-10-13",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Finance Earth, FSD Africa Launch $100 Million Fund to Back Nature-Based Carbon Projects",
-      "excerpt": "Environmental impact investment firm Finance Earth and financial sector development agency FSD Africa, through its investment arm, FSD Africa Investments (FSDAi), announced the launch of the Africa Nature Impact Fund, a new platform aimed at mobilizing capital for early-stage nature and nature-based carbon projects across Africa. The organizations said that they have set a $100 million target for the new fund, with a goal to reach $20 million for its first close in 2027, including a $6.6 million cornerstone commitment from FSDAi. Ann-Marie Chidzero,…",
-      "url": "https://www.esgtoday.com/finance-earth-fsd-africa-launch-100-million-fund-to-back-nature-based-carbon-projects/?utm_source=rss utm_medium=rss utm_campaign=finance-earth-fsd-africa-launch-100-million-fund-to-back-nature-based-carbon-projects",
-      "publishedAt": "2026-10-13T11:38:50.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Finance-Earth-Mansfield.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-sbtn-releases-new-framework-for-corporat-2026-10-13",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "SBTN Releases New Framework for Corporate Science-Based Nature Target Setting",
-      "excerpt": "The Science Based Targets Network (SBTN) announced today the release of Science-Based Targets for Nature 2.0, marking a major update of its methods and guidance for corporate nature-focused sustainability target setting and implementation across areas including land, freshwater and oceans. The new release follows the SBTN’s inaugural corporate science-based targets for nature, launched in 2023 , aimed at guiding companies in assessing and prioritizing their environmental impacts and setting a standard for targets to address these issues. According to…",
-      "url": "https://www.esgtoday.com/sbtn-releases-new-framework-for-corporate-science-based-nature-target-setting/?utm_source=rss utm_medium=rss utm_campaign=sbtn-releases-new-framework-for-corporate-science-based-nature-target-setting",
-      "publishedAt": "2026-10-13T11:14:31.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Forest5.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2527,10 +2526,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "India’s carbon market sets weak emissions targets, analysis finds - Mongabay India",
-      "excerpt": "A critical evaluation of emissions reduction targets set under the country’s carbon market framework has deemed the targets “modest and unambitious” — unlikely to drive changes in operations that would reduce emissions substantially. Between October 2025 and January 2026 India notified greenhouse gas reduction targets for nine industries. Under the framework, industries can earn carbon credits if they surpass these reduction targets, with each credit signifying an additional tonne of carbon dioxide equivalent reduced per unit of production (emissions…",
+      "excerpt": "India’s carbon market sets weak emissions targets, analysis finds Mongabay India",
       "url": "https://india.mongabay.com/2026/07/indias-carbon-market-sets-weak-emissions-targets-analysis-finds/",
       "publishedAt": "2026-07-31T07:00:00.000Z",
-      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/07/31160627/pexels-yajna-s-r-55953015-20591230-scaled.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2538,8 +2537,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzh0U0JEN1YyeWxsdzd4NzNnbEVsdmx0UlBLcXhkUFpxX3Z1RkxJRFp1VWpGa3ZZS1RrM0FrY1hTTGVYRzREbnVpV09VdDREUlltc1BDR0JhTlhpZ1JEUk1QcHlqSTdGVTN3bEsxaUk5cHU1OXkwdzJKMDR3NmpEVWpBQm5lWFk1RHpiUG9kZ2hRWnN2MS1qb2xrNXpyUTZQ?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzh0U0JEN1YyeWxsdzd4NzNnbEVsdmx0UlBLcXhkUFpxX3Z1RkxJRFp1VWpGa3ZZS1RrM0FrY1hTTGVYRzREbnVpV09VdDREUlltc1BDR0JhTlhpZ1JEUk1QcHlqSTdGVTN3bEsxaUk5cHU1OXkwdzJKMDR3NmpEVWpBQm5lWFk1RHpiUG9kZ2hRWnN2MS1qb2xrNXpyUTZQ?oc=5"
       },
       "region": "india"
     },
@@ -2853,17 +2851,17 @@
       "region": "world"
     },
     {
-      "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
+      "id": "google-h2-financing-green-hydrogen-in-india-ceew-2024-06-18",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
       "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
-      "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
-      "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
-      "publishedAt": "2025-09-01T07:00:00.000Z",
-      "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Financing Green Hydrogen in India - CEEW",
+      "excerpt": "Suggested Citation: CFLI India and CEEW. 2024. Financing Green Hydrogen in India: Private Sector Considerations to Strengthen India’s Enabling Environment for a Competitive Green Hydrogen Economy. New Delhi: Council on Energy, Environment and Water (CEEW) This report presents actionable private sector considerations for Indian policymakers at both the national and state levels to strengthen the enabling environment for green hydrogen uptake in India while also catalysing investment into the industry. These considerations align with the MNRE's mission…",
+      "url": "https://www.ceew.in/publications/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing",
+      "publishedAt": "2024-06-18T07:56:44.000Z",
+      "image": "https://www.ceew.in/sites/default/files/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing.png",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2871,7 +2869,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRl9DX0pMc092cjI1eUdtOFNfLWpjVGZrbzZpaWt5ZlBRek1ieDFEZmJtQzRWcW1PNXJRVmRVUEZoc1lzZzlpclFiVGhSRjdkRS1KckpPdlh4U2ZmalpzR3dFRHo2VmxpZWdpYWlfdjA2cm9ReVZrcm1EZjNMb0dDZWRLZlpwLUJ3X0IyUG4zbE5vVzRUUkpCQXROZ3JoeWlhNlhVNTAxM0RoeTZ4VnFuOWdtN290dEE?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
