@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-10-18T05:19:09.077Z",
+  "fetchedAt": "2026-10-18T11:59:39.942Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,8 +45,8 @@
   ],
   "stats": {
     "total": 62,
-    "india": 18,
-    "world": 44,
+    "india": 17,
+    "world": 45,
     "withImages": 59,
     "avgExcerptLength": 469,
     "verra": 10,
@@ -366,30 +366,6 @@
         "region": "india"
       },
       {
-        "id": "google-carbon-global-blue-carbon-market-to-reach-usd-1-2026-03-25",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
-        "excerpt": "Strong CAGR of 24.0% reflects premium shift in voluntary carbon markets toward durable, high-integrity removal credits NEWARK, Del. , March 25, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global blue carbon market, valued at USD 1.0 billion in 2025, is projected to reach USD 1.2 billion in 2026 and expand significantly to USD 10.3 billion by 2036, growing at a CAGR of 24.0% during the forecast period, according to analysis by Future Market Insights. The Blue Carbon market is expected to generate an absolute…",
-        "url": "https://www.prnewswire.co.uk/news-releases/global-blue-carbon-market-to-reach-usd-10-3-billion-by-2036--with-strong-growth-across-asia-pacific-india-and-the-us-led-by-verra-gold-standard-and-conservation-international-302724782.html",
-        "publishedAt": "2026-03-25T07:00:00.000Z",
-        "image": "https://mma.prnewswire.com/media/1197648/3531122/FMI_Logo.jpg?p=facebook",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxORU40NERySjF1ZVh1cGlYZzdHa09sblVKYlNHRHktbUw0UUxhbzliTWc5SFNSb3BWRnBRMUsxa2lEa01BR055Qk1LVWtrejMzQm9xeUhvcUkxSUJpOWwxNkxsRDdoaDBwUmhGS0pDNnI4d0Eya2RZc2lhcHNCYm5HZXdjWDRlRjhRODRhaG5Iazdya2FtYjRyb3JtWUVaWFp5bWtZVy1vUWo4VnZMOFhZOS15NHNhVExMZUpvaDBOWUhELVdXRTJPN2hyTGVaVUhwWDFqZ01FWnRyNUJyV1J5ZUlRdHFwbjl2bHVKZ25LWmJSVjRlaTFuNnFXZkNic2Ztd3JfRTRPb1lJX2ZqZW1lVlJTMHZGSm5taU50NlEtcXlpcHBpeFBoT0x4dlRXV2l6azZhWVY3UXRMczBRekZpNXA5RjNkWjR6MzBvQ0RRc0lidw?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -486,6 +462,28 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-esg-today-week-in-review-2026-10-18",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "ESG Today: Week in Review",
+        "excerpt": "This week in ESG news: BNP Paribas AM launches new global sustainability strategy following AXA IM acquisition; California finalizes corporate climate reporting regulations; JPMorgan recalibrates sustainable finance strategy to balance emissions reduction and energy security; TNFD, SBTN release new nature target setting and reporting frameworks; Amundi, BNP Paribas AM win €1.6 billion sustainable investment mandates; BII to mobilize $1.6 billion for climate finance in Southeast Asia; ESMA guides fund managers to avoid greenwashing in climate, impact…",
+        "url": "https://www.esgtoday.com/esg-today-week-in-review-279/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-279",
+        "publishedAt": "2026-10-18T09:20:44.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Wind-Austria.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG News",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-frontier-climate-buyers-ink-deal-to-stor-2026-10-16",
         "source": "esg-dive",
@@ -902,28 +900,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-jpmorgan-recalibrates-sustainable-financ-2026-10-14",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "JPMorgan Recalibrates Sustainable Finance Strategy to Balance Emissions Reduction with Energy Security",
-        "excerpt": "U.S. banking giant JPMorganChase announced on Wednesday a series of updates to its approach to energy and environmental issues, including rebalancing its strategy to consider emissions reductions in its financing activities in the broader context of affordability, security, reliability. While stating that it has learned that “financed emissions are an imperfect metric,” the bank has decided to retain and extend its financed emissions targets for key carbon-intensive sectors, and it also revealed that it has reached nearly the halfway mark towards its…",
-        "url": "https://www.esgtoday.com/jpmorgan-updates-sustainable-finance-strategy-to-balance-energy-emissions-security-affordability/?utm_source=rss utm_medium=rss utm_campaign=jpmorgan-updates-sustainable-finance-strategy-to-balance-energy-emissions-security-affordability",
-        "publishedAt": "2026-10-14T15:00:58.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/JPMorgan4.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Sustainable Finance",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1476,10 +1452,56 @@
           "imageSource": "publisher"
         },
         "region": "world"
+      },
+      {
+        "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - The Guardian",
+        "excerpt": "The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images View image in fullscreen The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images The age of extinction Carbon offsetting This article is more than 3 years old Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless,…",
+        "url": "https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe",
+        "publishedAt": "2023-01-18T08:00:00.000Z",
+        "image": "https://i.guim.co.uk/img/media/9f470b957b3b181b4107c89493f7a8eddb356834/0_12_2089_1254/master/2089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=c383f5d710fa80450e09a82767c12d10",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEFTZ3U2bGJHM25xeVVQZFJ4eGZDNWo5TXdUQ2JxeWxGZ3NZWjZhQ0RMRzBTZjB4SUd3LXFRZGlOWUpuUkkwXzNITVhUYkthNDQ4dkY5YTV5RGI2OTRNdTBkUWE3OEZsbUs0RGViR0RKaUVLS0ZTMk13ZU44UlBTRm8zUzY0NkllUXRfcFpxT3dOcmlpSE5iUHphcnVWam1Ec2dMSW1ROW9SM0UyMUo5NWNNbFRBSzhiR2VJ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
       }
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-esg-today-week-in-review-2026-10-18",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "ESG Today: Week in Review",
+      "excerpt": "This week in ESG news: BNP Paribas AM launches new global sustainability strategy following AXA IM acquisition; California finalizes corporate climate reporting regulations; JPMorgan recalibrates sustainable finance strategy to balance emissions reduction and energy security; TNFD, SBTN release new nature target setting and reporting frameworks; Amundi, BNP Paribas AM win €1.6 billion sustainable investment mandates; BII to mobilize $1.6 billion for climate finance in Southeast Asia; ESMA guides fund managers to avoid greenwashing in climate, impact…",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-279/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-279",
+      "publishedAt": "2026-10-18T09:20:44.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Wind-Austria.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG News",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-dive-frontier-climate-buyers-ink-deal-to-stor-2026-10-16",
       "source": "esg-dive",
@@ -1896,28 +1918,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-jpmorgan-recalibrates-sustainable-financ-2026-10-14",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "JPMorgan Recalibrates Sustainable Finance Strategy to Balance Emissions Reduction with Energy Security",
-      "excerpt": "U.S. banking giant JPMorganChase announced on Wednesday a series of updates to its approach to energy and environmental issues, including rebalancing its strategy to consider emissions reductions in its financing activities in the broader context of affordability, security, reliability. While stating that it has learned that “financed emissions are an imperfect metric,” the bank has decided to retain and extend its financed emissions targets for key carbon-intensive sectors, and it also revealed that it has reached nearly the halfway mark towards its…",
-      "url": "https://www.esgtoday.com/jpmorgan-updates-sustainable-finance-strategy-to-balance-energy-emissions-security-affordability/?utm_source=rss utm_medium=rss utm_campaign=jpmorgan-updates-sustainable-finance-strategy-to-balance-energy-emissions-security-affordability",
-      "publishedAt": "2026-10-14T15:00:58.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/JPMorgan4.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Sustainable Finance",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2734,30 +2734,6 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-global-blue-carbon-market-to-reach-usd-1-2026-03-25",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Global Blue Carbon Market to Reach USD 10.3 Billion by 2036, with Strong Growth Across Asia-Pacific, India, and the U.S., Led by Verra, Gold Standard, and Conservation International - PR Newswire UK",
-      "excerpt": "Strong CAGR of 24.0% reflects premium shift in voluntary carbon markets toward durable, high-integrity removal credits NEWARK, Del. , March 25, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global blue carbon market, valued at USD 1.0 billion in 2025, is projected to reach USD 1.2 billion in 2026 and expand significantly to USD 10.3 billion by 2036, growing at a CAGR of 24.0% during the forecast period, according to analysis by Future Market Insights. The Blue Carbon market is expected to generate an absolute…",
-      "url": "https://www.prnewswire.co.uk/news-releases/global-blue-carbon-market-to-reach-usd-10-3-billion-by-2036--with-strong-growth-across-asia-pacific-india-and-the-us-led-by-verra-gold-standard-and-conservation-international-302724782.html",
-      "publishedAt": "2026-03-25T07:00:00.000Z",
-      "image": "https://mma.prnewswire.com/media/1197648/3531122/FMI_Logo.jpg?p=facebook",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxORU40NERySjF1ZVh1cGlYZzdHa09sblVKYlNHRHktbUw0UUxhbzliTWc5SFNSb3BWRnBRMUsxa2lEa01BR055Qk1LVWtrejMzQm9xeUhvcUkxSUJpOWwxNkxsRDdoaDBwUmhGS0pDNnI4d0Eya2RZc2lhcHNCYm5HZXdjWDRlRjhRODRhaG5Iazdya2FtYjRyb3JtWUVaWFp5bWtZVy1vUWo4VnZMOFhZOS15NHNhVExMZUpvaDBOWUhELVdXRTJPN2hyTGVaVUhwWDFqZ01FWnRyNUJyV1J5ZUlRdHFwbjl2bHVKZ25LWmJSVjRlaTFuNnFXZkNic2Ztd3JfRTRPb1lJX2ZqZW1lVlJTMHZGSm5taU50NlEtcXlpcHBpeFBoT0x4dlRXV2l6azZhWVY3UXRMczBRekZpNXA5RjNkWjR6MzBvQ0RRc0lidw?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-carbon-blog-eu-adopts-first-crcf-methodologies--2026-02-05",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2899,6 +2875,30 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows - The Guardian",
+      "excerpt": "The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images View image in fullscreen The Alto Mayo protection forest in Moyobamba, Peru, was supposed to be a flagship offsetting project but has faced human rights issues. Composite: Guardian Design/AFP/Getty Images The age of extinction Carbon offsetting This article is more than 3 years old Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless,…",
+      "url": "https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe",
+      "publishedAt": "2023-01-18T08:00:00.000Z",
+      "image": "https://i.guim.co.uk/img/media/9f470b957b3b181b4107c89493f7a8eddb356834/0_12_2089_1254/master/2089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=c383f5d710fa80450e09a82767c12d10",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEFTZ3U2bGJHM25xeVVQZFJ4eGZDNWo5TXdUQ2JxeWxGZ3NZWjZhQ0RMRzBTZjB4SUd3LXFRZGlOWUpuUkkwXzNITVhUYkthNDQ4dkY5YTV5RGI2OTRNdTBkUWE3OEZsbUs0RGViR0RKaUVLS0ZTMk13ZU44UlBTRm8zUzY0NkllUXRfcFpxT3dOcmlpSE5iUHphcnVWam1Ec2dMSW1ROW9SM0UyMUo5NWNNbFRBSzhiR2VJ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
     }
   ]
 }
