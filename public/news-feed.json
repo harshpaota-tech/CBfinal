@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-10-19T18:58:08.747Z",
+  "fetchedAt": "2026-10-19T22:46:36.082Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 62,
-    "india": 17,
-    "world": 45,
-    "withImages": 58,
-    "avgExcerptLength": 461,
+    "india": 16,
+    "world": 46,
+    "withImages": 57,
+    "avgExcerptLength": 454,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -432,30 +432,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-financing-green-hydrogen-in-india-ceew-2024-06-18",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Financing Green Hydrogen in India - CEEW",
-        "excerpt": "Suggested Citation: CFLI India and CEEW. 2024. Financing Green Hydrogen in India: Private Sector Considerations to Strengthen India’s Enabling Environment for a Competitive Green Hydrogen Economy. New Delhi: Council on Energy, Environment and Water (CEEW) This report presents actionable private sector considerations for Indian policymakers at both the national and state levels to strengthen the enabling environment for green hydrogen uptake in India while also catalysing investment into the industry. These considerations align with the MNRE's mission…",
-        "url": "https://www.ceew.in/publications/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing",
-        "publishedAt": "2024-06-18T07:56:44.000Z",
-        "image": "https://www.ceew.in/sites/default/files/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing.png",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRl9DX0pMc092cjI1eUdtOFNfLWpjVGZrbzZpaWt5ZlBRek1ieDFEZmJtQzRWcW1PNXJRVmRVUEZoc1lzZzlpclFiVGhSRjdkRS1KckpPdlh4U2ZmalpzR3dFRHo2VmxpZWdpYWlfdjA2cm9ReVZrcm1EZjNMb0dDZWRLZlpwLUJ3X0IyUG4zbE5vVzRUUkpCQXROZ3JoeWlhNlhVNTAxM0RoeTZ4VnFuOWdtN290dEE?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -1378,6 +1354,29 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ09FZGNoVXQ2Q2ZPeVo5ZUY1UzV4ZWZvYm1nZlE5U1BiRFpPU3g5aUhPT1pMV0s5TXBRaHRZckdSV3d2bFVkYWV1YkdJeldsQnZPa3NtWWo1WHpBTVRjWE9OTlVEb1NKQm1mUTJFVTFVSFMzM19zT0h3LVFaMmxfZVN5U2dsOVQ0Wm9tbFJfUWFfWHRYazhxd3NfSFJ0bENvR0MwZg?oc=5"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-h2-a-new-era-of-green-mobility-a-milestone--2026-08-06",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
+        "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
+        "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
+        "publishedAt": "2026-08-06T07:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5"
         },
         "region": "world"
       },
@@ -2566,6 +2565,29 @@
       "region": "india"
     },
     {
+      "id": "google-h2-a-new-era-of-green-mobility-a-milestone--2026-08-06",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
+      "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
+      "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
+      "publishedAt": "2026-08-06T07:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-india-india-s-carbon-market-sets-weak-emission-2026-07-31",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2846,30 +2868,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-h2-financing-green-hydrogen-in-india-ceew-2024-06-18",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Financing Green Hydrogen in India - CEEW",
-      "excerpt": "Suggested Citation: CFLI India and CEEW. 2024. Financing Green Hydrogen in India: Private Sector Considerations to Strengthen India’s Enabling Environment for a Competitive Green Hydrogen Economy. New Delhi: Council on Energy, Environment and Water (CEEW) This report presents actionable private sector considerations for Indian policymakers at both the national and state levels to strengthen the enabling environment for green hydrogen uptake in India while also catalysing investment into the industry. These considerations align with the MNRE's mission…",
-      "url": "https://www.ceew.in/publications/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing",
-      "publishedAt": "2024-06-18T07:56:44.000Z",
-      "image": "https://www.ceew.in/sites/default/files/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRl9DX0pMc092cjI1eUdtOFNfLWpjVGZrbzZpaWt5ZlBRek1ieDFEZmJtQzRWcW1PNXJRVmRVUEZoc1lzZzlpclFiVGhSRjdkRS1KckpPdlh4U2ZmalpzR3dFRHo2VmxpZWdpYWlfdjA2cm9ReVZrcm1EZjNMb0dDZWRLZlpwLUJ3X0IyUG4zbE5vVzRUUkpCQXROZ3JoeWlhNlhVNTAxM0RoeTZ4VnFuOWdtN290dEE?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
