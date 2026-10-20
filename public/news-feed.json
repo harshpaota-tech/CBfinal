@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-10-20T12:37:28.094Z",
+  "fetchedAt": "2026-10-20T17:45:18.169Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,39 +45,16 @@
   ],
   "stats": {
     "total": 62,
-    "india": 17,
-    "world": 45,
-    "withImages": 56,
-    "avgExcerptLength": 445,
+    "india": 16,
+    "world": 46,
+    "withImages": 57,
+    "avgExcerptLength": 450,
     "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
-      {
-        "id": "google-india-daily-editorial-analysis-19-october-2026-2026-10-19",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Daily Editorial Analysis 19 October 2026 - Vajiram & Ravi",
-        "excerpt": "Daily Editorial Analysis 19 October 2026 Vajiram & Ravi",
-        "url": "https://vajiramandravi.com/current-affairs/daily-editorial-analysis-19-october-2026/",
-        "publishedAt": "2026-10-19T04:58:18.000Z",
-        "image": null,
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZGVYaDd5X1RkU05fMW9fbnJZZUhpVnVlY1BkSXVVX1lqc2Z5aUc4T29oSzBjM0ljRG1pNUNvTVVnN0pFNDgyT0xHUlV5aVladjIyMzBoTU5lX0pLdnN3WTVEejVvY1hubndaenhnNHRTS09DYWIzZkN4aVQ0OTBPa0FOV1FPS0FjWXlQcg?oc=5"
-        },
-        "region": "india"
-      },
       {
         "id": "verra-verra-approves-first-credits-under-rice--2026-10-12",
         "source": "verra",
@@ -126,6 +103,30 @@
         "region": "india"
       },
       {
+        "id": "google-india-article-6-of-the-paris-agreement-climate-2026-08-17",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
+        "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
+        "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
+        "publishedAt": "2026-08-17T07:00:00.000Z",
+        "image": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/07/Article-6-of-the-Paris-Agreement.webp?v=1784286245",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzAyMk9nMlh4QjdIS1hDczM4S1NPY2JrQU54dFFsZENLZTNtUUdCQzF0QmVsNXVZck5WYi1ZaWdLaDJOWU80QkdocERNZHpWWlVXRFBzMzFfWXhoU2ZVOHNxUlRGZWpXeFRPU2NvN2F0WG1CVWI3cmc1YnNQZml3RDVn?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-india-decarbonising-the-aluminium-sector-in-in-2026-08-06",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -145,30 +146,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUNsZk5QXzVYODZJaWxLYTVLUWtNYlNmVnctcVFRcVVZZHhDVkl3ODFPZEw2QWFZTl9nU1lySUZjUlNLLTNRVnJWZE1RR0NIajByeHNIU2tlUFlCaVc5UHZQUzlBS25OaXFaVmRwblU1dk9TV2NzTnA2UmVIME5mM3JaVjR4Y3Q4dFNLZ2hzVHVzMFVwY2xnZ0ZQajBOb2ZmaXhZRjl3amtBdFVlelV1eWtwQlRObGp2YlJ0cDBLYWNvTHFTNkRKMW5aYkt3STlMaXZwSFhaMzVCR0oxT2c?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-a-new-era-of-green-mobility-a-milestone--2026-08-06",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
-        "excerpt": "India s hydrogen-powered train Namo Green Rail. Photo Credit: Kshitij08, Wikipedia Commons Green hydrogen is emerging as sustainable and resilience sources of energy for achieving the target of net-zero carbon emissions. India user a new phase of green energy transaction with the launch of its first hydrogen-powered train. The train, is also known as Namo Green Rail, was flagged off by Prime Minister Narendra Modi, running from Jind to Sonipat city in the northern state of Haryana. Indian Railways achieving significant milestone by adopting sustainable…",
-        "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
-        "publishedAt": "2026-08-06T07:00:00.000Z",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/08/a-51.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -419,10 +396,10 @@
         "tag": "GREEN HYDROGEN",
         "accent": "#5eead4",
         "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
         "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
         "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": null,
+        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -430,7 +407,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -460,6 +438,140 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-amazon-signs-960-mw-indiana-nuclear-pact-2026-10-20",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Amazon signs 960-MW Indiana nuclear pact with AEP, X-energy",
+        "excerpt": "If the project is developed, Amazon would purchase the power under a long-term contract that covers the cost of the facility and its operations, the companies said.",
+        "url": "https://www.esgdive.com/news/aep-signs-advanced-960-mw-nuclear-amazon-x-energy/833473/",
+        "publishedAt": "2026-10-20T15:53:00.000Z",
+        "image": "https://imgproxy.divecdn.com/6XGE9RqYyTTqaRNSe4GcWngFpE1sWFnbVjqyncQfASw/g:nowe:0:0/c:1952:1103/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc1MzkxOTM4LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-asset-owners-embed-sustainability-deeper-2026-10-20",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Asset owners embed sustainability deeper into portfolios: LSEG",
+        "excerpt": "As the vast majority of asset owners now include sustainability in their investment strategies and expect to do so even more in the near future governance has emerged as a top issue.",
+        "url": "https://www.esgdive.com/news/asset-owners-embed-sustainability-deeper-into-portfolios-lseg/833475/",
+        "publishedAt": "2026-10-20T15:50:00.000Z",
+        "image": "https://imgproxy.divecdn.com/0Yf4L7bvFRwsrMG85EgRSmundmb9MCnHWX_B23e8BPk/g:nowe:0:0/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03OTE1ODI1MV9jMjNpVk5NLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-fall-2026-program-and-process-updates-oc-2026-10-20",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Fall 2026: Program and Process Updates – October 2026 Stakeholder Update Webinar",
+        "excerpt": "Join Verra on Wednesday, October 28, at 11:00 am ET for our fourth and final stakeholder update webinar of 2026. During the webinar, Verra leadership and staff will share recent developments across our programs, including the following topics: We look forward to seeing you there!",
+        "url": "https://verra.org/fall-2026-program-and-process-updates-october-2026-stakeholder-update-webinar/",
+        "publishedAt": "2026-10-20T15:32:04.000Z",
+        "image": "https://verra.org/wp-content/uploads/2025/12/agriculture-5455452_1920.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-google-mckinsey-sign-320-000-ton-carbon--2026-10-20",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Google, McKinsey Sign 320,000 Ton Carbon Removal Deals from Brazil Nature Restoration Project",
+        "excerpt": "San Francisco-based carbon removal company Working Trees announced that it has signed a series of long-term offtake agreements with Google and McKinsey, with 320,000 carbon credits to be generated through “silvopasture” projects supporting nature restoration through sustainable farming in Brazil. The agreements were made through the Symbiosis Coalition, an advance market commitment (AMC) collaboration launched in 2024 with a collective commitment to contract up to 20 million tons of carbon removal credits by 2030, to send a strong demand signa to help…",
+        "url": "https://www.esgtoday.com/google-mckinsey-sign-deals-for-320000-carbon-credits-from-brazil-nature-restoration-project/?utm_source=rss utm_medium=rss utm_campaign=google-mckinsey-sign-deals-for-320000-carbon-credits-from-brazil-nature-restoration-project",
+        "publishedAt": "2026-10-20T14:44:53.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Working-Trees.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-q-a-why-a-pivotal-ipcc-meeting-in-ethiop-2026-10-20",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Q A: Why a pivotal IPCC meeting in Ethiopia ended in ‘profound disappointment’",
+        "excerpt": "Share Article Contents Expand menu Close What timeline options were delegates debating? How did the timeline discussions unfold? What were the main points of disagreement? Why is the IPCC in a ‘serious funding crisis’? How have scientists reacted? What other issues remain unresolved? How are the IPCC AR7 reports progressing? How might the IPCC use AI and enhance gender inclusivity? Countries have failed – for the sixth time running – to agree on the timeline for publishing the Intergovernmental Panel on Climate Change ’s (IPCC) next set of influential…",
+        "url": "https://www.carbonbrief.org/qa-why-a-pivotal-ipcc-meeting-in-ethiopia-ended-in-profound-disappointment",
+        "publishedAt": "2026-10-20T14:40:10.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/cited-banner_landing-copy.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-releases-updated-grievance-redress-2026-10-20",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Releases Updated Grievance Redress Process",
+        "excerpt": "Verra has released its Grievance Redress Process v2.0 (PDF), which replaces the Grievance Redress Policy, v1.2 . The updated process will enable more efficient, transparent, and predictable processing of concerns (i.e., grievances) raised with Verra. Under the new process, Verra will receive grievances via a Grievance Intake Form, which is available in the Verra Project Hub. The form clearly outlines all the required information and allows for streamlined processing of submissions. The new Grievance Redress Process (GRP) clarifies the following: To…",
+        "url": "https://verra.org/verra-releases-updated-grievance-redress-process/",
+        "publishedAt": "2026-10-20T13:17:05.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/08/kristaps-ungurs-owcJsiIK7UU-unsplash-1-scaled.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-amazon-backs-new-advanced-nuclear-power--2026-10-20",
         "source": "esg-today",
@@ -726,28 +838,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-esg-today-week-in-review-2026-10-18",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "ESG Today: Week in Review",
-        "excerpt": "This week in ESG news: BNP Paribas AM launches new global sustainability strategy following AXA IM acquisition; California finalizes corporate climate reporting regulations; JPMorgan recalibrates sustainable finance strategy to balance emissions reduction and energy security; TNFD, SBTN release new nature target setting and reporting frameworks; Amundi, BNP Paribas AM win €1.6 billion sustainable investment mandates; BII to mobilize $1.6 billion for climate finance in Southeast Asia; ESMA guides fund managers to avoid greenwashing in climate, impact…",
-        "url": "https://www.esgtoday.com/esg-today-week-in-review-279/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-279",
-        "publishedAt": "2026-10-18T09:20:44.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Wind-Austria.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG News",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-frontier-climate-buyers-ink-deal-to-stor-2026-10-16",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -936,50 +1026,6 @@
         "url": "https://www.esgdive.com/news/ey-sustainability-platform-watershed-announce-data-alliance/833000/",
         "publishedAt": "2026-10-14T16:43:00.000Z",
         "image": "https://imgproxy.divecdn.com/1_-HnE4thqgcj-qGX3_6k3lzT7bk7xZ5DV4IbrCAQ0E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQwNzIxNTY3LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-trane-kse-agreement-aims-to-reduce-ghg-e-2026-10-14",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Trane, KSE agreement aims to reduce GHG emissions at SoFi, other stadiums",
-        "excerpt": "The partnership with Kroenke Sports Entertainment will introduce low-emission HVAC systems and digital services to its venues, including SoFi Stadium in Los Angeles and Ball Arena in Denver.",
-        "url": "https://www.esgdive.com/news/trane-kse-agreement-aims-at-decarbonization-upgrades-at-sofi-other-stadiu/832991/",
-        "publishedAt": "2026-10-14T16:35:00.000Z",
-        "image": "https://imgproxy.divecdn.com/nPfFWDG7WjVzq8-Rftx1aVfmWu52YroK01sulJIttMI/g:nowe:0:321/c:3600:2034/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjcxNDA3MzIyXzEuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-women-fall-through-the-cracks-at-work-es-2026-10-13",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "POLICY",
-        "accent": "#5eead4",
-        "title": "Women fall through the cracks at work, especially on boards, report says",
-        "excerpt": "Continued analysis of gender representation on corporate boards corroborates previous findings on the clock winding back for women at work.",
-        "url": "https://www.esgdive.com/news/women-fall-through-the-cracks-at-work-especially-on-boards/832849/",
-        "publishedAt": "2026-10-13T16:00:00.000Z",
-        "image": "https://imgproxy.divecdn.com/bXr3PoIT24SRV7fck2NSSUDy_aRWtdLPtOsl-1iLLUk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzMTAzMzQxLmpwZw==.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1219,52 +1265,6 @@
         "region": "world"
       },
       {
-        "id": "verra-projects-open-for-public-comment-septemb-2026-09-28",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Projects Open for Public Comment: September 28, 2026",
-        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-        "url": "https://verra.org/projects-open-for-public-comment-september-28-2026/",
-        "publishedAt": "2026-09-28T12:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2024/04/Agents-of-Change-Orchestrating-the-Recycling-Chain-4470-OMA-Ativos-Ambientais-S.A-Brazil-Plastic-waste-bales-1024x683.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-verra-secures-icvcm-approval-for-carbon--2026-09-28",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra Secures ICVCM Approval for Carbon Capture and Storage Methodology",
-        "excerpt": "WASHINGTON – Sept. 28, 2026 | Verra s carbon capture and storage (CCS) methodology and its accompanying modules have been approved by the Integrity Council for the Voluntary Carbon Market (ICVCM) as meeting the Core Carbon Principles (CCPs), a clear market signal that credits generated under this methodology are of the highest integrity. This update adds a major technology-based approach to Verra s growing portfolio of CCP-approved methodologies. The Verified Carbon Standard (VCS) methodology VM0049 Carbon Capture and Storage, v1.0 establishes criteria…",
-        "url": "https://verra.org/verra-secures-icvcm-approval-for-carbon-capture-and-storage-methodology/",
-        "publishedAt": "2026-09-28T11:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2025/11/pipeline-8838497_1280.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-analysis-lula-presidency-saved-at-least--2026-09-28",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1276,28 +1276,6 @@
         "url": "https://www.carbonbrief.org/analysis-lula-presidency-saved-at-least-20000km2-of-brazilian-amazon-since-2022",
         "publishedAt": "2026-09-28T10:35:12.000Z",
         "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/lula-presidency-save-scaled.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-concerning-low-sea-ice-persists-as-antar-2026-09-25",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
-        "excerpt": "Share Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals. Provisional data from the US National Snow and Ice Data Center (NSIDC) shows that Antarctic sea ice hit its annual winter peak on 14 September, with an extent of 17.59m square kilometres (km2). The organisation notes that the data is still preliminary, adding that “large fluctuations in extent are typical of Antarctic sea ice near the seasonal maximum”. One expert tells Carbon Brief that it is “concerning to see these…",
-        "url": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
-        "publishedAt": "2026-09-25T12:45:39.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/antarctic-sea-ice-pe-2-scaled.png",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1376,6 +1354,29 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ09FZGNoVXQ2Q2ZPeVo5ZUY1UzV4ZWZvYm1nZlE5U1BiRFpPU3g5aUhPT1pMV0s5TXBRaHRZckdSV3d2bFVkYWV1YkdJeldsQnZPa3NtWWo1WHpBTVRjWE9OTlVEb1NKQm1mUTJFVTFVSFMzM19zT0h3LVFaMmxfZVN5U2dsOVQ0Wm9tbFJfUWFfWHRYazhxd3NfSFJ0bENvR0MwZg?oc=5"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-h2-a-new-era-of-green-mobility-a-milestone--2026-08-06",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
+        "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
+        "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
+        "publishedAt": "2026-08-06T07:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5"
         },
         "region": "world"
       },
@@ -1477,6 +1478,140 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-amazon-signs-960-mw-indiana-nuclear-pact-2026-10-20",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Amazon signs 960-MW Indiana nuclear pact with AEP, X-energy",
+      "excerpt": "If the project is developed, Amazon would purchase the power under a long-term contract that covers the cost of the facility and its operations, the companies said.",
+      "url": "https://www.esgdive.com/news/aep-signs-advanced-960-mw-nuclear-amazon-x-energy/833473/",
+      "publishedAt": "2026-10-20T15:53:00.000Z",
+      "image": "https://imgproxy.divecdn.com/6XGE9RqYyTTqaRNSe4GcWngFpE1sWFnbVjqyncQfASw/g:nowe:0:0/c:1952:1103/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc1MzkxOTM4LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-asset-owners-embed-sustainability-deeper-2026-10-20",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Asset owners embed sustainability deeper into portfolios: LSEG",
+      "excerpt": "As the vast majority of asset owners now include sustainability in their investment strategies and expect to do so even more in the near future governance has emerged as a top issue.",
+      "url": "https://www.esgdive.com/news/asset-owners-embed-sustainability-deeper-into-portfolios-lseg/833475/",
+      "publishedAt": "2026-10-20T15:50:00.000Z",
+      "image": "https://imgproxy.divecdn.com/0Yf4L7bvFRwsrMG85EgRSmundmb9MCnHWX_B23e8BPk/g:nowe:0:0/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03OTE1ODI1MV9jMjNpVk5NLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-fall-2026-program-and-process-updates-oc-2026-10-20",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Fall 2026: Program and Process Updates – October 2026 Stakeholder Update Webinar",
+      "excerpt": "Join Verra on Wednesday, October 28, at 11:00 am ET for our fourth and final stakeholder update webinar of 2026. During the webinar, Verra leadership and staff will share recent developments across our programs, including the following topics: We look forward to seeing you there!",
+      "url": "https://verra.org/fall-2026-program-and-process-updates-october-2026-stakeholder-update-webinar/",
+      "publishedAt": "2026-10-20T15:32:04.000Z",
+      "image": "https://verra.org/wp-content/uploads/2025/12/agriculture-5455452_1920.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-google-mckinsey-sign-320-000-ton-carbon--2026-10-20",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Google, McKinsey Sign 320,000 Ton Carbon Removal Deals from Brazil Nature Restoration Project",
+      "excerpt": "San Francisco-based carbon removal company Working Trees announced that it has signed a series of long-term offtake agreements with Google and McKinsey, with 320,000 carbon credits to be generated through “silvopasture” projects supporting nature restoration through sustainable farming in Brazil. The agreements were made through the Symbiosis Coalition, an advance market commitment (AMC) collaboration launched in 2024 with a collective commitment to contract up to 20 million tons of carbon removal credits by 2030, to send a strong demand signa to help…",
+      "url": "https://www.esgtoday.com/google-mckinsey-sign-deals-for-320000-carbon-credits-from-brazil-nature-restoration-project/?utm_source=rss utm_medium=rss utm_campaign=google-mckinsey-sign-deals-for-320000-carbon-credits-from-brazil-nature-restoration-project",
+      "publishedAt": "2026-10-20T14:44:53.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Working-Trees.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-q-a-why-a-pivotal-ipcc-meeting-in-ethiop-2026-10-20",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Q A: Why a pivotal IPCC meeting in Ethiopia ended in ‘profound disappointment’",
+      "excerpt": "Share Article Contents Expand menu Close What timeline options were delegates debating? How did the timeline discussions unfold? What were the main points of disagreement? Why is the IPCC in a ‘serious funding crisis’? How have scientists reacted? What other issues remain unresolved? How are the IPCC AR7 reports progressing? How might the IPCC use AI and enhance gender inclusivity? Countries have failed – for the sixth time running – to agree on the timeline for publishing the Intergovernmental Panel on Climate Change ’s (IPCC) next set of influential…",
+      "url": "https://www.carbonbrief.org/qa-why-a-pivotal-ipcc-meeting-in-ethiopia-ended-in-profound-disappointment",
+      "publishedAt": "2026-10-20T14:40:10.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/cited-banner_landing-copy.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-verra-releases-updated-grievance-redress-2026-10-20",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Releases Updated Grievance Redress Process",
+      "excerpt": "Verra has released its Grievance Redress Process v2.0 (PDF), which replaces the Grievance Redress Policy, v1.2 . The updated process will enable more efficient, transparent, and predictable processing of concerns (i.e., grievances) raised with Verra. Under the new process, Verra will receive grievances via a Grievance Intake Form, which is available in the Verra Project Hub. The form clearly outlines all the required information and allows for streamlined processing of submissions. The new Grievance Redress Process (GRP) clarifies the following: To…",
+      "url": "https://verra.org/verra-releases-updated-grievance-redress-process/",
+      "publishedAt": "2026-10-20T13:17:05.000Z",
+      "image": "https://verra.org/wp-content/uploads/2026/08/kristaps-ungurs-owcJsiIK7UU-unsplash-1-scaled.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-amazon-backs-new-advanced-nuclear-power--2026-10-20",
       "source": "esg-today",
@@ -1743,51 +1878,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-daily-editorial-analysis-19-october-2026-2026-10-19",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Daily Editorial Analysis 19 October 2026 - Vajiram & Ravi",
-      "excerpt": "Daily Editorial Analysis 19 October 2026 Vajiram & Ravi",
-      "url": "https://vajiramandravi.com/current-affairs/daily-editorial-analysis-19-october-2026/",
-      "publishedAt": "2026-10-19T04:58:18.000Z",
-      "image": null,
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZGVYaDd5X1RkU05fMW9fbnJZZUhpVnVlY1BkSXVVX1lqc2Z5aUc4T29oSzBjM0ljRG1pNUNvTVVnN0pFNDgyT0xHUlV5aVladjIyMzBoTU5lX0pLdnN3WTVEejVvY1hubndaenhnNHRTS09DYWIzZkN4aVQ0OTBPa0FOV1FPS0FjWXlQcg?oc=5"
-      },
-      "region": "india"
-    },
-    {
-      "id": "esg-today-esg-today-week-in-review-2026-10-18",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "ESG Today: Week in Review",
-      "excerpt": "This week in ESG news: BNP Paribas AM launches new global sustainability strategy following AXA IM acquisition; California finalizes corporate climate reporting regulations; JPMorgan recalibrates sustainable finance strategy to balance emissions reduction and energy security; TNFD, SBTN release new nature target setting and reporting frameworks; Amundi, BNP Paribas AM win €1.6 billion sustainable investment mandates; BII to mobilize $1.6 billion for climate finance in Southeast Asia; ESMA guides fund managers to avoid greenwashing in climate, impact…",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-279/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-279",
-      "publishedAt": "2026-10-18T09:20:44.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Wind-Austria.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG News",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-frontier-climate-buyers-ink-deal-to-stor-2026-10-16",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1976,50 +2066,6 @@
       "url": "https://www.esgdive.com/news/ey-sustainability-platform-watershed-announce-data-alliance/833000/",
       "publishedAt": "2026-10-14T16:43:00.000Z",
       "image": "https://imgproxy.divecdn.com/1_-HnE4thqgcj-qGX3_6k3lzT7bk7xZ5DV4IbrCAQ0E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQwNzIxNTY3LmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-trane-kse-agreement-aims-to-reduce-ghg-e-2026-10-14",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Trane, KSE agreement aims to reduce GHG emissions at SoFi, other stadiums",
-      "excerpt": "The partnership with Kroenke Sports Entertainment will introduce low-emission HVAC systems and digital services to its venues, including SoFi Stadium in Los Angeles and Ball Arena in Denver.",
-      "url": "https://www.esgdive.com/news/trane-kse-agreement-aims-at-decarbonization-upgrades-at-sofi-other-stadiu/832991/",
-      "publishedAt": "2026-10-14T16:35:00.000Z",
-      "image": "https://imgproxy.divecdn.com/nPfFWDG7WjVzq8-Rftx1aVfmWu52YroK01sulJIttMI/g:nowe:0:321/c:3600:2034/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjcxNDA3MzIyXzEuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-women-fall-through-the-cracks-at-work-es-2026-10-13",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "POLICY",
-      "accent": "#5eead4",
-      "title": "Women fall through the cracks at work, especially on boards, report says",
-      "excerpt": "Continued analysis of gender representation on corporate boards corroborates previous findings on the clock winding back for women at work.",
-      "url": "https://www.esgdive.com/news/women-fall-through-the-cracks-at-work-especially-on-boards/832849/",
-      "publishedAt": "2026-10-13T16:00:00.000Z",
-      "image": "https://imgproxy.divecdn.com/bXr3PoIT24SRV7fck2NSSUDy_aRWtdLPtOsl-1iLLUk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzMTAzMzQxLmpwZw==.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2306,52 +2352,6 @@
       "region": "world"
     },
     {
-      "id": "verra-projects-open-for-public-comment-septemb-2026-09-28",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Projects Open for Public Comment: September 28, 2026",
-      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-      "url": "https://verra.org/projects-open-for-public-comment-september-28-2026/",
-      "publishedAt": "2026-09-28T12:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2024/04/Agents-of-Change-Orchestrating-the-Recycling-Chain-4470-OMA-Ativos-Ambientais-S.A-Brazil-Plastic-waste-bales-1024x683.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-verra-secures-icvcm-approval-for-carbon--2026-09-28",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Secures ICVCM Approval for Carbon Capture and Storage Methodology",
-      "excerpt": "WASHINGTON – Sept. 28, 2026 | Verra s carbon capture and storage (CCS) methodology and its accompanying modules have been approved by the Integrity Council for the Voluntary Carbon Market (ICVCM) as meeting the Core Carbon Principles (CCPs), a clear market signal that credits generated under this methodology are of the highest integrity. This update adds a major technology-based approach to Verra s growing portfolio of CCP-approved methodologies. The Verified Carbon Standard (VCS) methodology VM0049 Carbon Capture and Storage, v1.0 establishes criteria…",
-      "url": "https://verra.org/verra-secures-icvcm-approval-for-carbon-capture-and-storage-methodology/",
-      "publishedAt": "2026-09-28T11:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2025/11/pipeline-8838497_1280.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-analysis-lula-presidency-saved-at-least--2026-09-28",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2363,28 +2363,6 @@
       "url": "https://www.carbonbrief.org/analysis-lula-presidency-saved-at-least-20000km2-of-brazilian-amazon-since-2022",
       "publishedAt": "2026-09-28T10:35:12.000Z",
       "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/lula-presidency-save-scaled.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-concerning-low-sea-ice-persists-as-antar-2026-09-25",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
-      "excerpt": "Share Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals. Provisional data from the US National Snow and Ice Data Center (NSIDC) shows that Antarctic sea ice hit its annual winter peak on 14 September, with an extent of 17.59m square kilometres (km2). The organisation notes that the data is still preliminary, adding that “large fluctuations in extent are typical of Antarctic sea ice near the seasonal maximum”. One expert tells Carbon Brief that it is “concerning to see these…",
-      "url": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
-      "publishedAt": "2026-09-25T12:45:39.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/09/antarctic-sea-ice-pe-2-scaled.png",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2467,6 +2445,30 @@
       "region": "world"
     },
     {
+      "id": "google-india-article-6-of-the-paris-agreement-climate-2026-08-17",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
+      "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
+      "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "image": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/07/Article-6-of-the-Paris-Agreement.webp?v=1784286245",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzAyMk9nMlh4QjdIS1hDczM4S1NPY2JrQU54dFFsZENLZTNtUUdCQzF0QmVsNXVZck5WYi1ZaWdLaDJOWU80QkdocERNZHpWWlVXRFBzMzFfWXhoU2ZVOHNxUlRGZWpXeFRPU2NvN2F0WG1CVWI3cmc1YnNQZml3RDVn?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-india-decarbonising-the-aluminium-sector-in-in-2026-08-06",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2498,10 +2500,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
-      "excerpt": "India s hydrogen-powered train Namo Green Rail. Photo Credit: Kshitij08, Wikipedia Commons Green hydrogen is emerging as sustainable and resilience sources of energy for achieving the target of net-zero carbon emissions. India user a new phase of green energy transaction with the launch of its first hydrogen-powered train. The train, is also known as Namo Green Rail, was flagged off by Prime Minister Narendra Modi, running from Jind to Sonipat city in the northern state of Haryana. Indian Railways achieving significant milestone by adopting sustainable…",
+      "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
       "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
       "publishedAt": "2026-08-06T07:00:00.000Z",
-      "image": "https://www.eurasiareview.com/wp-content/uploads/2026/08/a-51.jpg",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2509,10 +2511,9 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5"
       },
-      "region": "india"
+      "region": "world"
     },
     {
       "id": "google-india-india-s-carbon-market-targets-too-weak-t-2026-07-29",
@@ -2808,10 +2809,10 @@
       "tag": "GREEN HYDROGEN",
       "accent": "#5eead4",
       "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen policy wrap 2025 Power Peak Digest",
+      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
       "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
       "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": null,
+      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2819,7 +2820,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
