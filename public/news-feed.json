@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-10-25T05:34:16.938Z",
+  "fetchedAt": "2026-10-25T12:26:04.331Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -463,6 +463,28 @@
     ],
     "world": [
       {
+        "id": "esg-today-esg-today-week-in-review-2026-10-25",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "ESG Today: Week in Review",
+        "excerpt": "This week in ESG news: ISSB releases proposed nature-related corporate reporting requirements; Coca-Cola, Nestlé, Danone commit to improve packaging claims after EU greenwashing complaint; ESMA focuses sustainability reporting enforcement priorities on materiality, impacts, risks and opportunities disclosure; Citi creates bond with returns tied to carbon credit generation; Blackstone raises $8.7 billion in one year for energy transition fund; Canada goes back to the drawing board for sustainable finance taxonomy’s proposed oil & gas-focused category;…",
+        "url": "https://www.esgtoday.com/esg-today-week-in-review-280/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-280",
+        "publishedAt": "2026-10-25T08:16:49.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Wind-Austria.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG News",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-dive-citi-closes-first-of-its-kind-72m-bond-f-2026-10-23",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -833,28 +855,6 @@
         "meta": {
           "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-issb-releases-proposed-nature-related-re-2026-10-22",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "ISSB Releases Proposed Nature-Related Reporting Requirements",
-        "excerpt": "The IFRS Foundation’s International Sustainability Standards Board (ISSB) announced the release of the initial exposure draft of its proposed nature-related disclosure requirements, designed to help companies provide material information to investors about nature-related risks and opportunities in a consistent and comparable manner. As previously communicated by the ISSB, the new reporting requirements were released in the form of a non-mandatory “Practice Statement,” although the ISSB said that in addition to seeking feedback on the content of the…",
-        "url": "https://www.esgtoday.com/issb-releases-proposed-nature-related-reporting-requirements/?utm_source=rss utm_medium=rss utm_campaign=issb-releases-proposed-nature-related-reporting-requirements",
-        "publishedAt": "2026-10-22T10:33:49.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/IFRS.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1478,6 +1478,28 @@
   },
   "articles": [
     {
+      "id": "esg-today-esg-today-week-in-review-2026-10-25",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "ESG Today: Week in Review",
+      "excerpt": "This week in ESG news: ISSB releases proposed nature-related corporate reporting requirements; Coca-Cola, Nestlé, Danone commit to improve packaging claims after EU greenwashing complaint; ESMA focuses sustainability reporting enforcement priorities on materiality, impacts, risks and opportunities disclosure; Citi creates bond with returns tied to carbon credit generation; Blackstone raises $8.7 billion in one year for energy transition fund; Canada goes back to the drawing board for sustainable finance taxonomy’s proposed oil & gas-focused category;…",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-280/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-280",
+      "publishedAt": "2026-10-25T08:16:49.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Wind-Austria.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG News",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-citi-closes-first-of-its-kind-72m-bond-f-2026-10-23",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1848,28 +1870,6 @@
       "meta": {
         "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-issb-releases-proposed-nature-related-re-2026-10-22",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "ISSB Releases Proposed Nature-Related Reporting Requirements",
-      "excerpt": "The IFRS Foundation’s International Sustainability Standards Board (ISSB) announced the release of the initial exposure draft of its proposed nature-related disclosure requirements, designed to help companies provide material information to investors about nature-related risks and opportunities in a consistent and comparable manner. As previously communicated by the ISSB, the new reporting requirements were released in the form of a non-mandatory “Practice Statement,” although the ISSB said that in addition to seeking feedback on the content of the…",
-      "url": "https://www.esgtoday.com/issb-releases-proposed-nature-related-reporting-requirements/?utm_source=rss utm_medium=rss utm_campaign=issb-releases-proposed-nature-related-reporting-requirements",
-      "publishedAt": "2026-10-22T10:33:49.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/IFRS.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
