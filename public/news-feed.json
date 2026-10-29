@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-10-29T14:00:58.973Z",
+  "fetchedAt": "2026-10-29T18:46:17.319Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 62,
-    "india": 17,
-    "world": 45,
-    "withImages": 59,
-    "avgExcerptLength": 458,
+    "india": 16,
+    "world": 46,
+    "withImages": 58,
+    "avgExcerptLength": 444,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -78,73 +78,97 @@
         "region": "india"
       },
       {
-        "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-10-22",
+        "id": "google-india-india-s-carbon-market-needs-more-than-a--2026-10-20",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
-        "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
-        "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
-        "publishedAt": "2026-10-22T16:54:52.000Z",
-        "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-catalysing-demand-suggestions-to-scale-u-2026-08-27",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Catalysing Demand: Suggestions to scale up green hydrogen in India - Renewable Watch",
-        "excerpt": "Expert Take Catalysing Demand: Suggestions to scale up green hydrogen in India Advertisment by Renewable Watch by Renewable Watch 27 Aug 2026 14:27 IST Updated 01 Oct 2026 02:29 IST Link copied! Copy failed! By Subhrajit Datta Ray, Partner Energy Transition and Decarbonisation, PwC India India has set two key milestones on energy security and transition: achieving energy independence by 2047 as part of the Viksit Bharat agenda, and reaching net zero emissions by 2070. To achieve these ambitions, India needs to continue its rapid expansion of renewable…",
-        "url": "https://renewablewatch.in/2026/08/27/catalysing-demand-suggestions-to-scale-up-green-hydrogen-in-india/",
-        "publishedAt": "2026-08-27T07:00:00.000Z",
-        "image": "https://img-cdn.publive.online/fit-in/1200x675/renewable-watch/media/media_files/wp-content/uploads/2026/08/Subhrajit-Datta-Ray.jpg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India’s carbon market needs more than a price signal - climate.economictimes.indiatimes.com",
+        "excerpt": "India’s Carbon Credit Trading Scheme is a major policy milestone, but it will not drive industrial decarbonisation on its own. Heavy industry will need cheaper finance, easier access to low-carbon technology and stable rules if the market is to translate into real emissions cuts.",
+        "url": "https://climate.economictimes.indiatimes.com/news/climate-finance-esg/indias-carbon-market-needs-more-than-a-price-signal/135070402",
+        "publishedAt": "2026-10-20T16:44:42.000Z",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135070402,imgsize-111468,width-1200,height=627,overlay-etclimate,resizemode-75/news/climate-finance-esg/indias-carbon-market-needs-more-than-a-price-signal.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjFfUFhWaFFzZnd1TnFweGpXS3Q3RUtqMHVscnAwdkZLcjQxYUktUVk5OTlYTlNlQ0ZWY0dJY1hEVTVTZVlUQ1RhMTZKeGJkdHFYbVZuaU91cFQwMnhIbEdJdXpiOWdteVlLdEJGOV9sNUtmU3NrZXNVb2tyU3Y5UnpxZmRhRjg1Q0U1LXRBRnRIWl9JWGJpZ1VoMW5WcXJtWW4wVGZR?oc=5",
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM1Q1LW9Zd1RmNXpHUkpRS3BlNUhlS2tnNjdJQm0yRGdGMXZpQVA1blAzU1l4UzBOMGxJbFRib0R2N3pDUVViNDFjREVxeExWQ3llZEZ1ODdaM3BDMEtWYl96b0pwYUlleWRJTGZfRHlFX0lKZ3BKbXNkbkV0MnNkdFUwal9hdUFsQVBVUXVSWTlpS0RjMTFfdWwtenowN0pKeFpoWE13UURGeVVaM1JSUlZ2VlA4TWp5Q1RLUWhnSDFVc090NzFPRGZhUQ?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
       },
       {
-        "id": "google-india-article-6-of-the-paris-agreement-climate-2026-08-17",
+        "id": "google-india-india-s-carbon-market-enters-the-trading-2026-10-18",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
-        "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
-        "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
-        "publishedAt": "2026-08-17T07:00:00.000Z",
-        "image": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/07/Article-6-of-the-Paris-Agreement.webp?v=1784286245",
-        "country": null,
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India's carbon market enters the trading floor, but questions remain - climate.economictimes.indiatimes.com",
+        "excerpt": "India is preparing to launch carbon credit trading for industrial units, with credits due to be issued this month and trading set to begin between November and January. The scheme, rooted in the Energy Conservation Act and reported by Bar and Bench, could reward cleaner factories and support India’s climate targets, but its success will depend on strict enforcement.",
+        "url": "https://climate.economictimes.indiatimes.com/news/climate-finance-esg/indias-carbon-market-enters-the-trading-floor-but-questions-remain/135029562",
+        "publishedAt": "2026-10-18T13:34:39.000Z",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135029562,imgsize-129628,width-1200,height=627,overlay-etclimate,resizemode-75/news/climate-finance-esg/indias-carbon-market-enters-the-trading-floor-but-questions-remain.jpg",
+        "country": "India",
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzAyMk9nMlh4QjdIS1hDczM4S1NPY2JrQU54dFFsZENLZTNtUUdCQzF0QmVsNXVZck5WYi1ZaWdLaDJOWU80QkdocERNZHpWWlVXRFBzMzFfWXhoU2ZVOHNxUlRGZWpXeFRPU2NvN2F0WG1CVWI3cmc1YnNQZml3RDVn?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLUgtcW9lUkpROEhZYlptTm5GQW9lRlQyZ0IxeTZZNWZEbmk2dGdydUxZalR5NTljWUJxaXQtYWZHRjhmNGhlM0QyQVBIakFMcFRDVWg5TGJheFZjVXc1ajNUNC14a3lXWm1pbFFqdHhRaGFXTTdYOWFwY3FKRmI1TlU4OFFLOWZJVTFGMzBrNEw4SkFnTnZaSnJIZ3NaU0pDY1l3RGtIdTJJSDd1b0JWZy0wRm5XTFFTbUQwMmtqUHpFeFF4VUJ0eDg2YXBuMmgwQXNHMFNfUmxBT0RWS2JV?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-subscriberwrites-hosting-the-table-how-i-2026-10-07",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "SubscriberWrites: Hosting the Table: How India Can Turn BRICS Carbon Credits into Global South Power - ThePrint",
+        "excerpt": "Thank you dear subscribers, we are overwhelmed with your response. Your Turn is a unique section from ThePrint featuring points of view from its subscribers. If you are a subscriber, have a point of view, please send it to us. If not, do subscribe here: https://theprint.in/subscribe/ T he BRICS summit in New Delhi is over. The leaders have gone home, the declarations have been released and the familiar language of cooperation, development and a fairer global order has once again filled the diplomatic record. On climate change, however, the real work…",
+        "url": "https://theprint.in/yourturn/subscriberwriteshosting-the-table-how-india-can-turn-brics-carbon-credits-into-global-south-power/3064160/",
+        "publishedAt": "2026-10-07T07:00:00.000Z",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/1002411058-1-e1791363207978.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWkVuamZGUl8wLThlZ0VWNHd6aTUtSEpSOHd6Yk5CMERvOEJBN2k3MkJtNDdIWnJWN0t3X0xXaUFPenFMV1ZaRHlIRGdsR2N1OE52U3gtQ2FRLTlYbFk5MGRCY0xxTjFCTEhJWnUyUTdPVEVYREtmeVpNMXUyR1FOTFNHMGNVTXFLc3VKcDl1X2lid3c1aEg2dVA1OG9uTVNhVjlIUGNydHY3amFfR0ZLeTNvUGd5dHI1YU53ZWZSN2s4eWE4UEEzN2JxN0k2MWh60gHWAUFVX3lxTFBnMTlkY3hkWFNSM3ZrdWVhSTI5WWtTdVZNX0RxZm9ITV9mUGxQSFBlc2dpM2lMMl9DeXRWeU1zV3NseVREd0IyU2NrRTRHb01yUzZfaFVlRmdJZ2h4Q09WMUZFMEdoUDRVRDk3REFjUm1NWVViZXBWaXFETnc5Wk9sNENuV3AzSi03R2ZaUExCUHBOdTh2QUJna3hacnJpQ01OOE5qYUlVUGFCMUR5cWhzYnNSLTBQSkxkOHg1NER5cWNiZXhfN0lrU0dpR1FZaDlIR0ZxRlE?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-brics-backs-carbon-market-cooperation-wh-2026-09-12",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - Down To Earth",
+        "excerpt": "Copied Listen to this article Summary BRICS leaders at the New Delhi Summit backed a BRICS Carbon Markets Partnership to share expertise, build capacity and link carbon markets with climate finance, while firmly opposing unilateral CBAMs by the EU and UK. India’s CCTS gaining UK recognition highlights both new export competitiveness opportunities and compliance challenges, especially for MSMEs facing demanding measurement and verification rules. The BRICS countries have backed greater cooperation on carbon markets, including implementation of a BRICS…",
+        "url": "https://www.downtoearth.org.in/climate-change/brics-backs-carbon-market-cooperation-while-opposing-unilateral-cbam",
+        "publishedAt": "2026-09-12T07:00:00.000Z",
+        "image": "https://cf-images.assettype.com/downtoearth%2F2026-09-12%2Fjp65n8yf%2FBRICS.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWlsbkJrSXFVZlpWOFQzNkt1YTRPVFc0VWxYSnhDNE9aLWV0VHcyMGdyTFFsc3ZrTU05MTNWb3pGcEstQS1lOFVabjl1SnJyQW1lSUlKN2MtUm84WFFWUm1BQktvZFdkS1h2clRud2dJYnl5TVFBanJpOUxmMExZWkRQUnR1SU5nUkNKUEJRVFV4aHhRemF1QVBaTlBxY3hJTzN0bnhIVTBKUDNGZWhzTTI5TFnSAcIBQVVfeXFMT0dxTXQtNF9HM1BtdDR5Qko5SW82Qlc3YWp4S0VySjlFTzlKYjQ2N1I4MlZaZTdyemxLWTN0bUxyY0xQY2c2WEQxdW5NQkV0dUpMd2gtWTlsUTBES01raXJydEtQbk9sRDR1T1Rpa1FOQjNXdm5LRk5fMTFTYkJtT2dwblVPZFI4Y2pqVDQtUzJoSHRjYy0xakNrZDFjbTRVNFI2ZXZWcFVxSm1ITUR4Xy1pZ0RuMU5FS0VVSEJLT1I3T0E?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -174,30 +198,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-s-carbon-market-targets-too-weak-t-2026-07-29",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India’s carbon market targets too weak to drive industrial transformation: Report - Down To Earth",
-        "excerpt": "Published on : 29 Jul 2026, 8:48 am Copied Listen to this article Summary India’s proposed Carbon Credit Trading Scheme will not deliver transformational industrial decarbonisation, experts warn. New report shows far more ambitious emissions intensity targets needed. Current rules demand only 2–5% cuts by 2026-27 for steel, cement and aluminium. The scheme relies on low carbon prices and weak governance, excludes the power sector. India's proposed Carbon Credit Trading Scheme (CCTS) is unlikely to drive transformational change in industrial…",
-        "url": "https://www.downtoearth.org.in/climate-change/indias-carbon-market-targets-too-weak-to-drive-industrial-transformation-report",
-        "publishedAt": "2026-07-29T07:00:00.000Z",
-        "image": "https://cf-images.assettype.com/downtoearth%2F2026-07-29%2Fzyahznkg%2FIndia-industry-smoke-emissions-carbon-market?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFlRczlOUHRvTnNOVnl1V3AtRlJHVm1xLUpqb2MxTXJQRzdFUF9Kdmw0M3ZVTHJRcURGaXNjMWRuV0NEQWNjNkFrT3dBWm5VbFRJcnM4ZW5FeUJKTUdYeG9jUVU4OXFJQWVBR3JrVGhMcTk3LUZSdUxJLUlhbkZiTmtGYjZIaTI0aDI1a0MwTTJ3VF9sbGlqQXZMa05VTFhDSVJLUkNkaXc1X3pLVmxYQUtuWUh0MzgteFZsakZfVDB4RVnSAdABQVVfeXFMUE90eUNTTWg2QXJ4ZVFMUzI5cGxJVmNwc3dBdjNJMF9QTG1OVjNRNUFkLTdYdHNPMGtPY1V3Y05Qa1JPWmZCMGJMdjJ5V0psYjN6azBLSWhmNTJ2dEN6Q2s4d2E0b3ZHLUIzNXNOQ1NmQkFnSGxqNERCZy1mRGxVbzZnek44TWlpX01OLWlhdXZYdURLWU5abXFsakkyNlR1RC1UdFNZV1lOa1MyVDBQeXZMN2M5eUdlbmQ3ZU9lU0t4SEJLNHZDSEhCRTF1Y3hEWA?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-india-s-green-hydrogen-plans-gain-pace-b-2026-07-28",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -221,6 +221,30 @@
         "region": "india"
       },
       {
+        "id": "google-india-most-zombie-credits-locked-out-of-new-un-2026-07-17",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - Climate Home News",
+        "excerpt": "Matteo Civillini Reporter Editing: Joe Lo X (Twitter) Facebook LinkedIn WhatsApp Email Print China and India have declined to back any of their old United Nations carbon credit projects seeking to sell offsets under the new UN market, driving a cull of nearly three-quarters of applicants, analysis of official data shows. Only 415 out of more than 1,500 projects and programmes hoping to move from the Clean Development Mechanism (CDM) to the new carbon market set up under Article 6.4 of the Paris Agreement won the approval of their host governments by the…",
+        "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
+        "publishedAt": "2026-07-17T07:00:00.000Z",
+        "image": "https://www.climatechangenews.com/wp-content/files/2026/07/GettyImages-991792894-1440x954.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUlVUGJ4V2U0aFhFRmw1QjdOTXBobGJDSGlLb2podFdaVnZBcTlKMVBsQmJVX0lKcmhnY253OUJMbEstcml4OXRfN1EtQWxUVi1KSkY0bktfLWx3SzRXVnZfYklyOUZlaVR5QmRfZUJUUllwVHpzX2w0cFRWeWV0bUVlUlNINlF3VlF4NlJWQjcwbExPbnRtazZ1VW5Yb0pSRHZ0SFlJNkltZzk2RVJTN09SRng4ZXd5eVhWRVdVbzJpRndfS2c?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-14",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -240,30 +264,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vd210Z0lYcEl0RUVyU2FzZVM5WE9QVFJUNTgxMVFaTDNocFRmVmdLbnpUeFJfSWhVMEZDSUxpaG9SNjFyZ2xpNWFIVjEyT3FieHdzUjdoZmg4SEo4WnhjRlVpV2Q0c3J2UEk4Qmw4QzB3UW5pMThTNjJsQkpFNWM?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-india-s-carbon-credit-trading-scheme-a-s-2026-07-14",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India's Carbon Credit Trading Scheme: A strong start, critical design choices ahead - Institute for Energy Economics and Financial Analysis (IEEFA)",
-        "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language Decarbonization Energy Transition &…",
-        "url": "https://ieefa.org/articles/indias-carbon-credit-trading-scheme-strong-start-critical-design-choices-ahead",
-        "publishedAt": "2026-07-14T05:40:13.000Z",
-        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTlicVN3VGw3eTQ1V2xzOS0zWnc2QlhQU1lpM3ppUDVYeHB0UGxFWDB3ZDNCRDh1SHlxSHh4cjZ0bk1ZU0RzUDdSN0dELVlxWHhVRU9nSzdaeWRraDYycFF2UzRjLUFIcmlGblNYODFDU010U2tGQzdKRUZlX1BMZ2VRbXpYeEpzNy1oNjVrNmZjV3ZZQkpnWWZpTUZ0ZHVYWDUyMXpDUU0?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -293,41 +293,41 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-among-biggest-new-carbon-markets-a-2026-05-21",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
+        "id": "google-h2-gaining-momentum-green-hydrogen-emerges--2026-06-11",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
         "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India among biggest new carbon markets as global carbon pricing covers 29 per cent of emissions - Down To Earth",
-        "excerpt": "Copied Listen to this article India has emerged as one of the world’s largest new carbon markets with the launch of its Carbon Credit Trading Scheme in 2026, as global carbon pricing systems now cover 29 per cent of greenhouse gas (GHG) emissions and annual revenues from emissions trading systems and carbon taxes crossed $107 billion in 2025, according to a new World Bank report. The report , State and Trends of Carbon Pricing 2026 , says India’s new emissions trading system currently covers seven sectors and around 490 industries, with estimated…",
-        "url": "https://www.downtoearth.org.in/climate-change/india-among-biggest-new-carbon-markets-as-global-carbon-pricing-covers-29-per-cent-of-emissions",
-        "publishedAt": "2026-05-21T07:00:00.000Z",
-        "image": "https://cf-images.assettype.com/downtoearth%2F2026-05-21%2Fdyvuz5m8%2FWorld-Bank.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition - Renewable Watch",
+        "excerpt": "Spotlight Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition Advertisment by Renewable Watch by Renewable Watch 11 Jun 2026 14:43 IST Link copied! Copy failed! By Nidhi Dua Green hydrogen is emerging as a key pillar of India s transition towards a low-carbon economy, with the country increasingly focusing on building a domestic production and manufacturing ecosystem. Backed by India s rapidly expanding renewable energy capacity, the sector is witnessing growing momentum with developments across the entire value chain.…",
+        "url": "https://renewablewatch.in/2026/06/11/gaining-momentum-green-hydrogen-emerges-as-a-key-pillar-of-indias-energy-transition/",
+        "publishedAt": "2026-06-11T07:00:00.000Z",
+        "image": "https://img-cdn.publive.online/fit-in/1200x675/renewable-watch/media/media_files/wp-content/uploads/2026/06/36.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaV9LeHJRbDJwR3JaMzlENTN6VnFjVkxnODZxTjF6dDNqckhWbkszaGZoTjFjZGdvNENTUGM5R200LUhja1Nxb3NBU0MyRGU2R29kTU1hdXVDbGs5VEV2S2NnU0Z2ZUlJSFU1RmEweS1Wd3F0M2dwcnpzc1hHTkdLNm9yTUJSd1NFRWtiS0FFb0RhYUJYRkJWVlBxVUVGVGhSRUxQblVFdldmMnVVeW0wNDZyU2xLRFhIVnZzc2NZSE85cHEwSmtLOTE4M255OFdjYmg0STZIelbSAeYBQVVfeXFMTXEzTVRuRVVyTFljbXJxMnV4a2RuSE5qamF1UFpIRkFTOTJESmcxQ3dBWmlKbUhhUlBuM1JKLV9EMnhWSlJITTB3ZDlQeWFUNV9IbzBvajVCZDZFQ3hfOW9pUDJnY3NqdlExaHJjYWt1V1N3MThBMUtYSGFsZjJweDl2WlFxNjYzZmtSZzdpRnpqYnNSYWpoUEIwZlg0YVczcXNTZGpoNm0wYmhIR1RNVDM3Qk1kMzZMSFJnQ3hlZGZWeTdub2Zzem0wLUQ2S29Bb3NJaVNNeXc3RDdoa2JURGROTmt6aVE?oc=5",
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRGYzWjJVeXNkbzdpcE11TFBlUzVyUFN5SnV0eWRQRVdBeWdyY3plXzhtVlo0T0hReW4yTWV0V0N6YTJRMjlTZUVnQ3AtcjZLYzNrWmpsYnJZMlBJZWFCX08tYXVzZG5BRmxXak80YzJ3bFIxS1dmOERnTURUWmdfOHJXVXY2NUFMOWpkQ0l6Q1VrYlljdWtsRm9rZ1ZUYXMwbC16SlpqZVV1bEh4OHZUUUVIek94QVRCd0dFbXJn?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
       },
       {
-        "id": "google-india-residential-training-programme-on-carbon-2026-04-24",
+        "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "Residential Training Programme on: Carbon Accounting, MRV and Trading - cseindia.org",
-        "excerpt": "About Us Who We Are Our Board Our Leadership Annual Reports Programmes Biodiversity and Food Overview My Food Story The Green Kitchen Clean Air and Sustainable Mobility Overview Air Quality and Public Health Public Transport and Mobility Vehicle Technology and Fuel City Action Training EPCA Climate Change and Green Economy Overview COPs COP30 COP29 COP28 UAE Negotiations Carbon Politics Adaptation Environment Monitoring Laboratory Environment Education Overview YOUNG Environmentalist GSP University Programme Green Educators' Network Renewable Energy…",
-        "url": "https://www.cseindia.org/residential-training-programme-on-carbon-accounting-mrv-and-trading-13085",
-        "publishedAt": "2026-04-24T11:04:08.000Z",
-        "image": "https://cdn.cseindia.org/medium/2026-04-24/0.34649300_1777028381_mrv.jpg",
+        "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
+        "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
+        "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
+        "publishedAt": "2026-06-05T07:00:00.000Z",
+        "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -335,7 +335,31 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnNmZTEwd0xUakRpWVU5aVR5RExBTDc4SGlXaE9FWEZja3l4VXNtY2NCTEUxdGl3WHBmakcwVXY1eWlUTXQ2Mmk0X0F4dVZ1Szc1NEhMU3pweGRDcXVjLTZvNHI1QzM2UzF5Y3lSQWNfeFJMYVhZWVpWZ1JtX2xDYmZObjVxNXNiOG80QnQzVlhvREdJam9fbWs4QVZzcDA?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-carbon-market-effectiveness-in-emerging--2026-05-05",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Carbon Market Effectiveness in Emerging Economies - CEEW",
+        "excerpt": "This paragraph is completely hidden and takes up no space. This paper examines how emerging economies can design effective emissions trading systems (ETSs), drawing on insights from a KAPSARC-CEEW workshop and a comparative analysis of China, India, Viet Nam, and Türkiye. It finds that these systems benefit from alignment with national development goals and generally adopt phased implementation, often beginning with intensity-based targets, free allocation, and limited coverage to balance economic and environmental goals. Over time, ETSs tend to evolve…",
+        "url": "https://www.ceew.in/publications/carbon-market-effectiveness-emerging-economies",
+        "publishedAt": "2026-05-05T07:00:00.000Z",
+        "image": "https://www.ceew.in/sites/default/files/Screenshot%202026-05-05%20160541.png",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmNDN2pOVmRTd1lBOFpkbXdsU3FuMDMyWE5pS2RGMnR0TWI0RklzUmxsSExfcHk5WGx4REUwY3pFUTlSOHhXaVd4RGNNZTNYeXA4YTBqdm5qNXZ2TW1MbDRJbzFoMFh1alMzaV9kSGlxT09UY08tSUZ4VFJsVW15aFQ4cWVIdw?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -360,30 +384,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-how-can-carbon-markets-scale-durable-car-2026-03-19",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "How can Carbon Markets Scale Durable Carbon Dioxide Removal in India? - CEEW",
-        "excerpt": "Suggested Citation: Kesh, Christi, Srishti Singh, Darshna Singh, Aparna Sharma, Vaibhav Chaturvedi, and Asitava Sen. 2026. How can Carbon Markets Scale Durable Carbon Removal in India? New Delhi: Council on Energy, Environment and Water and Carbon Removal India Alliance. Achieving the goals of the Paris Agreement will require more than emissions reduction, as legacy carbon dioxide already accumulated in the atmosphere will continue to drive warming unless it is actively removed and durably stored. Durable carbon dioxide removal (CDR), including pathways…",
-        "url": "https://www.ceew.in/publications/carbon-markets-in-india%3A-pathways-to-durable-carbon-removal",
-        "publishedAt": "2026-03-19T07:00:00.000Z",
-        "image": "https://www.ceew.in/sites/default/files/Screenshot%202026-03-19%20091357.png",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcjlHYzFVdS1rMDJtWjlMWXp6emd1OEhoZkRqRlVhNUx6OFNFNk10cVFaR3gzTmdhRGVWWkxxOXRrRExTdVd0ZDJtVGdBdEFJdGRuRWtEZGM1ak1TejFHVUdLQ0F0c2NCeWtqU05Jb0NRM3VjSng5Y185V2xQQUxrbTBkUFVHSVVUUTJncjhmTzlOS1VBX29HRUtR?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -434,33 +434,142 @@
           "imageSource": "publisher"
         },
         "region": "india"
+      }
+    ],
+    "world": [
+      {
+        "id": "verra-verra-releases-new-resources-for-arr-pro-2026-10-29",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Releases New Resources for ARR Projects",
+        "excerpt": "Verra has published two new resources related to Verified Carbon Standard (VCS) methodology VM0047 Afforestation, Reforestation, and Revegetation . These support project proponents using VM0047 , as well as the validation/verification bodies (VVBs), in better understanding and applying the methodology s requirements throughout the project development and review processes. Verra intends to release similar resources for other methodologies over the coming months. Please provide any feedback or suggestions for further improvement of this resource to…",
+        "url": "https://verra.org/verra-releases-new-resources-for-arr-projects/",
+        "publishedAt": "2026-10-29T17:35:40.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/10/pexels-phat-nguy-110224443-11185515-scaled-e1793291483339.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
       },
       {
-        "id": "google-h2-financing-green-hydrogen-in-india-ceew-2024-06-18",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
+        "id": "esg-dive-salesforce-s-new-carbon-credit-deal-give-2026-10-29",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
         "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Financing Green Hydrogen in India - CEEW",
-        "excerpt": "Suggested Citation: CFLI India and CEEW. 2024. Financing Green Hydrogen in India: Private Sector Considerations to Strengthen India’s Enabling Environment for a Competitive Green Hydrogen Economy. New Delhi: Council on Energy, Environment and Water (CEEW) This report presents actionable private sector considerations for Indian policymakers at both the national and state levels to strengthen the enabling environment for green hydrogen uptake in India while also catalysing investment into the industry. These considerations align with the MNRE's mission…",
-        "url": "https://www.ceew.in/publications/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing",
-        "publishedAt": "2024-06-18T07:56:44.000Z",
-        "image": "https://www.ceew.in/sites/default/files/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing.png",
-        "country": "India",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Salesforce’s new carbon credit deal gives sustainable rice farming a boost",
+        "excerpt": "The cloud-based software company will purchase 500,000 methane reduction credits from climate startup Mitti Labs while also helping scale sustainable rice farming practices.",
+        "url": "https://www.esgdive.com/news/salesforces-mitti-labs-carbon-credit-deal-gives-sustainable-rice-farming-a-boost/873210/",
+        "publishedAt": "2026-10-29T16:47:42.000Z",
+        "image": "https://imgproxy.divecdn.com/KrkKLPgSVvq3VBU-_Flzza3XSPnzeIdqgJ6EFV2JYCI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDEyNDg2ODEzLmpwZw==.webp",
+        "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRl9DX0pMc092cjI1eUdtOFNfLWpjVGZrbzZpaWt5ZlBRek1ieDFEZmJtQzRWcW1PNXJRVmRVUEZoc1lzZzlpclFiVGhSRjdkRS1KckpPdlh4U2ZmalpzR3dFRHo2VmxpZWdpYWlfdjA2cm9ReVZrcm1EZjNMb0dDZWRLZlpwLUJ3X0IyUG4zbE5vVzRUUkpCQXROZ3JoeWlhNlhVNTAxM0RoeTZ4VnFuOWdtN290dEE?oc=5",
-          "imageSource": "publisher"
+          "feed": "https://www.esgdive.com/feeds/news/"
         },
-        "region": "india"
-      }
-    ],
-    "world": [
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-sustainable-conversions-require-thoughtf-2026-10-29",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Sustainable conversions require thoughtful material reuse: experts",
+        "excerpt": "A project in Midtown Manhattan highlights one way to turn an underperforming office building into housing using sustainable adaptive reuse.",
+        "url": "https://www.esgdive.com/news/sustainable-conversions-require-thoughtful-material-reuse-greenbuild/873184/",
+        "publishedAt": "2026-10-29T15:50:57.000Z",
+        "image": "https://imgproxy.divecdn.com/IXacI0VVhtqJokivNud9a7jI1YFTqLhBAVY89K7rC9Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzcyNDg2MjUuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-clarity-ai-launches-new-solution-to-enab-2026-10-29",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Clarity AI Launches New Solution to Enable Investors to Assess Companies’ Progress on Climate Goals",
+        "excerpt": "Sustainability data and analytics company Clarity AI announced the launch of Transition Credibility Assessment, a new solution aimed at enabling investors evaluate whether companies are making progress towards their climate goals. According to Clarity AI, the new solution comes as corporate climate targets are widespread, but evidence of delivery remains uneven, even as investors put a greater emphasis on implementation, creating pressure to distinguish between companies delivering on their climate commitments and those that are falling short. Alice…",
+        "url": "https://www.esgtoday.com/clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals/?utm_source=rss utm_medium=rss utm_campaign=clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals",
+        "publishedAt": "2026-10-29T15:15:29.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Clarity-AI-assessment.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-experts-what-china-wants-from-the-cop31--2026-10-29",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Experts: What China wants from the COP31 climate talks",
+        "excerpt": "Share With the COP31 climate summit in Turkey looming, all eyes are on China to see what the country will push for in the negotiations. At COP30 last year, China helped to secure a “dialogue” on climate-related “ unilateral trade measures ”, as well as a two-year “work programme” concerning climate finance. The nation also championed south-south cooperation throughout the conference and co-led a summit on methane, alongside Brazil and the UK. In a recent press conference , China’s environment vice-minister Li Gao noted the need to “uphold…",
+        "url": "https://www.carbonbrief.org/experts-what-china-wants-from-the-cop31-climate-talks",
+        "publishedAt": "2026-10-29T14:25:40.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/china-06.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-dupont-unveils-sbti-validated-net-zero-t-2026-10-29",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "DuPont Unveils SBTi-Validated Net Zero Targets",
+        "excerpt": "Multinational chemicals company DuPont announced a series of new emissions reduction targets, including goals to achieve net zero emissions across its value chain by 2050. The company said that its new 2050 and interim climate goals have been approved by the Science Based Targets initiative (SBTi), and follow the achievement of its previous SBTi-validated 2030 emissions-reduction target ahead of schedule. DuPont’s new long-term goals include targets to reduce absolute Scope 1 and 2 GHG emissions by 90% by 2050, from a 2019 base year, and Scope 3…",
+        "url": "https://www.esgtoday.com/dupont-unveils-sbti-validated-net-zero-targets/?utm_source=rss utm_medium=rss utm_campaign=dupont-unveils-sbti-validated-net-zero-targets",
+        "publishedAt": "2026-10-29T14:21:10.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/DuPont.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-over-80-of-institutional-investors-plan--2026-10-29",
         "source": "esg-today",
@@ -722,50 +831,6 @@
         "status": null,
         "meta": {
           "category": "Sustainable Finance",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-microsoft-signs-clean-energy-deals-in-ja-2026-10-28",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Microsoft Signs Clean Energy Deals in Japan with Macquarie’s Blueleaf",
-        "excerpt": "Macquarie Asset Management-owned pan-Asian renewable energy platform Blueleaf Energy announced today that it has signed two long-term power purchase agreements (PPAs) with Microsoft for new solar projects in Japan Under the new agreements, coordinated by Macquarie’s Energy Markets and Customer Solutions team, Microsoft will serve as the sole offtaker of electricity generated by the projects. The deal marks the continuation of a collaboration between Macquarie and Microsoft, with agreements in place representing a combined 540 MW of wind and solar…",
-        "url": "https://www.esgtoday.com/microsoft-signs-clean-energy-deals-in-japan-with-macquaries-blueleaf/?utm_source=rss utm_medium=rss utm_campaign=microsoft-signs-clean-energy-deals-in-japan-with-macquaries-blueleaf",
-        "publishedAt": "2026-10-28T11:30:37.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Microsoft3.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-sweep-climatiq-partner-on-supply-chain-p-2026-10-28",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Sweep, Climatiq Partner on Supply Chain Product Carbon Footprint Solution",
-        "excerpt": "Enterprise sustainability data management platform Sweep and carbon intelligence solutions provider Climatiq announced a new partnership aimed at enabling companies to request and receive product carbon footprints (PCFs) from suppliers. According to Sweep and Climateiq, the new partnership comes as emerging sustainability reporting regulations, such as the EU’s CSRD and California’s SB253 are pressuring companies to move Scope 3 reporting beyond generic, spend-based industry averages, while many of their suppliers have never calculated a product carbon…",
-        "url": "https://www.esgtoday.com/sweep-climatiq-partner-on-supply-chain-product-carbon-footprint-solution/?utm_source=rss utm_medium=rss utm_campaign=sweep-climatiq-partner-on-supply-chain-product-carbon-footprint-solution",
-        "publishedAt": "2026-10-28T09:23:35.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Sweep-ClimatIQ.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
           "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
@@ -1083,28 +1148,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-ikea-accused-of-harmful-wood-sourcing-in-2026-10-23",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Ikea accused of harmful wood sourcing in Europe’s forests",
-        "excerpt": "Greenpeace International alleges the furniture maker which has long faced backlash over its sourcing is falling short in its efforts to protect biodiversity.",
-        "url": "https://www.esgdive.com/news/ikea-accused-of-harmful-wood-sourcing-in-europes-forests/833829/",
-        "publishedAt": "2026-10-23T16:01:00.000Z",
-        "image": "https://imgproxy.divecdn.com/JV0jXkQyuLmiT9gtyESLyZMwXmTFWcHni-KMxLeH4rw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjM1OTgwMzg1LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-chart-a-record-two-thirds-of-car-sales-i-2026-10-23",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1145,50 +1188,6 @@
         "meta": {
           "category": "Announcements",
           "feed": "https://verra.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-esg-has-matured-from-crisis-response-to--2026-10-23",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "ESG has matured from crisis response to operational discipline",
-        "excerpt": "As regulations shift and risks abound, companies have to move their ESG programs from a reactive to a proactive stance, according to an Avetta executive.",
-        "url": "https://www.esgdive.com/news/esg-has-matured-from-crisis-response-to-operational-discipline/833821/",
-        "publishedAt": "2026-10-23T13:52:00.000Z",
-        "image": "https://imgproxy.divecdn.com/2Tx_kQkAJmO3VbVFIcwXBIgvdYtFe2t_IpXu99SupRY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzk3NjEwMzQ1LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-experts-how-are-climate-scientists-using-2026-10-22",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Experts: How are climate scientists using artificial intelligence?",
-        "excerpt": "Share Artificial intelligence (AI) is developing at a rapid pace and is increasingly being used by scientists to better understand climate change. AI is perhaps best-known for its use in “large language models”, such as ChatGPT, Claude and Gemini. From weather forecasting to analysing satellite images, climate scientists are using various types of AI to develop faster and more efficient ways to study the warming planet. However, the technology comes with no shortage of risks and challenges, including overreliance on unverified results, intensive energy…",
-        "url": "https://www.carbonbrief.org/experts-how-are-climate-scientists-using-artificial-intelligence",
-        "publishedAt": "2026-10-22T10:45:03.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/10/E4DXEJ.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -1262,29 +1261,6 @@
         "region": "world"
       },
       {
-        "id": "verra-verra-ifm-methodology-now-eligible-under-2026-10-13",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra IFM Methodology Now Eligible under Singapore’s International Carbon Credit Framework",
-        "excerpt": "The government of Singapore recently whitelisted Verified Carbon Standard (VCS) Program methodology VM0010 Methodology for Improved Forest Management: Conversion from Logged to Protected Forest as eligible for use under Singapore s International Carbon Credit (ICC) Framework . With this addition, three VCS methodologies for forest carbon projects are now included under Singapore’s ICC Framework. VCS Program methodologies VM0048 Reducing Emissions from Deforestation and Forest Degradation and VM0047 Afforestation, Reforestation, and Revegetation were…",
-        "url": "https://verra.org/verra-ifm-methodology-now-eligible-under-singapores-international-carbon-credit-framework/",
-        "publishedAt": "2026-10-13T15:57:16.000Z",
-        "image": "https://verra.org/wp-content/uploads/2026/10/pexels-henry-39864899-scaled-e1792071353840.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-verra-and-gold-standard-unveil-new-digit-2026-08-25",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1329,6 +1305,29 @@
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ09FZGNoVXQ2Q2ZPeVo5ZUY1UzV4ZWZvYm1nZlE5U1BiRFpPU3g5aUhPT1pMV0s5TXBRaHRZckdSV3d2bFVkYWV1YkdJeldsQnZPa3NtWWo1WHpBTVRjWE9OTlVEb1NKQm1mUTJFVTFVSFMzM19zT0h3LVFaMmxfZVN5U2dsOVQ0Wm9tbFJfUWFfWHRYazhxd3NfSFJ0bENvR0MwZg?oc=5",
           "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-h2-a-new-era-of-green-mobility-a-milestone--2026-08-06",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
+        "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
+        "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
+        "publishedAt": "2026-08-06T07:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5"
         },
         "region": "world"
       },
@@ -1479,6 +1478,139 @@
     ]
   },
   "articles": [
+    {
+      "id": "verra-verra-releases-new-resources-for-arr-pro-2026-10-29",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Releases New Resources for ARR Projects",
+      "excerpt": "Verra has published two new resources related to Verified Carbon Standard (VCS) methodology VM0047 Afforestation, Reforestation, and Revegetation . These support project proponents using VM0047 , as well as the validation/verification bodies (VVBs), in better understanding and applying the methodology s requirements throughout the project development and review processes. Verra intends to release similar resources for other methodologies over the coming months. Please provide any feedback or suggestions for further improvement of this resource to…",
+      "url": "https://verra.org/verra-releases-new-resources-for-arr-projects/",
+      "publishedAt": "2026-10-29T17:35:40.000Z",
+      "image": "https://verra.org/wp-content/uploads/2026/10/pexels-phat-nguy-110224443-11185515-scaled-e1793291483339.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-salesforce-s-new-carbon-credit-deal-give-2026-10-29",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Salesforce’s new carbon credit deal gives sustainable rice farming a boost",
+      "excerpt": "The cloud-based software company will purchase 500,000 methane reduction credits from climate startup Mitti Labs while also helping scale sustainable rice farming practices.",
+      "url": "https://www.esgdive.com/news/salesforces-mitti-labs-carbon-credit-deal-gives-sustainable-rice-farming-a-boost/873210/",
+      "publishedAt": "2026-10-29T16:47:42.000Z",
+      "image": "https://imgproxy.divecdn.com/KrkKLPgSVvq3VBU-_Flzza3XSPnzeIdqgJ6EFV2JYCI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDEyNDg2ODEzLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-sustainable-conversions-require-thoughtf-2026-10-29",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Sustainable conversions require thoughtful material reuse: experts",
+      "excerpt": "A project in Midtown Manhattan highlights one way to turn an underperforming office building into housing using sustainable adaptive reuse.",
+      "url": "https://www.esgdive.com/news/sustainable-conversions-require-thoughtful-material-reuse-greenbuild/873184/",
+      "publishedAt": "2026-10-29T15:50:57.000Z",
+      "image": "https://imgproxy.divecdn.com/IXacI0VVhtqJokivNud9a7jI1YFTqLhBAVY89K7rC9Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzcyNDg2MjUuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-clarity-ai-launches-new-solution-to-enab-2026-10-29",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Clarity AI Launches New Solution to Enable Investors to Assess Companies’ Progress on Climate Goals",
+      "excerpt": "Sustainability data and analytics company Clarity AI announced the launch of Transition Credibility Assessment, a new solution aimed at enabling investors evaluate whether companies are making progress towards their climate goals. According to Clarity AI, the new solution comes as corporate climate targets are widespread, but evidence of delivery remains uneven, even as investors put a greater emphasis on implementation, creating pressure to distinguish between companies delivering on their climate commitments and those that are falling short. Alice…",
+      "url": "https://www.esgtoday.com/clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals/?utm_source=rss utm_medium=rss utm_campaign=clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals",
+      "publishedAt": "2026-10-29T15:15:29.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Clarity-AI-assessment.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-experts-what-china-wants-from-the-cop31--2026-10-29",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Experts: What China wants from the COP31 climate talks",
+      "excerpt": "Share With the COP31 climate summit in Turkey looming, all eyes are on China to see what the country will push for in the negotiations. At COP30 last year, China helped to secure a “dialogue” on climate-related “ unilateral trade measures ”, as well as a two-year “work programme” concerning climate finance. The nation also championed south-south cooperation throughout the conference and co-led a summit on methane, alongside Brazil and the UK. In a recent press conference , China’s environment vice-minister Li Gao noted the need to “uphold…",
+      "url": "https://www.carbonbrief.org/experts-what-china-wants-from-the-cop31-climate-talks",
+      "publishedAt": "2026-10-29T14:25:40.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/07/china-06.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-dupont-unveils-sbti-validated-net-zero-t-2026-10-29",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "DuPont Unveils SBTi-Validated Net Zero Targets",
+      "excerpt": "Multinational chemicals company DuPont announced a series of new emissions reduction targets, including goals to achieve net zero emissions across its value chain by 2050. The company said that its new 2050 and interim climate goals have been approved by the Science Based Targets initiative (SBTi), and follow the achievement of its previous SBTi-validated 2030 emissions-reduction target ahead of schedule. DuPont’s new long-term goals include targets to reduce absolute Scope 1 and 2 GHG emissions by 90% by 2050, from a 2019 base year, and Scope 3…",
+      "url": "https://www.esgtoday.com/dupont-unveils-sbti-validated-net-zero-targets/?utm_source=rss utm_medium=rss utm_campaign=dupont-unveils-sbti-validated-net-zero-targets",
+      "publishedAt": "2026-10-29T14:21:10.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/DuPont.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-salesforce-signs-500-000-ton-superpollut-2026-10-29",
       "source": "esg-today",
@@ -1762,50 +1894,6 @@
       "status": null,
       "meta": {
         "category": "Sustainable Finance",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-microsoft-signs-clean-energy-deals-in-ja-2026-10-28",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Microsoft Signs Clean Energy Deals in Japan with Macquarie’s Blueleaf",
-      "excerpt": "Macquarie Asset Management-owned pan-Asian renewable energy platform Blueleaf Energy announced today that it has signed two long-term power purchase agreements (PPAs) with Microsoft for new solar projects in Japan Under the new agreements, coordinated by Macquarie’s Energy Markets and Customer Solutions team, Microsoft will serve as the sole offtaker of electricity generated by the projects. The deal marks the continuation of a collaboration between Macquarie and Microsoft, with agreements in place representing a combined 540 MW of wind and solar…",
-      "url": "https://www.esgtoday.com/microsoft-signs-clean-energy-deals-in-japan-with-macquaries-blueleaf/?utm_source=rss utm_medium=rss utm_campaign=microsoft-signs-clean-energy-deals-in-japan-with-macquaries-blueleaf",
-      "publishedAt": "2026-10-28T11:30:37.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Microsoft3.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-sweep-climatiq-partner-on-supply-chain-p-2026-10-28",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Sweep, Climatiq Partner on Supply Chain Product Carbon Footprint Solution",
-      "excerpt": "Enterprise sustainability data management platform Sweep and carbon intelligence solutions provider Climatiq announced a new partnership aimed at enabling companies to request and receive product carbon footprints (PCFs) from suppliers. According to Sweep and Climateiq, the new partnership comes as emerging sustainability reporting regulations, such as the EU’s CSRD and California’s SB253 are pressuring companies to move Scope 3 reporting beyond generic, spend-based industry averages, while many of their suppliers have never calculated a product carbon…",
-      "url": "https://www.esgtoday.com/sweep-climatiq-partner-on-supply-chain-product-carbon-footprint-solution/?utm_source=rss utm_medium=rss utm_campaign=sweep-climatiq-partner-on-supply-chain-product-carbon-footprint-solution",
-      "publishedAt": "2026-10-28T09:23:35.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/10/Sweep-ClimatIQ.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
         "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
@@ -2123,28 +2211,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-ikea-accused-of-harmful-wood-sourcing-in-2026-10-23",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Ikea accused of harmful wood sourcing in Europe’s forests",
-      "excerpt": "Greenpeace International alleges the furniture maker which has long faced backlash over its sourcing is falling short in its efforts to protect biodiversity.",
-      "url": "https://www.esgdive.com/news/ikea-accused-of-harmful-wood-sourcing-in-europes-forests/833829/",
-      "publishedAt": "2026-10-23T16:01:00.000Z",
-      "image": "https://imgproxy.divecdn.com/JV0jXkQyuLmiT9gtyESLyZMwXmTFWcHni-KMxLeH4rw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjM1OTgwMzg1LmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-chart-a-record-two-thirds-of-car-sales-i-2026-10-23",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2189,72 +2255,28 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-esg-has-matured-from-crisis-response-to--2026-10-23",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "ESG has matured from crisis response to operational discipline",
-      "excerpt": "As regulations shift and risks abound, companies have to move their ESG programs from a reactive to a proactive stance, according to an Avetta executive.",
-      "url": "https://www.esgdive.com/news/esg-has-matured-from-crisis-response-to-operational-discipline/833821/",
-      "publishedAt": "2026-10-23T13:52:00.000Z",
-      "image": "https://imgproxy.divecdn.com/2Tx_kQkAJmO3VbVFIcwXBIgvdYtFe2t_IpXu99SupRY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzk3NjEwMzQ1LmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-10-22",
+      "id": "google-india-india-s-carbon-market-needs-more-than-a--2026-10-20",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
-      "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
-      "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
-      "publishedAt": "2026-10-22T16:54:52.000Z",
-      "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
-      "country": null,
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India’s carbon market needs more than a price signal - climate.economictimes.indiatimes.com",
+      "excerpt": "India’s Carbon Credit Trading Scheme is a major policy milestone, but it will not drive industrial decarbonisation on its own. Heavy industry will need cheaper finance, easier access to low-carbon technology and stable rules if the market is to translate into real emissions cuts.",
+      "url": "https://climate.economictimes.indiatimes.com/news/climate-finance-esg/indias-carbon-market-needs-more-than-a-price-signal/135070402",
+      "publishedAt": "2026-10-20T16:44:42.000Z",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-135070402,imgsize-111468,width-1200,height=627,overlay-etclimate,resizemode-75/news/climate-finance-esg/indias-carbon-market-needs-more-than-a-price-signal.jpg",
+      "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM1Q1LW9Zd1RmNXpHUkpRS3BlNUhlS2tnNjdJQm0yRGdGMXZpQVA1blAzU1l4UzBOMGxJbFRib0R2N3pDUVViNDFjREVxeExWQ3llZEZ1ODdaM3BDMEtWYl96b0pwYUlleWRJTGZfRHlFX0lKZ3BKbXNkbkV0MnNkdFUwal9hdUFsQVBVUXVSWTlpS0RjMTFfdWwtenowN0pKeFpoWE13UURGeVVaM1JSUlZ2VlA4TWp5Q1RLUWhnSDFVc090NzFPRGZhUQ?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
-    },
-    {
-      "id": "carbon-brief-experts-how-are-climate-scientists-using-2026-10-22",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Experts: How are climate scientists using artificial intelligence?",
-      "excerpt": "Share Artificial intelligence (AI) is developing at a rapid pace and is increasingly being used by scientists to better understand climate change. AI is perhaps best-known for its use in “large language models”, such as ChatGPT, Claude and Gemini. From weather forecasting to analysing satellite images, climate scientists are using various types of AI to develop faster and more efficient ways to study the warming planet. However, the technology comes with no shortage of risks and challenges, including overreliance on unverified results, intensive energy…",
-      "url": "https://www.carbonbrief.org/experts-how-are-climate-scientists-using-artificial-intelligence",
-      "publishedAt": "2026-10-22T10:45:03.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/10/E4DXEJ.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
     },
     {
       "id": "verra-fall-2026-program-and-process-updates-oc-2026-10-20",
@@ -2326,48 +2348,73 @@
       "region": "world"
     },
     {
-      "id": "verra-verra-ifm-methodology-now-eligible-under-2026-10-13",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra IFM Methodology Now Eligible under Singapore’s International Carbon Credit Framework",
-      "excerpt": "The government of Singapore recently whitelisted Verified Carbon Standard (VCS) Program methodology VM0010 Methodology for Improved Forest Management: Conversion from Logged to Protected Forest as eligible for use under Singapore s International Carbon Credit (ICC) Framework . With this addition, three VCS methodologies for forest carbon projects are now included under Singapore’s ICC Framework. VCS Program methodologies VM0048 Reducing Emissions from Deforestation and Forest Degradation and VM0047 Afforestation, Reforestation, and Revegetation were…",
-      "url": "https://verra.org/verra-ifm-methodology-now-eligible-under-singapores-international-carbon-credit-framework/",
-      "publishedAt": "2026-10-13T15:57:16.000Z",
-      "image": "https://verra.org/wp-content/uploads/2026/10/pexels-henry-39864899-scaled-e1792071353840.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-h2-catalysing-demand-suggestions-to-scale-u-2026-08-27",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
+      "id": "google-india-india-s-carbon-market-enters-the-trading-2026-10-18",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
       "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Catalysing Demand: Suggestions to scale up green hydrogen in India - Renewable Watch",
-      "excerpt": "Expert Take Catalysing Demand: Suggestions to scale up green hydrogen in India Advertisment by Renewable Watch by Renewable Watch 27 Aug 2026 14:27 IST Updated 01 Oct 2026 02:29 IST Link copied! Copy failed! By Subhrajit Datta Ray, Partner Energy Transition and Decarbonisation, PwC India India has set two key milestones on energy security and transition: achieving energy independence by 2047 as part of the Viksit Bharat agenda, and reaching net zero emissions by 2070. To achieve these ambitions, India needs to continue its rapid expansion of renewable…",
-      "url": "https://renewablewatch.in/2026/08/27/catalysing-demand-suggestions-to-scale-up-green-hydrogen-in-india/",
-      "publishedAt": "2026-08-27T07:00:00.000Z",
-      "image": "https://img-cdn.publive.online/fit-in/1200x675/renewable-watch/media/media_files/wp-content/uploads/2026/08/Subhrajit-Datta-Ray.jpg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India's carbon market enters the trading floor, but questions remain - climate.economictimes.indiatimes.com",
+      "excerpt": "India is preparing to launch carbon credit trading for industrial units, with credits due to be issued this month and trading set to begin between November and January. The scheme, rooted in the Energy Conservation Act and reported by Bar and Bench, could reward cleaner factories and support India’s climate targets, but its success will depend on strict enforcement.",
+      "url": "https://climate.economictimes.indiatimes.com/news/climate-finance-esg/indias-carbon-market-enters-the-trading-floor-but-questions-remain/135029562",
+      "publishedAt": "2026-10-18T13:34:39.000Z",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-135029562,imgsize-129628,width-1200,height=627,overlay-etclimate,resizemode-75/news/climate-finance-esg/indias-carbon-market-enters-the-trading-floor-but-questions-remain.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjFfUFhWaFFzZnd1TnFweGpXS3Q3RUtqMHVscnAwdkZLcjQxYUktUVk5OTlYTlNlQ0ZWY0dJY1hEVTVTZVlUQ1RhMTZKeGJkdHFYbVZuaU91cFQwMnhIbEdJdXpiOWdteVlLdEJGOV9sNUtmU3NrZXNVb2tyU3Y5UnpxZmRhRjg1Q0U1LXRBRnRIWl9JWGJpZ1VoMW5WcXJtWW4wVGZR?oc=5",
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLUgtcW9lUkpROEhZYlptTm5GQW9lRlQyZ0IxeTZZNWZEbmk2dGdydUxZalR5NTljWUJxaXQtYWZHRjhmNGhlM0QyQVBIakFMcFRDVWg5TGJheFZjVXc1ajNUNC14a3lXWm1pbFFqdHhRaGFXTTdYOWFwY3FKRmI1TlU4OFFLOWZJVTFGMzBrNEw4SkFnTnZaSnJIZ3NaU0pDY1l3RGtIdTJJSDd1b0JWZy0wRm5XTFFTbUQwMmtqUHpFeFF4VUJ0eDg2YXBuMmgwQXNHMFNfUmxBT0RWS2JV?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-subscriberwrites-hosting-the-table-how-i-2026-10-07",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "SubscriberWrites: Hosting the Table: How India Can Turn BRICS Carbon Credits into Global South Power - ThePrint",
+      "excerpt": "Thank you dear subscribers, we are overwhelmed with your response. Your Turn is a unique section from ThePrint featuring points of view from its subscribers. If you are a subscriber, have a point of view, please send it to us. If not, do subscribe here: https://theprint.in/subscribe/ T he BRICS summit in New Delhi is over. The leaders have gone home, the declarations have been released and the familiar language of cooperation, development and a fairer global order has once again filled the diplomatic record. On climate change, however, the real work…",
+      "url": "https://theprint.in/yourturn/subscriberwriteshosting-the-table-how-india-can-turn-brics-carbon-credits-into-global-south-power/3064160/",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/1002411058-1-e1791363207978.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWkVuamZGUl8wLThlZ0VWNHd6aTUtSEpSOHd6Yk5CMERvOEJBN2k3MkJtNDdIWnJWN0t3X0xXaUFPenFMV1ZaRHlIRGdsR2N1OE52U3gtQ2FRLTlYbFk5MGRCY0xxTjFCTEhJWnUyUTdPVEVYREtmeVpNMXUyR1FOTFNHMGNVTXFLc3VKcDl1X2lid3c1aEg2dVA1OG9uTVNhVjlIUGNydHY3amFfR0ZLeTNvUGd5dHI1YU53ZWZSN2s4eWE4UEEzN2JxN0k2MWh60gHWAUFVX3lxTFBnMTlkY3hkWFNSM3ZrdWVhSTI5WWtTdVZNX0RxZm9ITV9mUGxQSFBlc2dpM2lMMl9DeXRWeU1zV3NseVREd0IyU2NrRTRHb01yUzZfaFVlRmdJZ2h4Q09WMUZFMEdoUDRVRDk3REFjUm1NWVViZXBWaXFETnc5Wk9sNENuV3AzSi03R2ZaUExCUHBOdTh2QUJna3hacnJpQ01OOE5qYUlVUGFCMUR5cWhzYnNSLTBQSkxkOHg1NER5cWNiZXhfN0lrU0dpR1FZaDlIR0ZxRlE?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-brics-backs-carbon-market-cooperation-wh-2026-09-12",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "BRICS backs carbon market cooperation while opposing unilateral CBAM - Down To Earth",
+      "excerpt": "Copied Listen to this article Summary BRICS leaders at the New Delhi Summit backed a BRICS Carbon Markets Partnership to share expertise, build capacity and link carbon markets with climate finance, while firmly opposing unilateral CBAMs by the EU and UK. India’s CCTS gaining UK recognition highlights both new export competitiveness opportunities and compliance challenges, especially for MSMEs facing demanding measurement and verification rules. The BRICS countries have backed greater cooperation on carbon markets, including implementation of a BRICS…",
+      "url": "https://www.downtoearth.org.in/climate-change/brics-backs-carbon-market-cooperation-while-opposing-unilateral-cbam",
+      "publishedAt": "2026-09-12T07:00:00.000Z",
+      "image": "https://cf-images.assettype.com/downtoearth%2F2026-09-12%2Fjp65n8yf%2FBRICS.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWlsbkJrSXFVZlpWOFQzNkt1YTRPVFc0VWxYSnhDNE9aLWV0VHcyMGdyTFFsc3ZrTU05MTNWb3pGcEstQS1lOFVabjl1SnJyQW1lSUlKN2MtUm84WFFWUm1BQktvZFdkS1h2clRud2dJYnl5TVFBanJpOUxmMExZWkRQUnR1SU5nUkNKUEJRVFV4aHhRemF1QVBaTlBxY3hJTzN0bnhIVTBKUDNGZWhzTTI5TFnSAcIBQVVfeXFMT0dxTXQtNF9HM1BtdDR5Qko5SW82Qlc3YWp4S0VySjlFTzlKYjQ2N1I4MlZaZTdyemxLWTN0bUxyY0xQY2c2WEQxdW5NQkV0dUpMd2gtWTlsUTBES01raXJydEtQbk9sRDR1T1Rpa1FOQjNXdm5LRk5fMTFTYkJtT2dwblVPZFI4Y2pqVDQtUzJoSHRjYy0xakNrZDFjbTRVNFI2ZXZWcFVxSm1ITUR4Xy1pZ0RuMU5FS0VVSEJLT1I3T0E?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2421,28 +2468,27 @@
       "region": "world"
     },
     {
-      "id": "google-india-article-6-of-the-paris-agreement-climate-2026-08-17",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
+      "id": "google-h2-a-new-era-of-green-mobility-a-milestone--2026-08-06",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
       "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
-      "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
-      "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "image": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/07/Article-6-of-the-Paris-Agreement.webp?v=1784286245",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
+      "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
+      "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
+      "publishedAt": "2026-08-06T07:00:00.000Z",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzAyMk9nMlh4QjdIS1hDczM4S1NPY2JrQU54dFFsZENLZTNtUUdCQzF0QmVsNXVZck5WYi1ZaWdLaDJOWU80QkdocERNZHpWWlVXRFBzMzFfWXhoU2ZVOHNxUlRGZWpXeFRPU2NvN2F0WG1CVWI3cmc1YnNQZml3RDVn?oc=5",
-        "imageSource": "publisher"
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5"
       },
-      "region": "india"
+      "region": "world"
     },
     {
       "id": "google-h2-seci-invites-eoi-to-identify-co-sources--2026-08-06",
@@ -2464,30 +2510,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWpIbEhBdUhnamNsaFlobEl4NmgwZENEWm50aFZfMTFpdEs3dHhoQXBad1ZCRXBUX2p3ZWtGNEhTX3hzT2pxY2JVamI0YWhPS0JGS0J4dV9jY093d2MxNzE5dGRiNUpoVEhJMFNQdk1JU2RJZzI2NEpXWlJiQ3poN2U0Mmd0dFRDeFdvUXgzaXI0T2pNVnZlYWJpaE1OMXg1bnBPS2h3ZW5tMk1JdnpCRG9sTVA4UFdxNUdsM2RablE1a3RidGc?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-india-s-carbon-market-targets-too-weak-t-2026-07-29",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India’s carbon market targets too weak to drive industrial transformation: Report - Down To Earth",
-      "excerpt": "Published on : 29 Jul 2026, 8:48 am Copied Listen to this article Summary India’s proposed Carbon Credit Trading Scheme will not deliver transformational industrial decarbonisation, experts warn. New report shows far more ambitious emissions intensity targets needed. Current rules demand only 2–5% cuts by 2026-27 for steel, cement and aluminium. The scheme relies on low carbon prices and weak governance, excludes the power sector. India's proposed Carbon Credit Trading Scheme (CCTS) is unlikely to drive transformational change in industrial…",
-      "url": "https://www.downtoearth.org.in/climate-change/indias-carbon-market-targets-too-weak-to-drive-industrial-transformation-report",
-      "publishedAt": "2026-07-29T07:00:00.000Z",
-      "image": "https://cf-images.assettype.com/downtoearth%2F2026-07-29%2Fzyahznkg%2FIndia-industry-smoke-emissions-carbon-market?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFlRczlOUHRvTnNOVnl1V3AtRlJHVm1xLUpqb2MxTXJQRzdFUF9Kdmw0M3ZVTHJRcURGaXNjMWRuV0NEQWNjNkFrT3dBWm5VbFRJcnM4ZW5FeUJKTUdYeG9jUVU4OXFJQWVBR3JrVGhMcTk3LUZSdUxJLUlhbkZiTmtGYjZIaTI0aDI1a0MwTTJ3VF9sbGlqQXZMa05VTFhDSVJLUkNkaXc1X3pLVmxYQUtuWUh0MzgteFZsakZfVDB4RVnSAdABQVVfeXFMUE90eUNTTWg2QXJ4ZVFMUzI5cGxJVmNwc3dBdjNJMF9QTG1OVjNRNUFkLTdYdHNPMGtPY1V3Y05Qa1JPWmZCMGJMdjJ5V0psYjN6azBLSWhmNTJ2dEN6Q2s4d2E0b3ZHLUIzNXNOQ1NmQkFnSGxqNERCZy1mRGxVbzZnek44TWlpX01OLWlhdXZYdURLWU5abXFsakkyNlR1RC1UdFNZV1lOa1MyVDBQeXZMN2M5eUdlbmQ3ZU9lU0t4SEJLNHZDSEhCRTF1Y3hEWA?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2516,6 +2538,30 @@
       "region": "india"
     },
     {
+      "id": "google-india-most-zombie-credits-locked-out-of-new-un-2026-07-17",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Most \"zombie credits\" locked out of new UN carbon market after China and India snub - Climate Home News",
+      "excerpt": "Matteo Civillini Reporter Editing: Joe Lo X (Twitter) Facebook LinkedIn WhatsApp Email Print China and India have declined to back any of their old United Nations carbon credit projects seeking to sell offsets under the new UN market, driving a cull of nearly three-quarters of applicants, analysis of official data shows. Only 415 out of more than 1,500 projects and programmes hoping to move from the Clean Development Mechanism (CDM) to the new carbon market set up under Article 6.4 of the Paris Agreement won the approval of their host governments by the…",
+      "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
+      "publishedAt": "2026-07-17T07:00:00.000Z",
+      "image": "https://www.climatechangenews.com/wp-content/files/2026/07/GettyImages-991792894-1440x954.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUlVUGJ4V2U0aFhFRmw1QjdOTXBobGJDSGlLb2podFdaVnZBcTlKMVBsQmJVX0lKcmhnY253OUJMbEstcml4OXRfN1EtQWxUVi1KSkY0bktfLWx3SzRXVnZfYklyOUZlaVR5QmRfZUJUUllwVHpzX2w0cFRWeWV0bUVlUlNINlF3VlF4NlJWQjcwbExPbnRtazZ1VW5Yb0pSRHZ0SFlJNkltZzk2RVJTN09SRng4ZXd5eVhWRVdVbzJpRndfS2c?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-india-the-road-ahead-for-india-s-carbon-credit-2026-07-14",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2535,30 +2581,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vd210Z0lYcEl0RUVyU2FzZVM5WE9QVFJUNTgxMVFaTDNocFRmVmdLbnpUeFJfSWhVMEZDSUxpaG9SNjFyZ2xpNWFIVjEyT3FieHdzUjdoZmg4SEo4WnhjRlVpV2Q0c3J2UEk4Qmw4QzB3UW5pMThTNjJsQkpFNWM?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-india-s-carbon-credit-trading-scheme-a-s-2026-07-14",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India's Carbon Credit Trading Scheme: A strong start, critical design choices ahead - Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language Decarbonization Energy Transition &…",
-      "url": "https://ieefa.org/articles/indias-carbon-credit-trading-scheme-strong-start-critical-design-choices-ahead",
-      "publishedAt": "2026-07-14T05:40:13.000Z",
-      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTlicVN3VGw3eTQ1V2xzOS0zWnc2QlhQU1lpM3ppUDVYeHB0UGxFWDB3ZDNCRDh1SHlxSHh4cjZ0bk1ZU0RzUDdSN0dELVlxWHhVRU9nSzdaeWRraDYycFF2UzRjLUFIcmlGblNYODFDU010U2tGQzdKRUZlX1BMZ2VRbXpYeEpzNy1oNjVrNmZjV3ZZQkpnWWZpTUZ0ZHVYWDUyMXpDUU0?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2588,41 +2610,41 @@
       "region": "india"
     },
     {
-      "id": "google-india-india-among-biggest-new-carbon-markets-a-2026-05-21",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
+      "id": "google-h2-gaining-momentum-green-hydrogen-emerges--2026-06-11",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
       "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India among biggest new carbon markets as global carbon pricing covers 29 per cent of emissions - Down To Earth",
-      "excerpt": "Copied Listen to this article India has emerged as one of the world’s largest new carbon markets with the launch of its Carbon Credit Trading Scheme in 2026, as global carbon pricing systems now cover 29 per cent of greenhouse gas (GHG) emissions and annual revenues from emissions trading systems and carbon taxes crossed $107 billion in 2025, according to a new World Bank report. The report , State and Trends of Carbon Pricing 2026 , says India’s new emissions trading system currently covers seven sectors and around 490 industries, with estimated…",
-      "url": "https://www.downtoearth.org.in/climate-change/india-among-biggest-new-carbon-markets-as-global-carbon-pricing-covers-29-per-cent-of-emissions",
-      "publishedAt": "2026-05-21T07:00:00.000Z",
-      "image": "https://cf-images.assettype.com/downtoearth%2F2026-05-21%2Fdyvuz5m8%2FWorld-Bank.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition - Renewable Watch",
+      "excerpt": "Spotlight Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition Advertisment by Renewable Watch by Renewable Watch 11 Jun 2026 14:43 IST Link copied! Copy failed! By Nidhi Dua Green hydrogen is emerging as a key pillar of India s transition towards a low-carbon economy, with the country increasingly focusing on building a domestic production and manufacturing ecosystem. Backed by India s rapidly expanding renewable energy capacity, the sector is witnessing growing momentum with developments across the entire value chain.…",
+      "url": "https://renewablewatch.in/2026/06/11/gaining-momentum-green-hydrogen-emerges-as-a-key-pillar-of-indias-energy-transition/",
+      "publishedAt": "2026-06-11T07:00:00.000Z",
+      "image": "https://img-cdn.publive.online/fit-in/1200x675/renewable-watch/media/media_files/wp-content/uploads/2026/06/36.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaV9LeHJRbDJwR3JaMzlENTN6VnFjVkxnODZxTjF6dDNqckhWbkszaGZoTjFjZGdvNENTUGM5R200LUhja1Nxb3NBU0MyRGU2R29kTU1hdXVDbGs5VEV2S2NnU0Z2ZUlJSFU1RmEweS1Wd3F0M2dwcnpzc1hHTkdLNm9yTUJSd1NFRWtiS0FFb0RhYUJYRkJWVlBxVUVGVGhSRUxQblVFdldmMnVVeW0wNDZyU2xLRFhIVnZzc2NZSE85cHEwSmtLOTE4M255OFdjYmg0STZIelbSAeYBQVVfeXFMTXEzTVRuRVVyTFljbXJxMnV4a2RuSE5qamF1UFpIRkFTOTJESmcxQ3dBWmlKbUhhUlBuM1JKLV9EMnhWSlJITTB3ZDlQeWFUNV9IbzBvajVCZDZFQ3hfOW9pUDJnY3NqdlExaHJjYWt1V1N3MThBMUtYSGFsZjJweDl2WlFxNjYzZmtSZzdpRnpqYnNSYWpoUEIwZlg0YVczcXNTZGpoNm0wYmhIR1RNVDM3Qk1kMzZMSFJnQ3hlZGZWeTdub2Zzem0wLUQ2S29Bb3NJaVNNeXc3RDdoa2JURGROTmt6aVE?oc=5",
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRGYzWjJVeXNkbzdpcE11TFBlUzVyUFN5SnV0eWRQRVdBeWdyY3plXzhtVlo0T0hReW4yTWV0V0N6YTJRMjlTZUVnQ3AtcjZLYzNrWmpsYnJZMlBJZWFCX08tYXVzZG5BRmxXak80YzJ3bFIxS1dmOERnTURUWmdfOHJXVXY2NUFMOWpkQ0l6Q1VrYlljdWtsRm9rZ1ZUYXMwbC16SlpqZVV1bEh4OHZUUUVIek94QVRCd0dFbXJn?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
     },
     {
-      "id": "google-india-residential-training-programme-on-carbon-2026-04-24",
+      "id": "google-india-india-showcases-carbon-credit-trading-sc-2026-06-05",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
       "tag": "INDIA",
       "accent": "#fbbf24",
-      "title": "Residential Training Programme on: Carbon Accounting, MRV and Trading - cseindia.org",
-      "excerpt": "About Us Who We Are Our Board Our Leadership Annual Reports Programmes Biodiversity and Food Overview My Food Story The Green Kitchen Clean Air and Sustainable Mobility Overview Air Quality and Public Health Public Transport and Mobility Vehicle Technology and Fuel City Action Training EPCA Climate Change and Green Economy Overview COPs COP30 COP29 COP28 UAE Negotiations Carbon Politics Adaptation Environment Monitoring Laboratory Environment Education Overview YOUNG Environmentalist GSP University Programme Green Educators' Network Renewable Energy…",
-      "url": "https://www.cseindia.org/residential-training-programme-on-carbon-accounting-mrv-and-trading-13085",
-      "publishedAt": "2026-04-24T11:04:08.000Z",
-      "image": "https://cdn.cseindia.org/medium/2026-04-24/0.34649300_1777028381_mrv.jpg",
+      "title": "India showcases carbon credit trading scheme at WTO Trade and Environment Week - DD India",
+      "excerpt": "howcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy\" On the occasion of World Environment Day, India organised a special event titled Showcase of India s Carbon Credit Trading Scheme and Standardisation in Renewable Energy during the World Trade Organisation (WTO) Trade and Environment Week 2026 in Geneva, according to a Commerce Ministry statement issued on Friday. The event highlighted India s efforts towards sustainable development, clean energy transition and achievement of its Nationally Determined Contributions…",
+      "url": "https://ddindia.co.in/2026/06/india-showcases-carbon-credit-trading-scheme-at-wto-trade-and-environment-week/",
+      "publishedAt": "2026-06-05T07:00:00.000Z",
+      "image": "https://ddindia.co.in/wp-content/uploads/2025/07/e262f0b8929b9e1cfbb0507005c4f0d5.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2630,7 +2652,31 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnNmZTEwd0xUakRpWVU5aVR5RExBTDc4SGlXaE9FWEZja3l4VXNtY2NCTEUxdGl3WHBmakcwVXY1eWlUTXQ2Mmk0X0F4dVZ1Szc1NEhMU3pweGRDcXVjLTZvNHI1QzM2UzF5Y3lSQWNfeFJMYVhZWVpWZ1JtX2xDYmZObjVxNXNiOG80QnQzVlhvREdJam9fbWs4QVZzcDA?oc=5",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2VhWHNtRmR4dFlQNHJYX2ozRFUzdEpBZWpGN05kRXJvNUdLbVVVNXNndFlLREtnaGR0TlB3OVQ3cU5oUEJmNFJvUlhNQkJ0dzBsVGJ3c2ppelV0NldSY2s5bGJDNnpsSTk0UnVudTh0UERXejFjOGxpaTY3dTV1MUJmOFczYVhpY25VOEZDY3dac3NZa2ZkVDBfeGVlWlVpd245ajNuRTVJRVN6WWc?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-carbon-market-effectiveness-in-emerging--2026-05-05",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Carbon Market Effectiveness in Emerging Economies - CEEW",
+      "excerpt": "This paragraph is completely hidden and takes up no space. This paper examines how emerging economies can design effective emissions trading systems (ETSs), drawing on insights from a KAPSARC-CEEW workshop and a comparative analysis of China, India, Viet Nam, and Türkiye. It finds that these systems benefit from alignment with national development goals and generally adopt phased implementation, often beginning with intensity-based targets, free allocation, and limited coverage to balance economic and environmental goals. Over time, ETSs tend to evolve…",
+      "url": "https://www.ceew.in/publications/carbon-market-effectiveness-emerging-economies",
+      "publishedAt": "2026-05-05T07:00:00.000Z",
+      "image": "https://www.ceew.in/sites/default/files/Screenshot%202026-05-05%20160541.png",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmNDN2pOVmRTd1lBOFpkbXdsU3FuMDMyWE5pS2RGMnR0TWI0RklzUmxsSExfcHk5WGx4REUwY3pFUTlSOHhXaVd4RGNNZTNYeXA4YTBqdm5qNXZ2TW1MbDRJbzFoMFh1alMzaV9kSGlxT09UY08tSUZ4VFJsVW15aFQ4cWVIdw?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2679,30 +2725,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-how-can-carbon-markets-scale-durable-car-2026-03-19",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "How can Carbon Markets Scale Durable Carbon Dioxide Removal in India? - CEEW",
-      "excerpt": "Suggested Citation: Kesh, Christi, Srishti Singh, Darshna Singh, Aparna Sharma, Vaibhav Chaturvedi, and Asitava Sen. 2026. How can Carbon Markets Scale Durable Carbon Removal in India? New Delhi: Council on Energy, Environment and Water and Carbon Removal India Alliance. Achieving the goals of the Paris Agreement will require more than emissions reduction, as legacy carbon dioxide already accumulated in the atmosphere will continue to drive warming unless it is actively removed and durably stored. Durable carbon dioxide removal (CDR), including pathways…",
-      "url": "https://www.ceew.in/publications/carbon-markets-in-india%3A-pathways-to-durable-carbon-removal",
-      "publishedAt": "2026-03-19T07:00:00.000Z",
-      "image": "https://www.ceew.in/sites/default/files/Screenshot%202026-03-19%20091357.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcjlHYzFVdS1rMDJtWjlMWXp6emd1OEhoZkRqRlVhNUx6OFNFNk10cVFaR3gzTmdhRGVWWkxxOXRrRExTdVd0ZDJtVGdBdEFJdGRuRWtEZGM1ak1TejFHVUdLQ0F0c2NCeWtqU05Jb0NRM3VjSng5Y185V2xQQUxrbTBkUFVHSVVUUTJncjhmTzlOS1VBX29HRUtR?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2801,30 +2823,6 @@
         "imageSource": "publisher"
       },
       "region": "world"
-    },
-    {
-      "id": "google-h2-financing-green-hydrogen-in-india-ceew-2024-06-18",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Financing Green Hydrogen in India - CEEW",
-      "excerpt": "Suggested Citation: CFLI India and CEEW. 2024. Financing Green Hydrogen in India: Private Sector Considerations to Strengthen India’s Enabling Environment for a Competitive Green Hydrogen Economy. New Delhi: Council on Energy, Environment and Water (CEEW) This report presents actionable private sector considerations for Indian policymakers at both the national and state levels to strengthen the enabling environment for green hydrogen uptake in India while also catalysing investment into the industry. These considerations align with the MNRE's mission…",
-      "url": "https://www.ceew.in/publications/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing",
-      "publishedAt": "2024-06-18T07:56:44.000Z",
-      "image": "https://www.ceew.in/sites/default/files/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRl9DX0pMc092cjI1eUdtOFNfLWpjVGZrbzZpaWt5ZlBRek1ieDFEZmJtQzRWcW1PNXJRVmRVUEZoc1lzZzlpclFiVGhSRjdkRS1KckpPdlh4U2ZmalpzR3dFRHo2VmxpZWdpYWlfdjA2cm9ReVZrcm1EZjNMb0dDZWRLZlpwLUJ3X0IyUG4zbE5vVzRUUkpCQXROZ3JoeWlhNlhVNTAxM0RoeTZ4VnFuOWdtN290dEE?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
