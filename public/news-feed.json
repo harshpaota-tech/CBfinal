@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-03T19:56:44.158Z",
+  "fetchedAt": "2026-11-03T23:51:09.693Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 62,
-    "india": 16,
-    "world": 46,
-    "withImages": 58,
-    "avgExcerptLength": 458,
+    "india": 15,
+    "world": 47,
+    "withImages": 57,
+    "avgExcerptLength": 454,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -127,7 +127,7 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-s-carbon-market-enters-the-trading-2026-10-19",
+        "id": "google-india-india-s-carbon-market-enters-the-trading-2026-10-18",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
@@ -136,7 +136,7 @@
         "title": "India's carbon market enters the trading floor, but questions remain - climate.economictimes.indiatimes.com",
         "excerpt": "India is preparing to launch carbon credit trading for industrial units, with credits due to be issued this month and trading set to begin between November and January. The scheme, rooted in the Energy Conservation Act and reported by Bar and Bench, could reward cleaner factories and support India’s climate targets, but its success will depend on strict enforcement.",
         "url": "http://climate.economictimes.indiatimes.com/news/climate-finance-esg/indias-carbon-market-enters-the-trading-floor-but-questions-remain/135029562",
-        "publishedAt": "2026-10-19T07:00:00.000Z",
+        "publishedAt": "2026-10-18T07:00:00.000Z",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135029562,imgsize-129628,width-1200,height=627,overlay-etclimate,resizemode-75/news/climate-finance-esg/indias-carbon-market-enters-the-trading-floor-but-questions-remain.jpg",
         "country": "India",
         "methodology": null,
@@ -366,6 +366,30 @@
         "region": "india"
       },
       {
+        "id": "google-h2-gaining-momentum-green-hydrogen-emerges--2026-06-11",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition - Renewable Watch",
+        "excerpt": "Spotlight Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition Advertisment by Renewable Watch by Renewable Watch 11 Jun 2026 14:43 IST Link copied! Copy failed! By Nidhi Dua Green hydrogen is emerging as a key pillar of India s transition towards a low-carbon economy, with the country increasingly focusing on building a domestic production and manufacturing ecosystem. Backed by India s rapidly expanding renewable energy capacity, the sector is witnessing growing momentum with developments across the entire value chain.…",
+        "url": "https://renewablewatch.in/2026/06/11/gaining-momentum-green-hydrogen-emerges-as-a-key-pillar-of-indias-energy-transition/",
+        "publishedAt": "2026-06-11T07:00:00.000Z",
+        "image": "https://img-cdn.publive.online/fit-in/1200x675/renewable-watch/media/media_files/wp-content/uploads/2026/06/36.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRGYzWjJVeXNkbzdpcE11TFBlUzVyUFN5SnV0eWRQRVdBeWdyY3plXzhtVlo0T0hReW4yTWV0V0N6YTJRMjlTZUVnQ3AtcjZLYzNrWmpsYnJZMlBJZWFCX08tYXVzZG5BRmxXak80YzJ3bFIxS1dmOERnTURUWmdfOHJXVXY2NUFMOWpkQ0l6Q1VrYlljdWtsRm9rZ1ZUYXMwbC16SlpqZVV1bEh4OHZUUUVIek94QVRCd0dFbXJn?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -387,57 +411,31 @@
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5"
         },
         "region": "india"
-      },
-      {
-        "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
-        "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
-        "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
-        "publishedAt": "2025-09-01T07:00:00.000Z",
-        "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-financing-green-hydrogen-in-india-ceew-2024-06-18",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Financing Green Hydrogen in India - CEEW",
-        "excerpt": "Suggested Citation: CFLI India and CEEW. 2024. Financing Green Hydrogen in India: Private Sector Considerations to Strengthen India’s Enabling Environment for a Competitive Green Hydrogen Economy. New Delhi: Council on Energy, Environment and Water (CEEW) This report presents actionable private sector considerations for Indian policymakers at both the national and state levels to strengthen the enabling environment for green hydrogen uptake in India while also catalysing investment into the industry. These considerations align with the MNRE's mission…",
-        "url": "https://www.ceew.in/publications/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing",
-        "publishedAt": "2024-06-18T07:56:44.000Z",
-        "image": "https://www.ceew.in/sites/default/files/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing.png",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRl9DX0pMc092cjI1eUdtOFNfLWpjVGZrbzZpaWt5ZlBRek1ieDFEZmJtQzRWcW1PNXJRVmRVUEZoc1lzZzlpclFiVGhSRjdkRS1KckpPdlh4U2ZmalpzR3dFRHo2VmxpZWdpYWlfdjA2cm9ReVZrcm1EZjNMb0dDZWRLZlpwLUJ3X0IyUG4zbE5vVzRUUkpCQXROZ3JoeWlhNlhVNTAxM0RoeTZ4VnFuOWdtN290dEE?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-bofa-king-charles-sustainability-initiat-2026-11-03",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "BofA, King Charles’ sustainability initiative back $40M nature investment strategy",
+        "excerpt": "The Lighthouse Initiative seeks to develop and scale nature and biodiversity solutions and direct private capital towards projects that remain underfunded.",
+        "url": "https://www.esgdive.com/news/bofa-king-charles-smi-back-40m-nature-investment-strategy-lighthouse-initiative/873622/",
+        "publishedAt": "2026-11-03T18:48:27.000Z",
+        "image": "https://imgproxy.divecdn.com/7ZKGCq5AtPKwd6dKXSTW1CMaY7zNMbntP18kym6pIHs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgyMjU4MzI2LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-corporate-boards-add-fewer-new-members-i-2026-11-03",
         "source": "esg-dive",
@@ -1126,28 +1124,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-ai-regulation-push-gains-steam-ahead-of--2026-10-28",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "POLICY",
-        "accent": "#5eead4",
-        "title": "AI regulation push gains steam ahead of midterms",
-        "excerpt": "Reports of AI agents accessing bank accounts mark the latest in a string of developments putting pressure on lawmakers to act.",
-        "url": "https://www.esgdive.com/news/ai-regulation-push-gains-steam-ahead-midterms/873029/",
-        "publishedAt": "2026-10-28T16:04:00.000Z",
-        "image": "https://imgproxy.divecdn.com/_Fd8gWO1dsA79DPx1bGLwWuPm74lwRIBPI3V36hHo78/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk4NzAzNDYzXy1fQUlfcHJvdGVzdHMuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-revealed-uk-relied-on-2bn-of-questionabl-2026-10-28",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1332,6 +1308,29 @@
         "region": "world"
       },
       {
+        "id": "google-h2-a-new-era-of-green-mobility-a-milestone--2026-08-06",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
+        "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
+        "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
+        "publishedAt": "2026-08-06T07:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-can-blockchain-fix-carbon-credits-the-le-2026-06-25",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1477,6 +1476,28 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-bofa-king-charles-sustainability-initiat-2026-11-03",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "BofA, King Charles’ sustainability initiative back $40M nature investment strategy",
+      "excerpt": "The Lighthouse Initiative seeks to develop and scale nature and biodiversity solutions and direct private capital towards projects that remain underfunded.",
+      "url": "https://www.esgdive.com/news/bofa-king-charles-smi-back-40m-nature-investment-strategy-lighthouse-initiative/873622/",
+      "publishedAt": "2026-11-03T18:48:27.000Z",
+      "image": "https://imgproxy.divecdn.com/7ZKGCq5AtPKwd6dKXSTW1CMaY7zNMbntP18kym6pIHs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgyMjU4MzI2LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-dive-corporate-boards-add-fewer-new-members-i-2026-11-03",
       "source": "esg-dive",
@@ -2188,28 +2209,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-ai-regulation-push-gains-steam-ahead-of--2026-10-28",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "POLICY",
-      "accent": "#5eead4",
-      "title": "AI regulation push gains steam ahead of midterms",
-      "excerpt": "Reports of AI agents accessing bank accounts mark the latest in a string of developments putting pressure on lawmakers to act.",
-      "url": "https://www.esgdive.com/news/ai-regulation-push-gains-steam-ahead-midterms/873029/",
-      "publishedAt": "2026-10-28T16:04:00.000Z",
-      "image": "https://imgproxy.divecdn.com/_Fd8gWO1dsA79DPx1bGLwWuPm74lwRIBPI3V36hHo78/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk4NzAzNDYzXy1fQUlfcHJvdGVzdHMuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-revealed-uk-relied-on-2bn-of-questionabl-2026-10-28",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2394,7 +2393,7 @@
       "region": "india"
     },
     {
-      "id": "google-india-india-s-carbon-market-enters-the-trading-2026-10-19",
+      "id": "google-india-india-s-carbon-market-enters-the-trading-2026-10-18",
       "source": "google-india",
       "sourceName": "India Climate Policy",
       "type": "esg",
@@ -2403,7 +2402,7 @@
       "title": "India's carbon market enters the trading floor, but questions remain - climate.economictimes.indiatimes.com",
       "excerpt": "India is preparing to launch carbon credit trading for industrial units, with credits due to be issued this month and trading set to begin between November and January. The scheme, rooted in the Energy Conservation Act and reported by Bar and Bench, could reward cleaner factories and support India’s climate targets, but its success will depend on strict enforcement.",
       "url": "http://climate.economictimes.indiatimes.com/news/climate-finance-esg/indias-carbon-market-enters-the-trading-floor-but-questions-remain/135029562",
-      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "publishedAt": "2026-10-18T07:00:00.000Z",
       "image": "https://etimg.etb2bimg.com/thumb/msid-135029562,imgsize-129628,width-1200,height=627,overlay-etclimate,resizemode-75/news/climate-finance-esg/indias-carbon-market-enters-the-trading-floor-but-questions-remain.jpg",
       "country": "India",
       "methodology": null,
@@ -2610,6 +2609,29 @@
       "region": "india"
     },
     {
+      "id": "google-h2-a-new-era-of-green-mobility-a-milestone--2026-08-06",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd - Eurasia Review",
+      "excerpt": "A New Era Of Green Mobility: A Milestone In Sustainable Railway Transportation – OpEd Eurasia Review",
+      "url": "https://www.eurasiareview.com/06082026-a-new-era-of-green-mobility-a-milestone-in-sustainable-railway-transportation-oped/",
+      "publishedAt": "2026-08-06T07:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNDdHZYZXNUdUJvQ3NvYTNpRnplRUx3QW9NN2d4cXFpdWlWSWlhVG44MkxhVW5ZUEh0MUZkTGJJbUhwSmxsM0UzTkhuaVpxSnlwNjl6c2tZc1ZxUFdpOGl4ZHlaS2MxMHpYMEkxTWE1ekZobGMzZUUzNUZ1Nm1tN1d5MmFncmJmQ2FQbkNIRXJPMTYya0tSMGVVQW81cDRaVGZLSF9BOFEyWk9JcmR5QnNmWHQ3QXprSzY0ZXRyZw?oc=5"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-h2-seci-invites-eoi-to-identify-co-sources--2026-08-06",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2705,6 +2727,30 @@
       "region": "world"
     },
     {
+      "id": "google-h2-gaining-momentum-green-hydrogen-emerges--2026-06-11",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition - Renewable Watch",
+      "excerpt": "Spotlight Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition Advertisment by Renewable Watch by Renewable Watch 11 Jun 2026 14:43 IST Link copied! Copy failed! By Nidhi Dua Green hydrogen is emerging as a key pillar of India s transition towards a low-carbon economy, with the country increasingly focusing on building a domestic production and manufacturing ecosystem. Backed by India s rapidly expanding renewable energy capacity, the sector is witnessing growing momentum with developments across the entire value chain.…",
+      "url": "https://renewablewatch.in/2026/06/11/gaining-momentum-green-hydrogen-emerges-as-a-key-pillar-of-indias-energy-transition/",
+      "publishedAt": "2026-06-11T07:00:00.000Z",
+      "image": "https://img-cdn.publive.online/fit-in/1200x675/renewable-watch/media/media_files/wp-content/uploads/2026/06/36.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRGYzWjJVeXNkbzdpcE11TFBlUzVyUFN5SnV0eWRQRVdBeWdyY3plXzhtVlo0T0hReW4yTWV0V0N6YTJRMjlTZUVnQ3AtcjZLYzNrWmpsYnJZMlBJZWFCX08tYXVzZG5BRmxXak80YzJ3bFIxS1dmOERnTURUWmdfOHJXVXY2NUFMOWpkQ0l6Q1VrYlljdWtsRm9rZ1ZUYXMwbC16SlpqZVV1bEh4OHZUUUVIek94QVRCd0dFbXJn?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2775,30 +2821,6 @@
       "region": "india"
     },
     {
-      "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
-      "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
-      "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
-      "publishedAt": "2025-09-01T07:00:00.000Z",
-      "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-carbon-beyond-price-rethinking-carbon-credit-va-2024-11-27",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2821,30 +2843,6 @@
         "imageSource": "publisher"
       },
       "region": "world"
-    },
-    {
-      "id": "google-h2-financing-green-hydrogen-in-india-ceew-2024-06-18",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Financing Green Hydrogen in India - CEEW",
-      "excerpt": "Suggested Citation: CFLI India and CEEW. 2024. Financing Green Hydrogen in India: Private Sector Considerations to Strengthen India’s Enabling Environment for a Competitive Green Hydrogen Economy. New Delhi: Council on Energy, Environment and Water (CEEW) This report presents actionable private sector considerations for Indian policymakers at both the national and state levels to strengthen the enabling environment for green hydrogen uptake in India while also catalysing investment into the industry. These considerations align with the MNRE's mission…",
-      "url": "https://www.ceew.in/publications/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing",
-      "publishedAt": "2024-06-18T07:56:44.000Z",
-      "image": "https://www.ceew.in/sites/default/files/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing.png",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRl9DX0pMc092cjI1eUdtOFNfLWpjVGZrbzZpaWt5ZlBRek1ieDFEZmJtQzRWcW1PNXJRVmRVUEZoc1lzZzlpclFiVGhSRjdkRS1KckpPdlh4U2ZmalpzR3dFRHo2VmxpZWdpYWlfdjA2cm9ReVZrcm1EZjNMb0dDZWRLZlpwLUJ3X0IyUG4zbE5vVzRUUkpCQXROZ3JoeWlhNlhVNTAxM0RoeTZ4VnFuOWdtN290dEE?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "google-carbon-revealed-more-than-90-of-rainforest-carb-2023-01-18",
