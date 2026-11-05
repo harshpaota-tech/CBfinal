@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-05T15:16:47.034Z",
+  "fetchedAt": "2026-11-05T20:27:37.092Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,7 +47,7 @@
     "total": 62,
     "india": 16,
     "world": 46,
-    "withImages": 60,
+    "withImages": 58,
     "avgExcerptLength": 458,
     "verra": 10,
     "registry": 0,
@@ -440,13 +440,123 @@
     ],
     "world": [
       {
-        "id": "esg-today-eu-lawmakers-vote-to-water-down-co2-emis-2026-11-05",
+        "id": "esg-dive-deloitte-launches-ai-powered-compliance--2026-11-05",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "Deloitte launches AI-powered compliance tool to curb corporate greenwashing",
+        "excerpt": "The Green Claims Navigator is designed to speedily detect misleading statements a company has made about the environmental benefits of its products or practice across its entire content ecosystem.",
+        "url": "https://www.esgdive.com/news/deloitte-launches-ai-powered-compliance-tool-to-curb-corporate-greenwashing/873902/",
+        "publishedAt": "2026-11-05T18:00:40.000Z",
+        "image": "https://imgproxy.divecdn.com/kwEn7Mnk9Iaz-V-UnsbdLPlobF3ROBLG_YafLauQhHY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ3NjE5MDYxLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-ceres-faith-based-investors-sue-kentucky-2026-11-05",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Ceres, faith-based investors sue Kentucky over law targeting proxy advice",
+        "excerpt": "The sustainability nonprofit was joined by a pair of faith-based investors in seeking to stop a law that would compel disclosures from proxy advisory firms who consider any nonpecuniary factors.",
+        "url": "https://www.esgdive.com/news/ceres-iccr-ucf-sue-kentucky-over-law-targeting-proxy-advice/873889/",
+        "publishedAt": "2026-11-05T17:35:00.000Z",
+        "image": "https://imgproxy.divecdn.com/Lnxbz9tf9HpFvzivOTErkc-CRKXYeSu1BjnuTrEhK7k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MDgwMTY1NjkuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-o-i-glass-served-with-class-action-lawsu-2026-11-05",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "O-I Glass served with class action lawsuit alleging securities fraud",
+        "excerpt": "CEO Gordon Hardie and CFO John Haudrich are also named in the lawsuit. Among the allegations, a shareholder said defendants concealed material adverse facts concerning the true state of O-I Glass Fit to Win program.",
+        "url": "https://www.esgdive.com/news/oi-glass-faces-class-action-lawsuit-alleging-securities-fraud-fit-to-win/873875/",
+        "publishedAt": "2026-11-05T16:43:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-deutsche-bank-rabobank-back-936-million--2026-11-05",
         "source": "esg-today",
         "sourceName": "ESG Today",
         "type": "esg",
         "tag": "ESG",
         "accent": "#60a5fa",
-        "title": "EU Lawmakers Vote to Water Down CO2 Emissions Reduction Requirements for Cars",
+        "title": "Deutsche Bank, Rabobank Back $936 Million Financing for Battery Storage Expansion in Germany",
+        "excerpt": "Energy storage provider Return announced that it has secured €835 million (USD$936 million) in portfolio financing underwritten by Deutsche Bank and Rabobank, aimed at expanding its battery storage capacity in Germany. Founded in 2021, Amsterdam-based Return provides solutions that ensure that renewable energy is efficiently stored and used where and when it is needed. The company builds, owns and operates large-scale energy storage solutions, including its high-tech battery energy storage system (BESS), which connects storage sites across countries,…",
+        "url": "https://www.esgtoday.com/deutsche-bank-rabobank-back-936-million-financing-for-battery-storage-expansion-in-germany/?utm_source=rss utm_medium=rss utm_campaign=deutsche-bank-rabobank-back-936-million-financing-for-battery-storage-expansion-in-germany",
+        "publishedAt": "2026-11-05T16:11:11.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Return-Energy.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-deloitte-launches-new-solution-to-help-c-2026-11-05",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Deloitte Launches New Solution to Help Companies Avoid Greenwashing",
+        "excerpt": "Deloitte announced the launch of Green Claim Navigator, a new AI-powered solution aimed at enabling companies to detect greenwashing and ensure compliance of green claims made across their websites, reports, packaging, and marketing materials with new regulations. According to Deloitte, the new solution comes as companies face increasing pressure to monitor their green claims from regulations including the EU’s Directive on Empowering Consumers for the Green Transition (EmpCo) and Switzerland s updated climate-related claims rules under its Unfair…",
+        "url": "https://www.esgtoday.com/deloitte-launches-new-solution-to-help-companies-avoid-greenwashing/?utm_source=rss utm_medium=rss utm_campaign=deloitte-launches-new-solution-to-help-companies-avoid-greenwashing",
+        "publishedAt": "2026-11-05T15:46:49.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Deloitte-Vancouver.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-eu-lawmakers-move-to-water-down-co2-emis-2026-11-05",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EU Lawmakers Move to Water Down CO2 Emissions Reduction Requirements for Cars",
         "excerpt": "Lawmakers in the European Parliament’s Environment Committee (ENVI) adopted a position in a 48-30 vote to ease CO2 emissions reduction requirements for new cars and vans, supporting a European Commission proposal to ease regulations that would have effectively ended the sale of new internal combustion cars and vans in the EU by 2035. The ENVI committee’s position pushes for a sharper easing in emissions cuts than the Commission’s proposal, with the lawmakers looking to set an 87.5% emissions reduction target, compared with the Commission’s 90%, and the…",
         "url": "https://www.esgtoday.com/eu-lawmakers-vote-to-water-down-co2-emissions-reduction-requirements-for-cars/?utm_source=rss utm_medium=rss utm_campaign=eu-lawmakers-vote-to-water-down-co2-emissions-reduction-requirements-for-cars",
         "publishedAt": "2026-11-05T15:10:51.000Z",
@@ -721,50 +831,6 @@
         "status": null,
         "meta": {
           "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-holcim-invests-in-carbon-storage-startup-2026-11-04",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Holcim Invests in Carbon Storage Startup 44.01",
-        "excerpt": "Building materials company Holcim announced today an investment in carbon sequestration technology company 44.01, aimed at advancing a commercial relationship between the companies, and supporting 44.01’s international expansion. Founded in 2020, Oman-based 44.01 provides solutions to eliminate CO2 captured from the air or from hard-to-abate industrial processes by turning it into rock, through its technology to accelerate the natural process of CO2 mineralization. The company’s solution takes captured CO2 and dissolves it in water, creating an acidic…",
-        "url": "https://www.esgtoday.com/holcim-invests-in-decarbonization-startup-44-01/?utm_source=rss utm_medium=rss utm_campaign=holcim-invests-in-decarbonization-startup-44-01",
-        "publishedAt": "2026-11-04T13:57:03.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/4401-2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-eu-regulators-propose-simplification-of--2026-11-04",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EU Regulators Propose Simplification of Taxonomy Reporting Rules for Banks, Insurers and Investors",
-        "excerpt": "Europe’s three primary financial regulatory agencies, the European Supervisory Authorities (ESAs) announced the release of their finalized advice on measures to simplify reporting obligations for asset managers, banks and insurers under the EU Taxonomy regulation. The ESAs include The European Securities and Markets Authority (ESMA), The European Banking Authority (EBA), and The European Insurance and Occupational Pensions Authority (EIOPA). The EU Taxonomy, part of the EU Sustainable Finance Framework, and is aimed at helping to facilitate the flow of…",
-        "url": "https://www.esgtoday.com/eu-regulators-propose-simplification-of-taxonomy-reporting-rules-for-banks-insurers-and-investors/?utm_source=rss utm_medium=rss utm_campaign=eu-regulators-propose-simplification-of-taxonomy-reporting-rules-for-banks-insurers-and-investors",
-        "publishedAt": "2026-11-04T11:53:46.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-flags4.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
           "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
@@ -1059,50 +1125,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-meta-backs-low-carbon-cement-with-new-fo-2026-10-30",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Meta backs low-carbon cement with new Fortera deal",
-        "excerpt": "The deal will give the social media conglomerate access to 200,000 environmental attribute credits and provide low-carbon cement for building its projects.",
-        "url": "https://www.esgdive.com/news/meta-backs-low-carbon-cement-new-fortera-deal/873334/",
-        "publishedAt": "2026-10-30T16:26:00.000Z",
-        "image": "https://imgproxy.divecdn.com/_F9K7808g-egAJKt4BktdI9h92MmalSfxjmoYu3HMRM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySDNZQlJBLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-ceos-say-they-re-not-yet-seeing-transfor-2026-10-30",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "CEOs say they’re not yet seeing transformational change from AI",
-        "excerpt": "But more than 6 in 10 U.S. leaders said they were confident their firms were moving at the right pace or ahead of the curve in terms of AI development, per a KPMG report.",
-        "url": "https://www.esgdive.com/news/ceos-not-yet-seeing-transformational-change-from-ai/873325/",
-        "publishedAt": "2026-10-30T16:00:00.000Z",
-        "image": "https://imgproxy.divecdn.com/XQ7DitjrcSXyjURGx0ggFKxbtVgJ8REqnlg999ubfWU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTc0MDAzX3FGalczU0cuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-verra-releases-new-resources-for-arr-pro-2026-10-29",
         "source": "verra",
         "sourceName": "Verra",
@@ -1122,28 +1144,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-salesforce-s-new-carbon-credit-deal-give-2026-10-29",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Salesforce’s new carbon credit deal gives sustainable rice farming a boost",
-        "excerpt": "The cloud-based software company will purchase 500,000 methane reduction credits from climate startup Mitti Labs while also helping scale sustainable rice farming practices.",
-        "url": "https://www.esgdive.com/news/salesforces-mitti-labs-carbon-credit-deal-gives-sustainable-rice-farming-a-boost/873210/",
-        "publishedAt": "2026-10-29T16:47:42.000Z",
-        "image": "https://imgproxy.divecdn.com/KrkKLPgSVvq3VBU-_Flzza3XSPnzeIdqgJ6EFV2JYCI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDEyNDg2ODEzLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -1364,10 +1364,10 @@
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
         "title": "Asia needs its own carbon registries: Here’s one | White paper - Hinrich Foundation",
-        "excerpt": "With more than half of the world’s emissions concentrated in the region, it s time for Asia to step up its participation in carbon reduction with the establishment of digital native carbon registries.",
+        "excerpt": "Asia needs its own carbon registries: Here’s one | White paper Hinrich Foundation",
         "url": "https://www.hinrichfoundation.com/research/wp/sustainable-trade/leveraging-technology-to-develop-asia-answer-to-verra",
         "publishedAt": "2023-09-05T07:00:00.000Z",
-        "image": "https://v2-prod-umbraco.hinrichfoundation.com/media/avsogdul/song-digital-native-carbon-registries-1.jpg",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1375,8 +1375,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSTN3ZHJ5UGp5YXIyaDBFSzJkS2h6cFZfS28taHFaUVd2WW5aSi0zeUtNdjN1NDFSdnczVVEwNVBndTVUT29pQ3B6UmlOMVY2cmxKMnV3Yzg5dEFpaXQteGdWOUxKTzJQeXBDc2lqbkcwMjhiMkUweDd3NTM1OVN5VGFJdndTT1N4ZVBkb2pVaUFpN0hwZGx0My1md0lLeXRfNUVfNk1VUExWamRRUk9nQ2Nuck95dWlP?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSTN3ZHJ5UGp5YXIyaDBFSzJkS2h6cFZfS28taHFaUVd2WW5aSi0zeUtNdjN1NDFSdnczVVEwNVBndTVUT29pQ3B6UmlOMVY2cmxKMnV3Yzg5dEFpaXQteGdWOUxKTzJQeXBDc2lqbkcwMjhiMkUweDd3NTM1OVN5VGFJdndTT1N4ZVBkb2pVaUFpN0hwZGx0My1md0lLeXRfNUVfNk1VUExWamRRUk9nQ2Nuck95dWlP?oc=5"
         },
         "region": "world"
       },
@@ -1480,13 +1479,123 @@
   },
   "articles": [
     {
-      "id": "esg-today-eu-lawmakers-vote-to-water-down-co2-emis-2026-11-05",
+      "id": "esg-dive-deloitte-launches-ai-powered-compliance--2026-11-05",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "POLICY",
+      "accent": "#5eead4",
+      "title": "Deloitte launches AI-powered compliance tool to curb corporate greenwashing",
+      "excerpt": "The Green Claims Navigator is designed to speedily detect misleading statements a company has made about the environmental benefits of its products or practice across its entire content ecosystem.",
+      "url": "https://www.esgdive.com/news/deloitte-launches-ai-powered-compliance-tool-to-curb-corporate-greenwashing/873902/",
+      "publishedAt": "2026-11-05T18:00:40.000Z",
+      "image": "https://imgproxy.divecdn.com/kwEn7Mnk9Iaz-V-UnsbdLPlobF3ROBLG_YafLauQhHY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ3NjE5MDYxLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-ceres-faith-based-investors-sue-kentucky-2026-11-05",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Ceres, faith-based investors sue Kentucky over law targeting proxy advice",
+      "excerpt": "The sustainability nonprofit was joined by a pair of faith-based investors in seeking to stop a law that would compel disclosures from proxy advisory firms who consider any nonpecuniary factors.",
+      "url": "https://www.esgdive.com/news/ceres-iccr-ucf-sue-kentucky-over-law-targeting-proxy-advice/873889/",
+      "publishedAt": "2026-11-05T17:35:00.000Z",
+      "image": "https://imgproxy.divecdn.com/Lnxbz9tf9HpFvzivOTErkc-CRKXYeSu1BjnuTrEhK7k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MDgwMTY1NjkuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-o-i-glass-served-with-class-action-lawsu-2026-11-05",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "O-I Glass served with class action lawsuit alleging securities fraud",
+      "excerpt": "CEO Gordon Hardie and CFO John Haudrich are also named in the lawsuit. Among the allegations, a shareholder said defendants concealed material adverse facts concerning the true state of O-I Glass Fit to Win program.",
+      "url": "https://www.esgdive.com/news/oi-glass-faces-class-action-lawsuit-alleging-securities-fraud-fit-to-win/873875/",
+      "publishedAt": "2026-11-05T16:43:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-deutsche-bank-rabobank-back-936-million--2026-11-05",
       "source": "esg-today",
       "sourceName": "ESG Today",
       "type": "esg",
       "tag": "ESG",
       "accent": "#60a5fa",
-      "title": "EU Lawmakers Vote to Water Down CO2 Emissions Reduction Requirements for Cars",
+      "title": "Deutsche Bank, Rabobank Back $936 Million Financing for Battery Storage Expansion in Germany",
+      "excerpt": "Energy storage provider Return announced that it has secured €835 million (USD$936 million) in portfolio financing underwritten by Deutsche Bank and Rabobank, aimed at expanding its battery storage capacity in Germany. Founded in 2021, Amsterdam-based Return provides solutions that ensure that renewable energy is efficiently stored and used where and when it is needed. The company builds, owns and operates large-scale energy storage solutions, including its high-tech battery energy storage system (BESS), which connects storage sites across countries,…",
+      "url": "https://www.esgtoday.com/deutsche-bank-rabobank-back-936-million-financing-for-battery-storage-expansion-in-germany/?utm_source=rss utm_medium=rss utm_campaign=deutsche-bank-rabobank-back-936-million-financing-for-battery-storage-expansion-in-germany",
+      "publishedAt": "2026-11-05T16:11:11.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Return-Energy.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-deloitte-launches-new-solution-to-help-c-2026-11-05",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Deloitte Launches New Solution to Help Companies Avoid Greenwashing",
+      "excerpt": "Deloitte announced the launch of Green Claim Navigator, a new AI-powered solution aimed at enabling companies to detect greenwashing and ensure compliance of green claims made across their websites, reports, packaging, and marketing materials with new regulations. According to Deloitte, the new solution comes as companies face increasing pressure to monitor their green claims from regulations including the EU’s Directive on Empowering Consumers for the Green Transition (EmpCo) and Switzerland s updated climate-related claims rules under its Unfair…",
+      "url": "https://www.esgtoday.com/deloitte-launches-new-solution-to-help-companies-avoid-greenwashing/?utm_source=rss utm_medium=rss utm_campaign=deloitte-launches-new-solution-to-help-companies-avoid-greenwashing",
+      "publishedAt": "2026-11-05T15:46:49.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Deloitte-Vancouver.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-eu-lawmakers-move-to-water-down-co2-emis-2026-11-05",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EU Lawmakers Move to Water Down CO2 Emissions Reduction Requirements for Cars",
       "excerpt": "Lawmakers in the European Parliament’s Environment Committee (ENVI) adopted a position in a 48-30 vote to ease CO2 emissions reduction requirements for new cars and vans, supporting a European Commission proposal to ease regulations that would have effectively ended the sale of new internal combustion cars and vans in the EU by 2035. The ENVI committee’s position pushes for a sharper easing in emissions cuts than the Commission’s proposal, with the lawmakers looking to set an 87.5% emissions reduction target, compared with the Commission’s 90%, and the…",
       "url": "https://www.esgtoday.com/eu-lawmakers-vote-to-water-down-co2-emissions-reduction-requirements-for-cars/?utm_source=rss utm_medium=rss utm_campaign=eu-lawmakers-vote-to-water-down-co2-emissions-reduction-requirements-for-cars",
       "publishedAt": "2026-11-05T15:10:51.000Z",
@@ -1761,50 +1870,6 @@
       "status": null,
       "meta": {
         "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-holcim-invests-in-carbon-storage-startup-2026-11-04",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Holcim Invests in Carbon Storage Startup 44.01",
-      "excerpt": "Building materials company Holcim announced today an investment in carbon sequestration technology company 44.01, aimed at advancing a commercial relationship between the companies, and supporting 44.01’s international expansion. Founded in 2020, Oman-based 44.01 provides solutions to eliminate CO2 captured from the air or from hard-to-abate industrial processes by turning it into rock, through its technology to accelerate the natural process of CO2 mineralization. The company’s solution takes captured CO2 and dissolves it in water, creating an acidic…",
-      "url": "https://www.esgtoday.com/holcim-invests-in-decarbonization-startup-44-01/?utm_source=rss utm_medium=rss utm_campaign=holcim-invests-in-decarbonization-startup-44-01",
-      "publishedAt": "2026-11-04T13:57:03.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/4401-2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-eu-regulators-propose-simplification-of--2026-11-04",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EU Regulators Propose Simplification of Taxonomy Reporting Rules for Banks, Insurers and Investors",
-      "excerpt": "Europe’s three primary financial regulatory agencies, the European Supervisory Authorities (ESAs) announced the release of their finalized advice on measures to simplify reporting obligations for asset managers, banks and insurers under the EU Taxonomy regulation. The ESAs include The European Securities and Markets Authority (ESMA), The European Banking Authority (EBA), and The European Insurance and Occupational Pensions Authority (EIOPA). The EU Taxonomy, part of the EU Sustainable Finance Framework, and is aimed at helping to facilitate the flow of…",
-      "url": "https://www.esgtoday.com/eu-regulators-propose-simplification-of-taxonomy-reporting-rules-for-banks-insurers-and-investors/?utm_source=rss utm_medium=rss utm_campaign=eu-regulators-propose-simplification-of-taxonomy-reporting-rules-for-banks-insurers-and-investors",
-      "publishedAt": "2026-11-04T11:53:46.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-flags4.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
         "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
@@ -2123,50 +2188,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-meta-backs-low-carbon-cement-with-new-fo-2026-10-30",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Meta backs low-carbon cement with new Fortera deal",
-      "excerpt": "The deal will give the social media conglomerate access to 200,000 environmental attribute credits and provide low-carbon cement for building its projects.",
-      "url": "https://www.esgdive.com/news/meta-backs-low-carbon-cement-new-fortera-deal/873334/",
-      "publishedAt": "2026-10-30T16:26:00.000Z",
-      "image": "https://imgproxy.divecdn.com/_F9K7808g-egAJKt4BktdI9h92MmalSfxjmoYu3HMRM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySDNZQlJBLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-ceos-say-they-re-not-yet-seeing-transfor-2026-10-30",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "CEOs say they’re not yet seeing transformational change from AI",
-      "excerpt": "But more than 6 in 10 U.S. leaders said they were confident their firms were moving at the right pace or ahead of the curve in terms of AI development, per a KPMG report.",
-      "url": "https://www.esgdive.com/news/ceos-not-yet-seeing-transformational-change-from-ai/873325/",
-      "publishedAt": "2026-10-30T16:00:00.000Z",
-      "image": "https://imgproxy.divecdn.com/XQ7DitjrcSXyjURGx0ggFKxbtVgJ8REqnlg999ubfWU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTc0MDAzX3FGalczU0cuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-releases-new-resources-for-arr-pro-2026-10-29",
       "source": "verra",
       "sourceName": "Verra",
@@ -2186,28 +2207,6 @@
         "category": "Announcements",
         "feed": "https://verra.org/feed/",
         "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-salesforce-s-new-carbon-credit-deal-give-2026-10-29",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Salesforce’s new carbon credit deal gives sustainable rice farming a boost",
-      "excerpt": "The cloud-based software company will purchase 500,000 methane reduction credits from climate startup Mitti Labs while also helping scale sustainable rice farming practices.",
-      "url": "https://www.esgdive.com/news/salesforces-mitti-labs-carbon-credit-deal-gives-sustainable-rice-farming-a-boost/873210/",
-      "publishedAt": "2026-10-29T16:47:42.000Z",
-      "image": "https://imgproxy.divecdn.com/KrkKLPgSVvq3VBU-_Flzza3XSPnzeIdqgJ6EFV2JYCI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDEyNDg2ODEzLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -2786,10 +2785,10 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "Asia needs its own carbon registries: Here’s one | White paper - Hinrich Foundation",
-      "excerpt": "With more than half of the world’s emissions concentrated in the region, it s time for Asia to step up its participation in carbon reduction with the establishment of digital native carbon registries.",
+      "excerpt": "Asia needs its own carbon registries: Here’s one | White paper Hinrich Foundation",
       "url": "https://www.hinrichfoundation.com/research/wp/sustainable-trade/leveraging-technology-to-develop-asia-answer-to-verra",
       "publishedAt": "2023-09-05T07:00:00.000Z",
-      "image": "https://v2-prod-umbraco.hinrichfoundation.com/media/avsogdul/song-digital-native-carbon-registries-1.jpg",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2797,8 +2796,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSTN3ZHJ5UGp5YXIyaDBFSzJkS2h6cFZfS28taHFaUVd2WW5aSi0zeUtNdjN1NDFSdnczVVEwNVBndTVUT29pQ3B6UmlOMVY2cmxKMnV3Yzg5dEFpaXQteGdWOUxKTzJQeXBDc2lqbkcwMjhiMkUweDd3NTM1OVN5VGFJdndTT1N4ZVBkb2pVaUFpN0hwZGx0My1md0lLeXRfNUVfNk1VUExWamRRUk9nQ2Nuck95dWlP?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSTN3ZHJ5UGp5YXIyaDBFSzJkS2h6cFZfS28taHFaUVd2WW5aSi0zeUtNdjN1NDFSdnczVVEwNVBndTVUT29pQ3B6UmlOMVY2cmxKMnV3Yzg5dEFpaXQteGdWOUxKTzJQeXBDc2lqbkcwMjhiMkUweDd3NTM1OVN5VGFJdndTT1N4ZVBkb2pVaUFpN0hwZGx0My1md0lLeXRfNUVfNk1VUExWamRRUk9nQ2Nuck95dWlP?oc=5"
       },
       "region": "world"
     },
