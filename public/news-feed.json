@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-06T07:33:29.992Z",
+  "fetchedAt": "2026-11-06T14:53:06.667Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -171,30 +171,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFlRczlOUHRvTnNOVnl1V3AtRlJHVm1xLUpqb2MxTXJQRzdFUF9Kdmw0M3ZVTHJRcURGaXNjMWRuV0NEQWNjNkFrT3dBWm5VbFRJcnM4ZW5FeUJKTUdYeG9jUVU4OXFJQWVBR3JrVGhMcTk3LUZSdUxJLUlhbkZiTmtGYjZIaTI0aDI1a0MwTTJ3VF9sbGlqQXZMa05VTFhDSVJLUkNkaXc1X3pLVmxYQUtuWUh0MzgteFZsakZfVDB4RVnSAdABQVVfeXFMUE90eUNTTWg2QXJ4ZVFMUzI5cGxJVmNwc3dBdjNJMF9QTG1OVjNRNUFkLTdYdHNPMGtPY1V3Y05Qa1JPWmZCMGJMdjJ5V0psYjN6azBLSWhmNTJ2dEN6Q2s4d2E0b3ZHLUIzNXNOQ1NmQkFnSGxqNERCZy1mRGxVbzZnek44TWlpX01OLWlhdXZYdURLWU5abXFsakkyNlR1RC1UdFNZV1lOa1MyVDBQeXZMN2M5eUdlbmQ3ZU9lU0t4SEJLNHZDSEhCRTF1Y3hEWA?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-india-s-green-hydrogen-push-gathers-pace-2026-07-29",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
-        "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
-        "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
-        "publishedAt": "2026-07-29T07:00:00.000Z",
-        "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -414,6 +390,30 @@
         "region": "india"
       },
       {
+        "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
+        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+        "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
+        "publishedAt": "2026-01-02T08:44:45.000Z",
+        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-h2-financing-green-hydrogen-in-india-ceew-2024-06-18",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -439,6 +439,139 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-nbim-acquires-300-million-stake-in-aypa--2026-11-06",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "NBIM Acquires $300 Million Stake in Aypa Power in First Direct Battery Storage Investment",
+        "excerpt": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund, announced that it has acquired a 10% stake in battery storage developer Aypa Power for $300 million, marking the fund’s first direct investment in battery storage. Founded in 2017, Aypa Power develops, owns, and operates utility-scale energy storage and hybrid renewable energy projects that assist in the decarbonization of the grid. The company is the largest standalone battery storage developer in North America, with approximately 6.5 GW of operating,…",
+        "url": "https://www.esgtoday.com/nbim-acquires-300-million-stake-in-aypa-power-in-first-direct-battery-storage-investment/?utm_source=rss utm_medium=rss utm_campaign=nbim-acquires-300-million-stake-in-aypa-power-in-first-direct-battery-storage-investment",
+        "publishedAt": "2026-11-06T12:34:08.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Norges.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-approves-first-credits-under-ccs-m-2026-11-06",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Approves First Credits Under CCS Methodology",
+        "excerpt": "WASHINGTON – Nov. 6, 2026 | Verra has approved the first carbon credits under its carbon capture and storage (CCS) methodology for a project in northern Texas. Credits can now be issued to the Barnett Zero Project ( Verra Project 6016 ) in the city of Bridgeport. The project captures CO 2 separated from raw natural gas at a processing plant, then compresses the CO 2 and stores it permanently in an injection well nearby. The credits were generated under Verified Carbon Standard (VCS) methodology VM0049 Carbon Capture and Storage v1.0 , which establishes…",
+        "url": "https://verra.org/verra-approves-first-credits-under-ccs-methodology/",
+        "publishedAt": "2026-11-06T12:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2023/07/biogas-gerald-krieseler.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-ev-truck-platform-harbinger-raises-240-m-2026-11-06",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EV Truck Platform Harbinger Raises $240 Million to Expand into Energy Storage, Defense",
+        "excerpt": "Electric truck manufacturer Harbinger announced that it has raised $240 million in a Series D funding round, with proceeds from the financing to be used to drive the expansion of the company’s electrification platform across a range of verticals including energy storage, power generation and defense. Founded in 2021, California-based Harbinger develops advanced electrification technologies, including, with an initial focus on chassis for electric medium duty commercial and specialty vehicles. Harbinger said that its approach of engineering systems from…",
+        "url": "https://www.esgtoday.com/ev-truck-platform-harbinger-raises-240-million-to-expand-into-energy-storage-defense/?utm_source=rss utm_medium=rss utm_campaign=ev-truck-platform-harbinger-raises-240-million-to-expand-into-energy-storage-defense",
+        "publishedAt": "2026-11-06T10:31:51.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Harbinger2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-impact-investing-platform-builders-visio-2026-11-06",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Impact Investing Platform Builders Vision Appoints Matt Knott as CEO",
+        "excerpt": "Sustainability-focused investment and philanthropy platform Builders Vision announced the appointment of Matt Knott as its new CEO, and of Lisa Forbes as Chief Strategy Officer. Founded in 2018 by Walmart heir Lukas Walton, Chicago-based Builders Vision allocates capital through a combination of grants, direct investments and fund investments in public and private markets to scale sustainable solutions and accelerate market adoption. The firm’s investment focus areas include sustainable food and agriculture, healthy oceans, and clean energy. The firm…",
+        "url": "https://www.esgtoday.com/impact-investing-platform-builders-vision-appoints-matt-knott-as-ceo/?utm_source=rss utm_medium=rss utm_campaign=impact-investing-platform-builders-vision-appoints-matt-knott-as-ceo",
+        "publishedAt": "2026-11-06T09:28:00.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Builders-Vision-Knott.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Executive Moves",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-simply-staggering-rapidly-developing-sup-2026-11-06",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "‘Simply staggering’: Rapidly developing ‘super El Niño’ on track to peak in December",
+        "excerpt": "Share The ongoing “super El Niño” is likely to peak at the end of 2026 and push average global temperatures to record levels next year. That is according to Carbon Brief’s latest “ state of the climate ” update, which analyses El Niño forecasts from more than a dozen climate models, as well as six global temperature datasets. Dr Zeke Hausfather , Carbon Brief’s climate science contributor, described this year’s El Niño as “simply staggering” when answering questions from CB+ members during a CB Connect “ ask me anything ” session. El Niño is a naturally…",
+        "url": "https://www.carbonbrief.org/simply-staggering-rapidly-developing-super-el-nino-on-track-to-peak-in-december",
+        "publishedAt": "2026-11-06T09:12:35.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/this-years-el-nio-is_2-2500x1788.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-seedling-acquires-carbon-accounting-plat-2026-11-06",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Seedling Acquires Carbon Accounting Platform Go Climate Positive",
+        "excerpt": "Carbon management platform Seedling announced the acquisition of carbon accounting company Go Climate Positive, in a move aimed at strengthening its position as a solution provider for scaling and mid-market businesses requiring standards-aligned reporting and support on net zero progress. The announcement marks the latest in a series of deals in the rapidly consolidating carbon accounting space, with transactions this year including the acquisition of Optera by Green Project Technologies , of Minimum by Novisto , of Normative by Greenly , and of Plan A…",
+        "url": "https://www.esgtoday.com/seedling-acquires-carbon-accounting-provider-go-climate-positive/?utm_source=rss utm_medium=rss utm_campaign=seedling-acquires-carbon-accounting-provider-go-climate-positive",
+        "publishedAt": "2026-11-06T08:32:40.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Seedling.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "carbon-brief-analysis-china-s-quarterly-co2-falls-3-i-2026-11-06",
         "source": "carbon-brief",
@@ -682,28 +815,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-the-emergency-brake-on-deforestation-is--2026-11-05",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "The Emergency Brake on Deforestation is Ready. Will Companies Step Up?",
-        "excerpt": "After decades of debate, we finally have the tools to finance tropical forest protection at scale. As COP31 approaches, the question is whether enough companies will step forward to help deploy one of the world s most powerful climate emergency brakes. I have a confession to make. As a teenager in the 1980s, I was mildly irritated by Sting. Not because of his music, but because every television appearance and magazine interview seemed to come back to saving the Amazon rainforest. But looking back at it now, what s remarkable is not that people were…",
-        "url": "https://www.esgtoday.com/the-emergency-brake-on-deforestation-is-ready-will-companies-step-up/?utm_source=rss utm_medium=rss utm_campaign=the-emergency-brake-on-deforestation-is-ready-will-companies-step-up",
-        "publishedAt": "2026-11-05T09:42:11.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Nature4Climate-Almond.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-bcg-appoints-new-global-climate-sustaina-2026-11-04",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -748,28 +859,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-logitech-launches-supply-chain-decarboni-2026-11-04",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Logitech Launches Supply Chain Decarbonization Program",
-        "excerpt": "Computer peripherals and technology company Logitech announced the launch of Chain Reaction, a supply chain decarbonization program designed to help suppliers reduce carbon emissions and optimize factory operations. According to Logitech, the new program marks an expansion of its climate strategy, providing direct operational support to help suppliers build their own decarbonization roadmaps while advancing the company’s target to cut its Scope 3 greenhouse gas (GHG) emissions in half by 2030. Sree Chenincherry, Chief Supply Chain Operations Officer at…",
-        "url": "https://www.esgtoday.com/logitech-launches-supply-chain-decarbonization-program/?utm_source=rss utm_medium=rss utm_campaign=logitech-launches-supply-chain-decarbonization-program",
-        "publishedAt": "2026-11-04T15:58:18.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Logitech2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-q-a-what-is-the-brazil-led-deforestation-2026-11-04",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -792,28 +881,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-eu-commission-scraps-green-claims-direct-2026-11-04",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EU Commission Scraps Green Claims Directive",
-        "excerpt": "The European Commission revealed on Wednesday that it has officially withdrawn the Green Claims Directive, its proposed regulation aimed at protecting consumers from greenwashing claims about the environmental attributes of products and services. The withdrawal, announced with the release of the Commission’s 2027 work programme, follows a prolonged process to pass the regulation, which was paused last year after losing support from major political parties, citing the rules’ potential to disproportionately burden small companies. The Commission…",
-        "url": "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/?utm_source=rss utm_medium=rss utm_campaign=eu-commission-scraps-green-claims-directive",
-        "publishedAt": "2026-11-04T15:24:38.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-flags3.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Government",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-q-a-what-is-in-the-global-roadmap-for-tr-2026-11-04",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -824,7 +891,7 @@
         "excerpt": "Share Article Contents Expand menu Close Why has Brazil produced a fossil-fuel ‘roadmap’? What does the fossil-fuel roadmap say? How will the fossil-fuel roadmap be discussed at COP31? Transitioning away from fossil fuels is “urgent, inevitable and, yet, possible”, according to a first-of-its-kind global “ roadmap ” produced by Brazil. The host of last year’s climate summit, COP30 , has set out a voluntary plan for how countries can move away from coal, oil and gas. The roadmap says there is no “one-size-fits-all” approach to transitioning away from…",
         "url": "https://www.carbonbrief.org/qa-what-is-in-the-global-roadmap-for-transitioning-away-from-fossil-fuels",
         "publishedAt": "2026-11-04T15:23:07.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/10/cb-plus-banner-scaled.png",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/logo-for-web-banner-scaled.png",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -832,28 +899,6 @@
         "meta": {
           "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-brazil-releases-roadmaps-to-phase-out-fo-2026-11-04",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Brazil Releases Roadmaps to Phase Out Fossil Fuels, End Deforestation",
-        "excerpt": "COP30 host Brazil announced the release of two new “Roadmaps,” outlining global strategies to transitioning away from fossil fuels in energy systems, and to halt and reverse deforestation and forest degradation by 2030. The new roadmaps were released in the leadup to the COP31 conference, following an unsuccessful push by several countries at COP30 last year to include a reference to a roadmap away from fossil fuels in the final agreement. At the conclusion of COP30, the Brazil presidency committed to create science-based roadmaps over the next year on…",
-        "url": "https://www.esgtoday.com/brazil-launches-roadmaps-to-phase-out-fossil-fuels-end-deforestation/?utm_source=rss utm_medium=rss utm_campaign=brazil-launches-roadmaps-to-phase-out-fossil-fuels-end-deforestation",
-        "publishedAt": "2026-11-04T14:32:25.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/COP30-roadmaps.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -868,7 +913,7 @@
         "excerpt": "Share Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit. Carbon Brief’s Orla Dwyer and Aruna Chandrasekhar have been on the ground in Yerevan, Armenia, over the past two weeks, covering the negotiations. They were joined on the livestream by associate editors Dr Giuliana Viglione and Daisy Dunne , who were following the talks from Washington DC and London, respectively. Carbon Brief has also published its 10,000-word explainer of COP17, which lays out the key…",
         "url": "https://www.carbonbrief.org/cb-live-carbon-briefs-team-at-cop17-on-the-nature-talks-key-outcomes",
         "publishedAt": "2026-11-04T10:40:52.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/10/cb-plus-banner-scaled.png",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/logo-for-web-banner-scaled.png",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -956,7 +1001,7 @@
         "excerpt": "Share The upcoming COP31 climate talks in Antalya, Turkey need to respond to the latest science on global warming, which is “really scary”, says UK climate minister Katie White. In an interview with Carbon Brief setting out the UK’s priorities for the summit, White also responds to suggestions that the government is walking back its climate policies. White says the “shocking” impact of extreme heat and wildfires this summer makes it clear that climate change “isn t something far off; it s something we re living through”. She adds that the UK will be…",
         "url": "https://www.carbonbrief.org/uk-climate-minister-katie-white-cop31-must-respond-to-really-scary-science",
         "publishedAt": "2026-11-03T16:50:09.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/10/cb-plus-banner-scaled.png",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/logo-for-web-banner-scaled.png",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1053,28 +1098,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-interactive-who-wants-what-at-the-cop31--2026-11-02",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Interactive: Who wants what at the COP31 climate change summit",
-        "excerpt": "Share Article Contents Expand menu Close Just transition Climate finance Adaptation and mitigation Global stocktake and NDCs Action agenda and other issues Delegates will soon gather in the Turkish resort city of Antalya for UN climate negotiations, against a backdrop of war , energy crisis and climate extremes . At COP31, nations will try to find agreement on various issues, including climate finance for developing countries and a global “ just transition ” towards a cleaner economy. This summit is unusual due to its joint presidency, which means that…",
-        "url": "https://www.carbonbrief.org/interactive-who-wants-what-at-the-cop31-climate-change-summit",
-        "publishedAt": "2026-11-02T16:57:31.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/ENB_SB64_18Jun26_KiaraWorth-92-768x512.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
         },
         "region": "world"
       },
@@ -1259,28 +1282,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-october-2026-newsletter-2026-10-23",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "October 2026 Newsletter",
-        "excerpt": "Welcome to Verra s October newsletter! It was good to connect with many of you at Climate Week NYC, and we look forward to seeing many of you (again) at COP31 in Antalya, Türkiye! Verra CEO Mandy Rambharos will be attending, along with several other team members. Visit our dedicated webpage for information on our events and speaking engagements, which will continue to be updated as details are confirmed. We are excited to share that Verra’s carbon capture and storage (CCS) methodology and its accompanying modules have been approved by the Integrity…",
-        "url": "https://verra.org/october-2026-newsletter/",
-        "publishedAt": "2026-10-23T14:15:06.000Z",
-        "image": "https://verra.org/wp-content/uploads/2026/10/7d0ce751-2faa-3ceb-26d7-480d43f3e52f-1024x683.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/"
         },
         "region": "world"
       },
@@ -1479,6 +1480,139 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-nbim-acquires-300-million-stake-in-aypa--2026-11-06",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "NBIM Acquires $300 Million Stake in Aypa Power in First Direct Battery Storage Investment",
+      "excerpt": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund, announced that it has acquired a 10% stake in battery storage developer Aypa Power for $300 million, marking the fund’s first direct investment in battery storage. Founded in 2017, Aypa Power develops, owns, and operates utility-scale energy storage and hybrid renewable energy projects that assist in the decarbonization of the grid. The company is the largest standalone battery storage developer in North America, with approximately 6.5 GW of operating,…",
+      "url": "https://www.esgtoday.com/nbim-acquires-300-million-stake-in-aypa-power-in-first-direct-battery-storage-investment/?utm_source=rss utm_medium=rss utm_campaign=nbim-acquires-300-million-stake-in-aypa-power-in-first-direct-battery-storage-investment",
+      "publishedAt": "2026-11-06T12:34:08.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Norges.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-verra-approves-first-credits-under-ccs-m-2026-11-06",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Approves First Credits Under CCS Methodology",
+      "excerpt": "WASHINGTON – Nov. 6, 2026 | Verra has approved the first carbon credits under its carbon capture and storage (CCS) methodology for a project in northern Texas. Credits can now be issued to the Barnett Zero Project ( Verra Project 6016 ) in the city of Bridgeport. The project captures CO 2 separated from raw natural gas at a processing plant, then compresses the CO 2 and stores it permanently in an injection well nearby. The credits were generated under Verified Carbon Standard (VCS) methodology VM0049 Carbon Capture and Storage v1.0 , which establishes…",
+      "url": "https://verra.org/verra-approves-first-credits-under-ccs-methodology/",
+      "publishedAt": "2026-11-06T12:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2023/07/biogas-gerald-krieseler.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-ev-truck-platform-harbinger-raises-240-m-2026-11-06",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EV Truck Platform Harbinger Raises $240 Million to Expand into Energy Storage, Defense",
+      "excerpt": "Electric truck manufacturer Harbinger announced that it has raised $240 million in a Series D funding round, with proceeds from the financing to be used to drive the expansion of the company’s electrification platform across a range of verticals including energy storage, power generation and defense. Founded in 2021, California-based Harbinger develops advanced electrification technologies, including, with an initial focus on chassis for electric medium duty commercial and specialty vehicles. Harbinger said that its approach of engineering systems from…",
+      "url": "https://www.esgtoday.com/ev-truck-platform-harbinger-raises-240-million-to-expand-into-energy-storage-defense/?utm_source=rss utm_medium=rss utm_campaign=ev-truck-platform-harbinger-raises-240-million-to-expand-into-energy-storage-defense",
+      "publishedAt": "2026-11-06T10:31:51.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Harbinger2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-impact-investing-platform-builders-visio-2026-11-06",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Impact Investing Platform Builders Vision Appoints Matt Knott as CEO",
+      "excerpt": "Sustainability-focused investment and philanthropy platform Builders Vision announced the appointment of Matt Knott as its new CEO, and of Lisa Forbes as Chief Strategy Officer. Founded in 2018 by Walmart heir Lukas Walton, Chicago-based Builders Vision allocates capital through a combination of grants, direct investments and fund investments in public and private markets to scale sustainable solutions and accelerate market adoption. The firm’s investment focus areas include sustainable food and agriculture, healthy oceans, and clean energy. The firm…",
+      "url": "https://www.esgtoday.com/impact-investing-platform-builders-vision-appoints-matt-knott-as-ceo/?utm_source=rss utm_medium=rss utm_campaign=impact-investing-platform-builders-vision-appoints-matt-knott-as-ceo",
+      "publishedAt": "2026-11-06T09:28:00.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Builders-Vision-Knott.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Executive Moves",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-simply-staggering-rapidly-developing-sup-2026-11-06",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "‘Simply staggering’: Rapidly developing ‘super El Niño’ on track to peak in December",
+      "excerpt": "Share The ongoing “super El Niño” is likely to peak at the end of 2026 and push average global temperatures to record levels next year. That is according to Carbon Brief’s latest “ state of the climate ” update, which analyses El Niño forecasts from more than a dozen climate models, as well as six global temperature datasets. Dr Zeke Hausfather , Carbon Brief’s climate science contributor, described this year’s El Niño as “simply staggering” when answering questions from CB+ members during a CB Connect “ ask me anything ” session. El Niño is a naturally…",
+      "url": "https://www.carbonbrief.org/simply-staggering-rapidly-developing-super-el-nino-on-track-to-peak-in-december",
+      "publishedAt": "2026-11-06T09:12:35.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/this-years-el-nio-is_2-2500x1788.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-seedling-acquires-carbon-accounting-plat-2026-11-06",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Seedling Acquires Carbon Accounting Platform Go Climate Positive",
+      "excerpt": "Carbon management platform Seedling announced the acquisition of carbon accounting company Go Climate Positive, in a move aimed at strengthening its position as a solution provider for scaling and mid-market businesses requiring standards-aligned reporting and support on net zero progress. The announcement marks the latest in a series of deals in the rapidly consolidating carbon accounting space, with transactions this year including the acquisition of Optera by Green Project Technologies , of Minimum by Novisto , of Normative by Greenly , and of Plan A…",
+      "url": "https://www.esgtoday.com/seedling-acquires-carbon-accounting-provider-go-climate-positive/?utm_source=rss utm_medium=rss utm_campaign=seedling-acquires-carbon-accounting-provider-go-climate-positive",
+      "publishedAt": "2026-11-06T08:32:40.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Seedling.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "carbon-brief-analysis-china-s-quarterly-co2-falls-3-i-2026-11-06",
       "source": "carbon-brief",
@@ -1722,28 +1856,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-the-emergency-brake-on-deforestation-is--2026-11-05",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "The Emergency Brake on Deforestation is Ready. Will Companies Step Up?",
-      "excerpt": "After decades of debate, we finally have the tools to finance tropical forest protection at scale. As COP31 approaches, the question is whether enough companies will step forward to help deploy one of the world s most powerful climate emergency brakes. I have a confession to make. As a teenager in the 1980s, I was mildly irritated by Sting. Not because of his music, but because every television appearance and magazine interview seemed to come back to saving the Amazon rainforest. But looking back at it now, what s remarkable is not that people were…",
-      "url": "https://www.esgtoday.com/the-emergency-brake-on-deforestation-is-ready-will-companies-step-up/?utm_source=rss utm_medium=rss utm_campaign=the-emergency-brake-on-deforestation-is-ready-will-companies-step-up",
-      "publishedAt": "2026-11-05T09:42:11.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Nature4Climate-Almond.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-bcg-appoints-new-global-climate-sustaina-2026-11-04",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1788,28 +1900,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-logitech-launches-supply-chain-decarboni-2026-11-04",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Logitech Launches Supply Chain Decarbonization Program",
-      "excerpt": "Computer peripherals and technology company Logitech announced the launch of Chain Reaction, a supply chain decarbonization program designed to help suppliers reduce carbon emissions and optimize factory operations. According to Logitech, the new program marks an expansion of its climate strategy, providing direct operational support to help suppliers build their own decarbonization roadmaps while advancing the company’s target to cut its Scope 3 greenhouse gas (GHG) emissions in half by 2030. Sree Chenincherry, Chief Supply Chain Operations Officer at…",
-      "url": "https://www.esgtoday.com/logitech-launches-supply-chain-decarbonization-program/?utm_source=rss utm_medium=rss utm_campaign=logitech-launches-supply-chain-decarbonization-program",
-      "publishedAt": "2026-11-04T15:58:18.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Logitech2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-q-a-what-is-the-brazil-led-deforestation-2026-11-04",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -1832,28 +1922,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-eu-commission-scraps-green-claims-direct-2026-11-04",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EU Commission Scraps Green Claims Directive",
-      "excerpt": "The European Commission revealed on Wednesday that it has officially withdrawn the Green Claims Directive, its proposed regulation aimed at protecting consumers from greenwashing claims about the environmental attributes of products and services. The withdrawal, announced with the release of the Commission’s 2027 work programme, follows a prolonged process to pass the regulation, which was paused last year after losing support from major political parties, citing the rules’ potential to disproportionately burden small companies. The Commission…",
-      "url": "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/?utm_source=rss utm_medium=rss utm_campaign=eu-commission-scraps-green-claims-directive",
-      "publishedAt": "2026-11-04T15:24:38.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-flags3.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Government",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-q-a-what-is-in-the-global-roadmap-for-tr-2026-11-04",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -1864,7 +1932,7 @@
       "excerpt": "Share Article Contents Expand menu Close Why has Brazil produced a fossil-fuel ‘roadmap’? What does the fossil-fuel roadmap say? How will the fossil-fuel roadmap be discussed at COP31? Transitioning away from fossil fuels is “urgent, inevitable and, yet, possible”, according to a first-of-its-kind global “ roadmap ” produced by Brazil. The host of last year’s climate summit, COP30 , has set out a voluntary plan for how countries can move away from coal, oil and gas. The roadmap says there is no “one-size-fits-all” approach to transitioning away from…",
       "url": "https://www.carbonbrief.org/qa-what-is-in-the-global-roadmap-for-transitioning-away-from-fossil-fuels",
       "publishedAt": "2026-11-04T15:23:07.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/10/cb-plus-banner-scaled.png",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/logo-for-web-banner-scaled.png",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -1872,28 +1940,6 @@
       "meta": {
         "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-brazil-releases-roadmaps-to-phase-out-fo-2026-11-04",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Brazil Releases Roadmaps to Phase Out Fossil Fuels, End Deforestation",
-      "excerpt": "COP30 host Brazil announced the release of two new “Roadmaps,” outlining global strategies to transitioning away from fossil fuels in energy systems, and to halt and reverse deforestation and forest degradation by 2030. The new roadmaps were released in the leadup to the COP31 conference, following an unsuccessful push by several countries at COP30 last year to include a reference to a roadmap away from fossil fuels in the final agreement. At the conclusion of COP30, the Brazil presidency committed to create science-based roadmaps over the next year on…",
-      "url": "https://www.esgtoday.com/brazil-launches-roadmaps-to-phase-out-fossil-fuels-end-deforestation/?utm_source=rss utm_medium=rss utm_campaign=brazil-launches-roadmaps-to-phase-out-fossil-fuels-end-deforestation",
-      "publishedAt": "2026-11-04T14:32:25.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/COP30-roadmaps.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -1908,7 +1954,7 @@
       "excerpt": "Share Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit. Carbon Brief’s Orla Dwyer and Aruna Chandrasekhar have been on the ground in Yerevan, Armenia, over the past two weeks, covering the negotiations. They were joined on the livestream by associate editors Dr Giuliana Viglione and Daisy Dunne , who were following the talks from Washington DC and London, respectively. Carbon Brief has also published its 10,000-word explainer of COP17, which lays out the key…",
       "url": "https://www.carbonbrief.org/cb-live-carbon-briefs-team-at-cop17-on-the-nature-talks-key-outcomes",
       "publishedAt": "2026-11-04T10:40:52.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/10/cb-plus-banner-scaled.png",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/logo-for-web-banner-scaled.png",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -1996,7 +2042,7 @@
       "excerpt": "Share The upcoming COP31 climate talks in Antalya, Turkey need to respond to the latest science on global warming, which is “really scary”, says UK climate minister Katie White. In an interview with Carbon Brief setting out the UK’s priorities for the summit, White also responds to suggestions that the government is walking back its climate policies. White says the “shocking” impact of extreme heat and wildfires this summer makes it clear that climate change “isn t something far off; it s something we re living through”. She adds that the UK will be…",
       "url": "https://www.carbonbrief.org/uk-climate-minister-katie-white-cop31-must-respond-to-really-scary-science",
       "publishedAt": "2026-11-03T16:50:09.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/10/cb-plus-banner-scaled.png",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/logo-for-web-banner-scaled.png",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2093,28 +2139,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-interactive-who-wants-what-at-the-cop31--2026-11-02",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Interactive: Who wants what at the COP31 climate change summit",
-      "excerpt": "Share Article Contents Expand menu Close Just transition Climate finance Adaptation and mitigation Global stocktake and NDCs Action agenda and other issues Delegates will soon gather in the Turkish resort city of Antalya for UN climate negotiations, against a backdrop of war , energy crisis and climate extremes . At COP31, nations will try to find agreement on various issues, including climate finance for developing countries and a global “ just transition ” towards a cleaner economy. This summit is unusual due to its joint presidency, which means that…",
-      "url": "https://www.carbonbrief.org/interactive-who-wants-what-at-the-cop31-climate-change-summit",
-      "publishedAt": "2026-11-02T16:57:31.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/ENB_SB64_18Jun26_KiaraWorth-92-768x512.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
     },
@@ -2303,28 +2327,6 @@
       "region": "world"
     },
     {
-      "id": "verra-october-2026-newsletter-2026-10-23",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "October 2026 Newsletter",
-      "excerpt": "Welcome to Verra s October newsletter! It was good to connect with many of you at Climate Week NYC, and we look forward to seeing many of you (again) at COP31 in Antalya, Türkiye! Verra CEO Mandy Rambharos will be attending, along with several other team members. Visit our dedicated webpage for information on our events and speaking engagements, which will continue to be updated as details are confirmed. We are excited to share that Verra’s carbon capture and storage (CCS) methodology and its accompanying modules have been approved by the Integrity…",
-      "url": "https://verra.org/october-2026-newsletter/",
-      "publishedAt": "2026-10-23T14:15:06.000Z",
-      "image": "https://verra.org/wp-content/uploads/2026/10/7d0ce751-2faa-3ceb-26d7-480d43f3e52f-1024x683.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-h2-catalysing-demand-suggestions-to-scale-u-2026-08-27",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2464,30 +2466,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFlRczlOUHRvTnNOVnl1V3AtRlJHVm1xLUpqb2MxTXJQRzdFUF9Kdmw0M3ZVTHJRcURGaXNjMWRuV0NEQWNjNkFrT3dBWm5VbFRJcnM4ZW5FeUJKTUdYeG9jUVU4OXFJQWVBR3JrVGhMcTk3LUZSdUxJLUlhbkZiTmtGYjZIaTI0aDI1a0MwTTJ3VF9sbGlqQXZMa05VTFhDSVJLUkNkaXc1X3pLVmxYQUtuWUh0MzgteFZsakZfVDB4RVnSAdABQVVfeXFMUE90eUNTTWg2QXJ4ZVFMUzI5cGxJVmNwc3dBdjNJMF9QTG1OVjNRNUFkLTdYdHNPMGtPY1V3Y05Qa1JPWmZCMGJMdjJ5V0psYjN6azBLSWhmNTJ2dEN6Q2s4d2E0b3ZHLUIzNXNOQ1NmQkFnSGxqNERCZy1mRGxVbzZnek44TWlpX01OLWlhdXZYdURLWU5abXFsakkyNlR1RC1UdFNZV1lOa1MyVDBQeXZMN2M5eUdlbmQ3ZU9lU0t4SEJLNHZDSEhCRTF1Y3hEWA?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-h2-india-s-green-hydrogen-push-gathers-pace-2026-07-29",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
-      "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
-      "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
-      "publishedAt": "2026-07-29T07:00:00.000Z",
-      "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2727,6 +2705,30 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
+      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
+      "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
+      "publishedAt": "2026-01-02T08:44:45.000Z",
+      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
