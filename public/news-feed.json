@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-10T15:29:09.947Z",
+  "fetchedAt": "2026-11-10T20:11:33.658Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,38 +45,16 @@
   ],
   "stats": {
     "total": 62,
-    "india": 17,
-    "world": 45,
-    "withImages": 57,
-    "avgExcerptLength": 461,
+    "india": 16,
+    "world": 46,
+    "withImages": 56,
+    "avgExcerptLength": 460,
     "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
-      {
-        "id": "esg-today-circularity-fuels-raises-7-million-to-tu-2026-11-09",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Circularity Fuels Raises $7 Million to Turn Dairy Biogas into Clean Jet Fuel",
-        "excerpt": "Sustainable fuels technology developer Circularity Fuels announced that it has raised $7 million in a seed funding round to advance the commercialization of its technology to convert dairy biogas into sustainable aviation fuel (SAF). Fuel accounts for the vast majority of the aviation sector’s emissions. Generally produced from sustainable resources, like waste oils and agricultural residues, SAF is seen as one of the key tools to help decarbonize the aviation industry in the near- to medium-term. SAF producers estimate the fuels can result in lifecycle…",
-        "url": "https://www.esgtoday.com/circularity-fuels-raises-7-million-to-turn-dairy-biogas-into-clean-jet-fuel/?utm_source=rss utm_medium=rss utm_campaign=circularity-fuels-raises-7-million-to-turn-dairy-biogas-into-clean-jet-fuel",
-        "publishedAt": "2026-11-09T11:43:49.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Circularity-Fuels.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "india"
-      },
       {
         "id": "google-h2-catalysing-demand-suggestions-to-scale-u-2026-08-27",
         "source": "google-h2",
@@ -460,6 +438,161 @@
     ],
     "world": [
       {
+        "id": "verra-chile-recognizes-verra-s-vcs-program-und-2026-11-10",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Chile Recognizes Verra s VCS Program under Article 6 Framework",
+        "excerpt": "Chile’s Ministry of Environment has formally recognized (PDF) Verra s Verified Carbon Standard (VCS) Program under the country s framework for regulating international cooperation under Article 6 of the Paris Agreement. This announcement offers greater regulatory clarity for project developers and buyers. Projects registered with the VCS Program can now follow Chile s applicable Article 6 procedures, provided they meet the relevant national requirements, and supply credits for use under Article 6. The recognition follows an evaluation by the ministry s…",
+        "url": "https://verra.org/chile-recognizes-verras-vcs-program-under-article-6-framework/",
+        "publishedAt": "2026-11-10T18:58:24.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/11/patriciohurtado-river-715059_1920.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-over-180-companies-call-on-cop31-preside-2026-11-10",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Over 180 companies call on COP31 presidency to fix electrification bottleneck",
+        "excerpt": "Companies including H M Group, Danone, Ikea, and Uber are calling for the annual climate change conference to focus on accelerating electrification.",
+        "url": "https://www.esgdive.com/news/over-180-companies-call-on-cop31-presidency-to-fix-electrification-bottleneck/874278/",
+        "publishedAt": "2026-11-10T17:38:23.000Z",
+        "image": "https://imgproxy.divecdn.com/bDnxYorOzL4l8Xd7HGv5eVTvDCbsNgGaX6grTJVe1Sk/g:nowe:0:9/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0MjQ3NDQzLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-analysis-which-countries-have-sent-the-m-2026-11-10",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Analysis: Which countries have sent the most delegates to COP31?",
+        "excerpt": "Share More than 92,000 people have registered to attend the COP31 climate summit in Antalya, Turkey, potentially making it the largest COP in history. Carbon Brief analysis of the provisional lists of delegates, published by the United Nations Framework Convention on Climate Change (UNFCCC), reveals that more than 14,000 delegates have been registered as “host country guests”. For comparison, the provisional list for COP30 in Belém, Brazil, last year included only around 1,000 delegates in this category. As with COP30 , Donald Trump’s US government has…",
+        "url": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31",
+        "publishedAt": "2026-11-10T17:21:37.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/total-attendance2-2500x1683.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-octopus-launches-600-million-asia-clean--2026-11-10",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Octopus Launches $600 Million Asia Clean Energy Fund",
+        "excerpt": "UK-based renewable energy company Octopus Energy Generation announced today the launch of the Octopus Asia Electrification Fund (OAEF), a new fund targeting investments in local green energy developers to help them build out large numbers of clean energy projects across Asia. Announced at COP31 in Antalya, Turkey, the new fund aims to catalyze $600 million from institutional investors and has already secured $50 million in backing from Japanese investors, the company said. The new fund is classified as Article 9 under the EU’s SFDR regulation. According…",
+        "url": "https://www.esgtoday.com/octopus-launches-600-million-asia-clean-energy-fund/?utm_source=rss utm_medium=rss utm_campaign=octopus-launches-600-million-asia-clean-energy-fund",
+        "publishedAt": "2026-11-10T17:08:37.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Octopus-Energy4.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-mercedes-benz-adjusts-2039-carbon-neutra-2026-11-10",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Mercedes-Benz Adjusts 2039 Carbon Neutral Goal, Sets 2049 Net Zero Target",
+        "excerpt": "Mercedes-Benz unveiled a series of revisions to its long-term climate goals, including changing its prior target to make its fleet of new passenger cars carbon neutral by 2039 with new individual targets for emissions from production, vehicle use and its value chain, adding an “as market conditions allow” caveat to its vehicle use-phase ambition, and rolling out a new target to achieve net zero across the value chain by 2049. The new targets were released alongside the announcement of a significant update in Mercedes-Benz’s overall sustainability…",
+        "url": "https://www.esgtoday.com/mercedes-benz-adjusts-2039-carbon-neutral-goal-sets-2049-net-zero-target/?utm_source=rss utm_medium=rss utm_campaign=mercedes-benz-adjusts-2039-carbon-neutral-goal-sets-2049-net-zero-target",
+        "publishedAt": "2026-11-10T16:08:46.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Mercedes-hq.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-this-is-not-a-new-story-legal-profession-2026-11-10",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "‘This is not a new story’: Legal professionals expect tide to turn on DEI",
+        "excerpt": "The idea that diversity, equity and inclusion is a short-lived trend ignores history and legal reality, according to speakers at an American Bar Association conference.",
+        "url": "https://www.esgdive.com/news/this-is-not-a-new-story-legal-professionals-expect-tide-to-turn-on-dei/874266/",
+        "publishedAt": "2026-11-10T15:41:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-sphera-launches-new-product-sustainabili-2026-11-10",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Sphera Launches New Product Sustainability Compliance Solutions",
+        "excerpt": "Sustainability and operational risk management software provider Sphera announced the launch of new AI-powered sustainability solutions and product compliance capabilities, aimed at helping companies assess the environmental impact of their products and comply with evolving regulatory requirements. According to Sphera, as the ability to prove a product is compliant, sustainable and transparent increasingly determines whether it can be sold, and amidst increasing regulations focused on product sustainability, such as the EU’s upcoming Digital Product…",
+        "url": "https://www.esgtoday.com/sphera-launches-solutions-to-help-companies-comply-with-new-product-sustainability-regulations/?utm_source=rss utm_medium=rss utm_campaign=sphera-launches-solutions-to-help-companies-comply-with-new-product-sustainability-regulations",
+        "publishedAt": "2026-11-10T15:38:25.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Sphera-LCA.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-the-collapse-of-koko-networks-a-warning--2026-11-10",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -680,28 +813,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-anchor-energy-partners-launches-debut-75-2026-11-09",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Anchor Energy Partners Launches Debut €75 Million Fund to Target Energy Storage and Flexibility Opportunities",
-        "excerpt": "Newly formed investment platform Anchor Energy Partners announced today the launch of its first fund, Anchor Fund I, focused on developing battery storage and energy flexibility infrastructure across Europe. Anchor said that it has set a target size of €75 million (USD$84 million) for the new fund. Based in Copenhagen, Anchor Energy Partners finances, develops and operates battery storage systems and other energy flexibility assets, focusing on mid-market infrastructure projects that are too small for large infrastructure funds but require more capital…",
-        "url": "https://www.esgtoday.com/anchor-energy-partners-launches-debut-e75-million-fund-to-target-energy-storage-and-flexibility-opportunities/?utm_source=rss utm_medium=rss utm_campaign=anchor-energy-partners-launches-debut-e75-million-fund-to-target-energy-storage-and-flexibility-opportunities",
-        "publishedAt": "2026-11-09T13:34:57.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Anchor-Energy.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-projects-open-for-public-comment-novembe-2026-11-09",
         "source": "verra",
         "sourceName": "Verra",
@@ -721,28 +832,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-eba-delays-esg-reporting-simplification--2026-11-09",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EBA Delays ESG Reporting Simplification Measures for Banks to 2028",
-        "excerpt": "EU banking supervisor The European Banking Authority (EBA) provided an update to its ongoing initiative to simplify EU supervisory reporting requirements, indicating that it plans to postpone the implementation of its simplified ESG reporting measures for banks by more than a year to late 2028. According to the EBA, the delayed implementation follows feedback and dialogue with the banking industry on the proposed changes, with the regulator now planning to release a finalized proposal package later this year with additional simplification measures and…",
-        "url": "https://www.esgtoday.com/eba-delays-esg-reporting-simplification-measures-for-banks-to-2028/?utm_source=rss utm_medium=rss utm_campaign=eba-delays-esg-reporting-simplification-measures-for-banks-to-2028",
-        "publishedAt": "2026-11-09T12:27:14.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EBA2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -934,7 +1023,7 @@
         "excerpt": "Share The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal agreements – and COP31 in the Turkish city of Antalya is no different. These texts are hashed out behind closed doors in the “ blue zone ” at the COP, where diplomats from nearly 200 nations – not including the US – will be haggling over each individual verb . Over the course of the two-week summit, negotiators will be trying to reach consensus on more than 100 separate agreements – but, first, they must agree which issues are on the…",
         "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
         "publishedAt": "2026-11-05T14:13:38.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/UNFCCC-COP30-MM-7899_0-768x512.jpg",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/UNFCCC-COP31-0081-768x512.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1030,72 +1119,6 @@
         "meta": {
           "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-cb-live-carbon-brief-s-team-at-cop17-on--2026-11-04",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "CB Live: Carbon Brief’s team at COP17 on the nature talks’ key outcomes",
-        "excerpt": "Share Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit. Carbon Brief’s Orla Dwyer and Aruna Chandrasekhar have been on the ground in Yerevan, Armenia, over the past two weeks, covering the negotiations. They were joined on the livestream by associate editors Dr Giuliana Viglione and Daisy Dunne , who were following the talks from Washington DC and London, respectively. Carbon Brief has also published its 10,000-word explainer of COP17, which lays out the key…",
-        "url": "https://www.carbonbrief.org/cb-live-carbon-briefs-team-at-cop17-on-the-nature-talks-key-outcomes",
-        "publishedAt": "2026-11-04T10:40:52.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/logo-for-web-banner-scaled.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-bofa-king-charles-sustainability-initiat-2026-11-03",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "BofA, King Charles’ sustainability initiative back $40M nature investment strategy",
-        "excerpt": "The Lighthouse Initiative seeks to develop and scale nature and biodiversity solutions and direct private capital towards projects that remain underfunded.",
-        "url": "https://www.esgdive.com/news/bofa-king-charles-smi-back-40m-nature-investment-strategy-lighthouse-initiative/873622/",
-        "publishedAt": "2026-11-03T18:48:27.000Z",
-        "image": "https://imgproxy.divecdn.com/DalAJWyoWR9HyLOOEdOhBI-6Bl6bd9nYBqBhISNWeoI/g:nowe:0:67/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjExNTYxNTUxLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-corporate-boards-add-fewer-new-members-i-2026-11-03",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Corporate boards add fewer new members in 2026: The Conference Board",
-        "excerpt": "A new report found that fewer new directors were elected to corporate boards at Russell 3000 and S P 500 companies, while the number of first-time directors also dropped.",
-        "url": "https://www.esgdive.com/news/corporate-boards-add-fewer-new-members-in-2026-the-conference-board/873610/",
-        "publishedAt": "2026-11-03T17:41:00.000Z",
-        "image": "https://imgproxy.divecdn.com/2iHhQ26bCHtDaZo8-V-o_3fr7itkSPb-PFGlrekGlJg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00ODc3MDYwMjAuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -1249,29 +1272,6 @@
         "url": "https://verra.org/new-effective-date-for-vcs-version-5/",
         "publishedAt": "2026-10-27T15:00:00.000Z",
         "image": "https://verra.org/wp-content/uploads/2024/08/Darkwoods-Forest-Carbon-Project-607-Steve-Ogle-on-behalf-of-Nature-Conservancy-of-Canada-Canada-Next-Creek-valley-forested-mountains.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "verra-verra-completes-latest-review-of-methodo-2026-10-26",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra Completes Latest Review of Methodology Idea Notes",
-        "excerpt": "Verra has completed its latest review of Methodology Idea Notes (MINs), resulting in the selection of two approaches to advance toward feasibility assessment in the Verified Carbon Standard (VCS) Program . The review included 32 MINs submitted during the latest submission cycle, which had a submission deadline of July 31, 2026, as well as 10 previously submitted methodology ideas that were reassessed following an agreed-upon schedule. In its review of MINs, Verra considers a proposal’s potential climate impact alongside sector-specific priorities when…",
-        "url": "https://verra.org/verra-completes-latest-review-of-methodology-idea-notes/",
-        "publishedAt": "2026-10-26T16:37:18.000Z",
-        "image": "https://verra.org/wp-content/uploads/2026/10/pexels-adrinildennis-27873610-scaled-e1793031945582.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1478,6 +1478,161 @@
     ]
   },
   "articles": [
+    {
+      "id": "verra-chile-recognizes-verra-s-vcs-program-und-2026-11-10",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Chile Recognizes Verra s VCS Program under Article 6 Framework",
+      "excerpt": "Chile’s Ministry of Environment has formally recognized (PDF) Verra s Verified Carbon Standard (VCS) Program under the country s framework for regulating international cooperation under Article 6 of the Paris Agreement. This announcement offers greater regulatory clarity for project developers and buyers. Projects registered with the VCS Program can now follow Chile s applicable Article 6 procedures, provided they meet the relevant national requirements, and supply credits for use under Article 6. The recognition follows an evaluation by the ministry s…",
+      "url": "https://verra.org/chile-recognizes-verras-vcs-program-under-article-6-framework/",
+      "publishedAt": "2026-11-10T18:58:24.000Z",
+      "image": "https://verra.org/wp-content/uploads/2026/11/patriciohurtado-river-715059_1920.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-over-180-companies-call-on-cop31-preside-2026-11-10",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Over 180 companies call on COP31 presidency to fix electrification bottleneck",
+      "excerpt": "Companies including H M Group, Danone, Ikea, and Uber are calling for the annual climate change conference to focus on accelerating electrification.",
+      "url": "https://www.esgdive.com/news/over-180-companies-call-on-cop31-presidency-to-fix-electrification-bottleneck/874278/",
+      "publishedAt": "2026-11-10T17:38:23.000Z",
+      "image": "https://imgproxy.divecdn.com/bDnxYorOzL4l8Xd7HGv5eVTvDCbsNgGaX6grTJVe1Sk/g:nowe:0:9/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0MjQ3NDQzLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-analysis-which-countries-have-sent-the-m-2026-11-10",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Analysis: Which countries have sent the most delegates to COP31?",
+      "excerpt": "Share More than 92,000 people have registered to attend the COP31 climate summit in Antalya, Turkey, potentially making it the largest COP in history. Carbon Brief analysis of the provisional lists of delegates, published by the United Nations Framework Convention on Climate Change (UNFCCC), reveals that more than 14,000 delegates have been registered as “host country guests”. For comparison, the provisional list for COP30 in Belém, Brazil, last year included only around 1,000 delegates in this category. As with COP30 , Donald Trump’s US government has…",
+      "url": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31",
+      "publishedAt": "2026-11-10T17:21:37.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/total-attendance2-2500x1683.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-octopus-launches-600-million-asia-clean--2026-11-10",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Octopus Launches $600 Million Asia Clean Energy Fund",
+      "excerpt": "UK-based renewable energy company Octopus Energy Generation announced today the launch of the Octopus Asia Electrification Fund (OAEF), a new fund targeting investments in local green energy developers to help them build out large numbers of clean energy projects across Asia. Announced at COP31 in Antalya, Turkey, the new fund aims to catalyze $600 million from institutional investors and has already secured $50 million in backing from Japanese investors, the company said. The new fund is classified as Article 9 under the EU’s SFDR regulation. According…",
+      "url": "https://www.esgtoday.com/octopus-launches-600-million-asia-clean-energy-fund/?utm_source=rss utm_medium=rss utm_campaign=octopus-launches-600-million-asia-clean-energy-fund",
+      "publishedAt": "2026-11-10T17:08:37.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Octopus-Energy4.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-mercedes-benz-adjusts-2039-carbon-neutra-2026-11-10",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Mercedes-Benz Adjusts 2039 Carbon Neutral Goal, Sets 2049 Net Zero Target",
+      "excerpt": "Mercedes-Benz unveiled a series of revisions to its long-term climate goals, including changing its prior target to make its fleet of new passenger cars carbon neutral by 2039 with new individual targets for emissions from production, vehicle use and its value chain, adding an “as market conditions allow” caveat to its vehicle use-phase ambition, and rolling out a new target to achieve net zero across the value chain by 2049. The new targets were released alongside the announcement of a significant update in Mercedes-Benz’s overall sustainability…",
+      "url": "https://www.esgtoday.com/mercedes-benz-adjusts-2039-carbon-neutral-goal-sets-2049-net-zero-target/?utm_source=rss utm_medium=rss utm_campaign=mercedes-benz-adjusts-2039-carbon-neutral-goal-sets-2049-net-zero-target",
+      "publishedAt": "2026-11-10T16:08:46.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Mercedes-hq.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-this-is-not-a-new-story-legal-profession-2026-11-10",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "‘This is not a new story’: Legal professionals expect tide to turn on DEI",
+      "excerpt": "The idea that diversity, equity and inclusion is a short-lived trend ignores history and legal reality, according to speakers at an American Bar Association conference.",
+      "url": "https://www.esgdive.com/news/this-is-not-a-new-story-legal-professionals-expect-tide-to-turn-on-dei/874266/",
+      "publishedAt": "2026-11-10T15:41:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-sphera-launches-new-product-sustainabili-2026-11-10",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Sphera Launches New Product Sustainability Compliance Solutions",
+      "excerpt": "Sustainability and operational risk management software provider Sphera announced the launch of new AI-powered sustainability solutions and product compliance capabilities, aimed at helping companies assess the environmental impact of their products and comply with evolving regulatory requirements. According to Sphera, as the ability to prove a product is compliant, sustainable and transparent increasingly determines whether it can be sold, and amidst increasing regulations focused on product sustainability, such as the EU’s upcoming Digital Product…",
+      "url": "https://www.esgtoday.com/sphera-launches-solutions-to-help-companies-comply-with-new-product-sustainability-regulations/?utm_source=rss utm_medium=rss utm_campaign=sphera-launches-solutions-to-help-companies-comply-with-new-product-sustainability-regulations",
+      "publishedAt": "2026-11-10T15:38:25.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Sphera-LCA.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-the-collapse-of-koko-networks-a-warning--2026-11-10",
       "source": "esg-today",
@@ -1699,28 +1854,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-anchor-energy-partners-launches-debut-75-2026-11-09",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Anchor Energy Partners Launches Debut €75 Million Fund to Target Energy Storage and Flexibility Opportunities",
-      "excerpt": "Newly formed investment platform Anchor Energy Partners announced today the launch of its first fund, Anchor Fund I, focused on developing battery storage and energy flexibility infrastructure across Europe. Anchor said that it has set a target size of €75 million (USD$84 million) for the new fund. Based in Copenhagen, Anchor Energy Partners finances, develops and operates battery storage systems and other energy flexibility assets, focusing on mid-market infrastructure projects that are too small for large infrastructure funds but require more capital…",
-      "url": "https://www.esgtoday.com/anchor-energy-partners-launches-debut-e75-million-fund-to-target-energy-storage-and-flexibility-opportunities/?utm_source=rss utm_medium=rss utm_campaign=anchor-energy-partners-launches-debut-e75-million-fund-to-target-energy-storage-and-flexibility-opportunities",
-      "publishedAt": "2026-11-09T13:34:57.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Anchor-Energy.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-novembe-2026-11-09",
       "source": "verra",
       "sourceName": "Verra",
@@ -1742,50 +1875,6 @@
         "imageSource": "publisher"
       },
       "region": "world"
-    },
-    {
-      "id": "esg-today-eba-delays-esg-reporting-simplification--2026-11-09",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EBA Delays ESG Reporting Simplification Measures for Banks to 2028",
-      "excerpt": "EU banking supervisor The European Banking Authority (EBA) provided an update to its ongoing initiative to simplify EU supervisory reporting requirements, indicating that it plans to postpone the implementation of its simplified ESG reporting measures for banks by more than a year to late 2028. According to the EBA, the delayed implementation follows feedback and dialogue with the banking industry on the proposed changes, with the regulator now planning to release a finalized proposal package later this year with additional simplification measures and…",
-      "url": "https://www.esgtoday.com/eba-delays-esg-reporting-simplification-measures-for-banks-to-2028/?utm_source=rss utm_medium=rss utm_campaign=eba-delays-esg-reporting-simplification-measures-for-banks-to-2028",
-      "publishedAt": "2026-11-09T12:27:14.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EBA2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-circularity-fuels-raises-7-million-to-tu-2026-11-09",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Circularity Fuels Raises $7 Million to Turn Dairy Biogas into Clean Jet Fuel",
-      "excerpt": "Sustainable fuels technology developer Circularity Fuels announced that it has raised $7 million in a seed funding round to advance the commercialization of its technology to convert dairy biogas into sustainable aviation fuel (SAF). Fuel accounts for the vast majority of the aviation sector’s emissions. Generally produced from sustainable resources, like waste oils and agricultural residues, SAF is seen as one of the key tools to help decarbonize the aviation industry in the near- to medium-term. SAF producers estimate the fuels can result in lifecycle…",
-      "url": "https://www.esgtoday.com/circularity-fuels-raises-7-million-to-turn-dairy-biogas-into-clean-jet-fuel/?utm_source=rss utm_medium=rss utm_campaign=circularity-fuels-raises-7-million-to-turn-dairy-biogas-into-clean-jet-fuel",
-      "publishedAt": "2026-11-09T11:43:49.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Circularity-Fuels.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "india"
     },
     {
       "id": "carbon-brief-q-a-what-is-the-bel-m-antalya-mechanism--2026-11-09",
@@ -1975,7 +2064,7 @@
       "excerpt": "Share The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal agreements – and COP31 in the Turkish city of Antalya is no different. These texts are hashed out behind closed doors in the “ blue zone ” at the COP, where diplomats from nearly 200 nations – not including the US – will be haggling over each individual verb . Over the course of the two-week summit, negotiators will be trying to reach consensus on more than 100 separate agreements – but, first, they must agree which issues are on the…",
       "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
       "publishedAt": "2026-11-05T14:13:38.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/UNFCCC-COP30-MM-7899_0-768x512.jpg",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/UNFCCC-COP31-0081-768x512.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2071,72 +2160,6 @@
       "meta": {
         "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-cb-live-carbon-brief-s-team-at-cop17-on--2026-11-04",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "CB Live: Carbon Brief’s team at COP17 on the nature talks’ key outcomes",
-      "excerpt": "Share Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit. Carbon Brief’s Orla Dwyer and Aruna Chandrasekhar have been on the ground in Yerevan, Armenia, over the past two weeks, covering the negotiations. They were joined on the livestream by associate editors Dr Giuliana Viglione and Daisy Dunne , who were following the talks from Washington DC and London, respectively. Carbon Brief has also published its 10,000-word explainer of COP17, which lays out the key…",
-      "url": "https://www.carbonbrief.org/cb-live-carbon-briefs-team-at-cop17-on-the-nature-talks-key-outcomes",
-      "publishedAt": "2026-11-04T10:40:52.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/logo-for-web-banner-scaled.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-bofa-king-charles-sustainability-initiat-2026-11-03",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "BofA, King Charles’ sustainability initiative back $40M nature investment strategy",
-      "excerpt": "The Lighthouse Initiative seeks to develop and scale nature and biodiversity solutions and direct private capital towards projects that remain underfunded.",
-      "url": "https://www.esgdive.com/news/bofa-king-charles-smi-back-40m-nature-investment-strategy-lighthouse-initiative/873622/",
-      "publishedAt": "2026-11-03T18:48:27.000Z",
-      "image": "https://imgproxy.divecdn.com/DalAJWyoWR9HyLOOEdOhBI-6Bl6bd9nYBqBhISNWeoI/g:nowe:0:67/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjExNTYxNTUxLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-corporate-boards-add-fewer-new-members-i-2026-11-03",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Corporate boards add fewer new members in 2026: The Conference Board",
-      "excerpt": "A new report found that fewer new directors were elected to corporate boards at Russell 3000 and S P 500 companies, while the number of first-time directors also dropped.",
-      "url": "https://www.esgdive.com/news/corporate-boards-add-fewer-new-members-in-2026-the-conference-board/873610/",
-      "publishedAt": "2026-11-03T17:41:00.000Z",
-      "image": "https://imgproxy.divecdn.com/2iHhQ26bCHtDaZo8-V-o_3fr7itkSPb-PFGlrekGlJg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00ODc3MDYwMjAuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -2290,29 +2313,6 @@
       "url": "https://verra.org/new-effective-date-for-vcs-version-5/",
       "publishedAt": "2026-10-27T15:00:00.000Z",
       "image": "https://verra.org/wp-content/uploads/2024/08/Darkwoods-Forest-Carbon-Project-607-Steve-Ogle-on-behalf-of-Nature-Conservancy-of-Canada-Canada-Next-Creek-valley-forested-mountains.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-verra-completes-latest-review-of-methodo-2026-10-26",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Completes Latest Review of Methodology Idea Notes",
-      "excerpt": "Verra has completed its latest review of Methodology Idea Notes (MINs), resulting in the selection of two approaches to advance toward feasibility assessment in the Verified Carbon Standard (VCS) Program . The review included 32 MINs submitted during the latest submission cycle, which had a submission deadline of July 31, 2026, as well as 10 previously submitted methodology ideas that were reassessed following an agreed-upon schedule. In its review of MINs, Verra considers a proposal’s potential climate impact alongside sector-specific priorities when…",
-      "url": "https://verra.org/verra-completes-latest-review-of-methodology-idea-notes/",
-      "publishedAt": "2026-10-26T16:37:18.000Z",
-      "image": "https://verra.org/wp-content/uploads/2026/10/pexels-adrinildennis-27873610-scaled-e1793031945582.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
