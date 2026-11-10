@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-09T22:51:10.142Z",
+  "fetchedAt": "2026-11-10T01:50:53.740Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 17,
     "world": 45,
     "withImages": 59,
-    "avgExcerptLength": 467,
+    "avgExcerptLength": 474,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -461,6 +461,28 @@
       }
     ],
     "world": [
+      {
+        "id": "carbon-brief-analysis-fossil-fuel-co2-emissions-set-t-2026-11-10",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran conflict hits oil use",
+        "excerpt": "Share Article Contents Expand menu Close Total emissions edge up as land-use emissions rise Land-use emissions rise in 2026 Fossil emissions fall in most major economies Oil emissions fall as coal emissions slightly increase Land sink in 2025 is highest on record Clean energy is offsetting most emissions from rising energy demand Carbon dioxide (CO2) emissions from fossil fuels and cement are projected to fall by around 0.4% in 2026 to 38.2bn tonnes of CO2 (GtCO2), according to new figures from the Global Carbon Project . Carbon dioxide (CO2) emissions…",
+        "url": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
+        "publishedAt": "2026-11-10T01:01:00.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/01-global-co2-emissions-1024x788.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-eu-states-back-one-year-delay-to-methane-2026-11-09",
         "source": "esg-today",
@@ -1080,28 +1102,6 @@
         "region": "world"
       },
       {
-        "id": "carbon-brief-uk-climate-minister-katie-white-cop31-mu-2026-11-03",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "UK climate minister Katie White: COP31 must respond to ‘really scary’ science",
-        "excerpt": "Share The upcoming COP31 climate talks in Antalya, Turkey need to respond to the latest science on global warming, which is “really scary”, says UK climate minister Katie White. In an interview with Carbon Brief setting out the UK’s priorities for the summit, White also responds to suggestions that the government is walking back its climate policies. White says the “shocking” impact of extreme heat and wildfires this summer makes it clear that climate change “isn t something far off; it s something we re living through”. She adds that the UK will be…",
-        "url": "https://www.carbonbrief.org/uk-climate-minister-katie-white-cop31-must-respond-to-really-scary-science",
-        "publishedAt": "2026-11-03T16:50:09.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/logo-for-web-banner-scaled.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-verra-secures-first-icvcm-approval-for-t-2026-11-03",
         "source": "verra",
         "sourceName": "Verra",
@@ -1358,17 +1358,17 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-asia-needs-its-own-carbon-registries-her-2023-09-05",
+        "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Asia needs its own carbon registries: Here’s one | White paper - Hinrich Foundation",
-        "excerpt": "With more than half of the world’s emissions concentrated in the region, it s time for Asia to step up its participation in carbon reduction with the establishment of digital native carbon registries.",
-        "url": "https://www.hinrichfoundation.com/research/wp/sustainable-trade/leveraging-technology-to-develop-asia-answer-to-verra",
-        "publishedAt": "2023-09-05T07:00:00.000Z",
-        "image": "https://v2-prod-umbraco.hinrichfoundation.com/media/avsogdul/song-digital-native-carbon-registries-1.jpg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
+        "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
+        "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
+        "publishedAt": "2023-12-04T08:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1376,7 +1376,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSTN3ZHJ5UGp5YXIyaDBFSzJkS2h6cFZfS28taHFaUVd2WW5aSi0zeUtNdjN1NDFSdnczVVEwNVBndTVUT29pQ3B6UmlOMVY2cmxKMnV3Yzg5dEFpaXQteGdWOUxKTzJQeXBDc2lqbkcwMjhiMkUweDd3NTM1OVN5VGFJdndTT1N4ZVBkb2pVaUFpN0hwZGx0My1md0lLeXRfNUVfNk1VUExWamRRUk9nQ2Nuck95dWlP?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -1461,7 +1461,7 @@
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
         "title": "Creating carbon offset units on the voluntary market | Global law firm - Norton Rose Fulbright",
-        "excerpt": "Private equity buyers are no longer treating AI as a niche diligence issue reserved for targets whose product and service offerings primarily focus on AI.",
+        "excerpt": "Probity, and in particular the management of conflicts of interest, is an important consideration in Commonwealth Government procurement, where transparency, accountability and ethical conduct are essential to maintaining public confidence in procurement processes.",
         "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/6f326481/creating-carbon-offset-units-on-the-voluntary-market",
         "publishedAt": "2022-02-22T19:16:56.000Z",
         "image": "https://www.nortonrosefulbright.com/-/media/images/nrf/thought-leadership/australia/publications/hand-and-tree.jpg?revision=199a6252-fda6-4068-a7f3-8c0b3fff7a19&revision=5249493629607387904",
@@ -1480,6 +1480,28 @@
     ]
   },
   "articles": [
+    {
+      "id": "carbon-brief-analysis-fossil-fuel-co2-emissions-set-t-2026-11-10",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran conflict hits oil use",
+      "excerpt": "Share Article Contents Expand menu Close Total emissions edge up as land-use emissions rise Land-use emissions rise in 2026 Fossil emissions fall in most major economies Oil emissions fall as coal emissions slightly increase Land sink in 2025 is highest on record Clean energy is offsetting most emissions from rising energy demand Carbon dioxide (CO2) emissions from fossil fuels and cement are projected to fall by around 0.4% in 2026 to 38.2bn tonnes of CO2 (GtCO2), according to new figures from the Global Carbon Project . Carbon dioxide (CO2) emissions…",
+      "url": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
+      "publishedAt": "2026-11-10T01:01:00.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/01-global-co2-emissions-1024x788.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-eu-states-back-one-year-delay-to-methane-2026-11-09",
       "source": "esg-today",
@@ -2117,28 +2139,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-uk-climate-minister-katie-white-cop31-mu-2026-11-03",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "UK climate minister Katie White: COP31 must respond to ‘really scary’ science",
-      "excerpt": "Share The upcoming COP31 climate talks in Antalya, Turkey need to respond to the latest science on global warming, which is “really scary”, says UK climate minister Katie White. In an interview with Carbon Brief setting out the UK’s priorities for the summit, White also responds to suggestions that the government is walking back its climate policies. White says the “shocking” impact of extreme heat and wildfires this summer makes it clear that climate change “isn t something far off; it s something we re living through”. She adds that the UK will be…",
-      "url": "https://www.carbonbrief.org/uk-climate-minister-katie-white-cop31-must-respond-to-really-scary-science",
-      "publishedAt": "2026-11-03T16:50:09.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/logo-for-web-banner-scaled.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
     },
@@ -2781,17 +2781,17 @@
       "region": "india"
     },
     {
-      "id": "google-carbon-asia-needs-its-own-carbon-registries-her-2023-09-05",
+      "id": "google-carbon-independent-crediting-programmes-announc-2023-12-04",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
       "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Asia needs its own carbon registries: Here’s one | White paper - Hinrich Foundation",
-      "excerpt": "With more than half of the world’s emissions concentrated in the region, it s time for Asia to step up its participation in carbon reduction with the establishment of digital native carbon registries.",
-      "url": "https://www.hinrichfoundation.com/research/wp/sustainable-trade/leveraging-technology-to-develop-asia-answer-to-verra",
-      "publishedAt": "2023-09-05T07:00:00.000Z",
-      "image": "https://v2-prod-umbraco.hinrichfoundation.com/media/avsogdul/song-digital-native-carbon-registries-1.jpg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Independent Crediting Programmes Announce Ground-Breaking Collaboration to Increase the Positive Impact of Carbon Markets - Verra",
+      "excerpt": "COP 28, Dubai December 4 | The world’s leading independent carbon crediting standards have announced a collaboration to increase the impact of activities under their standards. The collaboration builds on their rich history of integrity and rigour and aims to enhance transparency and consistency across the market. The pledge outlines a number of critical activities which will help amplify the impact of carbon markets. The organisations will put in place a framework to: From left to right: Margaret Kim, CEO, Gold Standard; Mary Grady, Executive Director,…",
+      "url": "https://verra.org/independent-crediting-programmes-announce-ground-breaking-collaboration-to-increase-the-positive-impact-of-carbon-markets/",
+      "publishedAt": "2023-12-04T08:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2023/07/andrew-coelho-unsplash.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2799,7 +2799,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSTN3ZHJ5UGp5YXIyaDBFSzJkS2h6cFZfS28taHFaUVd2WW5aSi0zeUtNdjN1NDFSdnczVVEwNVBndTVUT29pQ3B6UmlOMVY2cmxKMnV3Yzg5dEFpaXQteGdWOUxKTzJQeXBDc2lqbkcwMjhiMkUweDd3NTM1OVN5VGFJdndTT1N4ZVBkb2pVaUFpN0hwZGx0My1md0lLeXRfNUVfNk1VUExWamRRUk9nQ2Nuck95dWlP?oc=5",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzg3V0VTYm5GWDJiOC1vam9SaDBETmQ2dkFDOTBOY210ZE5qekZHclhqa3ExazZTMEstNkUxS3BBWE9iSmlVNXY3QzNxcW8taTY5X056V19kdEMwaWFpMUxGWVpXSUtiUHJZVG9ZT1ZnMWhIR0s1VUwxbkRmLTlMRk82TC1OMl8yN0ZjdkZONDhpOTdQeDR4MEpaYTlMQThCRlF2TnY2TkExS3didU5NNzBSUTEzRTMyd09USWwtZ25xVEoySGlDdHlmZ0phRHo5RGdoX0dCTQ?oc=5",
         "imageSource": "publisher"
       },
       "region": "world"
@@ -2884,7 +2884,7 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "Creating carbon offset units on the voluntary market | Global law firm - Norton Rose Fulbright",
-      "excerpt": "Private equity buyers are no longer treating AI as a niche diligence issue reserved for targets whose product and service offerings primarily focus on AI.",
+      "excerpt": "Probity, and in particular the management of conflicts of interest, is an important consideration in Commonwealth Government procurement, where transparency, accountability and ethical conduct are essential to maintaining public confidence in procurement processes.",
       "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/6f326481/creating-carbon-offset-units-on-the-voluntary-market",
       "publishedAt": "2022-02-22T19:16:56.000Z",
       "image": "https://www.nortonrosefulbright.com/-/media/images/nrf/thought-leadership/australia/publications/hand-and-tree.jpg?revision=199a6252-fda6-4068-a7f3-8c0b3fff7a19&revision=5249493629607387904",
