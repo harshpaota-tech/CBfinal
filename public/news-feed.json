@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-11T14:59:41.977Z",
+  "fetchedAt": "2026-11-11T19:59:12.667Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,14 +47,38 @@
     "total": 62,
     "india": 16,
     "world": 46,
-    "withImages": 58,
-    "avgExcerptLength": 474,
+    "withImages": 57,
+    "avgExcerptLength": 472,
     "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-11-05",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
+        "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+        "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
+        "publishedAt": "2026-11-05T17:15:50.000Z",
+        "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
       {
         "id": "google-h2-catalysing-demand-suggestions-to-scale-u-2026-08-27",
         "source": "google-h2",
@@ -295,30 +319,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-residential-training-programme-on-carbon-2026-04-24",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "Residential Training Programme on: Carbon Accounting, MRV and Trading - cseindia.org",
-        "excerpt": "About Us Who We Are Our Board Our Leadership Annual Reports Programmes Biodiversity and Food Overview My Food Story The Green Kitchen Clean Air and Sustainable Mobility Overview Air Quality and Public Health Public Transport and Mobility Vehicle Technology and Fuel City Action Training EPCA Climate Change and Green Economy Overview COPs COP31 COP30 COP29 COP28 UAE Negotiations Carbon Politics Adaptation Environment Monitoring Laboratory Environment Education Overview YOUNG Environmentalist GSP University Programme Green Educators' Network Renewable…",
-        "url": "https://www.cseindia.org/residential-training-programme-on-carbon-accounting-mrv-and-trading-13085",
-        "publishedAt": "2026-04-24T11:04:08.000Z",
-        "image": "https://cdn.cseindia.org/medium/2026-04-24/0.34649300_1777028381_mrv.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnNmZTEwd0xUakRpWVU5aVR5RExBTDc4SGlXaE9FWEZja3l4VXNtY2NCTEUxdGl3WHBmakcwVXY1eWlUTXQ2Mmk0X0F4dVZ1Szc1NEhMU3pweGRDcXVjLTZvNHI1QzM2UzF5Y3lSQWNfeFJMYVhZWVpWZ1JtX2xDYmZObjVxNXNiOG80QnQzVlhvREdJam9fbWs4QVZzcDA?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-cbam-trends-in-indian-industries-ey-2026-04-03",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -440,6 +440,72 @@
     ],
     "world": [
       {
+        "id": "esg-dive-vanguard-expands-proxy-voting-program-to-2026-11-11",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Vanguard expands proxy voting program to cover $8.2 trillion in assets",
+        "excerpt": "The firm said its Investor Choice program will be available to all of its U.S. equity index products next year.",
+        "url": "https://www.esgdive.com/news/vanguard-prepares-2027-expansion-investor-choice-proxy-program-8-2-trillion/874407/",
+        "publishedAt": "2026-11-11T15:32:00.000Z",
+        "image": "https://imgproxy.divecdn.com/beWzn-Wp1RSD7Mz7NT8wy8OjOX8SiZGAuontY1I1FlM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY4Mjk1NTA0LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-rule-14a-8-reform-not-demolition-2026-11-11",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Rule 14a-8: Reform, Not Demolition",
+        "excerpt": "For more than 80 years, the Securities and Exchange Commission’s Rule 14a-8 has done something both simple and powerful: it has given shareholders a meaningful way to put questions of corporate accountability before their fellow owners. Now the SEC’s proposal to rescind that Rule, in the guise of reforming the system, would be anything but that. It would instead remove the forum in which those debates occur. At United Church Funds, we believe the SEC would do better to improve that process while preserving shareholders’ meaningful access to company…",
+        "url": "https://www.esgtoday.com/rule-14a-8-reform-not-demolition/?utm_source=rss utm_medium=rss utm_campaign=rule-14a-8-reform-not-demolition",
+        "publishedAt": "2026-11-11T15:22:49.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/United-Church-Illian-Tabor.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Guest Posts",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-less-than-1-in-4-new-cfos-globally-were--2026-11-11",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Less than 1 in 4 new CFOs globally were women in Q3",
+        "excerpt": "The downshift in newly appointed female CFOs came as the pace of the turnover in the seat ticked up this year, according to Russell Reynolds Associates.",
+        "url": "https://www.esgdive.com/news/less-than-1-4-new-cfos-globally-were-women-q3/874384/",
+        "publishedAt": "2026-11-11T15:09:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-amazon-launches-program-to-speed-adoptio-2026-11-11",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -472,7 +538,7 @@
         "excerpt": "Levi Strauss & Co. (LS&Co.) announced the appointment of Jeannie Renné-Malone as its new Chief Sustainability Officer, effective December 1, responsible for leading the company’s global Sustainability team and also serve as a member of the Supply Chain Leadership Team. Renné-Malone joins Levi Strauss from VF Corporation, where she served as Global Head of Sustainability, leading sustainability across VF’s brands, operations, supply chain, materials and products. In her prior role, Renné-Malone led the development of VF’s Science-Based Targets roadmap…",
         "url": "https://www.esgtoday.com/levi-strauss-appoints-jeannie-renne-malone-as-new-chief-sustainability-officer/?utm_source=rss utm_medium=rss utm_campaign=levi-strauss-appoints-jeannie-renne-malone-as-new-chief-sustainability-officer",
         "publishedAt": "2026-11-11T14:03:33.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Levi-Strauss2.jpg",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Levi-Strauss-Malone.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -744,28 +810,6 @@
         "status": null,
         "meta": {
           "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-hsbc-doubles-china-clean-energy-transiti-2026-11-10",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "HSBC Doubles China Clean Energy, Transition Financing Facility to $8 Billion",
-        "excerpt": "HSBC announced on Wednesday that it has doubled its Sustainability and Transition Credit Facility, designed to help Chinese mainland-based companies in the clean energy and low-carbon sectors scale internationally, increasing its size to $8 billion due to strong demand. Launched earlier this year with $4 billion capacity, the facility offers financing to businesses in the transition ecosystem, across sectors ranging from clean power and electrification of transport, to data centers and artificial intelligence. Through the facility, HSBC increases credit…",
-        "url": "https://www.esgtoday.com/hsbc-doubles-china-clean-energy-transition-financing-facility-to-8-billion/?utm_source=rss utm_medium=rss utm_campaign=hsbc-doubles-china-clean-energy-transition-financing-facility-to-8-billion",
-        "publishedAt": "2026-11-10T12:29:53.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/HSBC-singapore.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Sustainable Finance",
           "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
@@ -1055,50 +1099,6 @@
         "meta": {
           "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-bcg-appoints-new-global-climate-sustaina-2026-11-04",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "BCG appoints new global climate, sustainability leader",
-        "excerpt": "Boston Consulting Group promoted Jan Philipp Bender, a managing director and senior partner at the consulting firm, to the role this week.",
-        "url": "https://www.esgdive.com/news/bcg-appoints-new-global-climate-sustainability-leader/873749/",
-        "publishedAt": "2026-11-04T16:50:00.000Z",
-        "image": "https://imgproxy.divecdn.com/Gh3ofk_YhxgohGnQY-ygIWbSDap6H16r1wXiz_fftG8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUzOTAxNjE4LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-companies-are-not-saving-money-with-ai-g-2026-11-04",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Companies are not saving money with AI, Gartner finds",
-        "excerpt": "Although many organizations have invested significantly in artificial intelligence, workforce productivity gains have not kept up, a recent study found.",
-        "url": "https://www.esgdive.com/news/companies-are-not-saving-money-with-ai/873714/",
-        "publishedAt": "2026-11-04T16:15:00.000Z",
-        "image": "https://imgproxy.divecdn.com/piWeBvi2COr71Nh2pyRNkcaWq2emCdjgxTs-_wyXbnw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM1ODA0NjkzXzFxbFFPQVQuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -1461,7 +1461,7 @@
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
         "title": "Creating carbon offset units on the voluntary market | Global law firm - Norton Rose Fulbright",
-        "excerpt": "Probity, and in particular the management of conflicts of interest, is an important consideration in Commonwealth Government procurement, where transparency, accountability and ethical conduct are essential to maintaining public confidence in procurement processes.",
+        "excerpt": "The 2026 Canadian federal budget (Budget) announced several favourable changes to the Income Tax Act (Tax Act) that have been well received by the investment community.",
         "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/6f326481/creating-carbon-offset-units-on-the-voluntary-market",
         "publishedAt": "2022-02-22T19:16:56.000Z",
         "image": "https://www.nortonrosefulbright.com/-/media/images/nrf/thought-leadership/australia/publications/hand-and-tree.jpg?revision=199a6252-fda6-4068-a7f3-8c0b3fff7a19&revision=5249493629607387904",
@@ -1480,6 +1480,72 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-vanguard-expands-proxy-voting-program-to-2026-11-11",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Vanguard expands proxy voting program to cover $8.2 trillion in assets",
+      "excerpt": "The firm said its Investor Choice program will be available to all of its U.S. equity index products next year.",
+      "url": "https://www.esgdive.com/news/vanguard-prepares-2027-expansion-investor-choice-proxy-program-8-2-trillion/874407/",
+      "publishedAt": "2026-11-11T15:32:00.000Z",
+      "image": "https://imgproxy.divecdn.com/beWzn-Wp1RSD7Mz7NT8wy8OjOX8SiZGAuontY1I1FlM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY4Mjk1NTA0LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-rule-14a-8-reform-not-demolition-2026-11-11",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Rule 14a-8: Reform, Not Demolition",
+      "excerpt": "For more than 80 years, the Securities and Exchange Commission’s Rule 14a-8 has done something both simple and powerful: it has given shareholders a meaningful way to put questions of corporate accountability before their fellow owners. Now the SEC’s proposal to rescind that Rule, in the guise of reforming the system, would be anything but that. It would instead remove the forum in which those debates occur. At United Church Funds, we believe the SEC would do better to improve that process while preserving shareholders’ meaningful access to company…",
+      "url": "https://www.esgtoday.com/rule-14a-8-reform-not-demolition/?utm_source=rss utm_medium=rss utm_campaign=rule-14a-8-reform-not-demolition",
+      "publishedAt": "2026-11-11T15:22:49.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/United-Church-Illian-Tabor.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Guest Posts",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-less-than-1-in-4-new-cfos-globally-were--2026-11-11",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Less than 1 in 4 new CFOs globally were women in Q3",
+      "excerpt": "The downshift in newly appointed female CFOs came as the pace of the turnover in the seat ticked up this year, according to Russell Reynolds Associates.",
+      "url": "https://www.esgdive.com/news/less-than-1-4-new-cfos-globally-were-women-q3/874384/",
+      "publishedAt": "2026-11-11T15:09:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-amazon-launches-program-to-speed-adoptio-2026-11-11",
       "source": "esg-today",
@@ -1513,7 +1579,7 @@
       "excerpt": "Levi Strauss & Co. (LS&Co.) announced the appointment of Jeannie Renné-Malone as its new Chief Sustainability Officer, effective December 1, responsible for leading the company’s global Sustainability team and also serve as a member of the Supply Chain Leadership Team. Renné-Malone joins Levi Strauss from VF Corporation, where she served as Global Head of Sustainability, leading sustainability across VF’s brands, operations, supply chain, materials and products. In her prior role, Renné-Malone led the development of VF’s Science-Based Targets roadmap…",
       "url": "https://www.esgtoday.com/levi-strauss-appoints-jeannie-renne-malone-as-new-chief-sustainability-officer/?utm_source=rss utm_medium=rss utm_campaign=levi-strauss-appoints-jeannie-renne-malone-as-new-chief-sustainability-officer",
       "publishedAt": "2026-11-11T14:03:33.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Levi-Strauss2.jpg",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Levi-Strauss-Malone.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -1790,28 +1856,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-hsbc-doubles-china-clean-energy-transiti-2026-11-10",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "HSBC Doubles China Clean Energy, Transition Financing Facility to $8 Billion",
-      "excerpt": "HSBC announced on Wednesday that it has doubled its Sustainability and Transition Credit Facility, designed to help Chinese mainland-based companies in the clean energy and low-carbon sectors scale internationally, increasing its size to $8 billion due to strong demand. Launched earlier this year with $4 billion capacity, the facility offers financing to businesses in the transition ecosystem, across sectors ranging from clean power and electrification of transport, to data centers and artificial intelligence. Through the facility, HSBC increases credit…",
-      "url": "https://www.esgtoday.com/hsbc-doubles-china-clean-energy-transition-financing-facility-to-8-billion/?utm_source=rss utm_medium=rss utm_campaign=hsbc-doubles-china-clean-energy-transition-financing-facility-to-8-billion",
-      "publishedAt": "2026-11-10T12:29:53.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/HSBC-singapore.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Sustainable Finance",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-analysis-fossil-fuel-co2-emissions-set-t-2026-11-10",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2056,6 +2100,30 @@
       "region": "world"
     },
     {
+      "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-11-05",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
+      "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+      "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
+      "publishedAt": "2026-11-05T17:15:50.000Z",
+      "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "esg-dive-o-i-glass-served-with-class-action-lawsu-2026-11-05",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2096,50 +2164,6 @@
       "meta": {
         "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-bcg-appoints-new-global-climate-sustaina-2026-11-04",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "BCG appoints new global climate, sustainability leader",
-      "excerpt": "Boston Consulting Group promoted Jan Philipp Bender, a managing director and senior partner at the consulting firm, to the role this week.",
-      "url": "https://www.esgdive.com/news/bcg-appoints-new-global-climate-sustainability-leader/873749/",
-      "publishedAt": "2026-11-04T16:50:00.000Z",
-      "image": "https://imgproxy.divecdn.com/Gh3ofk_YhxgohGnQY-ygIWbSDap6H16r1wXiz_fftG8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUzOTAxNjE4LmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-companies-are-not-saving-money-with-ai-g-2026-11-04",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Companies are not saving money with AI, Gartner finds",
-      "excerpt": "Although many organizations have invested significantly in artificial intelligence, workforce productivity gains have not kept up, a recent study found.",
-      "url": "https://www.esgdive.com/news/companies-are-not-saving-money-with-ai/873714/",
-      "publishedAt": "2026-11-04T16:15:00.000Z",
-      "image": "https://imgproxy.divecdn.com/piWeBvi2COr71Nh2pyRNkcaWq2emCdjgxTs-_wyXbnw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM1ODA0NjkzXzFxbFFPQVQuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -2590,30 +2614,6 @@
       "region": "india"
     },
     {
-      "id": "google-india-residential-training-programme-on-carbon-2026-04-24",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Residential Training Programme on: Carbon Accounting, MRV and Trading - cseindia.org",
-      "excerpt": "About Us Who We Are Our Board Our Leadership Annual Reports Programmes Biodiversity and Food Overview My Food Story The Green Kitchen Clean Air and Sustainable Mobility Overview Air Quality and Public Health Public Transport and Mobility Vehicle Technology and Fuel City Action Training EPCA Climate Change and Green Economy Overview COPs COP31 COP30 COP29 COP28 UAE Negotiations Carbon Politics Adaptation Environment Monitoring Laboratory Environment Education Overview YOUNG Environmentalist GSP University Programme Green Educators' Network Renewable…",
-      "url": "https://www.cseindia.org/residential-training-programme-on-carbon-accounting-mrv-and-trading-13085",
-      "publishedAt": "2026-04-24T11:04:08.000Z",
-      "image": "https://cdn.cseindia.org/medium/2026-04-24/0.34649300_1777028381_mrv.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnNmZTEwd0xUakRpWVU5aVR5RExBTDc4SGlXaE9FWEZja3l4VXNtY2NCTEUxdGl3WHBmakcwVXY1eWlUTXQ2Mmk0X0F4dVZ1Szc1NEhMU3pweGRDcXVjLTZvNHI1QzM2UzF5Y3lSQWNfeFJMYVhZWVpWZ1JtX2xDYmZObjVxNXNiOG80QnQzVlhvREdJam9fbWs4QVZzcDA?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2884,7 +2884,7 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "Creating carbon offset units on the voluntary market | Global law firm - Norton Rose Fulbright",
-      "excerpt": "Probity, and in particular the management of conflicts of interest, is an important consideration in Commonwealth Government procurement, where transparency, accountability and ethical conduct are essential to maintaining public confidence in procurement processes.",
+      "excerpt": "The 2026 Canadian federal budget (Budget) announced several favourable changes to the Income Tax Act (Tax Act) that have been well received by the investment community.",
       "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/6f326481/creating-carbon-offset-units-on-the-voluntary-market",
       "publishedAt": "2022-02-22T19:16:56.000Z",
       "image": "https://www.nortonrosefulbright.com/-/media/images/nrf/thought-leadership/australia/publications/hand-and-tree.jpg?revision=199a6252-fda6-4068-a7f3-8c0b3fff7a19&revision=5249493629607387904",
