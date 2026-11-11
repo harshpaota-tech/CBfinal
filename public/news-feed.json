@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-10T23:53:05.188Z",
+  "fetchedAt": "2026-11-11T07:26:59.504Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -437,6 +437,28 @@
       }
     ],
     "world": [
+      {
+        "id": "carbon-brief-analysis-climate-finance-pledges-fall-70-2026-11-11",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
+        "excerpt": "Share The amount of public funding pledged to help developing countries tackle climate change has dropped by more than 70% in 2026, according to Carbon Brief analysis. Developed countries are required under UN climate treaties to provide “ climate finance ” and have traditionally announced multi-year pledges to feed into their global commitments. Most of these pledges expired in 2025 and, since then, the US has withdrawn from international climate efforts and many European aid budgets have been cut. A civil-society tracker shows that only five nations…",
+        "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
+        "publishedAt": "2026-11-11T07:00:00.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/developed-countries-2-1024x925.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "verra-chile-recognizes-verra-s-vcs-program-und-2026-11-10",
         "source": "verra",
@@ -1023,7 +1045,7 @@
         "excerpt": "Share The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal agreements – and COP31 in the Turkish city of Antalya is no different. These texts are hashed out behind closed doors in the “ blue zone ” at the COP, where diplomats from nearly 200 nations – not including the US – will be haggling over each individual verb . Over the course of the two-week summit, negotiators will be trying to reach consensus on more than 100 separate agreements – but, first, they must agree which issues are on the…",
         "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
         "publishedAt": "2026-11-05T14:13:38.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/UNFCCC-COP31-0081-768x512.jpg",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/ENB_SB64_16Jun26_KiaraWorth-33-768x512.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1090,28 +1112,6 @@
         "url": "https://www.carbonbrief.org/qa-what-is-the-brazil-led-deforestation-roadmap",
         "publishedAt": "2026-11-04T15:39:10.000Z",
         "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/more-than-90-countri-scaled.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-q-a-what-is-in-the-global-roadmap-for-tr-2026-11-04",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Q A: What is in the global ‘roadmap’ for transitioning away from fossil fuels?",
-        "excerpt": "Share Article Contents Expand menu Close Why has Brazil produced a fossil-fuel ‘roadmap’? What does the fossil-fuel roadmap say? How will the fossil-fuel roadmap be discussed at COP31? Transitioning away from fossil fuels is “urgent, inevitable and, yet, possible”, according to a first-of-its-kind global “ roadmap ” produced by Brazil. The host of last year’s climate summit, COP30 , has set out a voluntary plan for how countries can move away from coal, oil and gas. The roadmap says there is no “one-size-fits-all” approach to transitioning away from…",
-        "url": "https://www.carbonbrief.org/qa-what-is-in-the-global-roadmap-for-transitioning-away-from-fossil-fuels",
-        "publishedAt": "2026-11-04T15:23:07.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/logo-for-web-banner-scaled.png",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1478,6 +1478,28 @@
     ]
   },
   "articles": [
+    {
+      "id": "carbon-brief-analysis-climate-finance-pledges-fall-70-2026-11-11",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
+      "excerpt": "Share The amount of public funding pledged to help developing countries tackle climate change has dropped by more than 70% in 2026, according to Carbon Brief analysis. Developed countries are required under UN climate treaties to provide “ climate finance ” and have traditionally announced multi-year pledges to feed into their global commitments. Most of these pledges expired in 2025 and, since then, the US has withdrawn from international climate efforts and many European aid budgets have been cut. A civil-society tracker shows that only five nations…",
+      "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
+      "publishedAt": "2026-11-11T07:00:00.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/developed-countries-2-1024x925.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "verra-chile-recognizes-verra-s-vcs-program-und-2026-11-10",
       "source": "verra",
@@ -2064,7 +2086,7 @@
       "excerpt": "Share The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal agreements – and COP31 in the Turkish city of Antalya is no different. These texts are hashed out behind closed doors in the “ blue zone ” at the COP, where diplomats from nearly 200 nations – not including the US – will be haggling over each individual verb . Over the course of the two-week summit, negotiators will be trying to reach consensus on more than 100 separate agreements – but, first, they must agree which issues are on the…",
       "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
       "publishedAt": "2026-11-05T14:13:38.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/UNFCCC-COP31-0081-768x512.jpg",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/ENB_SB64_16Jun26_KiaraWorth-33-768x512.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2131,28 +2153,6 @@
       "url": "https://www.carbonbrief.org/qa-what-is-the-brazil-led-deforestation-roadmap",
       "publishedAt": "2026-11-04T15:39:10.000Z",
       "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/more-than-90-countri-scaled.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-q-a-what-is-in-the-global-roadmap-for-tr-2026-11-04",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Q A: What is in the global ‘roadmap’ for transitioning away from fossil fuels?",
-      "excerpt": "Share Article Contents Expand menu Close Why has Brazil produced a fossil-fuel ‘roadmap’? What does the fossil-fuel roadmap say? How will the fossil-fuel roadmap be discussed at COP31? Transitioning away from fossil fuels is “urgent, inevitable and, yet, possible”, according to a first-of-its-kind global “ roadmap ” produced by Brazil. The host of last year’s climate summit, COP30 , has set out a voluntary plan for how countries can move away from coal, oil and gas. The roadmap says there is no “one-size-fits-all” approach to transitioning away from…",
-      "url": "https://www.carbonbrief.org/qa-what-is-in-the-global-roadmap-for-transitioning-away-from-fossil-fuels",
-      "publishedAt": "2026-11-04T15:23:07.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/logo-for-web-banner-scaled.png",
       "country": null,
       "methodology": null,
       "registryId": null,
