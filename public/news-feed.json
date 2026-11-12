@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-12T20:37:42.929Z",
+  "fetchedAt": "2026-11-12T23:57:07.898Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 15,
     "world": 47,
-    "withImages": 56,
-    "avgExcerptLength": 455,
+    "withImages": 57,
+    "avgExcerptLength": 462,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -135,10 +135,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "SECI Invites EOI to Identify CO₂ Sources for Green Urea and RFNBO Compliant Green Methanol - Energetica India Magazine",
-        "excerpt": "SECI Invites EOI to Identify CO₂ Sources for Green Urea and RFNBO Compliant Green Methanol Energetica India Magazine",
+        "excerpt": "--> --> Home News Training & Education Standards & Certifications Solar manufacturing Smart Grid / T&D Renewable energy Wind Power Thermal Solar Solar PV Other Renewables Ocean Energy Hydropower Hydrogen / Fuel Cells Geothermal Concentrated Solar Biomass Power R&D Policies & Regulations Other Energy Applications Sustainable Transport Sustainable Building Rural Electrification Lighting Cooking Middle East Market Investment & Trading Energy Storage Energy efficiency Conventional energy Thermal Power Plants Gen Sets Exploration Cogeneration CCS & Emissions…",
         "url": "https://www.energetica-india.net/news/seci-invites-eoi-to-identify-co-sources-for-green-urea-and-rfnbo-compliant-green-methanol",
         "publishedAt": "2026-08-06T07:00:00.000Z",
-        "image": null,
+        "image": "https://www.energetica-india.net/images/noticias/C0o1jKaxAWZjeSAKK7aMK1KoN2GSee0UHkrdQRDMD7wsfskqVnGBpe.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -146,7 +146,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWpIbEhBdUhnamNsaFlobEl4NmgwZENEWm50aFZfMTFpdEs3dHhoQXBad1ZCRXBUX2p3ZWtGNEhTX3hzT2pxY2JVamI0YWhPS0JGS0J4dV9jY093d2MxNzE5dGRiNUpoVEhJMFNQdk1JU2RJZzI2NEpXWlJiQ3poN2U0Mmd0dFRDeFdvUXgzaXI0T2pNVnZlYWJpaE1OMXg1bnBPS2h3ZW5tMk1JdnpCRG9sTVA4UFdxNUdsM2RablE1a3RidGc?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWpIbEhBdUhnamNsaFlobEl4NmgwZENEWm50aFZfMTFpdEs3dHhoQXBad1ZCRXBUX2p3ZWtGNEhTX3hzT2pxY2JVamI0YWhPS0JGS0J4dV9jY093d2MxNzE5dGRiNUpoVEhJMFNQdk1JU2RJZzI2NEpXWlJiQ3poN2U0Mmd0dFRDeFdvUXgzaXI0T2pNVnZlYWJpaE1OMXg1bnBPS2h3ZW5tMk1JdnpCRG9sTVA4UFdxNUdsM2RablE1a3RidGc?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -414,6 +415,28 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-what-s-next-for-california-s-climate-law-2026-11-12",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "What’s next for California’s climate laws following an appeals court split decision",
+        "excerpt": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+        "url": "https://www.esgdive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874578/",
+        "publishedAt": "2026-11-12T21:43:32.000Z",
+        "image": "https://imgproxy.divecdn.com/9e32dkKyICSv1Akrf-yylKpJv7mhT_s2E9XRqqp-1LU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM3MTc2MTE0LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-nuveen-launches-new-nature-based-solutio-2026-11-12",
         "source": "esg-today",
@@ -1056,28 +1079,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-deloitte-launches-ai-powered-compliance--2026-11-05",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "POLICY",
-        "accent": "#5eead4",
-        "title": "Deloitte launches AI-powered compliance tool to curb corporate greenwashing",
-        "excerpt": "The Green Claims Navigator is designed to speedily detect misleading statements a company has made about the environmental benefits of its products or practice across its entire content ecosystem.",
-        "url": "https://www.esgdive.com/news/deloitte-launches-ai-powered-compliance-tool-to-curb-corporate-greenwashing/873902/",
-        "publishedAt": "2026-11-05T18:00:40.000Z",
-        "image": "https://imgproxy.divecdn.com/kwEn7Mnk9Iaz-V-UnsbdLPlobF3ROBLG_YafLauQhHY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ3NjE5MDYxLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-interactive-tracking-negotiating-texts-a-2026-11-05",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1478,6 +1479,28 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-what-s-next-for-california-s-climate-law-2026-11-12",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "What’s next for California’s climate laws following an appeals court split decision",
+      "excerpt": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+      "url": "https://www.esgdive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874578/",
+      "publishedAt": "2026-11-12T21:43:32.000Z",
+      "image": "https://imgproxy.divecdn.com/9e32dkKyICSv1Akrf-yylKpJv7mhT_s2E9XRqqp-1LU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM3MTc2MTE0LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-nuveen-launches-new-nature-based-solutio-2026-11-12",
       "source": "esg-today",
@@ -2120,28 +2143,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-deloitte-launches-ai-powered-compliance--2026-11-05",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "POLICY",
-      "accent": "#5eead4",
-      "title": "Deloitte launches AI-powered compliance tool to curb corporate greenwashing",
-      "excerpt": "The Green Claims Navigator is designed to speedily detect misleading statements a company has made about the environmental benefits of its products or practice across its entire content ecosystem.",
-      "url": "https://www.esgdive.com/news/deloitte-launches-ai-powered-compliance-tool-to-curb-corporate-greenwashing/873902/",
-      "publishedAt": "2026-11-05T18:00:40.000Z",
-      "image": "https://imgproxy.divecdn.com/kwEn7Mnk9Iaz-V-UnsbdLPlobF3ROBLG_YafLauQhHY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ3NjE5MDYxLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-11-05",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2428,10 +2429,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "SECI Invites EOI to Identify CO₂ Sources for Green Urea and RFNBO Compliant Green Methanol - Energetica India Magazine",
-      "excerpt": "SECI Invites EOI to Identify CO₂ Sources for Green Urea and RFNBO Compliant Green Methanol Energetica India Magazine",
+      "excerpt": "--> --> Home News Training & Education Standards & Certifications Solar manufacturing Smart Grid / T&D Renewable energy Wind Power Thermal Solar Solar PV Other Renewables Ocean Energy Hydropower Hydrogen / Fuel Cells Geothermal Concentrated Solar Biomass Power R&D Policies & Regulations Other Energy Applications Sustainable Transport Sustainable Building Rural Electrification Lighting Cooking Middle East Market Investment & Trading Energy Storage Energy efficiency Conventional energy Thermal Power Plants Gen Sets Exploration Cogeneration CCS & Emissions…",
       "url": "https://www.energetica-india.net/news/seci-invites-eoi-to-identify-co-sources-for-green-urea-and-rfnbo-compliant-green-methanol",
       "publishedAt": "2026-08-06T07:00:00.000Z",
-      "image": null,
+      "image": "https://www.energetica-india.net/images/noticias/C0o1jKaxAWZjeSAKK7aMK1KoN2GSee0UHkrdQRDMD7wsfskqVnGBpe.jpg",
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2439,7 +2440,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWpIbEhBdUhnamNsaFlobEl4NmgwZENEWm50aFZfMTFpdEs3dHhoQXBad1ZCRXBUX2p3ZWtGNEhTX3hzT2pxY2JVamI0YWhPS0JGS0J4dV9jY093d2MxNzE5dGRiNUpoVEhJMFNQdk1JU2RJZzI2NEpXWlJiQ3poN2U0Mmd0dFRDeFdvUXgzaXI0T2pNVnZlYWJpaE1OMXg1bnBPS2h3ZW5tMk1JdnpCRG9sTVA4UFdxNUdsM2RablE1a3RidGc?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWpIbEhBdUhnamNsaFlobEl4NmgwZENEWm50aFZfMTFpdEs3dHhoQXBad1ZCRXBUX2p3ZWtGNEhTX3hzT2pxY2JVamI0YWhPS0JGS0J4dV9jY093d2MxNzE5dGRiNUpoVEhJMFNQdk1JU2RJZzI2NEpXWlJiQ3poN2U0Mmd0dFRDeFdvUXgzaXI0T2pNVnZlYWJpaE1OMXg1bnBPS2h3ZW5tMk1JdnpCRG9sTVA4UFdxNUdsM2RablE1a3RidGc?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
