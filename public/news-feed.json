@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-12T15:52:09.613Z",
+  "fetchedAt": "2026-11-12T20:37:42.929Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 15,
     "world": 47,
     "withImages": 56,
-    "avgExcerptLength": 464,
+    "avgExcerptLength": 455,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -135,10 +135,10 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "SECI Invites EOI to Identify CO₂ Sources for Green Urea and RFNBO Compliant Green Methanol - Energetica India Magazine",
-        "excerpt": "--> --> Home News Training & Education Standards & Certifications Solar manufacturing Smart Grid / T&D Renewable energy Wind Power Thermal Solar Solar PV Other Renewables Ocean Energy Hydropower Hydrogen / Fuel Cells Geothermal Concentrated Solar Biomass Power R&D Policies & Regulations Other Energy Applications Sustainable Transport Sustainable Building Rural Electrification Lighting Cooking Middle East Market Investment & Trading Energy Storage Energy efficiency Conventional energy Thermal Power Plants Gen Sets Exploration Cogeneration CCS & Emissions…",
+        "excerpt": "SECI Invites EOI to Identify CO₂ Sources for Green Urea and RFNBO Compliant Green Methanol Energetica India Magazine",
         "url": "https://www.energetica-india.net/news/seci-invites-eoi-to-identify-co-sources-for-green-urea-and-rfnbo-compliant-green-methanol",
         "publishedAt": "2026-08-06T07:00:00.000Z",
-        "image": "https://www.energetica-india.net/images/noticias/C0o1jKaxAWZjeSAKK7aMK1KoN2GSee0UHkrdQRDMD7wsfskqVnGBpe.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -146,8 +146,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWpIbEhBdUhnamNsaFlobEl4NmgwZENEWm50aFZfMTFpdEs3dHhoQXBad1ZCRXBUX2p3ZWtGNEhTX3hzT2pxY2JVamI0YWhPS0JGS0J4dV9jY093d2MxNzE5dGRiNUpoVEhJMFNQdk1JU2RJZzI2NEpXWlJiQ3poN2U0Mmd0dFRDeFdvUXgzaXI0T2pNVnZlYWJpaE1OMXg1bnBPS2h3ZW5tMk1JdnpCRG9sTVA4UFdxNUdsM2RablE1a3RidGc?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWpIbEhBdUhnamNsaFlobEl4NmgwZENEWm50aFZfMTFpdEs3dHhoQXBad1ZCRXBUX2p3ZWtGNEhTX3hzT2pxY2JVamI0YWhPS0JGS0J4dV9jY093d2MxNzE5dGRiNUpoVEhJMFNQdk1JU2RJZzI2NEpXWlJiQ3poN2U0Mmd0dFRDeFdvUXgzaXI0T2pNVnZlYWJpaE1OMXg1bnBPS2h3ZW5tMk1JdnpCRG9sTVA4UFdxNUdsM2RablE1a3RidGc?oc=5"
         },
         "region": "india"
       },
@@ -416,6 +415,72 @@
     ],
     "world": [
       {
+        "id": "esg-today-nuveen-launches-new-nature-based-solutio-2026-11-12",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Nuveen Launches New Nature-Based Solutions Fund",
+        "excerpt": "Nuveen Natural Capital, the land-focused asset management platform of global asset manager Nuveen, announced the launch of its new global nature-based solutions investment strategy, backed by a $100 million anchor investment from Nuveen’s parent company, TIAA. The announcement marks the latest move by major financial players to deepen their focus on the natural capital sector, following JP Morgan’s recently announced rebrand of its timberland investment advisory company Campbell Global to J.P. Morgan Natural Capital, establishing an $11 billion platform…",
+        "url": "https://www.esgtoday.com/nuveen-launches-new-nature-based-solutions-fund/?utm_source=rss utm_medium=rss utm_campaign=nuveen-launches-new-nature-based-solutions-fund",
+        "publishedAt": "2026-11-12T17:03:04.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Nuveen2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Investors",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-cop31-how-ed-miliband-answered-carbon-br-2026-11-12",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "COP31: How Ed Miliband answered Carbon Brief readers’ questions",
+        "excerpt": "Share UK foreign secretary and COP veteran Ed Miliband spoke with Carbon Brief earlier today at COP31 in Antalya, Turkey, to answer readers’ questions. Carbon Brief readers submitted questions via CB Connect on topics including the UK’s “climate leadership”, the COP31 electrification target, as well as the roadmaps on deforestation and fossil fuels . .cb-membership-banner__inner { display: flex; align-items: center; gap: clamp(16px, 3vw, 40px); max-width: var(--width--l, 1400px); margin-inline: auto; } .cb-membership-banner__image { position: relative;…",
+        "url": "https://www.carbonbrief.org/cop31-how-ed-miliband-answered-carbon-brief-readers-questions",
+        "publishedAt": "2026-11-12T16:55:59.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/10/cb-plus-banner-scaled.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-platform-launched-at-cop31-aims-to-scale-2026-11-12",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Platform launched at COP31 aims to scale transition capital in emerging markets",
+        "excerpt": "The Glasgow Financial Alliance for Net Zero launched a public repository to make it easier to compare financing opportunities in emerging markets.",
+        "url": "https://www.esgdive.com/news/platform-launched-at-cop31-aims-to-scale-transition-capital-in-emerging-mar/874527/",
+        "publishedAt": "2026-11-12T15:45:00.000Z",
+        "image": "https://imgproxy.divecdn.com/cFD8B0BcYlveVU0_xKLKyEJXGWPo9TDccayDsg3QbFQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAzOTkzMjU1LmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-eu-commission-releases-draft-sustainabil-2026-11-12",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -434,6 +499,28 @@
         "meta": {
           "category": "ESG Reporting",
           "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-nvidia-ceo-resigns-amid-scandal-cfo-name-2026-11-12",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Nvidia CEO resigns amid scandal; CFO named interim",
+        "excerpt": "Jensen Huang resigned effective immediately, with the chipmaker naming its long-time CFO Colette Kress as interim CEO until a permanent successor is found, Nvidia announced Thursday.",
+        "url": "https://www.esgdive.com/news/nvidia-ceo-resigns-scandal-cfo-named-interim-ceo-ai/874506/",
+        "publishedAt": "2026-11-12T15:06:00.000Z",
+        "image": "https://imgproxy.divecdn.com/F0KZ_t3vSV7XUlwg13_F5g6zsZ9EHYPxZINu-nt7PEg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxMzI4MDE3LmpwZ19yZXNpemUuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -653,28 +740,6 @@
         "status": null,
         "meta": {
           "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-climate-asset-management-appoints-former-2026-11-11",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Climate Asset Management Appoints Former HSBC AM Sustainability Head Erin Leonard as New CEO",
-        "excerpt": "Natural capital investment firm Climate Asset Management has appointed Erin Leonard, formerly HSBC Asset Management’s Global Head of Sustainability, as its new CEO and Chair of the Board. Climate Asset Management was launched in 2020 as a joint venture between HSBC AM and climate change investment and advisory firm Pollination, with a focus on developing and delivering investment solutions that accelerate the transition to a net zero, nature and climate resilient future. The firm offers a Natural Capital Strategy, which invests primarily in sustainable…",
-        "url": "https://www.esgtoday.com/climate-asset-management-appoints-former-hsbc-am-sustainability-head-erin-leonard-as-new-ceo/?utm_source=rss utm_medium=rss utm_campaign=climate-asset-management-appoints-former-hsbc-am-sustainability-head-erin-leonard-as-new-ceo",
-        "publishedAt": "2026-11-11T13:32:25.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/HSBC-Leonard.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Executive Moves",
           "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
@@ -1013,50 +1078,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-ceres-faith-based-investors-sue-kentucky-2026-11-05",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Ceres, faith-based investors sue Kentucky over law targeting proxy advice",
-        "excerpt": "The sustainability nonprofit was joined by a pair of faith-based investors in seeking to stop a law that would compel disclosures from proxy advisory firms who consider any nonpecuniary factors.",
-        "url": "https://www.esgdive.com/news/ceres-iccr-ucf-sue-kentucky-over-law-targeting-proxy-advice/873889/",
-        "publishedAt": "2026-11-05T17:35:00.000Z",
-        "image": "https://imgproxy.divecdn.com/Lnxbz9tf9HpFvzivOTErkc-CRKXYeSu1BjnuTrEhK7k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MDgwMTY1NjkuanBn.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-o-i-glass-served-with-class-action-lawsu-2026-11-05",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "O-I Glass served with class action lawsuit alleging securities fraud",
-        "excerpt": "CEO Gordon Hardie and CFO John Haudrich are also named in the lawsuit. Among the allegations, a shareholder said defendants concealed material adverse facts concerning the true state of O-I Glass Fit to Win program.",
-        "url": "https://www.esgdive.com/news/oi-glass-faces-class-action-lawsuit-alleging-securities-fraud-fit-to-win/873875/",
-        "publishedAt": "2026-11-05T16:43:00.000Z",
-        "image": null,
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-interactive-tracking-negotiating-texts-a-2026-11-05",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1068,28 +1089,6 @@
         "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
         "publishedAt": "2026-11-05T14:13:38.000Z",
         "image": "https://www.carbonbrief.org/wp-content/uploads/2026/10/cb-plus-banner-scaled.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "carbon-brief-q-a-what-is-the-brazil-led-deforestation-2026-11-04",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Q A: What is the Brazil-led ‘deforestation roadmap’?",
-        "excerpt": "Share Article Contents Expand menu Close What is a deforestation ‘roadmap’? What does the roadmap say about reducing deforestation? Why did some countries not sign onto the roadmap at COP30? What are the barriers to implementing a deforestation roadmap? On 3 November, the Brazilian presidency of the COP30 climate talks released its long-awaited “roadmap” on ending deforestation. Ahead of the Belém summit, Brazilian president Luiz Inácio Lula da Silva made a call for a “roadmap” to halt and reverse deforestation. Although this voluntary roadmap was…",
-        "url": "https://www.carbonbrief.org/qa-what-is-the-brazil-led-deforestation-roadmap",
-        "publishedAt": "2026-11-04T15:39:10.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/more-than-90-countri-scaled.png",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1480,6 +1479,72 @@
   },
   "articles": [
     {
+      "id": "esg-today-nuveen-launches-new-nature-based-solutio-2026-11-12",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Nuveen Launches New Nature-Based Solutions Fund",
+      "excerpt": "Nuveen Natural Capital, the land-focused asset management platform of global asset manager Nuveen, announced the launch of its new global nature-based solutions investment strategy, backed by a $100 million anchor investment from Nuveen’s parent company, TIAA. The announcement marks the latest move by major financial players to deepen their focus on the natural capital sector, following JP Morgan’s recently announced rebrand of its timberland investment advisory company Campbell Global to J.P. Morgan Natural Capital, establishing an $11 billion platform…",
+      "url": "https://www.esgtoday.com/nuveen-launches-new-nature-based-solutions-fund/?utm_source=rss utm_medium=rss utm_campaign=nuveen-launches-new-nature-based-solutions-fund",
+      "publishedAt": "2026-11-12T17:03:04.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Nuveen2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Investors",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-cop31-how-ed-miliband-answered-carbon-br-2026-11-12",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "COP31: How Ed Miliband answered Carbon Brief readers’ questions",
+      "excerpt": "Share UK foreign secretary and COP veteran Ed Miliband spoke with Carbon Brief earlier today at COP31 in Antalya, Turkey, to answer readers’ questions. Carbon Brief readers submitted questions via CB Connect on topics including the UK’s “climate leadership”, the COP31 electrification target, as well as the roadmaps on deforestation and fossil fuels . .cb-membership-banner__inner { display: flex; align-items: center; gap: clamp(16px, 3vw, 40px); max-width: var(--width--l, 1400px); margin-inline: auto; } .cb-membership-banner__image { position: relative;…",
+      "url": "https://www.carbonbrief.org/cop31-how-ed-miliband-answered-carbon-brief-readers-questions",
+      "publishedAt": "2026-11-12T16:55:59.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/10/cb-plus-banner-scaled.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-platform-launched-at-cop31-aims-to-scale-2026-11-12",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Platform launched at COP31 aims to scale transition capital in emerging markets",
+      "excerpt": "The Glasgow Financial Alliance for Net Zero launched a public repository to make it easier to compare financing opportunities in emerging markets.",
+      "url": "https://www.esgdive.com/news/platform-launched-at-cop31-aims-to-scale-transition-capital-in-emerging-mar/874527/",
+      "publishedAt": "2026-11-12T15:45:00.000Z",
+      "image": "https://imgproxy.divecdn.com/cFD8B0BcYlveVU0_xKLKyEJXGWPo9TDccayDsg3QbFQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAzOTkzMjU1LmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-today-eu-commission-releases-draft-sustainabil-2026-11-12",
       "source": "esg-today",
       "sourceName": "ESG Today",
@@ -1498,6 +1563,28 @@
       "meta": {
         "category": "ESG Reporting",
         "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-nvidia-ceo-resigns-amid-scandal-cfo-name-2026-11-12",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Nvidia CEO resigns amid scandal; CFO named interim",
+      "excerpt": "Jensen Huang resigned effective immediately, with the chipmaker naming its long-time CFO Colette Kress as interim CEO until a permanent successor is found, Nvidia announced Thursday.",
+      "url": "https://www.esgdive.com/news/nvidia-ceo-resigns-scandal-cfo-named-interim-ceo-ai/874506/",
+      "publishedAt": "2026-11-12T15:06:00.000Z",
+      "image": "https://imgproxy.divecdn.com/F0KZ_t3vSV7XUlwg13_F5g6zsZ9EHYPxZINu-nt7PEg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxMzI4MDE3LmpwZ19yZXNpemUuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -1717,28 +1804,6 @@
       "status": null,
       "meta": {
         "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-climate-asset-management-appoints-former-2026-11-11",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Climate Asset Management Appoints Former HSBC AM Sustainability Head Erin Leonard as New CEO",
-      "excerpt": "Natural capital investment firm Climate Asset Management has appointed Erin Leonard, formerly HSBC Asset Management’s Global Head of Sustainability, as its new CEO and Chair of the Board. Climate Asset Management was launched in 2020 as a joint venture between HSBC AM and climate change investment and advisory firm Pollination, with a focus on developing and delivering investment solutions that accelerate the transition to a net zero, nature and climate resilient future. The firm offers a Natural Capital Strategy, which invests primarily in sustainable…",
-      "url": "https://www.esgtoday.com/climate-asset-management-appoints-former-hsbc-am-sustainability-head-erin-leonard-as-new-ceo/?utm_source=rss utm_medium=rss utm_campaign=climate-asset-management-appoints-former-hsbc-am-sustainability-head-erin-leonard-as-new-ceo",
-      "publishedAt": "2026-11-11T13:32:25.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/HSBC-Leonard.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Executive Moves",
         "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
@@ -2077,28 +2142,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-ceres-faith-based-investors-sue-kentucky-2026-11-05",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Ceres, faith-based investors sue Kentucky over law targeting proxy advice",
-      "excerpt": "The sustainability nonprofit was joined by a pair of faith-based investors in seeking to stop a law that would compel disclosures from proxy advisory firms who consider any nonpecuniary factors.",
-      "url": "https://www.esgdive.com/news/ceres-iccr-ucf-sue-kentucky-over-law-targeting-proxy-advice/873889/",
-      "publishedAt": "2026-11-05T17:35:00.000Z",
-      "image": "https://imgproxy.divecdn.com/Lnxbz9tf9HpFvzivOTErkc-CRKXYeSu1BjnuTrEhK7k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MDgwMTY1NjkuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-11-05",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2123,28 +2166,6 @@
       "region": "india"
     },
     {
-      "id": "esg-dive-o-i-glass-served-with-class-action-lawsu-2026-11-05",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "O-I Glass served with class action lawsuit alleging securities fraud",
-      "excerpt": "CEO Gordon Hardie and CFO John Haudrich are also named in the lawsuit. Among the allegations, a shareholder said defendants concealed material adverse facts concerning the true state of O-I Glass Fit to Win program.",
-      "url": "https://www.esgdive.com/news/oi-glass-faces-class-action-lawsuit-alleging-securities-fraud-fit-to-win/873875/",
-      "publishedAt": "2026-11-05T16:43:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-interactive-tracking-negotiating-texts-a-2026-11-05",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2156,28 +2177,6 @@
       "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
       "publishedAt": "2026-11-05T14:13:38.000Z",
       "image": "https://www.carbonbrief.org/wp-content/uploads/2026/10/cb-plus-banner-scaled.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "carbon-brief-q-a-what-is-the-brazil-led-deforestation-2026-11-04",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Q A: What is the Brazil-led ‘deforestation roadmap’?",
-      "excerpt": "Share Article Contents Expand menu Close What is a deforestation ‘roadmap’? What does the roadmap say about reducing deforestation? Why did some countries not sign onto the roadmap at COP30? What are the barriers to implementing a deforestation roadmap? On 3 November, the Brazilian presidency of the COP30 climate talks released its long-awaited “roadmap” on ending deforestation. Ahead of the Belém summit, Brazilian president Luiz Inácio Lula da Silva made a call for a “roadmap” to halt and reverse deforestation. Although this voluntary roadmap was…",
-      "url": "https://www.carbonbrief.org/qa-what-is-the-brazil-led-deforestation-roadmap",
-      "publishedAt": "2026-11-04T15:39:10.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/more-than-90-countri-scaled.png",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2429,10 +2428,10 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "SECI Invites EOI to Identify CO₂ Sources for Green Urea and RFNBO Compliant Green Methanol - Energetica India Magazine",
-      "excerpt": "--> --> Home News Training & Education Standards & Certifications Solar manufacturing Smart Grid / T&D Renewable energy Wind Power Thermal Solar Solar PV Other Renewables Ocean Energy Hydropower Hydrogen / Fuel Cells Geothermal Concentrated Solar Biomass Power R&D Policies & Regulations Other Energy Applications Sustainable Transport Sustainable Building Rural Electrification Lighting Cooking Middle East Market Investment & Trading Energy Storage Energy efficiency Conventional energy Thermal Power Plants Gen Sets Exploration Cogeneration CCS & Emissions…",
+      "excerpt": "SECI Invites EOI to Identify CO₂ Sources for Green Urea and RFNBO Compliant Green Methanol Energetica India Magazine",
       "url": "https://www.energetica-india.net/news/seci-invites-eoi-to-identify-co-sources-for-green-urea-and-rfnbo-compliant-green-methanol",
       "publishedAt": "2026-08-06T07:00:00.000Z",
-      "image": "https://www.energetica-india.net/images/noticias/C0o1jKaxAWZjeSAKK7aMK1KoN2GSee0UHkrdQRDMD7wsfskqVnGBpe.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
@@ -2440,8 +2439,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWpIbEhBdUhnamNsaFlobEl4NmgwZENEWm50aFZfMTFpdEs3dHhoQXBad1ZCRXBUX2p3ZWtGNEhTX3hzT2pxY2JVamI0YWhPS0JGS0J4dV9jY093d2MxNzE5dGRiNUpoVEhJMFNQdk1JU2RJZzI2NEpXWlJiQ3poN2U0Mmd0dFRDeFdvUXgzaXI0T2pNVnZlYWJpaE1OMXg1bnBPS2h3ZW5tMk1JdnpCRG9sTVA4UFdxNUdsM2RablE1a3RidGc?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWpIbEhBdUhnamNsaFlobEl4NmgwZENEWm50aFZfMTFpdEs3dHhoQXBad1ZCRXBUX2p3ZWtGNEhTX3hzT2pxY2JVamI0YWhPS0JGS0J4dV9jY093d2MxNzE5dGRiNUpoVEhJMFNQdk1JU2RJZzI2NEpXWlJiQ3poN2U0Mmd0dFRDeFdvUXgzaXI0T2pNVnZlYWJpaE1OMXg1bnBPS2h3ZW5tMk1JdnpCRG9sTVA4UFdxNUdsM2RablE1a3RidGc?oc=5"
       },
       "region": "india"
     },
