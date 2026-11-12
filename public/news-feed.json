@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-12T07:54:40.728Z",
+  "fetchedAt": "2026-11-12T15:52:09.613Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,10 +45,10 @@
   ],
   "stats": {
     "total": 62,
-    "india": 16,
-    "world": 46,
-    "withImages": 57,
-    "avgExcerptLength": 472,
+    "india": 15,
+    "world": 47,
+    "withImages": 56,
+    "avgExcerptLength": 464,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -99,30 +99,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjFfUFhWaFFzZnd1TnFweGpXS3Q3RUtqMHVscnAwdkZLcjQxYUktUVk5OTlYTlNlQ0ZWY0dJY1hEVTVTZVlUQ1RhMTZKeGJkdHFYbVZuaU91cFQwMnhIbEdJdXpiOWdteVlLdEJGOV9sNUtmU3NrZXNVb2tyU3Y5UnpxZmRhRjg1Q0U1LXRBRnRIWl9JWGJpZ1VoMW5WcXJtWW4wVGZR?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-article-6-of-the-paris-agreement-climate-2026-08-17",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
-        "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
-        "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
-        "publishedAt": "2026-08-17T07:00:00.000Z",
-        "image": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/07/Article-6-of-the-Paris-Agreement.webp?v=1784286245",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzAyMk9nMlh4QjdIS1hDczM4S1NPY2JrQU54dFFsZENLZTNtUUdCQzF0QmVsNXVZck5WYi1ZaWdLaDJOWU80QkdocERNZHpWWlVXRFBzMzFfWXhoU2ZVOHNxUlRGZWpXeFRPU2NvN2F0WG1CVWI3cmc1YnNQZml3RDVn?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -319,6 +295,30 @@
         "region": "india"
       },
       {
+        "id": "google-india-residential-training-programme-on-carbon-2026-04-24",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Residential Training Programme on: Carbon Accounting, MRV and Trading - cseindia.org",
+        "excerpt": "About Us Who We Are Our Board Our Leadership Annual Reports Programmes Biodiversity and Food Overview My Food Story The Green Kitchen Clean Air and Sustainable Mobility Overview Air Quality and Public Health Public Transport and Mobility Vehicle Technology and Fuel City Action Training EPCA Climate Change and Green Economy Overview COPs COP31 COP30 COP29 COP28 UAE Negotiations Carbon Politics Adaptation Environment Monitoring Laboratory Environment Education Overview YOUNG Environmentalist GSP University Programme Green Educators' Network Renewable…",
+        "url": "https://www.cseindia.org/residential-training-programme-on-carbon-accounting-mrv-and-trading-13085",
+        "publishedAt": "2026-04-24T11:04:08.000Z",
+        "image": "https://cdn.cseindia.org/medium/2026-04-24/0.34649300_1777028381_mrv.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnNmZTEwd0xUakRpWVU5aVR5RExBTDc4SGlXaE9FWEZja3l4VXNtY2NCTEUxdGl3WHBmakcwVXY1eWlUTXQ2Mmk0X0F4dVZ1Szc1NEhMU3pweGRDcXVjLTZvNHI1QzM2UzF5Y3lSQWNfeFJMYVhZWVpWZ1JtX2xDYmZObjVxNXNiOG80QnQzVlhvREdJam9fbWs4QVZzcDA?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
         "id": "google-india-cbam-trends-in-indian-industries-ey-2026-04-03",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -390,30 +390,6 @@
         "region": "india"
       },
       {
-        "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
-        "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
-        "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-financing-green-hydrogen-in-india-ceew-2024-06-18",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -439,6 +415,138 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-today-eu-commission-releases-draft-sustainabil-2026-11-12",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EU Commission Releases Draft Sustainability Reporting Assurance Standards",
+        "excerpt": "The European Commission announced today the launch of a consultation on a newly released draft standard for limited assurance of sustainability reporting, aimed at establishing common standards for assurance engagements under the EU’s Corporate Sustainability Reporting Directive (CSRD), and supporting consistency and comparability across the sustainability reporting framework. Companies disclosing under the CSRD are required to obtain assurance through an independent external reviewer for their reported sustainability information. Under the EU’s Omnibus…",
+        "url": "https://www.esgtoday.com/eu-commission-releases-draft-sustainability-reporting-assurance-standards/?utm_source=rss utm_medium=rss utm_campaign=eu-commission-releases-draft-sustainability-reporting-assurance-standards",
+        "publishedAt": "2026-11-12T15:33:42.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-flags3-1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-nordea-am-eq-investors-launch-new-sustai-2026-11-12",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Nordea AM, EQ Investors Launch New Sustainability-Focused Multi-Asset Funds",
+        "excerpt": "UK-based investment manager EQ Investors and Nordic asset manager Nordea Asset Management announced the launch of two new multi-asset funds designed to provide investors with access to a low-cost, sustainability-focused strategy with market-level returns. The new funds include the Nordea EQ Future Leaders Multi-Asset Balanced Fund and the Nordea EQ Future Leaders Multi-Asset Adventurous Fund, targeting equity allocations of 60% and 80%, respectively, and with a dual mandate to deliver long-term capital growth at low cost while investing responsibly.…",
+        "url": "https://www.esgtoday.com/nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds/?utm_source=rss utm_medium=rss utm_campaign=nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds",
+        "publishedAt": "2026-11-12T13:45:08.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Nordea.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Investors",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-uk-proposes-mandatory-supply-chain-defor-2026-11-12",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "UK Proposes Mandatory Supply Chain Deforestation Due Diligence Rules",
+        "excerpt": "The UK Government announced the launch of a consultation into proposed new due diligence regulations requiring companies using key deforestation-linked commodities to assess their supply chains and ensure that they are not driving illegal deforestation. The proposed rules would apply to the same range of commodity categories as the EU’s Deforestation Regulation (EUDR), and set similar traceability and due diligence requirements, and would include in its scope companies with annual global revenues greater than £1 million that use the commodities or…",
+        "url": "https://www.esgtoday.com/uk-proposes-mandatory-supply-chain-deforestation-due-diligence-rules/?utm_source=rss utm_medium=rss utm_campaign=uk-proposes-mandatory-supply-chain-deforestation-due-diligence-rules",
+        "publishedAt": "2026-11-12T12:51:58.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/UK-House-of-Commons-1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-google-cloud-signs-deal-for-10-million-l-2026-11-12",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Google Cloud Signs Deal for 10 Million Liters of Sustainable Aviation Fuel to Tackle Shipping Emissions",
+        "excerpt": "Denmark-based global transport and logistics company DSV announced today an agreement with Google Cloud to secure nearly 10 million liters of sustainable aviation fuel (SAF) to help address emissions from Google Cloud’s air freight operations. DSV and Google Cloud described the agreement as a pilot that lays the groundwork for a broader sustainability collaboration between the companies. Brian Stewart, Senior Director, Logistics at Google Cloud, said: “This collaboration builds on our ongoing efforts to reduce emissions across Google Cloud’s global…",
+        "url": "https://www.esgtoday.com/google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions/?utm_source=rss utm_medium=rss utm_campaign=google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions",
+        "publishedAt": "2026-11-12T11:50:09.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Google6-1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-just-climate-raises-540-million-for-agri-2026-11-12",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Just Climate Raises $540 Million for Agriculture-Focused Decarbonization Solutions Fund",
+        "excerpt": "Climate solutions-focused investment business Just Climate announced that it has raised $540 million in commitments at the final close of Natural Climate Solutions I (NCS I), its strategy aimed at directing capital to businesses focused on natural climate solutions to decarbonize the high-emitting agricultural sector. NCS I’s anchor investors included California State Teachers’ Retirement System (CalSTRS) as the institutional anchor and Microsoft’s Climate Innovation Fund as the corporate anchor. Founded in 2021 by Generation Investment Management, a…",
+        "url": "https://www.esgtoday.com/just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund/?utm_source=rss utm_medium=rss utm_campaign=just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund",
+        "publishedAt": "2026-11-12T10:34:31.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Just-Climate-Barby.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Investors",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-course-corrected-raises-80-million-to-ba-2026-11-12",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Course Corrected Raises €80 Million to Back European Energy and Resource Transition Startups",
+        "excerpt": "Venture capital investor Course Corrected announced today that it has raised €80 million (USD$89 million) at the final close of its second fund, focused on investing in early-stage European technology companies across the energy and resource transition. Founded in 2021 by Christine Ahlstrand, Kerstin Cooley and Katja Bergman, Stockholm-based Course Corrected invests in early-stage technology companies developing solutions to enable industries to become more energy, resource and cost efficient. Fund II builds on the firm’s first fund, which focused…",
+        "url": "https://www.esgtoday.com/course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups/?utm_source=rss utm_medium=rss utm_campaign=course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups",
+        "publishedAt": "2026-11-12T09:34:17.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Course-Corrected.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-vanguard-expands-proxy-voting-program-to-2026-11-11",
         "source": "esg-dive",
@@ -572,50 +680,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-global-sustainable-fund-inflows-reach-hi-2026-11-11",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Global Sustainable Fund Inflows Reach Highest Level Since 2024: Morningstar",
-        "excerpt": "Global sustainable investment funds experienced their third consecutive quarter of positive net flows in the third quarter of 2026, extending a rebound after significant outflows in 2025, according to a new report by investment insights and data provider Morningstar. According to the report, net inflows into sustainable funds reached $6.5 billion in Q3, the strongest quarter since late 2024, driven by continued momentum in Europe, but offset by a resumption of net outflows in the U.S. Despite the positive flows, the report also found that global…",
-        "url": "https://www.esgtoday.com/global-sustainable-fund-inflows-reach-highest-level-since-2024-morningstar/?utm_source=rss utm_medium=rss utm_campaign=global-sustainable-fund-inflows-reach-highest-level-since-2024-morningstar",
-        "publishedAt": "2026-11-11T12:31:02.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Morningstar4.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Investors",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-rwe-kkr-secure-record-17-billion-financi-2026-11-11",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "RWE, KKR Secure Record $17 Billion Financing to Build Major UK Offshore Wind Projects",
-        "excerpt": "German power producer RWE and alternative asset manager KKR announced on Wednesday that they have secured a £12.8 billion (USD$17.1 billion) financing package to reach financial close on projects to build 2 new offshore wind projects in the British North Sea, with a combined generation capacity of around 2.8 gigawatts. The new projects received backing from a consortium of 35 international banks, marking the largest ever project financing in UK offshore wind. Commenting on the announcement, UK Prime Minister Andy Burnham called the planned projects a…",
-        "url": "https://www.esgtoday.com/rwe-kkr-secure-record-17-billion-financing-to-build-major-uk-offshore-wind-projects/?utm_source=rss utm_medium=rss utm_campaign=rwe-kkr-secure-record-17-billion-financing-to-build-major-uk-offshore-wind-projects",
-        "publishedAt": "2026-11-11T10:35:41.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Offshore-wind-RWE.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-analysis-climate-finance-pledges-fall-70-2026-11-11",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -705,50 +769,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-octopus-launches-600-million-asia-clean--2026-11-10",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Octopus Launches $600 Million Asia Clean Energy Fund",
-        "excerpt": "UK-based renewable energy company Octopus Energy Generation announced today the launch of the Octopus Asia Electrification Fund (OAEF), a new fund targeting investments in local green energy developers to help them build out large numbers of clean energy projects across Asia. Announced at COP31 in Antalya, Turkey, the new fund aims to catalyze $600 million from institutional investors and has already secured $50 million in backing from Japanese investors, the company said. The new fund is classified as Article 9 under the EU’s SFDR regulation. According…",
-        "url": "https://www.esgtoday.com/octopus-launches-600-million-asia-clean-energy-fund/?utm_source=rss utm_medium=rss utm_campaign=octopus-launches-600-million-asia-clean-energy-fund",
-        "publishedAt": "2026-11-10T17:08:37.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Octopus-Energy4.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-mercedes-benz-adjusts-2039-carbon-neutra-2026-11-10",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Mercedes-Benz Adjusts 2039 Carbon Neutral Goal, Sets 2049 Net Zero Target",
-        "excerpt": "Mercedes-Benz unveiled a series of revisions to its long-term climate goals, including changing its prior target to make its fleet of new passenger cars carbon neutral by 2039 with new individual targets for emissions from production, vehicle use and its value chain, adding an “as market conditions allow” caveat to its vehicle use-phase ambition, and rolling out a new target to achieve net zero across the value chain by 2049. The new targets were released alongside the announcement of a significant update in Mercedes-Benz’s overall sustainability…",
-        "url": "https://www.esgtoday.com/mercedes-benz-adjusts-2039-carbon-neutral-goal-sets-2049-net-zero-target/?utm_source=rss utm_medium=rss utm_campaign=mercedes-benz-adjusts-2039-carbon-neutral-goal-sets-2049-net-zero-target",
-        "publishedAt": "2026-11-10T16:08:46.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Mercedes-hq.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-this-is-not-a-new-story-legal-profession-2026-11-10",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -767,50 +787,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-sphera-launches-new-product-sustainabili-2026-11-10",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Sphera Launches New Product Sustainability Compliance Solutions",
-        "excerpt": "Sustainability and operational risk management software provider Sphera announced the launch of new AI-powered sustainability solutions and product compliance capabilities, aimed at helping companies assess the environmental impact of their products and comply with evolving regulatory requirements. According to Sphera, as the ability to prove a product is compliant, sustainable and transparent increasingly determines whether it can be sold, and amidst increasing regulations focused on product sustainability, such as the EU’s upcoming Digital Product…",
-        "url": "https://www.esgtoday.com/sphera-launches-solutions-to-help-companies-comply-with-new-product-sustainability-regulations/?utm_source=rss utm_medium=rss utm_campaign=sphera-launches-solutions-to-help-companies-comply-with-new-product-sustainability-regulations",
-        "publishedAt": "2026-11-10T15:38:25.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Sphera-LCA.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-the-collapse-of-koko-networks-a-warning--2026-11-10",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "The Collapse of KOKO Networks: A Warning for Global Carbon Markets",
-        "excerpt": "The collapse of KOKO Networks in Kenya in early 2026 serves as a stark example of how regulatory uncertainty surrounding carbon markets can threaten the viability of climate projects. At the heart of the issue are government authorization requirements under Article 6 of the Paris Agreement, which can create barriers for projects working to reduce greenhouse gas emissions. Founded in 2013 by Australian entrepreneur Greg Murray, KOKO had built a network of more than 3,000 bioethanol dispensing machines across Kenya s urban neighborhoods, serving…",
-        "url": "https://www.esgtoday.com/the-collapse-of-koko-networks-a-warning-for-global-carbon-markets/?utm_source=rss utm_medium=rss utm_campaign=the-collapse-of-koko-networks-a-warning-for-global-carbon-markets",
-        "publishedAt": "2026-11-10T13:37:38.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Bluegreen-Harel2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1334,6 +1310,29 @@
         "region": "world"
       },
       {
+        "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "The Evolving Spectrum of Energy Sources - www.pib.gov.in",
+        "excerpt": "The Evolving Spectrum of Energy Sources www.pib.gov.in",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
+        "publishedAt": "2026-02-28T08:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-beyond-price-rethinking-carbon-credit-va-2024-11-27",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1481,6 +1480,138 @@
   },
   "articles": [
     {
+      "id": "esg-today-eu-commission-releases-draft-sustainabil-2026-11-12",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EU Commission Releases Draft Sustainability Reporting Assurance Standards",
+      "excerpt": "The European Commission announced today the launch of a consultation on a newly released draft standard for limited assurance of sustainability reporting, aimed at establishing common standards for assurance engagements under the EU’s Corporate Sustainability Reporting Directive (CSRD), and supporting consistency and comparability across the sustainability reporting framework. Companies disclosing under the CSRD are required to obtain assurance through an independent external reviewer for their reported sustainability information. Under the EU’s Omnibus…",
+      "url": "https://www.esgtoday.com/eu-commission-releases-draft-sustainability-reporting-assurance-standards/?utm_source=rss utm_medium=rss utm_campaign=eu-commission-releases-draft-sustainability-reporting-assurance-standards",
+      "publishedAt": "2026-11-12T15:33:42.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-flags3-1.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-nordea-am-eq-investors-launch-new-sustai-2026-11-12",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Nordea AM, EQ Investors Launch New Sustainability-Focused Multi-Asset Funds",
+      "excerpt": "UK-based investment manager EQ Investors and Nordic asset manager Nordea Asset Management announced the launch of two new multi-asset funds designed to provide investors with access to a low-cost, sustainability-focused strategy with market-level returns. The new funds include the Nordea EQ Future Leaders Multi-Asset Balanced Fund and the Nordea EQ Future Leaders Multi-Asset Adventurous Fund, targeting equity allocations of 60% and 80%, respectively, and with a dual mandate to deliver long-term capital growth at low cost while investing responsibly.…",
+      "url": "https://www.esgtoday.com/nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds/?utm_source=rss utm_medium=rss utm_campaign=nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds",
+      "publishedAt": "2026-11-12T13:45:08.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Nordea.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Investors",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-uk-proposes-mandatory-supply-chain-defor-2026-11-12",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "UK Proposes Mandatory Supply Chain Deforestation Due Diligence Rules",
+      "excerpt": "The UK Government announced the launch of a consultation into proposed new due diligence regulations requiring companies using key deforestation-linked commodities to assess their supply chains and ensure that they are not driving illegal deforestation. The proposed rules would apply to the same range of commodity categories as the EU’s Deforestation Regulation (EUDR), and set similar traceability and due diligence requirements, and would include in its scope companies with annual global revenues greater than £1 million that use the commodities or…",
+      "url": "https://www.esgtoday.com/uk-proposes-mandatory-supply-chain-deforestation-due-diligence-rules/?utm_source=rss utm_medium=rss utm_campaign=uk-proposes-mandatory-supply-chain-deforestation-due-diligence-rules",
+      "publishedAt": "2026-11-12T12:51:58.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/UK-House-of-Commons-1.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-google-cloud-signs-deal-for-10-million-l-2026-11-12",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Google Cloud Signs Deal for 10 Million Liters of Sustainable Aviation Fuel to Tackle Shipping Emissions",
+      "excerpt": "Denmark-based global transport and logistics company DSV announced today an agreement with Google Cloud to secure nearly 10 million liters of sustainable aviation fuel (SAF) to help address emissions from Google Cloud’s air freight operations. DSV and Google Cloud described the agreement as a pilot that lays the groundwork for a broader sustainability collaboration between the companies. Brian Stewart, Senior Director, Logistics at Google Cloud, said: “This collaboration builds on our ongoing efforts to reduce emissions across Google Cloud’s global…",
+      "url": "https://www.esgtoday.com/google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions/?utm_source=rss utm_medium=rss utm_campaign=google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions",
+      "publishedAt": "2026-11-12T11:50:09.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Google6-1.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-just-climate-raises-540-million-for-agri-2026-11-12",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Just Climate Raises $540 Million for Agriculture-Focused Decarbonization Solutions Fund",
+      "excerpt": "Climate solutions-focused investment business Just Climate announced that it has raised $540 million in commitments at the final close of Natural Climate Solutions I (NCS I), its strategy aimed at directing capital to businesses focused on natural climate solutions to decarbonize the high-emitting agricultural sector. NCS I’s anchor investors included California State Teachers’ Retirement System (CalSTRS) as the institutional anchor and Microsoft’s Climate Innovation Fund as the corporate anchor. Founded in 2021 by Generation Investment Management, a…",
+      "url": "https://www.esgtoday.com/just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund/?utm_source=rss utm_medium=rss utm_campaign=just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund",
+      "publishedAt": "2026-11-12T10:34:31.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Just-Climate-Barby.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Investors",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-course-corrected-raises-80-million-to-ba-2026-11-12",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Course Corrected Raises €80 Million to Back European Energy and Resource Transition Startups",
+      "excerpt": "Venture capital investor Course Corrected announced today that it has raised €80 million (USD$89 million) at the final close of its second fund, focused on investing in early-stage European technology companies across the energy and resource transition. Founded in 2021 by Christine Ahlstrand, Kerstin Cooley and Katja Bergman, Stockholm-based Course Corrected invests in early-stage technology companies developing solutions to enable industries to become more energy, resource and cost efficient. Fund II builds on the firm’s first fund, which focused…",
+      "url": "https://www.esgtoday.com/course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups/?utm_source=rss utm_medium=rss utm_campaign=course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups",
+      "publishedAt": "2026-11-12T09:34:17.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Course-Corrected.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-vanguard-expands-proxy-voting-program-to-2026-11-11",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1613,50 +1744,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-global-sustainable-fund-inflows-reach-hi-2026-11-11",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Global Sustainable Fund Inflows Reach Highest Level Since 2024: Morningstar",
-      "excerpt": "Global sustainable investment funds experienced their third consecutive quarter of positive net flows in the third quarter of 2026, extending a rebound after significant outflows in 2025, according to a new report by investment insights and data provider Morningstar. According to the report, net inflows into sustainable funds reached $6.5 billion in Q3, the strongest quarter since late 2024, driven by continued momentum in Europe, but offset by a resumption of net outflows in the U.S. Despite the positive flows, the report also found that global…",
-      "url": "https://www.esgtoday.com/global-sustainable-fund-inflows-reach-highest-level-since-2024-morningstar/?utm_source=rss utm_medium=rss utm_campaign=global-sustainable-fund-inflows-reach-highest-level-since-2024-morningstar",
-      "publishedAt": "2026-11-11T12:31:02.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Morningstar4.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Investors",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-rwe-kkr-secure-record-17-billion-financi-2026-11-11",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "RWE, KKR Secure Record $17 Billion Financing to Build Major UK Offshore Wind Projects",
-      "excerpt": "German power producer RWE and alternative asset manager KKR announced on Wednesday that they have secured a £12.8 billion (USD$17.1 billion) financing package to reach financial close on projects to build 2 new offshore wind projects in the British North Sea, with a combined generation capacity of around 2.8 gigawatts. The new projects received backing from a consortium of 35 international banks, marking the largest ever project financing in UK offshore wind. Commenting on the announcement, UK Prime Minister Andy Burnham called the planned projects a…",
-      "url": "https://www.esgtoday.com/rwe-kkr-secure-record-17-billion-financing-to-build-major-uk-offshore-wind-projects/?utm_source=rss utm_medium=rss utm_campaign=rwe-kkr-secure-record-17-billion-financing-to-build-major-uk-offshore-wind-projects",
-      "publishedAt": "2026-11-11T10:35:41.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Offshore-wind-RWE.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-analysis-climate-finance-pledges-fall-70-2026-11-11",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -1746,50 +1833,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-octopus-launches-600-million-asia-clean--2026-11-10",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Octopus Launches $600 Million Asia Clean Energy Fund",
-      "excerpt": "UK-based renewable energy company Octopus Energy Generation announced today the launch of the Octopus Asia Electrification Fund (OAEF), a new fund targeting investments in local green energy developers to help them build out large numbers of clean energy projects across Asia. Announced at COP31 in Antalya, Turkey, the new fund aims to catalyze $600 million from institutional investors and has already secured $50 million in backing from Japanese investors, the company said. The new fund is classified as Article 9 under the EU’s SFDR regulation. According…",
-      "url": "https://www.esgtoday.com/octopus-launches-600-million-asia-clean-energy-fund/?utm_source=rss utm_medium=rss utm_campaign=octopus-launches-600-million-asia-clean-energy-fund",
-      "publishedAt": "2026-11-10T17:08:37.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Octopus-Energy4.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-mercedes-benz-adjusts-2039-carbon-neutra-2026-11-10",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Mercedes-Benz Adjusts 2039 Carbon Neutral Goal, Sets 2049 Net Zero Target",
-      "excerpt": "Mercedes-Benz unveiled a series of revisions to its long-term climate goals, including changing its prior target to make its fleet of new passenger cars carbon neutral by 2039 with new individual targets for emissions from production, vehicle use and its value chain, adding an “as market conditions allow” caveat to its vehicle use-phase ambition, and rolling out a new target to achieve net zero across the value chain by 2049. The new targets were released alongside the announcement of a significant update in Mercedes-Benz’s overall sustainability…",
-      "url": "https://www.esgtoday.com/mercedes-benz-adjusts-2039-carbon-neutral-goal-sets-2049-net-zero-target/?utm_source=rss utm_medium=rss utm_campaign=mercedes-benz-adjusts-2039-carbon-neutral-goal-sets-2049-net-zero-target",
-      "publishedAt": "2026-11-10T16:08:46.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Mercedes-hq.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-this-is-not-a-new-story-legal-profession-2026-11-10",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1808,50 +1851,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-sphera-launches-new-product-sustainabili-2026-11-10",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Sphera Launches New Product Sustainability Compliance Solutions",
-      "excerpt": "Sustainability and operational risk management software provider Sphera announced the launch of new AI-powered sustainability solutions and product compliance capabilities, aimed at helping companies assess the environmental impact of their products and comply with evolving regulatory requirements. According to Sphera, as the ability to prove a product is compliant, sustainable and transparent increasingly determines whether it can be sold, and amidst increasing regulations focused on product sustainability, such as the EU’s upcoming Digital Product…",
-      "url": "https://www.esgtoday.com/sphera-launches-solutions-to-help-companies-comply-with-new-product-sustainability-regulations/?utm_source=rss utm_medium=rss utm_campaign=sphera-launches-solutions-to-help-companies-comply-with-new-product-sustainability-regulations",
-      "publishedAt": "2026-11-10T15:38:25.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Sphera-LCA.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-the-collapse-of-koko-networks-a-warning--2026-11-10",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "The Collapse of KOKO Networks: A Warning for Global Carbon Markets",
-      "excerpt": "The collapse of KOKO Networks in Kenya in early 2026 serves as a stark example of how regulatory uncertainty surrounding carbon markets can threaten the viability of climate projects. At the heart of the issue are government authorization requirements under Article 6 of the Paris Agreement, which can create barriers for projects working to reduce greenhouse gas emissions. Founded in 2013 by Australian entrepreneur Greg Murray, KOKO had built a network of more than 3,000 bioethanol dispensing machines across Kenya s urban neighborhoods, serving…",
-      "url": "https://www.esgtoday.com/the-collapse-of-koko-networks-a-warning-for-global-carbon-markets/?utm_source=rss utm_medium=rss utm_campaign=the-collapse-of-koko-networks-a-warning-for-global-carbon-markets",
-      "publishedAt": "2026-11-10T13:37:38.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Bluegreen-Harel2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2399,30 +2398,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-article-6-of-the-paris-agreement-climate-2026-08-17",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Article 6 of the Paris Agreement, Climate Change, Carbon Market - Vajiram & Ravi",
-      "excerpt": "Home > General Studies > Article 6 of the Paris Agreement Article 6 of the Paris Agreement enables international climate cooperation through carbon markets, ITMOs and non-market approaches to achieve NDCs and support sustainable development. By Shakshi Kant - Aug 17, 2026, 16:22 IST Article 6 of the Paris Agreement provides the framework for voluntary international cooperation to reduce greenhouse gas emissions while supporting sustainable development. It enables countries to work together through carbon markets and non market approaches to achieve…",
-      "url": "https://vajiramandravi.com/current-affairs/article-6-of-the-paris-agreement/",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "image": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/07/Article-6-of-the-Paris-Agreement.webp?v=1784286245",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzAyMk9nMlh4QjdIS1hDczM4S1NPY2JrQU54dFFsZENLZTNtUUdCQzF0QmVsNXVZck5WYi1ZaWdLaDJOWU80QkdocERNZHpWWlVXRFBzMzFfWXhoU2ZVOHNxUlRGZWpXeFRPU2NvN2F0WG1CVWI3cmc1YnNQZml3RDVn?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-decarbonising-the-aluminium-sector-in-in-2026-08-06",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2614,6 +2589,30 @@
       "region": "india"
     },
     {
+      "id": "google-india-residential-training-programme-on-carbon-2026-04-24",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Residential Training Programme on: Carbon Accounting, MRV and Trading - cseindia.org",
+      "excerpt": "About Us Who We Are Our Board Our Leadership Annual Reports Programmes Biodiversity and Food Overview My Food Story The Green Kitchen Clean Air and Sustainable Mobility Overview Air Quality and Public Health Public Transport and Mobility Vehicle Technology and Fuel City Action Training EPCA Climate Change and Green Economy Overview COPs COP31 COP30 COP29 COP28 UAE Negotiations Carbon Politics Adaptation Environment Monitoring Laboratory Environment Education Overview YOUNG Environmentalist GSP University Programme Green Educators' Network Renewable…",
+      "url": "https://www.cseindia.org/residential-training-programme-on-carbon-accounting-mrv-and-trading-13085",
+      "publishedAt": "2026-04-24T11:04:08.000Z",
+      "image": "https://cdn.cseindia.org/medium/2026-04-24/0.34649300_1777028381_mrv.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnNmZTEwd0xUakRpWVU5aVR5RExBTDc4SGlXaE9FWEZja3l4VXNtY2NCTEUxdGl3WHBmakcwVXY1eWlUTXQ2Mmk0X0F4dVZ1Szc1NEhMU3pweGRDcXVjLTZvNHI1QzM2UzF5Y3lSQWNfeFJMYVhZWVpWZ1JtX2xDYmZObjVxNXNiOG80QnQzVlhvREdJam9fbWs4QVZzcDA?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2686,6 +2685,29 @@
       "region": "india"
     },
     {
+      "id": "google-h2-the-evolving-spectrum-of-energy-sources--2026-02-28",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "The Evolving Spectrum of Energy Sources - www.pib.gov.in",
+      "excerpt": "The Evolving Spectrum of Energy Sources www.pib.gov.in",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233832&reg=3&lang=2",
+      "publishedAt": "2026-02-28T08:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLTJPSXF1U0RhWWFvZjJJNm0tOWhFRkt0TkdYZG5WaWltWVJfeHdKRFphbk5yNW5nMTh1U2VCZy0yN2pNYnVvM2czN0ZpWkdQbXhuZFhEeVpWUGltV2NjSExKY3JGWkczRWk2amlDRHRZQjIydGxfWkJn?oc=5"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-h2-india-s-green-hydrogen-ambition-millenni-2026-01-21",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2705,30 +2727,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
-      "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
-      "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-        "imageSource": "publisher"
       },
       "region": "india"
     },
