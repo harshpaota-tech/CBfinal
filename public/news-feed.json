@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-13T20:17:22.256Z",
+  "fetchedAt": "2026-11-14T00:07:26.335Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -44,19 +44,19 @@
     }
   ],
   "stats": {
-    "total": 52,
+    "total": 62,
     "india": 16,
-    "world": 36,
-    "withImages": 48,
-    "avgExcerptLength": 455,
-    "verra": 0,
+    "world": 46,
+    "withImages": 58,
+    "avgExcerptLength": 471,
+    "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
       {
-        "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-11-05",
+        "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-11-06",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
@@ -65,7 +65,7 @@
         "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
         "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
         "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
-        "publishedAt": "2026-11-05T17:15:50.000Z",
+        "publishedAt": "2026-11-06T16:42:15.000Z",
         "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
         "country": null,
         "methodology": null,
@@ -99,6 +99,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjFfUFhWaFFzZnd1TnFweGpXS3Q3RUtqMHVscnAwdkZLcjQxYUktUVk5OTlYTlNlQ0ZWY0dJY1hEVTVTZVlUQ1RhMTZKeGJkdHFYbVZuaU91cFQwMnhIbEdJdXpiOWdteVlLdEJGOV9sNUtmU3NrZXNVb2tyU3Y5UnpxZmRhRjg1Q0U1LXRBRnRIWl9JWGJpZ1VoMW5WcXJtWW4wVGZR?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-decarbonising-the-aluminium-sector-in-in-2026-08-06",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Decarbonising the aluminium sector in India: implications of the Carbon Credit Trading Scheme - The London School of Economics and Political Science",
+        "excerpt": "Photo: Unsplash Download Decarbonising the aluminium sector in India (PDF) Few industrial materials are as crucial to the low-carbon transition in India as aluminium, which is essential in the manufacture of solar panels, and electric vehicle battery housings and transmission cables. But producing primary aluminium creates emissions of around 18 24 tonnes of carbon dioxide-equivalent (tCO e) in India, making it one of the most emission-intensive industrial processes in the world. The Indian Carbon Credit Trading Scheme (CCTS) aims to support the country…",
+        "url": "https://www.lse.ac.uk/granthaminstitute/publication/decarbonising-the-aluminium-sector-in-india-implications-of-the-carbon-credit-trading-scheme/",
+        "publishedAt": "2026-08-06T07:00:00.000Z",
+        "image": "https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2026/07/Metal-worker-in-India-scaled.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUNsZk5QXzVYODZJaWxLYTVLUWtNYlNmVnctcVFRcVVZZHhDVkl3ODFPZEw2QWFZTl9nU1lySUZjUlNLLTNRVnJWZE1RR0NIajByeHNIU2tlUFlCaVc5UHZQUzlBS25OaXFaVmRwblU1dk9TV2NzTnA2UmVIME5mM3JaVjR4Y3Q4dFNLZ2hzVHVzMFVwY2xnZ0ZQajBOb2ZmaXhZRjl3amtBdFVlelV1eWtwQlRObGp2YlJ0cDBLYWNvTHFTNkRKMW5aYkt3STlMaXZwSFhaMzVCR0oxT2c?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -314,30 +338,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnNmZTEwd0xUakRpWVU5aVR5RExBTDc4SGlXaE9FWEZja3l4VXNtY2NCTEUxdGl3WHBmakcwVXY1eWlUTXQ2Mmk0X0F4dVZ1Szc1NEhMU3pweGRDcXVjLTZvNHI1QzM2UzF5Y3lSQWNfeFJMYVhZWVpWZ1JtX2xDYmZObjVxNXNiOG80QnQzVlhvREdJam9fbWs4QVZzcDA?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-india-a-better-blueprint-uncertain-outcomes-as-2026-04-22",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "A Better Blueprint, Uncertain Outcomes: Assessing India’s Carbon Trading Scheme - orfonline.org",
-        "excerpt": "India’s Carbon Credit Trading Scheme addresses design flaws in PAT, but without credible enforcement, verification, and demand, it risks reproducing the same market failures In the Perform, Achieve and Trade (PAT) scheme Cycle I, the non-compliance rate was 9 percent ; by PAT Cycle II, this rate had increased to about 56 percent; the Designated Consumers (DCs) obligated to purchase 86 percent of the mandated ESCerts were found to be unregistered; and the ESCerts that were purchased were sold at the floor price mandated by the Bureau of Energy Efficiency…",
-        "url": "https://www.orfonline.org/expert-speak/a-better-blueprint-uncertain-outcomes-assessing-india-s-carbon-trading-scheme",
-        "publishedAt": "2026-04-22T07:00:00.000Z",
-        "image": "https://www.orfonline.org/public/uploads/posts/image/thumbnail/1776845085_img-carban.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmk5MHVRUWxDX3ptS2NBTXEtZWVlXzFQVUVjaERmUHRFMENRbEdGNExUbzdjLWVVNnZqV0Q3RklfUzdMM0o4cTh5QjlFVWNpVVBxSW55a0VzbTQxUEhwY1picWhlV2lwbHJvWXlWNXhFakYyNncwZ1plNS1nVWR1V2hJQm5pQ1ZWa19waWFKYVBFUDBYWTZESmh2S2diRzBfMlJrN18yTFJKNmRvdFZaM3g4WDJGXzQ?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -836,6 +836,29 @@
         "region": "world"
       },
       {
+        "id": "verra-chile-recognizes-verra-s-vcs-program-und-2026-11-10",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Chile Recognizes Verra s VCS Program under Article 6 Framework",
+        "excerpt": "Chile’s Ministry of Environment has formally recognized (PDF) Verra s Verified Carbon Standard (VCS) Program under the country s framework for regulating international cooperation under Article 6 of the Paris Agreement. This announcement offers greater regulatory clarity for project developers and buyers. Projects registered with the VCS Program can now follow Chile s applicable Article 6 procedures, provided they meet the relevant national requirements, and supply credits for use under Article 6. The recognition follows an evaluation by the ministry s…",
+        "url": "https://verra.org/chile-recognizes-verras-vcs-program-under-article-6-framework/",
+        "publishedAt": "2026-11-10T18:58:24.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/11/patriciohurtado-river-715059_1920.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-dive-over-180-companies-call-on-cop31-preside-2026-11-10",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -968,6 +991,29 @@
         "region": "world"
       },
       {
+        "id": "verra-projects-open-for-public-comment-novembe-2026-11-09",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Projects Open for Public Comment: November 9, 2026",
+        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+        "url": "https://verra.org/projects-open-for-public-comment-november-9-2026/",
+        "publishedAt": "2026-11-09T13:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/09/sabino-jose-pantanal-5379257-scaled-e1788461740465.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
         "id": "carbon-brief-q-a-what-is-the-bel-m-antalya-mechanism--2026-11-09",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -986,6 +1032,29 @@
         "meta": {
           "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-approves-first-credits-under-ccs-m-2026-11-06",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Approves First Credits Under CCS Methodology",
+        "excerpt": "WASHINGTON – Nov. 6, 2026 | Verra has approved the first carbon credits under its carbon capture and storage (CCS) methodology for a project in northern Texas. Credits can now be issued to the Barnett Zero Project ( Verra Project 6016 ) in the city of Bridgeport. The project captures CO 2 separated from raw natural gas at a processing plant, then compresses the CO 2 and stores it permanently in an injection well nearby. The credits were generated under Verified Carbon Standard (VCS) methodology VM0049 Carbon Capture and Storage v1.0 , which establishes…",
+        "url": "https://verra.org/verra-approves-first-credits-under-ccs-methodology/",
+        "publishedAt": "2026-11-06T12:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2023/07/biogas-gerald-krieseler.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -1052,6 +1121,167 @@
         "meta": {
           "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-secures-first-icvcm-approval-for-t-2026-11-03",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Secures First ICVCM Approval for Transition Credits from Early Coal Retirement",
+        "excerpt": "WASHINGTON – Nov. 3, 2026 | Verra’s methodology for the early retirement of coal-fired power plants is the first energy transition methodology to receive approval from the Integrity Council for the Voluntary Carbon Market (ICVCM) as meeting the Core Carbon Principles (CCPs). This means that means transition credits issued under Verified Carbon Standard (VCS) Program methodology VM0052 Accelerated Retirement of Coal-fired Power Plants Using a Just Transition, v1.1 can now carry the CCP label: the highest benchmark for quality in the carbon markets. Verra…",
+        "url": "https://verra.org/verra-secures-first-icvcm-approval-for-transition-credits-from-early-coal-retirement/",
+        "publishedAt": "2026-11-03T12:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/11/pexels-pixabay-46801-scaled.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-projects-open-for-public-comment-novembe-2026-11-02",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Projects Open for Public Comment: November 2, 2026",
+        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+        "url": "https://verra.org/projects-open-for-public-comment-november-2-2026/",
+        "publishedAt": "2026-11-02T13:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/02/DelAgua-Clean-Cooking-Grouped-Project-in-Rwanda-4150-DeAgua-stove-in-use.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-releases-updated-coal-plant-retire-2026-10-30",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Releases Updated Coal Plant Retirement Methodology",
+        "excerpt": "Verra has released updated versions of its coal plant retirement methodology and two associated modules in the Verified Carbon Standard (VCS) Program. The release includes VM0052 Accelerated Retirement of Coal-fired Power Plants Using a Just Transition, v1.1 , VMD0060 Combined Baseline and Additionality Assessment for Accelerated Retirement of Coal-fired Power Plants, v1.1 , and VMD0061 Just Transition Requirements for Accelerated Retirement of Coal-fired Power Plants, v1.1 . The minor revisions to VM0052, v1.0 and VMD0060, v1.0 incorporate feedback…",
+        "url": "https://verra.org/verra-releases-updated-coal-plant-retirement-methodology/",
+        "publishedAt": "2026-10-30T19:11:44.000Z",
+        "image": "https://verra.org/wp-content/uploads/2023/12/photo-by-artur-nyk-via-shutterstock-heaps-of-coal.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-releases-new-resources-for-arr-pro-2026-10-29",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Releases New Resources for ARR Projects",
+        "excerpt": "Verra has published two new resources related to Verified Carbon Standard (VCS) methodology VM0047 Afforestation, Reforestation, and Revegetation . These support project proponents using VM0047 , as well as the validation/verification bodies (VVBs), in better understanding and applying the methodology s requirements throughout the project development and review processes. Verra intends to release similar resources for other methodologies over the coming months. Please provide any feedback or suggestions for further improvement of this resource to…",
+        "url": "https://verra.org/verra-releases-new-resources-for-arr-projects/",
+        "publishedAt": "2026-10-29T17:35:40.000Z",
+        "image": "https://verra.org/wp-content/uploads/2026/10/pexels-phat-nguy-110224443-11185515-scaled-e1793291483339.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-verra-announces-five-new-data-service-pr-2026-10-28",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Announces Five New Data Service Providers for ARR Methodology",
+        "excerpt": "Verra has announced that the following data service providers (DSPs) are now vetted to provide stocking index (SI) data that establish performance benchmarks for projects using Verified Carbon Standard (VCS) methodology VM0047 Afforestation, Reforestation, and Revegetation : These new providers expand the options available to project proponents seeking data to establish performance benchmarks under VM0047 . A list of all vetted DSPs is available on the VM0047 webpage . For more information on the capabilities of these DSPs, see the DSP Directory page on…",
+        "url": "https://verra.org/verra-announces-five-new-data-service-providers-for-arr-methodology/",
+        "publishedAt": "2026-10-28T17:41:10.000Z",
+        "image": "https://verra.org/wp-content/uploads/imported/news/jan-huber-tree-sun-unsplash-scaled-jpg.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-updated-combined-templates-for-vcs-and-c-2026-10-27",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Updated Combined Templates for VCS and CCBS Programs Now Available",
+        "excerpt": "Verra has published new combined templates for projects using the Verified Carbon Standard (VCS) and Climate, Community & Biodiversity Standards (CCBS) Programs. These combined VCS + CCBS templates align with the requirements of version 5 of the VCS Program, including new and revised reporting requirements related to project design, safeguards, stakeholder engagement, and other program updates. The templates, which are designed to support projects registered or seeking registration with both programs, include the following: As in the case of standalone…",
+        "url": "https://verra.org/updated-combined-templates-for-vcs-and-ccbs-programs-now-available/",
+        "publishedAt": "2026-10-27T15:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2022/10/Katingan-Peatland-Restoration-and-Conservation-Project-1477-Katingan-Mentaya-Project-Central-Kalimantan-Indonesia-Man-with-crop-plant-1024x683.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-new-effective-date-for-vcs-version-5-2026-10-27",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "New Effective Date for VCS Version 5",
+        "excerpt": "Verra is changing the effective date of version 5 of the Verified Carbon Standard (VCS) Program from January 1, 2027, to July 1, 2027, delivering on a clear request from project developers, validation/verification bodies (VVBs), and market participants. *Note: The effective date for any requirements is the latest possible date by when all projects, including those currently using version 4 of the program, must adopt the applicable requirements under VCS Version 5. Projects who are ready to use version 5 can do so now. Verra is implementing this change…",
+        "url": "https://verra.org/new-effective-date-for-vcs-version-5/",
+        "publishedAt": "2026-10-27T15:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2024/08/Darkwoods-Forest-Carbon-Project-607-Steve-Ogle-on-behalf-of-Nature-Conservancy-of-Canada-Canada-Next-Creek-valley-forested-mountains.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -1647,6 +1877,29 @@
       "region": "world"
     },
     {
+      "id": "verra-chile-recognizes-verra-s-vcs-program-und-2026-11-10",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Chile Recognizes Verra s VCS Program under Article 6 Framework",
+      "excerpt": "Chile’s Ministry of Environment has formally recognized (PDF) Verra s Verified Carbon Standard (VCS) Program under the country s framework for regulating international cooperation under Article 6 of the Paris Agreement. This announcement offers greater regulatory clarity for project developers and buyers. Projects registered with the VCS Program can now follow Chile s applicable Article 6 procedures, provided they meet the relevant national requirements, and supply credits for use under Article 6. The recognition follows an evaluation by the ministry s…",
+      "url": "https://verra.org/chile-recognizes-verras-vcs-program-under-article-6-framework/",
+      "publishedAt": "2026-11-10T18:58:24.000Z",
+      "image": "https://verra.org/wp-content/uploads/2026/11/patriciohurtado-river-715059_1920.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-over-180-companies-call-on-cop31-preside-2026-11-10",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1779,6 +2032,29 @@
       "region": "world"
     },
     {
+      "id": "verra-projects-open-for-public-comment-novembe-2026-11-09",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Projects Open for Public Comment: November 9, 2026",
+      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+      "url": "https://verra.org/projects-open-for-public-comment-november-9-2026/",
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2026/09/sabino-jose-pantanal-5379257-scaled-e1788461740465.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
       "id": "carbon-brief-q-a-what-is-the-bel-m-antalya-mechanism--2026-11-09",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -1797,6 +2073,53 @@
       "meta": {
         "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-11-06",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
+      "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+      "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
+      "publishedAt": "2026-11-06T16:42:15.000Z",
+      "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "verra-verra-approves-first-credits-under-ccs-m-2026-11-06",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Approves First Credits Under CCS Methodology",
+      "excerpt": "WASHINGTON – Nov. 6, 2026 | Verra has approved the first carbon credits under its carbon capture and storage (CCS) methodology for a project in northern Texas. Credits can now be issued to the Barnett Zero Project ( Verra Project 6016 ) in the city of Bridgeport. The project captures CO 2 separated from raw natural gas at a processing plant, then compresses the CO 2 and stores it permanently in an injection well nearby. The credits were generated under Verified Carbon Standard (VCS) methodology VM0049 Carbon Capture and Storage v1.0 , which establishes…",
+      "url": "https://verra.org/verra-approves-first-credits-under-ccs-methodology/",
+      "publishedAt": "2026-11-06T12:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2023/07/biogas-gerald-krieseler.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -1845,30 +2168,6 @@
       "region": "world"
     },
     {
-      "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-11-05",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
-      "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
-      "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
-      "publishedAt": "2026-11-05T17:15:50.000Z",
-      "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "carbon-brief-interactive-tracking-negotiating-texts-a-2026-11-05",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -1887,6 +2186,167 @@
       "meta": {
         "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-verra-secures-first-icvcm-approval-for-t-2026-11-03",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Secures First ICVCM Approval for Transition Credits from Early Coal Retirement",
+      "excerpt": "WASHINGTON – Nov. 3, 2026 | Verra’s methodology for the early retirement of coal-fired power plants is the first energy transition methodology to receive approval from the Integrity Council for the Voluntary Carbon Market (ICVCM) as meeting the Core Carbon Principles (CCPs). This means that means transition credits issued under Verified Carbon Standard (VCS) Program methodology VM0052 Accelerated Retirement of Coal-fired Power Plants Using a Just Transition, v1.1 can now carry the CCP label: the highest benchmark for quality in the carbon markets. Verra…",
+      "url": "https://verra.org/verra-secures-first-icvcm-approval-for-transition-credits-from-early-coal-retirement/",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2026/11/pexels-pixabay-46801-scaled.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-projects-open-for-public-comment-novembe-2026-11-02",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Projects Open for Public Comment: November 2, 2026",
+      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+      "url": "https://verra.org/projects-open-for-public-comment-november-2-2026/",
+      "publishedAt": "2026-11-02T13:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2026/02/DelAgua-Clean-Cooking-Grouped-Project-in-Rwanda-4150-DeAgua-stove-in-use.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-verra-releases-updated-coal-plant-retire-2026-10-30",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Releases Updated Coal Plant Retirement Methodology",
+      "excerpt": "Verra has released updated versions of its coal plant retirement methodology and two associated modules in the Verified Carbon Standard (VCS) Program. The release includes VM0052 Accelerated Retirement of Coal-fired Power Plants Using a Just Transition, v1.1 , VMD0060 Combined Baseline and Additionality Assessment for Accelerated Retirement of Coal-fired Power Plants, v1.1 , and VMD0061 Just Transition Requirements for Accelerated Retirement of Coal-fired Power Plants, v1.1 . The minor revisions to VM0052, v1.0 and VMD0060, v1.0 incorporate feedback…",
+      "url": "https://verra.org/verra-releases-updated-coal-plant-retirement-methodology/",
+      "publishedAt": "2026-10-30T19:11:44.000Z",
+      "image": "https://verra.org/wp-content/uploads/2023/12/photo-by-artur-nyk-via-shutterstock-heaps-of-coal.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-verra-releases-new-resources-for-arr-pro-2026-10-29",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Releases New Resources for ARR Projects",
+      "excerpt": "Verra has published two new resources related to Verified Carbon Standard (VCS) methodology VM0047 Afforestation, Reforestation, and Revegetation . These support project proponents using VM0047 , as well as the validation/verification bodies (VVBs), in better understanding and applying the methodology s requirements throughout the project development and review processes. Verra intends to release similar resources for other methodologies over the coming months. Please provide any feedback or suggestions for further improvement of this resource to…",
+      "url": "https://verra.org/verra-releases-new-resources-for-arr-projects/",
+      "publishedAt": "2026-10-29T17:35:40.000Z",
+      "image": "https://verra.org/wp-content/uploads/2026/10/pexels-phat-nguy-110224443-11185515-scaled-e1793291483339.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-verra-announces-five-new-data-service-pr-2026-10-28",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Announces Five New Data Service Providers for ARR Methodology",
+      "excerpt": "Verra has announced that the following data service providers (DSPs) are now vetted to provide stocking index (SI) data that establish performance benchmarks for projects using Verified Carbon Standard (VCS) methodology VM0047 Afforestation, Reforestation, and Revegetation : These new providers expand the options available to project proponents seeking data to establish performance benchmarks under VM0047 . A list of all vetted DSPs is available on the VM0047 webpage . For more information on the capabilities of these DSPs, see the DSP Directory page on…",
+      "url": "https://verra.org/verra-announces-five-new-data-service-providers-for-arr-methodology/",
+      "publishedAt": "2026-10-28T17:41:10.000Z",
+      "image": "https://verra.org/wp-content/uploads/imported/news/jan-huber-tree-sun-unsplash-scaled-jpg.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-updated-combined-templates-for-vcs-and-c-2026-10-27",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Updated Combined Templates for VCS and CCBS Programs Now Available",
+      "excerpt": "Verra has published new combined templates for projects using the Verified Carbon Standard (VCS) and Climate, Community & Biodiversity Standards (CCBS) Programs. These combined VCS + CCBS templates align with the requirements of version 5 of the VCS Program, including new and revised reporting requirements related to project design, safeguards, stakeholder engagement, and other program updates. The templates, which are designed to support projects registered or seeking registration with both programs, include the following: As in the case of standalone…",
+      "url": "https://verra.org/updated-combined-templates-for-vcs-and-ccbs-programs-now-available/",
+      "publishedAt": "2026-10-27T15:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2022/10/Katingan-Peatland-Restoration-and-Conservation-Project-1477-Katingan-Mentaya-Project-Central-Kalimantan-Indonesia-Man-with-crop-plant-1024x683.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-new-effective-date-for-vcs-version-5-2026-10-27",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "New Effective Date for VCS Version 5",
+      "excerpt": "Verra is changing the effective date of version 5 of the Verified Carbon Standard (VCS) Program from January 1, 2027, to July 1, 2027, delivering on a clear request from project developers, validation/verification bodies (VVBs), and market participants. *Note: The effective date for any requirements is the latest possible date by when all projects, including those currently using version 4 of the program, must adopt the applicable requirements under VCS Version 5. Projects who are ready to use version 5 can do so now. Verra is implementing this change…",
+      "url": "https://verra.org/new-effective-date-for-vcs-version-5/",
+      "publishedAt": "2026-10-27T15:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2024/08/Darkwoods-Forest-Carbon-Project-607-Steve-Ogle-on-behalf-of-Nature-Conservancy-of-Canada-Canada-Next-Creek-valley-forested-mountains.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -1937,6 +2397,30 @@
         "imageSource": "publisher"
       },
       "region": "world"
+    },
+    {
+      "id": "google-india-decarbonising-the-aluminium-sector-in-in-2026-08-06",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Decarbonising the aluminium sector in India: implications of the Carbon Credit Trading Scheme - The London School of Economics and Political Science",
+      "excerpt": "Photo: Unsplash Download Decarbonising the aluminium sector in India (PDF) Few industrial materials are as crucial to the low-carbon transition in India as aluminium, which is essential in the manufacture of solar panels, and electric vehicle battery housings and transmission cables. But producing primary aluminium creates emissions of around 18 24 tonnes of carbon dioxide-equivalent (tCO e) in India, making it one of the most emission-intensive industrial processes in the world. The Indian Carbon Credit Trading Scheme (CCTS) aims to support the country…",
+      "url": "https://www.lse.ac.uk/granthaminstitute/publication/decarbonising-the-aluminium-sector-in-india-implications-of-the-carbon-credit-trading-scheme/",
+      "publishedAt": "2026-08-06T07:00:00.000Z",
+      "image": "https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2026/07/Metal-worker-in-India-scaled.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUNsZk5QXzVYODZJaWxLYTVLUWtNYlNmVnctcVFRcVVZZHhDVkl3ODFPZEw2QWFZTl9nU1lySUZjUlNLLTNRVnJWZE1RR0NIajByeHNIU2tlUFlCaVc5UHZQUzlBS25OaXFaVmRwblU1dk9TV2NzTnA2UmVIME5mM3JaVjR4Y3Q4dFNLZ2hzVHVzMFVwY2xnZ0ZQajBOb2ZmaXhZRjl3amtBdFVlelV1eWtwQlRObGp2YlJ0cDBLYWNvTHFTNkRKMW5aYkt3STlMaXZwSFhaMzVCR0oxT2c?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "google-h2-seci-invites-eoi-to-identify-co-sources--2026-08-06",
@@ -2149,30 +2633,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnNmZTEwd0xUakRpWVU5aVR5RExBTDc4SGlXaE9FWEZja3l4VXNtY2NCTEUxdGl3WHBmakcwVXY1eWlUTXQ2Mmk0X0F4dVZ1Szc1NEhMU3pweGRDcXVjLTZvNHI1QzM2UzF5Y3lSQWNfeFJMYVhZWVpWZ1JtX2xDYmZObjVxNXNiOG80QnQzVlhvREdJam9fbWs4QVZzcDA?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-india-a-better-blueprint-uncertain-outcomes-as-2026-04-22",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "A Better Blueprint, Uncertain Outcomes: Assessing India’s Carbon Trading Scheme - orfonline.org",
-      "excerpt": "India’s Carbon Credit Trading Scheme addresses design flaws in PAT, but without credible enforcement, verification, and demand, it risks reproducing the same market failures In the Perform, Achieve and Trade (PAT) scheme Cycle I, the non-compliance rate was 9 percent ; by PAT Cycle II, this rate had increased to about 56 percent; the Designated Consumers (DCs) obligated to purchase 86 percent of the mandated ESCerts were found to be unregistered; and the ESCerts that were purchased were sold at the floor price mandated by the Bureau of Energy Efficiency…",
-      "url": "https://www.orfonline.org/expert-speak/a-better-blueprint-uncertain-outcomes-assessing-india-s-carbon-trading-scheme",
-      "publishedAt": "2026-04-22T07:00:00.000Z",
-      "image": "https://www.orfonline.org/public/uploads/posts/image/thumbnail/1776845085_img-carban.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmk5MHVRUWxDX3ptS2NBTXEtZWVlXzFQVUVjaERmUHRFMENRbEdGNExUbzdjLWVVNnZqV0Q3RklfUzdMM0o4cTh5QjlFVWNpVVBxSW55a0VzbTQxUEhwY1picWhlV2lwbHJvWXlWNXhFakYyNncwZ1plNS1nVWR1V2hJQm5pQ1ZWa19waWFKYVBFUDBYWTZESmh2S2diRzBfMlJrN18yTFJKNmRvdFZaM3g4WDJGXzQ?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
