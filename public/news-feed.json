@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-14T14:00:34.981Z",
+  "fetchedAt": "2026-11-14T18:38:02.412Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 16,
     "world": 46,
-    "withImages": 58,
-    "avgExcerptLength": 467,
+    "withImages": 56,
+    "avgExcerptLength": 460,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -1334,6 +1334,29 @@
         "region": "world"
       },
       {
+        "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+        "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+        "publishedAt": "2025-11-12T08:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+        },
+        "region": "world"
+      },
+      {
         "id": "google-carbon-beyond-price-rethinking-carbon-credit-va-2024-11-27",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1416,7 +1439,7 @@
         "excerpt": "The Lifecycle of a Voluntary Carbon Credit The burgeoning voluntary carbon credit (“ VCC ”) market presents a clear opportunity for tackling carbon emissions by allowing individuals, countries, and corporates to purchase credits to offset their own emissions and thus support projects that are reducing the overall carbon footprint on our planet. Growing volumes of VCCs are being purchased by the private sector, where the spotlight on corporate social responsibility and industry leadership has increased the commitment to environmental issues. It has been…",
         "url": "https://www.mofo.com/resources/insights/220826-lifecycle-of-a-voluntary-carbon-credit",
         "publishedAt": "2022-08-26T07:00:00.000Z",
-        "image": "https://images.contentstack.io/v3/assets/blt5775cc69c999c255/blt9aee27259f4bbab9/6297b0ce36712c4150de0067/mofo_share_image.jpg",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1424,32 +1447,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJLNnZyc3NCaDZnWjA0Z3ExblFrMUxYUlRLUlRXcm9MUUFsWkpEdUFKU29iV3ZoV1RCX2lmdExJcERLYThrRFk2aGttdWVvZGNiUEoydm9SSmVZOHltejhDTm00c0E3OTk5MHNwNnR4eS0wTXZHcGZRcmhKXzd4ZGNzaDNhcDdUd2dZNnFB?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-the-4-best-carbon-offset-programs-for-20-2022-06-29",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "The 4 Best Carbon Offset Programs for 2024 - CarbonCredits.com",
-        "excerpt": "The world of carbon offsets and carbon offset programs can be quite complex and intimidating. So, if you’re looking for the best carbon offset programs for 2024 but don’t know your options, this article will guide you through. You’ll learn the important concepts, which carbon offset program should you choose, and why investing in this space matters. First things first. We need to define what does it mean by a carbon offset. And so carbon offsetting means financially supporting a project that can reduce emissions. Carbon offsets are produced by companies…",
-        "url": "https://carboncredits.com/the-4-best-carbon-offset-programs-for-2023/",
-        "publishedAt": "2022-06-29T07:00:00.000Z",
-        "image": "https://carboncredits.com/wp-content/uploads/2022/06/4-best-carbon-offset-programs-for-2023.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40UnhkS3p0eEZ4UHYzUVpjRzFlXzhkcW1RUmhoeEcxRzU3WjNxN2pjdGRKZHo2OEZKTkVUcHVsRXhKdFdxeF9xV0VvZ3R2SFh6dUM3ODNSVmVhZ3h5VnlHazZrU2Z1d0IxS3JocXR1WE1mWWRYdzh1TQ?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJLNnZyc3NCaDZnWjA0Z3ExblFrMUxYUlRLUlRXcm9MUUFsWkpEdUFKU29iV3ZoV1RCX2lmdExJcERLYThrRFk2aGttdWVvZGNiUEoydm9SSmVZOHltejhDTm00c0E3OTk5MHNwNnR4eS0wTXZHcGZRcmhKXzd4ZGNzaDNhcDdUd2dZNnFB?oc=5"
         },
         "region": "world"
       },
@@ -2709,6 +2707,29 @@
       "region": "india"
     },
     {
+      "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
+      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
+      "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+      "publishedAt": "2025-11-12T08:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+      },
+      "region": "world"
+    },
+    {
       "id": "google-carbon-beyond-price-rethinking-carbon-credit-va-2024-11-27",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2839,7 +2860,7 @@
       "excerpt": "The Lifecycle of a Voluntary Carbon Credit The burgeoning voluntary carbon credit (“ VCC ”) market presents a clear opportunity for tackling carbon emissions by allowing individuals, countries, and corporates to purchase credits to offset their own emissions and thus support projects that are reducing the overall carbon footprint on our planet. Growing volumes of VCCs are being purchased by the private sector, where the spotlight on corporate social responsibility and industry leadership has increased the commitment to environmental issues. It has been…",
       "url": "https://www.mofo.com/resources/insights/220826-lifecycle-of-a-voluntary-carbon-credit",
       "publishedAt": "2022-08-26T07:00:00.000Z",
-      "image": "https://images.contentstack.io/v3/assets/blt5775cc69c999c255/blt9aee27259f4bbab9/6297b0ce36712c4150de0067/mofo_share_image.jpg",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2847,32 +2868,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJLNnZyc3NCaDZnWjA0Z3ExblFrMUxYUlRLUlRXcm9MUUFsWkpEdUFKU29iV3ZoV1RCX2lmdExJcERLYThrRFk2aGttdWVvZGNiUEoydm9SSmVZOHltejhDTm00c0E3OTk5MHNwNnR4eS0wTXZHcGZRcmhKXzd4ZGNzaDNhcDdUd2dZNnFB?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-the-4-best-carbon-offset-programs-for-20-2022-06-29",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "The 4 Best Carbon Offset Programs for 2024 - CarbonCredits.com",
-      "excerpt": "The world of carbon offsets and carbon offset programs can be quite complex and intimidating. So, if you’re looking for the best carbon offset programs for 2024 but don’t know your options, this article will guide you through. You’ll learn the important concepts, which carbon offset program should you choose, and why investing in this space matters. First things first. We need to define what does it mean by a carbon offset. And so carbon offsetting means financially supporting a project that can reduce emissions. Carbon offsets are produced by companies…",
-      "url": "https://carboncredits.com/the-4-best-carbon-offset-programs-for-2023/",
-      "publishedAt": "2022-06-29T07:00:00.000Z",
-      "image": "https://carboncredits.com/wp-content/uploads/2022/06/4-best-carbon-offset-programs-for-2023.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40UnhkS3p0eEZ4UHYzUVpjRzFlXzhkcW1RUmhoeEcxRzU3WjNxN2pjdGRKZHo2OEZKTkVUcHVsRXhKdFdxeF9xV0VvZ3R2SFh6dUM3ODNSVmVhZ3h5VnlHazZrU2Z1d0IxS3JocXR1WE1mWWRYdzh1TQ?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJLNnZyc3NCaDZnWjA0Z3ExblFrMUxYUlRLUlRXcm9MUUFsWkpEdUFKU29iV3ZoV1RCX2lmdExJcERLYThrRFk2aGttdWVvZGNiUEoydm9SSmVZOHltejhDTm00c0E3OTk5MHNwNnR4eS0wTXZHcGZRcmhKXzd4ZGNzaDNhcDdUd2dZNnFB?oc=5"
       },
       "region": "world"
     },
