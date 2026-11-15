@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-15T07:26:51.717Z",
+  "fetchedAt": "2026-11-15T14:37:04.483Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -440,6 +440,28 @@
     ],
     "world": [
       {
+        "id": "esg-today-esg-today-week-in-review-2026-11-15",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "ESG Today: Week in Review",
+        "excerpt": "This week in ESG news: Sustainable fund inflows hit highest level since 2024; Appeals court blocks Scope 3 and climate risk reporting in California’s new climate disclosure laws; Mercedes-Benz switches 2039 carbon neutral goal to 2049 net zero target; EU Commission releases draft sustainability reporting assurance standards; UK proposes new supply chain deforestation due diligence laws; Just Climate raises $540 million for agriculture decarbonization solutions fund; EBA pushes back sustainability reporting simplification for banks to 2028; BBVA’s…",
+        "url": "https://www.esgtoday.com/esg-today-week-in-review-283/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-283",
+        "publishedAt": "2026-11-15T10:51:21.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Wind-Austria-1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG News",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-dive-as-data-center-backlash-grows-a-model-la-2026-11-13",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -743,28 +765,6 @@
         "status": null,
         "meta": {
           "category": "Investors",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-course-corrected-raises-80-million-to-ba-2026-11-12",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Course Corrected Raises €80 Million to Back European Energy and Resource Transition Startups",
-        "excerpt": "Venture capital investor Course Corrected announced today that it has raised €80 million (USD$89 million) at the final close of its second fund, focused on investing in early-stage European technology companies across the energy and resource transition. Founded in 2021 by Christine Ahlstrand, Kerstin Cooley and Katja Bergman, Stockholm-based Course Corrected invests in early-stage technology companies developing solutions to enable industries to become more energy, resource and cost efficient. Fund II builds on the firm’s first fund, which focused…",
-        "url": "https://www.esgtoday.com/course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups/?utm_source=rss utm_medium=rss utm_campaign=course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups",
-        "publishedAt": "2026-11-12T09:34:17.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Course-Corrected.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
           "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
@@ -1480,6 +1480,28 @@
   },
   "articles": [
     {
+      "id": "esg-today-esg-today-week-in-review-2026-11-15",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "ESG Today: Week in Review",
+      "excerpt": "This week in ESG news: Sustainable fund inflows hit highest level since 2024; Appeals court blocks Scope 3 and climate risk reporting in California’s new climate disclosure laws; Mercedes-Benz switches 2039 carbon neutral goal to 2049 net zero target; EU Commission releases draft sustainability reporting assurance standards; UK proposes new supply chain deforestation due diligence laws; Just Climate raises $540 million for agriculture decarbonization solutions fund; EBA pushes back sustainability reporting simplification for banks to 2028; BBVA’s…",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-283/?utm_source=rss utm_medium=rss utm_campaign=esg-today-week-in-review-283",
+      "publishedAt": "2026-11-15T10:51:21.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Wind-Austria-1.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG News",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-dive-as-data-center-backlash-grows-a-model-la-2026-11-13",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1783,28 +1805,6 @@
       "status": null,
       "meta": {
         "category": "Investors",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-course-corrected-raises-80-million-to-ba-2026-11-12",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Course Corrected Raises €80 Million to Back European Energy and Resource Transition Startups",
-      "excerpt": "Venture capital investor Course Corrected announced today that it has raised €80 million (USD$89 million) at the final close of its second fund, focused on investing in early-stage European technology companies across the energy and resource transition. Founded in 2021 by Christine Ahlstrand, Kerstin Cooley and Katja Bergman, Stockholm-based Course Corrected invests in early-stage technology companies developing solutions to enable industries to become more energy, resource and cost efficient. Fund II builds on the firm’s first fund, which focused…",
-      "url": "https://www.esgtoday.com/course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups/?utm_source=rss utm_medium=rss utm_campaign=course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups",
-      "publishedAt": "2026-11-12T09:34:17.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Course-Corrected.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
         "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
