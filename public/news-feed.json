@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-16T07:32:42.169Z",
+  "fetchedAt": "2026-11-16T16:52:27.677Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 16,
     "world": 46,
-    "withImages": 56,
-    "avgExcerptLength": 455,
+    "withImages": 55,
+    "avgExcerptLength": 447,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -63,10 +63,10 @@
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
         "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
-        "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+        "excerpt": "The Ultimate Guide to Understanding Carbon Credits CarbonCredits.com",
         "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
         "publishedAt": "2026-11-06T16:42:15.000Z",
-        "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -74,8 +74,7 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5"
         },
         "region": "india"
       },
@@ -439,6 +438,161 @@
     ],
     "world": [
       {
+        "id": "esg-today-cip-launches-new-1-billion-energy-transi-2026-11-16",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "CIP Launches New $1 Billion Energy Transition Infrastructure Credit Fund",
+        "excerpt": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced today the launch of the Credit Opportunities Fund (COF), a new strategy aimed at providing flexible capital solutions across the energy infrastructure value chain, with a fund target of $1 billion. The new strategy marks an expansion of CIP’s private credit platform, established by the firm in 2022 with the launch of its first Green Credit Fund (GCF). The platform has raised more the €3 billion to date, including €1.3 billion at the first close of the platform’s…",
+        "url": "https://www.esgtoday.com/cip-launches-new-1-billion-energy-transition-infrastructure-credit-fund/?utm_source=rss utm_medium=rss utm_campaign=cip-launches-new-1-billion-energy-transition-infrastructure-credit-fund",
+        "publishedAt": "2026-11-16T15:42:22.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/CIP.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-bii-norfund-findev-canada-partner-to-mob-2026-11-16",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "BII, Norfund, FinDev Canada Partner to Mobilize $10 Billion in Climate Finance to Emerging Markets",
+        "excerpt": "British International Investment (BII), FinDev Canada and Norfund, the development finance institutions of the UK, Canada and Norway, announced the launch of 10by30, a new collaboration aimed at delivering $10 billion in climate finance in emerging markets by 2030. Launched at COP31 in Antalya, Türkiye, the financing from the new collaboration, which will include private capital, will go to projects across renewable energy, transmission and distribution infrastructure, energy storage, sustainable fuels and industrial decarbonization. Erik Sandersen, CEO…",
+        "url": "https://www.esgtoday.com/bii-norfund-findev-canada-partner-to-mobilize-10-billion-in-climate-finance-to-emerging-markets/?utm_source=rss utm_medium=rss utm_campaign=bii-norfund-findev-canada-partner-to-mobilize-10-billion-in-climate-finance-to-emerging-markets",
+        "publishedAt": "2026-11-16T14:57:14.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Norfund-et-al.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-goldman-sachs-leads-345-million-financin-2026-11-16",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Goldman Sachs Leads $345 Million Financing for Exus to Expand U.S. Clean Energy Portfolio",
+        "excerpt": "Renewable energy developer, owner and operator Exus Renewables North America announced that it has secured $345 million in senior secured holding company financing led by Goldman Sachs Alternatives, the alternative investments platform of Goldman Sachs Asset Management. The proceeds will be used to support the construction and development of the company’s U.S. wind, solar and battery storage portfolio. Founded in 2018, Pittsburgh-based Exus develops, owns and operates utility-scale wind, solar and battery storage projects across the United States, while…",
+        "url": "https://www.esgtoday.com/goldman-sachs-leads-345-million-financing-for-exus-to-expand-u-s-clean-energy-portfolio/?utm_source=rss utm_medium=rss utm_campaign=goldman-sachs-leads-345-million-financing-for-exus-to-expand-u-s-clean-energy-portfolio",
+        "publishedAt": "2026-11-16T14:04:33.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Exus.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Sustainable Finance",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-projects-open-for-public-comment-novembe-2026-11-16",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Projects Open for Public Comment: November 16, 2026",
+        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+        "url": "https://verra.org/projects-open-for-public-comment-november-16-2026/",
+        "publishedAt": "2026-11-16T13:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2024/04/Agents-of-Change-Orchestrating-the-Recycling-Chain-4470-OMA-Ativos-Ambientais-S.A-Brazil-Plastic-waste-bales-1024x683.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-ecb-to-launch-deep-dives-into-banks-mana-2026-11-16",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "ECB to Launch “Deep Dives” into Banks’ Management of Climate and Nature Risks",
+        "excerpt": "The European Central Bank (ECB) outlined plans to intensify its supervision of banks’ capabilities to assess and manage risks arising from the physical effects of climate change and nature degradation, including plans to begin conducting “deep dives” into individual banks’ practices beginning in 2027. While acknowledging that banks have generally made good progress on putting in place measures to manage climate and nature risks, the ECB noted that “severe weaknesses” remain at some banks, and warned of the potential for more significant impacts on…",
+        "url": "https://www.esgtoday.com/ecb-to-launch-deep-dives-into-banks-management-of-climate-and-nature-risks/?utm_source=rss utm_medium=rss utm_campaign=ecb-to-launch-deep-dives-into-banks-management-of-climate-and-nature-risks",
+        "publishedAt": "2026-11-16T12:58:09.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/ECB3.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Regulators",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-gm-backs-550-million-solar-investment-in-2026-11-16",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "GM Backs $550 Million Solar Investment in Largest Clean Energy Deal to Date",
+        "excerpt": "General Motors (GM) announced its largest clean energy investment to date, with the automotive giant signing a deal for 276 MW of energy, serving as the primary customer for two new solar facilities in Michigan developed by NorthStar Clean Energy. According to GM, the new projects represent a combined investment of approximately $550 million, and are expected to generate roughly 539,000 megawatt-hours of electricity annually. The new agreements follow an announcement earlier this year by GM that it had secured enough renewable energy to match 100% of…",
+        "url": "https://www.esgtoday.com/gm-backs-550-million-solar-energy-investment-in-largest-clean-energy-deal-to-date/?utm_source=rss utm_medium=rss utm_campaign=gm-backs-550-million-solar-energy-investment-in-largest-clean-energy-deal-to-date",
+        "publishedAt": "2026-11-16T11:43:06.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/GM.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-aib-doubles-sustainable-lending-goal-to--2026-11-16",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "AIB Doubles Sustainable Lending Goal to €60 Billion by 2030",
+        "excerpt": "Ireland-based banking group AIB announced a significant expansion of its key sustainable finance goal, expanding its commitment to deploy €60 billion in green and transition lending from 2019 to 2030, from its prior target of €30 billion. AIB set its initial €30 billion goal in 2030, alongside a target for green and transition lending to account for 70% of all new lending by 2030. The increased target comes as the bank revealed that it has already achieved 93% of its target, with €28 billion in green and transition lending deployed to date. In its…",
+        "url": "https://www.esgtoday.com/aib-doubles-sustainable-lending-goal-to-e60-billion-by-2030/?utm_source=rss utm_medium=rss utm_campaign=aib-doubles-sustainable-lending-goal-to-e60-billion-by-2030",
+        "publishedAt": "2026-11-16T10:00:49.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/AIB2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Sustainable Finance",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-esg-today-week-in-review-2026-11-15",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -571,28 +725,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-nuveen-launches-new-nature-based-solutio-2026-11-12",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Nuveen Launches New Nature-Based Solutions Fund",
-        "excerpt": "Nuveen Natural Capital, the land-focused asset management platform of global asset manager Nuveen, announced the launch of its new global nature-based solutions investment strategy, backed by a $100 million anchor investment from Nuveen’s parent company, TIAA. The announcement marks the latest move by major financial players to deepen their focus on the natural capital sector, following JP Morgan’s recently announced rebrand of its timberland investment advisory company Campbell Global to J.P. Morgan Natural Capital, establishing an $11 billion platform…",
-        "url": "https://www.esgtoday.com/nuveen-launches-new-nature-based-solutions-fund/?utm_source=rss utm_medium=rss utm_campaign=nuveen-launches-new-nature-based-solutions-fund",
-        "publishedAt": "2026-11-12T17:03:04.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Nuveen2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Investors",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-cop31-how-ed-miliband-answered-carbon-br-2026-11-12",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -637,28 +769,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-eu-commission-releases-draft-sustainabil-2026-11-12",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EU Commission Releases Draft Sustainability Reporting Assurance Standards",
-        "excerpt": "The European Commission announced today the launch of a consultation on a newly released draft standard for limited assurance of sustainability reporting, aimed at establishing common standards for assurance engagements under the EU’s Corporate Sustainability Reporting Directive (CSRD), and supporting consistency and comparability across the sustainability reporting framework. Companies disclosing under the CSRD are required to obtain assurance through an independent external reviewer for their reported sustainability information. Under the EU’s Omnibus…",
-        "url": "https://www.esgtoday.com/eu-commission-releases-draft-sustainability-reporting-assurance-standards/?utm_source=rss utm_medium=rss utm_campaign=eu-commission-releases-draft-sustainability-reporting-assurance-standards",
-        "publishedAt": "2026-11-12T15:33:42.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-flags3-1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Reporting",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-nvidia-ceo-resigns-amid-scandal-cfo-name-2026-11-12",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -677,94 +787,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-nordea-am-eq-investors-launch-new-sustai-2026-11-12",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Nordea AM, EQ Investors Launch New Sustainability-Focused Multi-Asset Funds",
-        "excerpt": "UK-based investment manager EQ Investors and Nordic asset manager Nordea Asset Management announced the launch of two new multi-asset funds designed to provide investors with access to a low-cost, sustainability-focused strategy with market-level returns. The new funds include the Nordea EQ Future Leaders Multi-Asset Balanced Fund and the Nordea EQ Future Leaders Multi-Asset Adventurous Fund, targeting equity allocations of 60% and 80%, respectively, and with a dual mandate to deliver long-term capital growth at low cost while investing responsibly.…",
-        "url": "https://www.esgtoday.com/nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds/?utm_source=rss utm_medium=rss utm_campaign=nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds",
-        "publishedAt": "2026-11-12T13:45:08.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Nordea.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Investors",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-uk-proposes-mandatory-supply-chain-defor-2026-11-12",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "UK Proposes Mandatory Supply Chain Deforestation Due Diligence Rules",
-        "excerpt": "The UK Government announced the launch of a consultation into proposed new due diligence regulations requiring companies using key deforestation-linked commodities to assess their supply chains and ensure that they are not driving illegal deforestation. The proposed rules would apply to the same range of commodity categories as the EU’s Deforestation Regulation (EUDR), and set similar traceability and due diligence requirements, and would include in its scope companies with annual global revenues greater than £1 million that use the commodities or…",
-        "url": "https://www.esgtoday.com/uk-proposes-mandatory-supply-chain-deforestation-due-diligence-rules/?utm_source=rss utm_medium=rss utm_campaign=uk-proposes-mandatory-supply-chain-deforestation-due-diligence-rules",
-        "publishedAt": "2026-11-12T12:51:58.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/UK-House-of-Commons-1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-google-cloud-signs-deal-for-10-million-l-2026-11-12",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Google Cloud Signs Deal for 10 Million Liters of Sustainable Aviation Fuel to Tackle Shipping Emissions",
-        "excerpt": "Denmark-based global transport and logistics company DSV announced today an agreement with Google Cloud to secure nearly 10 million liters of sustainable aviation fuel (SAF) to help address emissions from Google Cloud’s air freight operations. DSV and Google Cloud described the agreement as a pilot that lays the groundwork for a broader sustainability collaboration between the companies. Brian Stewart, Senior Director, Logistics at Google Cloud, said: “This collaboration builds on our ongoing efforts to reduce emissions across Google Cloud’s global…",
-        "url": "https://www.esgtoday.com/google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions/?utm_source=rss utm_medium=rss utm_campaign=google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions",
-        "publishedAt": "2026-11-12T11:50:09.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Google6-1.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-just-climate-raises-540-million-for-agri-2026-11-12",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Just Climate Raises $540 Million for Agriculture-Focused Decarbonization Solutions Fund",
-        "excerpt": "Climate solutions-focused investment business Just Climate announced that it has raised $540 million in commitments at the final close of Natural Climate Solutions I (NCS I), its strategy aimed at directing capital to businesses focused on natural climate solutions to decarbonize the high-emitting agricultural sector. NCS I’s anchor investors included California State Teachers’ Retirement System (CalSTRS) as the institutional anchor and Microsoft’s Climate Innovation Fund as the corporate anchor. Founded in 2021 by Generation Investment Management, a…",
-        "url": "https://www.esgtoday.com/just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund/?utm_source=rss utm_medium=rss utm_campaign=just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund",
-        "publishedAt": "2026-11-12T10:34:31.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Just-Climate-Barby.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Investors",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1262,29 +1284,6 @@
         "region": "world"
       },
       {
-        "id": "verra-new-effective-date-for-vcs-version-5-2026-10-27",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "New Effective Date for VCS Version 5",
-        "excerpt": "Verra is changing the effective date of version 5 of the Verified Carbon Standard (VCS) Program from January 1, 2027, to July 1, 2027, delivering on a clear request from project developers, validation/verification bodies (VVBs), and market participants. *Note: The effective date for any requirements is the latest possible date by when all projects, including those currently using version 4 of the program, must adopt the applicable requirements under VCS Version 5. Projects who are ready to use version 5 can do so now. Verra is implementing this change…",
-        "url": "https://verra.org/new-effective-date-for-vcs-version-5/",
-        "publishedAt": "2026-10-27T15:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2024/08/Darkwoods-Forest-Carbon-Project-607-Steve-Ogle-on-behalf-of-Nature-Conservancy-of-Canada-Canada-Next-Creek-valley-forested-mountains.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-verra-and-gold-standard-unveil-new-digit-2026-08-25",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1479,6 +1478,161 @@
   },
   "articles": [
     {
+      "id": "esg-today-cip-launches-new-1-billion-energy-transi-2026-11-16",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "CIP Launches New $1 Billion Energy Transition Infrastructure Credit Fund",
+      "excerpt": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced today the launch of the Credit Opportunities Fund (COF), a new strategy aimed at providing flexible capital solutions across the energy infrastructure value chain, with a fund target of $1 billion. The new strategy marks an expansion of CIP’s private credit platform, established by the firm in 2022 with the launch of its first Green Credit Fund (GCF). The platform has raised more the €3 billion to date, including €1.3 billion at the first close of the platform’s…",
+      "url": "https://www.esgtoday.com/cip-launches-new-1-billion-energy-transition-infrastructure-credit-fund/?utm_source=rss utm_medium=rss utm_campaign=cip-launches-new-1-billion-energy-transition-infrastructure-credit-fund",
+      "publishedAt": "2026-11-16T15:42:22.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/CIP.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-bii-norfund-findev-canada-partner-to-mob-2026-11-16",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "BII, Norfund, FinDev Canada Partner to Mobilize $10 Billion in Climate Finance to Emerging Markets",
+      "excerpt": "British International Investment (BII), FinDev Canada and Norfund, the development finance institutions of the UK, Canada and Norway, announced the launch of 10by30, a new collaboration aimed at delivering $10 billion in climate finance in emerging markets by 2030. Launched at COP31 in Antalya, Türkiye, the financing from the new collaboration, which will include private capital, will go to projects across renewable energy, transmission and distribution infrastructure, energy storage, sustainable fuels and industrial decarbonization. Erik Sandersen, CEO…",
+      "url": "https://www.esgtoday.com/bii-norfund-findev-canada-partner-to-mobilize-10-billion-in-climate-finance-to-emerging-markets/?utm_source=rss utm_medium=rss utm_campaign=bii-norfund-findev-canada-partner-to-mobilize-10-billion-in-climate-finance-to-emerging-markets",
+      "publishedAt": "2026-11-16T14:57:14.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Norfund-et-al.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-goldman-sachs-leads-345-million-financin-2026-11-16",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Goldman Sachs Leads $345 Million Financing for Exus to Expand U.S. Clean Energy Portfolio",
+      "excerpt": "Renewable energy developer, owner and operator Exus Renewables North America announced that it has secured $345 million in senior secured holding company financing led by Goldman Sachs Alternatives, the alternative investments platform of Goldman Sachs Asset Management. The proceeds will be used to support the construction and development of the company’s U.S. wind, solar and battery storage portfolio. Founded in 2018, Pittsburgh-based Exus develops, owns and operates utility-scale wind, solar and battery storage projects across the United States, while…",
+      "url": "https://www.esgtoday.com/goldman-sachs-leads-345-million-financing-for-exus-to-expand-u-s-clean-energy-portfolio/?utm_source=rss utm_medium=rss utm_campaign=goldman-sachs-leads-345-million-financing-for-exus-to-expand-u-s-clean-energy-portfolio",
+      "publishedAt": "2026-11-16T14:04:33.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Exus.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Sustainable Finance",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-projects-open-for-public-comment-novembe-2026-11-16",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Projects Open for Public Comment: November 16, 2026",
+      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+      "url": "https://verra.org/projects-open-for-public-comment-november-16-2026/",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2024/04/Agents-of-Change-Orchestrating-the-Recycling-Chain-4470-OMA-Ativos-Ambientais-S.A-Brazil-Plastic-waste-bales-1024x683.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-ecb-to-launch-deep-dives-into-banks-mana-2026-11-16",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "ECB to Launch “Deep Dives” into Banks’ Management of Climate and Nature Risks",
+      "excerpt": "The European Central Bank (ECB) outlined plans to intensify its supervision of banks’ capabilities to assess and manage risks arising from the physical effects of climate change and nature degradation, including plans to begin conducting “deep dives” into individual banks’ practices beginning in 2027. While acknowledging that banks have generally made good progress on putting in place measures to manage climate and nature risks, the ECB noted that “severe weaknesses” remain at some banks, and warned of the potential for more significant impacts on…",
+      "url": "https://www.esgtoday.com/ecb-to-launch-deep-dives-into-banks-management-of-climate-and-nature-risks/?utm_source=rss utm_medium=rss utm_campaign=ecb-to-launch-deep-dives-into-banks-management-of-climate-and-nature-risks",
+      "publishedAt": "2026-11-16T12:58:09.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/ECB3.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Regulators",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-gm-backs-550-million-solar-investment-in-2026-11-16",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "GM Backs $550 Million Solar Investment in Largest Clean Energy Deal to Date",
+      "excerpt": "General Motors (GM) announced its largest clean energy investment to date, with the automotive giant signing a deal for 276 MW of energy, serving as the primary customer for two new solar facilities in Michigan developed by NorthStar Clean Energy. According to GM, the new projects represent a combined investment of approximately $550 million, and are expected to generate roughly 539,000 megawatt-hours of electricity annually. The new agreements follow an announcement earlier this year by GM that it had secured enough renewable energy to match 100% of…",
+      "url": "https://www.esgtoday.com/gm-backs-550-million-solar-energy-investment-in-largest-clean-energy-deal-to-date/?utm_source=rss utm_medium=rss utm_campaign=gm-backs-550-million-solar-energy-investment-in-largest-clean-energy-deal-to-date",
+      "publishedAt": "2026-11-16T11:43:06.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/GM.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-aib-doubles-sustainable-lending-goal-to--2026-11-16",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "AIB Doubles Sustainable Lending Goal to €60 Billion by 2030",
+      "excerpt": "Ireland-based banking group AIB announced a significant expansion of its key sustainable finance goal, expanding its commitment to deploy €60 billion in green and transition lending from 2019 to 2030, from its prior target of €30 billion. AIB set its initial €30 billion goal in 2030, alongside a target for green and transition lending to account for 70% of all new lending by 2030. The increased target comes as the bank revealed that it has already achieved 93% of its target, with €28 billion in green and transition lending deployed to date. In its…",
+      "url": "https://www.esgtoday.com/aib-doubles-sustainable-lending-goal-to-e60-billion-by-2030/?utm_source=rss utm_medium=rss utm_campaign=aib-doubles-sustainable-lending-goal-to-e60-billion-by-2030",
+      "publishedAt": "2026-11-16T10:00:49.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/AIB2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Sustainable Finance",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
       "id": "esg-today-esg-today-week-in-review-2026-11-15",
       "source": "esg-today",
       "sourceName": "ESG Today",
@@ -1611,28 +1765,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-nuveen-launches-new-nature-based-solutio-2026-11-12",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Nuveen Launches New Nature-Based Solutions Fund",
-      "excerpt": "Nuveen Natural Capital, the land-focused asset management platform of global asset manager Nuveen, announced the launch of its new global nature-based solutions investment strategy, backed by a $100 million anchor investment from Nuveen’s parent company, TIAA. The announcement marks the latest move by major financial players to deepen their focus on the natural capital sector, following JP Morgan’s recently announced rebrand of its timberland investment advisory company Campbell Global to J.P. Morgan Natural Capital, establishing an $11 billion platform…",
-      "url": "https://www.esgtoday.com/nuveen-launches-new-nature-based-solutions-fund/?utm_source=rss utm_medium=rss utm_campaign=nuveen-launches-new-nature-based-solutions-fund",
-      "publishedAt": "2026-11-12T17:03:04.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Nuveen2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Investors",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-cop31-how-ed-miliband-answered-carbon-br-2026-11-12",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -1677,28 +1809,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-eu-commission-releases-draft-sustainabil-2026-11-12",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EU Commission Releases Draft Sustainability Reporting Assurance Standards",
-      "excerpt": "The European Commission announced today the launch of a consultation on a newly released draft standard for limited assurance of sustainability reporting, aimed at establishing common standards for assurance engagements under the EU’s Corporate Sustainability Reporting Directive (CSRD), and supporting consistency and comparability across the sustainability reporting framework. Companies disclosing under the CSRD are required to obtain assurance through an independent external reviewer for their reported sustainability information. Under the EU’s Omnibus…",
-      "url": "https://www.esgtoday.com/eu-commission-releases-draft-sustainability-reporting-assurance-standards/?utm_source=rss utm_medium=rss utm_campaign=eu-commission-releases-draft-sustainability-reporting-assurance-standards",
-      "publishedAt": "2026-11-12T15:33:42.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-flags3-1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Reporting",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-nvidia-ceo-resigns-amid-scandal-cfo-name-2026-11-12",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1717,94 +1827,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-nordea-am-eq-investors-launch-new-sustai-2026-11-12",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Nordea AM, EQ Investors Launch New Sustainability-Focused Multi-Asset Funds",
-      "excerpt": "UK-based investment manager EQ Investors and Nordic asset manager Nordea Asset Management announced the launch of two new multi-asset funds designed to provide investors with access to a low-cost, sustainability-focused strategy with market-level returns. The new funds include the Nordea EQ Future Leaders Multi-Asset Balanced Fund and the Nordea EQ Future Leaders Multi-Asset Adventurous Fund, targeting equity allocations of 60% and 80%, respectively, and with a dual mandate to deliver long-term capital growth at low cost while investing responsibly.…",
-      "url": "https://www.esgtoday.com/nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds/?utm_source=rss utm_medium=rss utm_campaign=nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds",
-      "publishedAt": "2026-11-12T13:45:08.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Nordea.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Investors",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-uk-proposes-mandatory-supply-chain-defor-2026-11-12",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "UK Proposes Mandatory Supply Chain Deforestation Due Diligence Rules",
-      "excerpt": "The UK Government announced the launch of a consultation into proposed new due diligence regulations requiring companies using key deforestation-linked commodities to assess their supply chains and ensure that they are not driving illegal deforestation. The proposed rules would apply to the same range of commodity categories as the EU’s Deforestation Regulation (EUDR), and set similar traceability and due diligence requirements, and would include in its scope companies with annual global revenues greater than £1 million that use the commodities or…",
-      "url": "https://www.esgtoday.com/uk-proposes-mandatory-supply-chain-deforestation-due-diligence-rules/?utm_source=rss utm_medium=rss utm_campaign=uk-proposes-mandatory-supply-chain-deforestation-due-diligence-rules",
-      "publishedAt": "2026-11-12T12:51:58.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/UK-House-of-Commons-1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-google-cloud-signs-deal-for-10-million-l-2026-11-12",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Google Cloud Signs Deal for 10 Million Liters of Sustainable Aviation Fuel to Tackle Shipping Emissions",
-      "excerpt": "Denmark-based global transport and logistics company DSV announced today an agreement with Google Cloud to secure nearly 10 million liters of sustainable aviation fuel (SAF) to help address emissions from Google Cloud’s air freight operations. DSV and Google Cloud described the agreement as a pilot that lays the groundwork for a broader sustainability collaboration between the companies. Brian Stewart, Senior Director, Logistics at Google Cloud, said: “This collaboration builds on our ongoing efforts to reduce emissions across Google Cloud’s global…",
-      "url": "https://www.esgtoday.com/google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions/?utm_source=rss utm_medium=rss utm_campaign=google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions",
-      "publishedAt": "2026-11-12T11:50:09.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Google6-1.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-just-climate-raises-540-million-for-agri-2026-11-12",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Just Climate Raises $540 Million for Agriculture-Focused Decarbonization Solutions Fund",
-      "excerpt": "Climate solutions-focused investment business Just Climate announced that it has raised $540 million in commitments at the final close of Natural Climate Solutions I (NCS I), its strategy aimed at directing capital to businesses focused on natural climate solutions to decarbonize the high-emitting agricultural sector. NCS I’s anchor investors included California State Teachers’ Retirement System (CalSTRS) as the institutional anchor and Microsoft’s Climate Innovation Fund as the corporate anchor. Founded in 2021 by Generation Investment Management, a…",
-      "url": "https://www.esgtoday.com/just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund/?utm_source=rss utm_medium=rss utm_campaign=just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund",
-      "publishedAt": "2026-11-12T10:34:31.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Just-Climate-Barby.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Investors",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2082,10 +2104,10 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
-      "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+      "excerpt": "The Ultimate Guide to Understanding Carbon Credits CarbonCredits.com",
       "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
       "publishedAt": "2026-11-06T16:42:15.000Z",
-      "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2093,8 +2115,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5"
       },
       "region": "india"
     },
@@ -2314,29 +2335,6 @@
       "url": "https://verra.org/updated-combined-templates-for-vcs-and-ccbs-programs-now-available/",
       "publishedAt": "2026-10-27T15:00:00.000Z",
       "image": "https://verra.org/wp-content/uploads/2022/10/Katingan-Peatland-Restoration-and-Conservation-Project-1477-Katingan-Mentaya-Project-Central-Kalimantan-Indonesia-Man-with-crop-plant-1024x683.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-new-effective-date-for-vcs-version-5-2026-10-27",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "New Effective Date for VCS Version 5",
-      "excerpt": "Verra is changing the effective date of version 5 of the Verified Carbon Standard (VCS) Program from January 1, 2027, to July 1, 2027, delivering on a clear request from project developers, validation/verification bodies (VVBs), and market participants. *Note: The effective date for any requirements is the latest possible date by when all projects, including those currently using version 4 of the program, must adopt the applicable requirements under VCS Version 5. Projects who are ready to use version 5 can do so now. Verra is implementing this change…",
-      "url": "https://verra.org/new-effective-date-for-vcs-version-5/",
-      "publishedAt": "2026-10-27T15:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2024/08/Darkwoods-Forest-Carbon-Project-607-Steve-Ogle-on-behalf-of-Nature-Conservancy-of-Canada-Canada-Next-Creek-valley-forested-mountains.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
