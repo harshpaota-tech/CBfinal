@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-17T16:47:11.932Z",
+  "fetchedAt": "2026-11-17T21:29:13.901Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,16 +45,38 @@
   ],
   "stats": {
     "total": 62,
-    "india": 16,
-    "world": 46,
-    "withImages": 55,
-    "avgExcerptLength": 451,
+    "india": 17,
+    "world": 45,
+    "withImages": 57,
+    "avgExcerptLength": 456,
     "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
+      {
+        "id": "esg-today-amazon-targets-7-billion-in-new-renewabl-2026-11-17",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Amazon Targets $7 Billion in New Renewable Energy Investments in India by 2030",
+        "excerpt": "Amazon announced plans to significantly grow its clean energy portfolio in India, with the company expecting to invest $7 billion in renewable energy projects by 2030, and announcing long-term contracts for over 900 MW of power from new utility-scale wind and solar projects in the country. The announcement was made alongside the launch of a new target by Amazon to cut the carbon intensity of the electricity used to power its global operations by 65% by 2030, on a 2019 basis. Amazon is already one of the largest corporate purchasers of carbon-free energy…",
+        "url": "https://www.esgtoday.com/amazon-targets-7-billion-in-new-renewable-energy-investments-in-india-by-2030/?utm_source=rss utm_medium=rss utm_campaign=amazon-targets-7-billion-in-new-renewable-energy-investments-in-india-by-2030",
+        "publishedAt": "2026-11-17T17:33:04.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Amazon1.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "india"
+      },
       {
         "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-11-06",
         "source": "google-india",
@@ -396,17 +418,19 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
-        "excerpt": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets Fuel Cells Works",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
+        "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
+        "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
         "publishedAt": "2025-09-01T07:00:00.000Z",
-        "image": null,
+        "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
         "country": "India",
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en"
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -436,6 +460,50 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-levi-s-appoints-new-cso-to-help-decarbon-2026-11-17",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Levi’s appoints new CSO to help decarbonize operations, supply chain",
+        "excerpt": "The denim giant has tapped industry vet Jeannie Renn -Malone to oversee its global sustainability strategy in her new dual role as chief sustainability officer and vice president, effective Dec.1.",
+        "url": "https://www.esgdive.com/news/levis-appoints-new-cso-jeannie-renne-malone-to-decarbonize-operations/874929/",
+        "publishedAt": "2026-11-17T17:27:46.000Z",
+        "image": "https://imgproxy.divecdn.com/SCnf6CCy0jUBaKX-7plmnzMZ8BpnhcZyuSGfXEvqz6w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzExNjc5NTgxLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-supreme-court-declines-trump-bid-to-revi-2026-11-17",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Supreme Court declines Trump bid to revive DEI research funding cuts",
+        "excerpt": "A lower court blocked the administration from cutting funding for University of California research on project topics Trump officials have opposed.",
+        "url": "https://www.esgdive.com/news/supreme-court-declines-trump-bid-to-revive-dei-research-funding-cuts/874873/",
+        "publishedAt": "2026-11-17T16:44:00.000Z",
+        "image": "https://imgproxy.divecdn.com/JTNQAZHvbLChp4mlAMNCmL6emo6XpQCu6lgf2LMO148/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TdXByZW1lX0NvdXJ0X0V4dGVybmFsXy5qcGc=.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-google-expands-clean-energy-portfolio-wi-2026-11-17",
         "source": "esg-today",
@@ -701,28 +769,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-goldman-sachs-leads-345-million-financin-2026-11-16",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Goldman Sachs Leads $345 Million Financing for Exus to Expand U.S. Clean Energy Portfolio",
-        "excerpt": "Renewable energy developer, owner and operator Exus Renewables North America announced that it has secured $345 million in senior secured holding company financing led by Goldman Sachs Alternatives, the alternative investments platform of Goldman Sachs Asset Management. The proceeds will be used to support the construction and development of the company’s U.S. wind, solar and battery storage portfolio. Founded in 2018, Pittsburgh-based Exus develops, owns and operates utility-scale wind, solar and battery storage projects across the United States, while…",
-        "url": "https://www.esgtoday.com/goldman-sachs-leads-345-million-financing-for-exus-to-expand-u-s-clean-energy-portfolio/?utm_source=rss utm_medium=rss utm_campaign=goldman-sachs-leads-345-million-financing-for-exus-to-expand-u-s-clean-energy-portfolio",
-        "publishedAt": "2026-11-16T14:04:33.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Exus.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Sustainable Finance",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-projects-open-for-public-comment-novembe-2026-11-16",
         "source": "verra",
         "sourceName": "Verra",
@@ -945,28 +991,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-over-180-companies-call-on-cop31-preside-2026-11-10",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "CLIMATE",
-        "accent": "#34d399",
-        "title": "Over 180 companies call on COP31 presidency to fix electrification bottleneck",
-        "excerpt": "Companies including H M Group, Danone, Ikea, and Uber are calling for the annual climate change conference to focus on accelerating electrification.",
-        "url": "https://www.esgdive.com/news/over-180-companies-call-on-cop31-presidency-to-fix-electrification-bottleneck/874278/",
-        "publishedAt": "2026-11-10T17:38:23.000Z",
-        "image": "https://imgproxy.divecdn.com/bDnxYorOzL4l8Xd7HGv5eVTvDCbsNgGaX6grTJVe1Sk/g:nowe:0:9/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0MjQ3NDQzLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-analysis-which-countries-have-sent-the-m-2026-11-10",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -985,28 +1009,6 @@
         "meta": {
           "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-this-is-not-a-new-story-legal-profession-2026-11-10",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "‘This is not a new story’: Legal professionals expect tide to turn on DEI",
-        "excerpt": "The idea that diversity, equity and inclusion is a short-lived trend ignores history and legal reality, according to speakers at an American Bar Association conference.",
-        "url": "https://www.esgdive.com/news/this-is-not-a-new-story-legal-professionals-expect-tide-to-turn-on-dei/874266/",
-        "publishedAt": "2026-11-10T15:41:00.000Z",
-        "image": null,
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -1339,7 +1341,7 @@
         "accent": "#86efac",
         "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
         "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5",
+        "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
         "publishedAt": "2025-11-12T08:00:00.000Z",
         "image": null,
         "country": null,
@@ -1348,7 +1350,8 @@
         "status": null,
         "meta": {
           "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en"
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
         },
         "region": "world"
       },
@@ -1475,6 +1478,72 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-amazon-targets-7-billion-in-new-renewabl-2026-11-17",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Amazon Targets $7 Billion in New Renewable Energy Investments in India by 2030",
+      "excerpt": "Amazon announced plans to significantly grow its clean energy portfolio in India, with the company expecting to invest $7 billion in renewable energy projects by 2030, and announcing long-term contracts for over 900 MW of power from new utility-scale wind and solar projects in the country. The announcement was made alongside the launch of a new target by Amazon to cut the carbon intensity of the electricity used to power its global operations by 65% by 2030, on a 2019 basis. Amazon is already one of the largest corporate purchasers of carbon-free energy…",
+      "url": "https://www.esgtoday.com/amazon-targets-7-billion-in-new-renewable-energy-investments-in-india-by-2030/?utm_source=rss utm_medium=rss utm_campaign=amazon-targets-7-billion-in-new-renewable-energy-investments-in-india-by-2030",
+      "publishedAt": "2026-11-17T17:33:04.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Amazon1.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "india"
+    },
+    {
+      "id": "esg-dive-levi-s-appoints-new-cso-to-help-decarbon-2026-11-17",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Levi’s appoints new CSO to help decarbonize operations, supply chain",
+      "excerpt": "The denim giant has tapped industry vet Jeannie Renn -Malone to oversee its global sustainability strategy in her new dual role as chief sustainability officer and vice president, effective Dec.1.",
+      "url": "https://www.esgdive.com/news/levis-appoints-new-cso-jeannie-renne-malone-to-decarbonize-operations/874929/",
+      "publishedAt": "2026-11-17T17:27:46.000Z",
+      "image": "https://imgproxy.divecdn.com/SCnf6CCy0jUBaKX-7plmnzMZ8BpnhcZyuSGfXEvqz6w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzExNjc5NTgxLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-supreme-court-declines-trump-bid-to-revi-2026-11-17",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Supreme Court declines Trump bid to revive DEI research funding cuts",
+      "excerpt": "A lower court blocked the administration from cutting funding for University of California research on project topics Trump officials have opposed.",
+      "url": "https://www.esgdive.com/news/supreme-court-declines-trump-bid-to-revive-dei-research-funding-cuts/874873/",
+      "publishedAt": "2026-11-17T16:44:00.000Z",
+      "image": "https://imgproxy.divecdn.com/JTNQAZHvbLChp4mlAMNCmL6emo6XpQCu6lgf2LMO148/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TdXByZW1lX0NvdXJ0X0V4dGVybmFsXy5qcGc=.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-google-expands-clean-energy-portfolio-wi-2026-11-17",
       "source": "esg-today",
@@ -1740,28 +1809,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-goldman-sachs-leads-345-million-financin-2026-11-16",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Goldman Sachs Leads $345 Million Financing for Exus to Expand U.S. Clean Energy Portfolio",
-      "excerpt": "Renewable energy developer, owner and operator Exus Renewables North America announced that it has secured $345 million in senior secured holding company financing led by Goldman Sachs Alternatives, the alternative investments platform of Goldman Sachs Asset Management. The proceeds will be used to support the construction and development of the company’s U.S. wind, solar and battery storage portfolio. Founded in 2018, Pittsburgh-based Exus develops, owns and operates utility-scale wind, solar and battery storage projects across the United States, while…",
-      "url": "https://www.esgtoday.com/goldman-sachs-leads-345-million-financing-for-exus-to-expand-u-s-clean-energy-portfolio/?utm_source=rss utm_medium=rss utm_campaign=goldman-sachs-leads-345-million-financing-for-exus-to-expand-u-s-clean-energy-portfolio",
-      "publishedAt": "2026-11-16T14:04:33.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Exus.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Sustainable Finance",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-projects-open-for-public-comment-novembe-2026-11-16",
       "source": "verra",
       "sourceName": "Verra",
@@ -1984,28 +2031,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-over-180-companies-call-on-cop31-preside-2026-11-10",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "CLIMATE",
-      "accent": "#34d399",
-      "title": "Over 180 companies call on COP31 presidency to fix electrification bottleneck",
-      "excerpt": "Companies including H M Group, Danone, Ikea, and Uber are calling for the annual climate change conference to focus on accelerating electrification.",
-      "url": "https://www.esgdive.com/news/over-180-companies-call-on-cop31-presidency-to-fix-electrification-bottleneck/874278/",
-      "publishedAt": "2026-11-10T17:38:23.000Z",
-      "image": "https://imgproxy.divecdn.com/bDnxYorOzL4l8Xd7HGv5eVTvDCbsNgGaX6grTJVe1Sk/g:nowe:0:9/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0MjQ3NDQzLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-analysis-which-countries-have-sent-the-m-2026-11-10",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2024,28 +2049,6 @@
       "meta": {
         "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-this-is-not-a-new-story-legal-profession-2026-11-10",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "‘This is not a new story’: Legal professionals expect tide to turn on DEI",
-      "excerpt": "The idea that diversity, equity and inclusion is a short-lived trend ignores history and legal reality, according to speakers at an American Bar Association conference.",
-      "url": "https://www.esgdive.com/news/this-is-not-a-new-story-legal-professionals-expect-tide-to-turn-on-dei/874266/",
-      "publishedAt": "2026-11-10T15:41:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -2711,7 +2714,7 @@
       "accent": "#86efac",
       "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
       "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5",
+      "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
       "publishedAt": "2025-11-12T08:00:00.000Z",
       "image": null,
       "country": null,
@@ -2720,7 +2723,8 @@
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en"
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
       },
       "region": "world"
     },
@@ -2732,17 +2736,19 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
-      "excerpt": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets Fuel Cells Works",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
+      "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
+      "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
       "publishedAt": "2025-09-01T07:00:00.000Z",
-      "image": null,
+      "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en"
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
