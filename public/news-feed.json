@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-18T16:18:17.196Z",
+  "fetchedAt": "2026-11-18T21:04:05.024Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 17,
     "world": 45,
     "withImages": 58,
-    "avgExcerptLength": 456,
+    "avgExcerptLength": 457,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -78,7 +78,7 @@
         "region": "india"
       },
       {
-        "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-11-06",
+        "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-11-13",
         "source": "google-india",
         "sourceName": "India Climate Policy",
         "type": "esg",
@@ -87,7 +87,7 @@
         "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
         "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
         "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
-        "publishedAt": "2026-11-06T16:42:15.000Z",
+        "publishedAt": "2026-11-13T17:16:24.000Z",
         "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
         "country": null,
         "methodology": null,
@@ -460,6 +460,51 @@
       }
     ],
     "world": [
+      {
+        "id": "verra-consultation-on-long-term-average-tool-f-2026-11-18",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Consultation on Long-Term Average Tool for ARR and IFM Projects",
+        "excerpt": "Verra has opened a consultation on the draft Long-term Average Tool (methodology development ID #M0405) for certain forest carbon methodologies in the Verified Carbon Standard (VCS) Program . The consultation will run from November 18 through December 18, 2026 . The tool is intended for use by projects that use an afforestation, reforestation, and revegetation (ARR) or improved forest management (IFM) methodology and that include harvesting. The long-term average (LTA) is a calculation that estimates the average carbon storage at the end of the…",
+        "url": "https://verra.org/consultation-on-long-term-average-tool-for-arr-and-ifm-projects/",
+        "publishedAt": "2026-11-18T17:30:37.000Z",
+        "image": "https://verra.org/wp-content/uploads/imported/news/jeremy-bezanger-tropical-forest-unsplash-cropped-scaled-jpg.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-anthropic-labeled-high-risk-as-investors-2026-11-18",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Anthropic labeled ‘high risk’ as investors’ concerns rise pre-IPO",
+        "excerpt": "As the company behind artificial intelligence platform Claude heads towards its initial public offering, investors are flagging ESG risks in the company s business model and financials.",
+        "url": "https://www.esgdive.com/news/anthropic-labeled-high-risk-as-investors-concerns-rise-pre-ipo/875041/",
+        "publishedAt": "2026-11-18T16:54:00.000Z",
+        "image": "https://imgproxy.divecdn.com/pDxKQKtWTVPDKdaN4msiFVHiIDZ8DBxQF3_SI1mqeQM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk1NTY2OTExLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-green-bond-issuance-jumps-29-in-q3-2026--2026-11-18",
         "source": "esg-today",
@@ -947,28 +992,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-vanguard-expands-proxy-voting-program-to-2026-11-11",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Vanguard expands proxy voting program to cover $8.2 trillion in assets",
-        "excerpt": "The firm said its Investor Choice program will be available to all of its U.S. equity index products next year.",
-        "url": "https://www.esgdive.com/news/vanguard-prepares-2027-expansion-investor-choice-proxy-program-8-2-trillion/874407/",
-        "publishedAt": "2026-11-11T15:32:00.000Z",
-        "image": "https://imgproxy.divecdn.com/beWzn-Wp1RSD7Mz7NT8wy8OjOX8SiZGAuontY1I1FlM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY4Mjk1NTA0LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-analysis-climate-finance-pledges-fall-70-2026-11-11",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -1262,29 +1285,6 @@
         "region": "world"
       },
       {
-        "id": "verra-verra-announces-five-new-data-service-pr-2026-10-28",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verra Announces Five New Data Service Providers for ARR Methodology",
-        "excerpt": "Verra has announced that the following data service providers (DSPs) are now vetted to provide stocking index (SI) data that establish performance benchmarks for projects using Verified Carbon Standard (VCS) methodology VM0047 Afforestation, Reforestation, and Revegetation : These new providers expand the options available to project proponents seeking data to establish performance benchmarks under VM0047 . A list of all vetted DSPs is available on the VM0047 webpage . For more information on the capabilities of these DSPs, see the DSP Directory page on…",
-        "url": "https://verra.org/verra-announces-five-new-data-service-providers-for-arr-methodology/",
-        "publishedAt": "2026-10-28T17:41:10.000Z",
-        "image": "https://verra.org/wp-content/uploads/imported/news/jan-huber-tree-sun-unsplash-scaled-jpg.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-verra-and-gold-standard-unveil-new-digit-2026-08-25",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1478,6 +1478,51 @@
     ]
   },
   "articles": [
+    {
+      "id": "verra-consultation-on-long-term-average-tool-f-2026-11-18",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Consultation on Long-Term Average Tool for ARR and IFM Projects",
+      "excerpt": "Verra has opened a consultation on the draft Long-term Average Tool (methodology development ID #M0405) for certain forest carbon methodologies in the Verified Carbon Standard (VCS) Program . The consultation will run from November 18 through December 18, 2026 . The tool is intended for use by projects that use an afforestation, reforestation, and revegetation (ARR) or improved forest management (IFM) methodology and that include harvesting. The long-term average (LTA) is a calculation that estimates the average carbon storage at the end of the…",
+      "url": "https://verra.org/consultation-on-long-term-average-tool-for-arr-and-ifm-projects/",
+      "publishedAt": "2026-11-18T17:30:37.000Z",
+      "image": "https://verra.org/wp-content/uploads/imported/news/jeremy-bezanger-tropical-forest-unsplash-cropped-scaled-jpg.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-anthropic-labeled-high-risk-as-investors-2026-11-18",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Anthropic labeled ‘high risk’ as investors’ concerns rise pre-IPO",
+      "excerpt": "As the company behind artificial intelligence platform Claude heads towards its initial public offering, investors are flagging ESG risks in the company s business model and financials.",
+      "url": "https://www.esgdive.com/news/anthropic-labeled-high-risk-as-investors-concerns-rise-pre-ipo/875041/",
+      "publishedAt": "2026-11-18T16:54:00.000Z",
+      "image": "https://imgproxy.divecdn.com/pDxKQKtWTVPDKdaN4msiFVHiIDZ8DBxQF3_SI1mqeQM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk1NTY2OTExLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-green-bond-issuance-jumps-29-in-q3-2026--2026-11-18",
       "source": "esg-today",
@@ -1877,6 +1922,30 @@
       "region": "world"
     },
     {
+      "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-11-13",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
+      "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+      "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
+      "publishedAt": "2026-11-13T17:16:24.000Z",
+      "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "esg-dive-as-data-center-backlash-grows-a-model-la-2026-11-13",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1976,28 +2045,6 @@
       "url": "https://www.esgdive.com/news/nvidia-ceo-resigns-scandal-cfo-named-interim-ceo-ai/874506/",
       "publishedAt": "2026-11-12T15:06:00.000Z",
       "image": "https://imgproxy.divecdn.com/F0KZ_t3vSV7XUlwg13_F5g6zsZ9EHYPxZINu-nt7PEg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxMzI4MDE3LmpwZ19yZXNpemUuanBn.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-vanguard-expands-proxy-voting-program-to-2026-11-11",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Vanguard expands proxy voting program to cover $8.2 trillion in assets",
-      "excerpt": "The firm said its Investor Choice program will be available to all of its U.S. equity index products next year.",
-      "url": "https://www.esgdive.com/news/vanguard-prepares-2027-expansion-investor-choice-proxy-program-8-2-trillion/874407/",
-      "publishedAt": "2026-11-11T15:32:00.000Z",
-      "image": "https://imgproxy.divecdn.com/beWzn-Wp1RSD7Mz7NT8wy8OjOX8SiZGAuontY1I1FlM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY4Mjk1NTA0LmpwZw==.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2141,30 +2188,6 @@
         "feed": "https://www.carbonbrief.org/feed/"
       },
       "region": "world"
-    },
-    {
-      "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-11-06",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
-      "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
-      "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
-      "publishedAt": "2026-11-06T16:42:15.000Z",
-      "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
     },
     {
       "id": "verra-verra-approves-first-credits-under-ccs-m-2026-11-06",
@@ -2314,29 +2337,6 @@
       "url": "https://verra.org/verra-releases-new-resources-for-arr-projects/",
       "publishedAt": "2026-10-29T17:35:40.000Z",
       "image": "https://verra.org/wp-content/uploads/2026/10/pexels-phat-nguy-110224443-11185515-scaled-e1793291483339.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "verra-verra-announces-five-new-data-service-pr-2026-10-28",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verra Announces Five New Data Service Providers for ARR Methodology",
-      "excerpt": "Verra has announced that the following data service providers (DSPs) are now vetted to provide stocking index (SI) data that establish performance benchmarks for projects using Verified Carbon Standard (VCS) methodology VM0047 Afforestation, Reforestation, and Revegetation : These new providers expand the options available to project proponents seeking data to establish performance benchmarks under VM0047 . A list of all vetted DSPs is available on the VM0047 webpage . For more information on the capabilities of these DSPs, see the DSP Directory page on…",
-      "url": "https://verra.org/verra-announces-five-new-data-service-providers-for-arr-methodology/",
-      "publishedAt": "2026-10-28T17:41:10.000Z",
-      "image": "https://verra.org/wp-content/uploads/imported/news/jan-huber-tree-sun-unsplash-scaled-jpg.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
