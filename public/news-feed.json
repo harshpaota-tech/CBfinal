@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-19T08:18:04.065Z",
+  "fetchedAt": "2026-11-19T16:26:43.383Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 17,
     "world": 45,
-    "withImages": 58,
-    "avgExcerptLength": 457,
+    "withImages": 55,
+    "avgExcerptLength": 439,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -56,23 +56,23 @@
   "sections": {
     "india": [
       {
-        "id": "esg-today-amazon-targets-7-billion-in-new-renewabl-2026-11-17",
+        "id": "esg-today-kkr-acquires-stake-in-gentari-s-india-re-2026-11-19",
         "source": "esg-today",
         "sourceName": "ESG Today",
         "type": "esg",
         "tag": "INDIA",
         "accent": "#fbbf24",
-        "title": "Amazon Targets $7 Billion in New Renewable Energy Investments in India by 2030",
-        "excerpt": "Amazon announced plans to significantly grow its clean energy portfolio in India, with the company expecting to invest $7 billion in renewable energy projects by 2030, and announcing long-term contracts for over 900 MW of power from new utility-scale wind and solar projects in the country. The announcement was made alongside the launch of a new target by Amazon to cut the carbon intensity of the electricity used to power its global operations by 65% by 2030, on a 2019 basis. Amazon is already one of the largest corporate purchasers of carbon-free energy…",
-        "url": "https://www.esgtoday.com/amazon-targets-7-billion-in-new-renewable-energy-investments-in-india-by-2030/?utm_source=rss utm_medium=rss utm_campaign=amazon-targets-7-billion-in-new-renewable-energy-investments-in-india-by-2030",
-        "publishedAt": "2026-11-17T17:33:04.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Amazon1.jpg",
+        "title": "KKR Acquires Stake in Gentari’s India Renewable Energy Platform",
+        "excerpt": "Alternative asset manager KKR announced on Thursday the acquisition of a minority stake in Gentari Renewables India, the Indian renewable energy subsidiary of clean energy solutions provider Gentari. Gentari was launched in 2022 by Malaysian integrated oil and gas company Petronas to target clean energy solutions across renewable energy, hydrogen and green mobility. The company develops and operates solar, wind and battery energy storage projects, alongside initiatives focused on clean hydrogen production and electric vehicle charging infrastructure.…",
+        "url": "https://www.esgtoday.com/kkr-acquires-stake-in-gentaris-india-renewable-energy-platform/?utm_source=rss utm_medium=rss utm_campaign=kkr-acquires-stake-in-gentaris-india-renewable-energy-platform",
+        "publishedAt": "2026-11-19T15:43:23.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/KKR.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
-          "category": "Companies",
+          "category": "Energy Transition",
           "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "india"
@@ -85,19 +85,17 @@
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
         "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
-        "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
-        "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
+        "excerpt": "The Ultimate Guide to Understanding Carbon Credits CarbonCredits.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
         "publishedAt": "2026-11-13T17:16:24.000Z",
-        "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
-          "imageSource": "publisher"
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en"
         },
         "region": "india"
       },
@@ -324,19 +322,17 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "CBAM trends in Indian industries - EY",
-        "excerpt": "Insights AI CFO CEO EY Transformation Services AI Agentic AI AI Ready Data ey.ai The Reimagination Engine Physical AI Responsible AI Assurance Services Climate Change and Sustainability Services Financial Accounting and Advisory Services Forensic and Integrity Services Consulting Cybersecurity Digital Transformation People and Workforce Risk Consulting Services Supply Chain Management and Operations Technology Transformation Global Capability Centers Capability Center-as-a-Service (CaaS) EY GCC Exchange: Video Series EY GCC Leadership Dialogues The FS…",
-        "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
+        "excerpt": "CBAM trends in Indian industries EY",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
         "publishedAt": "2026-04-03T07:24:04.000Z",
-        "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
-          "imageSource": "publisher"
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en"
         },
         "region": "india"
       },
@@ -418,19 +414,17 @@
         "tag": "INDIA",
         "accent": "#fbbf24",
         "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
-        "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
-        "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
+        "excerpt": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets Fuel Cells Works",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
         "publishedAt": "2025-09-01T07:00:00.000Z",
-        "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
+        "image": null,
         "country": "India",
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
-          "imageSource": "publisher"
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en"
         },
         "region": "india"
       },
@@ -460,6 +454,138 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-intel-shareholders-sue-ceo-cfo-after-sto-2026-11-19",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Intel shareholders sue CEO, CFO after stock rout",
+        "excerpt": "CEO Lip-Bu Tan and CFO David Zinsner failed to properly disclose the full impact of waning PC demand on company revenue and profitability for the PC maker, shareholders claim.",
+        "url": "https://www.esgdive.com/news/intel-shareholders-sue-ceo-cfo-stock-drop-ai-cpu/875174/",
+        "publishedAt": "2026-11-19T15:59:00.000Z",
+        "image": "https://imgproxy.divecdn.com/V6oUGyIKMVpql9rjP6OP0QPRkoiXz79jb57TzXek9S8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc5NDE1MTIzLmpwZ19yZXNpemUuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-pulpex-raises-over-30-million-to-scale-p-2026-11-19",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production",
+        "excerpt": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6 million from the UK s National Wealth Fund and £4.4 million (USD$5.8 million) from the Scottish National Investment Bank (SNIB), in addition to funding from existing investors, at accelerating the company’s growth and the deployment of its technology to provide paper-based alternatives to conventional plastic and glass packaging. Launched in 2020, UK-based Pulpex was established as a collaboration between Pilot Lite and Diageo,…",
+        "url": "https://www.esgtoday.com/pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology/?utm_source=rss utm_medium=rss utm_campaign=pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology",
+        "publishedAt": "2026-11-19T14:37:09.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Pulpex2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-eu-lawmakers-states-agree-to-2-year-dela-2026-11-19",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EU Lawmakers, States Agree to 2-Year Delay to Methane Reporting Rules",
+        "excerpt": "Lawmakers in the European Parliament and EU Member States announced that reached a provisional agreement to postpone methane monitoring and reporting rules for oil, gas and coal importers by one year, supporting an EU Commission proposal aimed at avoiding adding pressure to the EU’s security of energy supply. While extending the delay beyond the Commission’s initial one-year proposal, the agreement marks a compromise between Parliament’s and the European Council’s positions going into negotiations of a 3-year and 1-year postponement, respectively. Rapid…",
+        "url": "https://www.esgtoday.com/eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules/?utm_source=rss utm_medium=rss utm_campaign=eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules",
+        "publishedAt": "2026-11-19T13:02:36.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-flags3-2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Government",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-banque-des-territoires-acquires-stake-in-2026-11-19",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Banque des Territoires Acquires Stake in ESG Ratings Provider EthiFinance",
+        "excerpt": "Banque des Territoires, the regional development financing arm of French public financial institution Caisse des Dépôts, announced that it has acquired a stake in sustainable finance-focused ratings and research provider EthiFinance through a capital increase aimed at supporting the company’s expansion in Europe. Launched in 2004, Paris-based EthiFinance is an independent European credit and sustainability rating agency, providing investors, banks, insurance companies, and corporates with analysis and ratings to help navigate the challenges of…",
+        "url": "https://www.esgtoday.com/banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance/?utm_source=rss utm_medium=rss utm_campaign=banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance",
+        "publishedAt": "2026-11-19T12:21:36.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EthiFinance-Sirou.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-pantheon-invests-600-million-in-mirova-e-2026-11-19",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Pantheon Invests $600 Million in Mirova Energy Transition Portfolio",
+        "excerpt": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers, and London-based private markets investor Pantheon announced the launch of a new energy transition-focused investment partnership, including a €548 million (USD$603 million) secondary transaction aimed at providing growth capital for Mirova’s European renewable energy investment platforms and liquidity for existing investors. Pantheon is the sole third-party investor in the transaction, which the company said was designed to balance the interests of existing investors,…",
+        "url": "https://www.esgtoday.com/pantheon-invests-600-million-in-mirova-energy-transition-portfolio/?utm_source=rss utm_medium=rss utm_campaign=pantheon-invests-600-million-in-mirova-energy-transition-portfolio",
+        "publishedAt": "2026-11-19T12:00:46.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Pantheon-Cullen.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-tnfd-urges-issb-to-issue-mandatory-natur-2026-11-19",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "TNFD Urges ISSB to Issue Mandatory Nature-Related Reporting Standard",
+        "excerpt": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability Standards Board (ISSB) to develop a standalone standard for corporate reporting on nature-related risks, dependencies and opportunities, instead of its current plans for voluntary Practice Statement, and to set a timeline for mandatory application of the standard’s reporting requirements. Released in response to the ISSB’s consultation on its proposed Practice Statement, the TNFD said that a mandatory standard would be best…",
+        "url": "https://www.esgtoday.com/tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss utm_medium=rss utm_campaign=tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
+        "publishedAt": "2026-11-19T10:45:51.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/IFRS.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Reporting",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "verra-consultation-on-long-term-average-tool-f-2026-11-18",
         "source": "verra",
@@ -494,7 +620,7 @@
         "excerpt": "As the company behind artificial intelligence platform Claude heads towards its initial public offering, investors are flagging ESG risks in the company s business model and financials.",
         "url": "https://www.esgdive.com/news/anthropic-labeled-high-risk-as-investors-concerns-rise-pre-ipo/875041/",
         "publishedAt": "2026-11-18T16:54:00.000Z",
-        "image": "https://imgproxy.divecdn.com/l87hR8OlioFQjpxE6B_dC8QZioNsfrBDVROWubi9ofg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbW9kZWkuanBn.webp",
+        "image": "https://imgproxy.divecdn.com/pDxKQKtWTVPDKdaN4msiFVHiIDZ8DBxQF3_SI1mqeQM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk1NTY2OTExLmpwZw==.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -639,50 +765,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-macquarie-revera-team-up-to-build-batter-2026-11-18",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Macquarie, Revera Team Up to Build Battery Storage Portfolio in UK",
-        "excerpt": "Carlyle-backed energy infrastructure company Revera Energy announced the launch of a strategic joint venture with Macquarie Capital, aimed at supporting the development of the company’s 1 GW battery energy storage system (BESS) portfolio in Scotland. Launched last year by private capital investment firm Carlyle, London-based Revera develops, constructs, owns and operates battery storage, renewable energy and green hydrogen projects across Australia and the UK. Under the new agreement, Macquarie Capital will invest alongside Revera in two…",
-        "url": "https://www.esgtoday.com/macquarie-launches-battery-storage-jv-with-carlyle-backed-revera-energy/?utm_source=rss utm_medium=rss utm_campaign=macquarie-launches-battery-storage-jv-with-carlyle-backed-revera-energy",
-        "publishedAt": "2026-11-18T08:25:58.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Macquarie.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-eu-greenlights-10-billion-dutch-offshore-2026-11-18",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EU Greenlights $10 Billion Dutch Offshore Wind Energy Scheme",
-        "excerpt": "The European Commission announced today that it has approved a €9.5 billion (USD$10.4 billion) state aid program by the Netherlands aimed at supporting the construction of new offshore wind farms in the North Sea. According to the Commission, the Dutch aid program will support the construction of two offshore wind farms with a combined capacity of 2 GW and expected generation of up to 7,441 GWh of renewable electricity annually. The Netherlands estimates that the projects will avoid approximately 147 million tonnes of CO2 equivalent over their lifetimes.",
-        "url": "https://www.esgtoday.com/eu-greenlights-10-billion-dutch-offshore-wind-energy-scheme/?utm_source=rss utm_medium=rss utm_campaign=eu-greenlights-10-billion-dutch-offshore-wind-energy-scheme",
-        "publishedAt": "2026-11-18T08:22:22.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Wind-offshore-EU.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "esg-dive-levi-s-appoints-new-cso-to-help-decarbon-2026-11-17",
         "source": "esg-dive",
         "sourceName": "ESG Dive",
@@ -723,72 +805,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-google-expands-clean-energy-portfolio-wi-2026-11-17",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Google Expands Clean Energy Portfolio with First Superhot Geothermal Power Deal",
-        "excerpt": "Superhot geothermal project developer Quaise announced that it has signed its first power purchase agreement, with Google agreeing to purchase carbon-free energy from Quaise’s flagship project in Central Oregon to support its data center operations, beginning as soon as 2030. Founded in 2018 as a spinout from the Massachusetts Institute of Technology, Cambridge-based Quaise develops solutions aimed at harnessing superhot geothermal energy far below the surface, to enable power generation that can rival the output of fossil fuel and nuclear plants. The…",
-        "url": "https://www.esgtoday.com/google-signs-clean-power-purchase-deal-with-superhot-geothermal-energy-developer-quaise/?utm_source=rss utm_medium=rss utm_campaign=google-signs-clean-power-purchase-deal-with-superhot-geothermal-energy-developer-quaise",
-        "publishedAt": "2026-11-17T15:26:08.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Quaise2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-ul-solutions-to-acquire-supply-chain-sus-2026-11-17",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "UL Solutions to Acquire Supply Chain Sustainability Data Platform Worldly for $350 Million",
-        "excerpt": "Applied safety science company UL Solutions announced on Tuesday an agreement to acquire supply chain sustainability data and analytics solutions platform Worldly, in a transaction valuing the company at an enterprise value of $350 million. According to UL Solutions, the transaction is aimed at growing its software growth strategy, while strengthening its supply chain intelligence solutions to enable companies to bring safer, more sustainable and responsibly made products to market. California-based Worldly was launched in 2019 to host the Higg Index, a…",
-        "url": "https://www.esgtoday.com/ul-solutions-to-acquire-supply-chain-sustainability-data-platform-worldly-for-350-million/?utm_source=rss utm_medium=rss utm_campaign=ul-solutions-to-acquire-supply-chain-sustainability-data-platform-worldly-for-350-million",
-        "publishedAt": "2026-11-17T14:05:01.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/UL-Solutions.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-audi-launches-circular-economy-business--2026-11-17",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Audi Launches Circular Economy Business to Tap New Markets, Secure Raw Materials",
-        "excerpt": "Automotive manufacturer Audi announced the establishment of Audi Circular Solutions GmbH, a new division focused on reusing vehicle parts and recovering recycled raw materials for use in the company s supply chain. According to Audi, the new subsidiary will build a new line of business for the company, aimed at turning the circular economy into a profitable business model centered on reusing vehicle parts and recovering valuable materials. Beginning operations in early 2027, the new division will initially establish a central sales channel for used…",
-        "url": "https://www.esgtoday.com/audi-launches-circular-economy-business-to-tap-new-markets-secure-raw-materials/?utm_source=rss utm_medium=rss utm_campaign=audi-launches-circular-economy-business-to-tap-new-markets-secure-raw-materials",
-        "publishedAt": "2026-11-17T12:43:09.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Audi-Circular.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -959,28 +975,6 @@
         "url": "https://www.esgdive.com/news/platform-launched-at-cop31-aims-to-scale-transition-capital-in-emerging-mar/874527/",
         "publishedAt": "2026-11-12T15:45:00.000Z",
         "image": "https://imgproxy.divecdn.com/cFD8B0BcYlveVU0_xKLKyEJXGWPo9TDccayDsg3QbFQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAzOTkzMjU1LmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-nvidia-ceo-resigns-amid-scandal-cfo-name-2026-11-12",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Nvidia CEO resigns amid scandal; CFO named interim",
-        "excerpt": "Jensen Huang resigned effective immediately, with the chipmaker naming its long-time CFO Colette Kress as interim CEO until a permanent successor is found, Nvidia announced Thursday.",
-        "url": "https://www.esgdive.com/news/nvidia-ceo-resigns-scandal-cfo-named-interim-ceo-ai/874506/",
-        "publishedAt": "2026-11-12T15:06:00.000Z",
-        "image": "https://imgproxy.divecdn.com/F0KZ_t3vSV7XUlwg13_F5g6zsZ9EHYPxZINu-nt7PEg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxMzI4MDE3LmpwZ19yZXNpemUuanBn.webp",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1341,7 +1335,7 @@
         "accent": "#86efac",
         "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
         "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
-        "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5",
         "publishedAt": "2025-11-12T08:00:00.000Z",
         "image": null,
         "country": null,
@@ -1350,8 +1344,7 @@
         "status": null,
         "meta": {
           "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en"
         },
         "region": "world"
       },
@@ -1459,7 +1452,7 @@
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
         "title": "Creating carbon offset units on the voluntary market | Global law firm - Norton Rose Fulbright",
-        "excerpt": "The SEC has proposed a sweeping rewrite of Item 402 of Regulation S-K, the Proposed Rule, that streamlines the disclosure process and may result in an overall reduction of the related administrative burden.",
+        "excerpt": "On 16 November 2001, the Convention on International Interests in Mobile Equipment — widely known as the Cape Town Convention — was signed in Cape Town, South Africa. Together with the associated Protocol on Matters Specific to Aircraft Equipment (collectively, CTC), it has become central to many international aircraft finance and leasing transactions.",
         "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/6f326481/creating-carbon-offset-units-on-the-voluntary-market",
         "publishedAt": "2022-02-22T19:16:56.000Z",
         "image": "https://www.nortonrosefulbright.com/-/media/images/nrf/thought-leadership/australia/publications/hand-and-tree.jpg?revision=199a6252-fda6-4068-a7f3-8c0b3fff7a19&revision=5249493629607387904",
@@ -1478,6 +1471,160 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-intel-shareholders-sue-ceo-cfo-after-sto-2026-11-19",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Intel shareholders sue CEO, CFO after stock rout",
+      "excerpt": "CEO Lip-Bu Tan and CFO David Zinsner failed to properly disclose the full impact of waning PC demand on company revenue and profitability for the PC maker, shareholders claim.",
+      "url": "https://www.esgdive.com/news/intel-shareholders-sue-ceo-cfo-stock-drop-ai-cpu/875174/",
+      "publishedAt": "2026-11-19T15:59:00.000Z",
+      "image": "https://imgproxy.divecdn.com/V6oUGyIKMVpql9rjP6OP0QPRkoiXz79jb57TzXek9S8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc5NDE1MTIzLmpwZ19yZXNpemUuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-kkr-acquires-stake-in-gentari-s-india-re-2026-11-19",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "KKR Acquires Stake in Gentari’s India Renewable Energy Platform",
+      "excerpt": "Alternative asset manager KKR announced on Thursday the acquisition of a minority stake in Gentari Renewables India, the Indian renewable energy subsidiary of clean energy solutions provider Gentari. Gentari was launched in 2022 by Malaysian integrated oil and gas company Petronas to target clean energy solutions across renewable energy, hydrogen and green mobility. The company develops and operates solar, wind and battery energy storage projects, alongside initiatives focused on clean hydrogen production and electric vehicle charging infrastructure.…",
+      "url": "https://www.esgtoday.com/kkr-acquires-stake-in-gentaris-india-renewable-energy-platform/?utm_source=rss utm_medium=rss utm_campaign=kkr-acquires-stake-in-gentaris-india-renewable-energy-platform",
+      "publishedAt": "2026-11-19T15:43:23.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/KKR.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "india"
+    },
+    {
+      "id": "esg-today-pulpex-raises-over-30-million-to-scale-p-2026-11-19",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production",
+      "excerpt": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6 million from the UK s National Wealth Fund and £4.4 million (USD$5.8 million) from the Scottish National Investment Bank (SNIB), in addition to funding from existing investors, at accelerating the company’s growth and the deployment of its technology to provide paper-based alternatives to conventional plastic and glass packaging. Launched in 2020, UK-based Pulpex was established as a collaboration between Pilot Lite and Diageo,…",
+      "url": "https://www.esgtoday.com/pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology/?utm_source=rss utm_medium=rss utm_campaign=pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology",
+      "publishedAt": "2026-11-19T14:37:09.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Pulpex2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-eu-lawmakers-states-agree-to-2-year-dela-2026-11-19",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EU Lawmakers, States Agree to 2-Year Delay to Methane Reporting Rules",
+      "excerpt": "Lawmakers in the European Parliament and EU Member States announced that reached a provisional agreement to postpone methane monitoring and reporting rules for oil, gas and coal importers by one year, supporting an EU Commission proposal aimed at avoiding adding pressure to the EU’s security of energy supply. While extending the delay beyond the Commission’s initial one-year proposal, the agreement marks a compromise between Parliament’s and the European Council’s positions going into negotiations of a 3-year and 1-year postponement, respectively. Rapid…",
+      "url": "https://www.esgtoday.com/eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules/?utm_source=rss utm_medium=rss utm_campaign=eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules",
+      "publishedAt": "2026-11-19T13:02:36.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-flags3-2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Government",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-banque-des-territoires-acquires-stake-in-2026-11-19",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Banque des Territoires Acquires Stake in ESG Ratings Provider EthiFinance",
+      "excerpt": "Banque des Territoires, the regional development financing arm of French public financial institution Caisse des Dépôts, announced that it has acquired a stake in sustainable finance-focused ratings and research provider EthiFinance through a capital increase aimed at supporting the company’s expansion in Europe. Launched in 2004, Paris-based EthiFinance is an independent European credit and sustainability rating agency, providing investors, banks, insurance companies, and corporates with analysis and ratings to help navigate the challenges of…",
+      "url": "https://www.esgtoday.com/banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance/?utm_source=rss utm_medium=rss utm_campaign=banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance",
+      "publishedAt": "2026-11-19T12:21:36.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EthiFinance-Sirou.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-pantheon-invests-600-million-in-mirova-e-2026-11-19",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Pantheon Invests $600 Million in Mirova Energy Transition Portfolio",
+      "excerpt": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers, and London-based private markets investor Pantheon announced the launch of a new energy transition-focused investment partnership, including a €548 million (USD$603 million) secondary transaction aimed at providing growth capital for Mirova’s European renewable energy investment platforms and liquidity for existing investors. Pantheon is the sole third-party investor in the transaction, which the company said was designed to balance the interests of existing investors,…",
+      "url": "https://www.esgtoday.com/pantheon-invests-600-million-in-mirova-energy-transition-portfolio/?utm_source=rss utm_medium=rss utm_campaign=pantheon-invests-600-million-in-mirova-energy-transition-portfolio",
+      "publishedAt": "2026-11-19T12:00:46.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Pantheon-Cullen.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-tnfd-urges-issb-to-issue-mandatory-natur-2026-11-19",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "TNFD Urges ISSB to Issue Mandatory Nature-Related Reporting Standard",
+      "excerpt": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability Standards Board (ISSB) to develop a standalone standard for corporate reporting on nature-related risks, dependencies and opportunities, instead of its current plans for voluntary Practice Statement, and to set a timeline for mandatory application of the standard’s reporting requirements. Released in response to the ISSB’s consultation on its proposed Practice Statement, the TNFD said that a mandatory standard would be best…",
+      "url": "https://www.esgtoday.com/tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss utm_medium=rss utm_campaign=tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
+      "publishedAt": "2026-11-19T10:45:51.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/IFRS.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Reporting",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "verra-consultation-on-long-term-average-tool-f-2026-11-18",
       "source": "verra",
@@ -1512,7 +1659,7 @@
       "excerpt": "As the company behind artificial intelligence platform Claude heads towards its initial public offering, investors are flagging ESG risks in the company s business model and financials.",
       "url": "https://www.esgdive.com/news/anthropic-labeled-high-risk-as-investors-concerns-rise-pre-ipo/875041/",
       "publishedAt": "2026-11-18T16:54:00.000Z",
-      "image": "https://imgproxy.divecdn.com/l87hR8OlioFQjpxE6B_dC8QZioNsfrBDVROWubi9ofg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbW9kZWkuanBn.webp",
+      "image": "https://imgproxy.divecdn.com/pDxKQKtWTVPDKdaN4msiFVHiIDZ8DBxQF3_SI1mqeQM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk1NTY2OTExLmpwZw==.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -1657,72 +1804,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-macquarie-revera-team-up-to-build-batter-2026-11-18",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Macquarie, Revera Team Up to Build Battery Storage Portfolio in UK",
-      "excerpt": "Carlyle-backed energy infrastructure company Revera Energy announced the launch of a strategic joint venture with Macquarie Capital, aimed at supporting the development of the company’s 1 GW battery energy storage system (BESS) portfolio in Scotland. Launched last year by private capital investment firm Carlyle, London-based Revera develops, constructs, owns and operates battery storage, renewable energy and green hydrogen projects across Australia and the UK. Under the new agreement, Macquarie Capital will invest alongside Revera in two…",
-      "url": "https://www.esgtoday.com/macquarie-launches-battery-storage-jv-with-carlyle-backed-revera-energy/?utm_source=rss utm_medium=rss utm_campaign=macquarie-launches-battery-storage-jv-with-carlyle-backed-revera-energy",
-      "publishedAt": "2026-11-18T08:25:58.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Macquarie.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-eu-greenlights-10-billion-dutch-offshore-2026-11-18",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EU Greenlights $10 Billion Dutch Offshore Wind Energy Scheme",
-      "excerpt": "The European Commission announced today that it has approved a €9.5 billion (USD$10.4 billion) state aid program by the Netherlands aimed at supporting the construction of new offshore wind farms in the North Sea. According to the Commission, the Dutch aid program will support the construction of two offshore wind farms with a combined capacity of 2 GW and expected generation of up to 7,441 GWh of renewable electricity annually. The Netherlands estimates that the projects will avoid approximately 147 million tonnes of CO2 equivalent over their lifetimes.",
-      "url": "https://www.esgtoday.com/eu-greenlights-10-billion-dutch-offshore-wind-energy-scheme/?utm_source=rss utm_medium=rss utm_campaign=eu-greenlights-10-billion-dutch-offshore-wind-energy-scheme",
-      "publishedAt": "2026-11-18T08:22:22.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Wind-offshore-EU.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-amazon-targets-7-billion-in-new-renewabl-2026-11-17",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "Amazon Targets $7 Billion in New Renewable Energy Investments in India by 2030",
-      "excerpt": "Amazon announced plans to significantly grow its clean energy portfolio in India, with the company expecting to invest $7 billion in renewable energy projects by 2030, and announcing long-term contracts for over 900 MW of power from new utility-scale wind and solar projects in the country. The announcement was made alongside the launch of a new target by Amazon to cut the carbon intensity of the electricity used to power its global operations by 65% by 2030, on a 2019 basis. Amazon is already one of the largest corporate purchasers of carbon-free energy…",
-      "url": "https://www.esgtoday.com/amazon-targets-7-billion-in-new-renewable-energy-investments-in-india-by-2030/?utm_source=rss utm_medium=rss utm_campaign=amazon-targets-7-billion-in-new-renewable-energy-investments-in-india-by-2030",
-      "publishedAt": "2026-11-17T17:33:04.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Amazon1.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "india"
-    },
-    {
       "id": "esg-dive-levi-s-appoints-new-cso-to-help-decarbon-2026-11-17",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -1763,72 +1844,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-google-expands-clean-energy-portfolio-wi-2026-11-17",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Google Expands Clean Energy Portfolio with First Superhot Geothermal Power Deal",
-      "excerpt": "Superhot geothermal project developer Quaise announced that it has signed its first power purchase agreement, with Google agreeing to purchase carbon-free energy from Quaise’s flagship project in Central Oregon to support its data center operations, beginning as soon as 2030. Founded in 2018 as a spinout from the Massachusetts Institute of Technology, Cambridge-based Quaise develops solutions aimed at harnessing superhot geothermal energy far below the surface, to enable power generation that can rival the output of fossil fuel and nuclear plants. The…",
-      "url": "https://www.esgtoday.com/google-signs-clean-power-purchase-deal-with-superhot-geothermal-energy-developer-quaise/?utm_source=rss utm_medium=rss utm_campaign=google-signs-clean-power-purchase-deal-with-superhot-geothermal-energy-developer-quaise",
-      "publishedAt": "2026-11-17T15:26:08.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Quaise2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-ul-solutions-to-acquire-supply-chain-sus-2026-11-17",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "UL Solutions to Acquire Supply Chain Sustainability Data Platform Worldly for $350 Million",
-      "excerpt": "Applied safety science company UL Solutions announced on Tuesday an agreement to acquire supply chain sustainability data and analytics solutions platform Worldly, in a transaction valuing the company at an enterprise value of $350 million. According to UL Solutions, the transaction is aimed at growing its software growth strategy, while strengthening its supply chain intelligence solutions to enable companies to bring safer, more sustainable and responsibly made products to market. California-based Worldly was launched in 2019 to host the Higg Index, a…",
-      "url": "https://www.esgtoday.com/ul-solutions-to-acquire-supply-chain-sustainability-data-platform-worldly-for-350-million/?utm_source=rss utm_medium=rss utm_campaign=ul-solutions-to-acquire-supply-chain-sustainability-data-platform-worldly-for-350-million",
-      "publishedAt": "2026-11-17T14:05:01.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/UL-Solutions.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-audi-launches-circular-economy-business--2026-11-17",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Audi Launches Circular Economy Business to Tap New Markets, Secure Raw Materials",
-      "excerpt": "Automotive manufacturer Audi announced the establishment of Audi Circular Solutions GmbH, a new division focused on reusing vehicle parts and recovering recycled raw materials for use in the company s supply chain. According to Audi, the new subsidiary will build a new line of business for the company, aimed at turning the circular economy into a profitable business model centered on reusing vehicle parts and recovering valuable materials. Beginning operations in early 2027, the new division will initially establish a central sales channel for used…",
-      "url": "https://www.esgtoday.com/audi-launches-circular-economy-business-to-tap-new-markets-secure-raw-materials/?utm_source=rss utm_medium=rss utm_campaign=audi-launches-circular-economy-business-to-tap-new-markets-secure-raw-materials",
-      "publishedAt": "2026-11-17T12:43:09.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Audi-Circular.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -1929,19 +1944,17 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
-      "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
-      "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
+      "excerpt": "The Ultimate Guide to Understanding Carbon Credits CarbonCredits.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
       "publishedAt": "2026-11-13T17:16:24.000Z",
-      "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
-        "imageSource": "publisher"
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en"
       },
       "region": "india"
     },
@@ -2023,28 +2036,6 @@
       "url": "https://www.esgdive.com/news/platform-launched-at-cop31-aims-to-scale-transition-capital-in-emerging-mar/874527/",
       "publishedAt": "2026-11-12T15:45:00.000Z",
       "image": "https://imgproxy.divecdn.com/cFD8B0BcYlveVU0_xKLKyEJXGWPo9TDccayDsg3QbFQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAzOTkzMjU1LmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-nvidia-ceo-resigns-amid-scandal-cfo-name-2026-11-12",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Nvidia CEO resigns amid scandal; CFO named interim",
-      "excerpt": "Jensen Huang resigned effective immediately, with the chipmaker naming its long-time CFO Colette Kress as interim CEO until a permanent successor is found, Nvidia announced Thursday.",
-      "url": "https://www.esgdive.com/news/nvidia-ceo-resigns-scandal-cfo-named-interim-ceo-ai/874506/",
-      "publishedAt": "2026-11-12T15:06:00.000Z",
-      "image": "https://imgproxy.divecdn.com/F0KZ_t3vSV7XUlwg13_F5g6zsZ9EHYPxZINu-nt7PEg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxMzI4MDE3LmpwZ19yZXNpemUuanBn.webp",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2619,19 +2610,17 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "CBAM trends in Indian industries - EY",
-      "excerpt": "Insights AI CFO CEO EY Transformation Services AI Agentic AI AI Ready Data ey.ai The Reimagination Engine Physical AI Responsible AI Assurance Services Climate Change and Sustainability Services Financial Accounting and Advisory Services Forensic and Integrity Services Consulting Cybersecurity Digital Transformation People and Workforce Risk Consulting Services Supply Chain Management and Operations Technology Transformation Global Capability Centers Capability Center-as-a-Service (CaaS) EY GCC Exchange: Video Series EY GCC Leadership Dialogues The FS…",
-      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-indian-industries-are-adapting-to-cbam-and-carbon-pricing",
+      "excerpt": "CBAM trends in Indian industries EY",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
       "publishedAt": "2026-04-03T07:24:04.000Z",
-      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/images/2026/ey-carbon-stones.jpg",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTdQN21xMnpTcHh1dFRnQTcyMnk4UENWRnE5cEtyc1FUZmlEdUtjR0pDN0JMY3hlODdMTlY2S0x4OEFjN0RROVU0WnhPaS1kREx2OE9DRy1oRU1yeXJ2RjhscG9ZUjB3R2xsTW1zd3Rsa0RkdEhuZ3dJN2ZTcWt1a19LTHlTVkduV0tWOTFrTTF5cEdHRXVWVTg1UE9XSTRHZ3ZBWV9DUHo1Q2RSMWtnUmJGS1VtbUhVNG9TbnA1VHV4YVJraGNjcVBpcjZKSnM?oc=5",
-        "imageSource": "publisher"
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en"
       },
       "region": "india"
     },
@@ -2714,7 +2703,7 @@
       "accent": "#86efac",
       "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
       "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
-      "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5",
       "publishedAt": "2025-11-12T08:00:00.000Z",
       "image": null,
       "country": null,
@@ -2723,8 +2712,7 @@
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en"
       },
       "region": "world"
     },
@@ -2736,19 +2724,17 @@
       "tag": "INDIA",
       "accent": "#fbbf24",
       "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
-      "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
-      "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
+      "excerpt": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets Fuel Cells Works",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
       "publishedAt": "2025-09-01T07:00:00.000Z",
-      "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
+      "image": null,
       "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
-        "imageSource": "publisher"
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en"
       },
       "region": "india"
     },
@@ -2880,7 +2866,7 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "Creating carbon offset units on the voluntary market | Global law firm - Norton Rose Fulbright",
-      "excerpt": "The SEC has proposed a sweeping rewrite of Item 402 of Regulation S-K, the Proposed Rule, that streamlines the disclosure process and may result in an overall reduction of the related administrative burden.",
+      "excerpt": "On 16 November 2001, the Convention on International Interests in Mobile Equipment — widely known as the Cape Town Convention — was signed in Cape Town, South Africa. Together with the associated Protocol on Matters Specific to Aircraft Equipment (collectively, CTC), it has become central to many international aircraft finance and leasing transactions.",
       "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/6f326481/creating-carbon-offset-units-on-the-voluntary-market",
       "publishedAt": "2022-02-22T19:16:56.000Z",
       "image": "https://www.nortonrosefulbright.com/-/media/images/nrf/thought-leadership/australia/publications/hand-and-tree.jpg?revision=199a6252-fda6-4068-a7f3-8c0b3fff7a19&revision=5249493629607387904",
