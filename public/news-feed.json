@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-20T07:58:18.922Z",
+  "fetchedAt": "2026-11-20T15:58:38.366Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -48,7 +48,7 @@
     "india": 17,
     "world": 45,
     "withImages": 57,
-    "avgExcerptLength": 449,
+    "avgExcerptLength": 455,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -85,17 +85,19 @@
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
         "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
-        "excerpt": "The Ultimate Guide to Understanding Carbon Credits CarbonCredits.com",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+        "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+        "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
         "publishedAt": "2026-11-13T17:16:24.000Z",
-        "image": null,
+        "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en"
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -459,6 +461,72 @@
     ],
     "world": [
       {
+        "id": "esg-today-environmental-defense-fund-appoints-beat-2026-11-20",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Environmental Defense Fund Appoints Beatriz Da Cunha as Head of Sustainable Finance",
+        "excerpt": "Climate change-focused environmental non-profit Environmental Defense Fund (EDF) has appointed Beatriz Da Cunha as its new Head of Sustainable Finance under its private sector partnership unit, EDF+Business. The announcement follows the departure earlier this year of EDF’s Managing Director of Sustainable Finance, Leslie Labruto, who had led the sustainable finance team since 2023, which is focused on mobilizing finance for decarbonization across emissions-intensive sectors including oil and gas, food and agriculture, and transportation, working with…",
+        "url": "https://www.esgtoday.com/environmental-defense-fund-appoints-beatriz-da-cunha-as-head-of-sustainable-finance/?utm_source=rss utm_medium=rss utm_campaign=environmental-defense-fund-appoints-beatriz-da-cunha-as-head-of-sustainable-finance",
+        "publishedAt": "2026-11-20T13:10:59.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EDF-Da-Cunha.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Executive Moves",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-sfdr-2-0-eu-strikes-deal-on-new-sustaina-2026-11-20",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "SFDR 2.0: EU Strikes Deal on New Sustainable Fund Rules",
+        "excerpt": "Lawmakers in the European Parliament and EU Member States announced that they have reached a deal on a major revamp of the Sustainable Finance Disclosure Regulation (SFDR), the EU’s key legislation setting out how financial market participants have to disclose sustainability information for their investment products. One of the most significant changes to the regulation is the creation of three new categories for financial products making ESG claims, with the negotiations between lawmakers and member states hinging largely on the treatment of fossil…",
+        "url": "https://www.esgtoday.com/sfdr-2-0-eu-strikes-deal-on-new-sustainable-investment-product-categories/?utm_source=rss utm_medium=rss utm_campaign=sfdr-2-0-eu-strikes-deal-on-new-sustainable-investment-product-categories",
+        "publishedAt": "2026-11-20T10:13:22.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-flags-1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Government",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-commercial-bank-international-adds-carbo-2026-11-20",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Commercial Bank International Adds Carbon Footprint of Client Spending to Bank Statements",
+        "excerpt": "UAE-based bank Commercial Bank International (CBI) announced the launch of its new Carbon Footprint Report, providing clients a view of the estimated climate impact of their spending activity. Announced as past of a partnership with carbon project developer Boomitra, the new report will be provided to clients alongside voluntary access to purchase Boomitra’s soil carbon removal credits to address their carbon footprint. According to CBI, the new carbon footprint report will provide estimated emissions by spending category through clients’ monthly…",
+        "url": "https://www.esgtoday.com/commercial-bank-international-adds-carbon-footprint-of-client-spending-to-bank-statements/?utm_source=rss utm_medium=rss utm_campaign=commercial-bank-international-adds-carbon-footprint-of-client-spending-to-bank-statements",
+        "publishedAt": "2026-11-20T08:21:07.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/CBI.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "ESG Tools, Services",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "verra-consultation-new-improved-forest-managem-2026-11-19",
         "source": "verra",
         "sourceName": "Verra",
@@ -766,72 +834,6 @@
           "category": "Announcements",
           "feed": "https://verra.org/feed/",
           "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-tesco-asks-400-key-suppliers-to-join-emi-2026-11-18",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Tesco Asks 400 Key Suppliers to Join Emissions Data Sharing Program",
-        "excerpt": "UK-based grocery retailer Tesco announced a partnership with climate data platform OpenClimat to launch its Climate Supplier Programme, inviting approximately 400 suppliers, representing more than 80% of its grocery supply chain by value in the UK and the Republic of Ireland, to participate in an initiative aimed at reducing supply chain emissions. Founded in 2022, Paris-based OpenClimat operates a platform connecting retailers and manufacturers across Europe to centralize, standardize and verify greenhouse gas emissions data, monitor suppliers climate…",
-        "url": "https://www.esgtoday.com/tesco-asks-400-key-suppliers-to-join-emissions-data-sharing-program/?utm_source=rss utm_medium=rss utm_campaign=tesco-asks-400-key-suppliers-to-join-emissions-data-sharing-program",
-        "publishedAt": "2026-11-18T12:26:54.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Tesco3.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Companies",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-eqt-to-acquire-u-s-battery-storage-devel-2026-11-18",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EQT to Acquire U.S. Battery Storage Developer Flatiron",
-        "excerpt": "Private equity and venture capital investor EQT Group announced that it has entered into a definitive agreement to acquire energy storage developer Flatiron Energy from energy infrastructure investment firm Hull Street Energy. Founded in 2021, Denver-based Flatiron develops, builds, owns and operates utility-scale battery storage projects across New England, New York and the Mid-Atlantic region, focusing on markets with high electricity demand and constrained grid capacity. Its projects aim to improve grid reliability during periods of peak demand. The…",
-        "url": "https://www.esgtoday.com/eqt-to-acquire-u-s-battery-storage-developer-flatiron/?utm_source=rss utm_medium=rss utm_campaign=eqt-to-acquire-u-s-battery-storage-developer-flatiron",
-        "publishedAt": "2026-11-18T12:15:48.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EQT3.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-when-climate-regulation-becomes-a-barrie-2026-11-18",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "When Climate Regulation Becomes a Barrier to Climate Action",
-        "excerpt": "The Paris Agreement was conceived as a bold, ambitious framework to unite nations in a common effort against climate change. Article 6, which established mechanisms for international carbon trading, was meant to be the financial engine of that ambition channeling private capital toward emissions reductions at scale. Instead, the rules that have emerged from years of painstaking negotiation, particularly the requirements for Corresponding Adjustments (CAs) and Letters of Authorization (LoAs), have created a regulatory labyrinth so impenetrable that they…",
-        "url": "https://www.esgtoday.com/when-climate-regulation-becomes-a-barrier-to-climate-action/?utm_source=rss utm_medium=rss utm_campaign=when-climate-regulation-becomes-a-barrier-to-climate-action",
-        "publishedAt": "2026-11-18T12:01:59.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Paris-Agreement-signing.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1457,10 +1459,10 @@
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
         "title": "Creating carbon offset units on the voluntary market | Global law firm - Norton Rose Fulbright",
-        "excerpt": "The amendments to Mexico’s Foreign Investment Law discussed in our September 2026 publication, Material changes to foreign investment rules in Mexico incoming, have been published in the Federal Gazette.",
+        "excerpt": "Creating carbon offset units on the voluntary market | Global law firm Norton Rose Fulbright",
         "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/6f326481/creating-carbon-offset-units-on-the-voluntary-market",
         "publishedAt": "2022-02-22T19:16:56.000Z",
-        "image": "https://www.nortonrosefulbright.com/-/media/images/nrf/thought-leadership/australia/publications/hand-and-tree.jpg?revision=199a6252-fda6-4068-a7f3-8c0b3fff7a19&revision=5249493629607387904",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1468,14 +1470,79 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXZXNnBDS1Q4NTR0TUVMaWZ3eml4T0VQWS1EZVRrXzNqbTFEeHlNcEVXYjVRdi04M0lRY2c4cWpaWFhyQzV0SUtPamFxSkdtcmE4c3dsa19QSi1jTGZUeUhmbkg3bWhMVXNSV014dlhael9KQ2RwNDVROHRUczNycTZhalVTVHlBUzFlT2pua0N3a1J2MFdnSThfSFEtWXRTT0ptbW9xOGJLV19hQzhlWUlaWUR2eThZUmVTNkY1dC0?oc=5",
-          "imageSource": "publisher"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXZXNnBDS1Q4NTR0TUVMaWZ3eml4T0VQWS1EZVRrXzNqbTFEeHlNcEVXYjVRdi04M0lRY2c4cWpaWFhyQzV0SUtPamFxSkdtcmE4c3dsa19QSi1jTGZUeUhmbkg3bWhMVXNSV014dlhael9KQ2RwNDVROHRUczNycTZhalVTVHlBUzFlT2pua0N3a1J2MFdnSThfSFEtWXRTT0ptbW9xOGJLV19hQzhlWUlaWUR2eThZUmVTNkY1dC0?oc=5"
         },
         "region": "world"
       }
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-environmental-defense-fund-appoints-beat-2026-11-20",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Environmental Defense Fund Appoints Beatriz Da Cunha as Head of Sustainable Finance",
+      "excerpt": "Climate change-focused environmental non-profit Environmental Defense Fund (EDF) has appointed Beatriz Da Cunha as its new Head of Sustainable Finance under its private sector partnership unit, EDF+Business. The announcement follows the departure earlier this year of EDF’s Managing Director of Sustainable Finance, Leslie Labruto, who had led the sustainable finance team since 2023, which is focused on mobilizing finance for decarbonization across emissions-intensive sectors including oil and gas, food and agriculture, and transportation, working with…",
+      "url": "https://www.esgtoday.com/environmental-defense-fund-appoints-beatriz-da-cunha-as-head-of-sustainable-finance/?utm_source=rss utm_medium=rss utm_campaign=environmental-defense-fund-appoints-beatriz-da-cunha-as-head-of-sustainable-finance",
+      "publishedAt": "2026-11-20T13:10:59.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EDF-Da-Cunha.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Executive Moves",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-sfdr-2-0-eu-strikes-deal-on-new-sustaina-2026-11-20",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "SFDR 2.0: EU Strikes Deal on New Sustainable Fund Rules",
+      "excerpt": "Lawmakers in the European Parliament and EU Member States announced that they have reached a deal on a major revamp of the Sustainable Finance Disclosure Regulation (SFDR), the EU’s key legislation setting out how financial market participants have to disclose sustainability information for their investment products. One of the most significant changes to the regulation is the creation of three new categories for financial products making ESG claims, with the negotiations between lawmakers and member states hinging largely on the treatment of fossil…",
+      "url": "https://www.esgtoday.com/sfdr-2-0-eu-strikes-deal-on-new-sustainable-investment-product-categories/?utm_source=rss utm_medium=rss utm_campaign=sfdr-2-0-eu-strikes-deal-on-new-sustainable-investment-product-categories",
+      "publishedAt": "2026-11-20T10:13:22.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-flags-1.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Government",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-commercial-bank-international-adds-carbo-2026-11-20",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Commercial Bank International Adds Carbon Footprint of Client Spending to Bank Statements",
+      "excerpt": "UAE-based bank Commercial Bank International (CBI) announced the launch of its new Carbon Footprint Report, providing clients a view of the estimated climate impact of their spending activity. Announced as past of a partnership with carbon project developer Boomitra, the new report will be provided to clients alongside voluntary access to purchase Boomitra’s soil carbon removal credits to address their carbon footprint. According to CBI, the new carbon footprint report will provide estimated emissions by spending category through clients’ monthly…",
+      "url": "https://www.esgtoday.com/commercial-bank-international-adds-carbon-footprint-of-client-spending-to-bank-statements/?utm_source=rss utm_medium=rss utm_campaign=commercial-bank-international-adds-carbon-footprint-of-client-spending-to-bank-statements",
+      "publishedAt": "2026-11-20T08:21:07.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/CBI.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "ESG Tools, Services",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "verra-consultation-new-improved-forest-managem-2026-11-19",
       "source": "verra",
@@ -1810,72 +1877,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-tesco-asks-400-key-suppliers-to-join-emi-2026-11-18",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Tesco Asks 400 Key Suppliers to Join Emissions Data Sharing Program",
-      "excerpt": "UK-based grocery retailer Tesco announced a partnership with climate data platform OpenClimat to launch its Climate Supplier Programme, inviting approximately 400 suppliers, representing more than 80% of its grocery supply chain by value in the UK and the Republic of Ireland, to participate in an initiative aimed at reducing supply chain emissions. Founded in 2022, Paris-based OpenClimat operates a platform connecting retailers and manufacturers across Europe to centralize, standardize and verify greenhouse gas emissions data, monitor suppliers climate…",
-      "url": "https://www.esgtoday.com/tesco-asks-400-key-suppliers-to-join-emissions-data-sharing-program/?utm_source=rss utm_medium=rss utm_campaign=tesco-asks-400-key-suppliers-to-join-emissions-data-sharing-program",
-      "publishedAt": "2026-11-18T12:26:54.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Tesco3.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Companies",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-eqt-to-acquire-u-s-battery-storage-devel-2026-11-18",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EQT to Acquire U.S. Battery Storage Developer Flatiron",
-      "excerpt": "Private equity and venture capital investor EQT Group announced that it has entered into a definitive agreement to acquire energy storage developer Flatiron Energy from energy infrastructure investment firm Hull Street Energy. Founded in 2021, Denver-based Flatiron develops, builds, owns and operates utility-scale battery storage projects across New England, New York and the Mid-Atlantic region, focusing on markets with high electricity demand and constrained grid capacity. Its projects aim to improve grid reliability during periods of peak demand. The…",
-      "url": "https://www.esgtoday.com/eqt-to-acquire-u-s-battery-storage-developer-flatiron/?utm_source=rss utm_medium=rss utm_campaign=eqt-to-acquire-u-s-battery-storage-developer-flatiron",
-      "publishedAt": "2026-11-18T12:15:48.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EQT3.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-when-climate-regulation-becomes-a-barrie-2026-11-18",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "When Climate Regulation Becomes a Barrier to Climate Action",
-      "excerpt": "The Paris Agreement was conceived as a bold, ambitious framework to unite nations in a common effort against climate change. Article 6, which established mechanisms for international carbon trading, was meant to be the financial engine of that ambition channeling private capital toward emissions reductions at scale. Instead, the rules that have emerged from years of painstaking negotiation, particularly the requirements for Corresponding Adjustments (CAs) and Letters of Authorization (LoAs), have created a regulatory labyrinth so impenetrable that they…",
-      "url": "https://www.esgtoday.com/when-climate-regulation-becomes-a-barrier-to-climate-action/?utm_source=rss utm_medium=rss utm_campaign=when-climate-regulation-becomes-a-barrier-to-climate-action",
-      "publishedAt": "2026-11-18T12:01:59.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Paris-Agreement-signing.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "esg-dive-levi-s-appoints-new-cso-to-help-decarbon-2026-11-17",
       "source": "esg-dive",
       "sourceName": "ESG Dive",
@@ -2016,17 +2017,19 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
-      "excerpt": "The Ultimate Guide to Understanding Carbon Credits CarbonCredits.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+      "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
+      "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
       "publishedAt": "2026-11-13T17:16:24.000Z",
-      "image": null,
+      "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
       "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en"
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -2876,10 +2879,10 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "Creating carbon offset units on the voluntary market | Global law firm - Norton Rose Fulbright",
-      "excerpt": "The amendments to Mexico’s Foreign Investment Law discussed in our September 2026 publication, Material changes to foreign investment rules in Mexico incoming, have been published in the Federal Gazette.",
+      "excerpt": "Creating carbon offset units on the voluntary market | Global law firm Norton Rose Fulbright",
       "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/6f326481/creating-carbon-offset-units-on-the-voluntary-market",
       "publishedAt": "2022-02-22T19:16:56.000Z",
-      "image": "https://www.nortonrosefulbright.com/-/media/images/nrf/thought-leadership/australia/publications/hand-and-tree.jpg?revision=199a6252-fda6-4068-a7f3-8c0b3fff7a19&revision=5249493629607387904",
+      "image": null,
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2887,8 +2890,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXZXNnBDS1Q4NTR0TUVMaWZ3eml4T0VQWS1EZVRrXzNqbTFEeHlNcEVXYjVRdi04M0lRY2c4cWpaWFhyQzV0SUtPamFxSkdtcmE4c3dsa19QSi1jTGZUeUhmbkg3bWhMVXNSV014dlhael9KQ2RwNDVROHRUczNycTZhalVTVHlBUzFlT2pua0N3a1J2MFdnSThfSFEtWXRTT0ptbW9xOGJLV19hQzhlWUlaWUR2eThZUmVTNkY1dC0?oc=5",
-        "imageSource": "publisher"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXZXNnBDS1Q4NTR0TUVMaWZ3eml4T0VQWS1EZVRrXzNqbTFEeHlNcEVXYjVRdi04M0lRY2c4cWpaWFhyQzV0SUtPamFxSkdtcmE4c3dsa19QSi1jTGZUeUhmbkg3bWhMVXNSV014dlhael9KQ2RwNDVROHRUczNycTZhalVTVHlBUzFlT2pua0N3a1J2MFdnSThfSFEtWXRTT0ptbW9xOGJLV19hQzhlWUlaWUR2eThZUmVTNkY1dC0?oc=5"
       },
       "region": "world"
     }
