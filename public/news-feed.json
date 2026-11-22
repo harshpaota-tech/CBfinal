@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-21T23:41:26.824Z",
+  "fetchedAt": "2026-11-22T07:40:57.892Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 17,
     "world": 45,
-    "withImages": 56,
-    "avgExcerptLength": 446,
+    "withImages": 58,
+    "avgExcerptLength": 456,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -85,10 +85,10 @@
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
         "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
-        "excerpt": "The Ultimate Guide to Understanding Carbon Credits CarbonCredits.com",
+        "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
         "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
         "publishedAt": "2026-11-13T17:16:24.000Z",
-        "image": null,
+        "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -96,7 +96,32 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-h2-towards-sustainable-growth-how-india-s-g-2026-09-17",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Towards Sustainable Growth: How India’s Green Energy Incentives Are Reshaping The Regulatory And Investment Landscape - Legal 500",
+        "excerpt": "India s renewable energy framework combines ambitious climate targets with an evolving regulatory architecture spanning green hydrogen missions, carbon trading…",
+        "url": "https://www.legal500.com/intelligence/india/energy-and-natural-resources/towards-sustainable-growth-how-indias-green-energy-incentives-are-reshaping-the-regulatory-and-investment-landscape",
+        "publishedAt": "2026-09-17T06:48:55.000Z",
+        "image": "https://www.legal500.com/assets/dynamic/2a54f469863cf85968c965949f7daf401ba7fc401194ae0f3749f2114340efad/2-mco-logo-page-0001.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOHkyRVpzekJVSTM0TkxsRzBCa05RNHJwWmQycnZuZ25pMzNDTUNLaGlKQTlGck8takdlM0FOMHc4RzJnSVZWYUVJS19McGVnYlFGRU1JN1RUZnNQWWVSdW5fYkNnQW13UXVsNGxMeWpOS1BrM2VCVDVuMUc4MEw5TEQxTTNFMEY5Z1F4MVY3ODNkRG1yVmVBMWdRTmNJUVZiOFBMSUM1MF9ldzEzWUlKYnl4VUJTZ2prYzlxWVhlYU9venVvaC1SZEFwSjllMmtUSTFNc2lmS210NW9ETTA3TndlZ25Tbk4xYXlqbDM5ZDdZZmQySVN4WkF4Sl9OemJoUEVSbUhDWnNybzlhQS1GWWNadnZrZWM?oc=5",
+          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -220,30 +245,6 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-s-carbon-credit-trading-scheme-a-s-2026-07-14",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India's Carbon Credit Trading Scheme: A strong start, critical design choices ahead - Institute for Energy Economics and Financial Analysis (IEEFA)",
-        "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language Decarbonization Energy Transition &…",
-        "url": "https://ieefa.org/articles/indias-carbon-credit-trading-scheme-strong-start-critical-design-choices-ahead",
-        "publishedAt": "2026-07-14T05:40:13.000Z",
-        "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTlicVN3VGw3eTQ1V2xzOS0zWnc2QlhQU1lpM3ppUDVYeHB0UGxFWDB3ZDNCRDh1SHlxSHh4cjZ0bk1ZU0RzUDdSN0dELVlxWHhVRU9nSzdaeWRraDYycFF2UzRjLUFIcmlGblNYODFDU010U2tGQzdKRUZlX1BMZ2VRbXpYeEpzNy1oNjVrNmZjV3ZZQkpnWWZpTUZ0ZHVYWDUyMXpDUU0?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-design-without-discipline-the-role-of-in-2026-07-13",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -287,6 +288,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQdFhVSkpCTnJ3RWpUVGI4Qnp6aHBrUU5DT3F2Y2Z4M25SUk5hSE1yQXhxQnZKVkZtRW5FSE1EXzYxejctczNZeHBUd3FYVlp4QzE4ektSMUI2d21iaWhxQ2tuV2VSZkUzc2RIUnJxYVZOMGdabGhBSFp0LUtoS0FYdXJ1YnUyQ3Q3ZzluVmhLYUJKN2Eyb2hSVTF0aUt2SUhxRGd4T19lblVQRF9NMEI0ZE1HMERzZXpUVW9uMmRlSmxCNHJJbFU4UGNnVklERmJFNm1IWnlobnEwX0ptZzlXUTFpbjBYMV9zV09YMGJxbnltY0ItZXE2a3JuVUNtbXM5Q3dMSGVXREdsUncxUUhoYW5sRlFJLWRESHM4NUF5MVlCanJ5TU1PVlo0Sk9YVkNJRDRKd3p3SlNhdVJa?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-residential-training-programme-on-carbon-2026-04-24",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Residential Training Programme on: Carbon Accounting, MRV and Trading - cseindia.org",
+        "excerpt": "About Us Who We Are Our Board Our Leadership Annual Reports Programmes Biodiversity and Food Overview My Food Story The Green Kitchen Clean Air and Sustainable Mobility Overview Air Quality and Public Health Public Transport and Mobility Vehicle Technology and Fuel City Action Training EPCA Climate Change and Green Economy Overview COPs COP31 COP30 COP29 COP28 UAE Negotiations Carbon Politics Adaptation Environment Monitoring Laboratory Environment Education Overview YOUNG Environmentalist GSP University Programme Green Educators' Network Renewable…",
+        "url": "https://www.cseindia.org/residential-training-programme-on-carbon-accounting-mrv-and-trading-13085",
+        "publishedAt": "2026-04-24T11:04:08.000Z",
+        "image": "https://cdn.cseindia.org/medium/2026-04-24/0.34649300_1777028381_mrv.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnNmZTEwd0xUakRpWVU5aVR5RExBTDc4SGlXaE9FWEZja3l4VXNtY2NCTEUxdGl3WHBmakcwVXY1eWlUTXQ2Mmk0X0F4dVZ1Szc1NEhMU3pweGRDcXVjLTZvNHI1QzM2UzF5Y3lSQWNfeFJMYVhZWVpWZ1JtX2xDYmZObjVxNXNiOG80QnQzVlhvREdJam9fbWs4QVZzcDA?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -382,30 +407,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
-        "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
-        "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-          "imageSource": "publisher"
         },
         "region": "india"
       },
@@ -1409,10 +1410,10 @@
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
         "title": "The 4 Best Carbon Offset Programs for 2024 - CarbonCredits.com",
-        "excerpt": "The 4 Best Carbon Offset Programs for 2024 CarbonCredits.com",
+        "excerpt": "The world of carbon offsets and carbon offset programs can be quite complex and intimidating. So, if you’re looking for the best carbon offset programs for 2024 but don’t know your options, this article will guide you through. You’ll learn the important concepts, which carbon offset program should you choose, and why investing in this space matters. First things first. We need to define what does it mean by a carbon offset. And so carbon offsetting means financially supporting a project that can reduce emissions. Carbon offsets are produced by companies…",
         "url": "https://carboncredits.com/the-4-best-carbon-offset-programs-for-2023/",
         "publishedAt": "2022-06-29T07:00:00.000Z",
-        "image": null,
+        "image": "https://carboncredits.com/wp-content/uploads/2022/06/4-best-carbon-offset-programs-for-2023.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1420,7 +1421,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40UnhkS3p0eEZ4UHYzUVpjRzFlXzhkcW1RUmhoeEcxRzU3WjNxN2pjdGRKZHo2OEZKTkVUcHVsRXhKdFdxeF9xV0VvZ3R2SFh6dUM3ODNSVmVhZ3h5VnlHazZrU2Z1d0IxS3JocXR1WE1mWWRYdzh1TQ?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40UnhkS3p0eEZ4UHYzUVpjRzFlXzhkcW1RUmhoeEcxRzU3WjNxN2pjdGRKZHo2OEZKTkVUcHVsRXhKdFdxeF9xV0VvZ3R2SFh6dUM3ODNSVmVhZ3h5VnlHazZrU2Z1d0IxS3JocXR1WE1mWWRYdzh1TQ?oc=5",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -2059,10 +2061,10 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
-      "excerpt": "The Ultimate Guide to Understanding Carbon Credits CarbonCredits.com",
+      "excerpt": "Carbon Credits are an allowance for a company holding the credits to emit carbon emissions or greenhouse gases. A single credit equals one ton of carbon dioxide to be emitted or the mass equivalent to carbon dioxide for other gases. Companies hold many credits, as many as they wish to purchase to balance out their emissions. A carbon market allows investors and corporations to trade both carbon credits and carbon offsets simultaneously. This mitigates the environmental crisis, while also creating new market opportunities. New challenges nearly always…",
       "url": "https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/",
       "publishedAt": "2026-11-13T17:16:24.000Z",
-      "image": null,
+      "image": "https://carboncredits.com/wp-content/uploads/2024/06/What-are-carbon-credits.png",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2070,7 +2072,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -2344,6 +2347,30 @@
       "region": "world"
     },
     {
+      "id": "google-h2-towards-sustainable-growth-how-india-s-g-2026-09-17",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Towards Sustainable Growth: How India’s Green Energy Incentives Are Reshaping The Regulatory And Investment Landscape - Legal 500",
+      "excerpt": "India s renewable energy framework combines ambitious climate targets with an evolving regulatory architecture spanning green hydrogen missions, carbon trading…",
+      "url": "https://www.legal500.com/intelligence/india/energy-and-natural-resources/towards-sustainable-growth-how-indias-green-energy-incentives-are-reshaping-the-regulatory-and-investment-landscape",
+      "publishedAt": "2026-09-17T06:48:55.000Z",
+      "image": "https://www.legal500.com/assets/dynamic/2a54f469863cf85968c965949f7daf401ba7fc401194ae0f3749f2114340efad/2-mco-logo-page-0001.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOHkyRVpzekJVSTM0TkxsRzBCa05RNHJwWmQycnZuZ25pMzNDTUNLaGlKQTlGck8takdlM0FOMHc4RzJnSVZWYUVJS19McGVnYlFGRU1JN1RUZnNQWWVSdW5fYkNnQW13UXVsNGxMeWpOS1BrM2VCVDVuMUc4MEw5TEQxTTNFMEY5Z1F4MVY3ODNkRG1yVmVBMWdRTmNJUVZiOFBMSUM1MF9ldzEzWUlKYnl4VUJTZ2prYzlxWVhlYU9venVvaC1SZEFwSjllMmtUSTFNc2lmS210NW9ETTA3TndlZ25Tbk4xYXlqbDM5ZDdZZmQySVN4WkF4Sl9OemJoUEVSbUhDWnNybzlhQS1GWWNadnZrZWM?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
       "id": "google-india-india-s-carbon-trading-system-nears-its--2026-09-03",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2487,30 +2514,6 @@
       "region": "india"
     },
     {
-      "id": "google-india-india-s-carbon-credit-trading-scheme-a-s-2026-07-14",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India's Carbon Credit Trading Scheme: A strong start, critical design choices ahead - Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "excerpt": "Search  Subscribe Donate  Language Research Research Hub Explore all IEEFA research & analysis Carbon Capture & Storage Climate Finance Coal Energy Transition & Policy Oil/Gas & LNG Petrochemicals Power & Utilities Renewables & Storage Steel Where we work Global Asia Australia Europe North America South Asia Media & events View the IEEFA Newsroom Press releases Media inquiries Events In the media About What we do Our team Careers Contact us Search  Subscribe Donate  Language Search  Subscribe Donate  Language Decarbonization Energy Transition &…",
-      "url": "https://ieefa.org/articles/indias-carbon-credit-trading-scheme-strong-start-critical-design-choices-ahead",
-      "publishedAt": "2026-07-14T05:40:13.000Z",
-      "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-07/hero%20graphic%20%282%29.jpg?itok=ndbztcZ7",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTlicVN3VGw3eTQ1V2xzOS0zWnc2QlhQU1lpM3ppUDVYeHB0UGxFWDB3ZDNCRDh1SHlxSHh4cjZ0bk1ZU0RzUDdSN0dELVlxWHhVRU9nSzdaeWRraDYycFF2UzRjLUFIcmlGblNYODFDU010U2tGQzdKRUZlX1BMZ2VRbXpYeEpzNy1oNjVrNmZjV3ZZQkpnWWZpTUZ0ZHVYWDUyMXpDUU0?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-design-without-discipline-the-role-of-in-2026-07-13",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2554,6 +2557,30 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQdFhVSkpCTnJ3RWpUVGI4Qnp6aHBrUU5DT3F2Y2Z4M25SUk5hSE1yQXhxQnZKVkZtRW5FSE1EXzYxejctczNZeHBUd3FYVlp4QzE4ektSMUI2d21iaWhxQ2tuV2VSZkUzc2RIUnJxYVZOMGdabGhBSFp0LUtoS0FYdXJ1YnUyQ3Q3ZzluVmhLYUJKN2Eyb2hSVTF0aUt2SUhxRGd4T19lblVQRF9NMEI0ZE1HMERzZXpUVW9uMmRlSmxCNHJJbFU4UGNnVklERmJFNm1IWnlobnEwX0ptZzlXUTFpbjBYMV9zV09YMGJxbnltY0ItZXE2a3JuVUNtbXM5Q3dMSGVXREdsUncxUUhoYW5sRlFJLWRESHM4NUF5MVlCanJ5TU1PVlo0Sk9YVkNJRDRKd3p3SlNhdVJa?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-india-residential-training-programme-on-carbon-2026-04-24",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Residential Training Programme on: Carbon Accounting, MRV and Trading - cseindia.org",
+      "excerpt": "About Us Who We Are Our Board Our Leadership Annual Reports Programmes Biodiversity and Food Overview My Food Story The Green Kitchen Clean Air and Sustainable Mobility Overview Air Quality and Public Health Public Transport and Mobility Vehicle Technology and Fuel City Action Training EPCA Climate Change and Green Economy Overview COPs COP31 COP30 COP29 COP28 UAE Negotiations Carbon Politics Adaptation Environment Monitoring Laboratory Environment Education Overview YOUNG Environmentalist GSP University Programme Green Educators' Network Renewable…",
+      "url": "https://www.cseindia.org/residential-training-programme-on-carbon-accounting-mrv-and-trading-13085",
+      "publishedAt": "2026-04-24T11:04:08.000Z",
+      "image": "https://cdn.cseindia.org/medium/2026-04-24/0.34649300_1777028381_mrv.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnNmZTEwd0xUakRpWVU5aVR5RExBTDc4SGlXaE9FWEZja3l4VXNtY2NCTEUxdGl3WHBmakcwVXY1eWlUTXQ2Mmk0X0F4dVZ1Szc1NEhMU3pweGRDcXVjLTZvNHI1QzM2UzF5Y3lSQWNfeFJMYVhZWVpWZ1JtX2xDYmZObjVxNXNiOG80QnQzVlhvREdJam9fbWs4QVZzcDA?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2649,30 +2676,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU9yeGs5UE1SYWx5VmtMQnphb2ZqcGlNRFl1elVhbWJfbWdIRG9oNy1oUHpmVnpzNEV1RVk3MWpwT3NqeFdmcEZvRkxPSFltYnV2S0w0Ukt1bGNtQTJjU0U4RzBrSkk4dDgxWVZFVWhkRG8zcjQtYXZwdTRZcEtCN9IBhgFBVV95cUxPQU5RcGpkOGF3Z2pVX3RuN1hldHh4TnR1WF9HVUFNWlp0aHNMdFJ2d1BDcU9kTDFVaXRKbVBITlZlbk9ieS1haHE0MmV4dmhBM0p2aDZ0RXBFZFZQanc5WnRJbVN6MU1zazR2bk9jd2dCRXpXUTdNWEUzRW54NGhvR3JiZ2gyZw?oc=5"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
-      "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
-      "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-        "imageSource": "publisher"
       },
       "region": "india"
     },
@@ -2827,10 +2830,10 @@
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
       "title": "The 4 Best Carbon Offset Programs for 2024 - CarbonCredits.com",
-      "excerpt": "The 4 Best Carbon Offset Programs for 2024 CarbonCredits.com",
+      "excerpt": "The world of carbon offsets and carbon offset programs can be quite complex and intimidating. So, if you’re looking for the best carbon offset programs for 2024 but don’t know your options, this article will guide you through. You’ll learn the important concepts, which carbon offset program should you choose, and why investing in this space matters. First things first. We need to define what does it mean by a carbon offset. And so carbon offsetting means financially supporting a project that can reduce emissions. Carbon offsets are produced by companies…",
       "url": "https://carboncredits.com/the-4-best-carbon-offset-programs-for-2023/",
       "publishedAt": "2022-06-29T07:00:00.000Z",
-      "image": null,
+      "image": "https://carboncredits.com/wp-content/uploads/2022/06/4-best-carbon-offset-programs-for-2023.jpg",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2838,7 +2841,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40UnhkS3p0eEZ4UHYzUVpjRzFlXzhkcW1RUmhoeEcxRzU3WjNxN2pjdGRKZHo2OEZKTkVUcHVsRXhKdFdxeF9xV0VvZ3R2SFh6dUM3ODNSVmVhZ3h5VnlHazZrU2Z1d0IxS3JocXR1WE1mWWRYdzh1TQ?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40UnhkS3p0eEZ4UHYzUVpjRzFlXzhkcW1RUmhoeEcxRzU3WjNxN2pjdGRKZHo2OEZKTkVUcHVsRXhKdFdxeF9xV0VvZ3R2SFh6dUM3ODNSVmVhZ3h5VnlHazZrU2Z1d0IxS3JocXR1WE1mWWRYdzh1TQ?oc=5",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
