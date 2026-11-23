@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-23T08:30:29.778Z",
+  "fetchedAt": "2026-11-23T19:05:45.159Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 17,
     "world": 45,
-    "withImages": 59,
-    "avgExcerptLength": 469,
+    "withImages": 57,
+    "avgExcerptLength": 446,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -97,6 +97,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzVtQXdadERidmFhRS1WWHV6Q0xwQ0JBXy1uQ1FUOWI1Y0Y3eDdlRmlvdm9FNWlxMGRQTzYyQjN3QlhhM0lJaGNobEpjSjROTjNlVlRReGNPM0p1bzhJMVVyeWt6eV9IVFJjWFhqcXZpSkJsZklJNktzSDFKLXpkdmpXWQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-h2-towards-sustainable-growth-how-india-s-g-2026-09-17",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Towards Sustainable Growth: How India’s Green Energy Incentives Are Reshaping The Regulatory And Investment Landscape - Legal 500",
+        "excerpt": "India s renewable energy framework combines ambitious climate targets with an evolving regulatory architecture spanning green hydrogen missions, carbon trading…",
+        "url": "https://www.legal500.com/intelligence/india/energy-and-natural-resources/towards-sustainable-growth-how-indias-green-energy-incentives-are-reshaping-the-regulatory-and-investment-landscape",
+        "publishedAt": "2026-09-17T06:48:55.000Z",
+        "image": "https://www.legal500.com/assets/dynamic/2a54f469863cf85968c965949f7daf401ba7fc401194ae0f3749f2114340efad/2-mco-logo-page-0001.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOHkyRVpzekJVSTM0TkxsRzBCa05RNHJwWmQycnZuZ25pMzNDTUNLaGlKQTlGck8takdlM0FOMHc4RzJnSVZWYUVJS19McGVnYlFGRU1JN1RUZnNQWWVSdW5fYkNnQW13UXVsNGxMeWpOS1BrM2VCVDVuMUc4MEw5TEQxTTNFMEY5Z1F4MVY3ODNkRG1yVmVBMWdRTmNJUVZiOFBMSUM1MF9ldzEzWUlKYnl4VUJTZ2prYzlxWVhlYU9venVvaC1SZEFwSjllMmtUSTFNc2lmS210NW9ETTA3TndlZ25Tbk4xYXlqbDM5ZDdZZmQySVN4WkF4Sl9OemJoUEVSbUhDWnNybzlhQS1GWWNadnZrZWM?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -387,30 +411,6 @@
         "region": "india"
       },
       {
-        "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
-        "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
-        "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
@@ -460,6 +460,139 @@
       }
     ],
     "world": [
+      {
+        "id": "esg-dive-how-brooks-running-is-using-supplier-dat-2026-11-23",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "POLICY",
+        "accent": "#5eead4",
+        "title": "How Brooks Running is using supplier data to address human rights risks",
+        "excerpt": "The brand conducts an annual mock detention exercise with suppliers to improve visibility over a broader range of materials and downstream compliance.",
+        "url": "https://www.esgdive.com/news/how-brooks-running-is-using-supplier-data-to-address-human-rights-risks/875326/",
+        "publishedAt": "2026-11-23T17:11:00.000Z",
+        "image": "https://imgproxy.divecdn.com/hgSDgbfCfVPRovwWu1c2n5ip-mBINSqs9oPoPQBkLDQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TMjNfQVBSX1RyYWlsTG9va2Jvb2tfSG9vZFJpdmVyX0ltYWdlXzEuanBn.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-dive-labor-dept-proposes-removing-esg-referen-2026-11-23",
+        "source": "esg-dive",
+        "sourceName": "ESG Dive",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Labor Dept. proposes removing ESG references from 401(k) rule",
+        "excerpt": "The proposed rule would also seek to place a heightened focus on fund managers shareholder engagement and proxy voting activities.",
+        "url": "https://www.esgdive.com/news/labor-dept-proposes-removing-esg-references-from-401k-rule/875492/",
+        "publishedAt": "2026-11-23T16:52:00.000Z",
+        "image": "https://imgproxy.divecdn.com/0LxSrce7OfvZ-m6rfFf19eoy2fO2raxKq91C5n__SkY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI4NTA1NzgzLmpwZw==.webp",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://www.esgdive.com/feeds/news/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "carbon-brief-cop31-key-outcomes-agreed-at-the-un-clim-2026-11-23",
+        "source": "carbon-brief",
+        "sourceName": "Carbon Brief",
+        "type": "esg",
+        "tag": "CLIMATE",
+        "accent": "#34d399",
+        "title": "COP31: Key outcomes agreed at the UN climate talks in Antalya",
+        "excerpt": "Share Article Contents Expand menu Close Formal negotiations Turkish and Australian leadership Cover decision COP reform Adaptation Finance Just transition work programme Loss and damage Gender Article 6 Agriculture and food security Mitigation work programme Response measures Action for climate empowerment Trade Second global stocktake Long-term goal review Around the COP Fossil fuels Action agenda Global leaders Electrification China at COP31 Ocean Deforestation Methane New climate science Food and water NDCs Protests and access Road to COP32 and…",
+        "url": "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya",
+        "publishedAt": "2026-11-23T16:15:51.000Z",
+        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/UNFCCC-COP31-9311_0-1.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Uncategorized",
+          "feed": "https://www.carbonbrief.org/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "verra-projects-open-for-public-comment-novembe-2026-11-23",
+        "source": "verra",
+        "sourceName": "Verra",
+        "type": "announcement",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Projects Open for Public Comment: November 23, 2026",
+        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+        "url": "https://verra.org/projects-open-for-public-comment-november-23-2026/",
+        "publishedAt": "2026-11-23T13:00:00.000Z",
+        "image": "https://verra.org/wp-content/uploads/2023/03/solar-panel-park-anders-j-unsplash.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Announcements",
+          "feed": "https://verra.org/feed/",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-enel-acquires-u-s-solar-portfolio-from-e-2026-11-23",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Enel Acquires U.S. Solar Portfolio from energyRe",
+        "excerpt": "Italian energy company Enel announced an agreement with U.S. energy infrastructure developer energyRe for the acquisition of a portfolio of solar plants located in South Carolina, with a total installed capacity of 317 MW, and an expected average annual production exceeding 540 GWh. The acquisition follows the launch earlier this year by Enel of a 3-year strategic plan , which included plans to dramatically increase investment in renewable energy over the next three years. At the time, Enel said that its investments in renewables are expected to reach…",
+        "url": "https://www.esgtoday.com/enel-acquires-u-s-solar-portfolio-from-energyre/?utm_source=rss utm_medium=rss utm_campaign=enel-acquires-u-s-solar-portfolio-from-energyre",
+        "publishedAt": "2026-11-23T10:50:11.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Enel2.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Energy Transition",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-ardian-raises-over-250-million-for-natur-2026-11-23",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Ardian Raises Over $250 Million for Nature Based Solutions Fund",
+        "excerpt": "Private markets investor Ardian announced that it has raised €230 million (USD$252 million) for its “Averrhoa NBS” strategy, aimed at generating high-quality carbon credits by supporting the development and scaling of projects focused on the preservation and restoration of natural ecosystems, with a target to reduce 85 million tons of carbon over 40 years. Launched in 2023 by Ardian in partnership with nature-based solutions (NBS) project developer aDryada Advisory, Averrhoa NBS invests in reforestation and restoration projects across forest, mangroves…",
+        "url": "https://www.esgtoday.com/ardian-raises-over-250-million-for-nature-based-solutions-fund/?utm_source=rss utm_medium=rss utm_campaign=ardian-raises-over-250-million-for-nature-based-solutions-fund",
+        "publishedAt": "2026-11-23T10:06:23.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Ardian.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-today-eu-uk-agree-to-link-carbon-markets-from--2026-11-23",
         "source": "esg-today",
@@ -770,50 +903,6 @@
         "region": "world"
       },
       {
-        "id": "esg-today-eu-reaches-deal-to-delay-to-methane-moni-2026-11-19",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "EU Reaches Deal to Delay to Methane Monitoring and Reporting Rules",
-        "excerpt": "Lawmakers in the European Parliament and EU Member States announced a provisional agreement to postpone methane monitoring and reporting rules for oil, gas and coal importers by two years, supporting and extending an EU Commission proposal aimed at avoiding adding pressure to the EU’s security of energy supply. While extending the delay beyond the Commission’s initial one-year proposal, the agreement marks a compromise between Parliament’s and the European Council’s positions going into negotiations of a 3-year and 1-year postponement, respectively.…",
-        "url": "https://www.esgtoday.com/eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules/?utm_source=rss utm_medium=rss utm_campaign=eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules",
-        "publishedAt": "2026-11-19T13:02:36.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-flags3-2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Government",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-banque-des-territoires-acquires-stake-in-2026-11-19",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Banque des Territoires Acquires Stake in ESG Ratings Provider EthiFinance",
-        "excerpt": "Banque des Territoires, the regional development financing arm of French public financial institution Caisse des Dépôts, announced that it has acquired a stake in sustainable finance-focused ratings and research provider EthiFinance through a capital increase aimed at supporting the company’s expansion in Europe. Launched in 2004, Paris-based EthiFinance is an independent European credit and sustainability rating agency, providing investors, banks, insurance companies, and corporates with analysis and ratings to help navigate the challenges of…",
-        "url": "https://www.esgtoday.com/banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance/?utm_source=rss utm_medium=rss utm_campaign=banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance",
-        "publishedAt": "2026-11-19T12:21:36.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EthiFinance-Sirou.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-consultation-long-term-average-tool-for--2026-11-18",
         "source": "verra",
         "sourceName": "Verra",
@@ -926,28 +1015,6 @@
         "region": "world"
       },
       {
-        "id": "esg-dive-supreme-court-declines-trump-bid-to-revi-2026-11-17",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Supreme Court declines Trump bid to revive DEI research funding cuts",
-        "excerpt": "A lower court blocked the administration from cutting funding for University of California research on project topics Trump officials have opposed.",
-        "url": "https://www.esgdive.com/news/supreme-court-declines-trump-bid-to-revive-dei-research-funding-cuts/874873/",
-        "publishedAt": "2026-11-17T16:44:00.000Z",
-        "image": "https://imgproxy.divecdn.com/JTNQAZHvbLChp4mlAMNCmL6emo6XpQCu6lgf2LMO148/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TdXByZW1lX0NvdXJ0X0V4dGVybmFsXy5qcGc=.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
         "id": "carbon-brief-revealed-russia-saudi-arabia-and-austral-2026-11-17",
         "source": "carbon-brief",
         "sourceName": "Carbon Brief",
@@ -966,28 +1033,6 @@
         "meta": {
           "category": "Uncategorized",
           "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-dive-sec-moves-to-pare-back-executive-compens-2026-11-16",
-        "source": "esg-dive",
-        "sourceName": "ESG Dive",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "SEC moves to pare back executive compensation disclosures",
-        "excerpt": "The proposed changes would sharply cut the number of executives for which companies would have to disclose compensation, along with a variety of other changes designed to cut back requirements.",
-        "url": "https://www.esgdive.com/news/sec-moves-to-pare-back-executive-compensation-disclosures/874781/",
-        "publishedAt": "2026-11-16T17:31:00.000Z",
-        "image": "https://imgproxy.divecdn.com/0N9Jj3WmYoR4O2Kkjuqaid3QP9ahIKw1DjSFC8AmdFs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ5NTY0NzU4LmpwZ19hdGtpbnNfcmVzaXplLmpwZw==.webp",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://www.esgdive.com/feeds/news/"
         },
         "region": "world"
       },
@@ -1216,28 +1261,6 @@
         "region": "world"
       },
       {
-        "id": "carbon-brief-analysis-china-s-quarterly-co2-falls-3-i-2026-11-06",
-        "source": "carbon-brief",
-        "sourceName": "Carbon Brief",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Analysis: China’s quarterly CO2 falls 3% in largest drop since Covid",
-        "excerpt": "China’s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to hit oil demand and coal use also dropped. Lauri Myllyvirta, lead analyst at the Centre for Research on Energy and Clean Air This was the largest quarterly reduction since the 2022 Covid lockdowns and means that China’s CO2 emissions have now fallen by an estimated 0.5% in the year to date. The new analysis for Carbon Brief, based on official figures and commercial data, shows that coal use fell by 3% year-on-year in the third quarter of…",
-        "url": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
-        "publishedAt": "2026-11-06T00:01:00.000Z",
-        "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/chinas-quarterly-co2-8-2500x1516.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Uncategorized",
-          "feed": "https://www.carbonbrief.org/feed/"
-        },
-        "region": "world"
-      },
-      {
         "id": "verra-verra-secures-first-icvcm-approval-for-t-2026-11-03",
         "source": "verra",
         "sourceName": "Verra",
@@ -1261,24 +1284,25 @@
         "region": "world"
       },
       {
-        "id": "verra-projects-open-for-public-comment-novembe-2026-11-02",
-        "source": "verra",
-        "sourceName": "Verra",
-        "type": "announcement",
+        "id": "google-carbon-verra-wins-icvcm-approval-for-vcs-versio-2026-09-03",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
         "tag": "VERRA",
         "accent": "#86efac",
-        "title": "Projects Open for Public Comment: November 2, 2026",
-        "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-        "url": "https://verra.org/projects-open-for-public-comment-november-2-2026/",
-        "publishedAt": "2026-11-02T13:00:00.000Z",
-        "image": "https://verra.org/wp-content/uploads/2026/02/DelAgua-Clean-Cooking-Grouped-Project-in-Rwanda-4150-DeAgua-stove-in-use.jpg",
+        "title": "Verra Wins ICVCM Approval for VCS Version 5 as Carbon Market Integrity Tightens - CarbonCredits.com",
+        "excerpt": "Verra has gained key backing for its Verified Carbon Standard (VCS) Version 5. The Integrity Council for the Voluntary Carbon Market (ICVCM) recognized VCS Version 5 as CCP-Eligible on September 2, 2026. The decision shows that the latest version of Verra s program meets the ICVCM s Core Carbon Principles (CCPs). These principles set a global standard for trustworthy carbon markets. The decision is important. Verra runs the world s largest voluntary carbon credit program. It has issued about 1.3 billion Verified Carbon Units (VCUs) across 2,579 VCS…",
+        "url": "https://carboncredits.com/verra-vcs-version-5-icvcm-approval/",
+        "publishedAt": "2026-09-03T07:00:00.000Z",
+        "image": "https://carboncredits.com/wp-content/uploads/2026/09/shutterstock_2291283739.jpg",
         "country": null,
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
-          "category": "Announcements",
-          "feed": "https://verra.org/feed/",
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLYi1mdW5OcVA3MUl2b1A4VXFsSXlNN1ZiN1JDeEFQSkE1eWEySHNfNXM5TTNuaW14VWtoeHo4U0tJMDJTYVFzM1lJTXNvSVF2MDdPb3ZiR3JHODdlTTdqTzF2U3pKSzR0b2RzRHlB?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -1308,17 +1332,17 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-japan-s-first-company-to-launch-a-gold-s-2025-04-28",
+        "id": "google-carbon-verra-launches-priority-queue-pilot-to-s-2025-11-27",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Japan’s First Company to Launch a Gold Standard Project: Rice Paddy Initiative in Nghe An Province, Central Vietnam, Accepted – Expected to Generate Approximately 2.5 Million Voluntary Carbon Credits Over 10 Years - green carbon",
-        "excerpt": "Promoting Vietnam s Decarbonization by Utilizing 62,000 Hectares of Rice Paddy in Nghe An Province . Green Carbon Co., Ltd. (CEO: Jun Okita), a company engaged in nature-based carbon credit generation and sales, is pleased to announce that its Methane Gas Reduction Project through AWD Implementation in Rice Paddies (hereinafter referred to as the Project ), currently being developed in Nghe An Province, Central North Vietnam, has been accepted and officially listed under the Gold Standard for Voluntary Credits*¹ as the first project of its kind in…",
-        "url": "https://green-carbon.co.jp/en/enjapans-first-gold-standard-rice-paddy-project/",
-        "publishedAt": "2025-04-28T07:00:00.000Z",
-        "image": "https://green-carbon.co.jp/wp-content/uploads/2023/06/cropped-GCロゴ.png",
+        "tag": "VERRA",
+        "accent": "#86efac",
+        "title": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews - Carbon Herald",
+        "excerpt": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews Carbon Herald",
+        "url": "https://carbonherald.com/verra-launches-priority-queue-pilot-to-speed-up-carbon-project-reviews/",
+        "publishedAt": "2025-11-27T08:00:00.000Z",
+        "image": null,
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1326,7 +1350,53 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjZ1Q3QyTG14R3lycHd0a05mZUdhOTdQQWxkRmJLZ0dvVlhpdHA4XzJlVWtoak45d1VGMm9ialJZRVZDUjVRNERVZF92b0k2N1BWRFFKZkVOUlUtVlVwSlZPSmROSmpudzVvN3FzcThLcjN6Z3JOYUxjR3Fyc3dGSGtDb2o?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1dKVkwyRVFzdVd6Z0FXWll6WGd4U2k1RUhNb2hVaWRZdTdfMTFXNjFoZkJsdUNZMllGZjRXTURIMW5VYW5OOWZiSEJydWNKSWlraWVpYkdJTS0xbDI2eWUySEwyWlZaR0NmSEtGYktSZjA4VGxIdEtTRVBuaVNtMnVWV1hMcmhIUTFHbk85a1dIRVBWTU85ejZXMm4?oc=5"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon markets are incomplete without nuclear - Utility Dive",
+        "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
+        "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
+        "publishedAt": "2025-09-23T07:00:00.000Z",
+        "image": null,
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-renewable-energy-carbon-credits-losing-s-2024-08-07",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Renewable-Energy Carbon Credits Losing Steam - MSCI",
+        "excerpt": "Looking for a custom solution? Get in touch Stay current with our award-winning research. Find standardized, validated signals to sharpen your investment process. Transparent, responsive and representative indexes designed to reflect the U.S. equity market, from broad market coverage to distinct size segments. Separating sector, size, leverage and location shows what investors actually own. Search Get in touch Research & Insights / Blog posts Research & Insights Renewable-Energy Carbon Credits Losing Steam Blog post 8 min read Tristan Loffler , Guy…",
+        "url": "https://www.msci.com/research-and-insights/blog-post/renewable-energy-carbon-credits-losing-steam",
+        "publishedAt": "2024-08-07T07:00:00.000Z",
+        "image": "https://www.msci.com/_next/static/media/apple-touch-icon.18hr60y47ceyt.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWI5djJSVFhjMkpFN3FQcTkxWFh3WVAwNm5UN1d1eFFkVmFGN2ZJWUNsZ3FwYkFRUFNQQXpEazg3OG54OWZUQndYdVlPUDJDaDRhUTZfTnNRODA2aWV6bzZ6dW9vWW1BRm04ei02RnlzcVk2d21HQ3NjZWxXczZTN1ZKRS1KT1ZDTmZ1T1NpVUd5X2lwcFhBb3pkOXNvUQ?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -1402,82 +1472,143 @@
           "imageSource": "publisher"
         },
         "region": "world"
-      },
-      {
-        "id": "google-carbon-the-4-best-carbon-offset-programs-for-20-2022-06-29",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "The 4 Best Carbon Offset Programs for 2024 - CarbonCredits.com",
-        "excerpt": "The world of carbon offsets and carbon offset programs can be quite complex and intimidating. So, if you’re looking for the best carbon offset programs for 2024 but don’t know your options, this article will guide you through. You’ll learn the important concepts, which carbon offset program should you choose, and why investing in this space matters. First things first. We need to define what does it mean by a carbon offset. And so carbon offsetting means financially supporting a project that can reduce emissions. Carbon offsets are produced by companies…",
-        "url": "https://carboncredits.com/the-4-best-carbon-offset-programs-for-2023/",
-        "publishedAt": "2022-06-29T07:00:00.000Z",
-        "image": "https://carboncredits.com/wp-content/uploads/2022/06/4-best-carbon-offset-programs-for-2023.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40UnhkS3p0eEZ4UHYzUVpjRzFlXzhkcW1RUmhoeEcxRzU3WjNxN2pjdGRKZHo2OEZKTkVUcHVsRXhKdFdxeF9xV0VvZ3R2SFh6dUM3ODNSVmVhZ3h5VnlHazZrU2Z1d0IxS3JocXR1WE1mWWRYdzh1TQ?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-creating-carbon-offset-units-on-the-volu-2022-02-22",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "Creating carbon offset units on the voluntary market | Global law firm - Norton Rose Fulbright",
-        "excerpt": "This article was co-authored with Sebastian Withers. In the past few years, there has been a proliferation of countries and organisations pledging to achieve net-zero emissions. While organisations should prioritise reducing greenhouse gas ( GHG ) emissions from their own operations and supply chain, the use of carbon offsets is necessary for emissions that are currently not technologically viable, or too costly, to eliminate. Carbon offset units can be generated pursuant to many different standards and used for both compliance purposes (i.e. offsetting…",
-        "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/6f326481/creating-carbon-offset-units-on-the-voluntary-market",
-        "publishedAt": "2022-02-22T19:16:56.000Z",
-        "image": "https://www.nortonrosefulbright.com/en/insights/publications/2022/02/media_120841c82849de75cdbe600d06f8d233941d08694.jpg?width=1200 format=pjpg optimize=medium",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXZXNnBDS1Q4NTR0TUVMaWZ3eml4T0VQWS1EZVRrXzNqbTFEeHlNcEVXYjVRdi04M0lRY2c4cWpaWFhyQzV0SUtPamFxSkdtcmE4c3dsa19QSi1jTGZUeUhmbkg3bWhMVXNSV014dlhael9KQ2RwNDVROHRUczNycTZhalVTVHlBUzFlT2pua0N3a1J2MFdnSThfSFEtWXRTT0ptbW9xOGJLV19hQzhlWUlaWUR2eThZUmVTNkY1dC0?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
-        "id": "google-carbon-verified-carbon-standard-changes-name-to-2018-02-15",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "Verified Carbon Standard Changes Name To Verra - Ecosystem Marketplace",
-        "excerpt": "As carbon standards like the Verified Carbon Standard and the Gold Standard expand their coverage to compliance with the Sustainable Development Goals, old names often no longer apply. To reflect that, the Verified Carbon Standard, which began as the Voluntary Carbon Standard, has now changed its name to Verra . 15 February 2018 | As of today, the organization that began as the Voluntary Carbon Standard and then became the Verified Carbon Standard is now called Verra , to reflect its broadening coverage of attributes associated with the UN Sustainable…",
-        "url": "https://www.ecosystemmarketplace.com/articles/vcs-changes-name-to-verra/",
-        "publishedAt": "2018-02-15T08:00:00.000Z",
-        "image": "https://www.ecosystemmarketplace.com/wp-content/uploads/2018/02/Verra.png",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2ajJnMGcyYUgzbHlZemR3YWhrcFBTY1RrZGR0cGh3NU1XWHdUeUlCOVdfOXN3YV8zSWJfNnhBQXlfVXptQzNlUUpDUm0zdVJmZHZ6ME42UWRIYkVzbXp5Rnp1M2FlOHNYZ0UwVWVmbDNHdUEtdk9HbFkzN1Y?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
       }
     ]
   },
   "articles": [
+    {
+      "id": "esg-dive-how-brooks-running-is-using-supplier-dat-2026-11-23",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "POLICY",
+      "accent": "#5eead4",
+      "title": "How Brooks Running is using supplier data to address human rights risks",
+      "excerpt": "The brand conducts an annual mock detention exercise with suppliers to improve visibility over a broader range of materials and downstream compliance.",
+      "url": "https://www.esgdive.com/news/how-brooks-running-is-using-supplier-data-to-address-human-rights-risks/875326/",
+      "publishedAt": "2026-11-23T17:11:00.000Z",
+      "image": "https://imgproxy.divecdn.com/hgSDgbfCfVPRovwWu1c2n5ip-mBINSqs9oPoPQBkLDQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TMjNfQVBSX1RyYWlsTG9va2Jvb2tfSG9vZFJpdmVyX0ltYWdlXzEuanBn.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-dive-labor-dept-proposes-removing-esg-referen-2026-11-23",
+      "source": "esg-dive",
+      "sourceName": "ESG Dive",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Labor Dept. proposes removing ESG references from 401(k) rule",
+      "excerpt": "The proposed rule would also seek to place a heightened focus on fund managers shareholder engagement and proxy voting activities.",
+      "url": "https://www.esgdive.com/news/labor-dept-proposes-removing-esg-references-from-401k-rule/875492/",
+      "publishedAt": "2026-11-23T16:52:00.000Z",
+      "image": "https://imgproxy.divecdn.com/0LxSrce7OfvZ-m6rfFf19eoy2fO2raxKq91C5n__SkY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI4NTA1NzgzLmpwZw==.webp",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://www.esgdive.com/feeds/news/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "carbon-brief-cop31-key-outcomes-agreed-at-the-un-clim-2026-11-23",
+      "source": "carbon-brief",
+      "sourceName": "Carbon Brief",
+      "type": "esg",
+      "tag": "CLIMATE",
+      "accent": "#34d399",
+      "title": "COP31: Key outcomes agreed at the UN climate talks in Antalya",
+      "excerpt": "Share Article Contents Expand menu Close Formal negotiations Turkish and Australian leadership Cover decision COP reform Adaptation Finance Just transition work programme Loss and damage Gender Article 6 Agriculture and food security Mitigation work programme Response measures Action for climate empowerment Trade Second global stocktake Long-term goal review Around the COP Fossil fuels Action agenda Global leaders Electrification China at COP31 Ocean Deforestation Methane New climate science Food and water NDCs Protests and access Road to COP32 and…",
+      "url": "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya",
+      "publishedAt": "2026-11-23T16:15:51.000Z",
+      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/UNFCCC-COP31-9311_0-1.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Uncategorized",
+        "feed": "https://www.carbonbrief.org/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "verra-projects-open-for-public-comment-novembe-2026-11-23",
+      "source": "verra",
+      "sourceName": "Verra",
+      "type": "announcement",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Projects Open for Public Comment: November 23, 2026",
+      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
+      "url": "https://verra.org/projects-open-for-public-comment-november-23-2026/",
+      "publishedAt": "2026-11-23T13:00:00.000Z",
+      "image": "https://verra.org/wp-content/uploads/2023/03/solar-panel-park-anders-j-unsplash.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Announcements",
+        "feed": "https://verra.org/feed/",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-enel-acquires-u-s-solar-portfolio-from-e-2026-11-23",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Enel Acquires U.S. Solar Portfolio from energyRe",
+      "excerpt": "Italian energy company Enel announced an agreement with U.S. energy infrastructure developer energyRe for the acquisition of a portfolio of solar plants located in South Carolina, with a total installed capacity of 317 MW, and an expected average annual production exceeding 540 GWh. The acquisition follows the launch earlier this year by Enel of a 3-year strategic plan , which included plans to dramatically increase investment in renewable energy over the next three years. At the time, Enel said that its investments in renewables are expected to reach…",
+      "url": "https://www.esgtoday.com/enel-acquires-u-s-solar-portfolio-from-energyre/?utm_source=rss utm_medium=rss utm_campaign=enel-acquires-u-s-solar-portfolio-from-energyre",
+      "publishedAt": "2026-11-23T10:50:11.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Enel2.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Energy Transition",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-ardian-raises-over-250-million-for-natur-2026-11-23",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Ardian Raises Over $250 Million for Nature Based Solutions Fund",
+      "excerpt": "Private markets investor Ardian announced that it has raised €230 million (USD$252 million) for its “Averrhoa NBS” strategy, aimed at generating high-quality carbon credits by supporting the development and scaling of projects focused on the preservation and restoration of natural ecosystems, with a target to reduce 85 million tons of carbon over 40 years. Launched in 2023 by Ardian in partnership with nature-based solutions (NBS) project developer aDryada Advisory, Averrhoa NBS invests in reforestation and restoration projects across forest, mangroves…",
+      "url": "https://www.esgtoday.com/ardian-raises-over-250-million-for-nature-based-solutions-fund/?utm_source=rss utm_medium=rss utm_campaign=ardian-raises-over-250-million-for-nature-based-solutions-fund",
+      "publishedAt": "2026-11-23T10:06:23.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Ardian.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-eu-uk-agree-to-link-carbon-markets-from--2026-11-23",
       "source": "esg-today",
@@ -1810,50 +1941,6 @@
       "region": "world"
     },
     {
-      "id": "esg-today-eu-reaches-deal-to-delay-to-methane-moni-2026-11-19",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "EU Reaches Deal to Delay to Methane Monitoring and Reporting Rules",
-      "excerpt": "Lawmakers in the European Parliament and EU Member States announced a provisional agreement to postpone methane monitoring and reporting rules for oil, gas and coal importers by two years, supporting and extending an EU Commission proposal aimed at avoiding adding pressure to the EU’s security of energy supply. While extending the delay beyond the Commission’s initial one-year proposal, the agreement marks a compromise between Parliament’s and the European Council’s positions going into negotiations of a 3-year and 1-year postponement, respectively.…",
-      "url": "https://www.esgtoday.com/eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules/?utm_source=rss utm_medium=rss utm_campaign=eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules",
-      "publishedAt": "2026-11-19T13:02:36.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-flags3-2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Government",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-banque-des-territoires-acquires-stake-in-2026-11-19",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Banque des Territoires Acquires Stake in ESG Ratings Provider EthiFinance",
-      "excerpt": "Banque des Territoires, the regional development financing arm of French public financial institution Caisse des Dépôts, announced that it has acquired a stake in sustainable finance-focused ratings and research provider EthiFinance through a capital increase aimed at supporting the company’s expansion in Europe. Launched in 2004, Paris-based EthiFinance is an independent European credit and sustainability rating agency, providing investors, banks, insurance companies, and corporates with analysis and ratings to help navigate the challenges of…",
-      "url": "https://www.esgtoday.com/banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance/?utm_source=rss utm_medium=rss utm_campaign=banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance",
-      "publishedAt": "2026-11-19T12:21:36.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EthiFinance-Sirou.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-consultation-long-term-average-tool-for--2026-11-18",
       "source": "verra",
       "sourceName": "Verra",
@@ -1966,28 +2053,6 @@
       "region": "world"
     },
     {
-      "id": "esg-dive-supreme-court-declines-trump-bid-to-revi-2026-11-17",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Supreme Court declines Trump bid to revive DEI research funding cuts",
-      "excerpt": "A lower court blocked the administration from cutting funding for University of California research on project topics Trump officials have opposed.",
-      "url": "https://www.esgdive.com/news/supreme-court-declines-trump-bid-to-revive-dei-research-funding-cuts/874873/",
-      "publishedAt": "2026-11-17T16:44:00.000Z",
-      "image": "https://imgproxy.divecdn.com/JTNQAZHvbLChp4mlAMNCmL6emo6XpQCu6lgf2LMO148/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TdXByZW1lX0NvdXJ0X0V4dGVybmFsXy5qcGc=.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
       "id": "carbon-brief-revealed-russia-saudi-arabia-and-austral-2026-11-17",
       "source": "carbon-brief",
       "sourceName": "Carbon Brief",
@@ -2006,28 +2071,6 @@
       "meta": {
         "category": "Uncategorized",
         "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-dive-sec-moves-to-pare-back-executive-compens-2026-11-16",
-      "source": "esg-dive",
-      "sourceName": "ESG Dive",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "SEC moves to pare back executive compensation disclosures",
-      "excerpt": "The proposed changes would sharply cut the number of executives for which companies would have to disclose compensation, along with a variety of other changes designed to cut back requirements.",
-      "url": "https://www.esgdive.com/news/sec-moves-to-pare-back-executive-compensation-disclosures/874781/",
-      "publishedAt": "2026-11-16T17:31:00.000Z",
-      "image": "https://imgproxy.divecdn.com/0N9Jj3WmYoR4O2Kkjuqaid3QP9ahIKw1DjSFC8AmdFs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ5NTY0NzU4LmpwZ19hdGtpbnNfcmVzaXplLmpwZw==.webp",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://www.esgdive.com/feeds/news/"
       },
       "region": "world"
     },
@@ -2280,28 +2323,6 @@
       "region": "world"
     },
     {
-      "id": "carbon-brief-analysis-china-s-quarterly-co2-falls-3-i-2026-11-06",
-      "source": "carbon-brief",
-      "sourceName": "Carbon Brief",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Analysis: China’s quarterly CO2 falls 3% in largest drop since Covid",
-      "excerpt": "China’s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to hit oil demand and coal use also dropped. Lauri Myllyvirta, lead analyst at the Centre for Research on Energy and Clean Air This was the largest quarterly reduction since the 2022 Covid lockdowns and means that China’s CO2 emissions have now fallen by an estimated 0.5% in the year to date. The new analysis for Carbon Brief, based on official figures and commercial data, shows that coal use fell by 3% year-on-year in the third quarter of…",
-      "url": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
-      "publishedAt": "2026-11-06T00:01:00.000Z",
-      "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/chinas-quarterly-co2-8-2500x1516.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Uncategorized",
-        "feed": "https://www.carbonbrief.org/feed/"
-      },
-      "region": "world"
-    },
-    {
       "id": "verra-verra-secures-first-icvcm-approval-for-t-2026-11-03",
       "source": "verra",
       "sourceName": "Verra",
@@ -2325,27 +2346,28 @@
       "region": "world"
     },
     {
-      "id": "verra-projects-open-for-public-comment-novembe-2026-11-02",
-      "source": "verra",
-      "sourceName": "Verra",
-      "type": "announcement",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Projects Open for Public Comment: November 2, 2026",
-      "excerpt": "To ensure the transparency and rigor of our standards programs, Verra invites comments from the public on whether projects seeking to register in one or more of Verra’s standards programs meet the requirements of that program. Comments received by Verra will be published to the project record on the Verra Registry and must be considered by the project proponent. Note: Project descriptions and other documents of projects undergoing public comment have not been reviewed by Verra. The public comment periods for the following projects opened during the week…",
-      "url": "https://verra.org/projects-open-for-public-comment-november-2-2026/",
-      "publishedAt": "2026-11-02T13:00:00.000Z",
-      "image": "https://verra.org/wp-content/uploads/2026/02/DelAgua-Clean-Cooking-Grouped-Project-in-Rwanda-4150-DeAgua-stove-in-use.jpg",
-      "country": null,
+      "id": "google-h2-towards-sustainable-growth-how-india-s-g-2026-09-17",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Towards Sustainable Growth: How India’s Green Energy Incentives Are Reshaping The Regulatory And Investment Landscape - Legal 500",
+      "excerpt": "India s renewable energy framework combines ambitious climate targets with an evolving regulatory architecture spanning green hydrogen missions, carbon trading…",
+      "url": "https://www.legal500.com/intelligence/india/energy-and-natural-resources/towards-sustainable-growth-how-indias-green-energy-incentives-are-reshaping-the-regulatory-and-investment-landscape",
+      "publishedAt": "2026-09-17T06:48:55.000Z",
+      "image": "https://www.legal500.com/assets/dynamic/2a54f469863cf85968c965949f7daf401ba7fc401194ae0f3749f2114340efad/2-mco-logo-page-0001.jpg",
+      "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
-        "category": "Announcements",
-        "feed": "https://verra.org/feed/",
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOHkyRVpzekJVSTM0TkxsRzBCa05RNHJwWmQycnZuZ25pMzNDTUNLaGlKQTlGck8takdlM0FOMHc4RzJnSVZWYUVJS19McGVnYlFGRU1JN1RUZnNQWWVSdW5fYkNnQW13UXVsNGxMeWpOS1BrM2VCVDVuMUc4MEw5TEQxTTNFMEY5Z1F4MVY3ODNkRG1yVmVBMWdRTmNJUVZiOFBMSUM1MF9ldzEzWUlKYnl4VUJTZ2prYzlxWVhlYU9venVvaC1SZEFwSjllMmtUSTFNc2lmS210NW9ETTA3TndlZ25Tbk4xYXlqbDM5ZDdZZmQySVN4WkF4Sl9OemJoUEVSbUhDWnNybzlhQS1GWWNadnZrZWM?oc=5",
         "imageSource": "publisher"
       },
-      "region": "world"
+      "region": "india"
     },
     {
       "id": "google-india-india-s-carbon-trading-system-nears-its--2026-09-03",
@@ -2370,6 +2392,30 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-carbon-verra-wins-icvcm-approval-for-vcs-versio-2026-09-03",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Wins ICVCM Approval for VCS Version 5 as Carbon Market Integrity Tightens - CarbonCredits.com",
+      "excerpt": "Verra has gained key backing for its Verified Carbon Standard (VCS) Version 5. The Integrity Council for the Voluntary Carbon Market (ICVCM) recognized VCS Version 5 as CCP-Eligible on September 2, 2026. The decision shows that the latest version of Verra s program meets the ICVCM s Core Carbon Principles (CCPs). These principles set a global standard for trustworthy carbon markets. The decision is important. Verra runs the world s largest voluntary carbon credit program. It has issued about 1.3 billion Verified Carbon Units (VCUs) across 2,579 VCS…",
+      "url": "https://carboncredits.com/verra-vcs-version-5-icvcm-approval/",
+      "publishedAt": "2026-09-03T07:00:00.000Z",
+      "image": "https://carboncredits.com/wp-content/uploads/2026/09/shutterstock_2291283739.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLYi1mdW5OcVA3MUl2b1A4VXFsSXlNN1ZiN1JDeEFQSkE1eWEySHNfNXM5TTNuaW14VWtoeHo4U0tJMDJTYVFzM1lJTXNvSVF2MDdPb3ZiR3JHODdlTTdqTzF2U3pKSzR0b2RzRHlB?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
     },
     {
       "id": "google-h2-catalysing-demand-suggestions-to-scale-u-2026-08-27",
@@ -2657,28 +2703,50 @@
       "region": "india"
     },
     {
-      "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
+      "id": "google-carbon-verra-launches-priority-queue-pilot-to-s-2025-11-27",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
       "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
-      "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
-      "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
-      "country": "India",
+      "tag": "VERRA",
+      "accent": "#86efac",
+      "title": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews - Carbon Herald",
+      "excerpt": "Verra Launches Priority Queue Pilot To Speed Up Carbon Project Reviews Carbon Herald",
+      "url": "https://carbonherald.com/verra-launches-priority-queue-pilot-to-speed-up-carbon-project-reviews/",
+      "publishedAt": "2025-11-27T08:00:00.000Z",
+      "image": null,
+      "country": null,
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-        "imageSource": "publisher"
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1dKVkwyRVFzdVd6Z0FXWll6WGd4U2k1RUhNb2hVaWRZdTdfMTFXNjFoZkJsdUNZMllGZjRXTURIMW5VYW5OOWZiSEJydWNKSWlraWVpYkdJTS0xbDI2eWUySEwyWlZaR0NmSEtGYktSZjA4VGxIdEtTRVBuaVNtMnVWV1hMcmhIUTFHbk85a1dIRVBWTU85ejZXMm4?oc=5"
       },
-      "region": "india"
+      "region": "world"
+    },
+    {
+      "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon markets are incomplete without nuclear - Utility Dive",
+      "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
+      "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
+      "publishedAt": "2025-09-23T07:00:00.000Z",
+      "image": null,
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
+      },
+      "region": "world"
     },
     {
       "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
@@ -2705,17 +2773,17 @@
       "region": "india"
     },
     {
-      "id": "google-carbon-japan-s-first-company-to-launch-a-gold-s-2025-04-28",
+      "id": "google-carbon-renewable-energy-carbon-credits-losing-s-2024-08-07",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
       "type": "esg",
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
-      "title": "Japan’s First Company to Launch a Gold Standard Project: Rice Paddy Initiative in Nghe An Province, Central Vietnam, Accepted – Expected to Generate Approximately 2.5 Million Voluntary Carbon Credits Over 10 Years - green carbon",
-      "excerpt": "Promoting Vietnam s Decarbonization by Utilizing 62,000 Hectares of Rice Paddy in Nghe An Province . Green Carbon Co., Ltd. (CEO: Jun Okita), a company engaged in nature-based carbon credit generation and sales, is pleased to announce that its Methane Gas Reduction Project through AWD Implementation in Rice Paddies (hereinafter referred to as the Project ), currently being developed in Nghe An Province, Central North Vietnam, has been accepted and officially listed under the Gold Standard for Voluntary Credits*¹ as the first project of its kind in…",
-      "url": "https://green-carbon.co.jp/en/enjapans-first-gold-standard-rice-paddy-project/",
-      "publishedAt": "2025-04-28T07:00:00.000Z",
-      "image": "https://green-carbon.co.jp/wp-content/uploads/2023/06/cropped-GCロゴ.png",
+      "title": "Renewable-Energy Carbon Credits Losing Steam - MSCI",
+      "excerpt": "Looking for a custom solution? Get in touch Stay current with our award-winning research. Find standardized, validated signals to sharpen your investment process. Transparent, responsive and representative indexes designed to reflect the U.S. equity market, from broad market coverage to distinct size segments. Separating sector, size, leverage and location shows what investors actually own. Search Get in touch Research & Insights / Blog posts Research & Insights Renewable-Energy Carbon Credits Losing Steam Blog post 8 min read Tristan Loffler , Guy…",
+      "url": "https://www.msci.com/research-and-insights/blog-post/renewable-energy-carbon-credits-losing-steam",
+      "publishedAt": "2024-08-07T07:00:00.000Z",
+      "image": "https://www.msci.com/_next/static/media/apple-touch-icon.18hr60y47ceyt.png",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2723,7 +2791,7 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjZ1Q3QyTG14R3lycHd0a05mZUdhOTdQQWxkRmJLZ0dvVlhpdHA4XzJlVWtoak45d1VGMm9ialJZRVZDUjVRNERVZF92b0k2N1BWRFFKZkVOUlUtVlVwSlZPSmROSmpudzVvN3FzcThLcjN6Z3JOYUxjR3Fyc3dGSGtDb2o?oc=5",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWI5djJSVFhjMkpFN3FQcTkxWFh3WVAwNm5UN1d1eFFkVmFGN2ZJWUNsZ3FwYkFRUFNQQXpEazg3OG54OWZUQndYdVlPUDJDaDRhUTZfTnNRODA2aWV6bzZ6dW9vWW1BRm04ei02RnlzcVk2d21HQ3NjZWxXczZTN1ZKRS1KT1ZDTmZ1T1NpVUd5X2lwcFhBb3pkOXNvUQ?oc=5",
         "imageSource": "publisher"
       },
       "region": "world"
@@ -2820,78 +2888,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJLNnZyc3NCaDZnWjA0Z3ExblFrMUxYUlRLUlRXcm9MUUFsWkpEdUFKU29iV3ZoV1RCX2lmdExJcERLYThrRFk2aGttdWVvZGNiUEoydm9SSmVZOHltejhDTm00c0E3OTk5MHNwNnR4eS0wTXZHcGZRcmhKXzd4ZGNzaDNhcDdUd2dZNnFB?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-the-4-best-carbon-offset-programs-for-20-2022-06-29",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "The 4 Best Carbon Offset Programs for 2024 - CarbonCredits.com",
-      "excerpt": "The world of carbon offsets and carbon offset programs can be quite complex and intimidating. So, if you’re looking for the best carbon offset programs for 2024 but don’t know your options, this article will guide you through. You’ll learn the important concepts, which carbon offset program should you choose, and why investing in this space matters. First things first. We need to define what does it mean by a carbon offset. And so carbon offsetting means financially supporting a project that can reduce emissions. Carbon offsets are produced by companies…",
-      "url": "https://carboncredits.com/the-4-best-carbon-offset-programs-for-2023/",
-      "publishedAt": "2022-06-29T07:00:00.000Z",
-      "image": "https://carboncredits.com/wp-content/uploads/2022/06/4-best-carbon-offset-programs-for-2023.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40UnhkS3p0eEZ4UHYzUVpjRzFlXzhkcW1RUmhoeEcxRzU3WjNxN2pjdGRKZHo2OEZKTkVUcHVsRXhKdFdxeF9xV0VvZ3R2SFh6dUM3ODNSVmVhZ3h5VnlHazZrU2Z1d0IxS3JocXR1WE1mWWRYdzh1TQ?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-creating-carbon-offset-units-on-the-volu-2022-02-22",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "Creating carbon offset units on the voluntary market | Global law firm - Norton Rose Fulbright",
-      "excerpt": "This article was co-authored with Sebastian Withers. In the past few years, there has been a proliferation of countries and organisations pledging to achieve net-zero emissions. While organisations should prioritise reducing greenhouse gas ( GHG ) emissions from their own operations and supply chain, the use of carbon offsets is necessary for emissions that are currently not technologically viable, or too costly, to eliminate. Carbon offset units can be generated pursuant to many different standards and used for both compliance purposes (i.e. offsetting…",
-      "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/6f326481/creating-carbon-offset-units-on-the-voluntary-market",
-      "publishedAt": "2022-02-22T19:16:56.000Z",
-      "image": "https://www.nortonrosefulbright.com/en/insights/publications/2022/02/media_120841c82849de75cdbe600d06f8d233941d08694.jpg?width=1200 format=pjpg optimize=medium",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXZXNnBDS1Q4NTR0TUVMaWZ3eml4T0VQWS1EZVRrXzNqbTFEeHlNcEVXYjVRdi04M0lRY2c4cWpaWFhyQzV0SUtPamFxSkdtcmE4c3dsa19QSi1jTGZUeUhmbkg3bWhMVXNSV014dlhael9KQ2RwNDVROHRUczNycTZhalVTVHlBUzFlT2pua0N3a1J2MFdnSThfSFEtWXRTT0ptbW9xOGJLV19hQzhlWUlaWUR2eThZUmVTNkY1dC0?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "world"
-    },
-    {
-      "id": "google-carbon-verified-carbon-standard-changes-name-to-2018-02-15",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "Verified Carbon Standard Changes Name To Verra - Ecosystem Marketplace",
-      "excerpt": "As carbon standards like the Verified Carbon Standard and the Gold Standard expand their coverage to compliance with the Sustainable Development Goals, old names often no longer apply. To reflect that, the Verified Carbon Standard, which began as the Voluntary Carbon Standard, has now changed its name to Verra . 15 February 2018 | As of today, the organization that began as the Voluntary Carbon Standard and then became the Verified Carbon Standard is now called Verra , to reflect its broadening coverage of attributes associated with the UN Sustainable…",
-      "url": "https://www.ecosystemmarketplace.com/articles/vcs-changes-name-to-verra/",
-      "publishedAt": "2018-02-15T08:00:00.000Z",
-      "image": "https://www.ecosystemmarketplace.com/wp-content/uploads/2018/02/Verra.png",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2ajJnMGcyYUgzbHlZemR3YWhrcFBTY1RrZGR0cGh3NU1XWHdUeUlCOVdfOXN3YV8zSWJfNnhBQXlfVXptQzNlUUpDUm0zdVJmZHZ6ME42UWRIYkVzbXp5Rnp1M2FlOHNYZ0UwVWVmbDNHdUEtdk9HbFkzN1Y?oc=5",
         "imageSource": "publisher"
       },
       "region": "world"
