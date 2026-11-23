@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-22T23:58:00.135Z",
+  "fetchedAt": "2026-11-23T08:30:29.778Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -47,8 +47,8 @@
     "total": 62,
     "india": 17,
     "world": 45,
-    "withImages": 58,
-    "avgExcerptLength": 462,
+    "withImages": 59,
+    "avgExcerptLength": 469,
     "verra": 10,
     "registry": 0,
     "esg": 52
@@ -461,6 +461,28 @@
     ],
     "world": [
       {
+        "id": "esg-today-eu-uk-agree-to-link-carbon-markets-from--2026-11-23",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "EU, UK Agree to Link Carbon Markets from 2028",
+        "excerpt": "The European Commission and UK government announced an agreement to link their Emissions Trading Systems (ETS), reuniting their respective carbon markets that have operated separately since Brexit, in a deal aimed at eliminating a major barrier for trade in goods subject to carbon pricing and import taxes, and creating a larger, more liquid carbon market. Under the new agreement, which formed part of the EU and UK bilateral summit, the Commission and UK government are aiming for the ETS link to become effective from the beginning of 2028, with ETS…",
+        "url": "https://www.esgtoday.com/eu-uk-agree-to-link-carbon-markets-from-2028/?utm_source=rss utm_medium=rss utm_campaign=eu-uk-agree-to-link-carbon-markets-from-2028",
+        "publishedAt": "2026-11-23T07:48:09.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-UK-deal.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
         "id": "esg-today-cop31-talks-collapse-as-eu-uk-walk-over--2026-11-22",
         "source": "esg-today",
         "sourceName": "ESG Today",
@@ -787,28 +809,6 @@
         "status": null,
         "meta": {
           "category": "ESG Tools, Services",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-pantheon-invests-600-million-in-mirova-e-2026-11-19",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Pantheon Invests $600 Million in Mirova Energy Transition Portfolio",
-        "excerpt": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers, and London-based private markets investor Pantheon announced the launch of a new energy transition-focused investment partnership, including a €548 million (USD$603 million) secondary transaction aimed at providing growth capital for Mirova’s European renewable energy investment platforms and liquidity for existing investors. Pantheon is the sole third-party investor in the transaction, which the company said was designed to balance the interests of existing investors,…",
-        "url": "https://www.esgtoday.com/pantheon-invests-600-million-in-mirova-energy-transition-portfolio/?utm_source=rss utm_medium=rss utm_campaign=pantheon-invests-600-million-in-mirova-energy-transition-portfolio",
-        "publishedAt": "2026-11-19T12:00:46.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Pantheon-Cullen.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
           "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
@@ -1308,17 +1308,17 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
+        "id": "google-carbon-japan-s-first-company-to-launch-a-gold-s-2025-04-28",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
-        "tag": "VERRA",
-        "accent": "#86efac",
-        "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
-        "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
-        "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
-        "publishedAt": "2025-11-12T08:00:00.000Z",
-        "image": null,
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Japan’s First Company to Launch a Gold Standard Project: Rice Paddy Initiative in Nghe An Province, Central Vietnam, Accepted – Expected to Generate Approximately 2.5 Million Voluntary Carbon Credits Over 10 Years - green carbon",
+        "excerpt": "Promoting Vietnam s Decarbonization by Utilizing 62,000 Hectares of Rice Paddy in Nghe An Province . Green Carbon Co., Ltd. (CEO: Jun Okita), a company engaged in nature-based carbon credit generation and sales, is pleased to announce that its Methane Gas Reduction Project through AWD Implementation in Rice Paddies (hereinafter referred to as the Project ), currently being developed in Nghe An Province, Central North Vietnam, has been accepted and officially listed under the Gold Standard for Voluntary Credits*¹ as the first project of its kind in…",
+        "url": "https://green-carbon.co.jp/en/enjapans-first-gold-standard-rice-paddy-project/",
+        "publishedAt": "2025-04-28T07:00:00.000Z",
+        "image": "https://green-carbon.co.jp/wp-content/uploads/2023/06/cropped-GCロゴ.png",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1326,7 +1326,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjZ1Q3QyTG14R3lycHd0a05mZUdhOTdQQWxkRmJLZ0dvVlhpdHA4XzJlVWtoak45d1VGMm9ialJZRVZDUjVRNERVZF92b0k2N1BWRFFKZkVOUlUtVlVwSlZPSmROSmpudzVvN3FzcThLcjN6Z3JOYUxjR3Fyc3dGSGtDb2o?oc=5",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -1477,6 +1478,28 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-eu-uk-agree-to-link-carbon-markets-from--2026-11-23",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "EU, UK Agree to Link Carbon Markets from 2028",
+      "excerpt": "The European Commission and UK government announced an agreement to link their Emissions Trading Systems (ETS), reuniting their respective carbon markets that have operated separately since Brexit, in a deal aimed at eliminating a major barrier for trade in goods subject to carbon pricing and import taxes, and creating a larger, more liquid carbon market. Under the new agreement, which formed part of the EU and UK bilateral summit, the Commission and UK government are aiming for the ETS link to become effective from the beginning of 2028, with ETS…",
+      "url": "https://www.esgtoday.com/eu-uk-agree-to-link-carbon-markets-from-2028/?utm_source=rss utm_medium=rss utm_campaign=eu-uk-agree-to-link-carbon-markets-from-2028",
+      "publishedAt": "2026-11-23T07:48:09.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/EU-UK-deal.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-today-cop31-talks-collapse-as-eu-uk-walk-over--2026-11-22",
       "source": "esg-today",
@@ -1826,28 +1849,6 @@
       "status": null,
       "meta": {
         "category": "ESG Tools, Services",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-pantheon-invests-600-million-in-mirova-e-2026-11-19",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Pantheon Invests $600 Million in Mirova Energy Transition Portfolio",
-      "excerpt": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers, and London-based private markets investor Pantheon announced the launch of a new energy transition-focused investment partnership, including a €548 million (USD$603 million) secondary transaction aimed at providing growth capital for Mirova’s European renewable energy investment platforms and liquidity for existing investors. Pantheon is the sole third-party investor in the transaction, which the company said was designed to balance the interests of existing investors,…",
-      "url": "https://www.esgtoday.com/pantheon-invests-600-million-in-mirova-energy-transition-portfolio/?utm_source=rss utm_medium=rss utm_campaign=pantheon-invests-600-million-in-mirova-energy-transition-portfolio",
-      "publishedAt": "2026-11-19T12:00:46.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Pantheon-Cullen.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
         "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
@@ -2680,29 +2681,6 @@
       "region": "india"
     },
     {
-      "id": "google-carbon-cop30-singapore-gold-standard-and-verra--2025-11-12",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
-      "type": "esg",
-      "tag": "VERRA",
-      "accent": "#86efac",
-      "title": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 - Carbon Herald",
-      "excerpt": "COP30: Singapore, Gold Standard And Verra Unveil Global Carbon Credit Protocol For Article 6.2 Carbon Herald",
-      "url": "https://carbonherald.com/cop30-singapore-gold-standard-and-verra-unveil-global-carbon-credit-protocol-for-article-6-2/",
-      "publishedAt": "2025-11-12T08:00:00.000Z",
-      "image": null,
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZLaHJ4OG45R1BqWFk0SjBnRTFaRlMxQkNKdDZ3UjBBamxzdUJPSUxmVC1CU3VwZmZpY0c5cVRUaWQ5eVdDNUF3MkdIb3QwSEo0SUpEMUVlQWdTV0tPalY4NVhhcFIxYVgxb1BrSG9XQ3NBSnNBZ1g5SWtNOEhIeHhONktEZHY5SEVBQTROYnoyb0NIX3FvUlZWMWxRNUIzaWJEbFN2OWRncVJKQjRReUlIUFZ1VEotdmc?oc=5"
-      },
-      "region": "world"
-    },
-    {
       "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
       "source": "google-h2",
       "sourceName": "Green Hydrogen",
@@ -2725,6 +2703,30 @@
         "imageSource": "publisher"
       },
       "region": "india"
+    },
+    {
+      "id": "google-carbon-japan-s-first-company-to-launch-a-gold-s-2025-04-28",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Japan’s First Company to Launch a Gold Standard Project: Rice Paddy Initiative in Nghe An Province, Central Vietnam, Accepted – Expected to Generate Approximately 2.5 Million Voluntary Carbon Credits Over 10 Years - green carbon",
+      "excerpt": "Promoting Vietnam s Decarbonization by Utilizing 62,000 Hectares of Rice Paddy in Nghe An Province . Green Carbon Co., Ltd. (CEO: Jun Okita), a company engaged in nature-based carbon credit generation and sales, is pleased to announce that its Methane Gas Reduction Project through AWD Implementation in Rice Paddies (hereinafter referred to as the Project ), currently being developed in Nghe An Province, Central North Vietnam, has been accepted and officially listed under the Gold Standard for Voluntary Credits*¹ as the first project of its kind in…",
+      "url": "https://green-carbon.co.jp/en/enjapans-first-gold-standard-rice-paddy-project/",
+      "publishedAt": "2025-04-28T07:00:00.000Z",
+      "image": "https://green-carbon.co.jp/wp-content/uploads/2023/06/cropped-GCロゴ.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjZ1Q3QyTG14R3lycHd0a05mZUdhOTdQQWxkRmJLZ0dvVlhpdHA4XzJlVWtoak45d1VGMm9ialJZRVZDUjVRNERVZF92b0k2N1BWRFFKZkVOUlUtVlVwSlZPSmROSmpudzVvN3FzcThLcjN6Z3JOYUxjR3Fyc3dGSGtDb2o?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
     },
     {
       "id": "google-h2-financing-green-hydrogen-in-india-ceew-2024-06-18",
