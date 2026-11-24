@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "fetchedAt": "2026-11-24T04:09:45.887Z",
+  "fetchedAt": "2026-11-24T10:37:30.792Z",
   "sources": [
     {
       "id": "verra-registry",
@@ -45,38 +45,16 @@
   ],
   "stats": {
     "total": 62,
-    "india": 17,
-    "world": 45,
-    "withImages": 57,
-    "avgExcerptLength": 449,
+    "india": 16,
+    "world": 46,
+    "withImages": 58,
+    "avgExcerptLength": 456,
     "verra": 10,
     "registry": 0,
     "esg": 52
   },
   "sections": {
     "india": [
-      {
-        "id": "esg-today-kkr-acquires-stake-in-gentari-s-india-re-2026-11-19",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "KKR Acquires Stake in Gentari’s India Renewable Energy Platform",
-        "excerpt": "Alternative asset manager KKR announced on Thursday the acquisition of a minority stake in Gentari Renewables India, the Indian renewable energy subsidiary of clean energy solutions provider Gentari. Gentari was launched in 2022 by Malaysian integrated oil and gas company Petronas to target clean energy solutions across renewable energy, hydrogen and green mobility. The company develops and operates solar, wind and battery energy storage projects, alongside initiatives focused on clean hydrogen production and electric vehicle charging infrastructure.…",
-        "url": "https://www.esgtoday.com/kkr-acquires-stake-in-gentaris-india-renewable-energy-platform/?utm_source=rss utm_medium=rss utm_campaign=kkr-acquires-stake-in-gentaris-india-renewable-energy-platform",
-        "publishedAt": "2026-11-19T15:43:23.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/KKR.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Energy Transition",
-          "feed": "https://www.esgtoday.com/feed/"
-        },
-        "region": "india"
-      },
       {
         "id": "google-india-the-ultimate-guide-to-understanding-carb-2026-11-13",
         "source": "google-india",
@@ -126,25 +104,25 @@
         "region": "india"
       },
       {
-        "id": "google-india-india-s-carbon-trading-system-nears-its--2026-09-03",
-        "source": "google-india",
-        "sourceName": "India Climate Policy",
+        "id": "google-h2-catalysing-demand-suggestions-to-scale-u-2026-08-27",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
         "type": "esg",
-        "tag": "INDIA",
-        "accent": "#fbbf24",
-        "title": "India’s carbon trading system nears its first real market test - climate.economictimes.indiatimes.com",
-        "excerpt": "India’s carbon credit trading system is approaching its first compliance trade, expected on power exchanges around October. The scheme covers about 740 entities across nine industrial sectors and could reshape how Indian companies price emissions, plan capex and manage compliance risk. Alongside the mandatory market, a voluntary offset mechanism is also taking shape, but analysts warn that price stability and robust market design will be crucial for credibility.",
-        "url": "https://climate.economictimes.indiatimes.com/news/clean-energy-decarbonization/indias-carbon-trading-system-nears-its-first-real-market-test/133711244",
-        "publishedAt": "2026-09-03T07:00:00.000Z",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133711244,imgsize-135686,width-1200,height=627,overlay-etclimate,resizemode-75/news/clean-energy-decarbonization/indias-carbon-trading-system-nears-its-first-real-market-test.jpg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Catalysing Demand: Suggestions to scale up green hydrogen in India - Renewable Watch",
+        "excerpt": "Expert Take Catalysing Demand: Suggestions to scale up green hydrogen in India Advertisment by Renewable Watch by Renewable Watch 27 Aug 2026 14:27 IST Updated 01 Oct 2026 02:29 IST Link copied! Copy failed! By Subhrajit Datta Ray, Partner Energy Transition and Decarbonisation, PwC India India has set two key milestones on energy security and transition: achieving energy independence by 2047 as part of the Viksit Bharat agenda, and reaching net zero emissions by 2070. To achieve these ambitions, India needs to continue its rapid expansion of renewable…",
+        "url": "https://renewablewatch.in/2026/08/27/catalysing-demand-suggestions-to-scale-up-green-hydrogen-in-india/",
+        "publishedAt": "2026-08-27T07:00:00.000Z",
+        "image": "https://img-cdn.publive.online/fit-in/1200x675/renewable-watch/media/media_files/2026/10/30/subhrajit-datta-ray1-2026-10-30-14-12-56.jpg",
         "country": "India",
         "methodology": null,
         "registryId": null,
         "status": null,
         "meta": {
           "category": null,
-          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZGdNVUJ2dGMyQkdrSWZtbWJ5ZlB2U1duanRCNXpSM2RnNktISGZ6MWVVZEt0QnVraXFEQU5ZWnJqTERUYkJDb1ltTFFtbUxaQUJoZmQ0dEsyaGxtRWUzSUt4RG1kVm5wVHBXUm1DZ0FPcHQ3QkJzZHdGdTNpZTdHQ0J4RDVBRUpEQ2hMSVA5UG9pbktTM0k4TlU3M3c1Mzh0V0RtSG5hT2t1TlNYUHc5amRBN3JHazJPaEoyNHo4TnphclpYaG5CMy00X2g5M0tGeXJMSUtDRngzZ2szbkJrS1dqcHI?oc=5",
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjFfUFhWaFFzZnd1TnFweGpXS3Q3RUtqMHVscnAwdkZLcjQxYUktUVk5OTlYTlNlQ0ZWY0dJY1hEVTVTZVlUQ1RhMTZKeGJkdHFYbVZuaU91cFQwMnhIbEdJdXpiOWdteVlLdEJGOV9sNUtmU3NrZXNVb2tyU3Y5UnpxZmRhRjg1Q0U1LXRBRnRIWl9JWGJpZ1VoMW5WcXJtWW4wVGZR?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -169,30 +147,6 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFlRczlOUHRvTnNOVnl1V3AtRlJHVm1xLUpqb2MxTXJQRzdFUF9Kdmw0M3ZVTHJRcURGaXNjMWRuV0NEQWNjNkFrT3dBWm5VbFRJcnM4ZW5FeUJKTUdYeG9jUVU4OXFJQWVBR3JrVGhMcTk3LUZSdUxJLUlhbkZiTmtGYjZIaTI0aDI1a0MwTTJ3VF9sbGlqQXZMa05VTFhDSVJLUkNkaXc1X3pLVmxYQUtuWUh0MzgteFZsakZfVDB4RVnSAdABQVVfeXFMUE90eUNTTWg2QXJ4ZVFMUzI5cGxJVmNwc3dBdjNJMF9QTG1OVjNRNUFkLTdYdHNPMGtPY1V3Y05Qa1JPWmZCMGJMdjJ5V0psYjN6azBLSWhmNTJ2dEN6Q2s4d2E0b3ZHLUIzNXNOQ1NmQkFnSGxqNERCZy1mRGxVbzZnek44TWlpX01OLWlhdXZYdURLWU5abXFsakkyNlR1RC1UdFNZV1lOa1MyVDBQeXZMN2M5eUdlbmQ3ZU9lU0t4SEJLNHZDSEhCRTF1Y3hEWA?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
-        "id": "google-h2-india-s-green-hydrogen-push-gathers-pace-2026-07-29",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
-        "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
-        "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
-        "publishedAt": "2026-07-29T07:00:00.000Z",
-        "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -293,30 +247,6 @@
         "region": "india"
       },
       {
-        "id": "google-h2-gaining-momentum-green-hydrogen-emerges--2026-06-11",
-        "source": "google-h2",
-        "sourceName": "Green Hydrogen",
-        "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition - Renewable Watch",
-        "excerpt": "Spotlight Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition Advertisment by Renewable Watch by Renewable Watch 11 Jun 2026 14:43 IST Link copied! Copy failed! By Nidhi Dua Green hydrogen is emerging as a key pillar of India s transition towards a low-carbon economy, with the country increasingly focusing on building a domestic production and manufacturing ecosystem. Backed by India s rapidly expanding renewable energy capacity, the sector is witnessing growing momentum with developments across the entire value chain.…",
-        "url": "https://renewablewatch.in/2026/06/11/gaining-momentum-green-hydrogen-emerges-as-a-key-pillar-of-indias-energy-transition/",
-        "publishedAt": "2026-06-11T07:00:00.000Z",
-        "image": "https://img-cdn.publive.online/fit-in/1200x675/renewable-watch/media/media_files/wp-content/uploads/2026/06/36.jpg",
-        "country": "India",
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRGYzWjJVeXNkbzdpcE11TFBlUzVyUFN5SnV0eWRQRVdBeWdyY3plXzhtVlo0T0hReW4yTWV0V0N6YTJRMjlTZUVnQ3AtcjZLYzNrWmpsYnJZMlBJZWFCX08tYXVzZG5BRmxXak80YzJ3bFIxS1dmOERnTURUWmdfOHJXVXY2NUFMOWpkQ0l6Q1VrYlljdWtsRm9rZ1ZUYXMwbC16SlpqZVV1bEh4OHZUUUVIek94QVRCd0dFbXJn?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "india"
-      },
-      {
         "id": "google-india-operationalizing-india-s-carbon-market-a-2026-05-12",
         "source": "google-india",
         "sourceName": "India Climate Policy",
@@ -336,6 +266,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQdFhVSkpCTnJ3RWpUVGI4Qnp6aHBrUU5DT3F2Y2Z4M25SUk5hSE1yQXhxQnZKVkZtRW5FSE1EXzYxejctczNZeHBUd3FYVlp4QzE4ektSMUI2d21iaWhxQ2tuV2VSZkUzc2RIUnJxYVZOMGdabGhBSFp0LUtoS0FYdXJ1YnUyQ3Q3ZzluVmhLYUJKN2Eyb2hSVTF0aUt2SUhxRGd4T19lblVQRF9NMEI0ZE1HMERzZXpUVW9uMmRlSmxCNHJJbFU4UGNnVklERmJFNm1IWnlobnEwX0ptZzlXUTFpbjBYMV9zV09YMGJxbnltY0ItZXE2a3JuVUNtbXM5Q3dMSGVXREdsUncxUUhoYW5sRlFJLWRESHM4NUF5MVlCanJ5TU1PVlo0Sk9YVkNJRDRKd3p3SlNhdVJa?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-india-residential-training-programme-on-carbon-2026-04-24",
+        "source": "google-india",
+        "sourceName": "India Climate Policy",
+        "type": "esg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "Residential Training Programme on: Carbon Accounting, MRV and Trading - cseindia.org",
+        "excerpt": "About Us Who We Are Our Board Our Leadership Annual Reports Programmes Biodiversity and Food Overview My Food Story The Green Kitchen Clean Air and Sustainable Mobility Overview Air Quality and Public Health Public Transport and Mobility Vehicle Technology and Fuel City Action Training EPCA Climate Change and Green Economy Overview COPs COP31 COP30 COP29 COP28 UAE Negotiations Carbon Politics Adaptation Environment Monitoring Laboratory Environment Education Overview YOUNG Environmentalist GSP University Programme Green Educators' Network Renewable…",
+        "url": "https://www.cseindia.org/residential-training-programme-on-carbon-accounting-mrv-and-trading-13085",
+        "publishedAt": "2026-04-24T11:04:08.000Z",
+        "image": "https://cdn.cseindia.org/medium/2026-04-24/0.34649300_1777028381_mrv.jpg",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnNmZTEwd0xUakRpWVU5aVR5RExBTDc4SGlXaE9FWEZja3l4VXNtY2NCTEUxdGl3WHBmakcwVXY1eWlUTXQ2Mmk0X0F4dVZ1Szc1NEhMU3pweGRDcXVjLTZvNHI1QzM2UzF5Y3lSQWNfeFJMYVhZWVpWZ1JtX2xDYmZObjVxNXNiOG80QnQzVlhvREdJam9fbWs4QVZzcDA?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
@@ -435,17 +389,17 @@
         "region": "india"
       },
       {
-        "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
+        "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
         "source": "google-h2",
         "sourceName": "Green Hydrogen",
         "type": "esg",
-        "tag": "GREEN HYDROGEN",
-        "accent": "#5eead4",
-        "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-        "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
-        "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
-        "publishedAt": "2026-01-02T08:44:45.000Z",
-        "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
+        "tag": "INDIA",
+        "accent": "#fbbf24",
+        "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
+        "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
+        "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
+        "publishedAt": "2025-09-01T07:00:00.000Z",
+        "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
         "country": "India",
         "methodology": null,
         "registryId": null,
@@ -453,13 +407,81 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "india"
+      },
+      {
+        "id": "google-h2-financing-green-hydrogen-in-india-ceew-2024-06-18",
+        "source": "google-h2",
+        "sourceName": "Green Hydrogen",
+        "type": "esg",
+        "tag": "GREEN HYDROGEN",
+        "accent": "#5eead4",
+        "title": "Financing Green Hydrogen in India - CEEW",
+        "excerpt": "Suggested Citation: CFLI India and CEEW. 2024. Financing Green Hydrogen in India: Private Sector Considerations to Strengthen India’s Enabling Environment for a Competitive Green Hydrogen Economy. New Delhi: Council on Energy, Environment and Water (CEEW) This report presents actionable private sector considerations for Indian policymakers at both the national and state levels to strengthen the enabling environment for green hydrogen uptake in India while also catalysing investment into the industry. These considerations align with the MNRE's mission…",
+        "url": "https://www.ceew.in/publications/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing",
+        "publishedAt": "2024-06-18T07:56:44.000Z",
+        "image": "https://www.ceew.in/sites/default/files/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing.png",
+        "country": "India",
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRl9DX0pMc092cjI1eUdtOFNfLWpjVGZrbzZpaWt5ZlBRek1ieDFEZmJtQzRWcW1PNXJRVmRVUEZoc1lzZzlpclFiVGhSRjdkRS1KckpPdlh4U2ZmalpzR3dFRHo2VmxpZWdpYWlfdjA2cm9ReVZrcm1EZjNMb0dDZWRLZlpwLUJ3X0IyUG4zbE5vVzRUUkpCQXROZ3JoeWlhNlhVNTAxM0RoeTZ4VnFuOWdtN290dEE?oc=5",
           "imageSource": "publisher"
         },
         "region": "india"
       }
     ],
     "world": [
+      {
+        "id": "esg-today-planet-savers-raises-over-10-million-to--2026-11-24",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Planet Savers Raises Over $10 Million to Scale Direct Air Capture Carbon Removal Tech in Japan",
+        "excerpt": "Direct air capture (DAC) technology startup Planet Savers announced that it has raised over JPY1.6 billion (USD$10 million) in combined funding through a pre-Series A funding round and government grants, with proceeds to be used to at supporting the development and deployment of its DAC technology. Founded in 2023, as a University of Tokyo spinout, Planet Savers develops modular, all-electric DAC systems designed to remove CO₂ directly from the atmosphere. The company s technology uses proprietary zeolite-based adsorbents and a pressure-vacuum swing…",
+        "url": "https://www.esgtoday.com/planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan/?utm_source=rss utm_medium=rss utm_campaign=planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan",
+        "publishedAt": "2026-11-24T09:19:40.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Planet-Savers.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Environment",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
+      {
+        "id": "esg-today-snam-issues-1-25-billion-sustainability--2026-11-24",
+        "source": "esg-today",
+        "sourceName": "ESG Today",
+        "type": "esg",
+        "tag": "ESG",
+        "accent": "#60a5fa",
+        "title": "Snam Issues $1.25 Billion Sustainability-Linked Bonds Tied to Value Chain Decarbonization Goals",
+        "excerpt": "Italian energy infrastructure and services provider Snam announced that is has raised $1.25 billion a new USD-denominated sustainability linked bond (SLB) offering, with the cost of debt tied to the company’s greenhouse gas (GHG) emissions reduction targets across its value chain. The offering is Snam’s second SLB issuance under its 2025 Sustainable Finance Framework. Under the framework, the cost of servicing the debt of the bonds is linked to a series of emissions reduction targets, including reducing Scope 1 and 2 emissions by 40% by the end of 2030,…",
+        "url": "https://www.esgtoday.com/snam-issues-1-25-billion-sustainability-linked-bonds-tied-to-value-chain-decarbonization-goals/?utm_source=rss utm_medium=rss utm_campaign=snam-issues-1-25-billion-sustainability-linked-bonds-tied-to-value-chain-decarbonization-goals",
+        "publishedAt": "2026-11-24T08:03:55.000Z",
+        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Snam.jpg",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": "Companies",
+          "feed": "https://www.esgtoday.com/feed/"
+        },
+        "region": "world"
+      },
       {
         "id": "esg-dive-how-brooks-running-is-using-supplier-dat-2026-11-23",
         "source": "esg-dive",
@@ -877,28 +899,6 @@
         "meta": {
           "category": null,
           "feed": "https://www.esgdive.com/feeds/news/"
-        },
-        "region": "world"
-      },
-      {
-        "id": "esg-today-pulpex-raises-over-30-million-to-scale-p-2026-11-19",
-        "source": "esg-today",
-        "sourceName": "ESG Today",
-        "type": "esg",
-        "tag": "ESG",
-        "accent": "#60a5fa",
-        "title": "Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production",
-        "excerpt": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6 million from the UK s National Wealth Fund and £4.4 million (USD$5.8 million) from the Scottish National Investment Bank (SNIB), in addition to funding from existing investors, aimed at accelerating the company’s growth and the deployment of its technology to provide paper-based alternatives to conventional plastic and glass packaging. Launched in 2020, UK-based Pulpex was established as a collaboration between Pilot Lite and…",
-        "url": "https://www.esgtoday.com/pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology/?utm_source=rss utm_medium=rss utm_campaign=pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology",
-        "publishedAt": "2026-11-19T14:37:09.000Z",
-        "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Pulpex2.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": "Environment",
-          "feed": "https://www.esgtoday.com/feed/"
         },
         "region": "world"
       },
@@ -1332,30 +1332,6 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
-        "source": "google-carbon",
-        "sourceName": "Carbon Markets",
-        "type": "esg",
-        "tag": "CARBON MARKET",
-        "accent": "#a78bfa",
-        "title": "How to navigate all those certifications in the voluntary carbon market - Trellis Group",
-        "excerpt": "An unregulated field has become a crowded one. Read More Buyers in the voluntary carbon market often find it challenging to differentiate between higher- and lower-quality credits. One cause might be the range of organizations issuing carbon credits: According to a count released this week, at least 66 entities are currently doing so. The list includes well-established players that helped build the market, including Verra and Gold Standard, alongside notable new entries, such as Puro and Isometric, as well as a long tail of smaller and lesser-known…",
-        "url": "https://trellis.net/article/voluntary-carbon-market-certifications/",
-        "publishedAt": "2026-04-20T07:00:00.000Z",
-        "image": "https://trellis.net/wp-content/uploads/2026/04/shutterstock_2679203935.jpg",
-        "country": null,
-        "methodology": null,
-        "registryId": null,
-        "status": null,
-        "meta": {
-          "category": null,
-          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wZk82WFJ2V1Z6UDd1aEM5YXhGdkpGTmhOc1dnMGhmV2lsTVJ4QTdRbU9GN0pkVlRsXzNZdjU4MVFhVDRxbEpZWEFjekY3QnM3XzBxWDhhRWlLMmZvcGFyYjZTWHBSWk1KMkttSUxCRmdfdi1IWnc?oc=5",
-          "imageSource": "publisher"
-        },
-        "region": "world"
-      },
-      {
         "id": "google-carbon-verra-launches-priority-queue-pilot-to-s-2025-11-27",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
@@ -1379,17 +1355,17 @@
         "region": "world"
       },
       {
-        "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
+        "id": "google-carbon-beyond-price-rethinking-carbon-credit-va-2024-11-27",
         "source": "google-carbon",
         "sourceName": "Carbon Markets",
         "type": "esg",
         "tag": "CARBON MARKET",
         "accent": "#a78bfa",
-        "title": "Carbon markets are incomplete without nuclear - Utility Dive",
-        "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
-        "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
-        "publishedAt": "2025-09-23T07:00:00.000Z",
-        "image": null,
+        "title": "Beyond price: rethinking carbon credit value in the voluntary market - Lockton",
+        "excerpt": "Back Back Prices in voluntary carbon credit markets have declined broadly, but there is growing evidence of price differentiation based on quality attributes. This suggests the market is maturing in how it values carbon credits beyond traditional pricing. Voluntary carbon markets allow carbon emitters to offset their unavoidable emissions by purchasing carbon credits. These are generated by projects removing or reducing greenhouse gas (GHG) emissions from the atmosphere. The voluntary carbon credit market trades certified and transferrable instruments…",
+        "url": "https://global.lockton.com/news-insights/beyond-price-rethinking-carbon-credit-value-in-the-voluntary-market",
+        "publishedAt": "2024-11-27T08:00:00.000Z",
+        "image": "https://d2vppzocvtms05.cloudfront.net/media/0B4364C5-217D-4EFD-B9C36F1977EF6D20/CEAE51AE-8D32-420E-9AE3CF9B2779C87D/webimage-2BC26D0B-8591-4912-AD0175D1031B7F2F.png",
         "country": null,
         "methodology": null,
         "registryId": null,
@@ -1397,7 +1373,8 @@
         "meta": {
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-          "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUl4R2taazBndXh6OERQbm1mNzZ2NVB3UW5FRXlKT3ZJZGJ2TTRocXBkSXIzV2xJM19zR2NDWk54cnhQM1Q1d1ZHRThpelVsWm4yMFNhdzMxX05HSVNzaVNhOWx3cWZmRUZoYU9FTEEzRUt3WTBGLWJZbnVKcHJ0bXU0V0FBQjdUbzBnMlQ5WkU4WVpKYS1uM29BZ0l0eWVsT1RMYUdiZ0lreldf?oc=5",
+          "imageSource": "publisher"
         },
         "region": "world"
       },
@@ -1421,6 +1398,30 @@
           "category": null,
           "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
           "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWI5djJSVFhjMkpFN3FQcTkxWFh3WVAwNm5UN1d1eFFkVmFGN2ZJWUNsZ3FwYkFRUFNQQXpEazg3OG54OWZUQndYdVlPUDJDaDRhUTZfTnNRODA2aWV6bzZ6dW9vWW1BRm04ei02RnlzcVk2d21HQ3NjZWxXczZTN1ZKRS1KT1ZDTmZ1T1NpVUd5X2lwcFhBb3pkOXNvUQ?oc=5",
+          "imageSource": "publisher"
+        },
+        "region": "world"
+      },
+      {
+        "id": "google-carbon-carbon-crediting-bodies-explained-trelli-2023-08-14",
+        "source": "google-carbon",
+        "sourceName": "Carbon Markets",
+        "type": "esg",
+        "tag": "CARBON MARKET",
+        "accent": "#a78bfa",
+        "title": "Carbon crediting bodies explained - Trellis Group",
+        "excerpt": "Confused about who is part of shoring up the voluntary carbon market? Us too. Read More Mapping the carbon crediting bodies. Image via Shutterstock/ ProStockStudio . The voluntary carbon market is vast and confusing. Every week it feels like there is a new methodology coming out to verify a different version of a carbon offset project or the birth of an organization promising to overhaul the credibility of the market. As a corporation looking to fund carbon removal investment or avoidance of emissions, it can feel overwhelming to know what is…",
+        "url": "https://trellis.net/article/carbon-crediting-bodies-explained/",
+        "publishedAt": "2023-08-14T07:00:00.000Z",
+        "image": "https://trellis.net/wp-content/uploads/2024/07/Carbon-Mapping.png",
+        "country": null,
+        "methodology": null,
+        "registryId": null,
+        "status": null,
+        "meta": {
+          "category": null,
+          "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+          "googleNewsUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qajNROElHblFlSnFNV2tMNkgwQzZOVTBqWmIwdXZLQUxrbUtVQzR1V0JGd2twb3ZUdTBmR2IzUG1teVVSRllySHZhaDhzUUM0a1dQZm5XWXFhdEttOFYyUWhVbllobEFpVXpQU3NrUQ?oc=5",
           "imageSource": "publisher"
         },
         "region": "world"
@@ -1476,6 +1477,50 @@
     ]
   },
   "articles": [
+    {
+      "id": "esg-today-planet-savers-raises-over-10-million-to--2026-11-24",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Planet Savers Raises Over $10 Million to Scale Direct Air Capture Carbon Removal Tech in Japan",
+      "excerpt": "Direct air capture (DAC) technology startup Planet Savers announced that it has raised over JPY1.6 billion (USD$10 million) in combined funding through a pre-Series A funding round and government grants, with proceeds to be used to at supporting the development and deployment of its DAC technology. Founded in 2023, as a University of Tokyo spinout, Planet Savers develops modular, all-electric DAC systems designed to remove CO₂ directly from the atmosphere. The company s technology uses proprietary zeolite-based adsorbents and a pressure-vacuum swing…",
+      "url": "https://www.esgtoday.com/planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan/?utm_source=rss utm_medium=rss utm_campaign=planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan",
+      "publishedAt": "2026-11-24T09:19:40.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Planet-Savers.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Environment",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
+    {
+      "id": "esg-today-snam-issues-1-25-billion-sustainability--2026-11-24",
+      "source": "esg-today",
+      "sourceName": "ESG Today",
+      "type": "esg",
+      "tag": "ESG",
+      "accent": "#60a5fa",
+      "title": "Snam Issues $1.25 Billion Sustainability-Linked Bonds Tied to Value Chain Decarbonization Goals",
+      "excerpt": "Italian energy infrastructure and services provider Snam announced that is has raised $1.25 billion a new USD-denominated sustainability linked bond (SLB) offering, with the cost of debt tied to the company’s greenhouse gas (GHG) emissions reduction targets across its value chain. The offering is Snam’s second SLB issuance under its 2025 Sustainable Finance Framework. Under the framework, the cost of servicing the debt of the bonds is linked to a series of emissions reduction targets, including reducing Scope 1 and 2 emissions by 40% by the end of 2030,…",
+      "url": "https://www.esgtoday.com/snam-issues-1-25-billion-sustainability-linked-bonds-tied-to-value-chain-decarbonization-goals/?utm_source=rss utm_medium=rss utm_campaign=snam-issues-1-25-billion-sustainability-linked-bonds-tied-to-value-chain-decarbonization-goals",
+      "publishedAt": "2026-11-24T08:03:55.000Z",
+      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Snam.jpg",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": "Companies",
+        "feed": "https://www.esgtoday.com/feed/"
+      },
+      "region": "world"
+    },
     {
       "id": "esg-dive-how-brooks-running-is-using-supplier-dat-2026-11-23",
       "source": "esg-dive",
@@ -1893,50 +1938,6 @@
       "meta": {
         "category": null,
         "feed": "https://www.esgdive.com/feeds/news/"
-      },
-      "region": "world"
-    },
-    {
-      "id": "esg-today-kkr-acquires-stake-in-gentari-s-india-re-2026-11-19",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "KKR Acquires Stake in Gentari’s India Renewable Energy Platform",
-      "excerpt": "Alternative asset manager KKR announced on Thursday the acquisition of a minority stake in Gentari Renewables India, the Indian renewable energy subsidiary of clean energy solutions provider Gentari. Gentari was launched in 2022 by Malaysian integrated oil and gas company Petronas to target clean energy solutions across renewable energy, hydrogen and green mobility. The company develops and operates solar, wind and battery energy storage projects, alongside initiatives focused on clean hydrogen production and electric vehicle charging infrastructure.…",
-      "url": "https://www.esgtoday.com/kkr-acquires-stake-in-gentaris-india-renewable-energy-platform/?utm_source=rss utm_medium=rss utm_campaign=kkr-acquires-stake-in-gentaris-india-renewable-energy-platform",
-      "publishedAt": "2026-11-19T15:43:23.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/KKR.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Energy Transition",
-        "feed": "https://www.esgtoday.com/feed/"
-      },
-      "region": "india"
-    },
-    {
-      "id": "esg-today-pulpex-raises-over-30-million-to-scale-p-2026-11-19",
-      "source": "esg-today",
-      "sourceName": "ESG Today",
-      "type": "esg",
-      "tag": "ESG",
-      "accent": "#60a5fa",
-      "title": "Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production",
-      "excerpt": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6 million from the UK s National Wealth Fund and £4.4 million (USD$5.8 million) from the Scottish National Investment Bank (SNIB), in addition to funding from existing investors, aimed at accelerating the company’s growth and the deployment of its technology to provide paper-based alternatives to conventional plastic and glass packaging. Launched in 2020, UK-based Pulpex was established as a collaboration between Pilot Lite and…",
-      "url": "https://www.esgtoday.com/pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology/?utm_source=rss utm_medium=rss utm_campaign=pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology",
-      "publishedAt": "2026-11-19T14:37:09.000Z",
-      "image": "https://www.esgtoday.com/wp-content/uploads/2026/11/Pulpex2.jpg",
-      "country": null,
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": "Environment",
-        "feed": "https://www.esgtoday.com/feed/"
       },
       "region": "world"
     },
@@ -2370,30 +2371,6 @@
       "region": "india"
     },
     {
-      "id": "google-india-india-s-carbon-trading-system-nears-its--2026-09-03",
-      "source": "google-india",
-      "sourceName": "India Climate Policy",
-      "type": "esg",
-      "tag": "INDIA",
-      "accent": "#fbbf24",
-      "title": "India’s carbon trading system nears its first real market test - climate.economictimes.indiatimes.com",
-      "excerpt": "India’s carbon credit trading system is approaching its first compliance trade, expected on power exchanges around October. The scheme covers about 740 entities across nine industrial sectors and could reshape how Indian companies price emissions, plan capex and manage compliance risk. Alongside the mandatory market, a voluntary offset mechanism is also taking shape, but analysts warn that price stability and robust market design will be crucial for credibility.",
-      "url": "https://climate.economictimes.indiatimes.com/news/clean-energy-decarbonization/indias-carbon-trading-system-nears-its-first-real-market-test/133711244",
-      "publishedAt": "2026-09-03T07:00:00.000Z",
-      "image": "https://etimg.etb2bimg.com/thumb/msid-133711244,imgsize-135686,width-1200,height=627,overlay-etclimate,resizemode-75/news/clean-energy-decarbonization/indias-carbon-trading-system-nears-its-first-real-market-test.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZGdNVUJ2dGMyQkdrSWZtbWJ5ZlB2U1duanRCNXpSM2RnNktISGZ6MWVVZEt0QnVraXFEQU5ZWnJqTERUYkJDb1ltTFFtbUxaQUJoZmQ0dEsyaGxtRWUzSUt4RG1kVm5wVHBXUm1DZ0FPcHQ3QkJzZHdGdTNpZTdHQ0J4RDVBRUpEQ2hMSVA5UG9pbktTM0k4TlU3M3c1Mzh0V0RtSG5hT2t1TlNYUHc5amRBN3JHazJPaEoyNHo4TnphclpYaG5CMy00X2g5M0tGeXJMSUtDRngzZ2szbkJrS1dqcHI?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-carbon-verra-wins-icvcm-approval-for-vcs-versio-2026-09-03",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2416,6 +2393,30 @@
         "imageSource": "publisher"
       },
       "region": "world"
+    },
+    {
+      "id": "google-h2-catalysing-demand-suggestions-to-scale-u-2026-08-27",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Catalysing Demand: Suggestions to scale up green hydrogen in India - Renewable Watch",
+      "excerpt": "Expert Take Catalysing Demand: Suggestions to scale up green hydrogen in India Advertisment by Renewable Watch by Renewable Watch 27 Aug 2026 14:27 IST Updated 01 Oct 2026 02:29 IST Link copied! Copy failed! By Subhrajit Datta Ray, Partner Energy Transition and Decarbonisation, PwC India India has set two key milestones on energy security and transition: achieving energy independence by 2047 as part of the Viksit Bharat agenda, and reaching net zero emissions by 2070. To achieve these ambitions, India needs to continue its rapid expansion of renewable…",
+      "url": "https://renewablewatch.in/2026/08/27/catalysing-demand-suggestions-to-scale-up-green-hydrogen-in-india/",
+      "publishedAt": "2026-08-27T07:00:00.000Z",
+      "image": "https://img-cdn.publive.online/fit-in/1200x675/renewable-watch/media/media_files/2026/10/30/subhrajit-datta-ray1-2026-10-30-14-12-56.jpg",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjFfUFhWaFFzZnd1TnFweGpXS3Q3RUtqMHVscnAwdkZLcjQxYUktUVk5OTlYTlNlQ0ZWY0dJY1hEVTVTZVlUQ1RhMTZKeGJkdHFYbVZuaU91cFQwMnhIbEdJdXpiOWdteVlLdEJGOV9sNUtmU3NrZXNVb2tyU3Y5UnpxZmRhRjg1Q0U1LXRBRnRIWl9JWGJpZ1VoMW5WcXJtWW4wVGZR?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
     },
     {
       "id": "google-carbon-verra-and-gold-standard-unveil-new-digit-2026-08-25",
@@ -2461,30 +2462,6 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFlRczlOUHRvTnNOVnl1V3AtRlJHVm1xLUpqb2MxTXJQRzdFUF9Kdmw0M3ZVTHJRcURGaXNjMWRuV0NEQWNjNkFrT3dBWm5VbFRJcnM4ZW5FeUJKTUdYeG9jUVU4OXFJQWVBR3JrVGhMcTk3LUZSdUxJLUlhbkZiTmtGYjZIaTI0aDI1a0MwTTJ3VF9sbGlqQXZMa05VTFhDSVJLUkNkaXc1X3pLVmxYQUtuWUh0MzgteFZsakZfVDB4RVnSAdABQVVfeXFMUE90eUNTTWg2QXJ4ZVFMUzI5cGxJVmNwc3dBdjNJMF9QTG1OVjNRNUFkLTdYdHNPMGtPY1V3Y05Qa1JPWmZCMGJMdjJ5V0psYjN6azBLSWhmNTJ2dEN6Q2s4d2E0b3ZHLUIzNXNOQ1NmQkFnSGxqNERCZy1mRGxVbzZnek44TWlpX01OLWlhdXZYdURLWU5abXFsakkyNlR1RC1UdFNZV1lOa1MyVDBQeXZMN2M5eUdlbmQ3ZU9lU0t4SEJLNHZDSEhCRTF1Y3hEWA?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
-      "id": "google-h2-india-s-green-hydrogen-push-gathers-pace-2026-07-29",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "India’s green hydrogen push gathers pace - BioEnergy Times",
-      "excerpt": "India s green hydrogen sector is showing signs of gaining momentum, driven by government incentives, competitive project auctions and rising investor interest. However, industry experts believe the country is unlikely to achieve its target of producing 5 million tonnes per annum (MTPA) of green hydrogen by 2030 unless project execution accelerates significantly. India currently has less than 10,000 tonnes per annum of operational green hydrogen capacity, with most projects still at the pilot or demonstration stage. The government launched the National…",
-      "url": "https://bioenergytimes.com/indias-green-hydrogen-push-gathers-pace/",
-      "publishedAt": "2026-07-29T07:00:00.000Z",
-      "image": "https://bioenergytimes.com/wp-content/uploads/2024/03/green-hydrogen-bioenergy.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUGNpTWttS3dKaU80RFNRNkFGOVVDcFVZeEQxeFVOUFpKVE1sU3paZUVJZ3dmanNHV2pvZnFhSlVwSFRMWXJONm9TX1M5NkNWdzdGNWRFVlZxUlNxUjVtZUhTTUdKM2dwZXpMeS1jcExjLUVZa3c?oc=5",
         "imageSource": "publisher"
       },
       "region": "india"
@@ -2585,30 +2562,6 @@
       "region": "india"
     },
     {
-      "id": "google-h2-gaining-momentum-green-hydrogen-emerges--2026-06-11",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition - Renewable Watch",
-      "excerpt": "Spotlight Gaining Momentum: Green hydrogen emerges as a key pillar of India’s energy transition Advertisment by Renewable Watch by Renewable Watch 11 Jun 2026 14:43 IST Link copied! Copy failed! By Nidhi Dua Green hydrogen is emerging as a key pillar of India s transition towards a low-carbon economy, with the country increasingly focusing on building a domestic production and manufacturing ecosystem. Backed by India s rapidly expanding renewable energy capacity, the sector is witnessing growing momentum with developments across the entire value chain.…",
-      "url": "https://renewablewatch.in/2026/06/11/gaining-momentum-green-hydrogen-emerges-as-a-key-pillar-of-indias-energy-transition/",
-      "publishedAt": "2026-06-11T07:00:00.000Z",
-      "image": "https://img-cdn.publive.online/fit-in/1200x675/renewable-watch/media/media_files/wp-content/uploads/2026/06/36.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRGYzWjJVeXNkbzdpcE11TFBlUzVyUFN5SnV0eWRQRVdBeWdyY3plXzhtVlo0T0hReW4yTWV0V0N6YTJRMjlTZUVnQ3AtcjZLYzNrWmpsYnJZMlBJZWFCX08tYXVzZG5BRmxXak80YzJ3bFIxS1dmOERnTURUWmdfOHJXVXY2NUFMOWpkQ0l6Q1VrYlljdWtsRm9rZ1ZUYXMwbC16SlpqZVV1bEh4OHZUUUVIek94QVRCd0dFbXJn?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-india-operationalizing-india-s-carbon-market-a-2026-05-12",
       "source": "google-india",
       "sourceName": "India Climate Policy",
@@ -2633,28 +2586,28 @@
       "region": "india"
     },
     {
-      "id": "google-carbon-how-to-navigate-all-those-certifications-2026-04-20",
-      "source": "google-carbon",
-      "sourceName": "Carbon Markets",
+      "id": "google-india-residential-training-programme-on-carbon-2026-04-24",
+      "source": "google-india",
+      "sourceName": "India Climate Policy",
       "type": "esg",
-      "tag": "CARBON MARKET",
-      "accent": "#a78bfa",
-      "title": "How to navigate all those certifications in the voluntary carbon market - Trellis Group",
-      "excerpt": "An unregulated field has become a crowded one. Read More Buyers in the voluntary carbon market often find it challenging to differentiate between higher- and lower-quality credits. One cause might be the range of organizations issuing carbon credits: According to a count released this week, at least 66 entities are currently doing so. The list includes well-established players that helped build the market, including Verra and Gold Standard, alongside notable new entries, such as Puro and Isometric, as well as a long tail of smaller and lesser-known…",
-      "url": "https://trellis.net/article/voluntary-carbon-market-certifications/",
-      "publishedAt": "2026-04-20T07:00:00.000Z",
-      "image": "https://trellis.net/wp-content/uploads/2026/04/shutterstock_2679203935.jpg",
-      "country": null,
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "Residential Training Programme on: Carbon Accounting, MRV and Trading - cseindia.org",
+      "excerpt": "About Us Who We Are Our Board Our Leadership Annual Reports Programmes Biodiversity and Food Overview My Food Story The Green Kitchen Clean Air and Sustainable Mobility Overview Air Quality and Public Health Public Transport and Mobility Vehicle Technology and Fuel City Action Training EPCA Climate Change and Green Economy Overview COPs COP31 COP30 COP29 COP28 UAE Negotiations Carbon Politics Adaptation Environment Monitoring Laboratory Environment Education Overview YOUNG Environmentalist GSP University Programme Green Educators' Network Renewable…",
+      "url": "https://www.cseindia.org/residential-training-programme-on-carbon-accounting-mrv-and-trading-13085",
+      "publishedAt": "2026-04-24T11:04:08.000Z",
+      "image": "https://cdn.cseindia.org/medium/2026-04-24/0.34649300_1777028381_mrv.jpg",
+      "country": "India",
       "methodology": null,
       "registryId": null,
       "status": null,
       "meta": {
         "category": null,
-        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wZk82WFJ2V1Z6UDd1aEM5YXhGdkpGTmhOc1dnMGhmV2lsTVJ4QTdRbU9GN0pkVlRsXzNZdjU4MVFhVDRxbEpZWEFjekY3QnM3XzBxWDhhRWlLMmZvcGFyYjZTWHBSWk1KMkttSUxCRmdfdi1IWnc?oc=5",
+        "feed": "https://news.google.com/rss/search?q=India+carbon+credits+climate+policy&hl=en-IN&gl=IN&ceid=IN:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnNmZTEwd0xUakRpWVU5aVR5RExBTDc4SGlXaE9FWEZja3l4VXNtY2NCTEUxdGl3WHBmakcwVXY1eWlUTXQ2Mmk0X0F4dVZ1Szc1NEhMU3pweGRDcXVjLTZvNHI1QzM2UzF5Y3lSQWNfeFJMYVhZWVpWZ1JtX2xDYmZObjVxNXNiOG80QnQzVlhvREdJam9fbWs4QVZzcDA?oc=5",
         "imageSource": "publisher"
       },
-      "region": "world"
+      "region": "india"
     },
     {
       "id": "google-india-cbam-trends-in-indian-industries-ey-2026-04-03",
@@ -2751,30 +2704,6 @@
       "region": "india"
     },
     {
-      "id": "google-h2-india-s-green-hydrogen-policy-wrap-2025--2026-01-02",
-      "source": "google-h2",
-      "sourceName": "Green Hydrogen",
-      "type": "esg",
-      "tag": "GREEN HYDROGEN",
-      "accent": "#5eead4",
-      "title": "India’s green hydrogen policy wrap 2025 - Power Peak Digest",
-      "excerpt": "India’s green hydrogen sector has transitioned from a nascent vision to a landscape dotted with concrete policy frameworks, ambitious pilot projects, and strategic international positioning. The year 2025 has been pivotal in establishing the operational, financial, and regulatory architecture necessary to transform the National Green Hydrogen Mission (NGHM) from a statement of intent into a tangible industrial reality. From the launch of a rigorous certification scheme to the activation of pilot mobility projects and the designation of strategic hubs,…",
-      "url": "https://powerpeakdigest.com/indias-green-hydrogen-policy-wrap-2025/",
-      "publishedAt": "2026-01-02T08:44:45.000Z",
-      "image": "https://powerpeakdigest.com/wp-content/uploads/2025/10/modern-hydrogen-tank-renewable-energy-1120x630.jpg",
-      "country": "India",
-      "methodology": null,
-      "registryId": null,
-      "status": null,
-      "meta": {
-        "category": null,
-        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CV2ZlUjRWOHdoNzhwTzY2LXdVNGhBMWtLNjB4c0J0ZVdSdjZxQk40dU5ETWc2YmJpaG5CWVAyVndGZ3ktSXRvVld2LWd3bjVqX2NQaWlTY083VHlXWkEwQzdvd0QyTDRzeXRmTTRPZ1FhOVN0aGc?oc=5",
-        "imageSource": "publisher"
-      },
-      "region": "india"
-    },
-    {
       "id": "google-carbon-verra-launches-priority-queue-pilot-to-s-2025-11-27",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
@@ -2798,17 +2727,41 @@
       "region": "world"
     },
     {
-      "id": "google-carbon-carbon-markets-are-incomplete-without-nu-2025-09-23",
+      "id": "google-h2-india-and-japan-ink-pact-to-launch-clean-2025-09-01",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "INDIA",
+      "accent": "#fbbf24",
+      "title": "India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets - Fuel Cells Works",
+      "excerpt": "| svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover hidden md:flex bg-primary rounded font-medium text-white\" type=\"button\" aria-label=\"Login\">Login Hydrogen EV Investors Research Knowledge Contact Clean Hydrogen India and Japan Ink Pact to Launch Clean Hydrogen–Ammonia Corridor with 2030 Targets",
+      "url": "https://fuelcellsworks.com/2025/09/01/clean-hydrogen/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets",
+      "publishedAt": "2025-09-01T07:00:00.000Z",
+      "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/india-and-japan-ink-pact-to-launch-clean-hydrogen-ammonia-corridor-with-2030-targets-2025-09-01T09%3A10%3A14-05%3A00-image.webp",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpOMlZEWEF4QnRoOEstdUQxa1c1cEFLMFBpSk1sbHhZOU1RODlLUm1uYlUzTEJBUVZTZHlfNVU1bmlUYXJuakZaWmtJRG85a3pvUGFRNHhwVElWaVJSVGF4YWJiQ2VkSVhZWW1MNHo5S0N1Z2haaEhxU3EtZHc0RDNoTjRoai1hQ2VLMlZ6Y0pqS0tzTnEwWU45ZUZYSUJUNkUyVVFqdWdaNXhlOEJ0cGR1Y0xKNzNGT2tabUpEUEJqbVZHaDJDVkp1NEhTTHFIbndB?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-carbon-beyond-price-rethinking-carbon-credit-va-2024-11-27",
       "source": "google-carbon",
       "sourceName": "Carbon Markets",
       "type": "esg",
       "tag": "CARBON MARKET",
       "accent": "#a78bfa",
-      "title": "Carbon markets are incomplete without nuclear - Utility Dive",
-      "excerpt": "Carbon markets are incomplete without nuclear Utility Dive",
-      "url": "https://www.utilitydive.com/news/carbon-markets-nuclear-power/759559/",
-      "publishedAt": "2025-09-23T07:00:00.000Z",
-      "image": null,
+      "title": "Beyond price: rethinking carbon credit value in the voluntary market - Lockton",
+      "excerpt": "Back Back Prices in voluntary carbon credit markets have declined broadly, but there is growing evidence of price differentiation based on quality attributes. This suggests the market is maturing in how it values carbon credits beyond traditional pricing. Voluntary carbon markets allow carbon emitters to offset their unavoidable emissions by purchasing carbon credits. These are generated by projects removing or reducing greenhouse gas (GHG) emissions from the atmosphere. The voluntary carbon credit market trades certified and transferrable instruments…",
+      "url": "https://global.lockton.com/news-insights/beyond-price-rethinking-carbon-credit-value-in-the-voluntary-market",
+      "publishedAt": "2024-11-27T08:00:00.000Z",
+      "image": "https://d2vppzocvtms05.cloudfront.net/media/0B4364C5-217D-4EFD-B9C36F1977EF6D20/CEAE51AE-8D32-420E-9AE3CF9B2779C87D/webimage-2BC26D0B-8591-4912-AD0175D1031B7F2F.png",
       "country": null,
       "methodology": null,
       "registryId": null,
@@ -2816,7 +2769,8 @@
       "meta": {
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
-        "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWIzX2xqc3d1V183ODhNNFJPS3dBaU9WNnRaSTB1el80RTAtMHVpOWVQRTRtOVQxSU1McHVHX1lHcTlENDIxUVFUVzB5UnFQYmwxWmxnMG1JM2gtQVVtcUZPQS1xVjVtS2RTYng3QTRCVXhmRnRHLQ?oc=5"
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUl4R2taazBndXh6OERQbm1mNzZ2NVB3UW5FRXlKT3ZJZGJ2TTRocXBkSXIzV2xJM19zR2NDWk54cnhQM1Q1d1ZHRThpelVsWm4yMFNhdzMxX05HSVNzaVNhOWx3cWZmRUZoYU9FTEEzRUt3WTBGLWJZbnVKcHJ0bXU0V0FBQjdUbzBnMlQ5WkU4WVpKYS1uM29BZ0l0eWVsT1RMYUdiZ0lreldf?oc=5",
+        "imageSource": "publisher"
       },
       "region": "world"
     },
@@ -2840,6 +2794,54 @@
         "category": null,
         "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
         "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWI5djJSVFhjMkpFN3FQcTkxWFh3WVAwNm5UN1d1eFFkVmFGN2ZJWUNsZ3FwYkFRUFNQQXpEazg3OG54OWZUQndYdVlPUDJDaDRhUTZfTnNRODA2aWV6bzZ6dW9vWW1BRm04ei02RnlzcVk2d21HQ3NjZWxXczZTN1ZKRS1KT1ZDTmZ1T1NpVUd5X2lwcFhBb3pkOXNvUQ?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "world"
+    },
+    {
+      "id": "google-h2-financing-green-hydrogen-in-india-ceew-2024-06-18",
+      "source": "google-h2",
+      "sourceName": "Green Hydrogen",
+      "type": "esg",
+      "tag": "GREEN HYDROGEN",
+      "accent": "#5eead4",
+      "title": "Financing Green Hydrogen in India - CEEW",
+      "excerpt": "Suggested Citation: CFLI India and CEEW. 2024. Financing Green Hydrogen in India: Private Sector Considerations to Strengthen India’s Enabling Environment for a Competitive Green Hydrogen Economy. New Delhi: Council on Energy, Environment and Water (CEEW) This report presents actionable private sector considerations for Indian policymakers at both the national and state levels to strengthen the enabling environment for green hydrogen uptake in India while also catalysing investment into the industry. These considerations align with the MNRE's mission…",
+      "url": "https://www.ceew.in/publications/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing",
+      "publishedAt": "2024-06-18T07:56:44.000Z",
+      "image": "https://www.ceew.in/sites/default/files/how-can-indian-policymakers-boost-investments-for-domestic-green-hydrogen-financing.png",
+      "country": "India",
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=green+hydrogen+carbon+credits+NGHM&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRl9DX0pMc092cjI1eUdtOFNfLWpjVGZrbzZpaWt5ZlBRek1ieDFEZmJtQzRWcW1PNXJRVmRVUEZoc1lzZzlpclFiVGhSRjdkRS1KckpPdlh4U2ZmalpzR3dFRHo2VmxpZWdpYWlfdjA2cm9ReVZrcm1EZjNMb0dDZWRLZlpwLUJ3X0IyUG4zbE5vVzRUUkpCQXROZ3JoeWlhNlhVNTAxM0RoeTZ4VnFuOWdtN290dEE?oc=5",
+        "imageSource": "publisher"
+      },
+      "region": "india"
+    },
+    {
+      "id": "google-carbon-carbon-crediting-bodies-explained-trelli-2023-08-14",
+      "source": "google-carbon",
+      "sourceName": "Carbon Markets",
+      "type": "esg",
+      "tag": "CARBON MARKET",
+      "accent": "#a78bfa",
+      "title": "Carbon crediting bodies explained - Trellis Group",
+      "excerpt": "Confused about who is part of shoring up the voluntary carbon market? Us too. Read More Mapping the carbon crediting bodies. Image via Shutterstock/ ProStockStudio . The voluntary carbon market is vast and confusing. Every week it feels like there is a new methodology coming out to verify a different version of a carbon offset project or the birth of an organization promising to overhaul the credibility of the market. As a corporation looking to fund carbon removal investment or avoidance of emissions, it can feel overwhelming to know what is…",
+      "url": "https://trellis.net/article/carbon-crediting-bodies-explained/",
+      "publishedAt": "2023-08-14T07:00:00.000Z",
+      "image": "https://trellis.net/wp-content/uploads/2024/07/Carbon-Mapping.png",
+      "country": null,
+      "methodology": null,
+      "registryId": null,
+      "status": null,
+      "meta": {
+        "category": null,
+        "feed": "https://news.google.com/rss/search?q=voluntary+carbon+credits+Verra+Gold+Standard&hl=en&gl=US&ceid=US:en",
+        "googleNewsUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qajNROElHblFlSnFNV2tMNkgwQzZOVTBqWmIwdXZLQUxrbUtVQzR1V0JGd2twb3ZUdTBmR2IzUG1teVVSRllySHZhaDhzUUM0a1dQZm5XWXFhdEttOFYyUWhVbllobEFpVXpQU3NrUQ?oc=5",
         "imageSource": "publisher"
       },
       "region": "world"
